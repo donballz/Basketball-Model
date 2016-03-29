@@ -1,6 +1,7 @@
 use bball;
-create table active_teams as
+#drop table NBA_ACTIVE_TEAMS;
+create table NBA_ACTIVE_TEAMS as
 select *
-from teams
+from nba_teams
 where defunct = 'N'
 ;

@@ -10,9 +10,9 @@ require 'mysql'
 
 path = '/Users/donald/Documents/Basketball Model/'
 
-#team_raw = URI.parse('http://www.basketball-reference.com/teams/').read
+team_raw = URI.parse('http://www.basketball-reference.com/teams/').read
 #File.open(path + "team_raw.txt", 'w') { |f| f.write team_raw.to_yaml }
-team_raw = YAML.load_file(path + "team_raw.txt")
+#team_raw = YAML.load_file(path + "team_raw.txt")
 
 def mask(num)
 	return -1 if num == nil
@@ -78,7 +78,7 @@ begin
     con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
 	
 	con.query("USE bball;")
-	con.query("CREATE TABLE IF NOT EXISTS TEAMS ( \
+	con.query("CREATE TABLE IF NOT EXISTS NBA_TEAMS ( \
 				ABBREV VARCHAR(3) PRIMARY KEY, \
 				CITY VARCHAR(50), \
 				MASCOT VARCHAR(50), \
