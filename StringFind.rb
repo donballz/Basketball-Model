@@ -5,5 +5,9 @@ class String
 		return -1 if found == nil
 		return found + instr.length()
 	end
+	
+	def each
+    	self.split("").each { |i| yield i }
+  	end
 
 end
