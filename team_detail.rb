@@ -32,6 +32,9 @@ end
 def get_data(str, start, limit)
 	# build array of arrays with data values
 	row_starts = get_start_pos(str, '<tr  class="">', start, limit)
+	if row_starts.length == 1
+		row_starts = get_start_pos(str, '<tr  class="full_table"', start, limit)
+	end
 	mydata = []
 	for i in 0..row_starts.length-2
 		row = []
@@ -69,6 +72,7 @@ def get_tables(str, starts)
 			pos = str.find('<th data-stat="', end_pos)
 			end_pos = str.index('"', pos)
 			table['cols'].push(str[pos...end_pos]) unless pos == -1 or pos > starts[i + 1]
+			#table['cols'].pop() if table['cols'][-1] == nil
 		end
 		table['data'] = get_data(str, starts[i], starts[i + 1])
 		table['type'] = []
@@ -94,7 +98,6 @@ def parse_team_data(team, year)
 	# master function to call the others
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 	page_raw = URI.parse("#{global['site']}#{team}/#{year}.html").read
-	#table_starts = get_table_starts(page_raw)
 	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
 	tables = get_tables(page_raw, table_starts)
 	File.open(File.join(global['yaml'], "#{team}_#{year}.yml"), 'w') do |f| 
