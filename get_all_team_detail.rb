@@ -72,7 +72,7 @@ def run_all_data(con)
 	con.query("USE bball")
 	rows = con.query("SELECT ABBREV, YEAR_FROM, YEAR_TO FROM NBA_ACTIVE_TEAMS")
 	rows.each_hash do |row|
-		unless ['ATL','BOS','CHI','CHO'].include?(row['ABBREV'])
+		if row['ABBREV'] > 'OKC'
 		i = row['YEAR_TO'].to_i
 		while i >= row['YEAR_FROM'].to_i and i >= 2001
 			tables = parse_team_data(row['ABBREV'], i)
