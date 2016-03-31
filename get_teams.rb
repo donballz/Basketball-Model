@@ -8,7 +8,7 @@ require 'open-uri'
 require 'yaml'
 require 'mysql'
 
-path = '/Users/donald/Documents/Basketball Model/'
+path = '/Users/donald/Documents/Basketball Model/Basketball-Model'
 
 team_raw = URI.parse('http://www.basketball-reference.com/teams/').read
 #File.open(path + "team_raw.txt", 'w') { |f| f.write team_raw.to_yaml }
@@ -99,7 +99,7 @@ begin
 			build_str = ''
 			t['data'].each { |num| build_str += ", #{num}" }
 			#puts "('#{t['abbrev']}', '#{t['city']}', '#{t['mascot']}'#{build_str})"
-			con.query("INSERT INTO TEAMS VALUES \
+			con.query("INSERT INTO NBA_TEAMS VALUES \
 				('#{t['abbrev']}', '#{t['city']}', '#{t['mascot']}', '#{t['defunct']}'#{build_str})")
 		end
     end
