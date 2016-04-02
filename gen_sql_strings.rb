@@ -12,7 +12,7 @@ def build_create_table_str(table)
 	end
 	return str[0...-1] + ")"
 end
-
+"
 path = '/Users/donald/Google Drive/Basketball Model/Basketball-Model/yaml_files/'
 tables = YAML.load_file(File.join(path, 'atl_2015.yml'))
 tables.each do |t| 
@@ -21,3 +21,4 @@ tables.each do |t|
 		puts ""
 	end
 end
+"

@@ -8,6 +8,7 @@ require_relative 'StringFind.rb'
 # Need to alter main file and merge this logic in for go-forward
 # ^ Subsequent years will need to be scraped. 
 # ^ Long term goal
+# Need to add name. Join on number inadequate. Good to know.
 
 # Start scoping out additional tables to scrape.
 #################################################################
@@ -57,7 +58,8 @@ def get_data(str, start, limit)
 			end_pos = str.index('</td>', pos)
 			unless h_pos == -1 or h_pos > row_starts[i + 1]
 				# Custom exceptions for Roster table on column count
-				row.push(str[pos...end_pos].to_i) if col_cnt == 0 
+				row.push(str[pos...end_pos].to_i) if col_cnt == 0
+				row.push(clean_string(str[pos...end_pos])) if col_cnt == 1 
 				row.push(str[h_pos, 4].to_f) if col_cnt == 3
 			end
 			col_cnt += 1
@@ -82,8 +84,9 @@ def get_tables(str, starts)
 				pos = str.find('<th data-stat="', end_pos)
 				end_pos = str.index('"', pos)
 				# Only get columns height and number
-				table['cols'].push(str[pos...end_pos]) if ['height','number'].include?(str[pos...end_pos])
-				#table['cols'].pop() if table['cols'][-1] == nil
+				if ['height','number','player'].include?(str[pos...end_pos])
+					table['cols'].push(str[pos...end_pos]) 
+				end
 			end
 			table['data'] = get_data(str, starts[i], starts[i + 1])
 			tables.push(table)
@@ -106,8 +109,9 @@ def write_to_sql(con, tables, team, year)
 		build_str = ''
 		t['data'].each do |row| 
 			build_str += "('#{team}', #{year}"
-			for i in 0...2
-				build_str += ", #{row[i].to_f}" 
+			for i in 0...3
+				build_str += ", #{row[i]}" unless i == 1
+				build_str += ", '#{row[i].to_s.gsub("'", "`")}'" if i == 1
 			end
 			build_str += '),'
 		end
@@ -125,6 +129,8 @@ def site_to_sql(con)
 		tables = parse_height_data(row['FILE_CD'], row['YEAR'])
 		write_to_sql(con, tables, row['TEAM'], row['YEAR'])
 	end
+	#tables = parse_height_data('ATL', 2016)
+	#write_to_sql(con, tables, 'ATL', 2016)
 end
 
 begin

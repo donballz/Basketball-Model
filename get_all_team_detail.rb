@@ -70,12 +70,13 @@ def yaml_to_sql(con, path)
 end
 
 begin
+	# Main block commented out for downstream use
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 	con = Mysql.new global['srvr'], global['user'], global['pswd']
-	con.query("USE bball")
+	#con.query("USE bball")
 	
 	#run_all_data(con)
-	yaml_to_sql(con, global['yaml'])
+	#yaml_to_sql(con, global['yaml'])
 
 rescue Mysql::Error => e
 	puts e.errno

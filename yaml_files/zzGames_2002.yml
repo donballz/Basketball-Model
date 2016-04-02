@@ -1,0 +1,11385 @@
+---
+- name: Regular Season
+  cols:
+  - date_game
+  - game_start_time
+  - box_score_text
+  - visitor_team_name
+  - visitor_pts
+  - home_team_name
+  - home_pts
+  - overtimes
+  - game_remarks
+  data:
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300CLE
+    - Boston Celtics
+    - 108.0
+    - Cleveland Cavaliers
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300DAL
+    - Detroit Pistons
+    - 87.0
+    - Dallas Mavericks
+    - 94.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300HOU
+    - Atlanta Hawks
+    - 84.0
+    - Houston Rockets
+    - 89.0
+    - OT
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300LAL
+    - Portland Trail Blazers
+    - 87.0
+    - Los Angeles Lakers
+    - 98.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300MIN
+    - Philadelphia 76ers
+    - 74.0
+    - Minnesota Timberwolves
+    - 83.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300NJN
+    - Indiana Pacers
+    - 97.0
+    - New Jersey Nets
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300NYK
+    - Washington Wizards
+    - 91.0
+    - New York Knicks
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300ORL
+    - Toronto Raptors
+    - 85.0
+    - Orlando Magic
+    - 114.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300PHO
+    - Denver Nuggets
+    - 99.0
+    - Phoenix Suns
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300SAC
+    - Seattle SuperSonics
+    - 95.0
+    - Sacramento Kings
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300SAS
+    - Los Angeles Clippers
+    - 98.0
+    - San Antonio Spurs
+    - 109.0
+    - ''
+    - ''
+  - - Tue, Oct 30, 2001
+    - 7.0
+    - 200110300UTA
+    - Milwaukee Bucks
+    - 119.0
+    - Utah Jazz
+    - 112.0
+    - OT
+    - ''
+  - - Wed, Oct 31, 2001
+    - 7.0
+    - 200110310BOS
+    - New Jersey Nets
+    - 95.0
+    - Boston Celtics
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Oct 31, 2001
+    - 7.0
+    - 200110310CHH
+    - Cleveland Cavaliers
+    - 94.0
+    - Charlotte Hornets
+    - 100.0
+    - ''
+    - ''
+  - - Wed, Oct 31, 2001
+    - 7.0
+    - 200110310CHI
+    - Indiana Pacers
+    - 98.0
+    - Chicago Bulls
+    - 73.0
+    - ''
+    - ''
+  - - Wed, Oct 31, 2001
+    - 8.0
+    - 200110310MIA
+    - Toronto Raptors
+    - 92.0
+    - Miami Heat
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Oct 31, 2001
+    - 7.0
+    - 200110310POR
+    - Golden State Warriors
+    - 87.0
+    - Portland Trail Blazers
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 8.0
+    - 200111010ATL
+    - Washington Wizards
+    - 98.0
+    - Atlanta Hawks
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010DEN
+    - Milwaukee Bucks
+    - 102.0
+    - Denver Nuggets
+    - 101.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010GSW
+    - Phoenix Suns
+    - 107.0
+    - Golden State Warriors
+    - 101.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010HOU
+    - Los Angeles Clippers
+    - 92.0
+    - Houston Rockets
+    - 98.0
+    - OT
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010MEM
+    - Detroit Pistons
+    - 90.0
+    - Memphis Grizzlies
+    - 80.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010PHI
+    - Dallas Mavericks
+    - 99.0
+    - Philadelphia 76ers
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010SEA
+    - San Antonio Spurs
+    - 108.0
+    - Seattle SuperSonics
+    - 114.0
+    - ''
+    - ''
+  - - Thu, Nov 1, 2001
+    - 7.0
+    - 200111010UTA
+    - Los Angeles Lakers
+    - 105.0
+    - Utah Jazz
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020BOS
+    - Chicago Bulls
+    - 82.0
+    - Boston Celtics
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020CHH
+    - New York Knicks
+    - 93.0
+    - Charlotte Hornets
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 8.0
+    - 200111020DET
+    - New Jersey Nets
+    - 88.0
+    - Detroit Pistons
+    - 102.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020IND
+    - Orlando Magic
+    - 107.0
+    - Indiana Pacers
+    - 117.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020LAL
+    - Phoenix Suns
+    - 94.0
+    - Los Angeles Lakers
+    - 117.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020MIA
+    - Cleveland Cavaliers
+    - 90.0
+    - Miami Heat
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020MIN
+    - Memphis Grizzlies
+    - 102.0
+    - Minnesota Timberwolves
+    - 111.0
+    - ''
+    - ''
+  - - Fri, Nov 2, 2001
+    - 7.0
+    - 200111020TOR
+    - Dallas Mavericks
+    - 92.0
+    - Toronto Raptors
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030ATL
+    - Miami Heat
+    - 83.0
+    - Atlanta Hawks
+    - 90.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030CHI
+    - New York Knicks
+    - 79.0
+    - Chicago Bulls
+    - 84.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 8.0
+    - 200111030CLE
+    - Orlando Magic
+    - 99.0
+    - Cleveland Cavaliers
+    - 69.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030DEN
+    - Sacramento Kings
+    - 106.0
+    - Denver Nuggets
+    - 94.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030HOU
+    - Minnesota Timberwolves
+    - 90.0
+    - Houston Rockets
+    - 88.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030LAC
+    - Golden State Warriors
+    - 110.0
+    - Los Angeles Clippers
+    - 108.0
+    - OT
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030MIL
+    - Boston Celtics
+    - 99.0
+    - Milwaukee Bucks
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 8.0
+    - 200111030NJN
+    - Charlotte Hornets
+    - 85.0
+    - New Jersey Nets
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 7.0
+    - 200111030POR
+    - San Antonio Spurs
+    - 106.0
+    - Portland Trail Blazers
+    - 90.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 6.0
+    - 200111030SEA
+    - Utah Jazz
+    - 91.0
+    - Seattle SuperSonics
+    - 74.0
+    - ''
+    - ''
+  - - Sat, Nov 3, 2001
+    - 6.0
+    - 200111030WAS
+    - Philadelphia 76ers
+    - 76.0
+    - Washington Wizards
+    - 90.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 7.0
+    - 200111040DET
+    - Washington Wizards
+    - 78.0
+    - Detroit Pistons
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 6.0
+    - 200111040GSW
+    - Portland Trail Blazers
+    - 86.0
+    - Golden State Warriors
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 6.0
+    - 200111040LAL
+    - Utah Jazz
+    - 96.0
+    - Los Angeles Lakers
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 2.0
+    - 200111040MEM
+    - Dallas Mavericks
+    - 94.0
+    - Memphis Grizzlies
+    - 85.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 6.0
+    - 200111040PHO
+    - Houston Rockets
+    - 103.0
+    - Phoenix Suns
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 6.0
+    - 200111040SAC
+    - San Antonio Spurs
+    - 83.0
+    - Sacramento Kings
+    - 103.0
+    - ''
+    - ''
+  - - Sun, Nov 4, 2001
+    - 5.0
+    - 200111040TOR
+    - Indiana Pacers
+    - 100.0
+    - Toronto Raptors
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Nov 5, 2001
+    - 7.0
+    - 200111050LAC
+    - Atlanta Hawks
+    - 86.0
+    - Los Angeles Clippers
+    - 109.0
+    - ''
+    - ''
+  - - Mon, Nov 5, 2001
+    - 7.0
+    - 200111050ORL
+    - Seattle SuperSonics
+    - 123.0
+    - Orlando Magic
+    - 119.0
+    - 2.0
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060CLE
+    - Sacramento Kings
+    - 115.0
+    - Cleveland Cavaliers
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060DAL
+    - Charlotte Hornets
+    - 92.0
+    - Dallas Mavericks
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060HOU
+    - Denver Nuggets
+    - 93.0
+    - Houston Rockets
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060MIA
+    - Seattle SuperSonics
+    - 85.0
+    - Miami Heat
+    - 87.0
+    - OT
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060MIN
+    - New York Knicks
+    - 94.0
+    - Minnesota Timberwolves
+    - 104.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060PHI
+    - Indiana Pacers
+    - 87.0
+    - Philadelphia 76ers
+    - 77.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060PHO
+    - Memphis Grizzlies
+    - 101.0
+    - Phoenix Suns
+    - 113.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060POR
+    - Utah Jazz
+    - 83.0
+    - Portland Trail Blazers
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Nov 6, 2001
+    - 7.0
+    - 200111060SAS
+    - Orlando Magic
+    - 89.0
+    - San Antonio Spurs
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 8.0
+    - 200111070BOS
+    - Washington Wizards
+    - 95.0
+    - Boston Celtics
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 7.0
+    - 200111070CHI
+    - Detroit Pistons
+    - 97.0
+    - Chicago Bulls
+    - 73.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 8.0
+    - 200111070IND
+    - Sacramento Kings
+    - 104.0
+    - Indiana Pacers
+    - 116.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 7.0
+    - 200111070LAC
+    - Memphis Grizzlies
+    - 92.0
+    - Los Angeles Clippers
+    - 108.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 7.0
+    - 200111070NYK
+    - Cleveland Cavaliers
+    - 64.0
+    - New York Knicks
+    - 82.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 7.0
+    - 200111070TOR
+    - Golden State Warriors
+    - 92.0
+    - Toronto Raptors
+    - 109.0
+    - ''
+    - ''
+  - - Wed, Nov 7, 2001
+    - 7.0
+    - 200111070UTA
+    - Atlanta Hawks
+    - 89.0
+    - Utah Jazz
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080CHH
+    - San Antonio Spurs
+    - 105.0
+    - Charlotte Hornets
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080DAL
+    - Denver Nuggets
+    - 91.0
+    - Dallas Mavericks
+    - 105.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 8.0
+    - 200111080HOU
+    - Philadelphia 76ers
+    - 72.0
+    - Houston Rockets
+    - 77.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080MIL
+    - Miami Heat
+    - 82.0
+    - Milwaukee Bucks
+    - 86.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080MIN
+    - Chicago Bulls
+    - 74.0
+    - Minnesota Timberwolves
+    - 127.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080NJN
+    - Seattle SuperSonics
+    - 94.0
+    - New Jersey Nets
+    - 106.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080PHO
+    - Atlanta Hawks
+    - 80.0
+    - Phoenix Suns
+    - 108.0
+    - ''
+    - ''
+  - - Thu, Nov 8, 2001
+    - 7.0
+    - 200111080POR
+    - Los Angeles Clippers
+    - 101.0
+    - Portland Trail Blazers
+    - 119.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090BOS
+    - Seattle SuperSonics
+    - 94.0
+    - Boston Celtics
+    - 104.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090DEN
+    - Houston Rockets
+    - 81.0
+    - Denver Nuggets
+    - 108.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090IND
+    - New York Knicks
+    - 95.0
+    - Indiana Pacers
+    - 103.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090LAL
+    - Memphis Grizzlies
+    - 86.0
+    - Los Angeles Lakers
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090ORL
+    - Sacramento Kings
+    - 105.0
+    - Orlando Magic
+    - 115.0
+    - ''
+    - ''
+  - - Fri, Nov 9, 2001
+    - 7.0
+    - 200111090WAS
+    - Golden State Warriors
+    - 109.0
+    - Washington Wizards
+    - 100.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100CHI
+    - Charlotte Hornets
+    - 89.0
+    - Chicago Bulls
+    - 85.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100DAL
+    - Philadelphia 76ers
+    - 98.0
+    - Dallas Mavericks
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 8.0
+    - 200111100IND
+    - Portland Trail Blazers
+    - 96.0
+    - Indiana Pacers
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 12.0
+    - 200111100LAC
+    - Phoenix Suns
+    - 102.0
+    - Los Angeles Clippers
+    - 111.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100MIA
+    - Sacramento Kings
+    - 90.0
+    - Miami Heat
+    - 75.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100MIL
+    - Minnesota Timberwolves
+    - 98.0
+    - Milwaukee Bucks
+    - 82.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 1.0
+    - 200111100NJN
+    - Cleveland Cavaliers
+    - 84.0
+    - New Jersey Nets
+    - 87.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100NYK
+    - Golden State Warriors
+    - 90.0
+    - New York Knicks
+    - 71.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100SAS
+    - Atlanta Hawks
+    - 88.0
+    - San Antonio Spurs
+    - 110.0
+    - ''
+    - ''
+  - - Sat, Nov 10, 2001
+    - 7.0
+    - 200111100UTA
+    - Toronto Raptors
+    - 117.0
+    - Utah Jazz
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Nov 11, 2001
+    - 7.0
+    - 200111110DEN
+    - Toronto Raptors
+    - 85.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Nov 11, 2001
+    - 6.0
+    - 200111110DET
+    - Portland Trail Blazers
+    - 100.0
+    - Detroit Pistons
+    - 98.0
+    - ''
+    - ''
+  - - Sun, Nov 11, 2001
+    - 6.0
+    - 200111110LAL
+    - Orlando Magic
+    - 95.0
+    - Los Angeles Lakers
+    - 108.0
+    - ''
+    - ''
+  - - Sun, Nov 11, 2001
+    - 1.0
+    - 200111110WAS
+    - Seattle SuperSonics
+    - 99.0
+    - Washington Wizards
+    - 84.0
+    - ''
+    - ''
+  - - Mon, Nov 12, 2001
+    - 7.0
+    - 200111120MEM
+    - Golden State Warriors
+    - 86.0
+    - Memphis Grizzlies
+    - 79.0
+    - ''
+    - ''
+  - - Mon, Nov 12, 2001
+    - 7.0
+    - 200111120UTA
+    - Orlando Magic
+    - 98.0
+    - Utah Jazz
+    - 105.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130DEN
+    - Chicago Bulls
+    - 93.0
+    - Denver Nuggets
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130IND
+    - New Jersey Nets
+    - 91.0
+    - Indiana Pacers
+    - 82.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130MIA
+    - Philadelphia 76ers
+    - 82.0
+    - Miami Heat
+    - 76.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130MIN
+    - Cleveland Cavaliers
+    - 107.0
+    - Minnesota Timberwolves
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130NYK
+    - Portland Trail Blazers
+    - 82.0
+    - New York Knicks
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 5.0
+    - 200111130SAC
+    - Toronto Raptors
+    - 86.0
+    - Sacramento Kings
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130SAS
+    - Houston Rockets
+    - 86.0
+    - San Antonio Spurs
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Nov 13, 2001
+    - 7.0
+    - 200111130SEA
+    - Phoenix Suns
+    - 92.0
+    - Seattle SuperSonics
+    - 91.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140ATL
+    - Utah Jazz
+    - 79.0
+    - Atlanta Hawks
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140BOS
+    - Indiana Pacers
+    - 93.0
+    - Boston Celtics
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140CLE
+    - Dallas Mavericks
+    - 107.0
+    - Cleveland Cavaliers
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140GSW
+    - Toronto Raptors
+    - 89.0
+    - Golden State Warriors
+    - 82.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140LAC
+    - Chicago Bulls
+    - 102.0
+    - Los Angeles Clippers
+    - 106.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140PHI
+    - Charlotte Hornets
+    - 86.0
+    - Philadelphia 76ers
+    - 100.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 6.0
+    - 200111140PHO
+    - Orlando Magic
+    - 93.0
+    - Phoenix Suns
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Nov 14, 2001
+    - 7.0
+    - 200111140WAS
+    - Milwaukee Bucks
+    - 107.0
+    - Washington Wizards
+    - 98.0
+    - ''
+    - ''
+  - - Thu, Nov 15, 2001
+    - 7.0
+    - 200111150DEN
+    - Orlando Magic
+    - 101.0
+    - Denver Nuggets
+    - 82.0
+    - ''
+    - ''
+  - - Thu, Nov 15, 2001
+    - 7.0
+    - 200111150DET
+    - Dallas Mavericks
+    - 89.0
+    - Detroit Pistons
+    - 115.0
+    - ''
+    - ''
+  - - Thu, Nov 15, 2001
+    - 8.0
+    - 200111150HOU
+    - Los Angeles Lakers
+    - 98.0
+    - Houston Rockets
+    - 97.0
+    - OT
+    - ''
+  - - Thu, Nov 15, 2001
+    - 7.0
+    - 200111150MEM
+    - Portland Trail Blazers
+    - 101.0
+    - Memphis Grizzlies
+    - 85.0
+    - ''
+    - ''
+  - - Thu, Nov 15, 2001
+    - 7.0
+    - 200111150NYK
+    - Miami Heat
+    - 74.0
+    - New York Knicks
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160IND
+    - Minnesota Timberwolves
+    - 120.0
+    - Indiana Pacers
+    - 113.0
+    - 2.0
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160LAC
+    - Toronto Raptors
+    - 94.0
+    - Los Angeles Clippers
+    - 85.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160MIA
+    - Charlotte Hornets
+    - 96.0
+    - Miami Heat
+    - 87.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160NJN
+    - New York Knicks
+    - 83.0
+    - New Jersey Nets
+    - 109.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160PHI
+    - Atlanta Hawks
+    - 78.0
+    - Philadelphia 76ers
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160PHO
+    - Los Angeles Lakers
+    - 83.0
+    - Phoenix Suns
+    - 95.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160SAC
+    - Chicago Bulls
+    - 71.0
+    - Sacramento Kings
+    - 105.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160SAS
+    - Cleveland Cavaliers
+    - 91.0
+    - San Antonio Spurs
+    - 105.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160SEA
+    - Golden State Warriors
+    - 91.0
+    - Seattle SuperSonics
+    - 100.0
+    - ''
+    - ''
+  - - Fri, Nov 16, 2001
+    - 7.0
+    - 200111160WAS
+    - Utah Jazz
+    - 101.0
+    - Washington Wizards
+    - 92.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170ATL
+    - Boston Celtics
+    - 103.0
+    - Atlanta Hawks
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170CHH
+    - Portland Trail Blazers
+    - 97.0
+    - Charlotte Hornets
+    - 87.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170DET
+    - Indiana Pacers
+    - 98.0
+    - Detroit Pistons
+    - 104.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170GSW
+    - Chicago Bulls
+    - 88.0
+    - Golden State Warriors
+    - 93.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170HOU
+    - Dallas Mavericks
+    - 87.0
+    - Houston Rockets
+    - 124.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170MEM
+    - Cleveland Cavaliers
+    - 93.0
+    - Memphis Grizzlies
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170MIL
+    - Utah Jazz
+    - 93.0
+    - Milwaukee Bucks
+    - 104.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170MIN
+    - Orlando Magic
+    - 95.0
+    - Minnesota Timberwolves
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 8.0
+    - 200111170NJN
+    - Philadelphia 76ers
+    - 94.0
+    - New Jersey Nets
+    - 82.0
+    - ''
+    - ''
+  - - Sat, Nov 17, 2001
+    - 7.0
+    - 200111170SEA
+    - Denver Nuggets
+    - 103.0
+    - Seattle SuperSonics
+    - 93.0
+    - ''
+    - ''
+  - - Sun, Nov 18, 2001
+    - 12.0
+    - 200111180LAC
+    - New York Knicks
+    - 86.0
+    - Los Angeles Clippers
+    - 99.0
+    - ''
+    - ''
+  - - Sun, Nov 18, 2001
+    - 6.0
+    - 200111180LAL
+    - Sacramento Kings
+    - 85.0
+    - Los Angeles Lakers
+    - 93.0
+    - ''
+    - ''
+  - - Sun, Nov 18, 2001
+    - 6.0
+    - 200111180PHO
+    - Toronto Raptors
+    - 87.0
+    - Phoenix Suns
+    - 81.0
+    - ''
+    - ''
+  - - Mon, Nov 19, 2001
+    - 7.0
+    - 200111190DEN
+    - New Jersey Nets
+    - 96.0
+    - Denver Nuggets
+    - 99.0
+    - OT
+    - ''
+  - - Mon, Nov 19, 2001
+    - 7.0
+    - 200111190SAC
+    - Houston Rockets
+    - 77.0
+    - Sacramento Kings
+    - 113.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 7.0
+    - 200111200DAL
+    - Seattle SuperSonics
+    - 105.0
+    - Dallas Mavericks
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 7.0
+    - 200111200GSW
+    - New York Knicks
+    - 94.0
+    - Golden State Warriors
+    - 70.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 7.0
+    - 200111200IND
+    - Atlanta Hawks
+    - 102.0
+    - Indiana Pacers
+    - 106.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 7.0
+    - 200111200LAC
+    - Los Angeles Lakers
+    - 98.0
+    - Los Angeles Clippers
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 8.0
+    - 200111200MIA
+    - Minnesota Timberwolves
+    - 80.0
+    - Miami Heat
+    - 73.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 7.0
+    - 200111200POR
+    - Houston Rockets
+    - 94.0
+    - Portland Trail Blazers
+    - 87.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 6.0
+    - 200111200TOR
+    - Detroit Pistons
+    - 88.0
+    - Toronto Raptors
+    - 84.0
+    - ''
+    - ''
+  - - Tue, Nov 20, 2001
+    - 8.0
+    - 200111200WAS
+    - Charlotte Hornets
+    - 95.0
+    - Washington Wizards
+    - 88.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210BOS
+    - Atlanta Hawks
+    - 92.0
+    - Boston Celtics
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210CHH
+    - Dallas Mavericks
+    - 89.0
+    - Charlotte Hornets
+    - 78.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210CLE
+    - Memphis Grizzlies
+    - 94.0
+    - Cleveland Cavaliers
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210DEN
+    - Los Angeles Lakers
+    - 89.0
+    - Denver Nuggets
+    - 68.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210MIL
+    - Chicago Bulls
+    - 92.0
+    - Milwaukee Bucks
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210ORL
+    - Minnesota Timberwolves
+    - 106.0
+    - Orlando Magic
+    - 117.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210PHI
+    - Detroit Pistons
+    - 89.0
+    - Philadelphia 76ers
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210PHO
+    - New York Knicks
+    - 72.0
+    - Phoenix Suns
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210SAC
+    - Portland Trail Blazers
+    - 83.0
+    - Sacramento Kings
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210SAS
+    - Seattle SuperSonics
+    - 93.0
+    - San Antonio Spurs
+    - 110.0
+    - ''
+    - ''
+  - - Wed, Nov 21, 2001
+    - 7.0
+    - 200111210UTA
+    - New Jersey Nets
+    - 90.0
+    - Utah Jazz
+    - 89.0
+    - OT
+    - ''
+  - - Thu, Nov 22, 2001
+    - 8.0
+    - 200111220IND
+    - Washington Wizards
+    - 103.0
+    - Indiana Pacers
+    - 110.0
+    - ''
+    - ''
+  - - Thu, Nov 22, 2001
+    - 7.0
+    - 200111220LAC
+    - New Jersey Nets
+    - 95.0
+    - Los Angeles Clippers
+    - 90.0
+    - ''
+    - ''
+  - - Thu, Nov 22, 2001
+    - 8.0
+    - 200111220TOR
+    - Milwaukee Bucks
+    - 78.0
+    - Toronto Raptors
+    - 75.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230ATL
+    - Detroit Pistons
+    - 99.0
+    - Atlanta Hawks
+    - 106.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230BOS
+    - Toronto Raptors
+    - 91.0
+    - Boston Celtics
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230CHH
+    - Orlando Magic
+    - 109.0
+    - Charlotte Hornets
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 8.0
+    - 200111230IND
+    - San Antonio Spurs
+    - 97.0
+    - Indiana Pacers
+    - 79.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230LAL
+    - Golden State Warriors
+    - 90.0
+    - Los Angeles Lakers
+    - 106.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230MEM
+    - Phoenix Suns
+    - 103.0
+    - Memphis Grizzlies
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230MIA
+    - Dallas Mavericks
+    - 104.0
+    - Miami Heat
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230PHI
+    - Cleveland Cavaliers
+    - 68.0
+    - Philadelphia 76ers
+    - 79.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230POR
+    - Denver Nuggets
+    - 90.0
+    - Portland Trail Blazers
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230SEA
+    - Houston Rockets
+    - 81.0
+    - Seattle SuperSonics
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Nov 23, 2001
+    - 7.0
+    - 200111230UTA
+    - Los Angeles Clippers
+    - 101.0
+    - Utah Jazz
+    - 106.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240CLE
+    - Miami Heat
+    - 96.0
+    - Cleveland Cavaliers
+    - 100.0
+    - OT
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240DAL
+    - Phoenix Suns
+    - 104.0
+    - Dallas Mavericks
+    - 119.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240DET
+    - Memphis Grizzlies
+    - 84.0
+    - Detroit Pistons
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 8.0
+    - 200111240MIL
+    - Atlanta Hawks
+    - 88.0
+    - Milwaukee Bucks
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240MIN
+    - San Antonio Spurs
+    - 94.0
+    - Minnesota Timberwolves
+    - 99.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 1.0
+    - 200111240NYK
+    - Chicago Bulls
+    - 71.0
+    - New York Knicks
+    - 78.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240ORL
+    - Charlotte Hornets
+    - 103.0
+    - Orlando Magic
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240SAC
+    - New Jersey Nets
+    - 97.0
+    - Sacramento Kings
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Nov 24, 2001
+    - 7.0
+    - 200111240WAS
+    - Boston Celtics
+    - 84.0
+    - Washington Wizards
+    - 88.0
+    - OT
+    - ''
+  - - Sun, Nov 25, 2001
+    - 6.0
+    - 200111250GSW
+    - New Jersey Nets
+    - 85.0
+    - Golden State Warriors
+    - 101.0
+    - ''
+    - ''
+  - - Sun, Nov 25, 2001
+    - 12.0
+    - 200111250LAC
+    - Houston Rockets
+    - 83.0
+    - Los Angeles Clippers
+    - 90.0
+    - ''
+    - ''
+  - - Sun, Nov 25, 2001
+    - 6.0
+    - 200111250LAL
+    - Denver Nuggets
+    - 98.0
+    - Los Angeles Lakers
+    - 105.0
+    - ''
+    - ''
+  - - Sun, Nov 25, 2001
+    - 4.0
+    - 200111250SEA
+    - Indiana Pacers
+    - 88.0
+    - Seattle SuperSonics
+    - 99.0
+    - ''
+    - ''
+  - - Sun, Nov 25, 2001
+    - 12.0
+    - 200111250TOR
+    - Philadelphia 76ers
+    - 88.0
+    - Toronto Raptors
+    - 107.0
+    - ''
+    - ''
+  - - Mon, Nov 26, 2001
+    - 7.0
+    - 200111260MEM
+    - Sacramento Kings
+    - 94.0
+    - Memphis Grizzlies
+    - 98.0
+    - ''
+    - ''
+  - - Mon, Nov 26, 2001
+    - 7.0
+    - 200111260NYK
+    - Atlanta Hawks
+    - 83.0
+    - New York Knicks
+    - 88.0
+    - ''
+    - ''
+  - - Mon, Nov 26, 2001
+    - 7.0
+    - 200111260ORL
+    - Detroit Pistons
+    - 105.0
+    - Orlando Magic
+    - 100.0
+    - ''
+    - ''
+  - - Mon, Nov 26, 2001
+    - 7.0
+    - 200111260UTA
+    - Phoenix Suns
+    - 111.0
+    - Utah Jazz
+    - 104.0
+    - OT
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270CLE
+    - Washington Wizards
+    - 75.0
+    - Cleveland Cavaliers
+    - 94.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270DAL
+    - Golden State Warriors
+    - 106.0
+    - Dallas Mavericks
+    - 116.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270HOU
+    - Sacramento Kings
+    - 89.0
+    - Houston Rockets
+    - 84.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270LAL
+    - Milwaukee Bucks
+    - 85.0
+    - Los Angeles Lakers
+    - 104.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270MIA
+    - Boston Celtics
+    - 84.0
+    - Miami Heat
+    - 83.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270NJN
+    - Chicago Bulls
+    - 68.0
+    - New Jersey Nets
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270POR
+    - Indiana Pacers
+    - 90.0
+    - Portland Trail Blazers
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Nov 27, 2001
+    - 7.0
+    - 200111270SEA
+    - Minnesota Timberwolves
+    - 102.0
+    - Seattle SuperSonics
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280ATL
+    - New York Knicks
+    - 105.0
+    - Atlanta Hawks
+    - 100.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280DEN
+    - Indiana Pacers
+    - 99.0
+    - Denver Nuggets
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280DET
+    - Charlotte Hornets
+    - 104.0
+    - Detroit Pistons
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280LAC
+    - Minnesota Timberwolves
+    - 75.0
+    - Los Angeles Clippers
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 8.0
+    - 200111280PHI
+    - Washington Wizards
+    - 94.0
+    - Philadelphia 76ers
+    - 87.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280PHO
+    - Milwaukee Bucks
+    - 84.0
+    - Phoenix Suns
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280SAS
+    - Golden State Warriors
+    - 83.0
+    - San Antonio Spurs
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Nov 28, 2001
+    - 7.0
+    - 200111280UTA
+    - Seattle SuperSonics
+    - 88.0
+    - Utah Jazz
+    - 112.0
+    - ''
+    - ''
+  - - Thu, Nov 29, 2001
+    - 7.0
+    - 200111290CHI
+    - Miami Heat
+    - 72.0
+    - Chicago Bulls
+    - 78.0
+    - ''
+    - ''
+  - - Thu, Nov 29, 2001
+    - 7.0
+    - 200111290CLE
+    - Atlanta Hawks
+    - 105.0
+    - Cleveland Cavaliers
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Nov 29, 2001
+    - 7.0
+    - 200111290DAL
+    - Sacramento Kings
+    - 110.0
+    - Dallas Mavericks
+    - 98.0
+    - ''
+    - ''
+  - - Thu, Nov 29, 2001
+    - 7.0
+    - 200111290ORL
+    - Boston Celtics
+    - 99.0
+    - Orlando Magic
+    - 89.0
+    - ''
+    - ''
+  - - Thu, Nov 29, 2001
+    - 6.0
+    - 200111290TOR
+    - Memphis Grizzlies
+    - 88.0
+    - Toronto Raptors
+    - 91.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300CHH
+    - Detroit Pistons
+    - 110.0
+    - Charlotte Hornets
+    - 105.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300DEN
+    - Los Angeles Clippers
+    - 93.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300MEM
+    - Houston Rockets
+    - 85.0
+    - Memphis Grizzlies
+    - 102.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300MIA
+    - Washington Wizards
+    - 84.0
+    - Miami Heat
+    - 75.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300PHO
+    - Utah Jazz
+    - 76.0
+    - Phoenix Suns
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300POR
+    - Milwaukee Bucks
+    - 95.0
+    - Portland Trail Blazers
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300SAS
+    - Sacramento Kings
+    - 109.0
+    - San Antonio Spurs
+    - 106.0
+    - OT
+    - ''
+  - - Fri, Nov 30, 2001
+    - 7.0
+    - 200111300SEA
+    - Los Angeles Lakers
+    - 107.0
+    - Seattle SuperSonics
+    - 92.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 2.0
+    - 200112010ATL
+    - Toronto Raptors
+    - 104.0
+    - Atlanta Hawks
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010CHI
+    - Philadelphia 76ers
+    - 93.0
+    - Chicago Bulls
+    - 76.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010CLE
+    - Charlotte Hornets
+    - 81.0
+    - Cleveland Cavaliers
+    - 93.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010GSW
+    - Dallas Mavericks
+    - 111.0
+    - Golden State Warriors
+    - 82.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010HOU
+    - San Antonio Spurs
+    - 85.0
+    - Houston Rockets
+    - 75.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010LAL
+    - Minnesota Timberwolves
+    - 76.0
+    - Los Angeles Lakers
+    - 102.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 1.0
+    - 200112010NJN
+    - Boston Celtics
+    - 105.0
+    - New Jersey Nets
+    - 98.0
+    - OT
+    - ''
+  - - Sat, Dec 1, 2001
+    - 8.0
+    - 200112010NYK
+    - Detroit Pistons
+    - 100.0
+    - New York Knicks
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010POR
+    - Phoenix Suns
+    - 97.0
+    - Portland Trail Blazers
+    - 83.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 7.0
+    - 200112010UTA
+    - Indiana Pacers
+    - 100.0
+    - Utah Jazz
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Dec 1, 2001
+    - 6.0
+    - 200112010WAS
+    - Orlando Magic
+    - 96.0
+    - Washington Wizards
+    - 87.0
+    - ''
+    - ''
+  - - Sun, Dec 2, 2001
+    - 6.0
+    - 200112020LAC
+    - Indiana Pacers
+    - 72.0
+    - Los Angeles Clippers
+    - 103.0
+    - ''
+    - ''
+  - - Sun, Dec 2, 2001
+    - 6.0
+    - 200112020PHI
+    - Memphis Grizzlies
+    - 93.0
+    - Philadelphia 76ers
+    - 87.0
+    - ''
+    - ''
+  - - Sun, Dec 2, 2001
+    - 6.0
+    - 200112020SAC
+    - Dallas Mavericks
+    - 120.0
+    - Sacramento Kings
+    - 114.0
+    - OT
+    - ''
+  - - Sun, Dec 2, 2001
+    - 6.0
+    - 200112020SEA
+    - Milwaukee Bucks
+    - 83.0
+    - Seattle SuperSonics
+    - 97.0
+    - ''
+    - ''
+  - - Sun, Dec 2, 2001
+    - 3.0
+    - 200112020TOR
+    - Boston Celtics
+    - 85.0
+    - Toronto Raptors
+    - 69.0
+    - ''
+    - ''
+  - - Mon, Dec 3, 2001
+    - 7.0
+    - 200112030NYK
+    - Houston Rockets
+    - 86.0
+    - New York Knicks
+    - 89.0
+    - ''
+    - ''
+  - - Mon, Dec 3, 2001
+    - 7.0
+    - 200112030ORL
+    - Memphis Grizzlies
+    - 71.0
+    - Orlando Magic
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Dec 3, 2001
+    - 7.0
+    - 200112030PHO
+    - Golden State Warriors
+    - 93.0
+    - Phoenix Suns
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040CHI
+    - Houston Rockets
+    - 75.0
+    - Chicago Bulls
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040CLE
+    - Detroit Pistons
+    - 88.0
+    - Cleveland Cavaliers
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040IND
+    - Denver Nuggets
+    - 96.0
+    - Indiana Pacers
+    - 104.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040LAC
+    - Miami Heat
+    - 83.0
+    - Los Angeles Clippers
+    - 87.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040MIL
+    - New York Knicks
+    - 85.0
+    - Milwaukee Bucks
+    - 71.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040MIN
+    - Seattle SuperSonics
+    - 83.0
+    - Minnesota Timberwolves
+    - 108.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 5.0
+    - 200112040SAC
+    - Philadelphia 76ers
+    - 84.0
+    - Sacramento Kings
+    - 94.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040SAS
+    - Washington Wizards
+    - 88.0
+    - San Antonio Spurs
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Dec 4, 2001
+    - 7.0
+    - 200112040UTA
+    - Charlotte Hornets
+    - 100.0
+    - Utah Jazz
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050ATL
+    - San Antonio Spurs
+    - 120.0
+    - Atlanta Hawks
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050BOS
+    - Denver Nuggets
+    - 80.0
+    - Boston Celtics
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050DET
+    - Seattle SuperSonics
+    - 91.0
+    - Detroit Pistons
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050GSW
+    - Philadelphia 76ers
+    - 87.0
+    - Golden State Warriors
+    - 93.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050LAL
+    - Dallas Mavericks
+    - 94.0
+    - Los Angeles Lakers
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 8.0
+    - 200112050NJN
+    - Phoenix Suns
+    - 87.0
+    - New Jersey Nets
+    - 106.0
+    - ''
+    - ''
+  - - Wed, Dec 5, 2001
+    - 7.0
+    - 200112050ORL
+    - Chicago Bulls
+    - 74.0
+    - Orlando Magic
+    - 102.0
+    - ''
+    - ''
+  - - Thu, Dec 6, 2001
+    - 7.0
+    - 200112060HOU
+    - Washington Wizards
+    - 85.0
+    - Houston Rockets
+    - 82.0
+    - ''
+    - ''
+  - - Thu, Dec 6, 2001
+    - 7.0
+    - 200112060MEM
+    - Minnesota Timberwolves
+    - 105.0
+    - Memphis Grizzlies
+    - 80.0
+    - ''
+    - ''
+  - - Thu, Dec 6, 2001
+    - 8.0
+    - 200112060MIL
+    - Toronto Raptors
+    - 89.0
+    - Milwaukee Bucks
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Dec 6, 2001
+    - 7.0
+    - 200112060POR
+    - Charlotte Hornets
+    - 95.0
+    - Portland Trail Blazers
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070BOS
+    - Phoenix Suns
+    - 102.0
+    - Boston Celtics
+    - 109.0
+    - OT
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070GSW
+    - Charlotte Hornets
+    - 106.0
+    - Golden State Warriors
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070IND
+    - Chicago Bulls
+    - 83.0
+    - Indiana Pacers
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070LAC
+    - Utah Jazz
+    - 102.0
+    - Los Angeles Clippers
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070NJN
+    - Cleveland Cavaliers
+    - 84.0
+    - New Jersey Nets
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070ORL
+    - Atlanta Hawks
+    - 94.0
+    - Orlando Magic
+    - 129.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070SAC
+    - Los Angeles Lakers
+    - 91.0
+    - Sacramento Kings
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070SAS
+    - Philadelphia 76ers
+    - 76.0
+    - San Antonio Spurs
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070SEA
+    - Miami Heat
+    - 98.0
+    - Seattle SuperSonics
+    - 94.0
+    - OT
+    - ''
+  - - Fri, Dec 7, 2001
+    - 7.0
+    - 200112070TOR
+    - Denver Nuggets
+    - 96.0
+    - Toronto Raptors
+    - 98.0
+    - OT
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080ATL
+    - Orlando Magic
+    - 104.0
+    - Atlanta Hawks
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080CHI
+    - Boston Celtics
+    - 84.0
+    - Chicago Bulls
+    - 87.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080CLE
+    - Denver Nuggets
+    - 99.0
+    - Cleveland Cavaliers
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080DAL
+    - Washington Wizards
+    - 102.0
+    - Dallas Mavericks
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080MEM
+    - Philadelphia 76ers
+    - 83.0
+    - Memphis Grizzlies
+    - 92.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080MIL
+    - New Jersey Nets
+    - 79.0
+    - Milwaukee Bucks
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080MIN
+    - Houston Rockets
+    - 97.0
+    - Minnesota Timberwolves
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080NYK
+    - Indiana Pacers
+    - 99.0
+    - New York Knicks
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080POR
+    - Seattle SuperSonics
+    - 92.0
+    - Portland Trail Blazers
+    - 113.0
+    - ''
+    - ''
+  - - Sat, Dec 8, 2001
+    - 7.0
+    - 200112080UTA
+    - Golden State Warriors
+    - 101.0
+    - Utah Jazz
+    - 111.0
+    - ''
+    - ''
+  - - Sun, Dec 9, 2001
+    - 6.0
+    - 200112090DET
+    - Houston Rockets
+    - 77.0
+    - Detroit Pistons
+    - 105.0
+    - ''
+    - ''
+  - - Sun, Dec 9, 2001
+    - 6.0
+    - 200112090LAC
+    - Charlotte Hornets
+    - 78.0
+    - Los Angeles Clippers
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Dec 9, 2001
+    - 6.0
+    - 200112090SAC
+    - Miami Heat
+    - 88.0
+    - Sacramento Kings
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Dec 9, 2001
+    - 3.0
+    - 200112090TOR
+    - Phoenix Suns
+    - 91.0
+    - Toronto Raptors
+    - 90.0
+    - ''
+    - ''
+  - - Mon, Dec 10, 2001
+    - 7.0
+    - 200112100LAC
+    - Orlando Magic
+    - 92.0
+    - Los Angeles Clippers
+    - 100.0
+    - ''
+    - ''
+  - - Mon, Dec 10, 2001
+    - 7.0
+    - 200112100UTA
+    - Dallas Mavericks
+    - 98.0
+    - Utah Jazz
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 8.0
+    - 200112110ATL
+    - Philadelphia 76ers
+    - 87.0
+    - Atlanta Hawks
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110CHI
+    - New Jersey Nets
+    - 107.0
+    - Chicago Bulls
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110DAL
+    - Portland Trail Blazers
+    - 103.0
+    - Dallas Mavericks
+    - 105.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110DEN
+    - Charlotte Hornets
+    - 99.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110HOU
+    - Cleveland Cavaliers
+    - 107.0
+    - Houston Rockets
+    - 102.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110LAL
+    - Seattle SuperSonics
+    - 104.0
+    - Los Angeles Lakers
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110MEM
+    - Washington Wizards
+    - 91.0
+    - Memphis Grizzlies
+    - 81.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110MIA
+    - Milwaukee Bucks
+    - 97.0
+    - Miami Heat
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110MIN
+    - Golden State Warriors
+    - 86.0
+    - Minnesota Timberwolves
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110NYK
+    - Boston Celtics
+    - 102.0
+    - New York Knicks
+    - 93.0
+    - OT
+    - ''
+  - - Tue, Dec 11, 2001
+    - 7.0
+    - 200112110SAC
+    - Orlando Magic
+    - 100.0
+    - Sacramento Kings
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Dec 12, 2001
+    - 7.0
+    - 200112120LAC
+    - Seattle SuperSonics
+    - 94.0
+    - Los Angeles Clippers
+    - 114.0
+    - ''
+    - ''
+  - - Wed, Dec 12, 2001
+    - 7.0
+    - 200112120PHO
+    - Sacramento Kings
+    - 88.0
+    - Phoenix Suns
+    - 114.0
+    - ''
+    - ''
+  - - Wed, Dec 12, 2001
+    - 7.0
+    - 200112120SAS
+    - Toronto Raptors
+    - 95.0
+    - San Antonio Spurs
+    - 108.0
+    - ''
+    - ''
+  - - Wed, Dec 12, 2001
+    - 7.0
+    - 200112120UTA
+    - Minnesota Timberwolves
+    - 98.0
+    - Utah Jazz
+    - 87.0
+    - ''
+    - ''
+  - - Wed, Dec 12, 2001
+    - 8.0
+    - 200112120WAS
+    - Miami Heat
+    - 80.0
+    - Washington Wizards
+    - 82.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 7.0
+    - 200112130CHH
+    - Toronto Raptors
+    - 90.0
+    - Charlotte Hornets
+    - 104.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 7.0
+    - 200112130DAL
+    - Cleveland Cavaliers
+    - 82.0
+    - Dallas Mavericks
+    - 102.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 7.0
+    - 200112130DEN
+    - Memphis Grizzlies
+    - 86.0
+    - Denver Nuggets
+    - 89.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 7.0
+    - 200112130DET
+    - New York Knicks
+    - 97.0
+    - Detroit Pistons
+    - 99.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 6.0
+    - 200112130GSW
+    - Orlando Magic
+    - 105.0
+    - Golden State Warriors
+    - 100.0
+    - ''
+    - ''
+  - - Thu, Dec 13, 2001
+    - 7.0
+    - 200112130IND
+    - Houston Rockets
+    - 106.0
+    - Indiana Pacers
+    - 108.0
+    - OT
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140BOS
+    - Chicago Bulls
+    - 101.0
+    - Boston Celtics
+    - 107.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140LAL
+    - Los Angeles Clippers
+    - 80.0
+    - Los Angeles Lakers
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140MIA
+    - New Jersey Nets
+    - 95.0
+    - Miami Heat
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140MIN
+    - Sacramento Kings
+    - 94.0
+    - Minnesota Timberwolves
+    - 114.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140PHI
+    - Milwaukee Bucks
+    - 96.0
+    - Philadelphia 76ers
+    - 80.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140PHO
+    - San Antonio Spurs
+    - 105.0
+    - Phoenix Suns
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140UTA
+    - Portland Trail Blazers
+    - 85.0
+    - Utah Jazz
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Dec 14, 2001
+    - 7.0
+    - 200112140WAS
+    - New York Knicks
+    - 80.0
+    - Washington Wizards
+    - 96.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150CHH
+    - Boston Celtics
+    - 106.0
+    - Charlotte Hornets
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150CHI
+    - Atlanta Hawks
+    - 80.0
+    - Chicago Bulls
+    - 79.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150CLE
+    - Philadelphia 76ers
+    - 94.0
+    - Cleveland Cavaliers
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150DAL
+    - Minnesota Timberwolves
+    - 117.0
+    - Dallas Mavericks
+    - 125.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150DEN
+    - Phoenix Suns
+    - 98.0
+    - Denver Nuggets
+    - 106.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150GSW
+    - Memphis Grizzlies
+    - 84.0
+    - Golden State Warriors
+    - 93.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150HOU
+    - Miami Heat
+    - 76.0
+    - Houston Rockets
+    - 73.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150MIL
+    - Indiana Pacers
+    - 95.0
+    - Milwaukee Bucks
+    - 115.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150POR
+    - Orlando Magic
+    - 106.0
+    - Portland Trail Blazers
+    - 117.0
+    - ''
+    - ''
+  - - Sat, Dec 15, 2001
+    - 7.0
+    - 200112150SAS
+    - Utah Jazz
+    - 80.0
+    - San Antonio Spurs
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 12.0
+    - 200112160LAC
+    - Detroit Pistons
+    - 77.0
+    - Los Angeles Clippers
+    - 82.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 6.0
+    - 200112160LAL
+    - Golden State Warriors
+    - 85.0
+    - Los Angeles Lakers
+    - 101.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 7.0
+    - 200112160NYK
+    - New Jersey Nets
+    - 114.0
+    - New York Knicks
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 6.0
+    - 200112160SAC
+    - Memphis Grizzlies
+    - 87.0
+    - Sacramento Kings
+    - 104.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 6.0
+    - 200112160SEA
+    - Orlando Magic
+    - 91.0
+    - Seattle SuperSonics
+    - 114.0
+    - ''
+    - ''
+  - - Sun, Dec 16, 2001
+    - 3.0
+    - 200112160TOR
+    - Washington Wizards
+    - 93.0
+    - Toronto Raptors
+    - 88.0
+    - ''
+    - ''
+  - - Mon, Dec 17, 2001
+    - 7.0
+    - 200112170PHI
+    - Boston Celtics
+    - 83.0
+    - Philadelphia 76ers
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180ATL
+    - Indiana Pacers
+    - 103.0
+    - Atlanta Hawks
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180CHH
+    - New York Knicks
+    - 100.0
+    - Charlotte Hornets
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180CLE
+    - Chicago Bulls
+    - 84.0
+    - Cleveland Cavaliers
+    - 102.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180DEN
+    - San Antonio Spurs
+    - 102.0
+    - Denver Nuggets
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180HOU
+    - Portland Trail Blazers
+    - 101.0
+    - Houston Rockets
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180MEM
+    - Milwaukee Bucks
+    - 114.0
+    - Memphis Grizzlies
+    - 105.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180MIA
+    - Utah Jazz
+    - 95.0
+    - Miami Heat
+    - 56.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180MIN
+    - Dallas Mavericks
+    - 107.0
+    - Minnesota Timberwolves
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 6.0
+    - 200112180PHO
+    - Los Angeles Clippers
+    - 96.0
+    - Phoenix Suns
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Dec 18, 2001
+    - 7.0
+    - 200112180SAC
+    - Detroit Pistons
+    - 98.0
+    - Sacramento Kings
+    - 102.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190BOS
+    - Cleveland Cavaliers
+    - 98.0
+    - Boston Celtics
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190GSW
+    - Detroit Pistons
+    - 88.0
+    - Golden State Warriors
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 8.0
+    - 200112190IND
+    - Toronto Raptors
+    - 102.0
+    - Indiana Pacers
+    - 90.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190NJN
+    - Minnesota Timberwolves
+    - 112.0
+    - New Jersey Nets
+    - 117.0
+    - OT
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190ORL
+    - Utah Jazz
+    - 90.0
+    - Orlando Magic
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190PHI
+    - Charlotte Hornets
+    - 94.0
+    - Philadelphia 76ers
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190SAS
+    - Portland Trail Blazers
+    - 79.0
+    - San Antonio Spurs
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190SEA
+    - Sacramento Kings
+    - 92.0
+    - Seattle SuperSonics
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Dec 19, 2001
+    - 7.0
+    - 200112190WAS
+    - Atlanta Hawks
+    - 76.0
+    - Washington Wizards
+    - 103.0
+    - ''
+    - ''
+  - - Thu, Dec 20, 2001
+    - 7.0
+    - 200112200DAL
+    - Milwaukee Bucks
+    - 101.0
+    - Dallas Mavericks
+    - 113.0
+    - ''
+    - ''
+  - - Thu, Dec 20, 2001
+    - 8.0
+    - 200112200HOU
+    - Los Angeles Lakers
+    - 107.0
+    - Houston Rockets
+    - 101.0
+    - ''
+    - ''
+  - - Thu, Dec 20, 2001
+    - 7.0
+    - 200112200NYK
+    - Memphis Grizzlies
+    - 90.0
+    - New York Knicks
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Dec 20, 2001
+    - 7.0
+    - 200112200TOR
+    - Chicago Bulls
+    - 91.0
+    - Toronto Raptors
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210BOS
+    - Utah Jazz
+    - 92.0
+    - Boston Celtics
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210GSW
+    - Seattle SuperSonics
+    - 111.0
+    - Golden State Warriors
+    - 108.0
+    - OT
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210IND
+    - New Jersey Nets
+    - 94.0
+    - Indiana Pacers
+    - 100.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210MEM
+    - Los Angeles Lakers
+    - 108.0
+    - Memphis Grizzlies
+    - 114.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210MIA
+    - Cleveland Cavaliers
+    - 86.0
+    - Miami Heat
+    - 81.0
+    - OT
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210MIN
+    - Charlotte Hornets
+    - 89.0
+    - Minnesota Timberwolves
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210ORL
+    - Washington Wizards
+    - 93.0
+    - Orlando Magic
+    - 75.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210PHI
+    - Atlanta Hawks
+    - 83.0
+    - Philadelphia 76ers
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210POR
+    - Detroit Pistons
+    - 81.0
+    - Portland Trail Blazers
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Dec 21, 2001
+    - 7.0
+    - 200112210SAS
+    - Denver Nuggets
+    - 74.0
+    - San Antonio Spurs
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220ATL
+    - Charlotte Hornets
+    - 88.0
+    - Atlanta Hawks
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220CHI
+    - Minnesota Timberwolves
+    - 95.0
+    - Chicago Bulls
+    - 74.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220CLE
+    - Indiana Pacers
+    - 109.0
+    - Cleveland Cavaliers
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220DAL
+    - Orlando Magic
+    - 80.0
+    - Dallas Mavericks
+    - 102.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220DEN
+    - Golden State Warriors
+    - 105.0
+    - Denver Nuggets
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220HOU
+    - Milwaukee Bucks
+    - 110.0
+    - Houston Rockets
+    - 115.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220LAC
+    - Sacramento Kings
+    - 85.0
+    - Los Angeles Clippers
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 8.0
+    - 200112220NJN
+    - Utah Jazz
+    - 104.0
+    - New Jersey Nets
+    - 90.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220NYK
+    - Washington Wizards
+    - 87.0
+    - New York Knicks
+    - 86.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220PHO
+    - Portland Trail Blazers
+    - 90.0
+    - Phoenix Suns
+    - 102.0
+    - ''
+    - ''
+  - - Sat, Dec 22, 2001
+    - 7.0
+    - 200112220SEA
+    - Detroit Pistons
+    - 89.0
+    - Seattle SuperSonics
+    - 117.0
+    - ''
+    - ''
+  - - Sun, Dec 23, 2001
+    - 6.0
+    - 200112230BOS
+    - Memphis Grizzlies
+    - 80.0
+    - Boston Celtics
+    - 85.0
+    - ''
+    - ''
+  - - Sun, Dec 23, 2001
+    - 6.0
+    - 200112230SAC
+    - Phoenix Suns
+    - 101.0
+    - Sacramento Kings
+    - 133.0
+    - ''
+    - ''
+  - - Sun, Dec 23, 2001
+    - 6.0
+    - 200112230SAS
+    - Milwaukee Bucks
+    - 101.0
+    - San Antonio Spurs
+    - 91.0
+    - ''
+    - ''
+  - - Sun, Dec 23, 2001
+    - 3.0
+    - 200112230TOR
+    - Miami Heat
+    - 76.0
+    - Toronto Raptors
+    - 83.0
+    - ''
+    - ''
+  - - Tue, Dec 25, 2001
+    - 5.0
+    - 200112250LAL
+    - Philadelphia 76ers
+    - 82.0
+    - Los Angeles Lakers
+    - 88.0
+    - ''
+    - ''
+  - - Tue, Dec 25, 2001
+    - 6.0
+    - 200112250NYK
+    - Toronto Raptors
+    - 94.0
+    - New York Knicks
+    - 102.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 8.0
+    - 200112260CHH
+    - Washington Wizards
+    - 93.0
+    - Charlotte Hornets
+    - 99.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260CLE
+    - New Jersey Nets
+    - 91.0
+    - Cleveland Cavaliers
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260DEN
+    - Minnesota Timberwolves
+    - 94.0
+    - Denver Nuggets
+    - 91.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260GSW
+    - Los Angeles Lakers
+    - 90.0
+    - Golden State Warriors
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260HOU
+    - Phoenix Suns
+    - 97.0
+    - Houston Rockets
+    - 91.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260LAC
+    - Philadelphia 76ers
+    - 100.0
+    - Los Angeles Clippers
+    - 86.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260MEM
+    - Chicago Bulls
+    - 85.0
+    - Memphis Grizzlies
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260MIL
+    - Atlanta Hawks
+    - 97.0
+    - Milwaukee Bucks
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 8.0
+    - 200112260ORL
+    - Indiana Pacers
+    - 89.0
+    - Orlando Magic
+    - 82.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260SAC
+    - Portland Trail Blazers
+    - 74.0
+    - Sacramento Kings
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260SAS
+    - Dallas Mavericks
+    - 126.0
+    - San Antonio Spurs
+    - 123.0
+    - OT
+    - ''
+  - - Wed, Dec 26, 2001
+    - 7.0
+    - 200112260UTA
+    - Boston Celtics
+    - 86.0
+    - Utah Jazz
+    - 99.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270ATL
+    - Miami Heat
+    - 96.0
+    - Atlanta Hawks
+    - 100.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270DAL
+    - Chicago Bulls
+    - 74.0
+    - Dallas Mavericks
+    - 89.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270DET
+    - New Jersey Nets
+    - 88.0
+    - Detroit Pistons
+    - 75.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270IND
+    - Washington Wizards
+    - 81.0
+    - Indiana Pacers
+    - 108.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270PHO
+    - Boston Celtics
+    - 82.0
+    - Phoenix Suns
+    - 84.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 6.0
+    - 200112270POR
+    - Utah Jazz
+    - 99.0
+    - Portland Trail Blazers
+    - 87.0
+    - ''
+    - ''
+  - - Thu, Dec 27, 2001
+    - 7.0
+    - 200112270SEA
+    - Los Angeles Clippers
+    - 90.0
+    - Seattle SuperSonics
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280CHH
+    - Milwaukee Bucks
+    - 105.0
+    - Charlotte Hornets
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280CLE
+    - New York Knicks
+    - 88.0
+    - Cleveland Cavaliers
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280DEN
+    - Philadelphia 76ers
+    - 90.0
+    - Denver Nuggets
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280GSW
+    - Houston Rockets
+    - 100.0
+    - Golden State Warriors
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280LAL
+    - Toronto Raptors
+    - 89.0
+    - Los Angeles Lakers
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280MIA
+    - Memphis Grizzlies
+    - 91.0
+    - Miami Heat
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280ORL
+    - Detroit Pistons
+    - 78.0
+    - Orlando Magic
+    - 87.0
+    - ''
+    - ''
+  - - Fri, Dec 28, 2001
+    - 7.0
+    - 200112280SAC
+    - Minnesota Timberwolves
+    - 111.0
+    - Sacramento Kings
+    - 125.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290CHI
+    - Cleveland Cavaliers
+    - 80.0
+    - Chicago Bulls
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290DAL
+    - Atlanta Hawks
+    - 97.0
+    - Dallas Mavericks
+    - 113.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 12.0
+    - 200112290LAC
+    - Boston Celtics
+    - 105.0
+    - Los Angeles Clippers
+    - 103.0
+    - OT
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290MIL
+    - San Antonio Spurs
+    - 99.0
+    - Milwaukee Bucks
+    - 102.0
+    - OT
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290NJN
+    - Indiana Pacers
+    - 93.0
+    - New Jersey Nets
+    - 98.0
+    - OT
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290PHO
+    - Denver Nuggets
+    - 92.0
+    - Phoenix Suns
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290SEA
+    - Toronto Raptors
+    - 75.0
+    - Seattle SuperSonics
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290UTA
+    - Philadelphia 76ers
+    - 81.0
+    - Utah Jazz
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Dec 29, 2001
+    - 7.0
+    - 200112290WAS
+    - Charlotte Hornets
+    - 90.0
+    - Washington Wizards
+    - 107.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 6.0
+    - 200112300DET
+    - Miami Heat
+    - 80.0
+    - Detroit Pistons
+    - 86.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 6.0
+    - 200112300LAL
+    - Houston Rockets
+    - 90.0
+    - Los Angeles Lakers
+    - 114.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 6.0
+    - 200112300MEM
+    - San Antonio Spurs
+    - 83.0
+    - Memphis Grizzlies
+    - 79.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 7.0
+    - 200112300NYK
+    - Orlando Magic
+    - 94.0
+    - New York Knicks
+    - 90.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 7.0
+    - 200112300POR
+    - Minnesota Timberwolves
+    - 95.0
+    - Portland Trail Blazers
+    - 93.0
+    - ''
+    - ''
+  - - Sun, Dec 30, 2001
+    - 6.0
+    - 200112300SAC
+    - Boston Celtics
+    - 94.0
+    - Sacramento Kings
+    - 109.0
+    - ''
+    - ''
+  - - Mon, Dec 31, 2001
+    - 2.0
+    - 200112310CHI
+    - Milwaukee Bucks
+    - 83.0
+    - Chicago Bulls
+    - 90.0
+    - ''
+    - ''
+  - - Mon, Dec 31, 2001
+    - 7.0
+    - 200112310IND
+    - Miami Heat
+    - 89.0
+    - Indiana Pacers
+    - 87.0
+    - ''
+    - ''
+  - - Mon, Dec 31, 2001
+    - 8.0
+    - 200112310WAS
+    - New Jersey Nets
+    - 76.0
+    - Washington Wizards
+    - 98.0
+    - ''
+    - ''
+  - - Tue, Jan 1, 2002
+    - 6.0
+    - 200201010LAC
+    - Portland Trail Blazers
+    - 97.0
+    - Los Angeles Clippers
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020BOS
+    - Orlando Magic
+    - 94.0
+    - Boston Celtics
+    - 110.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020CHI
+    - Dallas Mavericks
+    - 107.0
+    - Chicago Bulls
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020CLE
+    - Golden State Warriors
+    - 98.0
+    - Cleveland Cavaliers
+    - 113.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020DEN
+    - Los Angeles Lakers
+    - 87.0
+    - Denver Nuggets
+    - 86.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020MIN
+    - Milwaukee Bucks
+    - 77.0
+    - Minnesota Timberwolves
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020NJN
+    - Memphis Grizzlies
+    - 74.0
+    - New Jersey Nets
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020PHO
+    - Philadelphia 76ers
+    - 102.0
+    - Phoenix Suns
+    - 81.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020POR
+    - Toronto Raptors
+    - 95.0
+    - Portland Trail Blazers
+    - 84.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020SAC
+    - Los Angeles Clippers
+    - 91.0
+    - Sacramento Kings
+    - 105.0
+    - ''
+    - ''
+  - - Wed, Jan 2, 2002
+    - 7.0
+    - 200201020SAS
+    - Detroit Pistons
+    - 85.0
+    - San Antonio Spurs
+    - 97.0
+    - ''
+    - ''
+  - - Thu, Jan 3, 2002
+    - 7.0
+    - 200201030CHH
+    - Golden State Warriors
+    - 102.0
+    - Charlotte Hornets
+    - 114.0
+    - ''
+    - ''
+  - - Thu, Jan 3, 2002
+    - 7.0
+    - 200201030HOU
+    - Detroit Pistons
+    - 97.0
+    - Houston Rockets
+    - 99.0
+    - ''
+    - ''
+  - - Thu, Jan 3, 2002
+    - 7.0
+    - 200201030NYK
+    - Dallas Mavericks
+    - 101.0
+    - New York Knicks
+    - 108.0
+    - OT
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040BOS
+    - Miami Heat
+    - 89.0
+    - Boston Celtics
+    - 66.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040DEN
+    - Los Angeles Clippers
+    - 82.0
+    - Denver Nuggets
+    - 80.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040LAL
+    - Phoenix Suns
+    - 86.0
+    - Los Angeles Lakers
+    - 118.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040MEM
+    - Atlanta Hawks
+    - 113.0
+    - Memphis Grizzlies
+    - 109.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040MIN
+    - Utah Jazz
+    - 86.0
+    - Minnesota Timberwolves
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040NJN
+    - Orlando Magic
+    - 109.0
+    - New Jersey Nets
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040SAS
+    - Indiana Pacers
+    - 92.0
+    - San Antonio Spurs
+    - 82.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040SEA
+    - Philadelphia 76ers
+    - 87.0
+    - Seattle SuperSonics
+    - 77.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040TOR
+    - Cleveland Cavaliers
+    - 91.0
+    - Toronto Raptors
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Jan 4, 2002
+    - 7.0
+    - 200201040WAS
+    - Chicago Bulls
+    - 83.0
+    - Washington Wizards
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050ATL
+    - Minnesota Timberwolves
+    - 112.0
+    - Atlanta Hawks
+    - 96.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050CHH
+    - New Jersey Nets
+    - 89.0
+    - Charlotte Hornets
+    - 80.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050CHI
+    - Utah Jazz
+    - 113.0
+    - Chicago Bulls
+    - 111.0
+    - OT
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050DAL
+    - San Antonio Spurs
+    - 105.0
+    - Dallas Mavericks
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050DET
+    - Cleveland Cavaliers
+    - 91.0
+    - Detroit Pistons
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050HOU
+    - Indiana Pacers
+    - 81.0
+    - Houston Rockets
+    - 79.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050LAC
+    - Milwaukee Bucks
+    - 83.0
+    - Los Angeles Clippers
+    - 86.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050NYK
+    - Boston Celtics
+    - 90.0
+    - New York Knicks
+    - 81.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050ORL
+    - Golden State Warriors
+    - 109.0
+    - Orlando Magic
+    - 118.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050PHO
+    - Sacramento Kings
+    - 118.0
+    - Phoenix Suns
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Jan 5, 2002
+    - 7.0
+    - 200201050POR
+    - Philadelphia 76ers
+    - 88.0
+    - Portland Trail Blazers
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Jan 6, 2002
+    - 2.0
+    - 200201060MEM
+    - Seattle SuperSonics
+    - 89.0
+    - Memphis Grizzlies
+    - 77.0
+    - ''
+    - ''
+  - - Sun, Jan 6, 2002
+    - 7.0
+    - 200201060MIA
+    - Golden State Warriors
+    - 84.0
+    - Miami Heat
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Jan 6, 2002
+    - 6.0
+    - 200201060SAC
+    - Milwaukee Bucks
+    - 101.0
+    - Sacramento Kings
+    - 115.0
+    - ''
+    - ''
+  - - Sun, Jan 6, 2002
+    - 3.0
+    - 200201060TOR
+    - Los Angeles Lakers
+    - 109.0
+    - Toronto Raptors
+    - 89.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070CHH
+    - Denver Nuggets
+    - 80.0
+    - Charlotte Hornets
+    - 94.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070CHI
+    - Seattle SuperSonics
+    - 100.0
+    - Chicago Bulls
+    - 88.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070CLE
+    - Portland Trail Blazers
+    - 98.0
+    - Cleveland Cavaliers
+    - 72.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070MIN
+    - Detroit Pistons
+    - 93.0
+    - Minnesota Timberwolves
+    - 109.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070ORL
+    - Boston Celtics
+    - 87.0
+    - Orlando Magic
+    - 98.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070PHI
+    - Los Angeles Clippers
+    - 92.0
+    - Philadelphia 76ers
+    - 116.0
+    - ''
+    - ''
+  - - Mon, Jan 7, 2002
+    - 7.0
+    - 200201070SAS
+    - New York Knicks
+    - 79.0
+    - San Antonio Spurs
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080ATL
+    - Portland Trail Blazers
+    - 92.0
+    - Atlanta Hawks
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080DAL
+    - Denver Nuggets
+    - 94.0
+    - Dallas Mavericks
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 8.0
+    - 200201080DET
+    - Los Angeles Lakers
+    - 121.0
+    - Detroit Pistons
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080GSW
+    - Milwaukee Bucks
+    - 113.0
+    - Golden State Warriors
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080HOU
+    - New York Knicks
+    - 86.0
+    - Houston Rockets
+    - 88.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080MEM
+    - Toronto Raptors
+    - 81.0
+    - Memphis Grizzlies
+    - 84.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080NJN
+    - Miami Heat
+    - 95.0
+    - New Jersey Nets
+    - 104.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080UTA
+    - Phoenix Suns
+    - 84.0
+    - Utah Jazz
+    - 98.0
+    - ''
+    - ''
+  - - Tue, Jan 8, 2002
+    - 7.0
+    - 200201080WAS
+    - Los Angeles Clippers
+    - 88.0
+    - Washington Wizards
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 7.0
+    - 200201090BOS
+    - San Antonio Spurs
+    - 93.0
+    - Boston Celtics
+    - 90.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 7.0
+    - 200201090CHH
+    - Atlanta Hawks
+    - 87.0
+    - Charlotte Hornets
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 7.0
+    - 200201090CHI
+    - Toronto Raptors
+    - 85.0
+    - Chicago Bulls
+    - 73.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 7.0
+    - 200201090IND
+    - Los Angeles Lakers
+    - 109.0
+    - Indiana Pacers
+    - 90.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 7.0
+    - 200201090MIN
+    - Seattle SuperSonics
+    - 106.0
+    - Minnesota Timberwolves
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Jan 9, 2002
+    - 8.0
+    - 200201090PHI
+    - Orlando Magic
+    - 102.0
+    - Philadelphia 76ers
+    - 91.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 8.0
+    - 200201100DAL
+    - New York Knicks
+    - 89.0
+    - Dallas Mavericks
+    - 111.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 7.0
+    - 200201100DEN
+    - Cleveland Cavaliers
+    - 91.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 7.0
+    - 200201100MIA
+    - Portland Trail Blazers
+    - 92.0
+    - Miami Heat
+    - 85.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 7.0
+    - 200201100NJN
+    - Los Angeles Clippers
+    - 89.0
+    - New Jersey Nets
+    - 108.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 7.0
+    - 200201100PHO
+    - Memphis Grizzlies
+    - 102.0
+    - Phoenix Suns
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Jan 10, 2002
+    - 7.0
+    - 200201100UTA
+    - Houston Rockets
+    - 79.0
+    - Utah Jazz
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110BOS
+    - Detroit Pistons
+    - 90.0
+    - Boston Celtics
+    - 104.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110CHH
+    - Los Angeles Clippers
+    - 91.0
+    - Charlotte Hornets
+    - 92.0
+    - OT
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110IND
+    - Chicago Bulls
+    - 90.0
+    - Indiana Pacers
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110MIL
+    - Washington Wizards
+    - 86.0
+    - Milwaukee Bucks
+    - 105.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110MIN
+    - Los Angeles Lakers
+    - 102.0
+    - Minnesota Timberwolves
+    - 120.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110ORL
+    - Portland Trail Blazers
+    - 92.0
+    - Orlando Magic
+    - 84.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110PHI
+    - San Antonio Spurs
+    - 84.0
+    - Philadelphia 76ers
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110SEA
+    - Cleveland Cavaliers
+    - 100.0
+    - Seattle SuperSonics
+    - 102.0
+    - ''
+    - ''
+  - - Fri, Jan 11, 2002
+    - 7.0
+    - 200201110TOR
+    - Atlanta Hawks
+    - 91.0
+    - Toronto Raptors
+    - 94.0
+    - OT
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120ATL
+    - Boston Celtics
+    - 115.0
+    - Atlanta Hawks
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120CHI
+    - Los Angeles Lakers
+    - 104.0
+    - Chicago Bulls
+    - 106.0
+    - OT
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120DAL
+    - Indiana Pacers
+    - 102.0
+    - Dallas Mavericks
+    - 111.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120DET
+    - Charlotte Hornets
+    - 76.0
+    - Detroit Pistons
+    - 104.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120HOU
+    - Denver Nuggets
+    - 86.0
+    - Houston Rockets
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120NYK
+    - Milwaukee Bucks
+    - 102.0
+    - New York Knicks
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120ORL
+    - New Jersey Nets
+    - 91.0
+    - Orlando Magic
+    - 85.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120PHO
+    - Miami Heat
+    - 74.0
+    - Phoenix Suns
+    - 108.0
+    - ''
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120UTA
+    - Memphis Grizzlies
+    - 97.0
+    - Utah Jazz
+    - 95.0
+    - 2.0
+    - ''
+  - - Sat, Jan 12, 2002
+    - 7.0
+    - 200201120WAS
+    - Minnesota Timberwolves
+    - 108.0
+    - Washington Wizards
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Jan 13, 2002
+    - 7.0
+    - 200201130POR
+    - Cleveland Cavaliers
+    - 64.0
+    - Portland Trail Blazers
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Jan 13, 2002
+    - 6.0
+    - 200201130SAC
+    - Phoenix Suns
+    - 100.0
+    - Sacramento Kings
+    - 103.0
+    - ''
+    - ''
+  - - Sun, Jan 13, 2002
+    - 3.0
+    - 200201130TOR
+    - Los Angeles Clippers
+    - 79.0
+    - Toronto Raptors
+    - 72.0
+    - ''
+    - ''
+  - - Mon, Jan 14, 2002
+    - 7.0
+    - 200201140GSW
+    - Miami Heat
+    - 85.0
+    - Golden State Warriors
+    - 79.0
+    - ''
+    - ''
+  - - Mon, Jan 14, 2002
+    - 7.0
+    - 200201140LAL
+    - Memphis Grizzlies
+    - 81.0
+    - Los Angeles Lakers
+    - 120.0
+    - ''
+    - ''
+  - - Mon, Jan 14, 2002
+    - 7.0
+    - 200201140NJN
+    - San Antonio Spurs
+    - 97.0
+    - New Jersey Nets
+    - 99.0
+    - ''
+    - ''
+  - - Mon, Jan 14, 2002
+    - 7.0
+    - 200201140ORL
+    - Dallas Mavericks
+    - 87.0
+    - Orlando Magic
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Jan 14, 2002
+    - 7.0
+    - 200201140UTA
+    - Denver Nuggets
+    - 97.0
+    - Utah Jazz
+    - 106.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150ATL
+    - Dallas Mavericks
+    - 116.0
+    - Atlanta Hawks
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150CHI
+    - Charlotte Hornets
+    - 94.0
+    - Chicago Bulls
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150DET
+    - Toronto Raptors
+    - 92.0
+    - Detroit Pistons
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150IND
+    - Milwaukee Bucks
+    - 106.0
+    - Indiana Pacers
+    - 102.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150MIN
+    - Los Angeles Clippers
+    - 83.0
+    - Minnesota Timberwolves
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 8.0
+    - 200201150PHI
+    - Houston Rockets
+    - 106.0
+    - Philadelphia 76ers
+    - 112.0
+    - OT
+    - ''
+  - - Tue, Jan 15, 2002
+    - 7.0
+    - 200201150SAC
+    - Cleveland Cavaliers
+    - 102.0
+    - Sacramento Kings
+    - 109.0
+    - ''
+    - ''
+  - - Tue, Jan 15, 2002
+    - 8.0
+    - 200201150WAS
+    - San Antonio Spurs
+    - 96.0
+    - Washington Wizards
+    - 91.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160BOS
+    - New York Knicks
+    - 100.0
+    - Boston Celtics
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 6.0
+    - 200201160DEN
+    - Sacramento Kings
+    - 112.0
+    - Denver Nuggets
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160GSW
+    - Cleveland Cavaliers
+    - 88.0
+    - Golden State Warriors
+    - 117.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160LAL
+    - Miami Heat
+    - 102.0
+    - Los Angeles Lakers
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160MIL
+    - Indiana Pacers
+    - 100.0
+    - Milwaukee Bucks
+    - 105.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160NJN
+    - Washington Wizards
+    - 67.0
+    - New Jersey Nets
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160PHO
+    - Portland Trail Blazers
+    - 108.0
+    - Phoenix Suns
+    - 99.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160TOR
+    - Houston Rockets
+    - 103.0
+    - Toronto Raptors
+    - 109.0
+    - ''
+    - ''
+  - - Wed, Jan 16, 2002
+    - 7.0
+    - 200201160UTA
+    - Seattle SuperSonics
+    - 80.0
+    - Utah Jazz
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Jan 17, 2002
+    - 7.0
+    - 200201170ATL
+    - Chicago Bulls
+    - 94.0
+    - Atlanta Hawks
+    - 91.0
+    - ''
+    - ''
+  - - Thu, Jan 17, 2002
+    - 7.0
+    - 200201170CHH
+    - Philadelphia 76ers
+    - 93.0
+    - Charlotte Hornets
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Jan 17, 2002
+    - 7.0
+    - 200201170MEM
+    - Dallas Mavericks
+    - 108.0
+    - Memphis Grizzlies
+    - 97.0
+    - ''
+    - ''
+  - - Thu, Jan 17, 2002
+    - 7.0
+    - 200201170POR
+    - Miami Heat
+    - 92.0
+    - Portland Trail Blazers
+    - 90.0
+    - OT
+    - ''
+  - - Thu, Jan 17, 2002
+    - 8.0
+    - 200201170SAS
+    - Utah Jazz
+    - 98.0
+    - San Antonio Spurs
+    - 102.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180BOS
+    - Houston Rockets
+    - 104.0
+    - Boston Celtics
+    - 101.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180DEN
+    - Seattle SuperSonics
+    - 90.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180IND
+    - Detroit Pistons
+    - 96.0
+    - Indiana Pacers
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180LAC
+    - Cleveland Cavaliers
+    - 103.0
+    - Los Angeles Clippers
+    - 109.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180MIL
+    - Orlando Magic
+    - 110.0
+    - Milwaukee Bucks
+    - 115.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180PHO
+    - Minnesota Timberwolves
+    - 100.0
+    - Phoenix Suns
+    - 103.0
+    - OT
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180SAC
+    - Golden State Warriors
+    - 97.0
+    - Sacramento Kings
+    - 121.0
+    - ''
+    - ''
+  - - Fri, Jan 18, 2002
+    - 7.0
+    - 200201180TOR
+    - New Jersey Nets
+    - 77.0
+    - Toronto Raptors
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190ATL
+    - Milwaukee Bucks
+    - 116.0
+    - Atlanta Hawks
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190CHH
+    - Toronto Raptors
+    - 91.0
+    - Charlotte Hornets
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 8.0
+    - 200201190CHI
+    - Washington Wizards
+    - 77.0
+    - Chicago Bulls
+    - 69.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 8.0
+    - 200201190DAL
+    - Utah Jazz
+    - 103.0
+    - Dallas Mavericks
+    - 106.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190DET
+    - Boston Celtics
+    - 91.0
+    - Detroit Pistons
+    - 94.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190GSW
+    - Minnesota Timberwolves
+    - 105.0
+    - Golden State Warriors
+    - 102.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 8.0
+    - 200201190MEM
+    - Orlando Magic
+    - 119.0
+    - Memphis Grizzlies
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 9.0
+    - 200201190MIA
+    - Indiana Pacers
+    - 88.0
+    - Miami Heat
+    - 100.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 8.0
+    - 200201190NJN
+    - Houston Rockets
+    - 90.0
+    - New Jersey Nets
+    - 99.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 4.0
+    - 200201190PHI
+    - New York Knicks
+    - 89.0
+    - Philadelphia 76ers
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190POR
+    - Los Angeles Clippers
+    - 93.0
+    - Portland Trail Blazers
+    - 113.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 12.0
+    - 200201190SAS
+    - Los Angeles Lakers
+    - 98.0
+    - San Antonio Spurs
+    - 81.0
+    - ''
+    - ''
+  - - Sat, Jan 19, 2002
+    - 7.0
+    - 200201190SEA
+    - Denver Nuggets
+    - 77.0
+    - Seattle SuperSonics
+    - 104.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 2.0
+    - 200201210ATL
+    - Houston Rockets
+    - 91.0
+    - Atlanta Hawks
+    - 95.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 7.0
+    - 200201210BOS
+    - Toronto Raptors
+    - 97.0
+    - Boston Celtics
+    - 106.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 2.0
+    - 200201210CHI
+    - Indiana Pacers
+    - 93.0
+    - Chicago Bulls
+    - 81.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 7.0
+    - 200201210CLE
+    - Miami Heat
+    - 95.0
+    - Cleveland Cavaliers
+    - 93.0
+    - OT
+    - ''
+  - - Mon, Jan 21, 2002
+    - 2.0
+    - 200201210DAL
+    - New Jersey Nets
+    - 105.0
+    - Dallas Mavericks
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 3.0
+    - 200201210DET
+    - Milwaukee Bucks
+    - 97.0
+    - Detroit Pistons
+    - 79.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 1.0
+    - 200201210GSW
+    - Utah Jazz
+    - 101.0
+    - Golden State Warriors
+    - 99.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 7.0
+    - 200201210LAC
+    - Denver Nuggets
+    - 89.0
+    - Los Angeles Clippers
+    - 102.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 5.0
+    - 200201210MIN
+    - Washington Wizards
+    - 101.0
+    - Minnesota Timberwolves
+    - 105.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 1.0
+    - 200201210NYK
+    - Charlotte Hornets
+    - 111.0
+    - New York Knicks
+    - 68.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 2.0
+    - 200201210PHI
+    - Seattle SuperSonics
+    - 109.0
+    - Philadelphia 76ers
+    - 98.0
+    - ''
+    - ''
+  - - Mon, Jan 21, 2002
+    - 7.0
+    - 200201210SAC
+    - Memphis Grizzlies
+    - 98.0
+    - Sacramento Kings
+    - 112.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220HOU
+    - Dallas Mavericks
+    - 113.0
+    - Houston Rockets
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220LAL
+    - Denver Nuggets
+    - 107.0
+    - Los Angeles Lakers
+    - 91.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220MIA
+    - Chicago Bulls
+    - 79.0
+    - Miami Heat
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220MIL
+    - Phoenix Suns
+    - 92.0
+    - Milwaukee Bucks
+    - 81.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220ORL
+    - Atlanta Hawks
+    - 86.0
+    - Orlando Magic
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220POR
+    - Sacramento Kings
+    - 110.0
+    - Portland Trail Blazers
+    - 116.0
+    - OT
+    - ''
+  - - Tue, Jan 22, 2002
+    - 7.0
+    - 200201220SAS
+    - New Jersey Nets
+    - 92.0
+    - San Antonio Spurs
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Jan 22, 2002
+    - 8.0
+    - 200201220WAS
+    - Philadelphia 76ers
+    - 91.0
+    - Washington Wizards
+    - 84.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230BOS
+    - Indiana Pacers
+    - 94.0
+    - Boston Celtics
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230CHH
+    - Seattle SuperSonics
+    - 101.0
+    - Charlotte Hornets
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230DET
+    - Minnesota Timberwolves
+    - 83.0
+    - Detroit Pistons
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230GSW
+    - Memphis Grizzlies
+    - 95.0
+    - Golden State Warriors
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230LAC
+    - Los Angeles Lakers
+    - 90.0
+    - Los Angeles Clippers
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 8.0
+    - 200201230TOR
+    - New York Knicks
+    - 96.0
+    - Toronto Raptors
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Jan 23, 2002
+    - 7.0
+    - 200201230UTA
+    - San Antonio Spurs
+    - 98.0
+    - Utah Jazz
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240DEN
+    - Dallas Mavericks
+    - 104.0
+    - Denver Nuggets
+    - 97.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240HOU
+    - New Jersey Nets
+    - 103.0
+    - Houston Rockets
+    - 98.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240MIL
+    - Seattle SuperSonics
+    - 99.0
+    - Milwaukee Bucks
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240NYK
+    - Phoenix Suns
+    - 91.0
+    - New York Knicks
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240ORL
+    - Miami Heat
+    - 87.0
+    - Orlando Magic
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240POR
+    - Memphis Grizzlies
+    - 82.0
+    - Portland Trail Blazers
+    - 120.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 6.0
+    - 200201240SAC
+    - Utah Jazz
+    - 80.0
+    - Sacramento Kings
+    - 113.0
+    - ''
+    - ''
+  - - Thu, Jan 24, 2002
+    - 7.0
+    - 200201240WAS
+    - Cleveland Cavaliers
+    - 85.0
+    - Washington Wizards
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Jan 25, 2002
+    - 7.0
+    - 200201250ATL
+    - Detroit Pistons
+    - 107.0
+    - Atlanta Hawks
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Jan 25, 2002
+    - 7.0
+    - 200201250BOS
+    - Philadelphia 76ers
+    - 106.0
+    - Boston Celtics
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Jan 25, 2002
+    - 7.0
+    - 200201250IND
+    - Charlotte Hornets
+    - 81.0
+    - Indiana Pacers
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Jan 25, 2002
+    - 7.0
+    - 200201250LAL
+    - San Antonio Spurs
+    - 91.0
+    - Los Angeles Lakers
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Jan 25, 2002
+    - 7.0
+    - 200201250TOR
+    - Minnesota Timberwolves
+    - 100.0
+    - Toronto Raptors
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 8.0
+    - 200201260CHH
+    - Houston Rockets
+    - 111.0
+    - Charlotte Hornets
+    - 104.0
+    - OT
+    - ''
+  - - Sat, Jan 26, 2002
+    - 7.0
+    - 200201260CHI
+    - Memphis Grizzlies
+    - 92.0
+    - Chicago Bulls
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 8.0
+    - 200201260CLE
+    - Boston Celtics
+    - 108.0
+    - Cleveland Cavaliers
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 7.0
+    - 200201260GSW
+    - San Antonio Spurs
+    - 90.0
+    - Golden State Warriors
+    - 82.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 8.0
+    - 200201260IND
+    - Seattle SuperSonics
+    - 95.0
+    - Indiana Pacers
+    - 86.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 7.0
+    - 200201260LAC
+    - Dallas Mavericks
+    - 133.0
+    - Los Angeles Clippers
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 3.0
+    - 200201260MIA
+    - New Jersey Nets
+    - 77.0
+    - Miami Heat
+    - 90.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 2.0
+    - 200201260MIL
+    - New York Knicks
+    - 129.0
+    - Milwaukee Bucks
+    - 127.0
+    - 2.0
+    - ''
+  - - Sat, Jan 26, 2002
+    - 7.0
+    - 200201260MIN
+    - Atlanta Hawks
+    - 80.0
+    - Minnesota Timberwolves
+    - 103.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 3.0
+    - 200201260UTA
+    - Sacramento Kings
+    - 114.0
+    - Utah Jazz
+    - 90.0
+    - ''
+    - ''
+  - - Sat, Jan 26, 2002
+    - 8.0
+    - 200201260WAS
+    - Phoenix Suns
+    - 102.0
+    - Washington Wizards
+    - 112.0
+    - ''
+    - ''
+  - - Sun, Jan 27, 2002
+    - 12.0
+    - 200201270PHI
+    - Los Angeles Lakers
+    - 87.0
+    - Philadelphia 76ers
+    - 93.0
+    - ''
+    - ''
+  - - Sun, Jan 27, 2002
+    - 2.0
+    - 200201270TOR
+    - Orlando Magic
+    - 97.0
+    - Toronto Raptors
+    - 106.0
+    - ''
+    - ''
+  - - Mon, Jan 28, 2002
+    - 7.0
+    - 200201280MEM
+    - Los Angeles Clippers
+    - 115.0
+    - Memphis Grizzlies
+    - 119.0
+    - OT
+    - ''
+  - - Mon, Jan 28, 2002
+    - 7.0
+    - 200201280UTA
+    - Miami Heat
+    - 89.0
+    - Utah Jazz
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290ATL
+    - Los Angeles Lakers
+    - 127.0
+    - Atlanta Hawks
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290CLE
+    - Minnesota Timberwolves
+    - 81.0
+    - Cleveland Cavaliers
+    - 114.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290DAL
+    - Los Angeles Clippers
+    - 117.0
+    - Dallas Mavericks
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290DEN
+    - Miami Heat
+    - 100.0
+    - Denver Nuggets
+    - 94.0
+    - OT
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290HOU
+    - Golden State Warriors
+    - 96.0
+    - Houston Rockets
+    - 100.0
+    - OT
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290MIL
+    - Boston Celtics
+    - 90.0
+    - Milwaukee Bucks
+    - 109.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290NYK
+    - Philadelphia 76ers
+    - 71.0
+    - New York Knicks
+    - 78.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290PHO
+    - Chicago Bulls
+    - 90.0
+    - Phoenix Suns
+    - 91.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290SAS
+    - Charlotte Hornets
+    - 78.0
+    - San Antonio Spurs
+    - 73.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290SEA
+    - Portland Trail Blazers
+    - 92.0
+    - Seattle SuperSonics
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Jan 29, 2002
+    - 7.0
+    - 200201290WAS
+    - Detroit Pistons
+    - 89.0
+    - Washington Wizards
+    - 86.0
+    - ''
+    - ''
+  - - Wed, Jan 30, 2002
+    - 7.0
+    - 200201300DET
+    - Atlanta Hawks
+    - 71.0
+    - Detroit Pistons
+    - 88.0
+    - ''
+    - ''
+  - - Wed, Jan 30, 2002
+    - 7.0
+    - 200201300IND
+    - Memphis Grizzlies
+    - 82.0
+    - Indiana Pacers
+    - 83.0
+    - ''
+    - ''
+  - - Wed, Jan 30, 2002
+    - 8.0
+    - 200201300ORL
+    - Los Angeles Lakers
+    - 111.0
+    - Orlando Magic
+    - 93.0
+    - ''
+    - ''
+  - - Wed, Jan 30, 2002
+    - 7.0
+    - 200201300PHI
+    - Minnesota Timberwolves
+    - 91.0
+    - Philadelphia 76ers
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Jan 30, 2002
+    - 7.0
+    - 200201300UTA
+    - Chicago Bulls
+    - 78.0
+    - Utah Jazz
+    - 90.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 7.0
+    - 200201310CLE
+    - Washington Wizards
+    - 93.0
+    - Cleveland Cavaliers
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 8.0
+    - 200201310DAL
+    - Houston Rockets
+    - 91.0
+    - Dallas Mavericks
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 7.0
+    - 200201310NJN
+    - Milwaukee Bucks
+    - 100.0
+    - New Jersey Nets
+    - 125.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 7.0
+    - 200201310POR
+    - Phoenix Suns
+    - 97.0
+    - Portland Trail Blazers
+    - 105.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 7.0
+    - 200201310SAS
+    - Los Angeles Clippers
+    - 91.0
+    - San Antonio Spurs
+    - 87.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 7.0
+    - 200201310SEA
+    - Sacramento Kings
+    - 99.0
+    - Seattle SuperSonics
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Jan 31, 2002
+    - 8.0
+    - 200201310TOR
+    - Boston Celtics
+    - 92.0
+    - Toronto Raptors
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010BOS
+    - Minnesota Timberwolves
+    - 98.0
+    - Boston Celtics
+    - 95.0
+    - OT
+    - ''
+  - - Fri, Feb 1, 2002
+    - 8.0
+    - 200202010DET
+    - Orlando Magic
+    - 85.0
+    - Detroit Pistons
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010HOU
+    - Charlotte Hornets
+    - 73.0
+    - Houston Rockets
+    - 72.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010IND
+    - New York Knicks
+    - 87.0
+    - Indiana Pacers
+    - 92.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010MEM
+    - Los Angeles Lakers
+    - 100.0
+    - Memphis Grizzlies
+    - 85.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010MIA
+    - San Antonio Spurs
+    - 83.0
+    - Miami Heat
+    - 88.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010PHO
+    - Golden State Warriors
+    - 98.0
+    - Phoenix Suns
+    - 104.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010SAC
+    - Denver Nuggets
+    - 96.0
+    - Sacramento Kings
+    - 132.0
+    - ''
+    - ''
+  - - Fri, Feb 1, 2002
+    - 7.0
+    - 200202010WAS
+    - Atlanta Hawks
+    - 90.0
+    - Washington Wizards
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 8.0
+    - 200202020ATL
+    - Los Angeles Clippers
+    - 94.0
+    - Atlanta Hawks
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 8.0
+    - 200202020CLE
+    - Detroit Pistons
+    - 115.0
+    - Cleveland Cavaliers
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 4.0
+    - 200202020MIL
+    - Philadelphia 76ers
+    - 86.0
+    - Milwaukee Bucks
+    - 81.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 12.0
+    - 200202020NJN
+    - Toronto Raptors
+    - 91.0
+    - New Jersey Nets
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 5.0
+    - 200202020SEA
+    - Chicago Bulls
+    - 97.0
+    - Seattle SuperSonics
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Feb 2, 2002
+    - 1.0
+    - 200202020UTA
+    - Portland Trail Blazers
+    - 96.0
+    - Utah Jazz
+    - 97.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 7.0
+    - 200202030BOS
+    - Los Angeles Clippers
+    - 91.0
+    - Boston Celtics
+    - 104.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 1.0
+    - 200202030DAL
+    - Los Angeles Lakers
+    - 101.0
+    - Dallas Mavericks
+    - 94.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 6.0
+    - 200202030GSW
+    - Phoenix Suns
+    - 98.0
+    - Golden State Warriors
+    - 97.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 2.0
+    - 200202030MEM
+    - Charlotte Hornets
+    - 97.0
+    - Memphis Grizzlies
+    - 79.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 1.0
+    - 200202030MIN
+    - Sacramento Kings
+    - 112.0
+    - Minnesota Timberwolves
+    - 107.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 12.0
+    - 200202030NYK
+    - Miami Heat
+    - 94.0
+    - New York Knicks
+    - 83.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 12.0
+    - 200202030ORL
+    - San Antonio Spurs
+    - 105.0
+    - Orlando Magic
+    - 98.0
+    - OT
+    - ''
+  - - Sun, Feb 3, 2002
+    - 7.0
+    - 200202030POR
+    - Chicago Bulls
+    - 96.0
+    - Portland Trail Blazers
+    - 101.0
+    - ''
+    - ''
+  - - Sun, Feb 3, 2002
+    - 12.0
+    - 200202030WAS
+    - Indiana Pacers
+    - 89.0
+    - Washington Wizards
+    - 109.0
+    - ''
+    - ''
+  - - Mon, Feb 4, 2002
+    - 7.0
+    - 200202040HOU
+    - Utah Jazz
+    - 97.0
+    - Houston Rockets
+    - 104.0
+    - ''
+    - ''
+  - - Mon, Feb 4, 2002
+    - 7.0
+    - 200202040NJN
+    - Sacramento Kings
+    - 83.0
+    - New Jersey Nets
+    - 117.0
+    - ''
+    - ''
+  - - Mon, Feb 4, 2002
+    - 7.0
+    - 200202040PHI
+    - Toronto Raptors
+    - 100.0
+    - Philadelphia 76ers
+    - 93.0
+    - ''
+    - ''
+  - - Mon, Feb 4, 2002
+    - 7.0
+    - 200202040SAS
+    - Minnesota Timberwolves
+    - 83.0
+    - San Antonio Spurs
+    - 113.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050CHH
+    - Boston Celtics
+    - 82.0
+    - Charlotte Hornets
+    - 79.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050DEN
+    - Portland Trail Blazers
+    - 96.0
+    - Denver Nuggets
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050DET
+    - Philadelphia 76ers
+    - 82.0
+    - Detroit Pistons
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050GSW
+    - Seattle SuperSonics
+    - 113.0
+    - Golden State Warriors
+    - 87.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 8.0
+    - 200202050IND
+    - Dallas Mavericks
+    - 141.0
+    - Indiana Pacers
+    - 140.0
+    - 2.0
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050MEM
+    - Utah Jazz
+    - 79.0
+    - Memphis Grizzlies
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050MIA
+    - Atlanta Hawks
+    - 76.0
+    - Miami Heat
+    - 73.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050NYK
+    - Los Angeles Clippers
+    - 112.0
+    - New York Knicks
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 7.0
+    - 200202050ORL
+    - Cleveland Cavaliers
+    - 98.0
+    - Orlando Magic
+    - 106.0
+    - ''
+    - ''
+  - - Tue, Feb 5, 2002
+    - 8.0
+    - 200202050WAS
+    - Toronto Raptors
+    - 94.0
+    - Washington Wizards
+    - 99.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060BOS
+    - Sacramento Kings
+    - 102.0
+    - Boston Celtics
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060CLE
+    - Houston Rockets
+    - 109.0
+    - Cleveland Cavaliers
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060LAL
+    - Chicago Bulls
+    - 97.0
+    - Los Angeles Lakers
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060MIN
+    - Portland Trail Blazers
+    - 103.0
+    - Minnesota Timberwolves
+    - 113.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060NJN
+    - Dallas Mavericks
+    - 112.0
+    - New Jersey Nets
+    - 100.0
+    - ''
+    - ''
+  - - Wed, Feb 6, 2002
+    - 7.0
+    - 200202060SEA
+    - Phoenix Suns
+    - 79.0
+    - Seattle SuperSonics
+    - 90.0
+    - ''
+    - ''
+  - - Thu, Feb 7, 2002
+    - 7.0
+    - 200202070CHH
+    - Philadelphia 76ers
+    - 100.0
+    - Charlotte Hornets
+    - 93.0
+    - ''
+    - ''
+  - - Thu, Feb 7, 2002
+    - 7.0
+    - 200202070DET
+    - Los Angeles Clippers
+    - 92.0
+    - Detroit Pistons
+    - 105.0
+    - ''
+    - ''
+  - - Thu, Feb 7, 2002
+    - 7.0
+    - 200202070MIL
+    - Memphis Grizzlies
+    - 103.0
+    - Milwaukee Bucks
+    - 107.0
+    - ''
+    - ''
+  - - Thu, Feb 7, 2002
+    - 7.0
+    - 200202070NYK
+    - Atlanta Hawks
+    - 89.0
+    - New York Knicks
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Feb 7, 2002
+    - 8.0
+    - 200202070TOR
+    - San Antonio Spurs
+    - 74.0
+    - Toronto Raptors
+    - 80.0
+    - OT
+    - ''
+  - - Thu, Feb 7, 2002
+    - 7.0
+    - 200202070WAS
+    - Sacramento Kings
+    - 101.0
+    - Washington Wizards
+    - 108.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120ATL
+    - New Jersey Nets
+    - 103.0
+    - Atlanta Hawks
+    - 105.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120CHI
+    - Milwaukee Bucks
+    - 92.0
+    - Chicago Bulls
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120CLE
+    - Toronto Raptors
+    - 81.0
+    - Cleveland Cavaliers
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120DEN
+    - Boston Celtics
+    - 110.0
+    - Denver Nuggets
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120DET
+    - Phoenix Suns
+    - 99.0
+    - Detroit Pistons
+    - 71.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120HOU
+    - Memphis Grizzlies
+    - 78.0
+    - Houston Rockets
+    - 85.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120IND
+    - Utah Jazz
+    - 98.0
+    - Indiana Pacers
+    - 82.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120LAL
+    - Washington Wizards
+    - 94.0
+    - Los Angeles Lakers
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 8.0
+    - 200202120ORL
+    - New York Knicks
+    - 114.0
+    - Orlando Magic
+    - 122.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120SAC
+    - San Antonio Spurs
+    - 86.0
+    - Sacramento Kings
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Feb 12, 2002
+    - 7.0
+    - 200202120SEA
+    - Dallas Mavericks
+    - 112.0
+    - Seattle SuperSonics
+    - 106.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130CHH
+    - Chicago Bulls
+    - 91.0
+    - Charlotte Hornets
+    - 113.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130GSW
+    - Boston Celtics
+    - 75.0
+    - Golden State Warriors
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130MIA
+    - Orlando Magic
+    - 95.0
+    - Miami Heat
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130MIL
+    - Cleveland Cavaliers
+    - 115.0
+    - Milwaukee Bucks
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130MIN
+    - Phoenix Suns
+    - 92.0
+    - Minnesota Timberwolves
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130NYK
+    - Toronto Raptors
+    - 82.0
+    - New York Knicks
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Feb 13, 2002
+    - 7.0
+    - 200202130POR
+    - Dallas Mavericks
+    - 103.0
+    - Portland Trail Blazers
+    - 114.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 7.0
+    - 200202140LAC
+    - San Antonio Spurs
+    - 89.0
+    - Los Angeles Clippers
+    - 76.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 7.0
+    - 200202140MEM
+    - Denver Nuggets
+    - 100.0
+    - Memphis Grizzlies
+    - 85.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 7.0
+    - 200202140NJN
+    - Detroit Pistons
+    - 85.0
+    - New Jersey Nets
+    - 80.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 8.0
+    - 200202140PHI
+    - Utah Jazz
+    - 98.0
+    - Philadelphia 76ers
+    - 91.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 6.0
+    - 200202140SAC
+    - Washington Wizards
+    - 93.0
+    - Sacramento Kings
+    - 109.0
+    - ''
+    - ''
+  - - Thu, Feb 14, 2002
+    - 7.0
+    - 200202140SEA
+    - Los Angeles Lakers
+    - 92.0
+    - Seattle SuperSonics
+    - 87.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150CHH
+    - Indiana Pacers
+    - 106.0
+    - Charlotte Hornets
+    - 116.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150CHI
+    - New Jersey Nets
+    - 106.0
+    - Chicago Bulls
+    - 81.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150GSW
+    - San Antonio Spurs
+    - 108.0
+    - Golden State Warriors
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150LAL
+    - Atlanta Hawks
+    - 93.0
+    - Los Angeles Lakers
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150MIL
+    - Miami Heat
+    - 90.0
+    - Milwaukee Bucks
+    - 88.0
+    - OT
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150MIN
+    - Denver Nuggets
+    - 99.0
+    - Minnesota Timberwolves
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150NYK
+    - Detroit Pistons
+    - 101.0
+    - New York Knicks
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150PHO
+    - Washington Wizards
+    - 97.0
+    - Phoenix Suns
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150POR
+    - Boston Celtics
+    - 107.0
+    - Portland Trail Blazers
+    - 104.0
+    - ''
+    - ''
+  - - Fri, Feb 15, 2002
+    - 7.0
+    - 200202150TOR
+    - Utah Jazz
+    - 94.0
+    - Toronto Raptors
+    - 85.0
+    - ''
+    - ''
+  - - Sat, Feb 16, 2002
+    - 7.0
+    - 200202160CHI
+    - Cleveland Cavaliers
+    - 114.0
+    - Chicago Bulls
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Feb 16, 2002
+    - 7.0
+    - 200202160HOU
+    - Orlando Magic
+    - 109.0
+    - Houston Rockets
+    - 100.0
+    - ''
+    - ''
+  - - Sat, Feb 16, 2002
+    - 7.0
+    - 200202160LAC
+    - Dallas Mavericks
+    - 110.0
+    - Los Angeles Clippers
+    - 119.0
+    - ''
+    - ''
+  - - Sat, Feb 16, 2002
+    - 7.0
+    - 200202160SEA
+    - Boston Celtics
+    - 79.0
+    - Seattle SuperSonics
+    - 99.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 2.0
+    - 200202170CHH
+    - Memphis Grizzlies
+    - 92.0
+    - Charlotte Hornets
+    - 78.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 6.0
+    - 200202170GSW
+    - Atlanta Hawks
+    - 100.0
+    - Golden State Warriors
+    - 94.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 2.0
+    - 200202170IND
+    - Philadelphia 76ers
+    - 76.0
+    - Indiana Pacers
+    - 86.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 2.0
+    - 200202170MIN
+    - Miami Heat
+    - 80.0
+    - Minnesota Timberwolves
+    - 93.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 1.0
+    - 200202170NJN
+    - Denver Nuggets
+    - 77.0
+    - New Jersey Nets
+    - 98.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 7.0
+    - 200202170NYK
+    - Utah Jazz
+    - 92.0
+    - New York Knicks
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 6.0
+    - 200202170PHO
+    - Dallas Mavericks
+    - 105.0
+    - Phoenix Suns
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 1.0
+    - 200202170POR
+    - Los Angeles Lakers
+    - 105.0
+    - Portland Trail Blazers
+    - 111.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 6.0
+    - 200202170SAC
+    - Seattle SuperSonics
+    - 126.0
+    - Sacramento Kings
+    - 116.0
+    - ''
+    - ''
+  - - Sun, Feb 17, 2002
+    - 2.0
+    - 200202170TOR
+    - Milwaukee Bucks
+    - 91.0
+    - Toronto Raptors
+    - 86.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180CLE
+    - Utah Jazz
+    - 103.0
+    - Cleveland Cavaliers
+    - 92.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180DET
+    - Toronto Raptors
+    - 76.0
+    - Detroit Pistons
+    - 89.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180LAC
+    - Portland Trail Blazers
+    - 80.0
+    - Los Angeles Clippers
+    - 79.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180MIA
+    - Chicago Bulls
+    - 80.0
+    - Miami Heat
+    - 102.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180MIL
+    - Charlotte Hornets
+    - 101.0
+    - Milwaukee Bucks
+    - 92.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 7.0
+    - 200202180PHI
+    - Denver Nuggets
+    - 83.0
+    - Philadelphia 76ers
+    - 110.0
+    - ''
+    - ''
+  - - Mon, Feb 18, 2002
+    - 1.0
+    - 200202180WAS
+    - Houston Rockets
+    - 102.0
+    - Washington Wizards
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190DAL
+    - Minnesota Timberwolves
+    - 117.0
+    - Dallas Mavericks
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190LAL
+    - Boston Celtics
+    - 109.0
+    - Los Angeles Lakers
+    - 108.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190NJN
+    - Golden State Warriors
+    - 115.0
+    - New Jersey Nets
+    - 123.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190PHO
+    - Seattle SuperSonics
+    - 103.0
+    - Phoenix Suns
+    - 91.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190SAC
+    - Atlanta Hawks
+    - 79.0
+    - Sacramento Kings
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Feb 19, 2002
+    - 7.0
+    - 200202190SAS
+    - Memphis Grizzlies
+    - 93.0
+    - San Antonio Spurs
+    - 99.0
+    - OT
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200CHI
+    - New York Knicks
+    - 109.0
+    - Chicago Bulls
+    - 113.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200DEN
+    - Utah Jazz
+    - 110.0
+    - Denver Nuggets
+    - 99.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200DET
+    - Washington Wizards
+    - 90.0
+    - Detroit Pistons
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200MIA
+    - Los Angeles Clippers
+    - 81.0
+    - Miami Heat
+    - 71.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200MIL
+    - Houston Rockets
+    - 76.0
+    - Milwaukee Bucks
+    - 115.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200PHI
+    - Golden State Warriors
+    - 107.0
+    - Philadelphia 76ers
+    - 114.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 7.0
+    - 200202200SEA
+    - Portland Trail Blazers
+    - 90.0
+    - Seattle SuperSonics
+    - 84.0
+    - ''
+    - ''
+  - - Wed, Feb 20, 2002
+    - 8.0
+    - 200202200TOR
+    - Charlotte Hornets
+    - 78.0
+    - Toronto Raptors
+    - 77.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210CLE
+    - Los Angeles Lakers
+    - 104.0
+    - Cleveland Cavaliers
+    - 97.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210DAL
+    - Boston Celtics
+    - 92.0
+    - Dallas Mavericks
+    - 98.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210HOU
+    - Minnesota Timberwolves
+    - 83.0
+    - Houston Rockets
+    - 89.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210MEM
+    - Phoenix Suns
+    - 78.0
+    - Memphis Grizzlies
+    - 72.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210ORL
+    - Los Angeles Clippers
+    - 102.0
+    - Orlando Magic
+    - 119.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210POR
+    - Atlanta Hawks
+    - 79.0
+    - Portland Trail Blazers
+    - 94.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 8.0
+    - 200202210SAS
+    - Sacramento Kings
+    - 92.0
+    - San Antonio Spurs
+    - 115.0
+    - ''
+    - ''
+  - - Thu, Feb 21, 2002
+    - 7.0
+    - 200202210WAS
+    - New Jersey Nets
+    - 93.0
+    - Washington Wizards
+    - 82.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220CHH
+    - Los Angeles Lakers
+    - 96.0
+    - Charlotte Hornets
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220CHI
+    - Phoenix Suns
+    - 83.0
+    - Chicago Bulls
+    - 91.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220IND
+    - Cleveland Cavaliers
+    - 103.0
+    - Indiana Pacers
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220MIL
+    - Golden State Warriors
+    - 112.0
+    - Milwaukee Bucks
+    - 116.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220NJN
+    - New York Knicks
+    - 93.0
+    - New Jersey Nets
+    - 115.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220SEA
+    - Atlanta Hawks
+    - 96.0
+    - Seattle SuperSonics
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Feb 22, 2002
+    - 7.0
+    - 200202220TOR
+    - Detroit Pistons
+    - 80.0
+    - Toronto Raptors
+    - 72.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 7.0
+    - 200202230CHI
+    - Golden State Warriors
+    - 91.0
+    - Chicago Bulls
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 4.0
+    - 200202230DAL
+    - Sacramento Kings
+    - 97.0
+    - Dallas Mavericks
+    - 111.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 7.0
+    - 200202230HOU
+    - Boston Celtics
+    - 89.0
+    - Houston Rockets
+    - 99.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 8.0
+    - 200202230IND
+    - Los Angeles Clippers
+    - 88.0
+    - Indiana Pacers
+    - 106.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 5.0
+    - 200202230ORL
+    - Philadelphia 76ers
+    - 87.0
+    - Orlando Magic
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 7.0
+    - 200202230POR
+    - Denver Nuggets
+    - 90.0
+    - Portland Trail Blazers
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 7.0
+    - 200202230SAS
+    - Minnesota Timberwolves
+    - 112.0
+    - San Antonio Spurs
+    - 88.0
+    - ''
+    - ''
+  - - Sat, Feb 23, 2002
+    - 8.0
+    - 200202230WAS
+    - Miami Heat
+    - 97.0
+    - Washington Wizards
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 7.0
+    - 200202240CLE
+    - Orlando Magic
+    - 96.0
+    - Cleveland Cavaliers
+    - 111.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 7.0
+    - 200202240DEN
+    - Atlanta Hawks
+    - 89.0
+    - Denver Nuggets
+    - 84.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 7.0
+    - 200202240MIA
+    - Washington Wizards
+    - 80.0
+    - Miami Heat
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 2.0
+    - 200202240MIL
+    - Detroit Pistons
+    - 82.0
+    - Milwaukee Bucks
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 3.0
+    - 200202240NJN
+    - Charlotte Hornets
+    - 93.0
+    - New Jersey Nets
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 12.0
+    - 200202240NYK
+    - Los Angeles Lakers
+    - 107.0
+    - New York Knicks
+    - 91.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 6.0
+    - 200202240PHO
+    - San Antonio Spurs
+    - 83.0
+    - Phoenix Suns
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Feb 24, 2002
+    - 6.0
+    - 200202240TOR
+    - Seattle SuperSonics
+    - 101.0
+    - Toronto Raptors
+    - 92.0
+    - ''
+    - ''
+  - - Mon, Feb 25, 2002
+    - 7.0
+    - 200202250CHH
+    - Minnesota Timberwolves
+    - 97.0
+    - Charlotte Hornets
+    - 92.0
+    - ''
+    - ''
+  - - Mon, Feb 25, 2002
+    - 7.0
+    - 200202250GSW
+    - Indiana Pacers
+    - 102.0
+    - Golden State Warriors
+    - 97.0
+    - OT
+    - ''
+  - - Mon, Feb 25, 2002
+    - 7.0
+    - 200202250MEM
+    - Los Angeles Clippers
+    - 90.0
+    - Memphis Grizzlies
+    - 77.0
+    - ''
+    - ''
+  - - Mon, Feb 25, 2002
+    - 7.0
+    - 200202250PHI
+    - Portland Trail Blazers
+    - 88.0
+    - Philadelphia 76ers
+    - 83.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260CHI
+    - Orlando Magic
+    - 112.0
+    - Chicago Bulls
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260CLE
+    - Seattle SuperSonics
+    - 109.0
+    - Cleveland Cavaliers
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260DAL
+    - Memphis Grizzlies
+    - 91.0
+    - Dallas Mavericks
+    - 104.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260HOU
+    - Los Angeles Clippers
+    - 94.0
+    - Houston Rockets
+    - 84.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260MIL
+    - Los Angeles Lakers
+    - 99.0
+    - Milwaukee Bucks
+    - 89.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260SAC
+    - Utah Jazz
+    - 81.0
+    - Sacramento Kings
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Feb 26, 2002
+    - 7.0
+    - 200202260SAS
+    - Phoenix Suns
+    - 91.0
+    - San Antonio Spurs
+    - 99.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270ATL
+    - Seattle SuperSonics
+    - 98.0
+    - Atlanta Hawks
+    - 81.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270BOS
+    - Milwaukee Bucks
+    - 95.0
+    - Boston Celtics
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270CHH
+    - New Jersey Nets
+    - 85.0
+    - Charlotte Hornets
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270DET
+    - Chicago Bulls
+    - 89.0
+    - Detroit Pistons
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270GSW
+    - Denver Nuggets
+    - 93.0
+    - Golden State Warriors
+    - 110.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270MIN
+    - Los Angeles Lakers
+    - 101.0
+    - Minnesota Timberwolves
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270PHI
+    - Miami Heat
+    - 72.0
+    - Philadelphia 76ers
+    - 82.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 8.0
+    - 200202270TOR
+    - Orlando Magic
+    - 90.0
+    - Toronto Raptors
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Feb 27, 2002
+    - 7.0
+    - 200202270WAS
+    - Portland Trail Blazers
+    - 105.0
+    - Washington Wizards
+    - 101.0
+    - ''
+    - ''
+  - - Thu, Feb 28, 2002
+    - 7.0
+    - 200202280CLE
+    - San Antonio Spurs
+    - 107.0
+    - Cleveland Cavaliers
+    - 114.0
+    - OT
+    - ''
+  - - Thu, Feb 28, 2002
+    - 8.0
+    - 200202280MIA
+    - New York Knicks
+    - 86.0
+    - Miami Heat
+    - 100.0
+    - ''
+    - ''
+  - - Thu, Feb 28, 2002
+    - 7.0
+    - 200202280PHO
+    - Indiana Pacers
+    - 100.0
+    - Phoenix Suns
+    - 107.0
+    - OT
+    - ''
+  - - Thu, Feb 28, 2002
+    - 7.0
+    - 200202280UTA
+    - Memphis Grizzlies
+    - 70.0
+    - Utah Jazz
+    - 114.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010BOS
+    - Charlotte Hornets
+    - 100.0
+    - Boston Celtics
+    - 87.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010CHI
+    - Washington Wizards
+    - 81.0
+    - Chicago Bulls
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010DEN
+    - Memphis Grizzlies
+    - 83.0
+    - Denver Nuggets
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 8.0
+    - 200203010DET
+    - Orlando Magic
+    - 102.0
+    - Detroit Pistons
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010GSW
+    - Sacramento Kings
+    - 116.0
+    - Golden State Warriors
+    - 108.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010LAL
+    - Indiana Pacers
+    - 84.0
+    - Los Angeles Lakers
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010MIN
+    - San Antonio Spurs
+    - 85.0
+    - Minnesota Timberwolves
+    - 77.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010NYK
+    - Seattle SuperSonics
+    - 87.0
+    - New York Knicks
+    - 89.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010PHI
+    - New Jersey Nets
+    - 102.0
+    - Philadelphia 76ers
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Mar 1, 2002
+    - 7.0
+    - 200203010TOR
+    - Portland Trail Blazers
+    - 91.0
+    - Toronto Raptors
+    - 81.0
+    - ''
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020ATL
+    - Cleveland Cavaliers
+    - 81.0
+    - Atlanta Hawks
+    - 84.0
+    - ''
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020DAL
+    - Miami Heat
+    - 109.0
+    - Dallas Mavericks
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020LAC
+    - Golden State Warriors
+    - 95.0
+    - Los Angeles Clippers
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020MIL
+    - Portland Trail Blazers
+    - 104.0
+    - Milwaukee Bucks
+    - 103.0
+    - OT
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020PHO
+    - Houston Rockets
+    - 104.0
+    - Phoenix Suns
+    - 97.0
+    - ''
+    - ''
+  - - Sat, Mar 2, 2002
+    - 7.0
+    - 200203020UTA
+    - Minnesota Timberwolves
+    - 116.0
+    - Utah Jazz
+    - 105.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 3.0
+    - 200203030CHH
+    - Detroit Pistons
+    - 83.0
+    - Charlotte Hornets
+    - 81.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 7.0
+    - 200203030CLE
+    - Milwaukee Bucks
+    - 101.0
+    - Cleveland Cavaliers
+    - 91.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 7.0
+    - 200203030DEN
+    - Dallas Mavericks
+    - 116.0
+    - Denver Nuggets
+    - 110.0
+    - OT
+    - ''
+  - - Sun, Mar 3, 2002
+    - 6.0
+    - 200203030LAL
+    - Houston Rockets
+    - 79.0
+    - Los Angeles Lakers
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 2.0
+    - 200203030MEM
+    - Seattle SuperSonics
+    - 96.0
+    - Memphis Grizzlies
+    - 71.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 3.0
+    - 200203030NJN
+    - Chicago Bulls
+    - 84.0
+    - New Jersey Nets
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 12.0
+    - 200203030NYK
+    - San Antonio Spurs
+    - 99.0
+    - New York Knicks
+    - 83.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 3.0
+    - 200203030SAC
+    - Indiana Pacers
+    - 97.0
+    - Sacramento Kings
+    - 86.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 12.0
+    - 200203030TOR
+    - Philadelphia 76ers
+    - 96.0
+    - Toronto Raptors
+    - 84.0
+    - ''
+    - ''
+  - - Sun, Mar 3, 2002
+    - 6.0
+    - 200203030WAS
+    - Orlando Magic
+    - 102.0
+    - Washington Wizards
+    - 107.0
+    - OT
+    - ''
+  - - Mon, Mar 4, 2002
+    - 7.0
+    - 200203040ATL
+    - Memphis Grizzlies
+    - 76.0
+    - Atlanta Hawks
+    - 95.0
+    - ''
+    - ''
+  - - Mon, Mar 4, 2002
+    - 7.0
+    - 200203040PHI
+    - Boston Celtics
+    - 100.0
+    - Philadelphia 76ers
+    - 94.0
+    - ''
+    - ''
+  - - Mon, Mar 4, 2002
+    - 7.0
+    - 200203040POR
+    - Sacramento Kings
+    - 95.0
+    - Portland Trail Blazers
+    - 107.0
+    - ''
+    - ''
+  - - Mon, Mar 4, 2002
+    - 7.0
+    - 200203040UTA
+    - Denver Nuggets
+    - 82.0
+    - Utah Jazz
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050CLE
+    - Atlanta Hawks
+    - 96.0
+    - Cleveland Cavaliers
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050DAL
+    - Phoenix Suns
+    - 77.0
+    - Dallas Mavericks
+    - 81.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050DET
+    - Miami Heat
+    - 93.0
+    - Detroit Pistons
+    - 91.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050HOU
+    - Toronto Raptors
+    - 109.0
+    - Houston Rockets
+    - 112.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 8.0
+    - 200203050IND
+    - Orlando Magic
+    - 98.0
+    - Indiana Pacers
+    - 111.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050LAL
+    - New Jersey Nets
+    - 92.0
+    - Los Angeles Lakers
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050NYK
+    - Milwaukee Bucks
+    - 89.0
+    - New York Knicks
+    - 102.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050SAS
+    - Golden State Warriors
+    - 88.0
+    - San Antonio Spurs
+    - 109.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050SEA
+    - Minnesota Timberwolves
+    - 83.0
+    - Seattle SuperSonics
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Mar 5, 2002
+    - 7.0
+    - 200203050WAS
+    - Chicago Bulls
+    - 90.0
+    - Washington Wizards
+    - 115.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060BOS
+    - Orlando Magic
+    - 110.0
+    - Boston Celtics
+    - 130.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060CHI
+    - Miami Heat
+    - 92.0
+    - Chicago Bulls
+    - 87.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060MIL
+    - Los Angeles Clippers
+    - 86.0
+    - Milwaukee Bucks
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060PHI
+    - Cleveland Cavaliers
+    - 76.0
+    - Philadelphia 76ers
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060PHO
+    - New Jersey Nets
+    - 87.0
+    - Phoenix Suns
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 7.0
+    - 200203060POR
+    - Minnesota Timberwolves
+    - 78.0
+    - Portland Trail Blazers
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Mar 6, 2002
+    - 6.0
+    - 200203060UTA
+    - Los Angeles Lakers
+    - 84.0
+    - Utah Jazz
+    - 92.0
+    - ''
+    - ''
+  - - Thu, Mar 7, 2002
+    - 8.0
+    - 200203070DAL
+    - Toronto Raptors
+    - 103.0
+    - Dallas Mavericks
+    - 122.0
+    - ''
+    - ''
+  - - Thu, Mar 7, 2002
+    - 7.0
+    - 200203070DEN
+    - New York Knicks
+    - 93.0
+    - Denver Nuggets
+    - 104.0
+    - ''
+    - ''
+  - - Thu, Mar 7, 2002
+    - 7.0
+    - 200203070MEM
+    - Indiana Pacers
+    - 111.0
+    - Memphis Grizzlies
+    - 122.0
+    - ''
+    - ''
+  - - Thu, Mar 7, 2002
+    - 7.0
+    - 200203070SAS
+    - Houston Rockets
+    - 97.0
+    - San Antonio Spurs
+    - 99.0
+    - ''
+    - ''
+  - - Thu, Mar 7, 2002
+    - 7.0
+    - 200203070SEA
+    - Charlotte Hornets
+    - 89.0
+    - Seattle SuperSonics
+    - 92.0
+    - OT
+    - ''
+  - - Thu, Mar 7, 2002
+    - 7.0
+    - 200203070WAS
+    - Detroit Pistons
+    - 95.0
+    - Washington Wizards
+    - 92.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080BOS
+    - Detroit Pistons
+    - 92.0
+    - Boston Celtics
+    - 117.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080CHI
+    - Los Angeles Clippers
+    - 94.0
+    - Chicago Bulls
+    - 90.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080HOU
+    - Golden State Warriors
+    - 108.0
+    - Houston Rockets
+    - 95.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080MIA
+    - Toronto Raptors
+    - 83.0
+    - Miami Heat
+    - 74.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080MIL
+    - Cleveland Cavaliers
+    - 115.0
+    - Milwaukee Bucks
+    - 109.0
+    - OT
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080ORL
+    - Washington Wizards
+    - 96.0
+    - Orlando Magic
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080PHI
+    - Indiana Pacers
+    - 100.0
+    - Philadelphia 76ers
+    - 109.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080PHO
+    - Minnesota Timberwolves
+    - 76.0
+    - Phoenix Suns
+    - 81.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080POR
+    - New Jersey Nets
+    - 73.0
+    - Portland Trail Blazers
+    - 82.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080SAC
+    - Charlotte Hornets
+    - 87.0
+    - Sacramento Kings
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Mar 8, 2002
+    - 7.0
+    - 200203080UTA
+    - New York Knicks
+    - 85.0
+    - Utah Jazz
+    - 79.0
+    - ''
+    - ''
+  - - Sat, Mar 9, 2002
+    - 7.0
+    - 200203090ATL
+    - Philadelphia 76ers
+    - 112.0
+    - Atlanta Hawks
+    - 91.0
+    - ''
+    - ''
+  - - Sat, Mar 9, 2002
+    - 7.0
+    - 200203090CHI
+    - San Antonio Spurs
+    - 100.0
+    - Chicago Bulls
+    - 73.0
+    - ''
+    - ''
+  - - Sat, Mar 9, 2002
+    - 7.0
+    - 200203090DAL
+    - Golden State Warriors
+    - 105.0
+    - Dallas Mavericks
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Mar 9, 2002
+    - 8.0
+    - 200203090DEN
+    - Portland Trail Blazers
+    - 106.0
+    - Denver Nuggets
+    - 109.0
+    - OT
+    - ''
+  - - Sat, Mar 9, 2002
+    - 7.0
+    - 200203090MEM
+    - Miami Heat
+    - 93.0
+    - Memphis Grizzlies
+    - 88.0
+    - ''
+    - ''
+  - - Sat, Mar 9, 2002
+    - 7.0
+    - 200203090SEA
+    - New Jersey Nets
+    - 90.0
+    - Seattle SuperSonics
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 3.0
+    - 200203100BOS
+    - Washington Wizards
+    - 91.0
+    - Boston Celtics
+    - 98.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 3.0
+    - 200203100CLE
+    - Los Angeles Clippers
+    - 95.0
+    - Cleveland Cavaliers
+    - 78.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 3.0
+    - 200203100DET
+    - Indiana Pacers
+    - 89.0
+    - Detroit Pistons
+    - 84.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 2.0
+    - 200203100HOU
+    - Utah Jazz
+    - 92.0
+    - Houston Rockets
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 3.0
+    - 200203100LAL
+    - New York Knicks
+    - 103.0
+    - Los Angeles Lakers
+    - 117.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 2.0
+    - 200203100MIL
+    - Sacramento Kings
+    - 98.0
+    - Milwaukee Bucks
+    - 73.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 12.0
+    - 200203100ORL
+    - Toronto Raptors
+    - 79.0
+    - Orlando Magic
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Mar 10, 2002
+    - 7.0
+    - 200203100PHO
+    - Charlotte Hornets
+    - 88.0
+    - Phoenix Suns
+    - 82.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110ATL
+    - Golden State Warriors
+    - 96.0
+    - Atlanta Hawks
+    - 121.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110CHI
+    - Sacramento Kings
+    - 107.0
+    - Chicago Bulls
+    - 103.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110DAL
+    - Seattle SuperSonics
+    - 108.0
+    - Dallas Mavericks
+    - 119.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110DEN
+    - San Antonio Spurs
+    - 93.0
+    - Denver Nuggets
+    - 78.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110MEM
+    - Utah Jazz
+    - 78.0
+    - Memphis Grizzlies
+    - 79.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110MIN
+    - Los Angeles Clippers
+    - 108.0
+    - Minnesota Timberwolves
+    - 99.0
+    - ''
+    - ''
+  - - Mon, Mar 11, 2002
+    - 7.0
+    - 200203110WAS
+    - Boston Celtics
+    - 104.0
+    - Washington Wizards
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120HOU
+    - Seattle SuperSonics
+    - 98.0
+    - Houston Rockets
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120IND
+    - Golden State Warriors
+    - 101.0
+    - Indiana Pacers
+    - 115.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120LAL
+    - Charlotte Hornets
+    - 66.0
+    - Los Angeles Lakers
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 8.0
+    - 200203120MIA
+    - Phoenix Suns
+    - 78.0
+    - Miami Heat
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120MIL
+    - Chicago Bulls
+    - 81.0
+    - Milwaukee Bucks
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 8.0
+    - 200203120NJN
+    - Toronto Raptors
+    - 84.0
+    - New Jersey Nets
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120NYK
+    - Philadelphia 76ers
+    - 104.0
+    - New York Knicks
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Mar 12, 2002
+    - 7.0
+    - 200203120SAS
+    - Memphis Grizzlies
+    - 84.0
+    - San Antonio Spurs
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130ATL
+    - Denver Nuggets
+    - 102.0
+    - Atlanta Hawks
+    - 105.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130BOS
+    - New Jersey Nets
+    - 89.0
+    - Boston Celtics
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130DET
+    - Cleveland Cavaliers
+    - 84.0
+    - Detroit Pistons
+    - 85.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130LAC
+    - Washington Wizards
+    - 75.0
+    - Los Angeles Clippers
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130MIN
+    - Houston Rockets
+    - 96.0
+    - Minnesota Timberwolves
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Mar 13, 2002
+    - 7.0
+    - 200203130ORL
+    - Phoenix Suns
+    - 114.0
+    - Orlando Magic
+    - 119.0
+    - OT
+    - ''
+  - - Wed, Mar 13, 2002
+    - 8.0
+    - 200203130PHI
+    - Sacramento Kings
+    - 92.0
+    - Philadelphia 76ers
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Mar 14, 2002
+    - 7.0
+    - 200203140CHH
+    - Utah Jazz
+    - 82.0
+    - Charlotte Hornets
+    - 100.0
+    - ''
+    - ''
+  - - Thu, Mar 14, 2002
+    - 7.0
+    - 200203140GSW
+    - Los Angeles Lakers
+    - 110.0
+    - Golden State Warriors
+    - 102.0
+    - ''
+    - ''
+  - - Thu, Mar 14, 2002
+    - 7.0
+    - 200203140NYK
+    - Sacramento Kings
+    - 96.0
+    - New York Knicks
+    - 113.0
+    - ''
+    - ''
+  - - Thu, Mar 14, 2002
+    - 7.0
+    - 200203140POR
+    - Dallas Mavericks
+    - 106.0
+    - Portland Trail Blazers
+    - 132.0
+    - ''
+    - ''
+  - - Thu, Mar 14, 2002
+    - 7.0
+    - 200203140SAS
+    - Chicago Bulls
+    - 86.0
+    - San Antonio Spurs
+    - 91.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150ATL
+    - Phoenix Suns
+    - 89.0
+    - Atlanta Hawks
+    - 104.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 8.0
+    - 200203150DET
+    - Utah Jazz
+    - 100.0
+    - Detroit Pistons
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150LAL
+    - Los Angeles Clippers
+    - 92.0
+    - Los Angeles Lakers
+    - 98.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150MEM
+    - Boston Celtics
+    - 103.0
+    - Memphis Grizzlies
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150MIN
+    - Indiana Pacers
+    - 98.0
+    - Minnesota Timberwolves
+    - 85.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150NJN
+    - Miami Heat
+    - 78.0
+    - New Jersey Nets
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150ORL
+    - Denver Nuggets
+    - 102.0
+    - Orlando Magic
+    - 124.0
+    - ''
+    - ''
+  - - Fri, Mar 15, 2002
+    - 7.0
+    - 200203150SEA
+    - Washington Wizards
+    - 103.0
+    - Seattle SuperSonics
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160CHH
+    - Phoenix Suns
+    - 76.0
+    - Charlotte Hornets
+    - 87.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160GSW
+    - Dallas Mavericks
+    - 117.0
+    - Golden State Warriors
+    - 100.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160HOU
+    - Chicago Bulls
+    - 114.0
+    - Houston Rockets
+    - 112.0
+    - 2.0
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160LAC
+    - Seattle SuperSonics
+    - 95.0
+    - Los Angeles Clippers
+    - 87.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160MIA
+    - Denver Nuggets
+    - 76.0
+    - Miami Heat
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160MIL
+    - Detroit Pistons
+    - 102.0
+    - Milwaukee Bucks
+    - 94.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160NYK
+    - Cleveland Cavaliers
+    - 95.0
+    - New York Knicks
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160POR
+    - Washington Wizards
+    - 80.0
+    - Portland Trail Blazers
+    - 95.0
+    - ''
+    - ''
+  - - Sat, Mar 16, 2002
+    - 7.0
+    - 200203160SAS
+    - Boston Celtics
+    - 104.0
+    - San Antonio Spurs
+    - 111.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 7.0
+    - 200203170CLE
+    - New York Knicks
+    - 99.0
+    - Cleveland Cavaliers
+    - 104.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 2.0
+    - 200203170IND
+    - Atlanta Hawks
+    - 68.0
+    - Indiana Pacers
+    - 85.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 6.0
+    - 200203170LAL
+    - Dallas Mavericks
+    - 103.0
+    - Los Angeles Lakers
+    - 105.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 2.0
+    - 200203170MEM
+    - New Jersey Nets
+    - 87.0
+    - Memphis Grizzlies
+    - 76.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 2.0
+    - 200203170MIN
+    - Utah Jazz
+    - 96.0
+    - Minnesota Timberwolves
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 12.0
+    - 200203170PHI
+    - Orlando Magic
+    - 105.0
+    - Philadelphia 76ers
+    - 103.0
+    - ''
+    - ''
+  - - Sun, Mar 17, 2002
+    - 3.0
+    - 200203170TOR
+    - Sacramento Kings
+    - 116.0
+    - Toronto Raptors
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Mar 18, 2002
+    - 7.0
+    - 200203180BOS
+    - Portland Trail Blazers
+    - 100.0
+    - Boston Celtics
+    - 91.0
+    - ''
+    - ''
+  - - Mon, Mar 18, 2002
+    - 7.0
+    - 200203180CHH
+    - Milwaukee Bucks
+    - 110.0
+    - Charlotte Hornets
+    - 113.0
+    - ''
+    - ''
+  - - Mon, Mar 18, 2002
+    - 7.0
+    - 200203180DEN
+    - Detroit Pistons
+    - 98.0
+    - Denver Nuggets
+    - 91.0
+    - ''
+    - ''
+  - - Mon, Mar 18, 2002
+    - 7.0
+    - 200203180GSW
+    - Washington Wizards
+    - 99.0
+    - Golden State Warriors
+    - 96.0
+    - ''
+    - ''
+  - - Mon, Mar 18, 2002
+    - 7.0
+    - 200203180LAC
+    - Houston Rockets
+    - 86.0
+    - Los Angeles Clippers
+    - 93.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190CHI
+    - Atlanta Hawks
+    - 102.0
+    - Chicago Bulls
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190CLE
+    - New Jersey Nets
+    - 97.0
+    - Cleveland Cavaliers
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190DAL
+    - Los Angeles Lakers
+    - 98.0
+    - Dallas Mavericks
+    - 114.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190MEM
+    - New York Knicks
+    - 101.0
+    - Memphis Grizzlies
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190MIA
+    - Philadelphia 76ers
+    - 91.0
+    - Miami Heat
+    - 79.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190MIN
+    - Toronto Raptors
+    - 80.0
+    - Minnesota Timberwolves
+    - 112.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 8.0
+    - 200203190ORL
+    - Milwaukee Bucks
+    - 91.0
+    - Orlando Magic
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190SAC
+    - Houston Rockets
+    - 87.0
+    - Sacramento Kings
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190SEA
+    - Golden State Warriors
+    - 93.0
+    - Seattle SuperSonics
+    - 110.0
+    - ''
+    - ''
+  - - Tue, Mar 19, 2002
+    - 7.0
+    - 200203190UTA
+    - Detroit Pistons
+    - 94.0
+    - Utah Jazz
+    - 87.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200BOS
+    - Cleveland Cavaliers
+    - 70.0
+    - Boston Celtics
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200CHH
+    - Indiana Pacers
+    - 88.0
+    - Charlotte Hornets
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200DEN
+    - Washington Wizards
+    - 107.0
+    - Denver Nuggets
+    - 75.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200NJN
+    - Portland Trail Blazers
+    - 82.0
+    - New Jersey Nets
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200PHI
+    - Miami Heat
+    - 82.0
+    - Philadelphia 76ers
+    - 77.0
+    - ''
+    - ''
+  - - Wed, Mar 20, 2002
+    - 7.0
+    - 200203200SAS
+    - Los Angeles Lakers
+    - 90.0
+    - San Antonio Spurs
+    - 108.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210ATL
+    - New York Knicks
+    - 89.0
+    - Atlanta Hawks
+    - 118.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210DAL
+    - San Antonio Spurs
+    - 105.0
+    - Dallas Mavericks
+    - 102.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210GSW
+    - Los Angeles Clippers
+    - 116.0
+    - Golden State Warriors
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210MEM
+    - Minnesota Timberwolves
+    - 95.0
+    - Memphis Grizzlies
+    - 93.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210PHO
+    - Detroit Pistons
+    - 95.0
+    - Phoenix Suns
+    - 82.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210SAC
+    - Denver Nuggets
+    - 82.0
+    - Sacramento Kings
+    - 118.0
+    - ''
+    - ''
+  - - Thu, Mar 21, 2002
+    - 7.0
+    - 200203210UTA
+    - Washington Wizards
+    - 79.0
+    - Utah Jazz
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220BOS
+    - Philadelphia 76ers
+    - 96.0
+    - Boston Celtics
+    - 91.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220CHI
+    - Portland Trail Blazers
+    - 109.0
+    - Chicago Bulls
+    - 93.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220CLE
+    - Toronto Raptors
+    - 94.0
+    - Cleveland Cavaliers
+    - 80.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220LAL
+    - Detroit Pistons
+    - 82.0
+    - Los Angeles Lakers
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220MIA
+    - Indiana Pacers
+    - 104.0
+    - Miami Heat
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220NJN
+    - Milwaukee Bucks
+    - 84.0
+    - New Jersey Nets
+    - 108.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220ORL
+    - Charlotte Hornets
+    - 106.0
+    - Orlando Magic
+    - 92.0
+    - ''
+    - ''
+  - - Fri, Mar 22, 2002
+    - 7.0
+    - 200203220SEA
+    - Houston Rockets
+    - 82.0
+    - Seattle SuperSonics
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230ATL
+    - Chicago Bulls
+    - 96.0
+    - Atlanta Hawks
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230DAL
+    - Memphis Grizzlies
+    - 100.0
+    - Dallas Mavericks
+    - 111.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 8.0
+    - 200203230DEN
+    - Seattle SuperSonics
+    - 85.0
+    - Denver Nuggets
+    - 88.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230LAC
+    - Phoenix Suns
+    - 97.0
+    - Los Angeles Clippers
+    - 94.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230MIN
+    - Portland Trail Blazers
+    - 108.0
+    - Minnesota Timberwolves
+    - 99.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230SAS
+    - Miami Heat
+    - 79.0
+    - San Antonio Spurs
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Mar 23, 2002
+    - 7.0
+    - 200203230UTA
+    - Golden State Warriors
+    - 103.0
+    - Utah Jazz
+    - 112.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 12.0
+    - 200203240DET
+    - Boston Celtics
+    - 101.0
+    - Detroit Pistons
+    - 109.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 6.0
+    - 200203240GSW
+    - Houston Rockets
+    - 116.0
+    - Golden State Warriors
+    - 104.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 2.0
+    - 200203240IND
+    - Charlotte Hornets
+    - 99.0
+    - Indiana Pacers
+    - 84.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 2.0
+    - 200203240MIL
+    - Orlando Magic
+    - 85.0
+    - Milwaukee Bucks
+    - 110.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 6.0
+    - 200203240NJN
+    - Atlanta Hawks
+    - 102.0
+    - New Jersey Nets
+    - 116.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 4.0
+    - 200203240PHI
+    - New York Knicks
+    - 82.0
+    - Philadelphia 76ers
+    - 90.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 3.0
+    - 200203240SAC
+    - Los Angeles Lakers
+    - 97.0
+    - Sacramento Kings
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Mar 24, 2002
+    - 12.0
+    - 200203240TOR
+    - Washington Wizards
+    - 91.0
+    - Toronto Raptors
+    - 92.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250LAC
+    - San Antonio Spurs
+    - 91.0
+    - Los Angeles Clippers
+    - 85.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250MIA
+    - Boston Celtics
+    - 87.0
+    - Miami Heat
+    - 82.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250NYK
+    - Denver Nuggets
+    - 84.0
+    - New York Knicks
+    - 83.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250PHO
+    - Cleveland Cavaliers
+    - 96.0
+    - Phoenix Suns
+    - 102.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250POR
+    - Memphis Grizzlies
+    - 103.0
+    - Portland Trail Blazers
+    - 100.0
+    - ''
+    - ''
+  - - Mon, Mar 25, 2002
+    - 7.0
+    - 200203250SEA
+    - Utah Jazz
+    - 92.0
+    - Seattle SuperSonics
+    - 106.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260ATL
+    - New Jersey Nets
+    - 77.0
+    - Atlanta Hawks
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260IND
+    - Detroit Pistons
+    - 96.0
+    - Indiana Pacers
+    - 77.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260LAL
+    - Cleveland Cavaliers
+    - 116.0
+    - Los Angeles Lakers
+    - 121.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260MIL
+    - Dallas Mavericks
+    - 112.0
+    - Milwaukee Bucks
+    - 106.0
+    - OT
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260MIN
+    - Golden State Warriors
+    - 115.0
+    - Minnesota Timberwolves
+    - 106.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260ORL
+    - Chicago Bulls
+    - 82.0
+    - Orlando Magic
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260SAC
+    - Los Angeles Clippers
+    - 90.0
+    - Sacramento Kings
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260UTA
+    - Houston Rockets
+    - 105.0
+    - Utah Jazz
+    - 109.0
+    - ''
+    - ''
+  - - Tue, Mar 26, 2002
+    - 7.0
+    - 200203260WAS
+    - Denver Nuggets
+    - 87.0
+    - Washington Wizards
+    - 103.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270BOS
+    - Golden State Warriors
+    - 99.0
+    - Boston Celtics
+    - 102.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270CHH
+    - Orlando Magic
+    - 104.0
+    - Charlotte Hornets
+    - 111.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270DET
+    - New York Knicks
+    - 89.0
+    - Detroit Pistons
+    - 82.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 8.0
+    - 200203270PHI
+    - New Jersey Nets
+    - 88.0
+    - Philadelphia 76ers
+    - 80.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270PHO
+    - Los Angeles Lakers
+    - 106.0
+    - Phoenix Suns
+    - 118.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270POR
+    - San Antonio Spurs
+    - 93.0
+    - Portland Trail Blazers
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 7.0
+    - 200203270SEA
+    - Memphis Grizzlies
+    - 82.0
+    - Seattle SuperSonics
+    - 96.0
+    - ''
+    - ''
+  - - Wed, Mar 27, 2002
+    - 8.0
+    - 200203270TOR
+    - Miami Heat
+    - 80.0
+    - Toronto Raptors
+    - 81.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280ATL
+    - Toronto Raptors
+    - 85.0
+    - Atlanta Hawks
+    - 83.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280CHI
+    - Philadelphia 76ers
+    - 99.0
+    - Chicago Bulls
+    - 79.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280HOU
+    - Sacramento Kings
+    - 101.0
+    - Houston Rockets
+    - 74.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280MIL
+    - Denver Nuggets
+    - 88.0
+    - Milwaukee Bucks
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280MIN
+    - Dallas Mavericks
+    - 111.0
+    - Minnesota Timberwolves
+    - 113.0
+    - ''
+    - ''
+  - - Thu, Mar 28, 2002
+    - 7.0
+    - 200203280UTA
+    - Cleveland Cavaliers
+    - 91.0
+    - Utah Jazz
+    - 112.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290BOS
+    - Dallas Mavericks
+    - 108.0
+    - Boston Celtics
+    - 82.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290CHH
+    - Sacramento Kings
+    - 92.0
+    - Charlotte Hornets
+    - 87.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 8.0
+    - 200203290DET
+    - Golden State Warriors
+    - 103.0
+    - Detroit Pistons
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290LAL
+    - Portland Trail Blazers
+    - 79.0
+    - Los Angeles Lakers
+    - 91.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290MIA
+    - Atlanta Hawks
+    - 80.0
+    - Miami Heat
+    - 92.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290NYK
+    - Minnesota Timberwolves
+    - 98.0
+    - New York Knicks
+    - 77.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290ORL
+    - Indiana Pacers
+    - 106.0
+    - Orlando Magic
+    - 114.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290PHO
+    - Los Angeles Clippers
+    - 96.0
+    - Phoenix Suns
+    - 94.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290SEA
+    - San Antonio Spurs
+    - 76.0
+    - Seattle SuperSonics
+    - 79.0
+    - ''
+    - ''
+  - - Fri, Mar 29, 2002
+    - 7.0
+    - 200203290WAS
+    - Milwaukee Bucks
+    - 98.0
+    - Washington Wizards
+    - 107.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300CHI
+    - Denver Nuggets
+    - 100.0
+    - Chicago Bulls
+    - 84.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300CLE
+    - Charlotte Hornets
+    - 93.0
+    - Cleveland Cavaliers
+    - 85.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300HOU
+    - Phoenix Suns
+    - 90.0
+    - Houston Rockets
+    - 88.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300LAC
+    - Utah Jazz
+    - 105.0
+    - Los Angeles Clippers
+    - 92.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300MEM
+    - Golden State Warriors
+    - 99.0
+    - Memphis Grizzlies
+    - 105.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 1.0
+    - 200203300NJN
+    - Philadelphia 76ers
+    - 92.0
+    - New Jersey Nets
+    - 102.0
+    - ''
+    - ''
+  - - Sat, Mar 30, 2002
+    - 7.0
+    - 200203300POR
+    - Seattle SuperSonics
+    - 92.0
+    - Portland Trail Blazers
+    - 87.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 2.0
+    - 200203310ATL
+    - Sacramento Kings
+    - 92.0
+    - Atlanta Hawks
+    - 91.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 12.0
+    - 200203310BOS
+    - Milwaukee Bucks
+    - 80.0
+    - Boston Celtics
+    - 110.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 8.0
+    - 200203310DET
+    - Denver Nuggets
+    - 82.0
+    - Detroit Pistons
+    - 86.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 3.0
+    - 200203310IND
+    - Miami Heat
+    - 81.0
+    - Indiana Pacers
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 2.0
+    - 200203310LAL
+    - San Antonio Spurs
+    - 95.0
+    - Los Angeles Lakers
+    - 96.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 2.0
+    - 200203310MIN
+    - New Jersey Nets
+    - 85.0
+    - Minnesota Timberwolves
+    - 86.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 3.0
+    - 200203310ORL
+    - New York Knicks
+    - 90.0
+    - Orlando Magic
+    - 97.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 3.0
+    - 200203310PHI
+    - Toronto Raptors
+    - 72.0
+    - Philadelphia 76ers
+    - 70.0
+    - ''
+    - ''
+  - - Sun, Mar 31, 2002
+    - 3.0
+    - 200203310WAS
+    - Dallas Mavericks
+    - 110.0
+    - Washington Wizards
+    - 103.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020ATL
+    - Milwaukee Bucks
+    - 92.0
+    - Atlanta Hawks
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020CLE
+    - Phoenix Suns
+    - 96.0
+    - Cleveland Cavaliers
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020DEN
+    - Utah Jazz
+    - 90.0
+    - Denver Nuggets
+    - 98.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020GSW
+    - Portland Trail Blazers
+    - 91.0
+    - Golden State Warriors
+    - 107.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020HOU
+    - Seattle SuperSonics
+    - 98.0
+    - Houston Rockets
+    - 100.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020IND
+    - Boston Celtics
+    - 105.0
+    - Indiana Pacers
+    - 94.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020MEM
+    - Sacramento Kings
+    - 107.0
+    - Memphis Grizzlies
+    - 83.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 7.0
+    - 200204020MIA
+    - Detroit Pistons
+    - 90.0
+    - Miami Heat
+    - 87.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 8.0
+    - 200204020NYK
+    - Charlotte Hornets
+    - 85.0
+    - New York Knicks
+    - 91.0
+    - ''
+    - ''
+  - - Tue, Apr 2, 2002
+    - 8.0
+    - 200204020WAS
+    - Los Angeles Lakers
+    - 113.0
+    - Washington Wizards
+    - 93.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030CHH
+    - Miami Heat
+    - 90.0
+    - Charlotte Hornets
+    - 97.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030DET
+    - Sacramento Kings
+    - 107.0
+    - Detroit Pistons
+    - 86.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030MIL
+    - Washington Wizards
+    - 90.0
+    - Milwaukee Bucks
+    - 105.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030MIN
+    - Memphis Grizzlies
+    - 81.0
+    - Minnesota Timberwolves
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 8.0
+    - 200204030NJN
+    - Los Angeles Lakers
+    - 92.0
+    - New Jersey Nets
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030PHI
+    - Phoenix Suns
+    - 83.0
+    - Philadelphia 76ers
+    - 89.0
+    - OT
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030SAS
+    - Seattle SuperSonics
+    - 88.0
+    - San Antonio Spurs
+    - 90.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030TOR
+    - Chicago Bulls
+    - 104.0
+    - Toronto Raptors
+    - 117.0
+    - ''
+    - ''
+  - - Wed, Apr 3, 2002
+    - 7.0
+    - 200204030UTA
+    - Los Angeles Clippers
+    - 87.0
+    - Utah Jazz
+    - 99.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 7.0
+    - 200204040ATL
+    - Indiana Pacers
+    - 94.0
+    - Atlanta Hawks
+    - 95.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 8.0
+    - 200204040DAL
+    - Los Angeles Clippers
+    - 90.0
+    - Dallas Mavericks
+    - 115.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 7.0
+    - 200204040DEN
+    - Minnesota Timberwolves
+    - 87.0
+    - Denver Nuggets
+    - 88.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 7.0
+    - 200204040HOU
+    - San Antonio Spurs
+    - 102.0
+    - Houston Rockets
+    - 78.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 7.0
+    - 200204040ORL
+    - Cleveland Cavaliers
+    - 101.0
+    - Orlando Magic
+    - 105.0
+    - ''
+    - ''
+  - - Thu, Apr 4, 2002
+    - 7.0
+    - 200204040POR
+    - New York Knicks
+    - 80.0
+    - Portland Trail Blazers
+    - 88.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050BOS
+    - Los Angeles Lakers
+    - 81.0
+    - Boston Celtics
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050CHH
+    - Washington Wizards
+    - 91.0
+    - Charlotte Hornets
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050CHI
+    - Toronto Raptors
+    - 98.0
+    - Chicago Bulls
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050GSW
+    - Denver Nuggets
+    - 104.0
+    - Golden State Warriors
+    - 108.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050IND
+    - Phoenix Suns
+    - 87.0
+    - Indiana Pacers
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050MEM
+    - Houston Rockets
+    - 81.0
+    - Memphis Grizzlies
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050MIA
+    - Milwaukee Bucks
+    - 97.0
+    - Miami Heat
+    - 102.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050NJN
+    - Orlando Magic
+    - 85.0
+    - New Jersey Nets
+    - 110.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050PHI
+    - Detroit Pistons
+    - 92.0
+    - Philadelphia 76ers
+    - 88.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050SEA
+    - New York Knicks
+    - 86.0
+    - Seattle SuperSonics
+    - 83.0
+    - ''
+    - ''
+  - - Fri, Apr 5, 2002
+    - 7.0
+    - 200204050UTA
+    - Sacramento Kings
+    - 117.0
+    - Utah Jazz
+    - 109.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 8.0
+    - 200204060ATL
+    - Charlotte Hornets
+    - 93.0
+    - Atlanta Hawks
+    - 86.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 8.0
+    - 200204060CLE
+    - Chicago Bulls
+    - 101.0
+    - Cleveland Cavaliers
+    - 120.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 7.0
+    - 200204060MIN
+    - Phoenix Suns
+    - 104.0
+    - Minnesota Timberwolves
+    - 108.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 7.0
+    - 200204060POR
+    - Golden State Warriors
+    - 86.0
+    - Portland Trail Blazers
+    - 113.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 4.0
+    - 200204060SAS
+    - Dallas Mavericks
+    - 87.0
+    - San Antonio Spurs
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Apr 6, 2002
+    - 8.0
+    - 200204060WAS
+    - Memphis Grizzlies
+    - 85.0
+    - Washington Wizards
+    - 88.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 6.0
+    - 200204070LAC
+    - Denver Nuggets
+    - 75.0
+    - Los Angeles Clippers
+    - 97.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 5.0
+    - 200204070MIA
+    - Los Angeles Lakers
+    - 96.0
+    - Miami Heat
+    - 88.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 8.0
+    - 200204070NJN
+    - Boston Celtics
+    - 102.0
+    - New Jersey Nets
+    - 90.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 12.0
+    - 200204070PHI
+    - Milwaukee Bucks
+    - 87.0
+    - Philadelphia 76ers
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 3.0
+    - 200204070SAC
+    - New York Knicks
+    - 82.0
+    - Sacramento Kings
+    - 116.0
+    - ''
+    - ''
+  - - Sun, Apr 7, 2002
+    - 5.0
+    - 200204070TOR
+    - Indiana Pacers
+    - 84.0
+    - Toronto Raptors
+    - 94.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080CHI
+    - Boston Celtics
+    - 100.0
+    - Chicago Bulls
+    - 105.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080DET
+    - Atlanta Hawks
+    - 99.0
+    - Detroit Pistons
+    - 105.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080GSW
+    - Minnesota Timberwolves
+    - 100.0
+    - Golden State Warriors
+    - 93.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080IND
+    - Cleveland Cavaliers
+    - 111.0
+    - Indiana Pacers
+    - 99.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080ORL
+    - Houston Rockets
+    - 74.0
+    - Orlando Magic
+    - 83.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080SAS
+    - Portland Trail Blazers
+    - 87.0
+    - San Antonio Spurs
+    - 99.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080SEA
+    - Los Angeles Clippers
+    - 100.0
+    - Seattle SuperSonics
+    - 102.0
+    - ''
+    - ''
+  - - Mon, Apr 8, 2002
+    - 7.0
+    - 200204080UTA
+    - Dallas Mavericks
+    - 105.0
+    - Utah Jazz
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090DAL
+    - Portland Trail Blazers
+    - 96.0
+    - Dallas Mavericks
+    - 108.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090LAL
+    - Utah Jazz
+    - 82.0
+    - Los Angeles Lakers
+    - 112.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090MEM
+    - Denver Nuggets
+    - 86.0
+    - Memphis Grizzlies
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090MIA
+    - Houston Rockets
+    - 117.0
+    - Miami Heat
+    - 120.0
+    - 2.0
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090MIL
+    - Philadelphia 76ers
+    - 92.0
+    - Milwaukee Bucks
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090NJN
+    - Washington Wizards
+    - 88.0
+    - New Jersey Nets
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090NYK
+    - Orlando Magic
+    - 108.0
+    - New York Knicks
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090PHO
+    - Seattle SuperSonics
+    - 92.0
+    - Phoenix Suns
+    - 99.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090SAC
+    - Minnesota Timberwolves
+    - 103.0
+    - Sacramento Kings
+    - 122.0
+    - ''
+    - ''
+  - - Tue, Apr 9, 2002
+    - 7.0
+    - 200204090TOR
+    - Charlotte Hornets
+    - 80.0
+    - Toronto Raptors
+    - 84.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 8.0
+    - 200204100BOS
+    - Miami Heat
+    - 65.0
+    - Boston Celtics
+    - 70.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100CHH
+    - Atlanta Hawks
+    - 101.0
+    - Charlotte Hornets
+    - 95.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100CLE
+    - Milwaukee Bucks
+    - 81.0
+    - Cleveland Cavaliers
+    - 106.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100DET
+    - Chicago Bulls
+    - 102.0
+    - Detroit Pistons
+    - 101.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100GSW
+    - Sacramento Kings
+    - 118.0
+    - Golden State Warriors
+    - 116.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100IND
+    - Toronto Raptors
+    - 82.0
+    - Indiana Pacers
+    - 98.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100SAS
+    - Denver Nuggets
+    - 79.0
+    - San Antonio Spurs
+    - 87.0
+    - ''
+    - ''
+  - - Wed, Apr 10, 2002
+    - 7.0
+    - 200204100WAS
+    - Philadelphia 76ers
+    - 77.0
+    - Washington Wizards
+    - 90.0
+    - ''
+    - ''
+  - - Thu, Apr 11, 2002
+    - 7.0
+    - 200204110DAL
+    - Houston Rockets
+    - 98.0
+    - Dallas Mavericks
+    - 95.0
+    - OT
+    - ''
+  - - Thu, Apr 11, 2002
+    - 7.0
+    - 200204110LAL
+    - Minnesota Timberwolves
+    - 83.0
+    - Los Angeles Lakers
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Apr 11, 2002
+    - 7.0
+    - 200204110MEM
+    - Portland Trail Blazers
+    - 99.0
+    - Memphis Grizzlies
+    - 102.0
+    - ''
+    - ''
+  - - Thu, Apr 11, 2002
+    - 7.0
+    - 200204110NYK
+    - Chicago Bulls
+    - 104.0
+    - New York Knicks
+    - 101.0
+    - OT
+    - ''
+  - - Thu, Apr 11, 2002
+    - 8.0
+    - 200204110ORL
+    - New Jersey Nets
+    - 101.0
+    - Orlando Magic
+    - 99.0
+    - OT
+    - ''
+  - - Thu, Apr 11, 2002
+    - 7.0
+    - 200204110PHO
+    - Utah Jazz
+    - 97.0
+    - Phoenix Suns
+    - 96.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120BOS
+    - New York Knicks
+    - 92.0
+    - Boston Celtics
+    - 107.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120CHH
+    - Cleveland Cavaliers
+    - 100.0
+    - Charlotte Hornets
+    - 112.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120DEN
+    - Golden State Warriors
+    - 89.0
+    - Denver Nuggets
+    - 97.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 8.0
+    - 200204120DET
+    - San Antonio Spurs
+    - 96.0
+    - Detroit Pistons
+    - 86.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120HOU
+    - Portland Trail Blazers
+    - 80.0
+    - Houston Rockets
+    - 79.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120IND
+    - Milwaukee Bucks
+    - 107.0
+    - Indiana Pacers
+    - 112.0
+    - OT
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120LAC
+    - Sacramento Kings
+    - 125.0
+    - Los Angeles Clippers
+    - 106.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120MIA
+    - Orlando Magic
+    - 94.0
+    - Miami Heat
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120PHI
+    - Washington Wizards
+    - 91.0
+    - Philadelphia 76ers
+    - 100.0
+    - ''
+    - ''
+  - - Fri, Apr 12, 2002
+    - 7.0
+    - 200204120TOR
+    - Atlanta Hawks
+    - 73.0
+    - Toronto Raptors
+    - 112.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130ATL
+    - Cleveland Cavaliers
+    - 123.0
+    - Atlanta Hawks
+    - 128.0
+    - 2.0
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130CHI
+    - Detroit Pistons
+    - 124.0
+    - Chicago Bulls
+    - 106.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130DEN
+    - Phoenix Suns
+    - 94.0
+    - Denver Nuggets
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130GSW
+    - Utah Jazz
+    - 109.0
+    - Golden State Warriors
+    - 101.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130LAC
+    - Minnesota Timberwolves
+    - 101.0
+    - Los Angeles Clippers
+    - 98.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 7.0
+    - 200204130MEM
+    - San Antonio Spurs
+    - 113.0
+    - Memphis Grizzlies
+    - 92.0
+    - ''
+    - ''
+  - - Sat, Apr 13, 2002
+    - 5.0
+    - 200204130SEA
+    - Dallas Mavericks
+    - 116.0
+    - Seattle SuperSonics
+    - 99.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 7.0
+    - 200204140HOU
+    - Memphis Grizzlies
+    - 98.0
+    - Houston Rockets
+    - 95.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 8.0
+    - 200204140MIA
+    - New York Knicks
+    - 94.0
+    - Miami Heat
+    - 67.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 2.0
+    - 200204140MIL
+    - Charlotte Hornets
+    - 91.0
+    - Milwaukee Bucks
+    - 98.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 12.0
+    - 200204140ORL
+    - Philadelphia 76ers
+    - 95.0
+    - Orlando Magic
+    - 89.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 2.0
+    - 200204140POR
+    - Los Angeles Lakers
+    - 120.0
+    - Portland Trail Blazers
+    - 128.0
+    - 2.0
+    - ''
+  - - Sun, Apr 14, 2002
+    - 6.0
+    - 200204140SAC
+    - Dallas Mavericks
+    - 113.0
+    - Sacramento Kings
+    - 100.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 5.0
+    - 200204140TOR
+    - New Jersey Nets
+    - 82.0
+    - Toronto Raptors
+    - 101.0
+    - ''
+    - ''
+  - - Sun, Apr 14, 2002
+    - 1.0
+    - 200204140WAS
+    - Indiana Pacers
+    - 86.0
+    - Washington Wizards
+    - 80.0
+    - ''
+    - ''
+  - - Mon, Apr 15, 2002
+    - 7.0
+    - 200204150LAL
+    - Seattle SuperSonics
+    - 104.0
+    - Los Angeles Lakers
+    - 111.0
+    - ''
+    - ''
+  - - Mon, Apr 15, 2002
+    - 7.0
+    - 200204150MIN
+    - Boston Celtics
+    - 93.0
+    - Minnesota Timberwolves
+    - 90.0
+    - ''
+    - ''
+  - - Mon, Apr 15, 2002
+    - 7.0
+    - 200204150PHI
+    - Chicago Bulls
+    - 98.0
+    - Philadelphia 76ers
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160ATL
+    - Orlando Magic
+    - 102.0
+    - Atlanta Hawks
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160CLE
+    - Indiana Pacers
+    - 99.0
+    - Cleveland Cavaliers
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160DAL
+    - Utah Jazz
+    - 87.0
+    - Dallas Mavericks
+    - 96.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160DEN
+    - Houston Rockets
+    - 70.0
+    - Denver Nuggets
+    - 101.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160LAC
+    - Memphis Grizzlies
+    - 84.0
+    - Los Angeles Clippers
+    - 92.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160MIA
+    - Charlotte Hornets
+    - 88.0
+    - Miami Heat
+    - 81.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160MIL
+    - Toronto Raptors
+    - 89.0
+    - Milwaukee Bucks
+    - 105.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 8.0
+    - 200204160NJN
+    - Detroit Pistons
+    - 103.0
+    - New Jersey Nets
+    - 98.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160SAC
+    - Golden State Warriors
+    - 106.0
+    - Sacramento Kings
+    - 120.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160SAS
+    - Phoenix Suns
+    - 71.0
+    - San Antonio Spurs
+    - 95.0
+    - ''
+    - ''
+  - - Tue, Apr 16, 2002
+    - 7.0
+    - 200204160WAS
+    - New York Knicks
+    - 112.0
+    - Washington Wizards
+    - 116.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170BOS
+    - Atlanta Hawks
+    - 81.0
+    - Boston Celtics
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170CHH
+    - Chicago Bulls
+    - 106.0
+    - Charlotte Hornets
+    - 112.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170DET
+    - Milwaukee Bucks
+    - 89.0
+    - Detroit Pistons
+    - 123.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170GSW
+    - Los Angeles Clippers
+    - 103.0
+    - Golden State Warriors
+    - 107.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170IND
+    - Philadelphia 76ers
+    - 80.0
+    - Indiana Pacers
+    - 103.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170LAL
+    - Sacramento Kings
+    - 95.0
+    - Los Angeles Lakers
+    - 109.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170MIN
+    - Denver Nuggets
+    - 90.0
+    - Minnesota Timberwolves
+    - 104.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170NYK
+    - New Jersey Nets
+    - 99.0
+    - New York Knicks
+    - 94.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170ORL
+    - Miami Heat
+    - 103.0
+    - Orlando Magic
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170PHO
+    - Dallas Mavericks
+    - 76.0
+    - Phoenix Suns
+    - 89.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170POR
+    - Houston Rockets
+    - 79.0
+    - Portland Trail Blazers
+    - 92.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170SEA
+    - Memphis Grizzlies
+    - 94.0
+    - Seattle SuperSonics
+    - 109.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170TOR
+    - Cleveland Cavaliers
+    - 85.0
+    - Toronto Raptors
+    - 103.0
+    - ''
+    - ''
+  - - Wed, Apr 17, 2002
+    - 7.0
+    - 200204170UTA
+    - San Antonio Spurs
+    - 86.0
+    - Utah Jazz
+    - 84.0
+    - ''
+    - ''
+  type:
+  - varchar(255)
+  - float
+  - varchar(255)
+  - varchar(255)
+  - float
+  - varchar(255)
+  - float
+  - varchar(255)
+  - varchar(255)
+- name: Playoffs
+  cols:
+  - date_game
+  - game_start_time
+  - box_score_text
+  - visitor_team_name
+  - visitor_pts
+  - home_team_name
+  - home_pts
+  - overtimes
+  - game_remarks
+  data:
+  - - Sat, Apr 20, 2002
+    - 8.0
+    - 200204200CHH
+    - Orlando Magic
+    - 79.0
+    - Charlotte Hornets
+    - 80.0
+    - ''
+    - ''
+  - - Sat, Apr 20, 2002
+    - 12.0
+    - 200204200NJN
+    - Indiana Pacers
+    - 89.0
+    - New Jersey Nets
+    - 83.0
+    - ''
+    - ''
+  - - Sat, Apr 20, 2002
+    - 12.0
+    - 200204200SAC
+    - Utah Jazz
+    - 86.0
+    - Sacramento Kings
+    - 89.0
+    - ''
+    - ''
+  - - Sat, Apr 20, 2002
+    - 4.0
+    - 200204200SAS
+    - Seattle SuperSonics
+    - 89.0
+    - San Antonio Spurs
+    - 110.0
+    - ''
+    - ''
+  - - Sun, Apr 21, 2002
+    - 12.0
+    - 200204210BOS
+    - Philadelphia 76ers
+    - 82.0
+    - Boston Celtics
+    - 92.0
+    - ''
+    - ''
+  - - Sun, Apr 21, 2002
+    - 2.0
+    - 200204210DAL
+    - Minnesota Timberwolves
+    - 94.0
+    - Dallas Mavericks
+    - 101.0
+    - ''
+    - ''
+  - - Sun, Apr 21, 2002
+    - 8.0
+    - 200204210DET
+    - Toronto Raptors
+    - 63.0
+    - Detroit Pistons
+    - 85.0
+    - ''
+    - ''
+  - - Sun, Apr 21, 2002
+    - 2.0
+    - 200204210LAL
+    - Portland Trail Blazers
+    - 87.0
+    - Los Angeles Lakers
+    - 95.0
+    - ''
+    - ''
+  - - Mon, Apr 22, 2002
+    - 7.0
+    - 200204220NJN
+    - Indiana Pacers
+    - 79.0
+    - New Jersey Nets
+    - 95.0
+    - ''
+    - ''
+  - - Mon, Apr 22, 2002
+    - 8.0
+    - 200204220SAS
+    - Seattle SuperSonics
+    - 98.0
+    - San Antonio Spurs
+    - 90.0
+    - ''
+    - ''
+  - - Tue, Apr 23, 2002
+    - 8.0
+    - 200204230CHH
+    - Orlando Magic
+    - 111.0
+    - Charlotte Hornets
+    - 103.0
+    - OT
+    - ''
+  - - Tue, Apr 23, 2002
+    - 7.0
+    - 200204230SAC
+    - Utah Jazz
+    - 93.0
+    - Sacramento Kings
+    - 86.0
+    - ''
+    - ''
+  - - Wed, Apr 24, 2002
+    - 8.0
+    - 200204240DAL
+    - Minnesota Timberwolves
+    - 110.0
+    - Dallas Mavericks
+    - 122.0
+    - ''
+    - ''
+  - - Wed, Apr 24, 2002
+    - 7.0
+    - 200204240DET
+    - Toronto Raptors
+    - 91.0
+    - Detroit Pistons
+    - 96.0
+    - ''
+    - ''
+  - - Thu, Apr 25, 2002
+    - 8.0
+    - 200204250BOS
+    - Philadelphia 76ers
+    - 85.0
+    - Boston Celtics
+    - 93.0
+    - ''
+    - ''
+  - - Thu, Apr 25, 2002
+    - 7.0
+    - 200204250LAL
+    - Portland Trail Blazers
+    - 96.0
+    - Los Angeles Lakers
+    - 103.0
+    - ''
+    - ''
+  - - Fri, Apr 26, 2002
+    - 7.0
+    - 200204260IND
+    - New Jersey Nets
+    - 85.0
+    - Indiana Pacers
+    - 84.0
+    - ''
+    - ''
+  - - Sat, Apr 27, 2002
+    - 12.0
+    - 200204270ORL
+    - Charlotte Hornets
+    - 110.0
+    - Orlando Magic
+    - 100.0
+    - OT
+    - ''
+  - - Sat, Apr 27, 2002
+    - 2.0
+    - 200204270SEA
+    - San Antonio Spurs
+    - 102.0
+    - Seattle SuperSonics
+    - 75.0
+    - ''
+    - ''
+  - - Sat, Apr 27, 2002
+    - 8.0
+    - 200204270TOR
+    - Detroit Pistons
+    - 84.0
+    - Toronto Raptors
+    - 94.0
+    - ''
+    - ''
+  - - Sat, Apr 27, 2002
+    - 1.0
+    - 200204270UTA
+    - Sacramento Kings
+    - 90.0
+    - Utah Jazz
+    - 87.0
+    - ''
+    - ''
+  - - Sun, Apr 28, 2002
+    - 2.0
+    - 200204280MIN
+    - Dallas Mavericks
+    - 115.0
+    - Minnesota Timberwolves
+    - 102.0
+    - ''
+    - ''
+  - - Sun, Apr 28, 2002
+    - 12.0
+    - 200204280PHI
+    - Boston Celtics
+    - 103.0
+    - Philadelphia 76ers
+    - 108.0
+    - ''
+    - ''
+  - - Sun, Apr 28, 2002
+    - 2.0
+    - 200204280POR
+    - Los Angeles Lakers
+    - 92.0
+    - Portland Trail Blazers
+    - 91.0
+    - ''
+    - ''
+  - - Mon, Apr 29, 2002
+    - 7.0
+    - 200204290TOR
+    - Detroit Pistons
+    - 83.0
+    - Toronto Raptors
+    - 89.0
+    - ''
+    - ''
+  - - Mon, Apr 29, 2002
+    - 8.0
+    - 200204290UTA
+    - Sacramento Kings
+    - 91.0
+    - Utah Jazz
+    - 86.0
+    - ''
+    - ''
+  - - Tue, Apr 30, 2002
+    - 8.0
+    - 200204300IND
+    - New Jersey Nets
+    - 74.0
+    - Indiana Pacers
+    - 97.0
+    - ''
+    - ''
+  - - Tue, Apr 30, 2002
+    - 7.0
+    - 200204300ORL
+    - Charlotte Hornets
+    - 102.0
+    - Orlando Magic
+    - 85.0
+    - ''
+    - ''
+  - - Wed, May 1, 2002
+    - 8.0
+    - 200205010PHI
+    - Boston Celtics
+    - 81.0
+    - Philadelphia 76ers
+    - 83.0
+    - ''
+    - ''
+  - - Wed, May 1, 2002
+    - 7.0
+    - 200205010SEA
+    - San Antonio Spurs
+    - 79.0
+    - Seattle SuperSonics
+    - 91.0
+    - ''
+    - ''
+  - - Thu, May 2, 2002
+    - 8.0
+    - 200205020DET
+    - Toronto Raptors
+    - 82.0
+    - Detroit Pistons
+    - 85.0
+    - ''
+    - ''
+  - - Thu, May 2, 2002
+    - 7.0
+    - 200205020NJN
+    - Indiana Pacers
+    - 109.0
+    - New Jersey Nets
+    - 120.0
+    - 2.0
+    - ''
+  - - Fri, May 3, 2002
+    - 7.0
+    - 200205030BOS
+    - Philadelphia 76ers
+    - 87.0
+    - Boston Celtics
+    - 120.0
+    - ''
+    - ''
+  - - Fri, May 3, 2002
+    - 8.0
+    - 200205030SAS
+    - Seattle SuperSonics
+    - 78.0
+    - San Antonio Spurs
+    - 101.0
+    - ''
+    - ''
+  - - Sat, May 4, 2002
+    - 3.0
+    - 200205040SAC
+    - Dallas Mavericks
+    - 91.0
+    - Sacramento Kings
+    - 108.0
+    - ''
+    - ''
+  - - Sun, May 5, 2002
+    - 3.0
+    - 200205050DET
+    - Boston Celtics
+    - 84.0
+    - Detroit Pistons
+    - 96.0
+    - ''
+    - ''
+  - - Sun, May 5, 2002
+    - 2.0
+    - 200205050LAL
+    - San Antonio Spurs
+    - 80.0
+    - Los Angeles Lakers
+    - 86.0
+    - ''
+    - ''
+  - - Sun, May 5, 2002
+    - 12.0
+    - 200205050NJN
+    - Charlotte Hornets
+    - 93.0
+    - New Jersey Nets
+    - 99.0
+    - ''
+    - ''
+  - - Mon, May 6, 2002
+    - 6.0
+    - 200205060SAC
+    - Dallas Mavericks
+    - 110.0
+    - Sacramento Kings
+    - 102.0
+    - ''
+    - ''
+  - - Tue, May 7, 2002
+    - 7.0
+    - 200205070LAL
+    - San Antonio Spurs
+    - 88.0
+    - Los Angeles Lakers
+    - 85.0
+    - ''
+    - ''
+  - - Tue, May 7, 2002
+    - 8.0
+    - 200205070NJN
+    - Charlotte Hornets
+    - 88.0
+    - New Jersey Nets
+    - 102.0
+    - ''
+    - ''
+  - - Wed, May 8, 2002
+    - 8.0
+    - 200205080DET
+    - Boston Celtics
+    - 85.0
+    - Detroit Pistons
+    - 77.0
+    - ''
+    - ''
+  - - Thu, May 9, 2002
+    - 7.0
+    - 200205090CHH
+    - New Jersey Nets
+    - 97.0
+    - Charlotte Hornets
+    - 115.0
+    - ''
+    - ''
+  - - Thu, May 9, 2002
+    - 8.0
+    - 200205090DAL
+    - Sacramento Kings
+    - 125.0
+    - Dallas Mavericks
+    - 119.0
+    - ''
+    - ''
+  - - Fri, May 10, 2002
+    - 7.0
+    - 200205100BOS
+    - Detroit Pistons
+    - 64.0
+    - Boston Celtics
+    - 66.0
+    - ''
+    - ''
+  - - Fri, May 10, 2002
+    - 8.0
+    - 200205100SAS
+    - Los Angeles Lakers
+    - 99.0
+    - San Antonio Spurs
+    - 89.0
+    - ''
+    - ''
+  - - Sat, May 11, 2002
+    - 2.0
+    - 200205110DAL
+    - Sacramento Kings
+    - 115.0
+    - Dallas Mavericks
+    - 113.0
+    - OT
+    - ''
+  - - Sun, May 12, 2002
+    - 3.0
+    - 200205120BOS
+    - Detroit Pistons
+    - 79.0
+    - Boston Celtics
+    - 90.0
+    - ''
+    - ''
+  - - Sun, May 12, 2002
+    - 12.0
+    - 200205120CHH
+    - New Jersey Nets
+    - 89.0
+    - Charlotte Hornets
+    - 79.0
+    - ''
+    - ''
+  - - Sun, May 12, 2002
+    - 4.0
+    - 200205120SAS
+    - Los Angeles Lakers
+    - 87.0
+    - San Antonio Spurs
+    - 85.0
+    - ''
+    - ''
+  - - Mon, May 13, 2002
+    - 6.0
+    - 200205130SAC
+    - Dallas Mavericks
+    - 101.0
+    - Sacramento Kings
+    - 114.0
+    - ''
+    - ''
+  - - Tue, May 14, 2002
+    - 8.0
+    - 200205140DET
+    - Boston Celtics
+    - 90.0
+    - Detroit Pistons
+    - 81.0
+    - ''
+    - ''
+  - - Tue, May 14, 2002
+    - 7.0
+    - 200205140LAL
+    - San Antonio Spurs
+    - 87.0
+    - Los Angeles Lakers
+    - 93.0
+    - ''
+    - ''
+  - - Wed, May 15, 2002
+    - 8.0
+    - 200205150NJN
+    - Charlotte Hornets
+    - 95.0
+    - New Jersey Nets
+    - 103.0
+    - ''
+    - ''
+  - - Sat, May 18, 2002
+    - 3.0
+    - 200205180SAC
+    - Los Angeles Lakers
+    - 106.0
+    - Sacramento Kings
+    - 99.0
+    - ''
+    - ''
+  - - Sun, May 19, 2002
+    - 5.0
+    - 200205190NJN
+    - Boston Celtics
+    - 97.0
+    - New Jersey Nets
+    - 104.0
+    - ''
+    - ''
+  - - Mon, May 20, 2002
+    - 6.0
+    - 200205200SAC
+    - Los Angeles Lakers
+    - 90.0
+    - Sacramento Kings
+    - 96.0
+    - ''
+    - ''
+  - - Tue, May 21, 2002
+    - 8.0
+    - 200205210NJN
+    - Boston Celtics
+    - 93.0
+    - New Jersey Nets
+    - 86.0
+    - ''
+    - ''
+  - - Fri, May 24, 2002
+    - 6.0
+    - 200205240LAL
+    - Sacramento Kings
+    - 103.0
+    - Los Angeles Lakers
+    - 90.0
+    - ''
+    - ''
+  - - Sat, May 25, 2002
+    - 5.0
+    - 200205250BOS
+    - New Jersey Nets
+    - 90.0
+    - Boston Celtics
+    - 94.0
+    - ''
+    - ''
+  - - Sun, May 26, 2002
+    - 2.0
+    - 200205260LAL
+    - Sacramento Kings
+    - 99.0
+    - Los Angeles Lakers
+    - 100.0
+    - ''
+    - ''
+  - - Mon, May 27, 2002
+    - 5.0
+    - 200205270BOS
+    - New Jersey Nets
+    - 94.0
+    - Boston Celtics
+    - 92.0
+    - ''
+    - ''
+  - - Tue, May 28, 2002
+    - 6.0
+    - 200205280SAC
+    - Los Angeles Lakers
+    - 91.0
+    - Sacramento Kings
+    - 92.0
+    - ''
+    - ''
+  - - Wed, May 29, 2002
+    - 9.0
+    - 200205290NJN
+    - Boston Celtics
+    - 92.0
+    - New Jersey Nets
+    - 103.0
+    - ''
+    - ''
+  - - Fri, May 31, 2002
+    - 7.0
+    - 200205310BOS
+    - New Jersey Nets
+    - 96.0
+    - Boston Celtics
+    - 88.0
+    - ''
+    - ''
+  - - Fri, May 31, 2002
+    - 6.0
+    - 200205310LAL
+    - Sacramento Kings
+    - 102.0
+    - Los Angeles Lakers
+    - 106.0
+    - ''
+    - ''
+  - - Sun, Jun 2, 2002
+    - 4.0
+    - 200206020SAC
+    - Los Angeles Lakers
+    - 112.0
+    - Sacramento Kings
+    - 106.0
+    - OT
+    - ''
+  - - Wed, Jun 5, 2002
+    - 6.0
+    - 200206050LAL
+    - New Jersey Nets
+    - 94.0
+    - Los Angeles Lakers
+    - 99.0
+    - ''
+    - ''
+  - - Fri, Jun 7, 2002
+    - 6.0
+    - 200206070LAL
+    - New Jersey Nets
+    - 83.0
+    - Los Angeles Lakers
+    - 106.0
+    - ''
+    - ''
+  - - Sun, Jun 9, 2002
+    - 8.0
+    - 200206090NJN
+    - Los Angeles Lakers
+    - 106.0
+    - New Jersey Nets
+    - 103.0
+    - ''
+    - ''
+  - - Wed, Jun 12, 2002
+    - 9.0
+    - 200206120NJN
+    - Los Angeles Lakers
+    - 113.0
+    - New Jersey Nets
+    - 107.0
+    - ''
+    - ''
+  type:
+  - varchar(255)
+  - float
+  - varchar(255)
+  - varchar(255)
+  - float
+  - varchar(255)
+  - float
+  - varchar(255)
+  - varchar(255)

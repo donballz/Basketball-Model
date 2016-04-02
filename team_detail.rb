@@ -20,7 +20,8 @@ def clean_string(str)
 	include = true
 	str.each do |char|
 		if char == '<'
-			include = false
+			# Need to keep links to box scores for game scraping
+			include = false unless str.find('Box Score') > -1
 		elsif char == '>'
 			include = true
 		end
@@ -45,12 +46,10 @@ def get_data(str, start, limit)
 			end_pos = str.index('</td>', pos)
 			unless pos == -1 or pos > row_starts[i + 1]
 				datum = clean_string(str[pos...end_pos])
-				if datum.find('.') != -1
-					row.push(datum.to_f)
-				elsif datum.to_i == 0
+				if datum.to_i == 0
 					row.push(datum)
 				else
-					row.push(datum.to_i)
+					row.push(datum.to_f)
 				end
 			end
 		end

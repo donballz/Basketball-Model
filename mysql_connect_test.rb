@@ -1,8 +1,8 @@
 require 'mysql'
 require 'yaml'
 
-path = '/Users/donald/Documents/Basketball Model/'
-sql_str = YAML.load_file(path + "test.sql")
+#path = '/Users/donald/Documents/Basketball Model/Basketball-Model/'
+#sql_str = YAML.load_file(path + "test.sql")
 
 begin
     con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
