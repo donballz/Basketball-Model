@@ -96,7 +96,7 @@ end
 def parse_team_data(team, year)
 	# master function to call the others
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	page_raw = URI.parse("#{global['site']}#{team}/#{year}.html").read
+	page_raw = URI.parse("#{global['site']}teams/#{team}/#{year}.html").read
 	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
 	tables = get_tables(page_raw, table_starts)
 	File.open(File.join(global['yaml'], "#{team}_#{year}.yml"), 'w') do |f| 

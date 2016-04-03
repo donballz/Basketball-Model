@@ -6,17 +6,6 @@ require_relative 'team_detail.rb'
 require_relative 'gen_sql_strings.rb'
 require_relative 'get_all_team_detail.rb'
 
-# MUST BUILD:
-# Test suite. 
-# Tests to include. 
-# 1. Connect to mysql successful.
-# 2. Parse tables from yaml raw.
-# 3. Columns, types, rows all have same number of rows.
-# 4. Since raw is static, develop specific values to test.
-
-# SCRATCH THAT
-# Use this site instead: http://www.basketball-reference.com/leagues/NBA_2001_games.html
-
 def clean_box_score(tables)
 	# Gets relevant piece of the link to the game
 	tables.each do |table|
@@ -60,7 +49,6 @@ def yaml_to_sql(con, path)
 	#tables = YAML.load_file(File.join(path, "zzGames_2001.yml"))
 	#tables.each { |table| puts build_create_table_str(table) }
 	for year in 2001..2016
-		puts "Uploading #{year}"
 		tables = YAML.load_file(File.join(path, "zzGames_#{year}.yml"))
 		write_to_sql(con, tables, 'DUM', year)
 	end
