@@ -1,0 +1,233 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: +15&#9642;Off: -3&#9642;Net: +18)'
+    - |2-
+
+      +10
+    - 227/+10
+    - 22/
+    - 230/+2
+    - 19/
+    - 228/-8
+    - 21/
+    - 250/+11
+    - 'Chris Mihm (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +1
+    - 136/+1
+    - 113/
+    - 50/0
+    - 199/
+    - 119/-2
+    - 130/
+    - 226/+10
+    - 23/
+    - 'Andre Miller (On: +14&#9642;Off: -2&#9642;Net: +16)'
+    - |2-
+
+      +7
+    - 193/+7
+    - 40/
+    - 16/-3
+    - 218/+2
+    - 31/
+    - 44/-3
+    - 250/
+    - 204/+11
+    - 'Lamond Murray (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 131/
+    - 119/+3
+    - 250/-9
+    - 89/
+    - 159/+8
+    - 'Clarence Weatherspoon (On: +11&#9642;Off: +1&#9642;Net: +10)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 97/
+    - 153/+3
+    - 250/-9
+    - 117/
+    - 131/+10
+    - 'Chris Gatling (On: +3&#9642;Off: +9&#9642;Net: -6)'
+    - "\n"
+    - 141/
+    - 108/+6
+    - 92/0
+    - 33/
+    - 124/+3
+    - 120/
+    - 129/-7
+    - 112/+1
+    - 136/
+    - 'Brevin Knight (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 195/
+    - 32/+3
+    - 246/
+    - 25/+1
+    - 45/
+    - 204/-6
+    - 41/0
+    - 186/
+    - 21/+1
+    - 'Cedric Henderson (On: 0&#9642;Off: +12&#9642;Net: -12)'
+    - "\n"
+    - 233/
+    - 16/-3
+    - 125/0
+    - 107/
+    - 18/+1
+    - 233/
+    - 16/-1
+    - 83/+3
+    - 164/
+    - 'J.R. Reid (On: 0&#9642;Off: +12&#9642;Net: -12)'
+    - "\n"
+    - 306/
+    - 68/0
+    - 627/
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Maloney (On: -17&#9642;Off: +5&#9642;Net: -22)'
+    - |2-
+
+      -7
+    - 193/-7
+    - 56/
+    - 125/0
+    - 124/
+    - 188/+4
+    - 129/
+    - 164/-14
+    - 17/
+    - 'Roshown McLeod (On: -13&#9642;Off: +1&#9642;Net: -14)'
+    - |2-
+
+      -7
+    - 193/-7
+    - 56/
+    - 113/+2
+    - 136/
+    - 188/+4
+    - 129/
+    - 142/-12
+    - 39/
+    - 'Dikembe Mutombo (On: -1&#9642;Off: -11&#9642;Net: +10)'
+    - |2-
+
+      -3
+    - 167/-3
+    - 82/
+    - 195/+3
+    - 54/
+    - 247/+9
+    - 2/
+    - 226/-10
+    - 23/
+    - 'Jason Terry (On: +1&#9642;Off: -13&#9642;Net: +14)'
+    - |2-
+
+      +4
+    - 91/+4
+    - 158/
+    - 243/-1
+    - 6/
+    - 249/+9
+    - 83/-3
+    - 61/
+    - 105/-8
+    - 'Lorenzen Wright (On: -15&#9642;Off: +3&#9642;Net: -18)'
+    - |2-
+
+      -7
+    - 241/-7
+    - 156/
+    - 101/-6
+    - 249/+9
+    - 89/
+    - 143/-11
+    - 18/
+    - 'Jim Jackson (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - "\n"
+    - 94/
+    - 155/-11
+    - 119/
+    - 130/-5
+    - 192/
+    - 57/+5
+    - 65/0
+    - 184/
+    - 'Hanno Mottola (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - "\n"
+    - 172/
+    - 77/-4
+    - 140/+3
+    - 59/
+    - 49/-6
+    - 247/
+    - 2/0
+    - 83/-3
+    - 143/
+    - 22/-1
+    - 'Anthony Johnson (On: +3&#9642;Off: -15&#9642;Net: +18)'
+    - "\n"
+    - 195/
+    - 54/0
+    - 248/
+    - 1/-2
+    - 192/
+    - 57/+5
+    - 65/0
+    - 184/
+    - 'Larry Robinson (On: +1&#9642;Off: -13&#9642;Net: +14)'
+    - "\n"
+    - 195/
+    - 54/0
+    - 588/
+    - 50/0
+    - 76/
+    - 35/+1
+    - 'Cal Bowdler (On: +3&#9642;Off: -15&#9642;Net: +18)'
+    - "\n"
+    - 248/
+    - 2/0
+    - 735/
+    - 15/+3
+    - 'Dion Glover (On: -3&#9642;Off: -9&#9642;Net: +6)'
+    - "\n"
+    - 382/
+    - 119/-3
+    - 500/
+    - 'DerMarr Johnson (On: +3&#9642;Off: -15&#9642;Net: +18)'
+    - "\n"
+    - 987/
+    - 15/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,232 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: +7&#9642;Off: -4&#9642;Net: +11)'
+    - |2-
+
+      +5
+    - 230/+5
+    - 20/
+    - 152/+2
+    - 51/
+    - 47/-1
+    - 78/+1
+    - 419/
+    - 'Patrick Ewing (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 156/
+    - 92/-3
+    - 1/
+    - 167/+1
+    - 131/
+    - 201/-1
+    - 'Rashard Lewis (On: +10&#9642;Off: -7&#9642;Net: +17)'
+    - |2-
+
+      +5
+    - 230/+5
+    - 53/
+    - 216/+4
+    - 241/+3
+    - 81/
+    - 177/-2
+    - 'Ruben Patterson (On: -11&#9642;Off: +14&#9642;Net: -25)'
+    - |2-
+
+      +5
+    - 248/+5
+    - 26/-5
+    - 152/
+    - 61/-3
+    - 9/
+    - 125/-1
+    - 116/
+    - 7/0
+    - 224/-7
+    - 26/
+    - 'Gary Payton (On: +7&#9642;Off: -4&#9642;Net: +11)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 111/
+    - 138/0
+    - 250/+3
+    - 49/
+    - 200/-1
+    - 'Brent Barry (On: -2&#9642;Off: +5&#9642;Net: -7)'
+    - "\n"
+    - 235/
+    - 13/0
+    - 107/-1
+    - 139/
+    - 3/-1
+    - 129/
+    - 111/+4
+    - 8/
+    - 66/-2
+    - 24/
+    - 158/-2
+    - 'Ruben Wolkowyski (On: -1&#9642;Off: +4&#9642;Net: -5)'
+    - "\n"
+    - 236/
+    - 13/0
+    - 199/0
+    - 222/
+    - 77/+2
+    - 55/-3
+    - 195/
+    - 'Emanual Davis (On: +3&#9642;Off: 0&#9642;Net: +3)'
+    - "\n"
+    - 249/
+    - 173/+3
+    - 76/
+    - 0/0
+    - 242/
+    - 7/0
+    - 42/-3
+    - 185/
+    - 21/+3
+    - 'Jelani McCoy (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 580/
+    - 168/+2
+    - 43/-3
+    - 19/
+    - 23/+1
+    - 165/
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 82/+3
+    - 96/
+    - 71/+4
+    - 50/-1
+    - 191/
+    - 7/0
+    - 250/
+    - 'Tyrone Nesby (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - |2-
+
+      -2
+    - 131/-2
+    - 321/
+    - 47/+1
+    - 167/-1
+    - 173/
+    - 159/+2
+    - 'Lamar Odom (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 82/+3
+    - 97/
+    - 71/+4
+    - 241/-3
+    - 57/
+    - 200/+1
+    - 'Michael Olowokandi (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 192/
+    - 49/+2
+    - 9/
+    - 167/-1
+    - 331/
+    - 'Derek Strong (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 100/+1
+    - 146/
+    - 2/+1
+    - 1/
+    - 249/-3
+    - 43/+3
+    - 206/
+    - 'Corey Maggette (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 134/
+    - 116/-3
+    - 82/+3
+    - 668/
+    - 'Sean Rooks (On: +3&#9642;Off: -6&#9642;Net: +9)'
+    - "\n"
+    - 250/
+    - 250/+1
+    - 172/
+    - 77/-2
+    - 250/+4
+    - 'Keyon Dooling (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - "\n"
+    - 335/
+    - 88/-6
+    - 131/
+    - 186/-2
+    - 8/
+    - 84/+2
+    - 165/
+    - 'Darius Miles (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 334/
+    - 114/-3
+    - 49/
+    - 0/0
+    - 242/
+    - 7/0
+    - 161/0
+    - 87/
+    - 1/0
+    - 'Eric Piatkowski (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - "\n"
+    - 335/
+    - 88/-6
+    - 248/
+    - 69/-2
+    - 99/
+    - 159/+2
+    - 'Zendon Hamilton (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 355/
+    - 82/-3
+    - 564/
+    - 'Quentin Richardson (On: +6&#9642;Off: -9&#9642;Net: +15)'
+    - "\n"
+    - 741/
+    - 7/0
+    - 85/+2
+    - 83/
+    - 82/+4
+    - 0/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

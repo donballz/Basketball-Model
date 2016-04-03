@@ -1,0 +1,2424 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: D. Robinson vs. S. O''Neal (R. Fox gains possession)'
+  - - '11:41.0'
+    - K. Bryant misses 3-pt shot from 25 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '11:34.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - S. Elliott misses 2-pt shot from 18 ft
+  - - '11:31.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:16.0'
+    - S. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '11:08.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Shooting foul by K. Bryant
+  - - '11:08.0'
+    - ''
+    - ''
+    - 0-1
+    - "+1"
+    - D. Anderson makes free throw 1 of 2
+  - - '11:08.0'
+    - ''
+    - ''
+    - 0-2
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '10:59.0'
+    - K. Bryant misses 2-pt shot from 1 ft (block by T. Duncan)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by D. Anderson
+  - - '10:46.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Turnover by A. Johnson (bad pass; steal by R. Fox)
+  - - '10:39.0'
+    - R. Harper makes 2-pt shot from 5 ft (assist by K. Bryant)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Offensive foul by T. Duncan
+  - - '10:29.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by T. Duncan (foul)
+  - - '10:08.0'
+    - S. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by S. Elliott
+  - - '10:03.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - D. Anderson makes 2-pt shot from 1 ft (assist by A. Johnson)
+  - - '9:48.0'
+    - K. Bryant misses 2-pt shot from 8 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:29.0'
+    - Turnover by R. Harper (bad pass; steal by A. Johnson)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - D. Anderson makes 2-pt shot at rim (assist by A. Johnson)
+  - - '9:12.0'
+    - R. Harper misses 2-pt shot from 8 ft
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:10.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:08.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 4-6
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 4-8
+    - "+2"
+    - T. Duncan makes 2-pt shot from 11 ft
+  - - '8:34.0'
+    - H. Grant makes 2-pt shot from 1 ft (assist by K. Bryant)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '8:16.0'
+    - Defensive rebound by Team
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:57.0'
+    - H. Grant makes 2-pt shot from 18 ft (assist by S. O'Neal)
+    - "+2"
+    - 8-8
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - A. Johnson makes 2-pt shot from 15 ft
+  - - '7:26.0'
+    - K. Bryant makes 2-pt shot from 13 ft
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - T. Duncan misses 2-pt shot from 7 ft (block by H. Grant)
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Offensive rebound by D. Robinson
+  - - '7:05.0'
+    - ''
+    - ''
+    - 10-12
+    - "+2"
+    - D. Robinson makes 2-pt shot from 12 ft
+  - - '6:49.0'
+    - Turnover by R. Harper (bad pass; steal by A. Johnson)
+    - ''
+    - 10-12
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Turnover by D. Anderson (lost ball; steal by K. Bryant)
+  - - '6:36.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 12-12
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - San Antonio full timeout
+  - - '6:28.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - D. Ferry enters the game for S. Elliott
+  - - '6:17.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - D. Anderson makes 2-pt shot from 2 ft
+  - - '5:54.0'
+    - K. Bryant makes 2-pt shot from 19 ft (assist by R. Fox)
+    - "+2"
+    - 14-14
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - D. Robinson makes 2-pt shot from 14 ft
+  - - '5:19.0'
+    - Turnover by H. Grant (3 second)
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 14-18
+    - "+2"
+    - D. Robinson makes 2-pt shot from 18 ft (assist by T. Duncan)
+  - - '4:45.0'
+    - Offensive foul by S. O'Neal
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '4:45.0'
+    - Turnover by S. O'Neal (foul)
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-20
+    - "+2"
+    - D. Anderson makes 2-pt shot from 18 ft
+  - - '4:16.0'
+    - R. Fox misses 3-pt shot from 24 ft
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - Defensive rebound by Team
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-22
+    - "+2"
+    - D. Robinson makes 2-pt shot from 17 ft (assist by D. Anderson)
+  - - '3:45.0'
+    - H. Grant makes 2-pt shot from 16 ft (assist by S. O'Neal)
+    - "+2"
+    - 16-22
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - Turnover by D. Robinson (bad pass)
+  - - '3:21.0'
+    - Personal foul by D. Robinson
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:21.0'
+    - LA Lakers full timeout
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:21.0'
+    - R. Horry enters the game for R. Fox
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:21.0'
+    - I. Rider enters the game for R. Harper
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:11.0'
+    - Shooting foul by D. Robinson
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:11.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:11.0'
+    - Offensive rebound by Team
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - M. Rose enters the game for D. Robinson
+  - - '3:11.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - A. Daniels enters the game for A. Johnson
+  - - '3:11.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 17-22
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - T. Duncan misses 2-pt shot from 7 ft
+  - - '2:48.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Offensive rebound by Team
+  - - '2:40.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - A. Daniels misses 2-pt shot from 16 ft
+  - - '2:39.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 17-22
+    - ''
+    - ''
+  - - '2:24.0'
+    - K. Bryant makes 2-pt shot from 16 ft
+    - "+2"
+    - 19-22
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 19-22
+    - ''
+    - M. Rose misses 2-pt shot from 15 ft
+  - - '2:01.0'
+    - Defensive rebound by Team
+    - ''
+    - 19-22
+    - ''
+    - ''
+  - - '2:01.0'
+    - Loose ball foul by D. Ferry
+    - ''
+    - 19-22
+    - ''
+    - ''
+  - - '1:48.0'
+    - K. Bryant makes 2-pt shot from 14 ft
+    - "+2"
+    - 21-22
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 21-22
+    - ''
+    - T. Duncan misses 2-pt shot from 9 ft
+  - - '1:30.0'
+    - ''
+    - ''
+    - 21-22
+    - ''
+    - D. Anderson misses 2-pt shot from 2 ft
+  - - '1:30.0'
+    - ''
+    - ''
+    - 21-22
+    - ''
+    - Offensive rebound by D. Anderson
+  - - '1:29.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 21-22
+    - ''
+    - ''
+  - - '1:25.0'
+    - K. Bryant makes 2-pt shot from 16 ft
+    - "+2"
+    - 23-22
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - T. Duncan misses 2-pt shot from 15 ft
+  - - '0:58.9'
+    - Defensive rebound by R. Horry
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '0:47.4'
+    - K. Bryant makes 2-pt shot from 15 ft
+    - "+2"
+    - 25-22
+    - ''
+    - ''
+  - - '0:47.4'
+    - Shooting foul by D. Anderson
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '0:47.4'
+    - K. Bryant makes free throw 1 of 1
+    - "+1"
+    - 26-22
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - M. Rose misses 2-pt shot from 8 ft
+  - - '0:29.9'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '0:08.9'
+    - S. O'Neal misses 2-pt shot from 11 ft
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '0:07.6'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '0:04.5'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Personal foul by R. Horry
+  - - '0:00.9'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - D. Anderson misses 3-pt shot from 28 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Offensive rebound by M. Rose
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 26-24
+    - "+2"
+    - T. Duncan makes 2-pt shot from 14 ft (assist by A. Daniels)
+  - - '11:36.0'
+    - Offensive foul by I. Rider
+    - ''
+    - 26-24
+    - ''
+    - ''
+  - - '11:36.0'
+    - Turnover by I. Rider (foul)
+    - ''
+    - 26-24
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 26-24
+    - ''
+    - A. Daniels misses 2-pt shot from 15 ft (block by I. Rider)
+  - - '11:25.0'
+    - ''
+    - ''
+    - 26-24
+    - ''
+    - Offensive rebound by Team
+  - - '11:15.0'
+    - ''
+    - ''
+    - 26-26
+    - "+2"
+    - T. Duncan makes 2-pt shot from 10 ft (assist by A. Daniels)
+  - - '10:57.0'
+    - K. Bryant misses 2-pt shot from 13 ft
+    - ''
+    - 26-26
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 26-26
+    - ''
+    - Defensive rebound by M. Rose
+  - - '10:42.0'
+    - ''
+    - ''
+    - 26-26
+    - ''
+    - T. Duncan misses 2-pt shot from 6 ft
+  - - '10:39.0'
+    - ''
+    - ''
+    - 26-26
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '10:36.0'
+    - ''
+    - ''
+    - 26-29
+    - "+3"
+    - S. Kerr makes 3-pt shot from 25 ft (assist by T. Duncan)
+  - - '10:18.0'
+    - Turnover by R. Horry (bad pass; steal by D. Ferry)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Turnover by S. Kerr (bad pass; steal by I. Rider)
+  - - '10:10.0'
+    - Turnover by K. Bryant (off goaltending)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Shooting foul by H. Grant
+  - - '9:57.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - T. Duncan misses free throw 1 of 2
+  - - '9:57.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Offensive rebound by Team
+  - - '9:57.0'
+    - ''
+    - ''
+    - 26-30
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '9:37.0'
+    - K. Bryant misses 2-pt shot from 16 ft
+    - ''
+    - 26-30
+    - ''
+    - ''
+  - - '9:36.0'
+    - Offensive rebound by I. Rider
+    - ''
+    - 26-30
+    - ''
+    - ''
+  - - '9:32.0'
+    - H. Grant makes 2-pt shot from 17 ft (assist by I. Rider)
+    - "+2"
+    - 28-30
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 28-32
+    - "+2"
+    - A. Daniels makes 2-pt shot at rim (assist by T. Duncan)
+  - - '9:02.0'
+    - S. O'Neal misses 2-pt shot from 2 ft
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - Shooting foul by D. Ferry
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - D. Robinson enters the game for T. Duncan
+  - - '9:00.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '8:49.0'
+    - Violation by K. Bryant (kicked ball)
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - Official timeout
+  - - '8:49.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - S. Elliott enters the game for D. Ferry
+  - - '8:49.0'
+    - B. Shaw enters the game for K. Bryant
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 28-34
+    - "+2"
+    - M. Rose makes 2-pt shot from 19 ft (assist by S. Elliott)
+  - - '8:21.0'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 28-34
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 28-34
+    - ''
+    - Defensive rebound by Team
+  - - '8:07.0'
+    - ''
+    - ''
+    - 28-36
+    - "+2"
+    - A. Daniels makes 2-pt shot from 11 ft
+  - - '7:46.0'
+    - Turnover by R. Horry (lost ball; steal by S. Kerr)
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Personal foul by B. Shaw
+  - - '7:42.0'
+    - R. Fox enters the game for R. Horry
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 28-38
+    - "+2"
+    - M. Rose makes 2-pt shot at rim (assist by D. Robinson)
+  - - '7:19.0'
+    - Shooting foul by D. Robinson
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '7:19.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '7:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - T. Duncan enters the game for D. Robinson
+  - - '7:19.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '7:06.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - M. Rose misses 2-pt shot from 16 ft
+  - - '7:03.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '7:01.0'
+    - I. Rider misses 2-pt shot from 2 ft (block by M. Rose)
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '6:59.0'
+    - Offensive rebound by I. Rider
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '6:41.0'
+    - S. O'Neal misses 2-pt shot from 12 ft
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '6:35.0'
+    - ''
+    - ''
+    - 28-40
+    - "+2"
+    - M. Rose makes 2-pt shot from 1 ft (assist by A. Daniels)
+  - - '6:26.0'
+    - LA Lakers full timeout
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:26.0'
+    - K. Bryant enters the game for I. Rider
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:18.0'
+    - R. Fox misses 3-pt shot from 23 ft
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:16.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '6:00.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - M. Rose misses 2-pt shot from 13 ft
+  - - '5:57.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '5:48.0'
+    - Personal foul by T. Duncan
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '5:48.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 29-40
+    - ''
+    - ''
+  - - '5:48.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Defensive rebound by M. Rose
+  - - '5:23.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - A. Daniels misses 3-pt shot from 25 ft
+  - - '5:21.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '5:10.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '5:02.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - S. Kerr misses 3-pt shot from 24 ft
+  - - '5:00.0'
+    - Defensive rebound by Team
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - A. Johnson enters the game for A. Daniels
+  - - '5:00.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - D. Anderson enters the game for S. Kerr
+  - - '5:00.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - S. Walker enters the game for T. Duncan
+  - - '5:00.0'
+    - Turnover by B. Shaw (inbound)
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - M. Rose misses 2-pt shot from 5 ft (block by H. Grant)
+  - - '4:49.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Offensive rebound by A. Johnson
+  - - '4:46.0'
+    - Violation by H. Grant (kicked ball)
+    - ''
+    - 29-40
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - T. Duncan enters the game for S. Walker
+  - - '4:38.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Turnover by D. Anderson (traveling)
+  - - '4:25.0'
+    - K. Bryant makes 2-pt shot from 13 ft (assist by R. Fox)
+    - "+2"
+    - 31-40
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 31-40
+    - ''
+    - A. Johnson misses 2-pt shot from 5 ft
+  - - '4:10.0'
+    - ''
+    - ''
+    - 31-42
+    - "+2"
+    - M. Rose makes 2-pt shot at rim
+  - - '4:10.0'
+    - ''
+    - ''
+    - 31-42
+    - ''
+    - Offensive rebound by M. Rose
+  - - '3:50.0'
+    - K. Bryant makes 3-pt shot from 26 ft (assist by S. O'Neal)
+    - "+3"
+    - 34-42
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 34-42
+    - ''
+    - Shooting foul by B. Shaw
+  - - '3:34.0'
+    - G. Foster enters the game for S. O'Neal
+    - ''
+    - 34-42
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 34-43
+    - "+1"
+    - M. Rose makes free throw 1 of 2
+  - - '3:34.0'
+    - ''
+    - ''
+    - 34-43
+    - ''
+    - S. Walker enters the game for T. Duncan
+  - - '3:34.0'
+    - R. Harper enters the game for B. Shaw
+    - ''
+    - 34-43
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 34-43
+    - ''
+    - M. Rose misses free throw 2 of 2
+  - - '3:33.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 34-43
+    - ''
+    - ''
+  - - '3:15.0'
+    - K. Bryant makes 2-pt shot from 19 ft (assist by G. Foster)
+    - "+2"
+    - 36-43
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 36-43
+    - ''
+    - Shooting foul by G. Foster
+  - - '3:04.0'
+    - ''
+    - ''
+    - 36-44
+    - "+1"
+    - D. Anderson makes free throw 1 of 2
+  - - '3:04.0'
+    - ''
+    - ''
+    - 36-44
+    - ''
+    - T. Duncan enters the game for M. Rose
+  - - '3:04.0'
+    - ''
+    - ''
+    - 36-45
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '2:48.0'
+    - Turnover by H. Grant (3 second)
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - San Antonio full timeout
+  - - '2:48.0'
+    - S. O'Neal enters the game for H. Grant
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - T. Duncan misses 2-pt shot from 16 ft
+  - - '2:25.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '2:14.0'
+    - R. Fox misses 3-pt shot from 26 ft
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '2:13.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '2:04.0'
+    - Turnover by R. Fox (traveling)
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '1:50.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 36-48
+    - "+3"
+    - D. Anderson makes 3-pt shot from 23 ft (assist by A. Johnson)
+  - - '1:30.0'
+    - Personal foul by D. Anderson
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '1:23.0'
+    - Personal foul by S. Walker
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '1:23.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 37-48
+    - ''
+    - ''
+  - - '1:23.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '1:15.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - D. Anderson misses 3-pt shot from 26 ft
+  - - '1:12.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '0:53.9'
+    - K. Bryant misses 3-pt shot from 24 ft
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '0:51.9'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '0:48.3'
+    - K. Bryant makes 2-pt shot from 14 ft
+    - "+2"
+    - 39-48
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - A. Johnson misses 2-pt shot from 15 ft
+  - - '0:32.9'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '0:16.9'
+    - R. Fox makes 2-pt shot from 10 ft
+    - "+2"
+    - 41-48
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 41-50
+    - "+2"
+    - T. Duncan makes 2-pt shot from 21 ft (assist by A. Johnson)
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - Personal foul by R. Fox
+  - - '11:34.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - T. Duncan misses 2-pt shot from 18 ft
+  - - '11:32.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 41-50
+    - ''
+    - ''
+  - - '11:26.0'
+    - K. Bryant misses 2-pt shot from 4 ft (block by S. Elliott)
+    - ''
+    - 41-50
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '11:18.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - S. Elliott misses 2-pt shot from 1 ft
+  - - '11:15.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 41-50
+    - ''
+    - ''
+  - - '11:02.0'
+    - Turnover by S. O'Neal (3 second)
+    - ''
+    - 41-50
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - D. Anderson misses 3-pt shot from 25 ft
+  - - '10:48.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 41-50
+    - ''
+    - ''
+  - - '10:32.0'
+    - S. O'Neal makes 2-pt shot from 6 ft
+    - "+2"
+    - 43-50
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 43-52
+    - "+2"
+    - T. Duncan makes 2-pt shot from 8 ft
+  - - '9:48.0'
+    - R. Fox misses 2-pt shot from 12 ft
+    - ''
+    - 43-52
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 43-52
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '9:40.0'
+    - ''
+    - ''
+    - 43-52
+    - ''
+    - T. Duncan misses 2-pt shot at rim
+  - - '9:38.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 43-52
+    - ''
+    - ''
+  - - '9:20.0'
+    - K. Bryant misses 2-pt shot from 15 ft
+    - ''
+    - 43-52
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 43-52
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '9:15.0'
+    - ''
+    - ''
+    - 43-54
+    - "+2"
+    - S. Elliott makes 2-pt shot from 1 ft (assist by A. Johnson)
+  - - '8:51.0'
+    - Turnover by K. Bryant (lost ball; steal by D. Anderson)
+    - ''
+    - 43-54
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 43-54
+    - ''
+    - Turnover by D. Anderson (lost ball; steal by K. Bryant)
+  - - '8:43.0'
+    - Turnover by K. Bryant (lost ball; steal by D. Anderson)
+    - ''
+    - 43-54
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 43-54
+    - ''
+    - D. Anderson misses 3-pt shot from 24 ft
+  - - '8:34.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 43-54
+    - ''
+    - ''
+  - - '8:14.0'
+    - H. Grant makes 2-pt shot from 18 ft (assist by K. Bryant)
+    - "+2"
+    - 45-54
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 45-54
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by K. Bryant)
+  - - '7:53.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 47-54
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 47-54
+    - ''
+    - A. Johnson misses 2-pt shot from 17 ft
+  - - '7:21.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 47-54
+    - ''
+    - ''
+  - - '7:15.0'
+    - H. Grant makes 2-pt shot from 17 ft (assist by K. Bryant)
+    - "+2"
+    - 49-54
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 49-54
+    - ''
+    - San Antonio full timeout
+  - - '6:59.0'
+    - ''
+    - ''
+    - 49-54
+    - ''
+    - T. Duncan misses 2-pt shot from 16 ft
+  - - '6:57.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 49-54
+    - ''
+    - ''
+  - - '6:46.0'
+    - Personal foul by A. Johnson
+    - ''
+    - 49-54
+    - ''
+    - ''
+  - - '6:40.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 51-54
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 51-54
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '6:24.0'
+    - ''
+    - ''
+    - 51-55
+    - "+1"
+    - S. Elliott makes free throw 1 of 2
+  - - '6:24.0'
+    - ''
+    - ''
+    - 51-56
+    - "+1"
+    - S. Elliott makes free throw 2 of 2
+  - - '6:07.0'
+    - H. Grant makes 2-pt shot from 18 ft (assist by S. O'Neal)
+    - "+2"
+    - 53-56
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 53-56
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '5:45.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 53-56
+    - ''
+    - ''
+  - - '5:25.0'
+    - S. O'Neal makes 2-pt shot from 12 ft (assist by K. Bryant)
+    - "+2"
+    - 55-56
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - T. Duncan misses 2-pt shot from 13 ft
+  - - '5:04.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '4:48.0'
+    - R. Fox misses 3-pt shot from 24 ft
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '4:38.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - T. Duncan misses 2-pt shot from 2 ft
+  - - '4:36.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - T. Duncan misses 2-pt shot from 2 ft (block by H. Grant)
+  - - '4:36.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - Shooting foul by H. Grant
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - D. Ferry enters the game for S. Elliott
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - A. Daniels enters the game for A. Johnson
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - M. Rose enters the game for D. Robinson
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-57
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '4:35.0'
+    - M. Madsen enters the game for H. Grant
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - T. Duncan misses free throw 2 of 2
+  - - '4:35.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '4:16.0'
+    - K. Bryant misses 2-pt shot from 17 ft
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '4:13.0'
+    - Offensive rebound by R. Harper
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '3:54.0'
+    - R. Harper misses 2-pt shot from 10 ft
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '3:43.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - T. Duncan misses 2-pt shot from 19 ft
+  - - '3:41.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Offensive rebound by D. Ferry
+  - - '3:37.0'
+    - ''
+    - ''
+    - 55-60
+    - "+3"
+    - D. Ferry makes 3-pt shot from 23 ft (assist by A. Daniels)
+  - - '3:19.0'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 55-60
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 55-60
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '3:13.0'
+    - ''
+    - ''
+    - 55-60
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '3:13.0'
+    - ''
+    - ''
+    - 55-61
+    - "+1"
+    - A. Daniels makes free throw 1 of 2
+  - - '3:13.0'
+    - H. Grant enters the game for M. Madsen
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '3:13.0'
+    - R. Horry enters the game for R. Fox
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 55-62
+    - "+1"
+    - A. Daniels makes free throw 2 of 2
+  - - '3:00.0'
+    - K. Bryant misses 2-pt shot from 12 ft
+    - ''
+    - 55-62
+    - ''
+    - ''
+  - - '2:57.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 55-62
+    - ''
+    - ''
+  - - '2:55.0'
+    - S. O'Neal makes 2-pt shot from 6 ft
+    - "+2"
+    - 57-62
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 57-62
+    - ''
+    - T. Duncan misses 2-pt shot from 13 ft
+  - - '2:23.0'
+    - ''
+    - ''
+    - 57-64
+    - "+2"
+    - T. Duncan makes 2-pt shot from 1 ft
+  - - '2:23.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '2:05.0'
+    - Turnover by H. Grant (bad pass; steal by M. Rose)
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 57-66
+    - "+2"
+    - M. Rose makes 2-pt shot from 1 ft (assist by A. Daniels)
+  - - '1:50.0'
+    - LA Lakers full timeout
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '1:50.0'
+    - I. Rider enters the game for R. Harper
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '1:29.0'
+    - R. Horry makes 3-pt shot from 24 ft (assist by K. Bryant)
+    - "+3"
+    - 60-66
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Offensive foul by D. Anderson
+  - - '1:12.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Turnover by D. Anderson (foul)
+  - - '0:48.9'
+    - K. Bryant misses 2-pt shot from 20 ft
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '0:46.8'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Defensive rebound by M. Rose
+  - - '0:46.8'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Personal foul by I. Rider
+  - - '0:46.8'
+    - ''
+    - ''
+    - 60-67
+    - "+1"
+    - M. Rose makes free throw 1 of 2
+  - - '0:46.8'
+    - ''
+    - ''
+    - 60-68
+    - "+1"
+    - M. Rose makes free throw 2 of 2
+  - - '0:31.9'
+    - I. Rider misses 3-pt shot from 25 ft
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:30.6'
+    - Offensive rebound by R. Horry
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:26.8'
+    - Personal foul by D. Ferry
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:21.9'
+    - K. Bryant misses 2-pt shot from 17 ft
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:19.9'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '0:04.9'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - A. Daniels misses 2-pt shot from 9 ft (block by R. Horry)
+  - - '0:03.2'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - M. Rose misses 2-pt shot from 11 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - G. Foster misses 2-pt shot from 18 ft
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '11:44.0'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - Defensive rebound by D. Anderson
+  - - '11:32.0'
+    - ''
+    - ''
+    - 60-70
+    - "+2"
+    - T. Duncan makes 2-pt shot from 13 ft
+  - - '11:09.0'
+    - G. Foster makes 2-pt shot from 7 ft (assist by B. Shaw)
+    - "+2"
+    - 62-70
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 62-70
+    - ''
+    - Shooting foul by R. Horry
+  - - '10:52.0'
+    - ''
+    - ''
+    - 62-70
+    - ''
+    - S. Elliott enters the game for D. Ferry
+  - - '10:52.0'
+    - ''
+    - ''
+    - 62-71
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '10:52.0'
+    - ''
+    - ''
+    - 62-72
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '10:39.0'
+    - K. Bryant misses 2-pt shot from 12 ft
+    - ''
+    - 62-72
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 62-72
+    - ''
+    - Defensive rebound by M. Rose
+  - - '10:34.0'
+    - ''
+    - ''
+    - 62-72
+    - ''
+    - D. Anderson misses 2-pt shot from 1 ft
+  - - '10:32.0'
+    - Defensive rebound by R. Horry
+    - ''
+    - 62-72
+    - ''
+    - ''
+  - - '10:10.0'
+    - R. Horry makes 3-pt shot from 24 ft (assist by I. Rider)
+    - "+3"
+    - 65-72
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Loose ball foul by I. Rider
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Personal foul by G. Foster
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - D. Robinson enters the game for T. Duncan
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - S. Kerr enters the game for D. Anderson
+  - - '9:49.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Turnover by M. Rose (3 second)
+  - - '9:34.0'
+    - R. Horry misses 2-pt shot from 11 ft (block by M. Rose)
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '9:31.0'
+    - Offensive rebound by G. Foster
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '9:29.0'
+    - G. Foster misses 2-pt shot from 14 ft
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Defensive rebound by Team
+  - - '9:11.0'
+    - ''
+    - ''
+    - 65-74
+    - "+2"
+    - D. Robinson makes 2-pt shot from 1 ft (assist by M. Rose)
+  - - '8:54.0'
+    - R. Horry makes 3-pt shot from 25 ft (assist by I. Rider)
+    - "+3"
+    - 68-74
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-74
+    - ''
+    - D. Robinson misses 2-pt shot from 1 ft
+  - - '8:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-74
+    - ''
+    - ''
+  - - '8:38.0'
+    - Official timeout
+    - ''
+    - 68-74
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-74
+    - ''
+    - T. Duncan enters the game for M. Rose
+  - - '8:38.0'
+    - S. O'Neal enters the game for G. Foster
+    - ''
+    - 68-74
+    - ''
+    - ''
+  - - '8:29.0'
+    - Turnover by B. Shaw (bad pass; steal by D. Robinson)
+    - ''
+    - 68-74
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 68-76
+    - "+2"
+    - D. Robinson makes 2-pt shot from 16 ft (assist by A. Daniels)
+  - - '7:49.0'
+    - S. O'Neal makes 2-pt shot from 1 ft (assist by R. Horry)
+    - "+2"
+    - 70-76
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 70-78
+    - "+2"
+    - D. Robinson makes 2-pt shot from 15 ft (assist by A. Daniels)
+  - - '7:15.0'
+    - Personal foul by D. Robinson
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '7:08.0'
+    - K. Bryant misses 2-pt shot from 17 ft
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '6:47.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '6:47.0'
+    - ''
+    - ''
+    - 70-79
+    - "+1"
+    - D. Robinson makes free throw 1 of 2
+  - - '6:47.0'
+    - ''
+    - ''
+    - 70-80
+    - "+1"
+    - D. Robinson makes free throw 2 of 2
+  - - '6:25.0'
+    - K. Bryant makes 2-pt shot from 17 ft
+    - "+2"
+    - 72-80
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 72-80
+    - ''
+    - Turnover by T. Duncan (lost ball; steal by R. Horry)
+  - - '5:55.0'
+    - B. Shaw makes 2-pt shot from 6 ft (assist by K. Bryant)
+    - "+2"
+    - 74-80
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 74-80
+    - ''
+    - San Antonio full timeout
+  - - '5:51.0'
+    - ''
+    - ''
+    - 74-80
+    - ''
+    - A. Johnson enters the game for A. Daniels
+  - - '5:51.0'
+    - ''
+    - ''
+    - 74-80
+    - ''
+    - D. Anderson enters the game for S. Kerr
+  - - '5:51.0'
+    - H. Grant enters the game for I. Rider
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 74-82
+    - "+2"
+    - S. Elliott makes 2-pt shot from 1 ft (assist by A. Johnson)
+  - - '5:14.0'
+    - K. Bryant misses 2-pt shot from 10 ft
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Defensive rebound by S. Elliott
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Personal foul by R. Horry
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - D. Anderson misses free throw 1 of 2
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Offensive rebound by Team
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-83
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '4:53.0'
+    - B. Shaw makes 2-pt shot from 9 ft (assist by K. Bryant)
+    - "+2"
+    - 76-83
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - T. Duncan misses 2-pt shot from 17 ft
+  - - '4:23.0'
+    - Defensive rebound by Team
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:23.0'
+    - Loose ball foul by D. Robinson
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:09.0'
+    - H. Grant misses 2-pt shot from 17 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by Team
+  - - '3:54.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - D. Robinson misses 2-pt shot from 7 ft (block by S. O'Neal)
+  - - '3:52.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '3:49.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - S. Elliott misses 3-pt shot from 23 ft
+  - - '3:47.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:38.0'
+    - K. Bryant misses 2-pt shot from 8 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '3:32.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Turnover by A. Johnson (bad pass)
+  - - '3:14.0'
+    - S. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by Team
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-85
+    - "+2"
+    - A. Johnson makes 2-pt shot from 2 ft
+  - - '2:42.0'
+    - Personal foul by A. Johnson
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:42.0'
+    - LA Lakers full timeout
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:39.0'
+    - Turnover by R. Horry (bad pass; steal by D. Anderson)
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 76-87
+    - "+2"
+    - T. Duncan makes 2-pt shot from 19 ft (assist by A. Johnson)
+  - - '2:04.0'
+    - R. Horry makes 3-pt shot from 26 ft (assist by B. Shaw)
+    - "+3"
+    - 79-87
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 79-89
+    - "+2"
+    - T. Duncan makes 2-pt shot from 14 ft (assist by S. Elliott)
+  - - '1:22.0'
+    - Personal foul by S. Elliott
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '1:15.0'
+    - Turnover by S. O'Neal (out of bounds)
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '0:58.9'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - A. Johnson misses 2-pt shot from 20 ft
+  - - '0:57.5'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '0:51.2'
+    - LA Lakers full timeout
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '0:51.2'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - Violation by S. Elliott (kicked ball)
+  - - '0:48.9'
+    - R. Horry misses 3-pt shot from 24 ft (block by S. Elliott)
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '0:47.7'
+    - Offensive rebound by Team
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '0:43.9'
+    - K. Bryant makes 2-pt shot from 21 ft
+    - "+2"
+    - 81-89
+    - ''
+    - ''
+  - - '0:38.4'
+    - ''
+    - ''
+    - 81-89
+    - ''
+    - Personal foul by B. Shaw
+  - - '0:38.4'
+    - ''
+    - ''
+    - 81-90
+    - "+1"
+    - A. Johnson makes free throw 1 of 2
+  - - '0:38.4'
+    - ''
+    - ''
+    - 81-91
+    - "+1"
+    - A. Johnson makes free throw 2 of 2
+  - - '0:33.9'
+    - B. Shaw misses 3-pt shot from 26 ft
+    - ''
+    - 81-91
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 81-91
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '0:06.9'
+    - ''
+    - ''
+    - 81-91
+    - ''
+    - D. Anderson misses 3-pt shot from 25 ft
+  - - '0:04.8'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 81-91
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

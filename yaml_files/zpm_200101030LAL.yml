@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 107/
+    - 142/+1
+    - 249/0
+    - 12/0
+    - 56/
+    - 165/-6
+    - 16/
+    - 'Olden Polynice (On: +4&#9642;Off: -15&#9642;Net: +19)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 250/
+    - 147/+1
+    - 353/
+    - 'Bryon Russell (On: +1&#9642;Off: -12&#9642;Net: +13)'
+    - |2-
+
+      +3
+    - 244/+3
+    - 113/
+    - 142/+1
+    - 215/+3
+    - 35/
+    - 249/-6
+    - 'John Starks (On: -8&#9642;Off: -3&#9642;Net: -5)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 33/-2
+    - 217/
+    - 249/0
+    - 147/
+    - 86/-9
+    - 16/
+    - 'John Stockton (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - |2-
+
+      +6
+    - 140/+6
+    - 179/
+    - 180/-3
+    - 130/+3
+    - 170/
+    - 183/-8
+    - 15/
+    - 'Jacque Vaughn (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 144/
+    - 105/-3
+    - 64/-5
+    - 321/
+    - 113/-3
+    - 46/0
+    - 194/
+    - 9/+2
+    - 'Donyell Marshall (On: -13&#9642;Off: +2&#9642;Net: -15)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 249/-8
+    - 218/
+    - 31/-3
+    - 143/+1
+    - 20/
+    - 86/-3
+    - 'Danny Manning (On: -8&#9642;Off: -3&#9642;Net: -5)'
+    - "\n"
+    - 250/
+    - 101/-9
+    - 411/
+    - 109/+1
+    - 128/
+    - 'Greg Ostertag (On: -15&#9642;Off: +4&#9642;Net: -19)'
+    - "\n"
+    - 249/
+    - 249/-8
+    - 150/
+    - 99/-1
+    - 65/-2
+    - 61/
+    - 34/-4
+    - 89/
+    - 'Quincy Lewis (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - "\n"
+    - 286/
+    - 66/-7
+    - 649/
+    - 'David Benoit (On: +2&#9642;Off: -13&#9642;Net: +15)'
+    - "\n"
+    - 993/
+    - 9/+2
+    - 'DeShawn Stevenson (On: +2&#9642;Off: -13&#9642;Net: +15)'
+    - "\n"
+    - 993/
+    - 9/+2
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +11&#9642;Off: 0&#9642;Net: +11)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 33/+2
+    - 37/
+    - 163/+6
+    - 16/
+    - 249/0
+    - 244/+6
+    - 5/
+    - 'Rick Fox (On: +7&#9642;Off: +4&#9642;Net: +3)'
+    - |2-
+
+      -3
+    - 248/-3
+    - 107/
+    - 86/+2
+    - 56/
+    - 214/-3
+    - 186/
+    - 8/+4
+    - 10/
+    - 64/+7
+    - 15/
+    - 'Horace Grant (On: +5&#9642;Off: +6&#9642;Net: -1)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 55/+5
+    - 140/
+    - 54/-3
+    - 250/0
+    - 249/+6
+    - 'Ron Harper (On: -11&#9642;Off: +22&#9642;Net: -33)'
+    - |2-
+
+      -6
+    - 140/-6
+    - 360/
+    - 229/-5
+    - 271/
+    - 'Shaquille O''Neal (On: +1&#9642;Off: +10&#9642;Net: -9)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 250/+8
+    - 215/-3
+    - 35/
+    - 121/-1
+    - 127/
+    - 'Mike Penberthy (On: +10&#9642;Off: +1&#9642;Net: +9)'
+    - "\n"
+    - 143/
+    - 105/+3
+    - 64/+5
+    - 174/
+    - 10/-3
+    - 234/
+    - 15/+5
+    - 65/+2
+    - 175/
+    - 9/-2
+    - 'Robert Horry (On: +17&#9642;Off: -6&#9642;Net: +23)'
+    - "\n"
+    - 250/
+    - 250/+8
+    - 219/
+    - 31/+3
+    - 249/+6
+    - 'Isaiah Rider (On: +10&#9642;Off: +1&#9642;Net: +9)'
+    - "\n"
+    - 285/
+    - 215/+6
+    - 318/
+    - 182/+4
+    - 'Mark Madsen (On: +2&#9642;Off: +9&#9642;Net: -7)'
+    - "\n"
+    - 314/
+    - 37/+4
+    - 524/
+    - 22/0
+    - 102/
+    - 'Greg Foster (On: +3&#9642;Off: +8&#9642;Net: -5)'
+    - "\n"
+    - 720/
+    - 31/+3
+    - 250/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

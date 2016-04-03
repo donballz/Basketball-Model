@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -5&#9642;Off: +6&#9642;Net: -11)'
+    - |2-
+
+      +11
+    - 174/+11
+    - 62/
+    - 13/0
+    - 64/+3
+    - 86/
+    - 99/-9
+    - 249/-8
+    - 120/
+    - 128/-2
+    - 'Larry Hughes (On: -4&#9642;Off: +5&#9642;Net: -9)'
+    - |2-
+
+      +14
+    - 235/+14
+    - 73/
+    - 192/-14
+    - 250/-8
+    - 249/+4
+    - 'Marc Jackson (On: +2&#9642;Off: -1&#9642;Net: +3)'
+    - |2-
+
+      +14
+    - 242/+14
+    - 71/
+    - 25/-3
+    - 104/
+    - 56/-4
+    - 249/-8
+    - 131/
+    - 104/+3
+    - 13/
+    - 'Antawn Jamison (On: +9&#9642;Off: -8&#9642;Net: +17)'
+    - |2-
+
+      +14
+    - 250/+14
+    - 164/-1
+    - 85/
+    - 250/-8
+    - 250/+4
+    - 'Chris Porter (On: +13&#9642;Off: -12&#9642;Net: +25)'
+    - |2-
+
+      +14
+    - 208/+14
+    - 78/
+    - 18/+2
+    - 195/
+    - 94/-3
+    - 405/
+    - 'Vonteego Cummings (On: +7&#9642;Off: -6&#9642;Net: +13)'
+    - "\n"
+    - 178/
+    - 72/+3
+    - 146/0
+    - 354/
+    - 249/+4
+    - 'Bob Sura (On: -10&#9642;Off: +11&#9642;Net: -21)'
+    - "\n"
+    - 214/
+    - 35/0
+    - 249/-9
+    - 98/
+    - 151/-5
+    - 116/+6
+    - 121/
+    - 12/-2
+    - 'Bill Curley (On: +1&#9642;Off: 0&#9642;Net: +1)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 36/+3
+    - 54/
+    - 100/-5
+    - 308/
+    - 126/+3
+    - 123/
+    - 'Adam Keefe (On: -8&#9642;Off: +9&#9642;Net: -17)'
+    - "\n"
+    - 420/
+    - 81/-8
+    - 500/
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +4&#9642;Off: -5&#9642;Net: +9)'
+    - |2-
+
+      -14
+    - 243/-14
+    - 65/
+    - 192/+14
+    - 250/+8
+    - 249/-4
+    - 'Isaac Austin (On: -12&#9642;Off: +11&#9642;Net: -23)'
+    - |2-
+
+      -12
+    - 82/-12
+    - 920/
+    - 'Mike Bibby (On: +2&#9642;Off: -3&#9642;Net: +5)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 50/-3
+    - 58/
+    - 141/+13
+    - 249/+8
+    - 44/0
+    - 23/
+    - 182/-2
+    - 'Michael Dickerson (On: +1&#9642;Off: -2&#9642;Net: +3)'
+    - |2-
+
+      -14
+    - 250/-14
+    - 250/+9
+    - 250/+8
+    - 126/-3
+    - 15/
+    - 107/+1
+    - 'Othella Harrington (On: -8&#9642;Off: +7&#9642;Net: -15)'
+    - |2-
+
+      -12
+    - 82/-12
+    - 225/
+    - 165/+9
+    - 26/
+    - 93/+3
+    - 194/
+    - 149/-8
+    - 62/
+    - 'Damon Jones (On: -7&#9642;Off: +6&#9642;Net: -13)'
+    - "\n"
+    - 88/
+    - 162/-2
+    - 55/-5
+    - 695/
+    - 'Stromile Swift (On: -2&#9642;Off: +1&#9642;Net: -3)'
+    - "\n"
+    - 88/
+    - 121/-2
+    - 792/
+    - 'Bryant Reeves (On: +1&#9642;Off: -2&#9642;Net: +3)'
+    - "\n"
+    - 214/
+    - 35/0
+    - 10/-3
+    - 337/
+    - 67/+1
+    - 277/
+    - 42/+3
+    - 14/
+    - 'Kevin Edwards (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - "\n"
+    - 248/
+    - 0/0
+    - 103/-4
+    - 146/
+    - 248/+8
+    - 63/-2
+    - 68/
+    - 6/-2
+    - 23/
+    - 89/+3
+    - 'Tony Massenburg (On: +6&#9642;Off: -7&#9642;Net: +13)'
+    - "\n"
+    - 264/
+    - 40/-2
+    - 169/
+    - 26/+5
+    - 170/
+    - 79/+4
+    - 35/-1
+    - 213/
+    - 'Mahmoud Abdul-Rauf (On: +7&#9642;Off: -8&#9642;Net: +15)'
+    - "\n"
+    - 304/
+    - 195/+12
+    - 298/
+    - 111/-7
+    - 78/
+    - 12/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

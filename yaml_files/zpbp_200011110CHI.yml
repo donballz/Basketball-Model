@@ -1,0 +1,2322 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Ruffin vs. A. Davis (C. Williamson gains possession)'
+  - - '11:47.0'
+    - V. Carter misses 2-pt shot from 21 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - K. El-Amin misses 3-pt shot from 25 ft
+  - - '11:36.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:30.0'
+    - Turnover by V. Carter (bad pass; steal by K. El-Amin)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by K. El-Amin (bad pass; steal by C. Oakley)
+  - - '11:22.0'
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:08.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - R. Mercer misses 2-pt shot from 15 ft
+  - - '11:06.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Offensive rebound by Team
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Chicago 20 second timeout
+  - - '10:50.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. World Peace misses 2-pt shot from 20 ft
+  - - '10:48.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:40.0'
+    - C. Williamson makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - K. El-Amin misses 2-pt shot at rim (block by A. Davis)
+  - - '10:10.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:07.0'
+    - Turnover by M. Jackson (bad pass; steal by M. World Peace)
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim
+  - - '9:51.0'
+    - Offensive foul by M. Jackson
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:51.0'
+    - Turnover by M. Jackson (foul)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - E. Brand misses 2-pt shot from 10 ft
+  - - '9:32.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:20.0'
+    - A. Davis misses 2-pt shot at rim (block by M. Ruffin)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '9:05.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - R. Mercer misses 2-pt shot from 19 ft
+  - - '9:03.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by M. Ruffin
+  - - '8:59.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - M. World Peace misses 3-pt shot from 26 ft
+  - - '8:57.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:46.0'
+    - V. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '8:21.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - R. Mercer misses 2-pt shot from 20 ft
+  - - '8:19.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:04.0'
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 6-2
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 6-4
+    - "+2"
+    - M. Ruffin makes 2-pt shot at rim (assist by E. Brand)
+  - - '7:31.0'
+    - Shooting foul by R. Mercer
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '7:31.0'
+    - V. Carter makes free throw 1 of 2
+    - "+1"
+    - 7-4
+    - ''
+    - ''
+  - - '7:31.0'
+    - V. Carter makes free throw 2 of 2
+    - "+1"
+    - 8-4
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 8-7
+    - "+3"
+    - M. World Peace makes 3-pt shot from 23 ft (assist by R. Mercer)
+  - - '6:59.0'
+    - Turnover by A. Davis (lost ball; steal by M. Ruffin)
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 8-9
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by M. Ruffin)
+  - - '6:38.0'
+    - Turnover by C. Williamson (bad pass; steal by K. El-Amin)
+    - ''
+    - 8-9
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 8-9
+    - ''
+    - E. Brand misses 2-pt shot at rim (block by A. Davis)
+  - - '6:16.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 8-9
+    - ''
+    - ''
+  - - '6:12.0'
+    - C. Williamson makes 2-pt shot at rim (assist by M. Jackson)
+    - "+2"
+    - 10-9
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 10-11
+    - "+2"
+    - R. Mercer makes 2-pt shot from 15 ft
+  - - '5:38.0'
+    - A. Davis makes 2-pt shot from 19 ft (assist by V. Carter)
+    - "+2"
+    - 12-11
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 12-11
+    - ''
+    - K. El-Amin misses 2-pt shot from 14 ft
+  - - '5:16.0'
+    - ''
+    - ''
+    - 12-11
+    - ''
+    - Offensive rebound by K. El-Amin
+  - - '5:10.0'
+    - ''
+    - ''
+    - 12-11
+    - ''
+    - Turnover by E. Brand (3 second)
+  - - '5:10.0'
+    - Toronto full timeout
+    - ''
+    - 12-11
+    - ''
+    - ''
+  - - '4:49.0'
+    - M. Jackson misses 3-pt shot from 26 ft
+    - ''
+    - 12-11
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 12-11
+    - ''
+    - Defensive rebound by E. Brand
+  - - '4:29.0'
+    - ''
+    - ''
+    - 12-13
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim (assist by E. Brand)
+  - - '4:11.0'
+    - C. Oakley misses 2-pt shot from 20 ft
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '4:09.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '4:02.0'
+    - V. Carter misses 2-pt shot from 15 ft
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Defensive rebound by E. Brand
+  - - '3:40.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - R. Mercer misses 2-pt shot from 14 ft
+  - - '3:39.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '3:27.0'
+    - C. Williamson misses 2-pt shot from 6 ft
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Defensive rebound by E. Brand
+  - - '3:01.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - M. World Peace misses 2-pt shot from 15 ft
+  - - '3:01.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Offensive rebound by Team
+  - - '3:01.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Turnover by Team (shot clock)
+  - - '3:01.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - A. Guyton enters the game for K. El-Amin
+  - - '2:47.0'
+    - V. Carter makes 3-pt shot from 25 ft (assist by M. Jackson)
+    - "+3"
+    - 15-13
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - Chicago full timeout
+  - - '2:24.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - M. Fizer enters the game for M. World Peace
+  - - '2:22.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - E. Brand misses 2-pt shot from 15 ft
+  - - '2:20.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:04.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 17-13
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 17-13
+    - ''
+    - A. Guyton misses 2-pt shot from 15 ft
+  - - '1:40.0'
+    - ''
+    - ''
+    - 17-13
+    - ''
+    - Offensive rebound by E. Brand
+  - - '1:26.0'
+    - ''
+    - ''
+    - 17-15
+    - "+2"
+    - M. Fizer makes 2-pt shot from 8 ft (assist by A. Guyton)
+  - - '1:08.0'
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 19-15
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Turnover by A. Guyton (traveling)
+  - - '0:37.4'
+    - V. Carter makes 2-pt shot at rim
+    - "+2"
+    - 21-15
+    - ''
+    - ''
+  - - '0:17.9'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - M. Fizer misses 2-pt shot from 15 ft
+  - - '0:15.6'
+    - Defensive rebound by Team
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '0:02.9'
+    - C. Oakley misses 2-pt shot from 16 ft
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - A. Guyton misses 2-pt shot from 14 ft
+  - - '11:43.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '11:29.0'
+    - C. Williamson misses 2-pt shot from 6 ft
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '11:18.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - R. Mercer misses 2-pt shot from 22 ft
+  - - '11:15.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '10:56.0'
+    - Personal foul by F. Hoiberg
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '10:56.0'
+    - M. Peterson enters the game for C. Williamson
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - M. World Peace enters the game for R. Mercer
+  - - '10:42.0'
+    - C. Oakley misses 2-pt shot from 20 ft
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '10:24.0'
+    - ''
+    - ''
+    - 21-17
+    - "+2"
+    - D. Tarlac makes 2-pt shot from 7 ft
+  - - '10:12.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '10:12.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 22-17
+    - ''
+    - ''
+  - - '10:12.0'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '9:51.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - Offensive foul by M. Fizer
+  - - '9:51.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - Turnover by M. Fizer (foul)
+  - - '9:51.0'
+    - K. Willis enters the game for A. Davis
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '9:37.0'
+    - C. Oakley makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 24-17
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 24-17
+    - ''
+    - Turnover by Team (5 second)
+  - - '9:10.0'
+    - M. Peterson makes 2-pt shot from 15 ft (assist by V. Carter)
+    - "+2"
+    - 26-17
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 26-17
+    - ''
+    - Shooting foul by C. Oakley
+  - - '8:54.0'
+    - ''
+    - ''
+    - 26-17
+    - ''
+    - Chicago full timeout
+  - - '8:54.0'
+    - ''
+    - ''
+    - 26-18
+    - "+1"
+    - F. Hoiberg makes free throw 1 of 2
+  - - '8:54.0'
+    - ''
+    - ''
+    - 26-19
+    - "+1"
+    - F. Hoiberg makes free throw 2 of 2
+  - - '8:39.0'
+    - C. Oakley misses 2-pt shot from 18 ft
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '8:20.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - M. Fizer misses 2-pt shot from 11 ft
+  - - '8:18.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '8:03.0'
+    - K. Willis makes 2-pt shot from 15 ft (assist by C. Oakley)
+    - "+2"
+    - 28-19
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 28-21
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim (assist by F. Hoiberg)
+  - - '7:45.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Shooting foul by A. Williams
+  - - '7:45.0'
+    - M. Jackson enters the game for V. Carter
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - K. El-Amin enters the game for A. Guyton
+  - - '7:45.0'
+    - ''
+    - ''
+    - 28-22
+    - "+1"
+    - M. World Peace makes free throw 1 of 1
+  - - '7:20.0'
+    - M. Peterson makes 3-pt shot from 25 ft (assist by C. Oakley)
+    - "+3"
+    - 31-22
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - Turnover by D. Tarlac (bad pass)
+  - - '7:03.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '7:03.0'
+    - A. Williams misses free throw 1 of 2
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '7:03.0'
+    - Offensive rebound by Team
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - E. Brand enters the game for D. Tarlac
+  - - '7:03.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - M. Ruffin enters the game for M. Fizer
+  - - '7:03.0'
+    - A. Williams makes free throw 2 of 2
+    - "+1"
+    - 32-22
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - F. Hoiberg misses 2-pt shot from 19 ft
+  - - '6:50.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '6:44.0'
+    - A. Williams misses 2-pt shot from 20 ft
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '6:32.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - F. Hoiberg misses 2-pt shot from 19 ft
+  - - '6:30.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '6:13.0'
+    - C. Oakley makes 2-pt shot from 22 ft (assist by M. Peterson)
+    - "+2"
+    - 34-22
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 34-24
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim
+  - - '5:49.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Shooting foul by K. Willis
+  - - '5:49.0'
+    - A. Davis enters the game for C. Oakley
+    - ''
+    - 34-24
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Chicago full timeout
+  - - '5:49.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - M. World Peace misses free throw 1 of 1
+  - - '5:47.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 34-24
+    - ''
+    - ''
+  - - '5:34.0'
+    - Turnover by A. Davis (bad pass; steal by M. World Peace)
+    - ''
+    - 34-24
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Clear path foul by M. Peterson
+  - - '5:31.0'
+    - ''
+    - ''
+    - 34-25
+    - "+1"
+    - M. World Peace makes free throw flagrant 1 of 2
+  - - '5:24.0'
+    - ''
+    - ''
+    - 34-27
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim (assist by K. El-Amin)
+  - - '5:24.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Shooting foul by M. Peterson
+  - - '5:24.0'
+    - V. Carter enters the game for M. Peterson
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - R. Mercer enters the game for F. Hoiberg
+  - - '5:24.0'
+    - ''
+    - ''
+    - 34-28
+    - "+1"
+    - M. World Peace makes free throw 1 of 1
+  - - '5:04.0'
+    - M. Jackson misses 3-pt shot from 26 ft
+    - ''
+    - 34-28
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 34-28
+    - ''
+    - Defensive rebound by E. Brand
+  - - '4:46.0'
+    - ''
+    - ''
+    - 34-31
+    - "+3"
+    - K. El-Amin makes 3-pt shot from 25 ft (assist by E. Brand)
+  - - '4:27.0'
+    - A. Williams misses 2-pt shot from 21 ft
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:25.0'
+    - Offensive rebound by K. Willis
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:20.0'
+    - Personal foul by M. Ruffin
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:20.0'
+    - C. Williamson enters the game for A. Williams
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:08.0'
+    - C. Williamson misses 2-pt shot from 18 ft
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:06.0'
+    - Offensive rebound by K. Willis
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '4:01.0'
+    - A. Davis makes 2-pt shot from 17 ft (assist by K. Willis)
+    - "+2"
+    - 36-31
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 36-31
+    - ''
+    - R. Mercer misses 2-pt shot from 17 ft
+  - - '3:32.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '3:29.0'
+    - Offensive foul by K. Willis
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '3:29.0'
+    - Turnover by K. Willis (foul)
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 36-31
+    - ''
+    - Personal foul by V. Carter
+  - - '3:16.0'
+    - ''
+    - ''
+    - 36-32
+    - "+1"
+    - M. World Peace makes free throw 1 of 2
+  - - '3:16.0'
+    - ''
+    - ''
+    - 36-33
+    - "+1"
+    - M. World Peace makes free throw 2 of 2
+  - - '3:03.0'
+    - V. Carter makes 2-pt shot from 16 ft
+    - "+2"
+    - 38-33
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 38-33
+    - ''
+    - M. World Peace misses 2-pt shot from 15 ft
+  - - '2:38.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 38-33
+    - ''
+    - ''
+  - - '2:33.0'
+    - Turnover by M. Jackson (bad pass; steal by E. Brand)
+    - ''
+    - 38-33
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 38-35
+    - "+2"
+    - E. Brand makes 2-pt shot from 13 ft (assist by R. Mercer)
+  - - '2:00.0'
+    - Turnover by V. Carter (lost ball)
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Chicago full timeout
+  - - '2:00.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - M. Fizer enters the game for M. World Peace
+  - - '1:36.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - K. El-Amin misses 2-pt shot at rim (block by V. Carter)
+  - - '1:33.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '1:27.0'
+    - V. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Defensive rebound by M. Fizer
+  - - '1:03.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - E. Brand misses 2-pt shot from 16 ft
+  - - '1:02.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '0:44.6'
+    - Shooting foul by M. Fizer
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '0:44.6'
+    - C. Williamson makes free throw 1 of 2
+    - "+1"
+    - 39-35
+    - ''
+    - ''
+  - - '0:44.6'
+    - C. Williamson makes free throw 2 of 2
+    - "+1"
+    - 40-35
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 40-35
+    - ''
+    - M. Fizer misses 2-pt shot from 15 ft
+  - - '0:31.5'
+    - Defensive rebound by A. Davis
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '0:14.9'
+    - Turnover by M. Jackson (bad pass; steal by E. Brand)
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 40-37
+    - "+2"
+    - R. Mercer makes 2-pt shot from 15 ft
+  - - '0:00.0'
+    - M. Jackson misses 3-pt shot from 41 ft
+    - ''
+    - 40-37
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 40-37
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:36.0'
+    - ''
+    - ''
+    - 40-37
+    - ''
+    - Turnover by Team (shot clock)
+  - - '11:22.0'
+    - V. Carter misses 2-pt shot from 20 ft
+    - ''
+    - 40-37
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 40-37
+    - ''
+    - Defensive rebound by E. Brand
+  - - '11:10.0'
+    - ''
+    - ''
+    - 40-39
+    - "+2"
+    - K. El-Amin makes 2-pt shot at rim
+  - - '10:57.0'
+    - V. Carter makes 2-pt shot from 5 ft (assist by C. Oakley)
+    - "+2"
+    - 42-39
+    - ''
+    - ''
+  - - '10:57.0'
+    - Shooting foul by R. Mercer
+    - ''
+    - 42-39
+    - ''
+    - ''
+  - - '10:57.0'
+    - V. Carter makes free throw 1 of 1
+    - "+1"
+    - 43-39
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - R. Mercer misses 2-pt shot at rim
+  - - '10:34.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Offensive rebound by M. Ruffin
+  - - '10:25.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Shooting foul by A. Davis
+  - - '10:25.0'
+    - ''
+    - ''
+    - 43-40
+    - "+1"
+    - R. Mercer makes free throw 1 of 2
+  - - '10:25.0'
+    - ''
+    - ''
+    - 43-41
+    - "+1"
+    - R. Mercer makes free throw 2 of 2
+  - - '10:03.0'
+    - A. Davis misses 2-pt shot from 15 ft
+    - ''
+    - 43-41
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 43-41
+    - ''
+    - Defensive rebound by E. Brand
+  - - '9:54.0'
+    - ''
+    - ''
+    - 43-41
+    - ''
+    - Offensive foul by K. El-Amin
+  - - '9:54.0'
+    - ''
+    - ''
+    - 43-41
+    - ''
+    - Turnover by K. El-Amin (foul)
+  - - '9:42.0'
+    - Turnover by V. Carter (out of bounds)
+    - ''
+    - 43-41
+    - ''
+    - ''
+  - - '9:30.0'
+    - ''
+    - ''
+    - 43-41
+    - ''
+    - Turnover by R. Mercer (traveling)
+  - - '9:16.0'
+    - Personal foul by M. Ruffin
+    - ''
+    - 43-41
+    - ''
+    - ''
+  - - '9:10.0'
+    - M. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 45-41
+    - ''
+    - ''
+  - - '9:10.0'
+    - Shooting foul by K. El-Amin
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '9:10.0'
+    - M. Jackson makes free throw 1 of 1
+    - "+1"
+    - 46-41
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 46-41
+    - ''
+    - M. World Peace misses 3-pt shot from 24 ft
+  - - '8:53.0'
+    - Defensive rebound by Team
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '8:31.0'
+    - Shooting foul by E. Brand
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '8:31.0'
+    - C. Williamson makes free throw 1 of 2
+    - "+1"
+    - 47-41
+    - ''
+    - ''
+  - - '8:31.0'
+    - C. Williamson misses free throw 2 of 2
+    - ''
+    - 47-41
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 47-41
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '8:14.0'
+    - ''
+    - ''
+    - 47-43
+    - "+2"
+    - E. Brand makes 2-pt shot from 7 ft (assist by R. Mercer)
+  - - '7:55.0'
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 49-43
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 49-45
+    - "+2"
+    - R. Mercer makes 2-pt shot from 18 ft (assist by M. World Peace)
+  - - '7:18.0'
+    - M. Jackson misses 2-pt shot at rim (block by E. Brand)
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Defensive rebound by E. Brand
+  - - '7:15.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Turnover by E. Brand (out of bounds)
+  - - '7:12.0'
+    - C. Oakley misses 3-pt shot from 25 ft
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '7:11.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '7:05.0'
+    - C. Williamson misses 2-pt shot from 11 ft (block by E. Brand)
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '7:05.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Personal foul by A. Davis
+  - - '6:45.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - K. El-Amin misses 3-pt shot from 24 ft
+  - - '6:43.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Offensive rebound by M. Ruffin
+  - - '6:39.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Turnover by M. Ruffin (bad pass; steal by A. Davis)
+  - - '6:33.0'
+    - V. Carter misses 2-pt shot at rim
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '6:24.0'
+    - ''
+    - ''
+    - 49-47
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by K. El-Amin)
+  - - '6:05.0'
+    - C. Williamson misses 2-pt shot from 9 ft
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Defensive rebound by E. Brand
+  - - '5:56.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - K. El-Amin misses 2-pt shot at rim (block by V. Carter)
+  - - '5:56.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Offensive rebound by Team
+  - - '5:56.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Chicago full timeout
+  - - '5:56.0'
+    - M. Peterson enters the game for C. Williamson
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Shooting foul by M. Peterson
+  - - '5:50.0'
+    - ''
+    - ''
+    - 49-48
+    - "+1"
+    - R. Mercer makes free throw 1 of 2
+  - - '5:50.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - R. Mercer misses free throw 2 of 2
+  - - '5:48.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 49-48
+    - ''
+    - ''
+  - - '5:36.0'
+    - V. Carter makes 2-pt shot from 17 ft (assist by M. Jackson)
+    - "+2"
+    - 51-48
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 51-50
+    - "+2"
+    - M. World Peace makes 2-pt shot from 8 ft
+  - - '5:08.0'
+    - V. Carter makes 2-pt shot from 19 ft (assist by M. Jackson)
+    - "+2"
+    - 53-50
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 53-52
+    - "+2"
+    - R. Mercer makes 2-pt shot from 19 ft (assist by M. World Peace)
+  - - '4:20.0'
+    - M. Peterson misses 3-pt shot from 24 ft
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 53-52
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '4:11.0'
+    - ''
+    - ''
+    - 53-52
+    - ''
+    - R. Mercer misses 2-pt shot from 22 ft
+  - - '4:09.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '4:00.0'
+    - M. Peterson makes 2-pt shot at rim (assist by M. Jackson)
+    - "+2"
+    - 55-52
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 55-52
+    - ''
+    - E. Brand misses 2-pt shot from 8 ft
+  - - '3:37.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 55-52
+    - ''
+    - ''
+  - - '3:28.0'
+    - M. Peterson misses 2-pt shot from 13 ft
+    - ''
+    - 55-52
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 55-52
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '3:16.0'
+    - ''
+    - ''
+    - 55-54
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by K. El-Amin)
+  - - '2:56.0'
+    - Toronto full timeout
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '2:53.0'
+    - M. Peterson misses 2-pt shot from 19 ft
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '2:51.0'
+    - Offensive rebound by M. Jackson
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '2:43.0'
+    - V. Carter makes 2-pt shot from 21 ft
+    - "+2"
+    - 57-54
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Offensive foul by K. El-Amin
+  - - '2:31.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Turnover by K. El-Amin (foul)
+  - - '2:19.0'
+    - V. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '2:01.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - M. World Peace misses 2-pt shot at rim
+  - - '1:58.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '1:52.0'
+    - V. Carter makes 2-pt shot at rim (assist by C. Oakley)
+    - "+2"
+    - 59-54
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 59-56
+    - "+2"
+    - K. El-Amin makes 2-pt shot from 18 ft (assist by M. World Peace)
+  - - '1:22.0'
+    - V. Carter makes 3-pt shot from 24 ft (assist by M. Jackson)
+    - "+3"
+    - 62-56
+    - ''
+    - ''
+  - - '0:57.0'
+    - ''
+    - ''
+    - 62-56
+    - ''
+    - Turnover by K. El-Amin (lost ball)
+  - - '0:57.0'
+    - ''
+    - ''
+    - 62-56
+    - ''
+    - M. Fizer enters the game for M. Ruffin
+  - - '0:49.6'
+    - Shooting foul by M. World Peace
+    - ''
+    - 62-56
+    - ''
+    - ''
+  - - '0:49.6'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 63-56
+    - ''
+    - ''
+  - - '0:49.6'
+    - ''
+    - ''
+    - 63-56
+    - ''
+    - A. Guyton enters the game for K. El-Amin
+  - - '0:49.6'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 64-56
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 64-56
+    - ''
+    - R. Mercer misses 2-pt shot from 18 ft
+  - - '0:31.9'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 64-56
+    - ''
+    - ''
+  - - '0:24.9'
+    - Turnover by V. Carter (lost ball; steal by M. Fizer)
+    - ''
+    - 64-56
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 64-56
+    - ''
+    - M. World Peace misses 2-pt shot from 18 ft
+  - - '0:00.1'
+    - ''
+    - ''
+    - 64-56
+    - ''
+    - Offensive rebound by E. Brand
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 64-56
+    - ''
+    - ''
+  - - '11:33.0'
+    - M. Peterson makes 2-pt shot from 20 ft (assist by V. Carter)
+    - "+2"
+    - 66-56
+    - ''
+    - ''
+  - - '11:21.0'
+    - Violation by C. Oakley (illegal defense)
+    - ''
+    - 66-56
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 66-56
+    - ''
+    - Shooting foul by C. Oakley
+  - - '11:13.0'
+    - ''
+    - ''
+    - 66-57
+    - "+1"
+    - E. Brand makes free throw 1 of 2
+  - - '11:13.0'
+    - ''
+    - ''
+    - 66-58
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '10:58.0'
+    - V. Carter misses 3-pt shot from 26 ft
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '10:56.0'
+    - Offensive rebound by C. Oakley
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '10:47.0'
+    - M. Jackson makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 68-58
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 68-58
+    - ''
+    - M. Fizer misses 2-pt shot at rim
+  - - '10:37.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 68-58
+    - ''
+    - ''
+  - - '10:31.0'
+    - M. Peterson makes 3-pt shot from 25 ft (assist by V. Carter)
+    - "+3"
+    - 71-58
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 71-60
+    - "+2"
+    - E. Brand makes 2-pt shot at rim (assist by A. Guyton)
+  - - '9:42.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '9:30.0'
+    - V. Carter makes 3-pt shot from 23 ft (assist by C. Oakley)
+    - "+3"
+    - 74-60
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - D. Tarlac misses 2-pt shot from 9 ft
+  - - '9:10.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 74-60
+    - ''
+    - ''
+  - - '9:10.0'
+    - Personal foul by D. Tarlac
+    - ''
+    - 74-60
+    - ''
+    - ''
+  - - '9:10.0'
+    - A. Williams enters the game for V. Carter
+    - ''
+    - 74-60
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - M. World Peace enters the game for E. Brand
+  - - '9:10.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - F. Hoiberg enters the game for R. Mercer
+  - - '8:54.0'
+    - A. Davis makes 2-pt shot at rim (assist by M. Jackson)
+    - "+2"
+    - 76-60
+    - ''
+    - ''
+  - - '8:54.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 76-60
+    - ''
+    - ''
+  - - '8:54.0'
+    - Toronto full timeout
+    - ''
+    - 76-60
+    - ''
+    - ''
+  - - '8:54.0'
+    - A. Davis makes free throw 1 of 1
+    - "+1"
+    - 77-60
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 77-60
+    - ''
+    - A. Guyton misses 2-pt shot from 20 ft
+  - - '8:42.0'
+    - Defensive rebound by Team
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:42.0'
+    - Loose ball foul by M. Fizer
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:42.0'
+    - C. Oakley misses free throw 1 of 2
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:42.0'
+    - C. Oakley misses free throw 2 of 2
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:40.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '8:35.0'
+    - C. Oakley makes 2-pt shot from 16 ft (assist by A. Davis)
+    - "+2"
+    - 79-60
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 79-60
+    - ''
+    - D. Tarlac misses 2-pt shot from 10 ft
+  - - '8:19.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 79-60
+    - ''
+    - ''
+  - - '8:06.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 79-60
+    - ''
+    - ''
+  - - '8:06.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 80-60
+    - ''
+    - ''
+  - - '8:06.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 81-60
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 81-60
+    - ''
+    - F. Hoiberg misses 2-pt shot at rim (block by A. Davis)
+  - - '7:43.0'
+    - ''
+    - ''
+    - 81-60
+    - ''
+    - Offensive rebound by M. Fizer
+  - - '7:43.0'
+    - ''
+    - ''
+    - 81-62
+    - "+2"
+    - M. Fizer makes 2-pt shot from 9 ft
+  - - '7:43.0'
+    - Violation by A. Davis (def goaltending)
+    - ''
+    - 81-62
+    - ''
+    - ''
+  - - '7:30.0'
+    - A. Davis misses 2-pt shot from 14 ft
+    - ''
+    - 81-62
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 81-62
+    - ''
+    - Defensive rebound by D. Tarlac
+  - - '7:09.0'
+    - ''
+    - ''
+    - 81-62
+    - ''
+    - M. Fizer misses 2-pt shot from 10 ft
+  - - '7:07.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 81-62
+    - ''
+    - ''
+  - - '6:59.0'
+    - A. Williams makes 2-pt shot from 18 ft (assist by C. Oakley)
+    - "+2"
+    - 83-62
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 83-65
+    - "+3"
+    - M. World Peace makes 3-pt shot from 24 ft (assist by F. Hoiberg)
+  - - '6:28.0'
+    - C. Oakley makes 2-pt shot from 19 ft (assist by M. Jackson)
+    - "+2"
+    - 85-65
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 85-65
+    - ''
+    - M. Fizer misses 2-pt shot from 15 ft
+  - - '6:12.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 85-65
+    - ''
+    - ''
+  - - '5:56.0'
+    - M. Peterson misses 3-pt shot from 23 ft
+    - ''
+    - 85-65
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 85-65
+    - ''
+    - Defensive rebound by D. Tarlac
+  - - '5:42.0'
+    - ''
+    - ''
+    - 85-67
+    - "+2"
+    - F. Hoiberg makes 2-pt shot from 21 ft (assist by M. World Peace)
+  - - '5:26.0'
+    - Turnover by A. Williams (bad pass; steal by M. Fizer)
+    - ''
+    - 85-67
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 85-69
+    - "+2"
+    - F. Hoiberg makes 2-pt shot at rim (assist by M. Fizer)
+  - - '5:00.0'
+    - A. Davis makes 2-pt shot at rim (assist by M. Jackson)
+    - "+2"
+    - 87-69
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 87-69
+    - ''
+    - A. Guyton misses 2-pt shot from 20 ft
+  - - '4:35.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 87-69
+    - ''
+    - ''
+  - - '4:17.0'
+    - M. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 89-69
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Personal foul by C. Oakley
+  - - '4:03.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Chicago full timeout
+  - - '4:03.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - J. Voskuhl enters the game for D. Tarlac
+  - - '4:03.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - J. Crawford enters the game for A. Guyton
+  - - '4:03.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - C. Benjamin enters the game for F. Hoiberg
+  - - '4:03.0'
+    - K. Willis enters the game for A. Davis
+    - ''
+    - 89-69
+    - ''
+    - ''
+  - - '4:03.0'
+    - D. Curry enters the game for M. Jackson
+    - ''
+    - 89-69
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Turnover by M. Fizer (lost ball; steal by A. Williams)
+  - - '3:51.0'
+    - Turnover by M. Peterson (bad pass; steal by J. Voskuhl)
+    - ''
+    - 89-69
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 89-71
+    - "+2"
+    - C. Benjamin makes 2-pt shot from 12 ft
+  - - '3:39.0'
+    - ''
+    - ''
+    - 89-71
+    - ''
+    - Shooting foul by A. Williams
+  - - '3:39.0'
+    - ''
+    - ''
+    - 89-72
+    - "+1"
+    - C. Benjamin makes free throw 1 of 1
+  - - '3:25.0'
+    - C. Oakley misses 2-pt shot from 18 ft
+    - ''
+    - 89-72
+    - ''
+    - ''
+  - - '3:23.0'
+    - Offensive rebound by K. Willis
+    - ''
+    - 89-72
+    - ''
+    - ''
+  - - '3:14.0'
+    - K. Willis misses 2-pt shot from 17 ft
+    - ''
+    - 89-72
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 89-72
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '3:08.0'
+    - ''
+    - ''
+    - 89-72
+    - ''
+    - Personal foul by M. Peterson
+  - - '2:59.0'
+    - ''
+    - ''
+    - 89-72
+    - ''
+    - J. Voskuhl misses 2-pt shot from 5 ft
+  - - '2:54.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 89-72
+    - ''
+    - ''
+  - - '2:42.0'
+    - C. Oakley makes 2-pt shot from 11 ft
+    - "+2"
+    - 91-72
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 91-72
+    - ''
+    - J. Voskuhl misses 2-pt shot from 15 ft
+  - - '2:26.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 91-72
+    - ''
+    - ''
+  - - '2:04.0'
+    - A. Williams makes 2-pt shot from 21 ft (assist by C. Oakley)
+    - "+2"
+    - 93-72
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 93-72
+    - ''
+    - Personal foul by A. Williams
+  - - '1:49.0'
+    - ''
+    - ''
+    - 93-72
+    - ''
+    - Chicago full timeout
+  - - '1:49.0'
+    - K. David enters the game for C. Oakley
+    - ''
+    - 93-72
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 93-73
+    - "+1"
+    - J. Crawford makes free throw 1 of 2
+  - - '1:49.0'
+    - ''
+    - ''
+    - 93-73
+    - ''
+    - J. Crawford misses free throw 2 of 2
+  - - '1:48.0'
+    - Defensive rebound by K. David
+    - ''
+    - 93-73
+    - ''
+    - ''
+  - - '1:30.0'
+    - D. Curry makes 2-pt shot from 20 ft (assist by A. Williams)
+    - "+2"
+    - 95-73
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 95-73
+    - ''
+    - C. Benjamin misses 2-pt shot at rim
+  - - '1:21.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 95-73
+    - ''
+    - ''
+  - - '1:10.0'
+    - K. Willis makes 2-pt shot at rim (assist by D. Curry)
+    - "+2"
+    - 97-73
+    - ''
+    - ''
+  - - '0:59.9'
+    - ''
+    - ''
+    - 97-73
+    - ''
+    - Turnover by M. Fizer (bad pass; steal by D. Curry)
+  - - '0:55.4'
+    - Shooting foul by M. Fizer
+    - ''
+    - 97-73
+    - ''
+    - ''
+  - - '0:55.4'
+    - K. Willis makes free throw 1 of 2
+    - "+1"
+    - 98-73
+    - ''
+    - ''
+  - - '0:55.4'
+    - K. Willis misses free throw 2 of 2
+    - ''
+    - 98-73
+    - ''
+    - ''
+  - - '0:55.2'
+    - Offensive rebound by M. Peterson
+    - ''
+    - 98-73
+    - ''
+    - ''
+  - - '0:42.9'
+    - M. Peterson misses 2-pt shot at rim
+    - ''
+    - 98-73
+    - ''
+    - ''
+  - - '0:38.9'
+    - ''
+    - ''
+    - 98-73
+    - ''
+    - Defensive rebound by J. Voskuhl
+  - - '0:33.5'
+    - ''
+    - ''
+    - 98-75
+    - "+2"
+    - M. Fizer makes 2-pt shot at rim (assist by J. Crawford)
+  - - '0:20.9'
+    - K. David misses 2-pt shot from 21 ft
+    - ''
+    - 98-75
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 98-75
+    - ''
+    - Defensive rebound by J. Voskuhl
+  - - '0:12.9'
+    - ''
+    - ''
+    - 98-75
+    - ''
+    - J. Crawford misses 3-pt shot from 26 ft
+  - - '0:10.9'
+    - Defensive rebound by Team
+    - ''
+    - 98-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,3098 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: B. Outlaw vs. D. Mutombo (M. Maloney gains possession)'
+  - - '11:40.0'
+    - D. Mutombo makes 2-pt shot from 12 ft (assist by J. Terry)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Doleac misses 2-pt shot from 23 ft
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Offensive rebound by J. Amaechi
+  - - '11:11.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - M. Doleac makes 2-pt shot from 16 ft
+  - - '10:54.0'
+    - D. Mutombo makes 2-pt shot from 13 ft (assist by M. Maloney)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - D. Armstrong misses 2-pt shot from 15 ft
+  - - '10:26.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Violation by Team (illegal defense)
+  - - '10:06.0'
+    - C. Crawford misses 2-pt shot from 15 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '10:01.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '10:01.0'
+    - Violation by D. Mutombo (def goaltending)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:40.0'
+    - D. Mutombo misses 2-pt shot from 12 ft
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '9:33.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - M. Doleac misses 2-pt shot at rim (block by C. Crawford)
+  - - '9:31.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:26.0'
+    - J. Terry makes 2-pt shot from 15 ft (assist by M. Maloney)
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Shooting foul by A. Henderson
+  - - '9:08.0'
+    - ''
+    - ''
+    - 6-5
+    - "+1"
+    - J. Amaechi makes free throw 1 of 2
+  - - '9:08.0'
+    - ''
+    - ''
+    - 6-6
+    - "+1"
+    - J. Amaechi makes free throw 2 of 2
+  - - '8:56.0'
+    - J. Terry makes 2-pt shot from 18 ft
+    - "+2"
+    - 8-6
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Turnover by D. Armstrong (bad pass)
+  - - '8:32.0'
+    - Turnover by C. Crawford (bad pass; steal by J. Amaechi)
+    - ''
+    - 8-6
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 8-8
+    - "+2"
+    - B. Outlaw makes 2-pt shot from 13 ft
+  - - '8:03.0'
+    - Turnover by C. Crawford (bad pass; steal by D. Armstrong)
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - M. Miller misses 2-pt shot from 14 ft
+  - - '7:45.0'
+    - Defensive rebound by C. Crawford
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:29.0'
+    - A. Henderson misses 2-pt shot at rim
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by M. Miller
+  - - '7:23.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - M. Doleac makes 2-pt shot from 21 ft (assist by J. Amaechi)
+  - - '7:01.0'
+    - M. Maloney makes 2-pt shot at rim
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:01.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - M. Miller misses 2-pt shot from 15 ft
+  - - '6:41.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '6:37.0'
+    - ''
+    - ''
+    - 10-12
+    - "+2"
+    - M. Doleac makes 2-pt shot from 22 ft (assist by D. Armstrong)
+  - - '6:27.0'
+    - J. Terry makes 2-pt shot from 18 ft
+    - "+2"
+    - 12-12
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 12-15
+    - "+3"
+    - D. Armstrong makes 3-pt shot from 27 ft
+  - - '6:02.0'
+    - Personal foul by M. Doleac
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '6:02.0'
+    - D. Johnson enters the game for C. Crawford
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '6:02.0'
+    - Turnover by D. Johnson (back court)
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Personal foul by D. Johnson
+  - - '5:55.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Orlando full timeout
+  - - '5:55.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Shooting foul by D. Johnson
+  - - '5:52.0'
+    - ''
+    - ''
+    - 12-16
+    - "+1"
+    - M. Doleac makes free throw 1 of 2
+  - - '5:52.0'
+    - ''
+    - ''
+    - 12-17
+    - "+1"
+    - M. Doleac makes free throw 2 of 2
+  - - '5:37.0'
+    - A. Henderson misses 2-pt shot from 10 ft
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '5:20.0'
+    - ''
+    - ''
+    - 12-19
+    - "+2"
+    - B. Outlaw makes 2-pt shot from 3 ft (assist by M. Miller)
+  - - '5:04.0'
+    - L. Wright misses 2-pt shot from 15 ft
+    - ''
+    - 12-19
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:54.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - M. Doleac misses 2-pt shot from 4 ft
+  - - '4:51.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - B. Outlaw misses 2-pt shot at rim
+  - - '4:51.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '4:50.0'
+    - Defensive rebound by D. Johnson
+    - ''
+    - 12-19
+    - ''
+    - ''
+  - - '4:41.0'
+    - D. Johnson misses 2-pt shot from 15 ft
+    - ''
+    - 12-19
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '4:37.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '4:34.0'
+    - ''
+    - ''
+    - 12-19
+    - ''
+    - Offensive rebound by J. Amaechi
+  - - '4:29.0'
+    - ''
+    - ''
+    - 12-22
+    - "+3"
+    - M. Miller makes 3-pt shot from 26 ft (assist by D. Armstrong)
+  - - '4:23.0'
+    - Atlanta full timeout
+    - ''
+    - 12-22
+    - ''
+    - ''
+  - - '4:23.0'
+    - C. Crawford enters the game for D. Johnson
+    - ''
+    - 12-22
+    - ''
+    - ''
+  - - '4:11.0'
+    - L. Wright makes 2-pt shot at rim (assist by J. Terry)
+    - "+2"
+    - 14-22
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 14-22
+    - ''
+    - M. Doleac misses 2-pt shot from 13 ft
+  - - '3:55.0'
+    - ''
+    - ''
+    - 14-22
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '3:53.0'
+    - ''
+    - ''
+    - 14-24
+    - "+2"
+    - M. Miller makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '3:46.0'
+    - Shooting foul by J. Amaechi
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '3:46.0'
+    - C. Crawford makes free throw 1 of 2
+    - "+1"
+    - 15-24
+    - ''
+    - ''
+  - - '3:46.0'
+    - C. Crawford makes free throw 2 of 2
+    - "+1"
+    - 16-24
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 16-26
+    - "+2"
+    - M. Miller makes 2-pt shot from 17 ft (assist by M. Doleac)
+  - - '3:16.0'
+    - C. Crawford makes 2-pt shot at rim (assist by J. Terry)
+    - "+2"
+    - 18-26
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 18-26
+    - ''
+    - Turnover by B. Outlaw (lost ball; steal by M. Maloney)
+  - - '2:57.0'
+    - L. Wright misses 2-pt shot at rim
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '2:57.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '2:57.0'
+    - Personal foul by B. Outlaw
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '2:47.0'
+    - A. Henderson makes 2-pt shot from 15 ft (assist by J. Terry)
+    - "+2"
+    - 20-26
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 20-26
+    - ''
+    - M. Miller misses 2-pt shot from 16 ft
+  - - '2:28.0'
+    - ''
+    - ''
+    - 20-26
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '2:25.0'
+    - ''
+    - ''
+    - 20-29
+    - "+3"
+    - M. Miller makes 3-pt shot from 23 ft (assist by B. Outlaw)
+  - - '2:16.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - T. Hudson enters the game for D. Armstrong
+  - - '2:16.0'
+    - Ill def tech foul by Team
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '2:16.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '2:16.0'
+    - C. Crawford misses free throw technical
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '2:10.0'
+    - Ill def tech foul by Team
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - P. Garrity enters the game for M. Doleac
+  - - '2:10.0'
+    - J. Terry makes free throw technical
+    - "+1"
+    - 21-29
+    - ''
+    - ''
+  - - '1:57.0'
+    - Turnover by J. Terry (bad pass; steal by T. Hudson)
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 21-31
+    - "+2"
+    - T. Hudson makes 2-pt shot at rim
+  - - '1:57.0'
+    - ''
+    - ''
+    - 21-31
+    - ''
+    - Shooting foul by M. Maloney
+  - - '1:57.0'
+    - ''
+    - ''
+    - 21-32
+    - "+1"
+    - T. Hudson makes free throw 1 of 1
+  - - '1:40.0'
+    - Shooting foul by J. Amaechi
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '1:40.0'
+    - A. Henderson makes free throw 1 of 2
+    - "+1"
+    - 22-32
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 22-32
+    - ''
+    - A. DeClercq enters the game for J. Amaechi
+  - - '1:40.0'
+    - A. Henderson makes free throw 2 of 2
+    - "+1"
+    - 23-32
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 23-34
+    - "+2"
+    - A. DeClercq makes 2-pt shot from 5 ft (assist by B. Outlaw)
+  - - '1:06.0'
+    - J. Terry misses 3-pt shot from 27 ft
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 23-34
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '0:57.3'
+    - ''
+    - ''
+    - 23-34
+    - ''
+    - T. Hudson misses 3-pt shot from 27 ft
+  - - '0:56.4'
+    - Defensive rebound by Team
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '0:56.4'
+    - Loose ball foul by P. Garrity
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '0:56.4'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 24-34
+    - ''
+    - ''
+  - - '0:56.4'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 25-34
+    - ''
+    - ''
+  - - '0:38.4'
+    - ''
+    - ''
+    - 25-34
+    - ''
+    - Turnover by B. Outlaw (lost ball; steal by M. Maloney)
+  - - '0:35.8'
+    - Shooting foul by M. Miller
+    - ''
+    - 25-34
+    - ''
+    - ''
+  - - '0:35.8'
+    - ''
+    - ''
+    - 25-34
+    - ''
+    - M. Williams enters the game for M. Miller
+  - - '0:35.8'
+    - M. Maloney makes free throw 1 of 2
+    - "+1"
+    - 26-34
+    - ''
+    - ''
+  - - '0:35.8'
+    - A. Johnson enters the game for J. Terry
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '0:35.8'
+    - M. Maloney makes free throw 2 of 2
+    - "+1"
+    - 27-34
+    - ''
+    - ''
+  - - '0:15.5'
+    - ''
+    - ''
+    - 27-36
+    - "+2"
+    - M. Williams makes 2-pt shot at rim
+  - - '0:02.8'
+    - A. Henderson makes 2-pt shot from 11 ft
+    - "+2"
+    - 29-36
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 29-39
+    - "+3"
+    - B. Outlaw makes 3-pt shot from 40 ft
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 29-41
+    - "+2"
+    - T. Hudson makes 2-pt shot from 14 ft
+  - - '11:21.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 29-41
+    - ''
+    - ''
+  - - '11:21.0'
+    - D. Johnson misses free throw 1 of 2
+    - ''
+    - 29-41
+    - ''
+    - ''
+  - - '11:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 29-41
+    - ''
+    - ''
+  - - '11:21.0'
+    - D. Johnson makes free throw 2 of 2
+    - "+1"
+    - 30-41
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 30-41
+    - ''
+    - Turnover by M. Williams (bad pass)
+  - - '11:08.0'
+    - Personal foul by A. DeClercq
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:59.0'
+    - Turnover by D. Mutombo (traveling)
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 30-41
+    - ''
+    - Personal foul by L. Robinson
+  - - '10:42.0'
+    - ''
+    - ''
+    - 30-41
+    - ''
+    - T. Hudson misses 2-pt shot from 17 ft
+  - - '10:39.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:29.0'
+    - Turnover by D. Johnson (bad pass; steal by B. Outlaw)
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 30-41
+    - ''
+    - P. Garrity misses 3-pt shot from 25 ft
+  - - '10:15.0'
+    - Defensive rebound by L. Robinson
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:05.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 30-41
+    - ''
+    - M. Doleac enters the game for A. DeClercq
+  - - '10:05.0'
+    - D. Johnson makes free throw 1 of 2
+    - "+1"
+    - 31-41
+    - ''
+    - ''
+  - - '10:05.0'
+    - D. Johnson makes free throw 2 of 2
+    - "+1"
+    - 32-41
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - T. Hudson misses 3-pt shot from 26 ft
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - Offensive rebound by P. Garrity
+  - - '9:42.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - Personal foul by D. Johnson
+  - - '9:42.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - D. Armstrong enters the game for B. Outlaw
+  - - '9:36.0'
+    - ''
+    - ''
+    - 32-43
+    - "+2"
+    - T. Hudson makes 2-pt shot from 4 ft
+  - - '9:22.0'
+    - Offensive foul by H. Mottola
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:22.0'
+    - Turnover by H. Mottola (foul)
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:22.0'
+    - C. Crawford enters the game for D. Johnson
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:22.0'
+    - J. Terry enters the game for L. Robinson
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - P. Garrity misses 2-pt shot from 18 ft
+  - - '9:09.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:03.0'
+    - J. Terry misses 2-pt shot from 14 ft
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Defensive rebound by Team
+  - - '9:01.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Loose ball foul by J. Terry
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Personal foul by C. Crawford
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Official timeout
+  - - '8:46.0'
+    - ''
+    - ''
+    - 32-45
+    - "+2"
+    - T. Hudson makes 2-pt shot from 7 ft (assist by P. Garrity)
+  - - '8:30.0'
+    - C. Crawford misses 2-pt shot from 18 ft
+    - ''
+    - 32-45
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 32-45
+    - ''
+    - Defensive rebound by P. Garrity
+  - - '8:18.0'
+    - 'Jump ball: M. Williams vs. C. Crawford'
+  - - '8:18.0'
+    - ''
+    - ''
+    - 32-45
+    - ''
+    - Turnover by M. Williams (lost ball; steal by C. Crawford)
+  - - '7:57.0'
+    - D. Mutombo makes 2-pt shot from 6 ft
+    - "+2"
+    - 34-45
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 34-45
+    - ''
+    - Personal foul by D. Mutombo
+  - - '7:46.0'
+    - ''
+    - ''
+    - 34-46
+    - "+1"
+    - M. Williams makes free throw 1 of 2
+  - - '7:46.0'
+    - ''
+    - ''
+    - 34-47
+    - "+1"
+    - M. Williams makes free throw 2 of 2
+  - - '7:28.0'
+    - A. Johnson misses 3-pt shot from 27 ft
+    - ''
+    - 34-47
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 34-47
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '7:21.0'
+    - ''
+    - ''
+    - 34-47
+    - ''
+    - Turnover by T. Hudson (bad pass)
+  - - '7:06.0'
+    - D. Mutombo misses 2-pt shot from 9 ft
+    - ''
+    - 34-47
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 34-47
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '6:53.0'
+    - ''
+    - ''
+    - 34-49
+    - "+2"
+    - M. Doleac makes 2-pt shot from 21 ft (assist by M. Williams)
+  - - '6:41.0'
+    - Personal foul by M. Doleac
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:41.0'
+    - Atlanta full timeout
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:41.0'
+    - A. Henderson enters the game for A. Johnson
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:41.0'
+    - M. Maloney enters the game for H. Mottola
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:30.0'
+    - A. Henderson misses 2-pt shot from 10 ft (block by D. Armstrong)
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:29.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 34-49
+    - ''
+    - ''
+  - - '6:29.0'
+    - D. Mutombo makes 2-pt shot at rim
+    - "+2"
+    - 36-49
+    - ''
+    - ''
+  - - '6:29.0'
+    - D. Mutombo misses free throw 1 of 1
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '6:29.0'
+    - Shooting foul by M. Williams
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 36-49
+    - ''
+    - Offensive rebound by M. Williams
+  - - '6:13.0'
+    - ''
+    - ''
+    - 36-49
+    - ''
+    - P. Garrity misses 2-pt shot from 15 ft
+  - - '6:11.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '6:06.0'
+    - A. Henderson makes 2-pt shot at rim (assist by J. Terry)
+    - "+2"
+    - 38-49
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - Violation by M. Williams (def goaltending)
+  - - '5:54.0'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - M. Williams misses 2-pt shot from 12 ft
+  - - '5:50.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 38-49
+    - ''
+    - ''
+  - - '5:47.0'
+    - C. Crawford misses 2-pt shot from 16 ft
+    - ''
+    - 38-49
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '5:39.0'
+    - ''
+    - ''
+    - 38-52
+    - "+3"
+    - T. Hudson makes 3-pt shot from 26 ft (assist by D. Armstrong)
+  - - '5:22.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - B. Outlaw enters the game for M. Williams
+  - - '5:22.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - J. Amaechi enters the game for P. Garrity
+  - - '5:22.0'
+    - D. Mutombo misses free throw 1 of 2
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '5:22.0'
+    - Offensive rebound by Team
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - P. Garrity enters the game for M. Doleac
+  - - '5:22.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 39-52
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 39-52
+    - ''
+    - T. Hudson misses 2-pt shot from 19 ft
+  - - '5:06.0'
+    - Defensive rebound by C. Crawford
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '4:48.0'
+    - M. Maloney misses 3-pt shot from 25 ft
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '4:44.0'
+    - C. Crawford makes 2-pt shot at rim
+    - "+2"
+    - 41-52
+    - ''
+    - ''
+  - - '4:44.0'
+    - Offensive rebound by C. Crawford
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - B. Outlaw misses 2-pt shot at rim (block by D. Mutombo)
+  - - '4:25.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - Offensive rebound by J. Amaechi
+  - - '4:23.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - J. Amaechi misses 2-pt shot from 17 ft
+  - - '4:21.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '4:18.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - D. Armstrong misses 3-pt shot from 24 ft
+  - - '4:15.0'
+    - Defensive rebound by C. Crawford
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '4:11.0'
+    - M. Maloney misses 3-pt shot from 27 ft
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '4:09.0'
+    - Offensive rebound by M. Maloney
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '3:56.0'
+    - J. Terry misses 3-pt shot from 25 ft
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '3:55.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '3:55.0'
+    - Turnover by A. Henderson (out of bounds)
+    - ''
+    - 41-52
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - M. Miller enters the game for T. Hudson
+  - - '3:37.0'
+    - ''
+    - ''
+    - 41-55
+    - "+3"
+    - M. Miller makes 3-pt shot from 26 ft (assist by J. Amaechi)
+  - - '3:13.0'
+    - Turnover by A. Henderson (bad pass; steal by D. Armstrong)
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - D. Armstrong misses 2-pt shot at rim (block by C. Crawford)
+  - - '3:09.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Offensive rebound by Team
+  - - '3:09.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 41-57
+    - "+2"
+    - M. Miller makes 2-pt shot from 14 ft (assist by P. Garrity)
+  - - '2:48.0'
+    - A. Henderson misses 2-pt shot from 8 ft
+    - ''
+    - 41-57
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 41-57
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '2:38.0'
+    - ''
+    - ''
+    - 41-59
+    - "+2"
+    - M. Miller makes 2-pt shot from 15 ft (assist by B. Outlaw)
+  - - '2:25.0'
+    - A. Henderson misses 2-pt shot from 20 ft
+    - ''
+    - 41-59
+    - ''
+    - ''
+  - - '2:23.0'
+    - C. Crawford misses 2-pt shot at rim
+    - ''
+    - 41-59
+    - ''
+    - ''
+  - - '2:23.0'
+    - Offensive rebound by C. Crawford
+    - ''
+    - 41-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 41-59
+    - ''
+    - ''
+  - - '2:18.0'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 43-59
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 43-59
+    - ''
+    - Turnover by J. Amaechi (lost ball)
+  - - '2:13.0'
+    - Atlanta full timeout
+    - ''
+    - 43-59
+    - ''
+    - ''
+  - - '1:49.0'
+    - L. Wright misses 2-pt shot from 17 ft
+    - ''
+    - 43-59
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 43-59
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '1:41.0'
+    - ''
+    - ''
+    - 43-61
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim (assist by B. Outlaw)
+  - - '1:41.0'
+    - ''
+    - ''
+    - 43-61
+    - ''
+    - Shooting foul by L. Wright
+  - - '1:41.0'
+    - ''
+    - ''
+    - 43-62
+    - "+1"
+    - J. Amaechi makes free throw 1 of 1
+  - - '1:28.0'
+    - Offensive foul by A. Henderson
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '1:28.0'
+    - Turnover by A. Henderson (foul)
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 43-62
+    - ''
+    - P. Garrity misses 2-pt shot from 18 ft
+  - - '1:02.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '0:50.6'
+    - Shooting foul by J. Amaechi
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '0:50.6'
+    - A. Henderson misses free throw 1 of 2
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '0:50.6'
+    - Offensive rebound by Team
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '0:50.6'
+    - ''
+    - ''
+    - 43-62
+    - ''
+    - A. DeClercq enters the game for J. Amaechi
+  - - '0:50.6'
+    - A. Henderson makes free throw 2 of 2
+    - "+1"
+    - 44-62
+    - ''
+    - ''
+  - - '0:35.9'
+    - ''
+    - ''
+    - 44-62
+    - ''
+    - M. Miller misses 2-pt shot from 18 ft
+  - - '0:34.5'
+    - ''
+    - ''
+    - 44-62
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '0:34.5'
+    - ''
+    - ''
+    - 44-62
+    - ''
+    - D. Armstrong misses 2-pt shot from 7 ft
+  - - '0:34.5'
+    - ''
+    - ''
+    - 44-62
+    - ''
+    - Offensive rebound by M. Miller
+  - - '0:19.3'
+    - ''
+    - ''
+    - 44-64
+    - "+2"
+    - M. Miller makes 2-pt shot at rim
+  - - '0:09.3'
+    - Turnover by A. Henderson (out of bounds)
+    - ''
+    - 44-64
+    - ''
+    - ''
+  - - '0:09.3'
+    - ''
+    - ''
+    - 44-64
+    - ''
+    - Orlando 20 second timeout
+  - - '0:09.3'
+    - ''
+    - ''
+    - 44-64
+    - ''
+    - T. Hudson enters the game for A. DeClercq
+  - - '0:01.2'
+    - ''
+    - ''
+    - 44-66
+    - "+2"
+    - B. Outlaw makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 44-66
+    - ''
+    - D. Armstrong misses 2-pt shot from 17 ft
+  - - '11:38.0'
+    - ''
+    - ''
+    - 44-66
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '11:29.0'
+    - ''
+    - ''
+    - 44-68
+    - "+2"
+    - M. Miller makes 2-pt shot from 8 ft
+  - - '11:29.0'
+    - ''
+    - ''
+    - 44-68
+    - ''
+    - Shooting foul by J. Terry
+  - - '11:29.0'
+    - ''
+    - ''
+    - 44-68
+    - ''
+    - M. Miller misses free throw 1 of 1
+  - - '11:28.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '11:18.0'
+    - Personal foul by J. Amaechi
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '11:07.0'
+    - Turnover by D. Mutombo (bad pass; steal by D. Armstrong)
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 44-68
+    - ''
+    - Personal foul by J. Terry
+  - - '11:04.0'
+    - ''
+    - ''
+    - 44-68
+    - ''
+    - P. Garrity enters the game for J. Amaechi
+  - - '11:00.0'
+    - ''
+    - ''
+    - 44-68
+    - ''
+    - D. Armstrong misses 2-pt shot from 13 ft
+  - - '10:58.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '10:51.0'
+    - M. Maloney misses 3-pt shot from 25 ft
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '10:48.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 44-68
+    - ''
+    - ''
+  - - '10:45.0'
+    - J. Terry makes 2-pt shot from 19 ft (assist by A. Henderson)
+    - "+2"
+    - 46-68
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - M. Miller misses 2-pt shot from 16 ft
+  - - '10:22.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Offensive rebound by M. Doleac
+  - - '10:20.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - D. Armstrong misses 3-pt shot from 26 ft
+  - - '10:20.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Offensive rebound by Team
+  - - '10:20.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Loose ball foul by D. Mutombo
+  - - '10:17.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Offensive foul by M. Doleac
+  - - '10:17.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Turnover by M. Doleac (foul)
+  - - '10:05.0'
+    - M. Maloney misses 3-pt shot from 27 ft
+    - ''
+    - 46-68
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 46-68
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '9:56.0'
+    - ''
+    - ''
+    - 46-70
+    - "+2"
+    - M. Doleac makes 2-pt shot from 20 ft (assist by B. Outlaw)
+  - - '9:39.0'
+    - Offensive foul by A. Henderson
+    - ''
+    - 46-70
+    - ''
+    - ''
+  - - '9:39.0'
+    - Turnover by A. Henderson (foul)
+    - ''
+    - 46-70
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 46-70
+    - ''
+    - A. DeClercq enters the game for M. Doleac
+  - - '9:26.0'
+    - ''
+    - ''
+    - 46-70
+    - ''
+    - M. Miller misses 2-pt shot from 19 ft
+  - - '9:23.0'
+    - ''
+    - ''
+    - 46-70
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '9:20.0'
+    - ''
+    - ''
+    - 46-72
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '9:20.0'
+    - ''
+    - ''
+    - 46-72
+    - ''
+    - Shooting foul by A. Henderson
+  - - '9:20.0'
+    - ''
+    - ''
+    - 46-73
+    - "+1"
+    - A. DeClercq makes free throw 1 of 1
+  - - '9:09.0'
+    - Offensive foul by C. Crawford
+    - ''
+    - 46-73
+    - ''
+    - ''
+  - - '9:09.0'
+    - Turnover by C. Crawford (foul)
+    - ''
+    - 46-73
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 46-75
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim (assist by M. Miller)
+  - - '8:21.0'
+    - J. Terry makes 2-pt shot from 20 ft (assist by M. Maloney)
+    - "+2"
+    - 48-75
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 48-75
+    - ''
+    - Shooting foul by M. Maloney
+  - - '8:05.0'
+    - ''
+    - ''
+    - 48-76
+    - "+1"
+    - D. Armstrong makes free throw 1 of 2
+  - - '8:05.0'
+    - ''
+    - ''
+    - 48-77
+    - "+1"
+    - D. Armstrong makes free throw 2 of 2
+  - - '7:49.0'
+    - M. Maloney makes 3-pt shot from 27 ft (assist by J. Terry)
+    - "+3"
+    - 51-77
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 51-77
+    - ''
+    - Turnover by M. Miller (lost ball; steal by A. Henderson)
+  - - '7:28.0'
+    - Turnover by A. Henderson (bad pass; steal by B. Outlaw)
+    - ''
+    - 51-77
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 51-80
+    - "+3"
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by B. Outlaw)
+  - - '7:07.0'
+    - J. Terry misses 2-pt shot at rim
+    - ''
+    - 51-80
+    - ''
+    - ''
+  - - '7:06.0'
+    - A. Henderson makes 2-pt shot at rim
+    - "+2"
+    - 53-80
+    - ''
+    - ''
+  - - '7:06.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 53-80
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 53-80
+    - ''
+    - Personal foul by C. Crawford
+  - - '7:00.0'
+    - ''
+    - ''
+    - 53-81
+    - "+1"
+    - M. Miller makes free throw 1 of 2
+  - - '7:00.0'
+    - ''
+    - ''
+    - 53-82
+    - "+1"
+    - M. Miller makes free throw 2 of 2
+  - - '6:50.0'
+    - Personal foul by A. DeClercq
+    - ''
+    - 53-82
+    - ''
+    - ''
+  - - '6:40.0'
+    - A. Henderson makes 2-pt shot from 16 ft (assist by M. Maloney)
+    - "+2"
+    - 55-82
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 55-82
+    - ''
+    - Turnover by A. DeClercq (traveling)
+  - - '6:18.0'
+    - Turnover by D. Mutombo (bad pass; steal by M. Miller)
+    - ''
+    - 55-82
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 55-82
+    - ''
+    - M. Miller misses 2-pt shot at rim (block by J. Terry)
+  - - '6:15.0'
+    - ''
+    - ''
+    - 55-82
+    - ''
+    - Offensive rebound by Team
+  - - '6:07.0'
+    - ''
+    - ''
+    - 55-82
+    - ''
+    - M. Miller misses 2-pt shot from 16 ft
+  - - '6:04.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 55-82
+    - ''
+    - ''
+  - - '5:47.0'
+    - A. Henderson makes 2-pt shot from 15 ft (assist by J. Terry)
+    - "+2"
+    - 57-82
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 57-82
+    - ''
+    - Turnover by M. Miller (bad pass; steal by A. Henderson)
+  - - '5:26.0'
+    - J. Terry makes 2-pt shot from 13 ft (assist by C. Crawford)
+    - "+2"
+    - 59-82
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 59-82
+    - ''
+    - Orlando full timeout
+  - - '5:20.0'
+    - H. Mottola enters the game for C. Crawford
+    - ''
+    - 59-82
+    - ''
+    - ''
+  - - '5:20.0'
+    - D. Johnson enters the game for A. Henderson
+    - ''
+    - 59-82
+    - ''
+    - ''
+  - - '5:20.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 59-82
+    - ''
+    - ''
+  - - '5:20.0'
+    - A. Johnson enters the game for M. Maloney
+    - ''
+    - 59-82
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 59-82
+    - ''
+    - M. Miller misses 3-pt shot from 25 ft
+  - - '4:58.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 59-82
+    - ''
+    - ''
+  - - '4:50.0'
+    - D. Johnson makes 2-pt shot from 18 ft (assist by L. Wright)
+    - "+2"
+    - 61-82
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-82
+    - ''
+    - P. Garrity misses 2-pt shot from 20 ft
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-82
+    - ''
+    - Offensive rebound by Team
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-82
+    - ''
+    - Loose ball foul by A. Johnson
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-82
+    - ''
+    - M. Williams enters the game for M. Miller
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-83
+    - "+1"
+    - D. Armstrong makes free throw 1 of 2
+  - - '4:34.0'
+    - ''
+    - ''
+    - 61-84
+    - "+1"
+    - D. Armstrong makes free throw 2 of 2
+  - - '4:16.0'
+    - L. Wright makes 2-pt shot from 16 ft (assist by D. Johnson)
+    - "+2"
+    - 63-84
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Turnover by B. Outlaw (bad pass; steal by J. Terry)
+  - - '3:58.0'
+    - D. Johnson misses 2-pt shot from 1 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '3:54.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '3:54.0'
+    - J. Terry misses free throw 1 of 2
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '3:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '3:54.0'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 64-84
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 64-84
+    - ''
+    - P. Garrity misses 2-pt shot at rim
+  - - '3:33.0'
+    - ''
+    - ''
+    - 64-86
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim
+  - - '3:33.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '3:19.0'
+    - H. Mottola misses 2-pt shot from 19 ft
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '3:06.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Turnover by B. Outlaw (lost ball; steal by A. Johnson)
+  - - '3:03.0'
+    - Shooting foul by D. Armstrong
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '3:03.0'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 65-86
+    - ''
+    - ''
+  - - '3:03.0'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 66-86
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 66-86
+    - ''
+    - T. Hudson enters the game for D. Armstrong
+  - - '2:59.0'
+    - ''
+    - ''
+    - 66-86
+    - ''
+    - Orlando full timeout
+  - - '2:49.0'
+    - ''
+    - ''
+    - 66-86
+    - ''
+    - Offensive foul by P. Garrity
+  - - '2:49.0'
+    - ''
+    - ''
+    - 66-86
+    - ''
+    - Turnover by P. Garrity (foul)
+  - - '2:32.0'
+    - H. Mottola misses 2-pt shot at rim
+    - ''
+    - 66-86
+    - ''
+    - ''
+  - - '2:31.0'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 68-86
+    - ''
+    - ''
+  - - '2:31.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - B. Outlaw misses 2-pt shot from 9 ft
+  - - '2:14.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '2:00.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '2:00.0'
+    - L. Wright misses free throw 1 of 2
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '2:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '2:00.0'
+    - L. Wright misses free throw 2 of 2
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '1:39.0'
+    - ''
+    - ''
+    - 68-89
+    - "+3"
+    - T. Hudson makes 3-pt shot from 26 ft (assist by M. Williams)
+  - - '1:27.0'
+    - L. Wright misses 2-pt shot from 15 ft
+    - ''
+    - 68-89
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 68-89
+    - ''
+    - Defensive rebound by M. Williams
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-89
+    - ''
+    - Personal foul by L. Wright
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - "+1"
+    - M. Williams makes free throw 1 of 2
+  - - '1:17.0'
+    - L. Robinson enters the game for J. Terry
+    - ''
+    - 68-90
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - M. Williams misses free throw 2 of 2
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Loose ball foul by H. Mottola
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - A. DeClercq misses free throw 1 of 2
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Offensive rebound by Team
+  - - '1:17.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - A. DeClercq misses free throw 2 of 2
+  - - '1:16.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '1:01.0'
+    - ''
+    - ''
+    - 68-92
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim (assist by B. Outlaw)
+  - - '0:55.2'
+    - Offensive foul by L. Wright
+    - ''
+    - 68-92
+    - ''
+    - ''
+  - - '0:55.2'
+    - Turnover by L. Wright (foul)
+    - ''
+    - 68-92
+    - ''
+    - ''
+  - - '0:55.2'
+    - Technical foul by L. Wright
+    - ''
+    - 68-92
+    - ''
+    - ''
+  - - '0:55.2'
+    - ''
+    - ''
+    - 68-93
+    - "+1"
+    - P. Garrity makes free throw technical
+  - - '0:43.4'
+    - ''
+    - ''
+    - 68-95
+    - "+2"
+    - T. Hudson makes 2-pt shot at rim
+  - - '0:38.9'
+    - Offensive foul by A. Johnson
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '0:38.9'
+    - Turnover by A. Johnson (foul)
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '0:22.6'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - T. Hudson misses 3-pt shot from 26 ft
+  - - '0:19.3'
+    - Defensive rebound by A. Johnson
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '0:01.6'
+    - L. Wright misses 2-pt shot from 16 ft
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Defensive rebound by M. Williams
+  - - '0:00.4'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - M. Williams misses 3-pt shot from 87 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:43.0'
+    - D. Johnson misses 2-pt shot at rim
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '11:42.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Defensive rebound by P. Garrity
+  - - '11:42.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Loose ball foul by D. Johnson
+  - - '11:21.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - M. Williams misses 2-pt shot at rim (block by C. Bowdler)
+  - - '11:18.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Offensive rebound by T. Hudson
+  - - '11:16.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - T. Hudson misses 2-pt shot at rim (block by C. Bowdler)
+  - - '11:14.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Offensive rebound by T. Hudson
+  - - '11:14.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - Personal foul by C. Bowdler
+  - - '11:02.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - J. Amaechi misses 2-pt shot from 14 ft
+  - - '11:01.0'
+    - Defensive rebound by D. Johnson
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '10:55.0'
+    - Personal foul by P. Garrity
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '10:46.0'
+    - Offensive foul by H. Mottola
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '10:46.0'
+    - Turnover by H. Mottola (foul)
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 68-95
+    - ''
+    - P. Garrity misses 2-pt shot from 20 ft
+  - - '10:27.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '10:18.0'
+    - D. Johnson makes 2-pt shot from 15 ft
+    - "+2"
+    - 70-95
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 70-97
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim
+  - - '9:56.0'
+    - ''
+    - ''
+    - 70-97
+    - ''
+    - Shooting foul by C. Bowdler
+  - - '9:56.0'
+    - ''
+    - ''
+    - 70-98
+    - "+1"
+    - J. Amaechi makes free throw 1 of 1
+  - - '9:46.0'
+    - J. Terry misses 2-pt shot from 10 ft
+    - ''
+    - 70-98
+    - ''
+    - ''
+  - - '9:44.0'
+    - H. Mottola misses 2-pt shot at rim
+    - ''
+    - 70-98
+    - ''
+    - ''
+  - - '9:44.0'
+    - Offensive rebound by H. Mottola
+    - ''
+    - 70-98
+    - ''
+    - ''
+  - - '9:43.0'
+    - Offensive rebound by H. Mottola
+    - ''
+    - 70-98
+    - ''
+    - ''
+  - - '9:43.0'
+    - H. Mottola makes 2-pt shot at rim
+    - "+2"
+    - 72-98
+    - ''
+    - ''
+  - - '9:43.0'
+    - Shooting foul by M. Williams
+    - ''
+    - 72-98
+    - ''
+    - ''
+  - - '9:43.0'
+    - H. Mottola makes free throw 1 of 1
+    - "+1"
+    - 73-98
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 73-98
+    - ''
+    - Personal foul by M. Maloney
+  - - '9:19.0'
+    - ''
+    - ''
+    - 73-98
+    - ''
+    - M. Williams misses 2-pt shot at rim
+  - - '9:18.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 73-98
+    - ''
+    - ''
+  - - '9:07.0'
+    - D. Johnson makes 3-pt shot from 25 ft (assist by M. Maloney)
+    - "+3"
+    - 76-98
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 76-98
+    - ''
+    - Turnover by B. Outlaw (bad pass; steal by M. Maloney)
+  - - '8:46.0'
+    - C. Bowdler makes 2-pt shot at rim (assist by M. Maloney)
+    - "+2"
+    - 78-98
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 78-98
+    - ''
+    - B. Outlaw misses 2-pt shot at rim
+  - - '8:24.0'
+    - ''
+    - ''
+    - 78-98
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '8:24.0'
+    - ''
+    - ''
+    - 78-98
+    - ''
+    - Turnover by B. Outlaw (traveling)
+  - - '8:24.0'
+    - Official timeout
+    - ''
+    - 78-98
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 78-98
+    - ''
+    - D. Armstrong enters the game for B. Outlaw
+  - - '8:24.0'
+    - ''
+    - ''
+    - 78-98
+    - ''
+    - M. Miller enters the game for T. Hudson
+  - - '8:11.0'
+    - J. Terry makes 2-pt shot from 20 ft (assist by D. Johnson)
+    - "+2"
+    - 80-98
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 80-98
+    - ''
+    - P. Garrity misses 2-pt shot at rim
+  - - '7:42.0'
+    - Defensive rebound by C. Bowdler
+    - ''
+    - 80-98
+    - ''
+    - ''
+  - - '7:33.0'
+    - H. Mottola makes 2-pt shot from 10 ft (assist by D. Johnson)
+    - "+2"
+    - 82-98
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 82-98
+    - ''
+    - Turnover by P. Garrity (bad pass)
+  - - '7:06.0'
+    - J. Terry misses 2-pt shot from 10 ft
+    - ''
+    - 82-98
+    - ''
+    - ''
+  - - '7:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 82-98
+    - ''
+    - ''
+  - - '7:06.0'
+    - Loose ball foul by M. Miller
+    - ''
+    - 82-98
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 82-98
+    - ''
+    - B. Outlaw enters the game for M. Williams
+  - - '7:06.0'
+    - ''
+    - ''
+    - 82-98
+    - ''
+    - M. Doleac enters the game for P. Garrity
+  - - '6:59.0'
+    - H. Mottola makes 2-pt shot at rim (assist by M. Maloney)
+    - "+2"
+    - 84-98
+    - ''
+    - ''
+  - - '6:59.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 84-98
+    - ''
+    - ''
+  - - '6:59.0'
+    - H. Mottola misses free throw 1 of 1
+    - ''
+    - 84-98
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 84-98
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '6:48.0'
+    - ''
+    - ''
+    - 84-98
+    - ''
+    - Personal foul by H. Mottola
+  - - '6:48.0'
+    - ''
+    - ''
+    - 84-99
+    - "+1"
+    - J. Amaechi makes free throw 1 of 2
+  - - '6:48.0'
+    - ''
+    - ''
+    - 84-100
+    - "+1"
+    - J. Amaechi makes free throw 2 of 2
+  - - '6:34.0'
+    - M. Maloney misses 2-pt shot from 16 ft
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:32.0'
+    - Offensive rebound by Team
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:29.0'
+    - Offensive foul by H. Mottola
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:29.0'
+    - Turnover by H. Mottola (foul)
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 84-100
+    - ''
+    - J. Amaechi misses 2-pt shot from 21 ft
+  - - '6:09.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:02.0'
+    - C. Bowdler misses 2-pt shot from 14 ft
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 84-100
+    - ''
+    - Defensive rebound by J. Amaechi
+  - - '5:47.0'
+    - ''
+    - ''
+    - 84-100
+    - ''
+    - Offensive foul by M. Miller
+  - - '5:47.0'
+    - ''
+    - ''
+    - 84-100
+    - ''
+    - Turnover by M. Miller (foul)
+  - - '5:47.0'
+    - Atlanta full timeout
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '5:47.0'
+    - L. Wright enters the game for C. Bowdler
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '5:34.0'
+    - D. Johnson misses 3-pt shot from 26 ft
+    - ''
+    - 84-100
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 84-100
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '5:11.0'
+    - ''
+    - ''
+    - 84-102
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim (assist by M. Miller)
+  - - '4:59.0'
+    - Ill def tech foul by Team
+    - ''
+    - 84-102
+    - ''
+    - ''
+  - - '4:59.0'
+    - J. Terry makes free throw technical
+    - "+1"
+    - 85-102
+    - ''
+    - ''
+  - - '4:50.0'
+    - L. Wright misses 2-pt shot from 19 ft
+    - ''
+    - 85-102
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 85-102
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:34.0'
+    - ''
+    - ''
+    - 85-102
+    - ''
+    - B. Outlaw misses 2-pt shot from 8 ft (block by L. Wright)
+  - - '4:32.0'
+    - Defensive rebound by D. Johnson
+    - ''
+    - 85-102
+    - ''
+    - ''
+  - - '4:14.0'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 87-102
+    - ''
+    - ''
+  - - '4:14.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 87-102
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 87-102
+    - ''
+    - D. Reid enters the game for M. Doleac
+  - - '4:14.0'
+    - L. Wright makes free throw 1 of 1
+    - "+1"
+    - 88-102
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - M. Miller misses 3-pt shot from 27 ft
+  - - '3:50.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '3:34.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - D. Armstrong misses 3-pt shot from 26 ft
+  - - '3:32.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '3:32.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - Personal foul by L. Wright
+  - - '3:32.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - B. Outlaw misses free throw 1 of 2
+  - - '3:32.0'
+    - ''
+    - ''
+    - 88-102
+    - ''
+    - Offensive rebound by Team
+  - - '3:32.0'
+    - ''
+    - ''
+    - 88-103
+    - "+1"
+    - B. Outlaw makes free throw 2 of 2
+  - - '3:10.0'
+    - L. Wright misses 2-pt shot from 9 ft
+    - ''
+    - 88-103
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - Defensive rebound by J. Amaechi
+  - - '3:02.0'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - D. Armstrong misses 2-pt shot at rim
+  - - '3:00.0'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - Offensive rebound by D. Reid
+  - - '2:57.0'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - Turnover by D. Reid (bad pass; steal by D. Johnson)
+  - - '2:48.0'
+    - J. Terry misses 3-pt shot from 25 ft
+    - ''
+    - 88-103
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - Defensive rebound by M. Miller
+  - - '2:27.0'
+    - ''
+    - ''
+    - 88-105
+    - "+2"
+    - J. Amaechi makes 2-pt shot from 12 ft
+  - - '2:27.0'
+    - ''
+    - ''
+    - 88-105
+    - ''
+    - Shooting foul by H. Mottola
+  - - '2:27.0'
+    - ''
+    - ''
+    - 88-105
+    - ''
+    - Orlando full timeout
+  - - '2:27.0'
+    - C. Bowdler enters the game for J. Terry
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '2:27.0'
+    - C. Crawford enters the game for M. Maloney
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '2:27.0'
+    - A. Johnson enters the game for H. Mottola
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 88-106
+    - "+1"
+    - J. Amaechi makes free throw 1 of 1
+  - - '2:04.0'
+    - A. Johnson misses 2-pt shot from 15 ft (block by D. Reid)
+    - ''
+    - 88-106
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 88-106
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '1:58.0'
+    - ''
+    - ''
+    - 88-106
+    - ''
+    - D. Armstrong misses 2-pt shot at rim (block by D. Johnson)
+  - - '1:58.0'
+    - ''
+    - ''
+    - 88-106
+    - ''
+    - Offensive rebound by Team
+  - - '1:58.0'
+    - ''
+    - ''
+    - 88-106
+    - ''
+    - T. Hudson enters the game for D. Armstrong
+  - - '1:58.0'
+    - ''
+    - ''
+    - 88-106
+    - ''
+    - A. DeClercq enters the game for J. Amaechi
+  - - '1:52.0'
+    - ''
+    - ''
+    - 88-108
+    - "+2"
+    - T. Hudson makes 2-pt shot from 17 ft
+  - - '1:43.0'
+    - Shooting foul by D. Reid
+    - ''
+    - 88-108
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 88-108
+    - ''
+    - E. Perry enters the game for M. Miller
+  - - '1:43.0'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 89-108
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 89-108
+    - ''
+    - P. Garrity enters the game for B. Outlaw
+  - - '1:43.0'
+    - L. Wright misses free throw 2 of 2
+    - ''
+    - 89-108
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 89-108
+    - ''
+    - Defensive rebound by D. Reid
+  - - '1:21.0'
+    - ''
+    - ''
+    - 89-110
+    - "+2"
+    - T. Hudson makes 2-pt shot from 6 ft
+  - - '1:14.0'
+    - C. Crawford misses 2-pt shot from 19 ft
+    - ''
+    - 89-110
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 89-110
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '1:02.0'
+    - ''
+    - ''
+    - 89-112
+    - "+2"
+    - E. Perry makes 2-pt shot from 12 ft (assist by D. Reid)
+  - - '0:53.2'
+    - D. Johnson misses 2-pt shot from 6 ft
+    - ''
+    - 89-112
+    - ''
+    - ''
+  - - '0:51.0'
+    - ''
+    - ''
+    - 89-112
+    - ''
+    - Defensive rebound by E. Perry
+  - - '0:45.7'
+    - ''
+    - ''
+    - 89-112
+    - ''
+    - Turnover by A. DeClercq (bad pass; steal by A. Johnson)
+  - - '0:40.3'
+    - D. Johnson misses 2-pt shot at rim (block by D. Reid)
+    - ''
+    - 89-112
+    - ''
+    - ''
+  - - '0:37.0'
+    - ''
+    - ''
+    - 89-112
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '0:34.7'
+    - ''
+    - ''
+    - 89-114
+    - "+2"
+    - E. Perry makes 2-pt shot at rim (assist by T. Hudson)
+  - - '0:22.2'
+    - C. Crawford misses 2-pt shot at rim
+    - ''
+    - 89-114
+    - ''
+    - ''
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - Defensive rebound by Team
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - Loose ball foul by L. Wright
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - D. Reid misses free throw 1 of 2
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - Offensive rebound by Team
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - D. Reid misses free throw 2 of 2
+  - - '0:21.3'
+    - Defensive rebound by L. Wright
+    - ''
+    - 89-114
+    - ''
+    - ''
+  - - '0:21.3'
+    - ''
+    - ''
+    - 89-114
+    - ''
+    - ''
+  - - '0:14.1'
+    - A. Johnson makes 2-pt shot at rim
+    - "+2"
+    - 91-114
+    - ''
+    - ''
+  - - '0:14.1'
+    - ''
+    - ''
+    - 91-114
+    - ''
+    - Violation by D. Reid (def goaltending)
+  - - '0:14.1'
+    - Shooting foul by T. Hudson
+    - ''
+    - 91-114
+    - ''
+    - ''
+  - - '0:14.1'
+    - A. Johnson makes free throw 1 of 1
+    - "+1"
+    - 92-114
+    - ''
+    - ''
+  - - '0:14.1'
+    - ''
+    - ''
+    - 92-116
+    - "+2"
+    - A. Johnson makes 2-pt shot from 4 ft
+  - - '0:00.0'
+    - End of 4th quarter

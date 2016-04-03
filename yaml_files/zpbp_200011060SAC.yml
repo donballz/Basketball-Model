@@ -1,0 +1,2478 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: V. Divac vs. R. Wallace (D. Davis gains possession)'
+  - - '11:43.0'
+    - R. Wallace misses 2-pt shot from 8 ft (block by C. Webber)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by V. Divac
+  - - '11:22.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - V. Divac misses 2-pt shot from 5 ft (block by R. Wallace)
+  - - '11:20.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - D. Stoudamire misses 3-pt shot from 24 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:12.0'
+    - Offensive rebound by D. Davis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:01.0'
+    - Turnover by R. Wallace (bad pass; steal by D. Christie)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Webber misses 2-pt shot from 14 ft
+  - - '10:53.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:42.0'
+    - R. Wallace misses 2-pt shot from 17 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '10:33.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by P. Stojakovic (lost ball)
+  - - '10:22.0'
+    - Personal foul by C. Webber
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:15.0'
+    - D. Stoudamire misses 2-pt shot from 17 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by V. Divac
+  - - '10:09.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by V. Divac (bad pass; steal by D. Stoudamire)
+  - - '9:57.0'
+    - D. Davis misses 2-pt shot from 15 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '9:56.0'
+    - R. Wallace makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '9:56.0'
+    - Offensive rebound by R. Wallace
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:56.0'
+    - Shooting foul by B. Jackson
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:56.0'
+    - R. Wallace misses free throw 1 of 1
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by C. Webber
+  - - '9:37.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '9:35.0'
+    - Defensive rebound by S. Smith
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:29.0'
+    - S. Smith misses 3-pt shot from 24 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by V. Divac
+  - - '9:15.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - P. Stojakovic misses 2-pt shot from 21 ft
+  - - '9:12.0'
+    - Defensive rebound by S. Smith
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:04.0'
+    - D. Davis makes 2-pt shot from 3 ft (assist by S. Smith)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - C. Webber makes 2-pt shot from 4 ft
+  - - '8:22.0'
+    - Turnover by D. Davis (lost ball; steal by B. Jackson)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - B. Jackson makes 2-pt shot from 2 ft
+  - - '8:20.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Shooting foul by D. Stoudamire
+  - - '8:20.0'
+    - ''
+    - ''
+    - 4-5
+    - "+1"
+    - B. Jackson makes free throw 1 of 1
+  - - '8:08.0'
+    - S. Smith misses 2-pt shot from 5 ft
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Defensive rebound by V. Divac
+  - - '7:53.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - P. Stojakovic misses 2-pt shot from 1 ft (block by S. Pippen)
+  - - '7:50.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '7:34.0'
+    - D. Davis misses 2-pt shot from 14 ft
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '7:33.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '7:18.0'
+    - ''
+    - ''
+    - 4-7
+    - "+2"
+    - C. Webber makes 2-pt shot from 5 ft
+  - - '6:55.0'
+    - Turnover by R. Wallace (bad pass)
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - V. Divac misses 2-pt shot from 6 ft
+  - - '6:37.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '6:25.0'
+    - S. Smith misses 2-pt shot from 5 ft
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '6:24.0'
+    - Offensive rebound by S. Smith
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '6:17.0'
+    - S. Pippen misses 2-pt shot from 4 ft
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - Defensive rebound by B. Jackson
+  - - '6:09.0'
+    - ''
+    - ''
+    - 4-9
+    - "+2"
+    - C. Webber makes 2-pt shot from 11 ft (assist by B. Jackson)
+  - - '5:57.0'
+    - D. Stoudamire makes 2-pt shot from 5 ft
+    - "+2"
+    - 6-9
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - D. Christie misses 2-pt shot from 13 ft
+  - - '5:41.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '5:35.0'
+    - Turnover by S. Pippen (lost ball; steal by P. Stojakovic)
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 6-11
+    - "+2"
+    - V. Divac makes 2-pt shot from 20 ft (assist by B. Jackson)
+  - - '5:15.0'
+    - Portland full timeout
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '5:02.0'
+    - Offensive foul by S. Smith
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '5:02.0'
+    - Turnover by S. Smith (foul)
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 6-13
+    - "+2"
+    - C. Webber makes 2-pt shot from 16 ft (assist by B. Jackson)
+  - - '4:28.0'
+    - R. Wallace misses 2-pt shot from 3 ft (block by V. Divac)
+    - ''
+    - 6-13
+    - ''
+    - ''
+  - - '4:27.0'
+    - Offensive rebound by Team
+    - ''
+    - 6-13
+    - ''
+    - ''
+  - - '4:24.0'
+    - D. Stoudamire makes 2-pt shot from 22 ft (assist by S. Pippen)
+    - "+2"
+    - 8-13
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - B. Jackson misses 2-pt shot from 16 ft
+  - - '4:07.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '3:56.0'
+    - D. Stoudamire makes 2-pt shot from 19 ft (assist by S. Smith)
+    - "+2"
+    - 10-13
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - D. Christie makes 2-pt shot from 19 ft
+  - - '3:09.0'
+    - D. Stoudamire misses 2-pt shot from 18 ft
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '3:07.0'
+    - D. Davis misses 2-pt shot at rim
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '3:07.0'
+    - Offensive rebound by D. Davis
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - Defensive rebound by C. Webber
+  - - '3:00.0'
+    - ''
+    - ''
+    - 10-17
+    - "+2"
+    - V. Divac makes 2-pt shot from 4 ft (assist by C. Webber)
+  - - '2:40.0'
+    - R. Wallace makes 2-pt shot from 21 ft (assist by D. Stoudamire)
+    - "+2"
+    - 12-17
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - V. Divac misses 2-pt shot from 19 ft
+  - - '2:21.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '2:18.0'
+    - S. Pippen makes 2-pt shot from 5 ft (assist by D. Stoudamire)
+    - "+2"
+    - 14-17
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - D. Christie misses 2-pt shot from 19 ft
+  - - '2:07.0'
+    - Defensive rebound by Team
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '2:07.0'
+    - Loose ball foul by V. Divac
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '2:07.0'
+    - Portland full timeout
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - J. Barry enters the game for V. Divac
+  - - '2:07.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - L. Funderburke enters the game for D. Christie
+  - - '1:51.0'
+    - D. Stoudamire misses 2-pt shot from 5 ft
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:47.0'
+    - D. Davis misses 2-pt shot at rim
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:47.0'
+    - Offensive rebound by D. Davis
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Defensive rebound by L. Funderburke
+  - - '1:27.0'
+    - ''
+    - ''
+    - 14-19
+    - "+2"
+    - C. Webber makes 2-pt shot from 4 ft (assist by P. Stojakovic)
+  - - '1:07.0'
+    - S. Pippen misses 3-pt shot from 25 ft
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '1:05.0'
+    - S. Smith makes 2-pt shot at rim
+    - "+2"
+    - 16-19
+    - ''
+    - ''
+  - - '1:05.0'
+    - Offensive rebound by S. Smith
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 16-19
+    - ''
+    - P. Stojakovic misses 2-pt shot from 6 ft (block by R. Wallace)
+  - - '0:45.7'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:39.1'
+    - D. Davis makes 2-pt shot at rim (assist by S. Smith)
+    - "+2"
+    - 18-19
+    - ''
+    - ''
+  - - '0:15.5'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '0:15.1'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:01.9'
+    - D. Stoudamire misses 2-pt shot from 19 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by J. Barry
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:43.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Personal foul by S. Kemp
+  - - '11:39.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - J. Barry misses 3-pt shot from 25 ft
+  - - '11:37.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Offensive rebound by Team
+  - - '11:31.0'
+    - ''
+    - ''
+    - 18-21
+    - "+2"
+    - C. Webber makes 2-pt shot from 18 ft (assist by B. Jackson)
+  - - '11:10.0'
+    - Personal foul by L. Funderburke
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '11:03.0'
+    - Turnover by S. Kemp (lost ball; steal by J. Barry)
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Turnover by L. Funderburke (lost ball)
+  - - '10:35.0'
+    - D. Stoudamire misses 2-pt shot from 3 ft
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '10:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - S. Pollard enters the game for C. Webber
+  - - '10:24.0'
+    - Shooting foul by S. Pollard
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '10:24.0'
+    - R. Wallace makes free throw 1 of 2
+    - "+1"
+    - 19-21
+    - ''
+    - ''
+  - - '10:24.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 20-21
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 20-23
+    - "+2"
+    - S. Pollard makes 2-pt shot from 6 ft (assist by J. Barry)
+  - - '9:53.0'
+    - S. Kemp makes 2-pt shot from 6 ft
+    - "+2"
+    - 22-23
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - J. Barry misses 2-pt shot from 23 ft
+  - - '9:32.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '9:17.0'
+    - S. Augmon makes 2-pt shot from 8 ft
+    - "+2"
+    - 24-23
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - P. Stojakovic misses 2-pt shot from 15 ft
+  - - '8:53.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - L. Funderburke misses 2-pt shot at rim
+  - - '8:53.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Offensive rebound by L. Funderburke
+  - - '8:52.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Offensive rebound by L. Funderburke
+  - - '8:50.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - L. Funderburke misses 2-pt shot from 5 ft (block by S. Kemp)
+  - - '8:48.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - R. Wallace makes 2-pt shot from 2 ft (assist by B. Wells)
+    - "+2"
+    - 26-23
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - L. Funderburke misses 2-pt shot from 16 ft
+  - - '8:24.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '8:20.0'
+    - D. Stoudamire misses 2-pt shot from 21 ft
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Defensive rebound by L. Funderburke
+  - - '8:12.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - B. Jackson misses 2-pt shot from 2 ft
+  - - '8:11.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '8:04.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - P. Stojakovic misses 2-pt shot from 15 ft
+  - - '8:02.0'
+    - Defensive rebound by S. Augmon
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '7:57.0'
+    - B. Wells makes 2-pt shot at rim (assist by S. Augmon)
+    - "+2"
+    - 28-23
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Sacramento full timeout
+  - - '7:44.0'
+    - D. Davis enters the game for R. Wallace
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '7:44.0'
+    - G. Anthony enters the game for D. Stoudamire
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - D. Christie enters the game for P. Stojakovic
+  - - '7:44.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - N. Anderson enters the game for B. Jackson
+  - - '7:31.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Shooting foul by D. Davis
+  - - '7:31.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - L. Funderburke misses free throw 1 of 2
+  - - '7:31.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Offensive rebound by Team
+  - - '7:31.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - L. Funderburke misses free throw 2 of 2
+  - - '7:30.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '7:14.0'
+    - B. Wells misses 2-pt shot from 16 ft
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Defensive rebound by J. Barry
+  - - '7:07.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - N. Anderson misses 3-pt shot from 25 ft
+  - - '7:04.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '6:56.0'
+    - S. Kemp misses 2-pt shot from 22 ft
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Defensive rebound by Team
+  - - '6:44.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - S. Pollard misses 2-pt shot from 2 ft (block by S. Kemp)
+  - - '6:41.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Offensive rebound by N. Anderson
+  - - '6:40.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - N. Anderson misses 2-pt shot from 5 ft (block by S. Augmon)
+  - - '6:38.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Violation by D. Christie (kicked ball)
+  - - '6:34.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - C. Webber enters the game for L. Funderburke
+  - - '6:21.0'
+    - B. Wells misses 2-pt shot from 9 ft
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Defensive rebound by S. Pollard
+  - - '6:07.0'
+    - ''
+    - ''
+    - 28-25
+    - "+2"
+    - S. Pollard makes 2-pt shot from 2 ft (assist by D. Christie)
+  - - '6:07.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - Shooting foul by S. Augmon
+  - - '6:07.0'
+    - ''
+    - ''
+    - 28-26
+    - "+1"
+    - S. Pollard makes free throw 1 of 1
+  - - '5:53.0'
+    - S. Kemp misses 2-pt shot from 3 ft
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Defensive rebound by C. Webber
+  - - '5:40.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - S. Pollard misses 2-pt shot from 5 ft (block by D. Davis)
+  - - '5:36.0'
+    - Defensive rebound by G. Anthony
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '5:26.0'
+    - D. Davis misses 2-pt shot from 5 ft (block by S. Pollard)
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Defensive rebound by J. Barry
+  - - '5:18.0'
+    - ''
+    - ''
+    - 28-29
+    - "+3"
+    - J. Barry makes 3-pt shot from 25 ft
+  - - '4:59.0'
+    - D. Davis misses 2-pt shot from 4 ft
+    - ''
+    - 28-29
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 28-29
+    - ''
+    - Defensive rebound by Team
+  - - '4:59.0'
+    - ''
+    - ''
+    - 28-29
+    - ''
+    - Official timeout
+  - - '4:59.0'
+    - ''
+    - ''
+    - 28-29
+    - ''
+    - V. Divac enters the game for S. Pollard
+  - - '4:59.0'
+    - S. Smith enters the game for D. Davis
+    - ''
+    - 28-29
+    - ''
+    - ''
+  - - '4:59.0'
+    - R. Wallace enters the game for B. Wells
+    - ''
+    - 28-29
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 28-29
+    - ''
+    - J. Barry misses 2-pt shot from 4 ft
+  - - '4:38.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 28-29
+    - ''
+    - ''
+  - - '4:24.0'
+    - G. Anthony makes 3-pt shot from 25 ft (assist by S. Augmon)
+    - "+3"
+    - 31-29
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Personal foul by S. Kemp
+  - - '4:03.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Turnover by C. Webber (bad pass; steal by S. Kemp)
+  - - '4:02.0'
+    - Personal foul by V. Divac
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '3:47.0'
+    - S. Kemp misses 2-pt shot from 18 ft
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '3:45.0'
+    - Offensive rebound by S. Smith
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '3:35.0'
+    - G. Anthony makes 3-pt shot from 25 ft (assist by R. Wallace)
+    - "+3"
+    - 34-29
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 34-32
+    - "+3"
+    - N. Anderson makes 3-pt shot from 25 ft (assist by C. Webber)
+  - - '2:53.0'
+    - S. Kemp misses 2-pt shot from 21 ft
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Defensive rebound by J. Barry
+  - - '2:44.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - V. Divac misses 2-pt shot from 5 ft (block by S. Kemp)
+  - - '2:43.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Offensive rebound by D. Christie
+  - - '2:41.0'
+    - ''
+    - ''
+    - 34-34
+    - "+2"
+    - D. Christie makes 2-pt shot from 12 ft
+  - - '2:22.0'
+    - Turnover by S. Kemp (3 second)
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - Sacramento full timeout
+  - - '2:22.0'
+    - D. Davis enters the game for S. Kemp
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - Turnover by V. Divac (bad pass; steal by S. Augmon)
+  - - '1:58.0'
+    - Personal foul by D. Christie
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:50.0'
+    - R. Wallace misses 2-pt shot from 23 ft
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:48.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:43.0'
+    - S. Augmon misses 2-pt shot from 21 ft
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - Defensive rebound by Team
+  - - '1:34.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '1:32.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:24.0'
+    - S. Smith misses 2-pt shot from 18 ft
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - Defensive rebound by D. Christie
+  - - '1:17.0'
+    - ''
+    - ''
+    - 34-36
+    - "+2"
+    - C. Webber makes 2-pt shot from 3 ft (assist by J. Barry)
+  - - '0:55.9'
+    - R. Wallace misses 2-pt shot from 6 ft
+    - ''
+    - 34-36
+    - ''
+    - ''
+  - - '0:52.9'
+    - D. Davis misses 2-pt shot at rim
+    - ''
+    - 34-36
+    - ''
+    - ''
+  - - '0:52.9'
+    - Offensive rebound by D. Davis
+    - ''
+    - 34-36
+    - ''
+    - ''
+  - - '0:52.6'
+    - ''
+    - ''
+    - 34-36
+    - ''
+    - Defensive rebound by Team
+  - - '0:43.2'
+    - ''
+    - ''
+    - 34-36
+    - ''
+    - Personal foul by S. Augmon
+  - - '0:43.2'
+    - ''
+    - ''
+    - 34-37
+    - "+1"
+    - D. Christie makes free throw 1 of 2
+  - - '0:43.2'
+    - ''
+    - ''
+    - 34-38
+    - "+1"
+    - D. Christie makes free throw 2 of 2
+  - - '0:36.3'
+    - Personal foul by D. Christie
+    - ''
+    - 34-38
+    - ''
+    - ''
+  - - '0:36.3'
+    - S. Augmon makes free throw 1 of 2
+    - "+1"
+    - 35-38
+    - ''
+    - ''
+  - - '0:36.3'
+    - S. Augmon makes free throw 2 of 2
+    - "+1"
+    - 36-38
+    - ''
+    - ''
+  - - '0:24.9'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Turnover by C. Webber (traveling)
+  - - '0:02.9'
+    - S. Smith misses 2-pt shot from 3 ft
+    - ''
+    - 36-38
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Defensive rebound by J. Barry
+  - - '0:00.4'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - J. Barry misses 3-pt shot from 53 ft
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Offensive rebound by Team
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:50.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - P. Stojakovic misses 2-pt shot from 4 ft (block by S. Pippen)
+  - - '11:46.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 36-38
+    - ''
+    - ''
+  - - '11:43.0'
+    - S. Pippen makes 2-pt shot from 2 ft
+    - "+2"
+    - 38-38
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 38-40
+    - "+2"
+    - C. Webber makes 2-pt shot from 1 ft
+  - - '11:19.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - Shooting foul by S. Pippen
+  - - '11:19.0'
+    - ''
+    - ''
+    - 38-41
+    - "+1"
+    - C. Webber makes free throw 1 of 1
+  - - '11:05.0'
+    - S. Smith makes 2-pt shot from 9 ft (assist by S. Pippen)
+    - "+2"
+    - 40-41
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 40-41
+    - ''
+    - P. Stojakovic misses 2-pt shot from 20 ft
+  - - '10:40.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 40-41
+    - ''
+    - ''
+  - - '10:37.0'
+    - S. Pippen makes 2-pt shot from 1 ft (assist by D. Stoudamire)
+    - "+2"
+    - 42-41
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 42-41
+    - ''
+    - V. Divac misses 2-pt shot from 3 ft (block by R. Wallace)
+  - - '10:14.0'
+    - ''
+    - ''
+    - 42-41
+    - ''
+    - Offensive rebound by C. Webber
+  - - '10:11.0'
+    - ''
+    - ''
+    - 42-43
+    - "+2"
+    - C. Webber makes 2-pt shot from 5 ft
+  - - '9:51.0'
+    - S. Smith misses 3-pt shot from 23 ft
+    - ''
+    - 42-43
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - Defensive rebound by D. Christie
+  - - '9:42.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - D. Christie misses 3-pt shot from 25 ft
+  - - '9:39.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - Offensive rebound by V. Divac
+  - - '9:38.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - V. Divac misses 2-pt shot from 4 ft
+  - - '9:37.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - C. Webber misses 2-pt shot at rim
+  - - '9:37.0'
+    - ''
+    - ''
+    - 42-43
+    - ''
+    - Offensive rebound by C. Webber
+  - - '9:37.0'
+    - Defensive rebound by Team
+    - ''
+    - 42-43
+    - ''
+    - ''
+  - - '9:25.0'
+    - D. Davis makes 2-pt shot from 9 ft (assist by S. Pippen)
+    - "+2"
+    - 44-43
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 44-45
+    - "+2"
+    - P. Stojakovic makes 2-pt shot from 3 ft (assist by C. Webber)
+  - - '8:42.0'
+    - S. Smith misses 3-pt shot from 24 ft
+    - ''
+    - 44-45
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - Defensive rebound by Team
+  - - '8:27.0'
+    - ''
+    - ''
+    - 44-47
+    - "+2"
+    - V. Divac makes 2-pt shot from 5 ft (assist by B. Jackson)
+  - - '8:07.0'
+    - D. Davis misses 2-pt shot from 15 ft
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '8:06.0'
+    - Offensive rebound by D. Davis
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '7:55.0'
+    - R. Wallace misses 2-pt shot from 22 ft
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Defensive rebound by B. Jackson
+  - - '7:48.0'
+    - ''
+    - ''
+    - 44-49
+    - "+2"
+    - V. Divac makes 2-pt shot at rim (assist by C. Webber)
+  - - '7:36.0'
+    - S. Pippen makes 2-pt shot from 5 ft
+    - "+2"
+    - 46-49
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - D. Christie misses 2-pt shot from 12 ft
+  - - '7:12.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '7:04.0'
+    - S. Pippen misses 2-pt shot from 17 ft
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '7:00.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Shooting foul by R. Wallace
+  - - '7:00.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - B. Jackson misses free throw 1 of 2
+  - - '7:00.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Offensive rebound by Team
+  - - '7:00.0'
+    - ''
+    - ''
+    - 46-50
+    - "+1"
+    - B. Jackson makes free throw 2 of 2
+  - - '6:41.0'
+    - R. Wallace makes 2-pt shot from 5 ft (assist by S. Pippen)
+    - "+2"
+    - 48-50
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 48-52
+    - "+2"
+    - C. Webber makes 2-pt shot from 2 ft (assist by V. Divac)
+  - - '6:05.0'
+    - Offensive foul by R. Wallace
+    - ''
+    - 48-52
+    - ''
+    - ''
+  - - '6:05.0'
+    - Turnover by R. Wallace (foul)
+    - ''
+    - 48-52
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 48-54
+    - "+2"
+    - V. Divac makes 2-pt shot from 3 ft (assist by B. Jackson)
+  - - '5:27.0'
+    - Offensive foul by S. Smith
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '5:27.0'
+    - Turnover by S. Smith (foul)
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Sacramento full timeout
+  - - '5:06.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - D. Christie misses 3-pt shot from 25 ft
+  - - '5:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '5:04.0'
+    - Loose ball foul by C. Webber
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '4:45.0'
+    - R. Wallace misses 2-pt shot from 6 ft
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Defensive rebound by V. Divac
+  - - '4:33.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Turnover by P. Stojakovic (out of bounds)
+  - - '4:16.0'
+    - R. Wallace makes 2-pt shot at rim (assist by S. Pippen)
+    - "+2"
+    - 50-54
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 50-56
+    - "+2"
+    - V. Divac makes 2-pt shot from 6 ft (assist by P. Stojakovic)
+  - - '3:48.0'
+    - Personal foul by B. Jackson
+    - ''
+    - 50-56
+    - ''
+    - ''
+  - - '3:36.0'
+    - R. Wallace misses 2-pt shot from 21 ft
+    - ''
+    - 50-56
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 50-56
+    - ''
+    - Defensive rebound by B. Jackson
+  - - '3:18.0'
+    - ''
+    - ''
+    - 50-58
+    - "+2"
+    - C. Webber makes 2-pt shot from 17 ft
+  - - '2:58.0'
+    - R. Wallace misses 3-pt shot from 25 ft
+    - ''
+    - 50-58
+    - ''
+    - ''
+  - - '2:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 50-58
+    - ''
+    - ''
+  - - '2:53.0'
+    - Portland full timeout
+    - ''
+    - 50-58
+    - ''
+    - ''
+  - - '2:53.0'
+    - B. Wells enters the game for D. Davis
+    - ''
+    - 50-58
+    - ''
+    - ''
+  - - '2:53.0'
+    - S. Kemp enters the game for S. Smith
+    - ''
+    - 50-58
+    - ''
+    - ''
+  - - '2:38.0'
+    - S. Kemp makes 2-pt shot from 12 ft
+    - "+2"
+    - 52-58
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 52-58
+    - ''
+    - B. Jackson misses 2-pt shot from 20 ft
+  - - '2:12.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 52-58
+    - ''
+    - ''
+  - - '2:08.0'
+    - D. Stoudamire makes 2-pt shot from 20 ft (assist by S. Pippen)
+    - "+2"
+    - 54-58
+    - ''
+    - ''
+  - - '1:48.0'
+    - ''
+    - ''
+    - 54-58
+    - ''
+    - D. Christie misses 2-pt shot from 23 ft
+  - - '1:47.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 54-58
+    - ''
+    - ''
+  - - '1:42.0'
+    - D. Stoudamire misses 2-pt shot from 20 ft
+    - ''
+    - 54-58
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 54-58
+    - ''
+    - Defensive rebound by D. Christie
+  - - '1:34.0'
+    - ''
+    - ''
+    - 54-60
+    - "+2"
+    - C. Webber makes 2-pt shot from 20 ft (assist by D. Christie)
+  - - '1:12.0'
+    - Personal foul by C. Webber
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '1:03.0'
+    - S. Kemp misses 2-pt shot from 13 ft (block by C. Webber)
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '1:01.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '1:00.0'
+    - S. Kemp misses 2-pt shot from 14 ft
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '0:58.8'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Defensive rebound by Team
+  - - '0:41.9'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Shooting foul by S. Pippen
+  - - '0:41.9'
+    - ''
+    - ''
+    - 54-61
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '0:41.9'
+    - ''
+    - ''
+    - 54-62
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '0:25.3'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 54-62
+    - ''
+    - ''
+  - - '0:24.7'
+    - ''
+    - ''
+    - 54-62
+    - ''
+    - Defensive rebound by V. Divac
+  - - '0:06.9'
+    - ''
+    - ''
+    - 54-62
+    - ''
+    - Shooting foul by S. Kemp
+  - - '0:06.9'
+    - ''
+    - ''
+    - 54-63
+    - "+1"
+    - C. Webber makes free throw 1 of 2
+  - - '0:06.9'
+    - ''
+    - ''
+    - 54-63
+    - ''
+    - C. Webber misses free throw 2 of 2
+  - - '0:05.9'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - - '0:00.9'
+    - B. Wells misses 3-pt shot from 24 ft
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - B. Wells makes 2-pt shot from 10 ft
+    - "+2"
+    - 56-63
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - J. Barry misses 3-pt shot from 25 ft
+  - - '11:20.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '11:17.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - Shooting foul by S. Kemp
+  - - '11:17.0'
+    - ''
+    - ''
+    - 56-64
+    - "+1"
+    - S. Pollard makes free throw 1 of 2
+  - - '11:17.0'
+    - ''
+    - ''
+    - 56-65
+    - "+1"
+    - S. Pollard makes free throw 2 of 2
+  - - '11:02.0'
+    - Personal foul by S. Pollard
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '11:02.0'
+    - Personal foul by S. Pollard
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '10:55.0'
+    - S. Kemp misses 2-pt shot from 13 ft
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '10:49.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - Personal foul by B. Wells
+  - - '10:41.0'
+    - ''
+    - ''
+    - 56-67
+    - "+2"
+    - J. Barry makes 2-pt shot from 9 ft (assist by C. Webber)
+  - - '10:28.0'
+    - G. Anthony misses 3-pt shot from 23 ft
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '10:26.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '10:24.0'
+    - D. Davis misses 2-pt shot from 2 ft (block by S. Pollard)
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - Defensive rebound by J. Barry
+  - - '10:11.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - D. Christie misses 3-pt shot from 24 ft
+  - - '10:09.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - Offensive rebound by P. Stojakovic
+  - - '10:03.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - C. Webber misses 2-pt shot from 14 ft
+  - - '10:02.0'
+    - ''
+    - ''
+    - 56-69
+    - "+2"
+    - D. Christie makes 2-pt shot at rim
+  - - '10:02.0'
+    - ''
+    - ''
+    - 56-69
+    - ''
+    - Offensive rebound by D. Christie
+  - - '9:47.0'
+    - S. Kemp misses 2-pt shot from 20 ft
+    - ''
+    - 56-69
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 56-69
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '9:24.0'
+    - ''
+    - ''
+    - 56-69
+    - ''
+    - J. Barry misses 2-pt shot from 6 ft
+  - - '9:22.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 56-69
+    - ''
+    - ''
+  - - '9:19.0'
+    - B. Wells makes 2-pt shot from 3 ft (assist by S. Pippen)
+    - "+2"
+    - 58-69
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 58-69
+    - ''
+    - D. Christie misses 3-pt shot from 25 ft
+  - - '8:49.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '8:27.0'
+    - S. Pippen makes 3-pt shot from 25 ft (assist by B. Wells)
+    - "+3"
+    - 61-69
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - Sacramento full timeout
+  - - '8:12.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - V. Divac enters the game for S. Pollard
+  - - '8:06.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - J. Barry misses 3-pt shot from 25 ft
+  - - '8:02.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - Offensive rebound by V. Divac
+  - - '8:01.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - J. Barry misses 3-pt shot from 26 ft
+  - - '7:59.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 61-69
+    - ''
+    - ''
+  - - '7:54.0'
+    - Personal foul by V. Divac
+    - ''
+    - 61-69
+    - ''
+    - ''
+  - - '7:54.0'
+    - R. Wallace enters the game for S. Kemp
+    - ''
+    - 61-69
+    - ''
+    - ''
+  - - '7:46.0'
+    - B. Wells misses 2-pt shot from 5 ft
+    - ''
+    - 61-69
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 61-69
+    - ''
+    - Defensive rebound by D. Christie
+  - - '7:33.0'
+    - ''
+    - ''
+    - 61-71
+    - "+2"
+    - C. Webber makes 2-pt shot from 19 ft
+  - - '7:12.0'
+    - R. Wallace makes 2-pt shot from 9 ft
+    - "+2"
+    - 63-71
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 63-71
+    - ''
+    - Turnover by J. Barry (bad pass; steal by S. Pippen)
+  - - '6:47.0'
+    - S. Pippen makes 2-pt shot at rim
+    - "+2"
+    - 65-71
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 65-71
+    - ''
+    - V. Divac misses 2-pt shot from 5 ft
+  - - '6:25.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '6:17.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '6:17.0'
+    - R. Wallace makes free throw 1 of 2
+    - "+1"
+    - 66-71
+    - ''
+    - ''
+  - - '6:17.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 67-71
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 67-71
+    - ''
+    - Personal foul by D. Davis
+  - - '6:03.0'
+    - ''
+    - ''
+    - 67-71
+    - ''
+    - B. Jackson enters the game for D. Christie
+  - - '5:59.0'
+    - ''
+    - ''
+    - 67-71
+    - ''
+    - J. Barry misses 3-pt shot from 25 ft
+  - - '5:57.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 67-71
+    - ''
+    - ''
+  - - '5:49.0'
+    - R. Wallace makes 2-pt shot from 4 ft (assist by B. Wells)
+    - "+2"
+    - 69-71
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Violation by C. Webber (def goaltending)
+  - - '5:37.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Personal foul by D. Davis
+  - - '5:37.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Official timeout
+  - - '5:37.0'
+    - D. Stoudamire enters the game for G. Anthony
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 69-74
+    - "+3"
+    - J. Barry makes 3-pt shot from 26 ft (assist by V. Divac)
+  - - '4:55.0'
+    - D. Stoudamire misses 3-pt shot from 25 ft
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - Defensive rebound by V. Divac
+  - - '4:30.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - C. Webber misses 2-pt shot from 8 ft
+  - - '4:27.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - Violation by C. Webber (illegal defense)
+  - - '4:18.0'
+    - S. Smith enters the game for B. Wells
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '4:18.0'
+    - Portland 20 second timeout
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '4:04.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - C. Webber misses 2-pt shot from 7 ft
+  - - '3:51.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '3:38.0'
+    - R. Wallace misses 2-pt shot at rim (block by V. Divac)
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '3:37.0'
+    - Offensive rebound by R. Wallace
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '3:37.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '3:37.0'
+    - R. Wallace makes free throw 1 of 2
+    - "+1"
+    - 70-74
+    - ''
+    - ''
+  - - '3:37.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 71-74
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - Personal foul by R. Wallace
+  - - '3:23.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - C. Webber misses free throw 1 of 2
+  - - '3:23.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - Offensive rebound by Team
+  - - '3:23.0'
+    - ''
+    - ''
+    - 71-75
+    - "+1"
+    - C. Webber makes free throw 2 of 2
+  - - '3:07.0'
+    - Turnover by S. Pippen (bad pass; steal by J. Barry)
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 71-75
+    - ''
+    - P. Stojakovic misses 3-pt shot from 24 ft
+  - - '2:46.0'
+    - Defensive rebound by S. Smith
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '2:31.0'
+    - R. Wallace makes 2-pt shot from 15 ft (assist by D. Davis)
+    - "+2"
+    - 73-75
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - P. Stojakovic misses 2-pt shot from 18 ft
+  - - '2:08.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:52.0'
+    - D. Stoudamire misses 2-pt shot from 18 ft
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - Defensive rebound by V. Divac
+  - - '1:40.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - Sacramento full timeout
+  - - '1:29.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - C. Webber misses 2-pt shot from 7 ft
+  - - '1:29.0'
+    - Defensive rebound by Team
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:12.0'
+    - Shooting foul by V. Divac
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:12.0'
+    - R. Wallace misses free throw 1 of 2
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:12.0'
+    - R. Wallace misses free throw 2 of 2
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - Defensive rebound by V. Divac
+  - - '0:56.9'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - C. Webber misses 2-pt shot from 19 ft
+  - - '0:55.2'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '0:34.5'
+    - R. Wallace makes 2-pt shot from 9 ft
+    - "+2"
+    - 75-75
+    - ''
+    - ''
+  - - '0:34.5'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Sacramento full timeout
+  - - '0:22.3'
+    - ''
+    - ''
+    - 75-77
+    - "+2"
+    - V. Divac makes 2-pt shot from 2 ft (assist by C. Webber)
+  - - '0:11.5'
+    - Turnover by S. Pippen (lost ball)
+    - ''
+    - 75-77
+    - ''
+    - ''
+  - - '0:11.1'
+    - ''
+    - ''
+    - 75-77
+    - ''
+    - Loose ball foul by S. Pippen
+  - - '0:11.1'
+    - ''
+    - ''
+    - 75-78
+    - "+1"
+    - B. Jackson makes free throw 1 of 2
+  - - '0:11.1'
+    - ''
+    - ''
+    - 75-79
+    - "+1"
+    - B. Jackson makes free throw 2 of 2
+  - - '0:11.1'
+    - Portland full timeout
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '0:11.1'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '0:04.9'
+    - R. Wallace misses 3-pt shot from 25 ft
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Defensive rebound by B. Jackson
+  - - '0:00.0'
+    - End of 4th quarter

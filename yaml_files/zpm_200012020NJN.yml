@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'John Amaechi (On: +11&#9642;Off: +10&#9642;Net: +1)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 89/
+    - 160/+4
+    - 250/0
+    - 250/
+    - 'Darrell Armstrong (On: +9&#9642;Off: +12&#9642;Net: -3)'
+    - |2-
+
+      +5
+    - 210/+5
+    - 130/
+    - 160/+4
+    - 250/0
+    - 249/
+    - 'Michael Doleac (On: -7&#9642;Off: +28&#9642;Net: -35)'
+    - |2-
+
+      +3
+    - 145/+3
+    - 355/
+    - 92/-7
+    - 381/
+    - 26/-3
+    - 'Tracy McGrady (On: +27&#9642;Off: -6&#9642;Net: +33)'
+    - |2-
+
+      +7
+    - 244/+7
+    - 92/
+    - 163/+4
+    - 250/0
+    - 218/+16
+    - 31/
+    - 'Bo Outlaw (On: +27&#9642;Off: -6&#9642;Net: +33)'
+    - |2-
+
+      +7
+    - 244/+7
+    - 80/
+    - 161/+4
+    - 13/
+    - 249/0
+    - 218/+16
+    - 32/
+    - 'Pat Garrity (On: +17&#9642;Off: +4&#9642;Net: +13)'
+    - "\n"
+    - 149/
+    - 101/+4
+    - 87/-3
+    - 412/
+    - 218/+16
+    - 31/
+    - 'Troy Hudson (On: +12&#9642;Off: +9&#9642;Net: +3)'
+    - "\n"
+    - 213/
+    - 37/+2
+    - 87/-3
+    - 413/
+    - 249/+13
+    - 'Mike Miller (On: +5&#9642;Off: +16&#9642;Net: -11)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 164/+1
+    - 74/
+    - 10/+2
+    - 95/
+    - 82/+5
+    - 293/
+    - 28/-3
+    - 'Monty Williams (On: +12&#9642;Off: +9&#9642;Net: +3)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 83/-3
+    - 87/
+    - 79/0
+    - 178/
+    - 71/+2
+    - 249/+13
+    - 'Andrew DeClercq (On: -8&#9642;Off: +29&#9642;Net: -37)'
+    - "\n"
+    - 250/
+    - 69/-5
+    - 654/
+    - 27/-3
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Evan Eschmeyer (On: -5&#9642;Off: -16&#9642;Net: +11)'
+    - |2-
+
+      -6
+    - 80/-6
+    - 420/
+    - 175/+1
+    - 325/
+    - 'Kendall Gill (On: -1&#9642;Off: -20&#9642;Net: +19)'
+    - |2-
+
+      -5
+    - 209/-5
+    - 211/
+    - 79/0
+    - 159/+5
+    - 225/
+    - 115/-1
+    - 'Stephen Jackson (On: -13&#9642;Off: -8&#9642;Net: -5)'
+    - |2-
+
+      -8
+    - 111/-8
+    - 176/
+    - 212/-2
+    - 131/+5
+    - 209/
+    - 137/-8
+    - 21/
+    - 'Stephon Marbury (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - |2-
+
+      -7
+    - 244/-7
+    - 176/
+    - 66/+2
+    - 13/
+    - 249/0
+    - 131/-12
+    - 118/
+    - 'Kenyon Martin (On: -6&#9642;Off: -15&#9642;Net: +9)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 33/+1
+    - 159/
+    - 24/+1
+    - 33/
+    - 124/+5
+    - 215/
+    - 159/-6
+    - 'Aaron Williams (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - "\n"
+    - 81/
+    - 168/-1
+    - 249/-1
+    - 131/
+    - 119/-5
+    - 160/-10
+    - 89/
+    - 'Johnny Newman (On: -11&#9642;Off: -10&#9642;Net: -1)'
+    - "\n"
+    - 113/
+    - 136/+1
+    - 188/0
+    - 193/
+    - 117/-5
+    - 84/-7
+    - 166/
+    - 'Lucious Harris (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - "\n"
+    - 212/
+    - 37/-2
+    - 164/-1
+    - 55/
+    - 29/-2
+    - 162/
+    - 87/-5
+    - 84/-7
+    - 165/
+    - 'Sherman Douglas (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 165/-1
+    - 74/
+    - 10/-2
+    - 178/
+    - 71/-1
+    - 249/-13
+    - 'Soumaila Samake (On: -3&#9642;Off: -18&#9642;Net: +15)'
+    - "\n"
+    - 916/
+    - 86/-3
+    - 'Kevin Ollie (On: +2&#9642;Off: -23&#9642;Net: +25)'
+    - "\n"
+    - 985/
+    - 17/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

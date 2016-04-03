@@ -1,0 +1,223 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jonathan Bender (On: -10&#9642;Off: -7&#9642;Net: -3)'
+    - |2-
+
+      -13
+    - 190/-13
+    - 308/
+    - 1/-2
+    - 168/
+    - 82/+1
+    - 249/+4
+    - 'Travis Best (On: -11&#9642;Off: -6&#9642;Net: -5)'
+    - |2-
+
+      -13
+    - 189/-13
+    - 60/
+    - 116/+2
+    - 70/
+    - 30/-1
+    - 32/
+    - 77/-4
+    - 90/
+    - 81/+1
+    - 249/+4
+    - 'Austin Croshere (On: -18&#9642;Off: +1&#9642;Net: -19)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 64/+3
+    - 40/
+    - 77/-6
+    - 27/
+    - 41/-1
+    - 243/-9
+    - 255/
+    - 'Reggie Miller (On: -25&#9642;Off: +8&#9642;Net: -33)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 45/
+    - 205/-10
+    - 167/-10
+    - 332/
+    - 'Jalen Rose (On: -21&#9642;Off: +4&#9642;Net: -25)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 41/+3
+    - 80/
+    - 129/-9
+    - 167/-10
+    - 331/
+    - 'Al Harrington (On: -1&#9642;Off: -16&#9642;Net: +15)'
+    - "\n"
+    - 192/
+    - 57/+8
+    - 182/-3
+    - 67/
+    - 166/-10
+    - 79/
+    - 4/0
+    - 249/+4
+    - 'Jermaine O''Neal (On: +6&#9642;Off: -23&#9642;Net: +29)'
+    - "\n"
+    - 192/
+    - 57/+8
+    - 98/+3
+    - 68/
+    - 83/-4
+    - 82/
+    - 167/-5
+    - 249/+4
+    - 'Derrick McKey (On: -9&#9642;Off: -8&#9642;Net: -1)'
+    - "\n"
+    - 318/
+    - 94/-6
+    - 62/
+    - 19/-1
+    - 173/
+    - 82/+1
+    - 38/-3
+    - 210/
+    - 'Zan Tabak (On: -3&#9642;Off: -14&#9642;Net: +11)'
+    - "\n"
+    - 438/
+    - 18/-3
+    - 545/
+    - 'Jeff Foster (On: +7&#9642;Off: -24&#9642;Net: +31)'
+    - "\n"
+    - 791/
+    - 211/+7
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +34&#9642;Off: -17&#9642;Net: +51)'
+    - |2-
+
+      +13
+    - 190/+13
+    - 60/
+    - 250/+7
+    - 250/+9
+    - 79/+5
+    - 169/
+    - 'Rick Fox (On: +20&#9642;Off: -3&#9642;Net: +23)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 69/
+    - 97/+5
+    - 83/
+    - 167/+10
+    - 332/
+    - 'Horace Grant (On: +23&#9642;Off: -6&#9642;Net: +29)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 121/
+    - 129/+9
+    - 243/+9
+    - 256/
+    - 'Ron Harper (On: +23&#9642;Off: -6&#9642;Net: +29)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 121/
+    - 129/+9
+    - 250/+9
+    - 249/
+    - 'Shaquille O''Neal (On: +16&#9642;Off: +1&#9642;Net: +15)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 117/-2
+    - 50/
+    - 83/+4
+    - 0/
+    - 243/+9
+    - 255/
+    - 'Brian Shaw (On: -9&#9642;Off: +26&#9642;Net: -35)'
+    - "\n"
+    - 192/
+    - 57/-8
+    - 15/0
+    - 233/
+    - 1/+2
+    - 249/
+    - 42/+6
+    - 40/
+    - 166/-9
+    - 'Robert Horry (On: +12&#9642;Off: +5&#9642;Net: +7)'
+    - "\n"
+    - 249/
+    - 163/+3
+    - 7/
+    - 34/+4
+    - 294/
+    - 151/+5
+    - 99/
+    - 'Mike Penberthy (On: -7&#9642;Off: +24&#9642;Net: -31)'
+    - "\n"
+    - 249/
+    - 117/-2
+    - 92/
+    - 36/-1
+    - 251/
+    - 4/0
+    - 248/-4
+    - 'Devean George (On: -13&#9642;Off: +30&#9642;Net: -43)'
+    - "\n"
+    - 266/
+    - 48/-3
+    - 431/
+    - 4/0
+    - 47/
+    - 202/-10
+    - 'Mark Madsen (On: -11&#9642;Off: +28&#9642;Net: -39)'
+    - "\n"
+    - 499/
+    - 0/0
+    - 249/
+    - 1/-2
+    - 154/
+    - 95/-9
+    - 'Isaiah Rider (On: +1&#9642;Off: +16&#9642;Net: -15)'
+    - "\n"
+    - 669/
+    - 78/+1
+    - 254/
+    - 'Greg Foster (On: -4&#9642;Off: +21&#9642;Net: -25)'
+    - "\n"
+    - 752/
+    - 250/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

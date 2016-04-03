@@ -1,0 +1,211 @@
+---
+- name: Plus-Minus
+  data:
+  - - Houston Rockets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shandon Anderson (On: +2&#9642;Off: -12&#9642;Net: +14)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 32/+2
+    - 218/
+    - 194/-4
+    - 305/
+    - 'Steve Francis (On: -3&#9642;Off: -7&#9642;Net: +4)'
+    - |2-
+
+      +4
+    - 41/+4
+    - 64/
+    - 144/-1
+    - 113/+1
+    - 91/
+    - 46/-2
+    - 249/-4
+    - 120/-1
+    - 127/
+    - 'Moochie Norris (On: -12&#9642;Off: +2&#9642;Net: -14)'
+    - |2-
+
+      +3
+    - 180/+3
+    - 182/
+    - 88/-6
+    - 48/
+    - 158/-7
+    - 219/
+    - 122/-2
+    - 'Maurice Taylor (On: -11&#9642;Off: +1&#9642;Net: -12)'
+    - |2-
+
+      +3
+    - 154/+3
+    - 166/
+    - 130/-3
+    - 48/
+    - 158/-7
+    - 151/
+    - 190/-4
+    - 'Kenny Thomas (On: -2&#9642;Off: -8&#9642;Net: +6)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 68/-2
+    - 136/
+    - 46/-2
+    - 249/-4
+    - 13/+3
+    - 100/
+    - 135/-1
+    - 'Cuttino Mobley (On: -5&#9642;Off: -5&#9642;Net: 0)'
+    - "\n"
+    - 45/
+    - 54/+1
+    - 84/
+    - 65/+1
+    - 249/-7
+    - 164/
+    - 85/+3
+    - 250/-3
+    - 'Matt Bullard (On: -5&#9642;Off: -5&#9642;Net: 0)'
+    - "\n"
+    - 154/
+    - 95/+1
+    - 68/-2
+    - 345/
+    - 19/+2
+    - 80/
+    - 236/-6
+    - 'Walt Williams (On: -11&#9642;Off: +1&#9642;Net: -12)'
+    - "\n"
+    - 285/
+    - 214/-9
+    - 195/
+    - 55/0
+    - 110/-2
+    - 139/
+    - 'Carlos Rogers (On: -3&#9642;Off: -7&#9642;Net: +4)'
+    - "\n"
+    - 320/
+    - 179/-5
+    - 185/
+    - 65/+1
+    - 58/+1
+    - 191/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - |2-
+
+      -6
+    - 193/-6
+    - 154/
+    - 152/+6
+    - 178/+5
+    - 85/
+    - 236/+6
+    - 'Kevin Garnett (On: +6&#9642;Off: +4&#9642;Net: +2)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 31/-2
+    - 88/
+    - 130/+8
+    - 77/+1
+    - 105/
+    - 65/-1
+    - 58/
+    - 192/+4
+    - 'Sam Mitchell (On: -11&#9642;Off: +21&#9642;Net: -32)'
+    - |2-
+
+      -8
+    - 112/-8
+    - 13/
+    - 124/+2
+    - 31/-2
+    - 381/
+    - 85/-3
+    - 103/0
+    - 147/
+    - 'Rasho Nesterovic (On: 0&#9642;Off: +10&#9642;Net: -10)'
+    - |2-
+
+      -8
+    - 112/-8
+    - 173/
+    - 78/+1
+    - 136/
+    - 158/+7
+    - 341/
+    - 'Wally Szczerbiak (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - |2-
+
+      -6
+    - 120/-6
+    - 165/
+    - 214/+9
+    - 178/+5
+    - 71/
+    - 0/0
+    - 249/+3
+    - 'Chauncey Billups (On: +9&#9642;Off: +1&#9642;Net: +8)'
+    - "\n"
+    - 115/
+    - 134/+4
+    - 93/+1
+    - 156/
+    - 249/+4
+    - 13/-3
+    - 91/
+    - 145/+3
+    - 'LaPhonso Ellis (On: +13&#9642;Off: -3&#9642;Net: +16)'
+    - "\n"
+    - 115/
+    - 134/+4
+    - 138/+3
+    - 105/
+    - 6/+2
+    - 80/
+    - 59/+1
+    - 214/
+    - 144/+3
+    - 'Anthony Peeler (On: +8&#9642;Off: +2&#9642;Net: +6)'
+    - "\n"
+    - 197/
+    - 53/+2
+    - 249/+7
+    - 183/
+    - 66/-1
+    - 104/0
+    - 145/
+    - 'Reggie Slater (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 390/
+    - 97/+2
+    - 154/
+    - 106/+2
+    - 53/-1
+    - 198/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,2634 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Garnett vs. P. Ewing (R. Nesterovic gains possession)'
+  - - '11:49.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by K. Garnett (bad pass; steal by R. Lewis)
+  - - '11:43.0'
+    - G. Payton misses 2-pt shot from 19 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:19.0'
+    - J. McCoy makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - K. Garnett misses 2-pt shot from 6 ft
+  - - '11:03.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:51.0'
+    - B. Barry misses 3-pt shot from 25 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by R. Nesterovic
+  - - '10:42.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Shooting foul by J. McCoy
+  - - '10:42.0'
+    - ''
+    - ''
+    - 2-1
+    - "+1"
+    - A. Peeler makes free throw 1 of 2
+  - - '10:42.0'
+    - ''
+    - ''
+    - 2-2
+    - "+1"
+    - A. Peeler makes free throw 2 of 2
+  - - '10:32.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '10:13.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - K. Garnett misses 2-pt shot from 18 ft
+  - - '10:11.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:59.0'
+    - J. McCoy misses 2-pt shot from 8 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '9:58.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Loose ball foul by J. McCoy
+  - - '9:37.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - K. Garnett misses 2-pt shot from 6 ft
+  - - '9:35.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - R. Nesterovic makes 2-pt shot at rim
+  - - '9:35.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Offensive rebound by R. Nesterovic
+  - - '9:30.0'
+    - Turnover by J. McCoy (lost ball)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 18 ft (assist by K. Garnett)
+  - - '9:00.0'
+    - R. Lewis misses 3-pt shot from 25 ft
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '8:52.0'
+    - ''
+    - ''
+    - 2-8
+    - "+2"
+    - A. Peeler makes 2-pt shot at rim
+  - - '8:40.0'
+    - Turnover by G. Payton (bad pass)
+    - ''
+    - 2-8
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 2-8
+    - ''
+    - T. Brandon misses 2-pt shot from 21 ft
+  - - '8:29.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 2-8
+    - ''
+    - ''
+  - - '8:21.0'
+    - J. McCoy makes 2-pt shot at rim
+    - "+2"
+    - 4-8
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - A. Peeler misses 2-pt shot from 19 ft
+  - - '8:01.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '7:51.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - R. Nesterovic misses 2-pt shot from 7 ft
+  - - '7:46.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '7:43.0'
+    - G. Payton misses 2-pt shot from 8 ft
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '7:38.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Turnover by T. Brandon (lost ball; steal by B. Barry)
+  - - '7:33.0'
+    - R. Lewis makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '7:33.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:33.0'
+    - R. Lewis misses free throw 1 of 1
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by R. Nesterovic
+  - - '7:19.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - A. Peeler misses 2-pt shot from 6 ft (block by P. Ewing)
+  - - '7:17.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Offensive rebound by R. Nesterovic
+  - - '7:16.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Personal foul by G. Payton
+  - - '7:10.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - A. Peeler misses 2-pt shot at rim
+  - - '7:08.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:05.0'
+    - B. Barry misses 3-pt shot from 25 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '6:45.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Personal foul by J. McCoy
+  - - '6:45.0'
+    - V. Baker enters the game for J. McCoy
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - R. Nesterovic misses 2-pt shot from 17 ft
+  - - '6:32.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '6:27.0'
+    - G. Payton misses 2-pt shot from 17 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '6:22.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Offensive foul by A. Peeler
+  - - '6:22.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Turnover by A. Peeler (foul)
+  - - '6:00.0'
+    - Turnover by V. Baker (lost ball; steal by K. Garnett)
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 6-10
+    - "+2"
+    - T. Brandon makes 2-pt shot at rim (assist by K. Garnett)
+  - - '5:27.0'
+    - R. Lewis misses 2-pt shot from 17 ft (block by A. Peeler)
+    - ''
+    - 6-10
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 6-10
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '5:23.0'
+    - ''
+    - ''
+    - 6-12
+    - "+2"
+    - T. Brandon makes 2-pt shot from 7 ft (assist by W. Szczerbiak)
+  - - '5:11.0'
+    - R. Lewis misses 2-pt shot from 20 ft
+    - ''
+    - 6-12
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 6-12
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '4:49.0'
+    - ''
+    - ''
+    - 6-14
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim
+  - - '4:36.0'
+    - Turnover by G. Payton (bad pass; steal by R. Nesterovic)
+    - ''
+    - 6-14
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 6-16
+    - "+2"
+    - T. Brandon makes 2-pt shot from 20 ft (assist by K. Garnett)
+  - - '4:05.0'
+    - R. Lewis makes 2-pt shot at rim (assist by P. Ewing)
+    - "+2"
+    - 8-16
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 8-18
+    - "+2"
+    - R. Nesterovic makes 2-pt shot at rim (assist by W. Szczerbiak)
+  - - '3:29.0'
+    - G. Payton makes 2-pt shot from 13 ft
+    - "+2"
+    - 10-18
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 10-18
+    - ''
+    - Personal foul by V. Baker
+  - - '3:10.0'
+    - R. Patterson enters the game for B. Barry
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '3:10.0'
+    - E. Davis enters the game for P. Ewing
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 10-19
+    - "+1"
+    - K. Garnett makes free throw 1 of 2
+  - - '3:10.0'
+    - ''
+    - ''
+    - 10-20
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '2:53.0'
+    - V. Baker makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 12-20
+    - ''
+    - ''
+  - - '2:53.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '2:53.0'
+    - Seattle full timeout
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - D. Garrett enters the game for R. Nesterovic
+  - - '2:53.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - C. Billups enters the game for T. Brandon
+  - - '2:53.0'
+    - V. Baker makes free throw 1 of 1
+    - "+1"
+    - 13-20
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 13-20
+    - ''
+    - A. Peeler misses 3-pt shot from 27 ft
+  - - '2:33.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 13-20
+    - ''
+    - ''
+  - - '2:22.0'
+    - R. Lewis makes 2-pt shot from 11 ft
+    - "+2"
+    - 15-20
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 15-20
+    - ''
+    - A. Peeler misses 2-pt shot from 12 ft
+  - - '1:56.0'
+    - ''
+    - ''
+    - 15-20
+    - ''
+    - W. Szczerbiak misses 2-pt shot at rim
+  - - '1:56.0'
+    - ''
+    - ''
+    - 15-20
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '1:55.0'
+    - ''
+    - ''
+    - 15-22
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim
+  - - '1:55.0'
+    - ''
+    - ''
+    - 15-22
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '1:30.0'
+    - V. Baker makes 2-pt shot from 17 ft (assist by R. Lewis)
+    - "+2"
+    - 17-22
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 17-24
+    - "+2"
+    - K. Garnett makes 2-pt shot from 20 ft
+  - - '0:58.9'
+    - V. Baker misses 2-pt shot from 6 ft
+    - ''
+    - 17-24
+    - ''
+    - ''
+  - - '0:56.9'
+    - ''
+    - ''
+    - 17-24
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '0:47.9'
+    - ''
+    - ''
+    - 17-24
+    - ''
+    - Turnover by C. Billups (bad pass; steal by R. Patterson)
+  - - '0:43.2'
+    - G. Payton makes 2-pt shot at rim (assist by E. Davis)
+    - "+2"
+    - 19-24
+    - ''
+    - ''
+  - - '0:43.2'
+    - Shooting foul by K. Garnett
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '0:43.2'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '0:43.2'
+    - ''
+    - ''
+    - 19-24
+    - ''
+    - L. Ellis enters the game for K. Garnett
+  - - '0:43.2'
+    - G. Payton makes free throw 1 of 1
+    - "+1"
+    - 20-24
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 20-26
+    - "+2"
+    - A. Peeler makes 2-pt shot at rim
+  - - '0:15.9'
+    - D. Mason makes 2-pt shot from 18 ft (assist by R. Patterson)
+    - "+2"
+    - 22-26
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - C. Billups misses 3-pt shot from 25 ft
+  - - '0:01.1'
+    - Defensive rebound by D. Mason
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:42.0'
+    - R. Patterson misses free throw 1 of 2
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:42.0'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 23-26
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - L. Ellis misses 2-pt shot from 3 ft
+  - - '11:24.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '11:17.0'
+    - Offensive foul by R. Patterson
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '11:17.0'
+    - Turnover by R. Patterson (foul)
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - C. Billups misses 2-pt shot from 20 ft
+  - - '11:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '10:52.0'
+    - D. Mason makes 2-pt shot at rim
+    - "+2"
+    - 25-26
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 25-28
+    - "+2"
+    - T. Brandon makes 2-pt shot from 20 ft (assist by C. Billups)
+  - - '10:25.0'
+    - Turnover by R. Patterson (lost ball; steal by T. Brandon)
+    - ''
+    - 25-28
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - Shooting foul by S. Williams
+  - - '10:11.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - R. Slater enters the game for D. Garrett
+  - - '10:11.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - L. Ellis misses free throw 1 of 2
+  - - '10:11.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - Offensive rebound by Team
+  - - '10:11.0'
+    - ''
+    - ''
+    - 25-29
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '9:59.0'
+    - Shooting foul by R. Slater
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '9:59.0'
+    - V. Baker makes free throw 1 of 2
+    - "+1"
+    - 26-29
+    - ''
+    - ''
+  - - '9:59.0'
+    - V. Baker misses free throw 2 of 2
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '9:43.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Turnover by R. Slater (lost ball; steal by E. Davis)
+  - - '9:41.0'
+    - Offensive foul by V. Baker
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '9:41.0'
+    - Turnover by V. Baker (foul)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 26-31
+    - "+2"
+    - C. Billups makes 2-pt shot from 18 ft
+  - - '9:15.0'
+    - R. Patterson misses 2-pt shot at rim
+    - ''
+    - 26-31
+    - ''
+    - ''
+  - - '9:13.0'
+    - V. Baker makes 2-pt shot at rim
+    - "+2"
+    - 28-31
+    - ''
+    - ''
+  - - '9:13.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - R. Slater misses 2-pt shot at rim (block by V. Baker)
+  - - '8:49.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '8:48.0'
+    - Turnover by D. Mason (off goaltending)
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - Official timeout
+  - - '8:48.0'
+    - R. Wolkowyski enters the game for V. Baker
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - S. Mitchell enters the game for W. Szczerbiak
+  - - '8:25.0'
+    - ''
+    - ''
+    - 28-33
+    - "+2"
+    - R. Slater makes 2-pt shot at rim (assist by T. Brandon)
+  - - '8:10.0'
+    - Turnover by R. Patterson (bad pass; steal by C. Billups)
+    - ''
+    - 28-33
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 28-33
+    - ''
+    - Shooting foul by E. Davis
+  - - '8:06.0'
+    - ''
+    - ''
+    - 28-34
+    - "+1"
+    - T. Brandon makes free throw 1 of 2
+  - - '8:06.0'
+    - ''
+    - ''
+    - 28-35
+    - "+1"
+    - T. Brandon makes free throw 2 of 2
+  - - '7:57.0'
+    - Turnover by E. Davis (traveling)
+    - ''
+    - 28-35
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 28-37
+    - "+2"
+    - R. Slater makes 2-pt shot at rim (assist by C. Billups)
+  - - '7:29.0'
+    - R. Patterson makes 2-pt shot at rim (assist by S. Williams)
+    - "+2"
+    - 30-37
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 30-40
+    - "+3"
+    - T. Brandon makes 3-pt shot from 24 ft (assist by S. Mitchell)
+  - - '6:54.0'
+    - D. Mason misses 2-pt shot from 21 ft
+    - ''
+    - 30-40
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 30-40
+    - ''
+    - Defensive rebound by C. Billups
+  - - '6:49.0'
+    - ''
+    - ''
+    - 30-40
+    - ''
+    - Shooting foul by E. Davis
+  - - '6:49.0'
+    - G. Payton enters the game for R. Patterson
+    - ''
+    - 30-40
+    - ''
+    - ''
+  - - '6:49.0'
+    - R. Lewis enters the game for E. Davis
+    - ''
+    - 30-40
+    - ''
+    - ''
+  - - '6:49.0'
+    - P. Ewing enters the game for R. Wolkowyski
+    - ''
+    - 30-40
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 30-41
+    - "+1"
+    - L. Ellis makes free throw 1 of 2
+  - - '6:49.0'
+    - ''
+    - ''
+    - 30-42
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '6:27.0'
+    - P. Ewing misses 2-pt shot from 10 ft
+    - ''
+    - 30-42
+    - ''
+    - ''
+  - - '6:24.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 30-42
+    - ''
+    - ''
+  - - '6:18.0'
+    - P. Ewing misses 2-pt shot at rim
+    - ''
+    - 30-42
+    - ''
+    - ''
+  - - '6:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-42
+    - ''
+    - ''
+  - - '6:08.0'
+    - R. Lewis misses 2-pt shot at rim
+    - ''
+    - 30-42
+    - ''
+    - ''
+  - - '6:04.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 32-42
+    - ''
+    - ''
+  - - '6:04.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 32-42
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 32-42
+    - ''
+    - Turnover by L. Ellis (bad pass; steal by D. Mason)
+  - - '5:48.0'
+    - D. Mason makes 2-pt shot at rim
+    - "+2"
+    - 34-42
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 34-42
+    - ''
+    - C. Billups misses 2-pt shot from 22 ft
+  - - '5:25.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 34-42
+    - ''
+    - ''
+  - - '5:20.0'
+    - S. Williams makes 3-pt shot from 26 ft
+    - "+3"
+    - 37-42
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - Minnesota full timeout
+  - - '5:16.0'
+    - V. Baker enters the game for D. Mason
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - K. Garnett enters the game for C. Billups
+  - - '5:16.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - A. Peeler enters the game for L. Ellis
+  - - '4:53.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - Turnover by T. Brandon (bad pass; steal by G. Payton)
+  - - '4:46.0'
+    - G. Payton makes 3-pt shot from 25 ft (assist by S. Williams)
+    - "+3"
+    - 40-42
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 40-42
+    - ''
+    - Turnover by K. Garnett (bad pass; steal by P. Ewing)
+  - - '4:26.0'
+    - Shooting foul by S. Mitchell
+    - ''
+    - 40-42
+    - ''
+    - ''
+  - - '4:26.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 41-42
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - R. Nesterovic enters the game for R. Slater
+  - - '4:26.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 42-42
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - K. Garnett misses 3-pt shot from 26 ft
+  - - '4:02.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '3:56.0'
+    - S. Williams makes 2-pt shot from 22 ft (assist by G. Payton)
+    - "+2"
+    - 44-42
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - R. Nesterovic misses 2-pt shot at rim
+  - - '3:40.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - Offensive rebound by S. Mitchell
+  - - '3:35.0'
+    - ''
+    - ''
+    - 44-45
+    - "+3"
+    - A. Peeler makes 3-pt shot from 25 ft (assist by K. Garnett)
+  - - '3:11.0'
+    - P. Ewing misses 2-pt shot from 3 ft
+    - ''
+    - 44-45
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '3:04.0'
+    - ''
+    - ''
+    - 44-47
+    - "+2"
+    - T. Brandon makes 2-pt shot at rim (assist by A. Peeler)
+  - - '2:44.0'
+    - Shooting foul by S. Mitchell
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '2:44.0'
+    - Seattle full timeout
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - W. Szczerbiak enters the game for S. Mitchell
+  - - '2:44.0'
+    - P. Ewing makes free throw 1 of 2
+    - "+1"
+    - 45-47
+    - ''
+    - ''
+  - - '2:44.0'
+    - P. Ewing makes free throw 2 of 2
+    - "+1"
+    - 46-47
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - T. Brandon misses 3-pt shot from 27 ft
+  - - '2:19.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '2:14.0'
+    - Turnover by S. Williams (bad pass; steal by K. Garnett)
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 46-49
+    - "+2"
+    - A. Peeler makes 2-pt shot from 18 ft (assist by K. Garnett)
+  - - '1:44.0'
+    - V. Baker misses 2-pt shot from 21 ft
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '1:37.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Turnover by A. Peeler (bad pass)
+  - - '1:22.0'
+    - R. Lewis misses 2-pt shot from 19 ft
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '1:08.0'
+    - ''
+    - ''
+    - 46-51
+    - "+2"
+    - T. Brandon makes 2-pt shot from 19 ft
+  - - '0:45.9'
+    - R. Lewis misses 2-pt shot from 11 ft (block by W. Szczerbiak)
+    - ''
+    - 46-51
+    - ''
+    - ''
+  - - '0:43.9'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Shooting foul by P. Ewing
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - K. Garnett misses free throw 1 of 2
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Offensive rebound by Team
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - L. Ellis enters the game for R. Nesterovic
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-52
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '0:27.9'
+    - G. Payton makes 2-pt shot from 20 ft
+    - "+2"
+    - 48-52
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 48-55
+    - "+3"
+    - A. Peeler makes 3-pt shot from 23 ft (assist by W. Szczerbiak)
+  - - '0:00.8'
+    - R. Lewis misses 3-pt shot from 24 ft
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - B. Barry makes 3-pt shot from 25 ft (assist by G. Payton)
+    - "+3"
+    - 51-55
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 51-57
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim (assist by K. Garnett)
+  - - '11:18.0'
+    - Turnover by P. Ewing (lost ball)
+    - ''
+    - 51-57
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 51-57
+    - ''
+    - T. Brandon misses 3-pt shot from 23 ft
+  - - '10:58.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 51-57
+    - ''
+    - ''
+  - - '10:43.0'
+    - B. Barry makes 3-pt shot from 26 ft (assist by G. Payton)
+    - "+3"
+    - 54-57
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 54-59
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 19 ft (assist by R. Nesterovic)
+  - - '10:14.0'
+    - J. McCoy misses 2-pt shot at rim
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '10:12.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '10:11.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '10:11.0'
+    - J. McCoy misses free throw 1 of 2
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '10:11.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '10:11.0'
+    - J. McCoy makes free throw 2 of 2
+    - "+1"
+    - 55-59
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 55-59
+    - ''
+    - R. Nesterovic misses 2-pt shot from 18 ft
+  - - '9:56.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '9:43.0'
+    - P. Ewing makes 2-pt shot from 5 ft (assist by G. Payton)
+    - "+2"
+    - 57-59
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 57-61
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 20 ft (assist by T. Brandon)
+  - - '9:06.0'
+    - P. Ewing misses 2-pt shot from 18 ft
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '8:56.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - T. Brandon misses 2-pt shot at rim
+  - - '8:54.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '8:49.0'
+    - B. Barry misses 2-pt shot at rim
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - Defensive rebound by R. Nesterovic
+  - - '8:42.0'
+    - ''
+    - ''
+    - 57-63
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 19 ft (assist by T. Brandon)
+  - - '8:16.0'
+    - Offensive foul by J. McCoy
+    - ''
+    - 57-63
+    - ''
+    - ''
+  - - '8:16.0'
+    - Turnover by J. McCoy (foul)
+    - ''
+    - 57-63
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 57-63
+    - ''
+    - Personal foul by P. Ewing
+  - - '7:58.0'
+    - ''
+    - ''
+    - 57-63
+    - ''
+    - Personal foul by P. Ewing
+  - - '7:51.0'
+    - ''
+    - ''
+    - 57-65
+    - "+2"
+    - A. Peeler makes 2-pt shot from 18 ft
+  - - '7:37.0'
+    - G. Payton misses 2-pt shot from 19 ft
+    - ''
+    - 57-65
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 57-65
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '7:33.0'
+    - ''
+    - ''
+    - 57-65
+    - ''
+    - Turnover by A. Peeler (lost ball)
+  - - '7:15.0'
+    - Shooting foul by W. Szczerbiak
+    - ''
+    - 57-65
+    - ''
+    - ''
+  - - '7:15.0'
+    - P. Ewing misses free throw 1 of 2
+    - ''
+    - 57-65
+    - ''
+    - ''
+  - - '7:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-65
+    - ''
+    - ''
+  - - '7:15.0'
+    - P. Ewing makes free throw 2 of 2
+    - "+1"
+    - 58-65
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - Personal foul by P. Ewing
+  - - '6:56.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - A. Peeler misses 2-pt shot from 22 ft
+  - - '6:54.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 58-65
+    - ''
+    - ''
+  - - '6:54.0'
+    - Loose ball foul by R. Nesterovic
+    - ''
+    - 58-65
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - L. Ellis enters the game for R. Nesterovic
+  - - '6:36.0'
+    - P. Ewing misses 2-pt shot at rim
+    - ''
+    - 58-65
+    - ''
+    - ''
+  - - '6:33.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 58-65
+    - ''
+    - ''
+  - - '6:31.0'
+    - J. McCoy misses 2-pt shot at rim
+    - ''
+    - 58-65
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '6:26.0'
+    - ''
+    - ''
+    - 58-67
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim (assist by T. Brandon)
+  - - '6:12.0'
+    - G. Payton misses 2-pt shot from 18 ft
+    - ''
+    - 58-67
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 58-67
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '6:03.0'
+    - ''
+    - ''
+    - 58-67
+    - ''
+    - K. Garnett misses 2-pt shot from 16 ft
+  - - '6:02.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 58-67
+    - ''
+    - ''
+  - - '5:38.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 58-67
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 58-67
+    - ''
+    - Minnesota full timeout
+  - - '5:38.0'
+    - V. Baker enters the game for P. Ewing
+    - ''
+    - 58-67
+    - ''
+    - ''
+  - - '5:38.0'
+    - R. Patterson enters the game for J. McCoy
+    - ''
+    - 58-67
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 58-69
+    - "+2"
+    - K. Garnett makes 2-pt shot from 5 ft
+  - - '5:05.0'
+    - Turnover by V. Baker (lost ball; steal by W. Szczerbiak)
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 58-69
+    - ''
+    - K. Garnett misses 2-pt shot from 6 ft (block by G. Payton)
+  - - '4:56.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:54.0'
+    - Clear path foul by T. Brandon
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:54.0'
+    - G. Payton misses free throw flagrant 1 of 2
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:38.0'
+    - R. Patterson misses 2-pt shot from 15 ft
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:38.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:35.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:33.0'
+    - Turnover by V. Baker (lost ball; steal by T. Brandon)
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 58-71
+    - "+2"
+    - A. Peeler makes 2-pt shot from 20 ft (assist by T. Brandon)
+  - - '4:10.0'
+    - R. Lewis misses 2-pt shot from 19 ft
+    - ''
+    - 58-71
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 58-71
+    - ''
+    - Defensive rebound by Team
+  - - '4:09.0'
+    - ''
+    - ''
+    - 58-71
+    - ''
+    - Loose ball foul by V. Baker
+  - - '3:56.0'
+    - ''
+    - ''
+    - 58-71
+    - ''
+    - K. Garnett misses 2-pt shot from 17 ft
+  - - '3:54.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 58-71
+    - ''
+    - ''
+  - - '3:47.0'
+    - G. Payton makes 2-pt shot from 6 ft (assist by R. Patterson)
+    - "+2"
+    - 60-71
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 60-73
+    - "+2"
+    - L. Ellis makes 2-pt shot from 6 ft
+  - - '3:17.0'
+    - B. Barry makes 3-pt shot from 26 ft (assist by G. Payton)
+    - "+3"
+    - 63-73
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 63-75
+    - "+2"
+    - L. Ellis makes 2-pt shot at rim (assist by A. Peeler)
+  - - '2:42.0'
+    - V. Baker makes 2-pt shot from 6 ft (assist by G. Payton)
+    - "+2"
+    - 65-75
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - W. Szczerbiak misses 3-pt shot from 26 ft
+  - - '2:25.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '2:15.0'
+    - Turnover by R. Lewis (3 second)
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Minnesota full timeout
+  - - '2:15.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - L. Ellis misses 2-pt shot from 5 ft
+  - - '1:57.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '1:44.0'
+    - V. Baker misses 2-pt shot from 13 ft
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '1:31.0'
+    - ''
+    - ''
+    - 65-78
+    - "+3"
+    - W. Szczerbiak makes 3-pt shot from 27 ft (assist by L. Ellis)
+  - - '1:10.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 67-78
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 67-78
+    - ''
+    - Turnover by T. Brandon (bad pass)
+  - - '1:05.0'
+    - ''
+    - ''
+    - 67-78
+    - ''
+    - C. Billups enters the game for T. Brandon
+  - - '1:05.0'
+    - E. Davis enters the game for B. Barry
+    - ''
+    - 67-78
+    - ''
+    - ''
+  - - '0:47.3'
+    - Shooting foul by L. Ellis
+    - ''
+    - 67-78
+    - ''
+    - ''
+  - - '0:47.3'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 68-78
+    - ''
+    - ''
+  - - '0:47.3'
+    - R. Patterson misses free throw 2 of 2
+    - ''
+    - 68-78
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 68-78
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '0:23.9'
+    - ''
+    - ''
+    - 68-78
+    - ''
+    - K. Garnett misses 2-pt shot from 15 ft
+  - - '0:21.5'
+    - ''
+    - ''
+    - 68-78
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '0:04.8'
+    - ''
+    - ''
+    - 68-78
+    - ''
+    - Shooting foul by E. Davis
+  - - '0:04.8'
+    - ''
+    - ''
+    - 68-79
+    - "+1"
+    - C. Billups makes free throw 1 of 2
+  - - '0:04.8'
+    - ''
+    - ''
+    - 68-80
+    - "+1"
+    - C. Billups makes free throw 2 of 2
+  - - '0:00.9'
+    - R. Patterson misses 3-pt shot from 26 ft
+    - ''
+    - 68-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 68-80
+    - ''
+    - L. Ellis misses 2-pt shot from 17 ft
+  - - '11:45.0'
+    - ''
+    - ''
+    - 68-80
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '11:43.0'
+    - ''
+    - ''
+    - 68-82
+    - "+2"
+    - L. Ellis makes 2-pt shot from 5 ft
+  - - '11:29.0'
+    - Turnover by G. Payton (bad pass; steal by L. Ellis)
+    - ''
+    - 68-82
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 68-84
+    - "+2"
+    - C. Billups makes 2-pt shot at rim
+  - - '11:15.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Shooting foul by E. Davis
+  - - '11:15.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - C. Billups misses free throw 1 of 1
+  - - '11:15.0'
+    - Defensive rebound by D. Mason
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '11:03.0'
+    - E. Davis misses 3-pt shot from 23 ft
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '10:50.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - C. Billups misses 2-pt shot from 20 ft
+  - - '10:47.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '10:42.0'
+    - G. Payton makes 2-pt shot at rim (assist by R. Patterson)
+    - "+2"
+    - 70-84
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 70-84
+    - ''
+    - R. Slater misses 2-pt shot at rim (block by R. Patterson)
+  - - '10:19.0'
+    - ''
+    - ''
+    - 70-84
+    - ''
+    - Offensive rebound by Team
+  - - '10:19.0'
+    - S. Williams enters the game for E. Davis
+    - ''
+    - 70-84
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 70-84
+    - ''
+    - Turnover by Team (shot clock)
+  - - '10:02.0'
+    - D. Mason makes 2-pt shot from 20 ft (assist by G. Payton)
+    - "+2"
+    - 72-84
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - A. Peeler misses 3-pt shot from 27 ft
+  - - '9:42.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - Offensive rebound by R. Slater
+  - - '9:33.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - R. Slater misses 2-pt shot from 13 ft
+  - - '9:31.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '9:30.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - Shooting foul by V. Baker
+  - - '9:30.0'
+    - ''
+    - ''
+    - 72-85
+    - "+1"
+    - L. Ellis makes free throw 1 of 2
+  - - '9:30.0'
+    - ''
+    - ''
+    - 72-85
+    - ''
+    - T. Brandon enters the game for A. Peeler
+  - - '9:30.0'
+    - ''
+    - ''
+    - 72-86
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '9:18.0'
+    - V. Baker misses 2-pt shot from 21 ft
+    - ''
+    - 72-86
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 72-86
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '9:00.0'
+    - ''
+    - ''
+    - 72-86
+    - ''
+    - Shooting foul by D. Mason
+  - - '9:00.0'
+    - ''
+    - ''
+    - 72-87
+    - "+1"
+    - T. Brandon makes free throw 1 of 2
+  - - '9:00.0'
+    - ''
+    - ''
+    - 72-88
+    - "+1"
+    - T. Brandon makes free throw 2 of 2
+  - - '8:43.0'
+    - D. Mason misses 3-pt shot from 24 ft
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:42.0'
+    - Loose ball foul by L. Ellis
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:42.0'
+    - Official timeout
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:30.0'
+    - S. Williams misses 2-pt shot from 22 ft
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:28.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 72-88
+    - ''
+    - ''
+  - - '8:27.0'
+    - V. Baker makes 2-pt shot at rim
+    - "+2"
+    - 74-88
+    - ''
+    - ''
+  - - '8:27.0'
+    - Shooting foul by R. Slater
+    - ''
+    - 74-88
+    - ''
+    - ''
+  - - '8:27.0'
+    - B. Barry enters the game for D. Mason
+    - ''
+    - 74-88
+    - ''
+    - ''
+  - - '8:27.0'
+    - V. Baker makes free throw 1 of 1
+    - "+1"
+    - 75-88
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 75-90
+    - "+2"
+    - T. Brandon makes 2-pt shot from 19 ft
+  - - '7:54.0'
+    - Shooting foul by C. Billups
+    - ''
+    - 75-90
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - K. Garnett enters the game for R. Slater
+  - - '7:54.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - A. Peeler enters the game for W. Szczerbiak
+  - - '7:54.0'
+    - G. Payton makes free throw 1 of 2
+    - "+1"
+    - 76-90
+    - ''
+    - ''
+  - - '7:54.0'
+    - G. Payton misses free throw 2 of 2
+    - ''
+    - 76-90
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 76-90
+    - ''
+    - Defensive rebound by C. Billups
+  - - '7:40.0'
+    - ''
+    - ''
+    - 76-90
+    - ''
+    - K. Garnett misses 2-pt shot from 19 ft
+  - - '7:37.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 76-90
+    - ''
+    - ''
+  - - '7:31.0'
+    - Turnover by R. Patterson (lost ball; steal by A. Peeler)
+    - ''
+    - 76-90
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 76-92
+    - "+2"
+    - C. Billups makes 2-pt shot from 7 ft (assist by T. Brandon)
+  - - '7:17.0'
+    - Seattle full timeout
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '7:17.0'
+    - R. Lewis enters the game for R. Patterson
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '7:07.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '6:56.0'
+    - R. Lewis misses 2-pt shot at rim
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - Defensive rebound by C. Billups
+  - - '6:44.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - Personal foul by R. Lewis
+  - - '6:38.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - T. Brandon misses 2-pt shot from 19 ft
+  - - '6:36.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - Offensive rebound by A. Peeler
+  - - '6:16.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - K. Garnett misses 2-pt shot from 19 ft
+  - - '6:15.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '6:10.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - Turnover by L. Ellis (bad pass; steal by B. Barry)
+  - - '6:06.0'
+    - Turnover by B. Barry (bad pass; steal by T. Brandon)
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 76-92
+    - ''
+    - T. Brandon misses 2-pt shot at rim
+  - - '6:00.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '5:59.0'
+    - Personal foul by C. Billups
+    - ''
+    - 76-92
+    - ''
+    - ''
+  - - '5:59.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 77-92
+    - ''
+    - ''
+  - - '5:59.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 78-92
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 78-95
+    - "+3"
+    - C. Billups makes 3-pt shot from 24 ft (assist by A. Peeler)
+  - - '5:20.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 80-95
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 80-95
+    - ''
+    - C. Billups misses 2-pt shot from 21 ft
+  - - '4:54.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 80-95
+    - ''
+    - ''
+  - - '4:48.0'
+    - R. Lewis misses 2-pt shot at rim (block by K. Garnett)
+    - ''
+    - 80-95
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 80-95
+    - ''
+    - Defensive rebound by C. Billups
+  - - '4:43.0'
+    - ''
+    - ''
+    - 80-95
+    - ''
+    - C. Billups misses 2-pt shot at rim
+  - - '4:40.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 80-95
+    - ''
+    - ''
+  - - '4:36.0'
+    - V. Baker makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 82-95
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 82-95
+    - ''
+    - K. Garnett misses 2-pt shot at rim
+  - - '4:12.0'
+    - ''
+    - ''
+    - 82-95
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '4:10.0'
+    - ''
+    - ''
+    - 82-95
+    - ''
+    - T. Brandon misses 2-pt shot from 18 ft
+  - - '4:07.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 82-95
+    - ''
+    - ''
+  - - '3:54.0'
+    - V. Baker makes 2-pt shot from 19 ft (assist by R. Lewis)
+    - "+2"
+    - 84-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 84-95
+    - ''
+    - Minnesota full timeout
+  - - '3:53.0'
+    - ''
+    - ''
+    - 84-95
+    - ''
+    - W. Szczerbiak enters the game for C. Billups
+  - - '3:34.0'
+    - ''
+    - ''
+    - 84-95
+    - ''
+    - K. Garnett misses 2-pt shot from 19 ft
+  - - '3:32.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 84-95
+    - ''
+    - ''
+  - - '3:21.0'
+    - G. Payton misses 2-pt shot from 20 ft
+    - ''
+    - 84-95
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 84-95
+    - ''
+    - Defensive rebound by Team
+  - - '3:20.0'
+    - ''
+    - ''
+    - 84-95
+    - ''
+    - Loose ball foul by B. Barry
+  - - '3:20.0'
+    - ''
+    - ''
+    - 84-96
+    - "+1"
+    - A. Peeler makes free throw 1 of 2
+  - - '3:20.0'
+    - ''
+    - ''
+    - 84-97
+    - "+1"
+    - A. Peeler makes free throw 2 of 2
+  - - '3:04.0'
+    - R. Lewis makes 2-pt shot at rim (assist by V. Baker)
+    - "+2"
+    - 86-97
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 86-99
+    - "+2"
+    - K. Garnett makes 2-pt shot from 9 ft (assist by T. Brandon)
+  - - '2:21.0'
+    - V. Baker misses 2-pt shot from 4 ft
+    - ''
+    - 86-99
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 86-99
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '2:18.0'
+    - ''
+    - ''
+    - 86-99
+    - ''
+    - Personal foul by V. Baker
+  - - '2:18.0'
+    - ''
+    - ''
+    - 86-100
+    - "+1"
+    - K. Garnett makes free throw 1 of 2
+  - - '2:18.0'
+    - ''
+    - ''
+    - 86-101
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '2:18.0'
+    - Seattle full timeout
+    - ''
+    - 86-101
+    - ''
+    - ''
+  - - '2:00.0'
+    - Offensive foul by B. Barry
+    - ''
+    - 86-101
+    - ''
+    - ''
+  - - '2:00.0'
+    - Turnover by B. Barry (foul)
+    - ''
+    - 86-101
+    - ''
+    - ''
+  - - '2:00.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 86-101
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 86-103
+    - "+2"
+    - A. Peeler makes 2-pt shot from 19 ft
+  - - '1:26.0'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 86-103
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 86-103
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '1:07.0'
+    - ''
+    - ''
+    - 86-103
+    - ''
+    - Turnover by A. Peeler (bad pass; steal by D. Mason)
+  - - '1:01.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 86-103
+    - ''
+    - ''
+  - - '1:01.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 87-103
+    - ''
+    - ''
+  - - '1:01.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 88-103
+    - ''
+    - ''
+  - - '0:52.9'
+    - ''
+    - ''
+    - 88-103
+    - ''
+    - Turnover by W. Szczerbiak (lost ball; steal by V. Baker)
+  - - '0:40.9'
+    - D. Mason makes 3-pt shot from 26 ft (assist by V. Baker)
+    - "+3"
+    - 91-103
+    - ''
+    - ''
+  - - '0:34.3'
+    - ''
+    - ''
+    - 91-105
+    - "+2"
+    - L. Ellis makes 2-pt shot at rim
+  - - '0:25.9'
+    - S. Williams misses 3-pt shot from 25 ft
+    - ''
+    - 91-105
+    - ''
+    - ''
+  - - '0:23.8'
+    - Offensive rebound by D. Mason
+    - ''
+    - 91-105
+    - ''
+    - ''
+  - - '0:23.8'
+    - Loose ball foul by K. Garnett
+    - ''
+    - 91-105
+    - ''
+    - ''
+  - - '0:23.8'
+    - D. Mason makes free throw 1 of 2
+    - "+1"
+    - 92-105
+    - ''
+    - ''
+  - - '0:23.8'
+    - ''
+    - ''
+    - 92-105
+    - ''
+    - R. Slater enters the game for K. Garnett
+  - - '0:23.8'
+    - ''
+    - ''
+    - 92-105
+    - ''
+    - C. Billups enters the game for A. Peeler
+  - - '0:23.8'
+    - ''
+    - ''
+    - 92-105
+    - ''
+    - R. Nesterovic enters the game for T. Brandon
+  - - '0:23.8'
+    - ''
+    - ''
+    - 92-105
+    - ''
+    - S. Jacobson enters the game for L. Ellis
+  - - '0:23.8'
+    - D. Mason misses free throw 2 of 2
+    - ''
+    - 92-105
+    - ''
+    - ''
+  - - '0:23.8'
+    - ''
+    - ''
+    - 92-105
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '0:00.0'
+    - End of 4th quarter

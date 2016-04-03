@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +6&#9642;Off: -10&#9642;Net: +16)'
+    - |2-
+
+      -4
+    - 181/-4
+    - 134/
+    - 3/0
+    - 180/
+    - 199/+7
+    - 78/
+    - 58/-1
+    - 68/
+    - 94/+4
+    - 'Sam Cassell (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 26/-2
+    - 49/
+    - 174/0
+    - 249/+6
+    - 22/-2
+    - 67/
+    - 160/+3
+    - 'Glenn Robinson (On: +3&#9642;Off: -7&#9642;Net: +10)'
+    - |2-
+
+      -6
+    - 197/-6
+    - 80/
+    - 222/0
+    - 249/+6
+    - 23/-2
+    - 60/
+    - 166/+5
+    - 'Tim Thomas (On: +7&#9642;Off: -11&#9642;Net: +18)'
+    - |2-
+
+      0
+    - 159/0
+    - 27/
+    - 62/-4
+    - 61/-2
+    - 122/
+    - 66/+4
+    - 213/+7
+    - 64/
+    - 221/+2
+    - 'Scott Williams (On: -10&#9642;Off: +6&#9642;Net: -16)'
+    - |2-
+
+      -6
+    - 197/-6
+    - 119/
+    - 47/-4
+    - 637/
+    - 'Jason Caffey (On: -7&#9642;Off: +3&#9642;Net: -10)'
+    - "\n"
+    - 162/
+    - 87/-8
+    - 101/-6
+    - 148/
+    - 167/+8
+    - 110/
+    - 168/-1
+    - 53/
+    - 'Lindsey Hunter (On: -10&#9642;Off: +6&#9642;Net: -16)'
+    - "\n"
+    - 203/
+    - 46/-2
+    - 178/-6
+    - 277/
+    - 43/-1
+    - 150/-4
+    - 51/
+    - 48/+3
+    - 'Ervin Johnson (On: -9&#9642;Off: +5&#9642;Net: -14)'
+    - "\n"
+    - 202/
+    - 46/-2
+    - 61/-2
+    - 53/
+    - 119/+2
+    - 188/
+    - 75/-2
+    - 77/-5
+    - 174/
+    - 'Jerome Kersey (On: +4&#9642;Off: -8&#9642;Net: +12)'
+    - "\n"
+    - 357/
+    - 144/+4
+    - 500/
+    - 'Joel Przybilla (On: +2&#9642;Off: -6&#9642;Net: +8)'
+    - "\n"
+    - 493/
+    - 7/+2
+    - 501/
+    - 'Mark Pope (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - "\n"
+    - 718/
+    - 32/-1
+    - 23/-2
+    - 227/
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 110/
+    - 139/-3
+    - 238/-6
+    - 157/
+    - 104/-6
+    - 'Arvydas Sabonis (On: -8&#9642;Off: +12&#9642;Net: -20)'
+    - |2-
+
+      0
+    - 160/0
+    - 340/
+    - 112/-8
+    - 388/
+    - 'Damon Stoudamire (On: -4&#9642;Off: +8&#9642;Net: -12)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 15/0
+    - 154/
+    - 81/-2
+    - 134/-8
+    - 284/
+    - 80/-2
+    - 'Rasheed Wallace (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 110/
+    - 139/-3
+    - 238/-6
+    - 81/
+    - 180/-6
+    - 'Bonzi Wells (On: -4&#9642;Off: +8&#9642;Net: -12)'
+    - |2-
+
+      0
+    - 46/0
+    - 203/
+    - 249/+2
+    - 112/-8
+    - 25/
+    - 112/+2
+    - 250/0
+    - 'Steve Smith (On: +15&#9642;Off: -11&#9642;Net: +26)'
+    - "\n"
+    - 50/
+    - 200/+8
+    - 106/+5
+    - 260/
+    - 133/+2
+    - 249/0
+    - 'Dale Davis (On: +21&#9642;Off: -17&#9642;Net: +38)'
+    - "\n"
+    - 162/
+    - 87/+8
+    - 106/+5
+    - 260/
+    - 133/+2
+    - 64/+6
+    - 185/
+    - 'Shawn Kemp (On: +8&#9642;Off: -4&#9642;Net: +12)'
+    - "\n"
+    - 250/
+    - 250/+2
+    - 243/
+    - 6/0
+    - 138/+6
+    - 111/
+    - 'Greg Anthony (On: +6&#9642;Off: -2&#9642;Net: +8)'
+    - "\n"
+    - 270/
+    - 145/+4
+    - 328/
+    - 6/0
+    - 165/+2
+    - 84/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

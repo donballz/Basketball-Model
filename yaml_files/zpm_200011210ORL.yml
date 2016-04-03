@@ -1,0 +1,220 @@
+---
+- name: Plus-Minus
+  data:
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Allan Houston (On: 0&#9642;Off: +1&#9642;Net: -1)'
+    - |2-
+
+      -12
+    - 183/-12
+    - 163/
+    - 154/+2
+    - 165/+3
+    - 124/
+    - 209/+7
+    - 'Larry Johnson (On: -4&#9642;Off: +5&#9642;Net: -9)'
+    - |2-
+
+      -12
+    - 150/-12
+    - 98/
+    - 119/-1
+    - 130/
+    - 248/+2
+    - 35/0
+    - 114/
+    - 94/+7
+    - 5/
+    - 1/0
+    - 'Latrell Sprewell (On: 0&#9642;Off: +1&#9642;Net: -1)'
+    - |2-
+
+      -10
+    - 129/-10
+    - 120/
+    - 249/+3
+    - 249/+2
+    - 35/0
+    - 67/
+    - 148/+5
+    - 'Kurt Thomas (On: +1&#9642;Off: 0&#9642;Net: +1)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 122/
+    - 127/+4
+    - 153/+5
+    - 135/
+    - 197/+3
+    - 13/
+    - 0/0
+    - 'Charlie Ward (On: -13&#9642;Off: +14&#9642;Net: -27)'
+    - |2-
+
+      -15
+    - 230/-15
+    - 270/
+    - 197/+2
+    - 303/
+    - 'Glen Rice (On: +5&#9642;Off: -4&#9642;Net: +9)'
+    - "\n"
+    - 130/
+    - 119/-1
+    - 249/+3
+    - 164/
+    - 84/-1
+    - 98/+2
+    - 140/
+    - 5/+2
+    - 6/
+    - 'Travis Knight (On: -1&#9642;Off: +2&#9642;Net: -3)'
+    - "\n"
+    - 156/
+    - 93/+1
+    - 406/
+    - 61/-4
+    - 277/
+    - 1/+2
+    - 3/
+    - 'Erick Strickland (On: +3&#9642;Off: -2&#9642;Net: +5)'
+    - "\n"
+    - 183/
+    - 66/+1
+    - 92/+1
+    - 378/
+    - 27/+1
+    - 144/-2
+    - 99/
+    - 4/+2
+    - 2/
+    - 'Chris Childs (On: +14&#9642;Off: -13&#9642;Net: +27)'
+    - "\n"
+    - 235/
+    - 14/+4
+    - 250/+3
+    - 199/
+    - 51/0
+    - 249/+7
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'John Amaechi (On: +7&#9642;Off: -8&#9642;Net: +15)'
+    - |2-
+
+      +15
+    - 235/+15
+    - 96/
+    - 168/-2
+    - 249/-2
+    - 70/
+    - 173/-4
+    - 6/
+    - "-1/0"
+    - 'Darrell Armstrong (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - |2-
+
+      +12
+    - 166/+12
+    - 120/
+    - 214/0
+    - 196/-2
+    - 106/
+    - 196/-7
+    - 'Michael Doleac (On: +10&#9642;Off: -11&#9642;Net: +21)'
+    - |2-
+
+      +12
+    - 189/+12
+    - 311/
+    - 197/-2
+    - 303/
+    - 'Tracy McGrady (On: +6&#9642;Off: -7&#9642;Net: +13)'
+    - |2-
+
+      +15
+    - 230/+15
+    - 63/
+    - 206/0
+    - 250/-2
+    - 250/-7
+    - 'Bo Outlaw (On: +1&#9642;Off: -2&#9642;Net: +3)'
+    - |2-
+
+      +11
+    - 250/+11
+    - 250/-3
+    - 250/-2
+    - 243/-5
+    - 6/
+    - "-1/0"
+    - 'Elliot Perry (On: -4&#9642;Off: +3&#9642;Net: -7)'
+    - "\n"
+    - 170/
+    - 80/-1
+    - 35/-3
+    - 413/
+    - 51/0
+    - 46/0
+    - 202/
+    - 'Andrew DeClercq (On: -2&#9642;Off: +1&#9642;Net: -3)'
+    - "\n"
+    - 194/
+    - 56/-1
+    - 76/-1
+    - 674/
+    - 'Monty Williams (On: -14&#9642;Off: +13&#9642;Net: -27)'
+    - "\n"
+    - 234/
+    - 14/-4
+    - 162/-2
+    - 335/
+    - 65/-1
+    - 67/
+    - 55/-3
+    - 56/
+    - 2/-4
+    - 4/
+    - 'Pat Garrity (On: -9&#9642;Off: +8&#9642;Net: -17)'
+    - "\n"
+    - 235/
+    - 14/-4
+    - 36/-3
+    - 411/
+    - 50/0
+    - 129/0
+    - 59/
+    - 52/0
+    - 3/
+    - 5/-2
+    - 'Mike Miller (On: -1&#9642;Off: 0&#9642;Net: -1)'
+    - "\n"
+    - 417/
+    - 83/-1
+    - 498/
+    - 1/0
+    - 0/
+    - 'Troy Hudson (On: -2&#9642;Off: +1&#9642;Net: -3)'
+    - "\n"
+    - 996/
+    - 4/-2
+    - 1/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

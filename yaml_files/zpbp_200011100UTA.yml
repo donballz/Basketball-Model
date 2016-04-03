@@ -1,0 +1,2364 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: O. Polynice vs. D. Causwell (J. Stockton gains possession)'
+  - - '11:49.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Personal foul by A. Mason
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - K. Malone misses 2-pt shot from 17 ft
+  - - '11:37.0'
+    - Defensive rebound by D. Causwell
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - A. Mason makes 2-pt shot from 7 ft (assist by T. Hardaway)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - J. Stockton makes 2-pt shot at rim (assist by B. Russell)
+  - - '10:46.0'
+    - A. Mason misses 2-pt shot from 2 ft (block by O. Polynice)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '10:37.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by J. Stockton (bad pass; steal by E. Jones)
+  - - '10:29.0'
+    - Turnover by T. Hardaway (bad pass; steal by J. Stockton)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Personal foul by T. Hardaway
+  - - '10:15.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - K. Malone makes 2-pt shot from 20 ft (assist by B. Russell)
+  - - '9:52.0'
+    - T. Hardaway makes 3-pt shot from 24 ft (assist by A. Mason)
+    - "+3"
+    - 5-4
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 5-7
+    - "+3"
+    - B. Russell makes 3-pt shot from 25 ft (assist by K. Malone)
+  - - '9:16.0'
+    - T. Hardaway misses 2-pt shot from 24 ft
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Defensive rebound by O. Polynice
+  - - '9:15.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Loose ball foul by D. Causwell
+  - - '8:57.0'
+    - ''
+    - ''
+    - 5-10
+    - "+3"
+    - J. Stockton makes 3-pt shot from 23 ft (assist by K. Malone)
+  - - '8:42.0'
+    - B. Grant makes 2-pt shot at rim (assist by T. Hardaway)
+    - "+2"
+    - 7-10
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - B. Russell misses 2-pt shot from 19 ft
+  - - '8:23.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '8:21.0'
+    - Turnover by E. Jones (lost ball; steal by O. Polynice)
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - Turnover by O. Polynice (bad pass; steal by D. Causwell)
+  - - '8:06.0'
+    - Shooting foul by K. Malone
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '8:06.0'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 8-10
+    - ''
+    - ''
+  - - '8:06.0'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 9-10
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 9-10
+    - ''
+    - Personal foul by B. Grant
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-10
+    - ''
+    - Personal foul by D. Causwell
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-11
+    - "+1"
+    - K. Malone makes free throw 1 of 2
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-12
+    - "+1"
+    - K. Malone makes free throw 2 of 2
+  - - '7:37.0'
+    - D. Causwell misses 2-pt shot from 2 ft (block by O. Polynice)
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:32.0'
+    - T. Hardaway misses 2-pt shot from 20 ft
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Defensive rebound by K. Malone
+  - - '7:17.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - J. Starks misses 2-pt shot from 8 ft
+  - - '7:15.0'
+    - ''
+    - ''
+    - 9-14
+    - "+2"
+    - O. Polynice makes 2-pt shot at rim
+  - - '7:15.0'
+    - ''
+    - ''
+    - 9-14
+    - ''
+    - Offensive rebound by O. Polynice
+  - - '6:57.0'
+    - E. Jones makes 2-pt shot from 21 ft (assist by T. Hardaway)
+    - "+2"
+    - 11-14
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 11-14
+    - ''
+    - K. Malone misses 2-pt shot from 17 ft
+  - - '6:30.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:28.0'
+    - Turnover by T. Hardaway (lost ball; steal by B. Russell)
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 11-14
+    - ''
+    - O. Polynice misses 2-pt shot at rim
+  - - '6:21.0'
+    - Defensive rebound by Team
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - Offensive foul by A. Mason
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - Turnover by A. Mason (foul)
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - Technical foul by A. Mason
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - Technical foul by Team
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 11-15
+    - "+1"
+    - J. Stockton makes free throw technical
+  - - '6:12.0'
+    - ''
+    - ''
+    - 11-15
+    - ''
+    - J. Stockton misses free throw technical
+  - - '6:12.0'
+    - ''
+    - ''
+    - 11-15
+    - ''
+    - Offensive rebound by Team
+  - - '6:12.0'
+    - B. Bowen enters the game for A. Mason
+    - ''
+    - 11-15
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 11-17
+    - "+2"
+    - B. Russell makes 2-pt shot from 3 ft
+  - - '5:44.0'
+    - E. Jones misses 2-pt shot from 18 ft
+    - ''
+    - 11-17
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 11-17
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '5:24.0'
+    - ''
+    - ''
+    - 11-17
+    - ''
+    - J. Starks misses 2-pt shot from 20 ft
+  - - '5:22.0'
+    - ''
+    - ''
+    - 11-17
+    - ''
+    - Offensive rebound by K. Malone
+  - - '5:05.0'
+    - ''
+    - ''
+    - 11-17
+    - ''
+    - J. Starks misses 3-pt shot from 23 ft
+  - - '5:03.0'
+    - Defensive rebound by D. Causwell
+    - ''
+    - 11-17
+    - ''
+    - ''
+  - - '4:46.0'
+    - E. Jones makes 3-pt shot from 23 ft (assist by T. Hardaway)
+    - "+3"
+    - 14-17
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Utah full timeout
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - J. Vaughn enters the game for J. Stockton
+  - - '4:27.0'
+    - Violation by D. Causwell (illegal defense)
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Offensive foul by B. Russell
+  - - '4:22.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Turnover by B. Russell (foul)
+  - - '4:03.0'
+    - B. Grant misses 2-pt shot from 7 ft
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Defensive rebound by K. Malone
+  - - '3:53.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - K. Malone misses 2-pt shot at rim (block by D. Causwell)
+  - - '3:51.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Offensive rebound by J. Starks
+  - - '3:41.0'
+    - ''
+    - ''
+    - 14-19
+    - "+2"
+    - K. Malone makes 2-pt shot from 21 ft (assist by J. Vaughn)
+  - - '3:22.0'
+    - T. Hardaway misses 3-pt shot from 24 ft
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 14-19
+    - ''
+    - Defensive rebound by B. Russell
+  - - '3:13.0'
+    - ''
+    - ''
+    - 14-19
+    - ''
+    - K. Malone misses 2-pt shot from 5 ft
+  - - '3:10.0'
+    - Defensive rebound by D. Causwell
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '3:03.0'
+    - B. Bowen makes 3-pt shot from 23 ft (assist by T. Hardaway)
+    - "+3"
+    - 17-19
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Turnover by K. Malone (traveling)
+  - - '2:43.0'
+    - Miami full timeout
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '2:26.0'
+    - D. Causwell makes 2-pt shot from 12 ft (assist by E. Jones)
+    - "+2"
+    - 19-19
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 19-21
+    - "+2"
+    - B. Russell makes 2-pt shot at rim
+  - - '1:55.0'
+    - B. Grant misses 2-pt shot from 18 ft
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - Defensive rebound by K. Malone
+  - - '1:41.0'
+    - ''
+    - ''
+    - 19-23
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Vaughn)
+  - - '1:25.0'
+    - Personal foul by J. Vaughn
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '1:14.0'
+    - B. Grant misses 2-pt shot at rim
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '1:12.0'
+    - D. Causwell makes 2-pt shot at rim
+    - "+2"
+    - 21-23
+    - ''
+    - ''
+  - - '1:12.0'
+    - Offensive rebound by D. Causwell
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - K. Malone misses 2-pt shot from 19 ft (block by B. Grant)
+  - - '0:44.9'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '0:39.9'
+    - T. Hardaway makes 2-pt shot from 21 ft
+    - "+2"
+    - 23-23
+    - ''
+    - ''
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - B. Russell misses 3-pt shot from 25 ft
+  - - '0:26.9'
+    - Defensive rebound by D. Causwell
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '0:07.5'
+    - Turnover by T. Hardaway (double dribble)
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '0:07.5'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - D. Marshall enters the game for O. Polynice
+  - - '0:00.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - K. Malone misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:37.0'
+    - B. Bowen misses 3-pt shot from 24 ft
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '11:33.0'
+    - Offensive rebound by E. Jones
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '11:24.0'
+    - B. Bowen misses 2-pt shot from 10 ft
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '11:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '11:17.0'
+    - Personal foul by G. Ostertag
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - D. Manning enters the game for K. Malone
+  - - '11:10.0'
+    - E. Jones makes 3-pt shot from 24 ft (assist by A. Carter)
+    - "+3"
+    - 26-23
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 26-25
+    - "+2"
+    - D. Manning makes 2-pt shot from 11 ft (assist by Q. Lewis)
+  - - '10:38.0'
+    - D. Causwell misses 2-pt shot from 5 ft (block by D. Manning)
+    - ''
+    - 26-25
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 26-25
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '10:12.0'
+    - ''
+    - ''
+    - 26-27
+    - "+2"
+    - D. Manning makes 2-pt shot from 22 ft (assist by J. Vaughn)
+  - - '9:52.0'
+    - Personal foul by Q. Lewis
+    - ''
+    - 26-27
+    - ''
+    - ''
+  - - '9:52.0'
+    - A. Mason enters the game for D. Causwell
+    - ''
+    - 26-27
+    - ''
+    - ''
+  - - '9:37.0'
+    - B. Bowen makes 3-pt shot from 23 ft (assist by A. Carter)
+    - "+3"
+    - 29-27
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 29-27
+    - ''
+    - Turnover by G. Ostertag (bad pass)
+  - - '9:05.0'
+    - A. Mason makes 2-pt shot from 16 ft (assist by A. Carter)
+    - "+2"
+    - 31-27
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - D. Manning misses 2-pt shot from 16 ft
+  - - '8:36.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Offensive rebound by G. Ostertag
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Shooting foul by A. Carter
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Official timeout
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - J. Stockton enters the game for J. Vaughn
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - G. Ostertag misses free throw 1 of 2
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Offensive rebound by Team
+  - - '8:35.0'
+    - ''
+    - ''
+    - 31-28
+    - "+1"
+    - G. Ostertag makes free throw 2 of 2
+  - - '8:19.0'
+    - B. Bowen misses 3-pt shot from 24 ft
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '8:00.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - D. Manning misses 2-pt shot from 12 ft
+  - - '7:58.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '7:54.0'
+    - Shooting foul by G. Ostertag
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '7:54.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 32-28
+    - ''
+    - ''
+  - - '7:54.0'
+    - B. Grant enters the game for E. Jones
+    - ''
+    - 32-28
+    - ''
+    - ''
+  - - '7:54.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 33-28
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - D. Marshall misses 2-pt shot from 17 ft
+  - - '7:34.0'
+    - Defensive rebound by Team
+    - ''
+    - 33-28
+    - ''
+    - ''
+  - - '7:16.0'
+    - B. Grant makes 2-pt shot from 19 ft (assist by A. Carter)
+    - "+2"
+    - 35-28
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 35-28
+    - ''
+    - D. Manning misses 2-pt shot from 16 ft (block by A. Green)
+  - - '6:52.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 35-28
+    - ''
+    - ''
+  - - '6:37.0'
+    - A. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 35-28
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 35-28
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '6:22.0'
+    - ''
+    - ''
+    - 35-30
+    - "+2"
+    - D. Marshall makes 2-pt shot at rim (assist by D. Manning)
+  - - '6:08.0'
+    - Personal foul by D. Marshall
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 35-30
+    - ''
+    - K. Malone enters the game for G. Ostertag
+  - - '5:57.0'
+    - Offensive foul by B. Grant
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:57.0'
+    - Turnover by B. Grant (foul)
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 35-30
+    - ''
+    - Utah full timeout
+  - - '5:34.0'
+    - ''
+    - ''
+    - 35-30
+    - ''
+    - Q. Lewis misses 2-pt shot from 23 ft
+  - - '5:31.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:23.0'
+    - Personal foul by Q. Lewis
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 35-30
+    - ''
+    - J. Starks enters the game for Q. Lewis
+  - - '5:23.0'
+    - B. Bowen misses free throw 1 of 2
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:23.0'
+    - B. Bowen misses free throw 2 of 2
+    - ''
+    - 35-30
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 35-30
+    - ''
+    - Defensive rebound by D. Manning
+  - - '5:10.0'
+    - ''
+    - ''
+    - 35-32
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by D. Marshall)
+  - - '4:56.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Violation by J. Starks (illegal defense)
+  - - '4:47.0'
+    - Shooting foul by J. Stockton
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '4:47.0'
+    - A. Mason misses free throw 1 of 2
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by Team
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '4:47.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 36-32
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - J. Stockton misses 2-pt shot from 6 ft (block by B. Grant)
+  - - '4:28.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '4:28.0'
+    - Offensive foul by B. Grant
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '4:28.0'
+    - Turnover by B. Grant (foul)
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '4:28.0'
+    - E. Jones enters the game for B. Grant
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 36-34
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Stockton)
+  - - '4:01.0'
+    - A. Mason makes 2-pt shot from 10 ft
+    - "+2"
+    - 38-34
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 38-34
+    - ''
+    - Turnover by D. Marshall (bad pass)
+  - - '3:41.0'
+    - T. Hardaway enters the game for A. Carter
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '3:23.0'
+    - A. Mason misses 2-pt shot from 13 ft
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 38-34
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '3:16.0'
+    - ''
+    - ''
+    - 38-34
+    - ''
+    - Personal foul by A. Green
+  - - '3:02.0'
+    - ''
+    - ''
+    - 38-34
+    - ''
+    - J. Starks misses 3-pt shot from 24 ft
+  - - '3:00.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '2:49.0'
+    - A. Mason makes 2-pt shot from 8 ft
+    - "+2"
+    - 40-34
+    - ''
+    - ''
+  - - '2:49.0'
+    - Shooting foul by D. Manning
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:49.0'
+    - A. Mason misses free throw 1 of 1
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:48.0'
+    - Offensive rebound by A. Green
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:36.0'
+    - Turnover by T. Hardaway (bad pass; steal by J. Stockton)
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - Turnover by J. Stockton (bad pass; steal by T. Hardaway)
+  - - '2:24.0'
+    - Personal foul by D. Manning
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:24.0'
+    - A. Mason misses free throw 1 of 2
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - B. Russell enters the game for D. Manning
+  - - '2:24.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 41-34
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 41-34
+    - ''
+    - Turnover by B. Russell (bad pass; steal by B. Bowen)
+  - - '2:15.0'
+    - T. Hardaway misses 2-pt shot from 15 ft
+    - ''
+    - 41-34
+    - ''
+    - ''
+  - - '2:13.0'
+    - A. Green misses 2-pt shot at rim (block by J. Stockton)
+    - ''
+    - 41-34
+    - ''
+    - ''
+  - - '2:13.0'
+    - Offensive rebound by A. Green
+    - ''
+    - 41-34
+    - ''
+    - ''
+  - - '2:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-34
+    - ''
+    - ''
+  - - '2:12.0'
+    - Personal foul by J. Starks
+    - ''
+    - 41-34
+    - ''
+    - ''
+  - - '2:12.0'
+    - B. Bowen makes free throw 1 of 2
+    - "+1"
+    - 42-34
+    - ''
+    - ''
+  - - '2:12.0'
+    - B. Bowen makes free throw 2 of 2
+    - "+1"
+    - 43-34
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 43-34
+    - ''
+    - K. Malone misses 2-pt shot from 17 ft
+  - - '1:50.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 43-34
+    - ''
+    - ''
+  - - '1:42.0'
+    - Ill def tech foul by B. Russell
+    - ''
+    - 43-34
+    - ''
+    - ''
+  - - '1:42.0'
+    - E. Jones makes free throw technical
+    - "+1"
+    - 44-34
+    - ''
+    - ''
+  - - '1:28.0'
+    - T. Hardaway makes 2-pt shot at rim
+    - "+2"
+    - 46-34
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 46-34
+    - ''
+    - Turnover by D. Marshall (off goaltending)
+  - - '0:50.9'
+    - A. Green misses 2-pt shot from 18 ft (block by D. Marshall)
+    - ''
+    - 46-34
+    - ''
+    - ''
+  - - '0:47.5'
+    - ''
+    - ''
+    - 46-34
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '0:41.9'
+    - ''
+    - ''
+    - 46-34
+    - ''
+    - D. Marshall misses 3-pt shot from 24 ft
+  - - '0:39.4'
+    - Defensive rebound by A. Green
+    - ''
+    - 46-34
+    - ''
+    - ''
+  - - '0:20.9'
+    - B. Bowen misses 2-pt shot from 21 ft
+    - ''
+    - 46-34
+    - ''
+    - ''
+  - - '0:18.4'
+    - ''
+    - ''
+    - 46-34
+    - ''
+    - Defensive rebound by K. Malone
+  - - '0:01.9'
+    - ''
+    - ''
+    - 46-34
+    - ''
+    - J. Stockton misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 46-34
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:36.0'
+    - A. Mason misses 2-pt shot from 16 ft
+    - ''
+    - 46-34
+    - ''
+    - ''
+  - - '11:33.0'
+    - D. Causwell makes 2-pt shot at rim
+    - "+2"
+    - 48-34
+    - ''
+    - ''
+  - - '11:33.0'
+    - Offensive rebound by D. Causwell
+    - ''
+    - 48-34
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 48-36
+    - "+2"
+    - O. Polynice makes 2-pt shot from 9 ft
+  - - '10:58.0'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 48-36
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 48-36
+    - ''
+    - Defensive rebound by Team
+  - - '10:40.0'
+    - ''
+    - ''
+    - 48-36
+    - ''
+    - K. Malone misses 2-pt shot from 10 ft
+  - - '10:33.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 48-36
+    - ''
+    - ''
+  - - '10:20.0'
+    - T. Hardaway makes 2-pt shot from 18 ft
+    - "+2"
+    - 50-36
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 50-36
+    - ''
+    - O. Polynice misses 2-pt shot at rim
+  - - '10:02.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 50-36
+    - ''
+    - ''
+  - - '9:43.0'
+    - B. Grant makes 2-pt shot at rim (assist by T. Hardaway)
+    - "+2"
+    - 52-36
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 52-38
+    - "+2"
+    - O. Polynice makes 2-pt shot from 10 ft (assist by J. Stockton)
+  - - '9:03.0'
+    - Personal foul by B. Russell
+    - ''
+    - 52-38
+    - ''
+    - ''
+  - - '8:53.0'
+    - T. Hardaway makes 2-pt shot from 18 ft
+    - "+2"
+    - 54-38
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 54-40
+    - "+2"
+    - J. Starks makes 2-pt shot at rim
+  - - '8:18.0'
+    - Personal foul by J. Starks
+    - ''
+    - 54-40
+    - ''
+    - ''
+  - - '8:11.0'
+    - Turnover by B. Grant (bad pass; steal by B. Russell)
+    - ''
+    - 54-40
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 54-40
+    - ''
+    - Flagrant foul type 1 by T. Hardaway
+  - - '8:07.0'
+    - ''
+    - ''
+    - 54-41
+    - "+1"
+    - B. Russell makes free throw flagrant 2 of 2
+  - - '8:07.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - B. Russell misses no shot
+  - - '8:07.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - Offensive rebound by Team
+  - - '7:56.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - J. Starks misses 2-pt shot from 22 ft
+  - - '7:54.0'
+    - Defensive rebound by Team
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '7:45.0'
+    - Personal foul by O. Polynice
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '7:40.0'
+    - Turnover by D. Causwell (3 second)
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - Shooting foul by D. Causwell
+  - - '7:32.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - Utah full timeout
+  - - '7:32.0'
+    - ''
+    - ''
+    - 54-42
+    - "+1"
+    - J. Stockton makes free throw 1 of 2
+  - - '7:32.0'
+    - ''
+    - ''
+    - 54-43
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '7:24.0'
+    - E. Jones misses 2-pt shot from 18 ft
+    - ''
+    - 54-43
+    - ''
+    - ''
+  - - '7:20.0'
+    - Offensive rebound by D. Causwell
+    - ''
+    - 54-43
+    - ''
+    - ''
+  - - '7:04.0'
+    - B. Grant makes 2-pt shot from 17 ft
+    - "+2"
+    - 56-43
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 56-45
+    - "+2"
+    - B. Russell makes 2-pt shot from 18 ft (assist by J. Stockton)
+  - - '6:25.0'
+    - D. Causwell makes 2-pt shot from 17 ft (assist by E. Jones)
+    - "+2"
+    - 58-45
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 58-45
+    - ''
+    - Personal foul by T. Hardaway
+  - - '5:57.0'
+    - ''
+    - ''
+    - 58-45
+    - ''
+    - K. Malone misses 2-pt shot from 19 ft
+  - - '5:54.0'
+    - Defensive rebound by D. Causwell
+    - ''
+    - 58-45
+    - ''
+    - ''
+  - - '5:40.0'
+    - A. Mason makes 2-pt shot from 18 ft (assist by E. Jones)
+    - "+2"
+    - 60-45
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 60-47
+    - "+2"
+    - K. Malone makes 2-pt shot from 18 ft (assist by J. Stockton)
+  - - '5:02.0'
+    - Shooting foul by K. Malone
+    - ''
+    - 60-47
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 60-47
+    - ''
+    - J. Vaughn enters the game for J. Stockton
+  - - '5:02.0'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 61-47
+    - ''
+    - ''
+  - - '5:02.0'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 62-47
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 62-47
+    - ''
+    - K. Malone misses 2-pt shot from 20 ft
+  - - '4:47.0'
+    - ''
+    - ''
+    - 62-47
+    - ''
+    - Offensive rebound by B. Russell
+  - - '4:45.0'
+    - ''
+    - ''
+    - 62-50
+    - "+3"
+    - J. Starks makes 3-pt shot from 24 ft (assist by B. Russell)
+  - - '4:25.0'
+    - T. Hardaway makes 2-pt shot from 20 ft
+    - "+2"
+    - 64-50
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 64-52
+    - "+2"
+    - K. Malone makes 2-pt shot from 8 ft
+  - - '3:47.0'
+    - Turnover by E. Jones (no)
+    - ''
+    - 64-52
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 64-54
+    - "+2"
+    - O. Polynice makes 2-pt shot from 6 ft (assist by K. Malone)
+  - - '3:18.0'
+    - Shooting foul by K. Malone
+    - ''
+    - 64-54
+    - ''
+    - ''
+  - - '3:18.0'
+    - B. Bowen enters the game for D. Causwell
+    - ''
+    - 64-54
+    - ''
+    - ''
+  - - '3:18.0'
+    - A. Carter enters the game for T. Hardaway
+    - ''
+    - 64-54
+    - ''
+    - ''
+  - - '3:18.0'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 65-54
+    - ''
+    - ''
+  - - '3:18.0'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 66-54
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 66-54
+    - ''
+    - K. Malone misses 2-pt shot from 20 ft
+  - - '2:49.0'
+    - ''
+    - ''
+    - 66-54
+    - ''
+    - Offensive rebound by B. Russell
+  - - '2:42.0'
+    - ''
+    - ''
+    - 66-56
+    - "+2"
+    - B. Russell makes 2-pt shot at rim (assist by J. Vaughn)
+  - - '2:26.0'
+    - Personal foul by O. Polynice
+    - ''
+    - 66-56
+    - ''
+    - ''
+  - - '2:26.0'
+    - Miami full timeout
+    - ''
+    - 66-56
+    - ''
+    - ''
+  - - '2:26.0'
+    - A. Carter makes free throw 1 of 2
+    - "+1"
+    - 67-56
+    - ''
+    - ''
+  - - '2:26.0'
+    - A. Carter makes free throw 2 of 2
+    - "+1"
+    - 68-56
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 68-58
+    - "+2"
+    - J. Vaughn makes 2-pt shot at rim (assist by B. Russell)
+  - - '2:03.0'
+    - Violation by A. Carter (def goaltending)
+    - ''
+    - 68-58
+    - ''
+    - ''
+  - - '1:36.0'
+    - B. Bowen misses 3-pt shot from 24 ft
+    - ''
+    - 68-58
+    - ''
+    - ''
+  - - '1:35.0'
+    - B. Grant makes 2-pt shot at rim
+    - "+2"
+    - 70-58
+    - ''
+    - ''
+  - - '1:35.0'
+    - Offensive rebound by B. Grant
+    - ''
+    - 70-58
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - K. Malone misses 2-pt shot from 14 ft
+  - - '1:13.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - Offensive rebound by O. Polynice
+  - - '1:07.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - O. Polynice misses 2-pt shot from 6 ft
+  - - '1:05.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 70-58
+    - ''
+    - ''
+  - - '0:54.9'
+    - E. Jones makes 2-pt shot at rim (assist by B. Grant)
+    - "+2"
+    - 72-58
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - J. Starks misses 2-pt shot from 19 ft
+  - - '0:32.9'
+    - Defensive rebound by A. Mason
+    - ''
+    - 72-58
+    - ''
+    - ''
+  - - '0:17.9'
+    - A. Carter makes 2-pt shot from 21 ft
+    - "+2"
+    - 74-58
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 74-58
+    - ''
+    - J. Starks misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 74-60
+    - "+2"
+    - G. Ostertag makes 2-pt shot at rim (assist by D. Marshall)
+  - - '11:44.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - Shooting foul by A. Mason
+  - - '11:44.0'
+    - ''
+    - ''
+    - 74-61
+    - "+1"
+    - G. Ostertag makes free throw 1 of 1
+  - - '11:30.0'
+    - Personal foul by D. Stevenson
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '11:20.0'
+    - E. Jones misses 3-pt shot from 24 ft
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Defensive rebound by K. Malone
+  - - '11:06.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Shooting foul by B. Bowen
+  - - '11:06.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - D. Marshall misses free throw 1 of 2
+  - - '11:06.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Offensive rebound by Team
+  - - '11:06.0'
+    - ''
+    - ''
+    - 74-62
+    - "+1"
+    - D. Marshall makes free throw 2 of 2
+  - - '10:43.0'
+    - B. Grant misses 2-pt shot from 9 ft
+    - ''
+    - 74-62
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 74-62
+    - ''
+    - Defensive rebound by K. Malone
+  - - '10:21.0'
+    - ''
+    - ''
+    - 74-65
+    - "+3"
+    - D. Marshall makes 3-pt shot from 26 ft (assist by J. Vaughn)
+  - - '10:01.0'
+    - E. Jones misses 2-pt shot from 18 ft (block by D. Stevenson)
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Defensive rebound by K. Malone
+  - - '9:53.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Personal foul by B. Bowen
+  - - '9:53.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Utah 20 second timeout
+  - - '9:41.0'
+    - B. Grant enters the game for A. Mason
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - D. Stevenson misses 3-pt shot from 29 ft
+  - - '9:35.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Offensive rebound by Team
+  - - '9:35.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:18.0'
+    - Turnover by B. Bowen (lost ball; steal by K. Malone)
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Offensive foul by D. Marshall
+  - - '9:06.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Turnover by D. Marshall (foul)
+  - - '9:06.0'
+    - A. Mason enters the game for E. Jones
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:49.0'
+    - B. Grant makes 2-pt shot at rim (assist by A. Carter)
+    - "+2"
+    - 76-65
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - D. Marshall misses 2-pt shot from 23 ft
+  - - '8:27.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '8:07.0'
+    - Turnover by A. Green (traveling)
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Official timeout
+  - - '8:07.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - J. Stockton enters the game for J. Vaughn
+  - - '7:54.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Turnover by D. Marshall (bad pass; steal by B. Grant)
+  - - '7:39.0'
+    - B. Grant misses 2-pt shot from 17 ft
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '7:33.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - J. Stockton misses 3-pt shot from 25 ft
+  - - '7:31.0'
+    - ''
+    - ''
+    - 76-67
+    - "+2"
+    - D. Marshall makes 2-pt shot from 11 ft
+  - - '7:31.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Offensive rebound by D. Marshall
+  - - '7:07.0'
+    - Turnover by A. Carter (lost ball)
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Personal foul by B. Bowen
+  - - '6:54.0'
+    - T. Hardaway enters the game for A. Carter
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Personal foul by A. Green
+  - - '6:45.0'
+    - D. Causwell enters the game for B. Grant
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - J. Stockton misses free throw 1 of 2
+  - - '6:45.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Offensive rebound by Team
+  - - '6:45.0'
+    - E. Jones enters the game for A. Green
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 76-68
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '6:24.0'
+    - E. Jones misses 3-pt shot from 25 ft
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '6:11.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Shooting foul by A. Mason
+  - - '6:11.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - K. Malone misses free throw 1 of 2
+  - - '6:11.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Offensive rebound by Team
+  - - '6:11.0'
+    - ''
+    - ''
+    - 76-69
+    - "+1"
+    - K. Malone makes free throw 2 of 2
+  - - '5:56.0'
+    - E. Jones misses 3-pt shot from 24 ft
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '5:54.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Utah full timeout
+  - - '5:54.0'
+    - B. Grant enters the game for D. Causwell
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - K. Malone misses 2-pt shot from 16 ft
+  - - '5:40.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '5:23.0'
+    - Shooting foul by G. Ostertag
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Violation by Team (delay of game)
+  - - '5:23.0'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 77-69
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - J. Starks enters the game for D. Stevenson
+  - - '5:23.0'
+    - B. Grant misses free throw 2 of 2
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '5:03.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - Turnover by K. Malone (bad pass; steal by T. Hardaway)
+  - - '4:52.0'
+    - Offensive foul by B. Grant
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '4:52.0'
+    - Turnover by B. Grant (foul)
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 77-71
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Stockton)
+  - - '4:03.0'
+    - T. Hardaway misses 3-pt shot from 24 ft
+    - ''
+    - 77-71
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 77-71
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '3:43.0'
+    - ''
+    - ''
+    - 77-73
+    - "+2"
+    - K. Malone makes 2-pt shot from 16 ft (assist by J. Starks)
+  - - '3:41.0'
+    - Miami full timeout
+    - ''
+    - 77-73
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - B. Russell enters the game for D. Marshall
+  - - '3:29.0'
+    - E. Jones makes 2-pt shot at rim (assist by T. Hardaway)
+    - "+2"
+    - 79-73
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - Inbound foul by B. Bowen
+  - - '3:05.0'
+    - ''
+    - ''
+    - 79-74
+    - "+1"
+    - B. Russell makes free throw 1 of 2
+  - - '3:05.0'
+    - ''
+    - ''
+    - 79-75
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '2:48.0'
+    - E. Jones misses 2-pt shot from 18 ft
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '2:39.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Turnover by J. Starks (bad pass)
+  - - '2:27.0'
+    - T. Hardaway makes 2-pt shot from 20 ft
+    - "+2"
+    - 81-75
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 81-75
+    - ''
+    - B. Russell misses 2-pt shot from 12 ft
+  - - '2:06.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 81-75
+    - ''
+    - ''
+  - - '1:59.0'
+    - E. Jones misses 3-pt shot from 23 ft
+    - ''
+    - 81-75
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 81-75
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '1:46.0'
+    - ''
+    - ''
+    - 81-75
+    - ''
+    - J. Starks misses 3-pt shot from 24 ft
+  - - '1:44.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 81-75
+    - ''
+    - ''
+  - - '1:21.0'
+    - T. Hardaway makes 2-pt shot from 21 ft
+    - "+2"
+    - 83-75
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 83-75
+    - ''
+    - Utah full timeout
+  - - '1:21.0'
+    - ''
+    - ''
+    - 83-75
+    - ''
+    - D. Manning enters the game for G. Ostertag
+  - - '1:18.0'
+    - ''
+    - ''
+    - 83-78
+    - "+3"
+    - J. Stockton makes 3-pt shot from 25 ft (assist by B. Russell)
+  - - '0:57.9'
+    - A. Mason misses 2-pt shot from 10 ft
+    - ''
+    - 83-78
+    - ''
+    - ''
+  - - '0:55.9'
+    - ''
+    - ''
+    - 83-78
+    - ''
+    - Defensive rebound by K. Malone
+  - - '0:49.4'
+    - ''
+    - ''
+    - 83-80
+    - "+2"
+    - J. Stockton makes 2-pt shot from 15 ft
+  - - '0:37.0'
+    - Personal foul by B. Russell
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:37.0'
+    - Miami 20 second timeout
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:32.0'
+    - Miami full timeout
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:32.0'
+    - Miami full timeout
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:23.9'
+    - B. Bowen misses 2-pt shot from 8 ft
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:22.5'
+    - ''
+    - ''
+    - 83-80
+    - ''
+    - Defensive rebound by K. Malone
+  - - '0:15.9'
+    - ''
+    - ''
+    - 83-80
+    - ''
+    - J. Stockton misses 3-pt shot from 24 ft
+  - - '0:15.6'
+    - Defensive rebound by B. Grant
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:15.6'
+    - Personal foul by J. Stockton
+    - ''
+    - 83-80
+    - ''
+    - ''
+  - - '0:15.6'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 84-80
+    - ''
+    - ''
+  - - '0:15.6'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 85-80
+    - ''
+    - ''
+  - - '0:05.9'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - K. Malone misses 2-pt shot at rim
+  - - '0:04.9'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - K. Malone misses 2-pt shot at rim
+  - - '0:04.9'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - Offensive rebound by K. Malone
+  - - '0:04.5'
+    - Defensive rebound by A. Mason
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:04.5'
+    - Personal foul by B. Russell
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:04.5'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 86-80
+    - ''
+    - ''
+  - - '0:04.5'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 87-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

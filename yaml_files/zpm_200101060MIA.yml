@@ -1,0 +1,227 @@
+---
+- name: Plus-Minus
+  data:
+  - - Boston Celtics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kenny Anderson (On: -18&#9642;Off: -8&#9642;Net: -10)'
+    - |2-
+
+      -8
+    - 196/-8
+    - 148/
+    - 70/+2
+    - 84/
+    - 158/-9
+    - 91/
+    - 169/-3
+    - 80/
+    - 'Mark Blount (On: -22&#9642;Off: -4&#9642;Net: -18)'
+    - |2-
+
+      -5
+    - 162/-5
+    - 23/
+    - 45/-9
+    - 78/
+    - 11/0
+    - 177/
+    - 138/-5
+    - 184/
+    - 96/-3
+    - 80/
+    - 'Paul Pierce (On: -13&#9642;Off: -13&#9642;Net: 0)'
+    - |2-
+
+      -3
+    - 157/-3
+    - 92/
+    - 223/-5
+    - 26/
+    - 220/-9
+    - 73/
+    - 178/+4
+    - 27/
+    - 'Bryant Stith (On: -13&#9642;Off: -13&#9642;Net: 0)'
+    - |2-
+
+      -3
+    - 157/-3
+    - 188/
+    - 154/-5
+    - 139/-5
+    - 361/
+    - 'Antoine Walker (On: -14&#9642;Off: -12&#9642;Net: -2)'
+    - |2-
+
+      -3
+    - 182/-3
+    - 105/
+    - 211/-1
+    - 204/-11
+    - 120/
+    - 176/+1
+    - 'Chris Carr (On: -3&#9642;Off: -23&#9642;Net: +20)'
+    - "\n"
+    - 161/
+    - 89/-7
+    - 89/0
+    - 584/
+    - 76/+4
+    - 'Eric Williams (On: -13&#9642;Off: -13&#9642;Net: 0)'
+    - "\n"
+    - 160/
+    - 89/-7
+    - 476/
+    - 23/-3
+    - 170/-3
+    - 80/
+    - 'Vitaly Potapenko (On: -17&#9642;Off: -9&#9642;Net: -8)'
+    - "\n"
+    - 167/
+    - 82/-5
+    - 54/0
+    - 19/
+    - 175/-5
+    - 141/
+    - 107/-7
+    - 70/0
+    - 180/
+    - 'Randy Brown (On: -8&#9642;Off: -18&#9642;Net: +10)'
+    - "\n"
+    - 202/
+    - 47/-2
+    - 89/0
+    - 79/
+    - 80/-7
+    - 167/
+    - 82/-3
+    - 173/
+    - 76/+4
+    - 'Walter McCarty (On: +1&#9642;Off: -27&#9642;Net: +28)'
+    - "\n"
+    - 235/
+    - 14/+2
+    - 32/-4
+    - 426/
+    - 40/-1
+    - 71/0
+    - 103/
+    - 75/+4
+    - 'Adrian Griffin (On: -10&#9642;Off: -16&#9642;Net: +6)'
+    - "\n"
+    - 473/
+    - 25/0
+    - 142/
+    - 108/-7
+    - 37/-2
+    - 190/
+    - 22/-1
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: +29&#9642;Off: -3&#9642;Net: +32)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 129/
+    - 120/+7
+    - 250/+12
+    - 71/0
+    - 178/
+    - 'Brian Grant (On: +26&#9642;Off: 0&#9642;Net: +26)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 95/
+    - 114/+4
+    - 40/
+    - 250/+12
+    - 249/
+    - 'Tim Hardaway (On: +31&#9642;Off: -5&#9642;Net: +36)'
+    - |2-
+
+      +12
+    - 231/+12
+    - 148/
+    - 120/+7
+    - 250/+12
+    - 250/
+    - 'Eddie Jones (On: +24&#9642;Off: +2&#9642;Net: +22)'
+    - |2-
+
+      +8
+    - 197/+8
+    - 53/
+    - 38/+4
+    - 211/
+    - 249/+12
+    - 24/0
+    - 225/
+    - 'Anthony Mason (On: +21&#9642;Off: +5&#9642;Net: +16)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 163/-2
+    - 50/
+    - 36/+1
+    - 249/+12
+    - 71/0
+    - 179/
+    - 'Dan Majerle (On: +10&#9642;Off: +16&#9642;Net: -6)'
+    - "\n"
+    - 202/
+    - 47/+2
+    - 250/+5
+    - 323/
+    - 96/+3
+    - 80/
+    - 'Anthony Carter (On: -5&#9642;Off: +31&#9642;Net: -36)'
+    - "\n"
+    - 235/
+    - 15/-2
+    - 125/-2
+    - 374/
+    - 250/-1
+    - 'A.C. Green (On: +6&#9642;Off: +20&#9642;Net: -14)'
+    - "\n"
+    - 250/
+    - 89/0
+    - 76/
+    - 84/+7
+    - 250/
+    - 249/-1
+    - 'Cedric Ceballos (On: -7&#9642;Off: +33&#9642;Net: -40)'
+    - "\n"
+    - 294/
+    - 82/-6
+    - 407/
+    - 217/-1
+    - 'Todd Fuller (On: -1&#9642;Off: +27&#9642;Net: -28)'
+    - "\n"
+    - 826/
+    - 176/-1
+    - 'Eddie House (On: -4&#9642;Off: +30&#9642;Net: -34)'
+    - "\n"
+    - 926/
+    - 76/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

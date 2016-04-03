@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: -7&#9642;Off: +6&#9642;Net: -13)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 127/+10
+    - 49/
+    - 72/+1
+    - 249/+5
+    - 49/0
+    - 46/
+    - 155/-12
+    - 'Greg Foster (On: -8&#9642;Off: +7&#9642;Net: -15)'
+    - |2-
+
+      -11
+    - 250/-11
+    - 224/
+    - 25/+1
+    - 232/+2
+    - 268/
+    - 'Horace Grant (On: -4&#9642;Off: +3&#9642;Net: -7)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 37/+4
+    - 95/
+    - 103/+5
+    - 14/
+    - 249/+5
+    - 139/
+    - 110/-7
+    - 'Ron Harper (On: -4&#9642;Off: +3&#9642;Net: -7)'
+    - |2-
+
+      -9
+    - 238/-9
+    - 261/
+    - 187/+4
+    - 263/
+    - 43/+1
+    - 6/
+    - 'Brian Shaw (On: -12&#9642;Off: +11&#9642;Net: -23)'
+    - |2-
+
+      -9
+    - 238/-9
+    - 261/
+    - 187/+4
+    - 202/
+    - 111/-7
+    - 'Mike Penberthy (On: +14&#9642;Off: -15&#9642;Net: +29)'
+    - "\n"
+    - 238/
+    - 11/-2
+    - 232/+16
+    - 317/
+    - 40/+2
+    - 78/
+    - 25/-2
+    - 55/
+    - 'Isaiah Rider (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - "\n"
+    - 238/
+    - 11/-2
+    - 169/+14
+    - 66/
+    - 14/-1
+    - 188/
+    - 60/+1
+    - 168/-9
+    - 81/
+    - 'Robert Horry (On: +7&#9642;Off: -8&#9642;Net: +15)'
+    - "\n"
+    - 250/
+    - 219/+14
+    - 264/
+    - 16/+3
+    - 250/-10
+    - 'Mark Madsen (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - "\n"
+    - 291/
+    - 86/+6
+    - 108/
+    - 14/0
+    - 249/
+    - 132/-3
+    - 117/
+    - 'Rick Fox (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - "\n"
+    - 382/
+    - 117/+5
+    - 189/
+    - 61/+1
+    - 132/-3
+    - 117/
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tariq Abdul-Wahad (On: +5&#9642;Off: -4&#9642;Net: +9)'
+    - |2-
+
+      +5
+    - 154/+5
+    - 198/
+    - 67/-3
+    - 80/
+    - 69/+3
+    - 430/
+    - 'Raef LaFrentz (On: +15&#9642;Off: -14&#9642;Net: +29)'
+    - |2-
+
+      +9
+    - 238/+9
+    - 144/
+    - 117/-5
+    - 159/+1
+    - 90/
+    - 250/+10
+    - 'Antonio McDyess (On: +10&#9642;Off: -9&#9642;Net: +19)'
+    - |2-
+
+      +11
+    - 250/+11
+    - 88/
+    - 162/-6
+    - 250/-5
+    - 249/+10
+    - 'James Posey (On: +19&#9642;Off: -18&#9642;Net: +37)'
+    - |2-
+
+      +11
+    - 249/+11
+    - 37/-4
+    - 140/
+    - 72/-1
+    - 159/+1
+    - 185/
+    - 155/+12
+    - 'Nick Van Exel (On: +1&#9642;Off: 0&#9642;Net: +1)'
+    - |2-
+
+      +4
+    - 191/+4
+    - 122/
+    - 186/-8
+    - 250/-5
+    - 250/+10
+    - 'Voshon Lenard (On: -12&#9642;Off: +13&#9642;Net: -25)'
+    - "\n"
+    - 159/
+    - 91/+6
+    - 98/-11
+    - 223/
+    - 116/-7
+    - 311/
+    - 'Robert Pack (On: 0&#9642;Off: +1&#9642;Net: -1)'
+    - "\n"
+    - 200/
+    - 50/+7
+    - 59/-7
+    - 691/
+    - 'Keon Clark (On: -13&#9642;Off: +14&#9642;Net: -27)'
+    - "\n"
+    - 238/
+    - 11/+2
+    - 82/-9
+    - 333/
+    - 85/-6
+    - 249/
+    - 'Mark Strickland (On: -10&#9642;Off: +11&#9642;Net: -21)'
+    - "\n"
+    - 250/
+    - 128/-10
+    - 623/
+    - 'George McCloud (On: -7&#9642;Off: +8&#9642;Net: -15)'
+    - "\n"
+    - 292/
+    - 208/-11
+    - 165/
+    - 85/-6
+    - 249/+10
+    - 'Tracy Murray (On: -3&#9642;Off: +4&#9642;Net: -7)'
+    - "\n"
+    - 689/
+    - 61/-1
+    - 90/-2
+    - 160/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

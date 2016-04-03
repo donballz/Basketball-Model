@@ -1,0 +1,227 @@
+---
+- name: Plus-Minus
+  data:
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chauncey Billups (On: -16&#9642;Off: -6&#9642;Net: -10)'
+    - |2-
+
+      -12
+    - 250/-12
+    - 196/
+    - 54/+1
+    - 96/-6
+    - 256/
+    - 146/+1
+    - 'Terrell Brandon (On: -28&#9642;Off: +6&#9642;Net: -34)'
+    - |2-
+
+      -11
+    - 182/-11
+    - 160/
+    - 156/-4
+    - 96/-6
+    - 197/
+    - 96/-7
+    - 110/
+    - 'Kevin Garnett (On: -22&#9642;Off: 0&#9642;Net: -22)'
+    - |2-
+
+      -12
+    - 249/-12
+    - 70/+6
+    - 64/
+    - 115/0
+    - 118/-9
+    - 131/
+    - 153/-7
+    - 96/
+    - 'Dean Garrett (On: -6&#9642;Off: -16&#9642;Net: +10)'
+    - |2-
+
+      -6
+    - 67/-6
+    - 433/
+    - 23/0
+    - 477/
+    - 'Wally Szczerbiak (On: -11&#9642;Off: -11&#9642;Net: 0)'
+    - |2-
+
+      -12
+    - 249/-12
+    - 54/+6
+    - 130/
+    - 65/0
+    - 95/-6
+    - 256/
+    - 91/+1
+    - 56/
+    - 'LaPhonso Ellis (On: -16&#9642;Off: -6&#9642;Net: -10)'
+    - "\n"
+    - 70/
+    - 178/-6
+    - 76/
+    - 52/-6
+    - 149/
+    - 86/-9
+    - 8/
+    - 127/+5
+    - 249/
+    - 'Anthony Peeler (On: -6&#9642;Off: -16&#9642;Net: +10)'
+    - "\n"
+    - 187/
+    - 63/-1
+    - 195/-1
+    - 153/
+    - 151/+2
+    - 249/-6
+    - 'William Avery (On: +7&#9642;Off: -29&#9642;Net: +36)'
+    - "\n"
+    - 249/
+    - 89/+4
+    - 259/
+    - 151/+2
+    - 35/0
+    - 104/
+    - 110/+1
+    - 'Rasho Nesterovic (On: 0&#9642;Off: -22&#9642;Net: +22)'
+    - "\n"
+    - 250/
+    - 250/0
+    - 150/
+    - 100/+7
+    - 98/-7
+    - 150/
+    - 'Todd Day (On: -11&#9642;Off: -11&#9642;Net: 0)'
+    - "\n"
+    - 308/
+    - 124/-6
+    - 167/
+    - 48/-5
+    - 352/
+    - 'Sam Mitchell (On: -2&#9642;Off: -20&#9642;Net: +18)'
+    - "\n"
+    - 617/
+    - 132/+5
+    - 99/-7
+    - 100/
+    - 51/0
+    - 'Tom Hammonds (On: +1&#9642;Off: -23&#9642;Net: +24)'
+    - "\n"
+    - 910/
+    - 92/+1
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Lucious Harris (On: +25&#9642;Off: -3&#9642;Net: +28)'
+    - |2-
+
+      +12
+    - 250/+12
+    - 76/
+    - 173/+6
+    - 221/+7
+    - 279/
+    - 'Stephen Jackson (On: +19&#9642;Off: +3&#9642;Net: +16)'
+    - |2-
+
+      +8
+    - 149/+8
+    - 100/
+    - 249/0
+    - 185/+7
+    - 36/
+    - 28/-3
+    - 179/+7
+    - 70/
+    - 'Stephon Marbury (On: +10&#9642;Off: +12&#9642;Net: -2)'
+    - |2-
+
+      +12
+    - 250/+12
+    - 70/-6
+    - 114/
+    - 65/0
+    - 250/+4
+    - 249/
+    - 'Kenyon Martin (On: +30&#9642;Off: -8&#9642;Net: +38)'
+    - |2-
+
+      +12
+    - 249/+12
+    - 156/
+    - 64/+7
+    - 29/
+    - 39/+4
+    - 210/
+    - 173/+7
+    - 76/
+    - 'Aaron Williams (On: +34&#9642;Off: -12&#9642;Net: +46)'
+    - |2-
+
+      +11
+    - 199/+11
+    - 206/
+    - 26/+5
+    - 68/
+    - 131/+11
+    - 118/
+    - 173/+7
+    - 75/
+    - 'Johnny Newman (On: +3&#9642;Off: +19&#9642;Net: -16)'
+    - "\n"
+    - 154/
+    - 95/+4
+    - 154/-5
+    - 68/
+    - 28/-2
+    - 43/
+    - 206/0
+    - 248/+6
+    - 'Sherman Douglas (On: +4&#9642;Off: +18&#9642;Net: -14)'
+    - "\n"
+    - 203/
+    - 46/+1
+    - 182/0
+    - 260/
+    - 58/-3
+    - 249/+6
+    - 'Jim McIlvaine (On: -5&#9642;Off: +27&#9642;Net: -32)'
+    - "\n"
+    - 250/
+    - 154/-5
+    - 597/
+    - 'Evan Eschmeyer (On: -1&#9642;Off: +23&#9642;Net: -24)'
+    - "\n"
+    - 434/
+    - 66/0
+    - 433/
+    - 67/-1
+    - 'Soumaila Samake (On: -8&#9642;Off: +30&#9642;Net: -38)'
+    - "\n"
+    - 636/
+    - 114/-7
+    - 177/
+    - 73/-1
+    - 'Kevin Ollie (On: -1&#9642;Off: +23&#9642;Net: -24)'
+    - "\n"
+    - 929/
+    - 73/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Chicago Bulls
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Metta World Peace (On: -5&#9642;Off: -19&#9642;Net: +14)'
+    - |2-
+
+      -1
+    - 29/-1
+    - 360/
+    - 48/0
+    - 62/
+    - 85/-4
+    - 229/
+    - 184/0
+    - 'Elton Brand (On: -27&#9642;Off: +3&#9642;Net: -30)'
+    - |2-
+
+      -14
+    - 161/-14
+    - 20/
+    - 68/+1
+    - 53/-2
+    - 15/
+    - 181/-9
+    - 230/-3
+    - 268/
+    - 'Khalid El-Amin (On: -21&#9642;Off: -3&#9642;Net: -18)'
+    - |2-
+
+      -15
+    - 188/-15
+    - 55/
+    - 5/0
+    - 158/-10
+    - 90/
+    - 155/+1
+    - 82/
+    - 11/+3
+    - 64/0
+    - 186/
+    - 'Ron Mercer (On: -24&#9642;Off: 0&#9642;Net: -24)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 133/-8
+    - 58/
+    - 59/-3
+    - 250/0
+    - 248/
+    - 'Dragan Tarlac (On: -11&#9642;Off: -13&#9642;Net: +2)'
+    - |2-
+
+      -11
+    - 78/-11
+    - 422/
+    - 250/0
+    - 250/
+    - 'Corey Benjamin (On: -15&#9642;Off: -9&#9642;Net: -6)'
+    - "\n"
+    - 29/
+    - 215/-12
+    - 144/
+    - 110/-3
+    - 250/
+    - 250/0
+    - 'Michael Ruffin (On: -4&#9642;Off: -20&#9642;Net: +16)'
+    - "\n"
+    - 82/
+    - 168/-2
+    - 65/-2
+    - 685/
+    - 'Marcus Fizer (On: -6&#9642;Off: -18&#9642;Net: +12)'
+    - "\n"
+    - 164/
+    - 15/0
+    - 130/
+    - 170/-9
+    - 257/
+    - 11/+3
+    - 250/0
+    - 'Jamal Crawford (On: -3&#9642;Off: -21&#9642;Net: +18)'
+    - "\n"
+    - 195/
+    - 49/+2
+    - 166/
+    - 88/-1
+    - 163/
+    - 67/-4
+    - 84/
+    - 184/0
+    - 'Fred Hoiberg (On: -4&#9642;Off: -20&#9642;Net: +16)'
+    - "\n"
+    - 245/
+    - 5/0
+    - 133/-8
+    - 205/
+    - 160/+4
+    - 64/0
+    - 185/
+    - 'Dalibor Bagaric (On: 0&#9642;Off: -24&#9642;Net: +24)'
+    - "\n"
+    - 488/
+    - 12/0
+    - 250/
+    - 250/0
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +18&#9642;Off: +6&#9642;Net: +12)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 139/
+    - 110/+3
+    - 180/+2
+    - 320/
+    - 'Tim Duncan (On: +14&#9642;Off: +10&#9642;Net: +4)'
+    - |2-
+
+      +12
+    - 136/+12
+    - 113/
+    - 65/+2
+    - 184/
+    - 249/0
+    - 65/0
+    - 185/
+    - 'Sean Elliott (On: +25&#9642;Off: -1&#9642;Net: +26)'
+    - |2-
+
+      +12
+    - 137/+12
+    - 113/
+    - 250/+11
+    - 126/+2
+    - 373/
+    - 'Avery Johnson (On: +17&#9642;Off: +7&#9642;Net: +10)'
+    - |2-
+
+      +14
+    - 180/+14
+    - 210/
+    - 110/+3
+    - 500/
+    - 'David Robinson (On: +27&#9642;Off: -3&#9642;Net: +30)'
+    - |2-
+
+      +13
+    - 195/+13
+    - 123/
+    - 111/+8
+    - 70/
+    - 97/+6
+    - 402/
+    - 'Terry Porter (On: +5&#9642;Off: +19&#9642;Net: -14)'
+    - "\n"
+    - 137/
+    - 113/+1
+    - 133/+8
+    - 300/
+    - 65/-2
+    - 106/-2
+    - 143/
+    - 'Malik Rose (On: -9&#9642;Off: +33&#9642;Net: -42)'
+    - "\n"
+    - 137/
+    - 107/+1
+    - 185/
+    - 35/-3
+    - 134/
+    - 149/-6
+    - 136/-1
+    - 113/
+    - 'Antonio Daniels (On: +9&#9642;Off: +15&#9642;Net: -6)'
+    - "\n"
+    - 181/
+    - 69/-1
+    - 133/+8
+    - 116/
+    - 196/0
+    - 163/
+    - 139/+2
+    - 'Shawnelle Scott (On: +4&#9642;Off: +20&#9642;Net: -16)'
+    - "\n"
+    - 202/
+    - 48/0
+    - 220/
+    - 29/+4
+    - 322/
+    - 177/0
+    - 'Danny Ferry (On: +12&#9642;Off: +12&#9642;Net: 0)'
+    - "\n"
+    - 245/
+    - 5/0
+    - 250/+11
+    - 393/
+    - 106/+1
+    - 'Ira Newble (On: -2&#9642;Off: +26&#9642;Net: -28)'
+    - "\n"
+    - 631/
+    - 120/-2
+    - 250/0
+    - 'Steve Kerr (On: 0&#9642;Off: +24&#9642;Net: -24)'
+    - "\n"
+    - 700/
+    - 51/0
+    - 250/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

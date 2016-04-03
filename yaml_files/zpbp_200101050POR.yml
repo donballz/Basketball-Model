@@ -1,0 +1,2712 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Sabonis vs. T. Thomas (R. Allen gains possession)'
+  - - '11:53.0'
+    - R. Allen makes 2-pt shot from 9 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:53.0'
+    - Shooting foul by B. Wells
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:53.0'
+    - R. Allen makes free throw 1 of 1
+    - "+1"
+    - 3-0
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 3-2
+    - "+2"
+    - S. Pippen makes 2-pt shot at rim (assist by R. Wallace)
+  - - '11:22.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by T. Thomas)
+    - "+3"
+    - 6-2
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - A. Sabonis misses 3-pt shot from 25 ft
+  - - '11:00.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Offensive rebound by Team
+  - - '11:00.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Loose ball foul by R. Allen
+  - - '10:52.0'
+    - ''
+    - ''
+    - 6-4
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by R. Wallace)
+  - - '10:44.0'
+    - Turnover by G. Robinson (lost ball)
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 6-6
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by R. Wallace)
+  - - '10:21.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '10:13.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - D. Stoudamire misses 2-pt shot from 17 ft
+  - - '10:05.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '10:01.0'
+    - G. Robinson misses 2-pt shot at rim (block by A. Sabonis)
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:58.0'
+    - Offensive rebound by R. Allen
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:53.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by B. Wells
+  - - '9:47.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Personal foul by G. Robinson
+  - - '9:46.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Offensive foul by B. Wells
+  - - '9:46.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Turnover by B. Wells (foul)
+  - - '9:46.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '9:36.0'
+    - G. Robinson makes 2-pt shot from 21 ft (assist by S. Cassell)
+    - "+2"
+    - 8-6
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Turnover by S. Smith (bad pass; steal by R. Allen)
+  - - '9:06.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 8-6
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '8:55.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Turnover by S. Pippen (bad pass; steal by T. Thomas)
+  - - '8:48.0'
+    - S. Cassell makes 2-pt shot from 16 ft (assist by T. Thomas)
+    - "+2"
+    - 10-6
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - A. Sabonis misses 2-pt shot at rim
+  - - '8:15.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '8:09.0'
+    - S. Williams misses 2-pt shot from 17 ft
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '7:56.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - D. Stoudamire misses 3-pt shot from 25 ft
+  - - '7:54.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '7:46.0'
+    - S. Cassell misses 2-pt shot from 11 ft
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '7:42.0'
+    - Violation by R. Allen (kicked ball)
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - Turnover by A. Sabonis (bad pass)
+  - - '7:14.0'
+    - Turnover by G. Robinson (lost ball)
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 10-8
+    - "+2"
+    - R. Wallace makes 2-pt shot from 21 ft (assist by D. Stoudamire)
+  - - '6:39.0'
+    - S. Williams makes 2-pt shot from 18 ft (assist by T. Thomas)
+    - "+2"
+    - 12-8
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 12-10
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 5 ft (assist by A. Sabonis)
+  - - '6:02.0'
+    - T. Thomas misses 2-pt shot from 17 ft
+    - ''
+    - 12-10
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '5:48.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Personal foul by S. Cassell
+  - - '5:48.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Portland full timeout
+  - - '5:41.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim (assist by S. Pippen)
+  - - '5:22.0'
+    - G. Robinson misses 2-pt shot from 14 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:20.0'
+    - S. Williams misses 2-pt shot at rim (block by S. Smith)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:20.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '5:09.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - R. Wallace makes 2-pt shot from 23 ft (assist by D. Stoudamire)
+  - - '4:55.0'
+    - Shooting foul by S. Smith
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '4:55.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 13-14
+    - ''
+    - ''
+  - - '4:55.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 14-14
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - S. Smith misses 2-pt shot at rim (block by S. Williams)
+  - - '4:40.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - S. Smith misses 2-pt shot at rim
+  - - '4:40.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Offensive rebound by S. Smith
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-16
+    - ''
+    - Offensive rebound by A. Sabonis
+  - - '4:27.0'
+    - S. Williams makes 2-pt shot from 16 ft (assist by S. Cassell)
+    - "+2"
+    - 16-16
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Personal foul by R. Allen
+  - - '4:19.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '4:19.0'
+    - J. Caffey enters the game for T. Thomas
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 16-18
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by R. Wallace)
+  - - '3:54.0'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 16-18
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 16-18
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '3:49.0'
+    - ''
+    - ''
+    - 16-18
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-20
+    - "+2"
+    - S. Smith makes 2-pt shot at rim
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Offensive rebound by S. Smith
+  - - '3:26.0'
+    - S. Williams misses 2-pt shot from 17 ft
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '3:17.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Turnover by R. Wallace (bad pass)
+  - - '3:17.0'
+    - Milwaukee full timeout
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '3:17.0'
+    - T. Thomas enters the game for R. Allen
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '3:00.0'
+    - G. Robinson misses 2-pt shot from 9 ft
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Defensive rebound by D. Davis
+  - - '2:48.0'
+    - ''
+    - ''
+    - 16-22
+    - "+2"
+    - D. Davis makes 2-pt shot from 18 ft (assist by S. Pippen)
+  - - '2:32.0'
+    - Offensive foul by J. Caffey
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '2:32.0'
+    - Turnover by J. Caffey (foul)
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '2:32.0'
+    - E. Johnson enters the game for S. Williams
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '2:32.0'
+    - L. Hunter enters the game for G. Robinson
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 16-24
+    - "+2"
+    - S. Pippen makes 2-pt shot from 19 ft (assist by S. Smith)
+  - - '2:01.0'
+    - L. Hunter makes 2-pt shot from 4 ft
+    - "+2"
+    - 18-24
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 18-24
+    - ''
+    - S. Smith misses 2-pt shot from 18 ft
+  - - '1:40.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '1:36.0'
+    - Personal foul by S. Pippen
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '1:23.0'
+    - Turnover by T. Thomas (lost ball)
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 18-26
+    - "+2"
+    - R. Wallace makes 2-pt shot from 16 ft (assist by S. Pippen)
+  - - '0:41.6'
+    - L. Hunter makes 2-pt shot from 23 ft
+    - "+2"
+    - 20-26
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 20-28
+    - "+2"
+    - D. Stoudamire makes 2-pt shot at rim
+  - - '0:27.1'
+    - T. Thomas misses 2-pt shot at rim (block by R. Wallace)
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '0:23.9'
+    - S. Cassell makes 2-pt shot from 13 ft
+    - "+2"
+    - 22-28
+    - ''
+    - ''
+  - - '0:23.9'
+    - Offensive rebound by S. Cassell
+    - ''
+    - 22-28
+    - ''
+    - ''
+  - - '0:02.0'
+    - ''
+    - ''
+    - 22-28
+    - ''
+    - D. Stoudamire misses 3-pt shot from 24 ft
+  - - '0:00.9'
+    - ''
+    - ''
+    - 22-30
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim
+  - - '0:00.9'
+    - ''
+    - ''
+    - 22-30
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:39.0'
+    - ''
+    - ''
+    - 22-32
+    - "+2"
+    - S. Kemp makes 2-pt shot from 22 ft (assist by D. Davis)
+  - - '11:18.0'
+    - Shooting foul by D. Davis
+    - ''
+    - 22-32
+    - ''
+    - ''
+  - - '11:18.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 23-32
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 23-32
+    - ''
+    - G. Anthony enters the game for D. Stoudamire
+  - - '11:18.0'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 24-32
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 24-34
+    - "+2"
+    - S. Smith makes 2-pt shot from 9 ft
+  - - '10:47.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 24-34
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 24-34
+    - ''
+    - Defensive rebound by G. Anthony
+  - - '10:40.0'
+    - G. Robinson enters the game for S. Cassell
+    - ''
+    - 24-34
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 24-36
+    - "+2"
+    - S. Smith makes 2-pt shot from 21 ft (assist by B. Wells)
+  - - '10:24.0'
+    - T. Thomas misses 2-pt shot from 20 ft
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '10:12.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - Offensive foul by S. Smith
+  - - '10:12.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - Turnover by S. Smith (foul)
+  - - '10:01.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '9:58.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '9:49.0'
+    - Offensive foul by E. Johnson
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '9:49.0'
+    - Turnover by E. Johnson (foul)
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - Shooting foul by J. Caffey
+  - - '9:35.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - S. Kemp misses free throw 1 of 2
+  - - '9:35.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - Offensive rebound by Team
+  - - '9:35.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - S. Kemp misses free throw 2 of 2
+  - - '9:34.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '9:15.0'
+    - T. Thomas makes 2-pt shot from 3 ft
+    - "+2"
+    - 26-36
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - Personal foul by L. Hunter
+  - - '9:02.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - Portland full timeout
+  - - '9:02.0'
+    - R. Allen enters the game for T. Thomas
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '9:02.0'
+    - S. Williams enters the game for E. Johnson
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - S. Smith misses 3-pt shot from 24 ft
+  - - '8:49.0'
+    - Defensive rebound by Team
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '8:41.0'
+    - Offensive foul by R. Allen
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '8:41.0'
+    - Turnover by R. Allen (foul)
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '8:41.0'
+    - S. Cassell enters the game for R. Allen
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - S. Kemp misses 2-pt shot at rim
+  - - '8:20.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - Offensive rebound by G. Anthony
+  - - '8:11.0'
+    - ''
+    - ''
+    - 26-38
+    - "+2"
+    - S. Kemp makes 2-pt shot at rim (assist by G. Anthony)
+  - - '7:51.0'
+    - G. Robinson misses 2-pt shot from 20 ft
+    - ''
+    - 26-38
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 26-38
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '7:38.0'
+    - ''
+    - ''
+    - 26-40
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '7:30.0'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 28-40
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - Shooting foul by J. Caffey
+  - - '7:07.0'
+    - ''
+    - ''
+    - 28-41
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '7:07.0'
+    - J. Kersey enters the game for J. Caffey
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 28-42
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '6:54.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 28-42
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 28-42
+    - ''
+    - S. Pippen enters the game for S. Smith
+  - - '6:54.0'
+    - ''
+    - ''
+    - 28-42
+    - ''
+    - R. Wallace enters the game for D. Davis
+  - - '6:54.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 29-42
+    - ''
+    - ''
+  - - '6:54.0'
+    - G. Robinson misses free throw 2 of 2
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 29-42
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '6:42.0'
+    - Violation by S. Williams (illegal defense)
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-42
+    - ''
+    - Flagrant foul type 1 by J. Kersey
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-42
+    - ''
+    - Portland 20 second timeout
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-42
+    - ''
+    - Portland full timeout
+  - - '6:36.0'
+    - E. Johnson enters the game for S. Williams
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-43
+    - "+1"
+    - S. Kemp makes free throw flagrant 2 of 2
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-43
+    - ''
+    - S. Kemp misses no shot
+  - - '6:36.0'
+    - ''
+    - ''
+    - 29-43
+    - ''
+    - Offensive rebound by Team
+  - - '6:28.0'
+    - ''
+    - ''
+    - 29-45
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Kemp)
+  - - '6:04.0'
+    - J. Kersey misses 2-pt shot from 17 ft
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '5:50.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - G. Anthony misses 3-pt shot from 25 ft
+  - - '5:48.0'
+    - Defensive rebound by Team
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '5:33.0'
+    - G. Robinson makes 2-pt shot from 4 ft (assist by S. Cassell)
+    - "+2"
+    - 31-45
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - B. Wells misses 2-pt shot from 20 ft
+  - - '5:07.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:44.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - Turnover by B. Wells (3 second)
+  - - '4:08.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:05.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:04.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - D. Stoudamire enters the game for G. Anthony
+  - - '4:04.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 32-45
+    - ''
+    - ''
+  - - '4:04.0'
+    - G. Robinson makes free throw 2 of 2
+    - "+1"
+    - 33-45
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 33-47
+    - "+2"
+    - S. Kemp makes 2-pt shot at rim (assist by R. Wallace)
+  - - '3:49.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Violation by Team (delay of game)
+  - - '3:35.0'
+    - S. Cassell makes 2-pt shot from 17 ft
+    - "+2"
+    - 35-47
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 35-49
+    - "+2"
+    - S. Kemp makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '3:10.0'
+    - T. Thomas enters the game for L. Hunter
+    - ''
+    - 35-49
+    - ''
+    - ''
+  - - '3:07.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 35-49
+    - ''
+    - ''
+  - - '2:58.0'
+    - S. Cassell makes 2-pt shot from 12 ft
+    - "+2"
+    - 37-49
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-49
+    - ''
+    - Shooting foul by E. Johnson
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-49
+    - ''
+    - Official timeout
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-50
+    - "+1"
+    - S. Kemp makes free throw 1 of 2
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-50
+    - ''
+    - S. Kemp misses free throw 2 of 2
+  - - '2:37.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:16.0'
+    - J. Kersey misses 2-pt shot from 18 ft
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:12.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:06.0'
+    - J. Kersey misses 2-pt shot at rim
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:03.0'
+    - Offensive rebound by J. Kersey
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:01.0'
+    - Turnover by J. Kersey (lost ball; steal by D. Stoudamire)
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-50
+    - ''
+    - Turnover by D. Stoudamire (lost ball; steal by J. Kersey)
+  - - '1:47.0'
+    - G. Robinson makes 2-pt shot from 18 ft
+    - "+2"
+    - 39-50
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - Turnover by S. Kemp (bad pass; steal by S. Cassell)
+  - - '1:17.0'
+    - Turnover by S. Cassell (lost ball; steal by R. Wallace)
+    - ''
+    - 39-50
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '1:06.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 39-50
+    - ''
+    - ''
+  - - '1:03.0'
+    - Turnover by G. Robinson (lost ball; steal by D. Stoudamire)
+    - ''
+    - 39-50
+    - ''
+    - ''
+  - - '0:57.7'
+    - ''
+    - ''
+    - 39-52
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 20 ft
+  - - '0:43.6'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '0:43.6'
+    - S. Cassell misses free throw 1 of 2
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '0:43.6'
+    - Offensive rebound by Team
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '0:43.6'
+    - J. Przybilla enters the game for E. Johnson
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '0:43.6'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 40-52
+    - ''
+    - ''
+  - - '0:21.3'
+    - ''
+    - ''
+    - 40-52
+    - ''
+    - Turnover by D. Stoudamire (lost ball; steal by S. Cassell)
+  - - '0:17.6'
+    - T. Thomas makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 42-52
+    - ''
+    - ''
+  - - '0:00.3'
+    - ''
+    - ''
+    - 42-52
+    - ''
+    - B. Wells misses 2-pt shot from 21 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 42-52
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - ''
+    - ''
+    - 42-52
+    - ''
+    - A. Sabonis misses 2-pt shot at rim
+  - - '11:41.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 42-52
+    - ''
+    - ''
+  - - '11:34.0'
+    - T. Thomas misses 2-pt shot from 17 ft
+    - ''
+    - 42-52
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 42-52
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '11:29.0'
+    - ''
+    - ''
+    - 42-52
+    - ''
+    - Turnover by A. Sabonis (bad pass)
+  - - '11:19.0'
+    - Shooting foul by D. Stoudamire
+    - ''
+    - 42-52
+    - ''
+    - ''
+  - - '11:19.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 43-52
+    - ''
+    - ''
+  - - '11:19.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 44-52
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 44-54
+    - "+2"
+    - A. Sabonis makes 2-pt shot from 5 ft (assist by D. Stoudamire)
+  - - '10:54.0'
+    - G. Robinson makes 3-pt shot from 26 ft
+    - "+3"
+    - 47-54
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 47-54
+    - ''
+    - Shooting foul by S. Cassell
+  - - '10:35.0'
+    - ''
+    - ''
+    - 47-55
+    - "+1"
+    - A. Sabonis makes free throw 1 of 2
+  - - '10:35.0'
+    - ''
+    - ''
+    - 47-55
+    - ''
+    - A. Sabonis misses free throw 2 of 2
+  - - '10:35.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 47-55
+    - ''
+    - ''
+  - - '10:19.0'
+    - Turnover by G. Robinson (lost ball; steal by S. Pippen)
+    - ''
+    - 47-55
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 47-55
+    - ''
+    - Turnover by A. Sabonis (bad pass; steal by R. Allen)
+  - - '10:10.0'
+    - T. Thomas makes 3-pt shot from 23 ft (assist by G. Robinson)
+    - "+3"
+    - 50-55
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - B. Wells misses 2-pt shot from 16 ft
+  - - '9:46.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 50-55
+    - ''
+    - ''
+  - - '9:41.0'
+    - T. Thomas misses 2-pt shot from 17 ft
+    - ''
+    - 50-55
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '9:35.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - Personal foul by J. Caffey
+  - - '9:31.0'
+    - ''
+    - ''
+    - 50-57
+    - "+2"
+    - S. Pippen makes 2-pt shot at rim (assist by R. Wallace)
+  - - '9:29.0'
+    - ''
+    - ''
+    - 50-57
+    - ''
+    - Delay tech foul by Team
+  - - '9:29.0'
+    - R. Allen makes free throw technical
+    - "+1"
+    - 51-57
+    - ''
+    - ''
+  - - '9:19.0'
+    - S. Cassell makes 2-pt shot from 22 ft
+    - "+2"
+    - 53-57
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 53-60
+    - "+3"
+    - S. Pippen makes 3-pt shot from 25 ft (assist by D. Stoudamire)
+  - - '8:43.0'
+    - R. Allen makes 3-pt shot from 24 ft (assist by T. Thomas)
+    - "+3"
+    - 56-60
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 56-60
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '8:20.0'
+    - ''
+    - ''
+    - 56-62
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim
+  - - '8:20.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Offensive rebound by A. Sabonis
+  - - '8:20.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Shooting foul by T. Thomas
+  - - '8:20.0'
+    - ''
+    - ''
+    - 56-63
+    - "+1"
+    - A. Sabonis makes free throw 1 of 1
+  - - '8:06.0'
+    - Personal foul by A. Sabonis
+    - ''
+    - 56-63
+    - ''
+    - ''
+  - - '7:55.0'
+    - T. Thomas misses 2-pt shot from 3 ft
+    - ''
+    - 56-63
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - Defensive rebound by Team
+  - - '7:44.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - Offensive foul by B. Wells
+  - - '7:44.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - Turnover by B. Wells (foul)
+  - - '7:32.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 59-63
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - S. Pippen misses 3-pt shot from 25 ft
+  - - '7:10.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '7:04.0'
+    - G. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive rebound by R. Allen
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '6:45.0'
+    - G. Robinson makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 61-63
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - Portland full timeout
+  - - '6:37.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '6:37.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '6:24.0'
+    - ''
+    - ''
+    - 61-66
+    - "+3"
+    - S. Smith makes 3-pt shot from 25 ft (assist by S. Pippen)
+  - - '6:08.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 64-66
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - Personal foul by R. Allen
+  - - '5:35.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - S. Smith misses 2-pt shot from 12 ft
+  - - '5:34.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '5:34.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - B. Wells enters the game for D. Stoudamire
+  - - '5:24.0'
+    - R. Allen misses 2-pt shot at rim (block by R. Wallace)
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '5:01.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - B. Wells misses 2-pt shot from 15 ft
+  - - '4:59.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '4:50.0'
+    - G. Robinson makes 2-pt shot from 14 ft (assist by S. Cassell)
+    - "+2"
+    - 66-66
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 66-68
+    - "+2"
+    - B. Wells makes 2-pt shot from 20 ft (assist by D. Davis)
+  - - '4:15.0'
+    - G. Robinson makes 2-pt shot from 3 ft (assist by S. Cassell)
+    - "+2"
+    - 68-68
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 68-68
+    - ''
+    - Personal foul by S. Cassell
+  - - '3:57.0'
+    - E. Johnson enters the game for J. Caffey
+    - ''
+    - 68-68
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 68-69
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '3:57.0'
+    - ''
+    - ''
+    - 68-70
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '3:38.0'
+    - G. Robinson misses 2-pt shot from 4 ft (block by S. Pippen)
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 68-70
+    - ''
+    - Defensive rebound by B. Wells
+  - - '3:31.0'
+    - ''
+    - ''
+    - 68-72
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by S. Pippen)
+  - - '3:27.0'
+    - Milwaukee full timeout
+    - ''
+    - 68-72
+    - ''
+    - ''
+  - - '3:14.0'
+    - T. Thomas makes 3-pt shot from 24 ft (assist by S. Cassell)
+    - "+3"
+    - 71-72
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 71-72
+    - ''
+    - S. Pippen misses 3-pt shot from 25 ft
+  - - '2:47.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 71-72
+    - ''
+    - ''
+  - - '2:40.0'
+    - S. Cassell misses 2-pt shot from 19 ft
+    - ''
+    - 71-72
+    - ''
+    - ''
+  - - '2:38.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 71-72
+    - ''
+    - ''
+  - - '2:34.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 71-72
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 71-72
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '2:25.0'
+    - ''
+    - ''
+    - 71-72
+    - ''
+    - Personal foul by G. Robinson
+  - - '2:25.0'
+    - L. Hunter enters the game for R. Allen
+    - ''
+    - 71-72
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 71-73
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '2:25.0'
+    - ''
+    - ''
+    - 71-74
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '2:05.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 71-74
+    - ''
+    - ''
+  - - '2:03.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 71-74
+    - ''
+    - ''
+  - - '1:43.0'
+    - Turnover by E. Johnson (traveling)
+    - ''
+    - 71-74
+    - ''
+    - ''
+  - - '1:43.0'
+    - M. Pope enters the game for T. Thomas
+    - ''
+    - 71-74
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - Offensive foul by R. Wallace
+  - - '1:31.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - Turnover by R. Wallace (foul)
+  - - '1:20.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 71-74
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - Defensive rebound by D. Davis
+  - - '1:03.0'
+    - ''
+    - ''
+    - 71-76
+    - "+2"
+    - B. Wells makes 2-pt shot from 19 ft (assist by S. Pippen)
+  - - '0:45.3'
+    - Shooting foul by S. Pippen
+    - ''
+    - 71-76
+    - ''
+    - ''
+  - - '0:45.3'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 72-76
+    - ''
+    - ''
+  - - '0:45.3'
+    - G. Robinson makes free throw 2 of 2
+    - "+1"
+    - 73-76
+    - ''
+    - ''
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-76
+    - ''
+    - Shooting foul by L. Hunter
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-76
+    - ''
+    - D. Davis misses free throw 1 of 2
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-76
+    - ''
+    - Offensive rebound by Team
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-76
+    - ''
+    - S. Kemp enters the game for R. Wallace
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-76
+    - ''
+    - G. Anthony enters the game for S. Pippen
+  - - '0:34.0'
+    - ''
+    - ''
+    - 73-77
+    - "+1"
+    - D. Davis makes free throw 2 of 2
+  - - '0:18.5'
+    - Turnover by L. Hunter (lost ball; steal by B. Wells)
+    - ''
+    - 73-77
+    - ''
+    - ''
+  - - '0:15.3'
+    - ''
+    - ''
+    - 73-79
+    - "+2"
+    - G. Anthony makes 2-pt shot at rim (assist by S. Smith)
+  - - '0:00.2'
+    - S. Cassell makes 2-pt shot from 18 ft
+    - "+2"
+    - 75-79
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:56.0'
+    - Personal foul by S. Smith
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '11:36.0'
+    - G. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Defensive rebound by G. Anthony
+  - - '11:15.0'
+    - ''
+    - ''
+    - 75-81
+    - "+2"
+    - S. Kemp makes 2-pt shot from 23 ft (assist by B. Wells)
+  - - '10:57.0'
+    - L. Hunter misses 3-pt shot from 24 ft
+    - ''
+    - 75-81
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 75-81
+    - ''
+    - Defensive rebound by Team
+  - - '10:55.0'
+    - ''
+    - ''
+    - 75-81
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '10:55.0'
+    - R. Allen enters the game for S. Cassell
+    - ''
+    - 75-81
+    - ''
+    - ''
+  - - '10:55.0'
+    - J. Caffey enters the game for G. Robinson
+    - ''
+    - 75-81
+    - ''
+    - ''
+  - - '10:55.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 75-81
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 75-81
+    - ''
+    - Turnover by S. Smith (bad pass; steal by J. Caffey)
+  - - '10:28.0'
+    - J. Caffey misses 2-pt shot from 6 ft (block by S. Smith)
+    - ''
+    - 75-81
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 75-81
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '10:24.0'
+    - ''
+    - ''
+    - 75-83
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by G. Anthony)
+  - - '10:23.0'
+    - Milwaukee full timeout
+    - ''
+    - 75-83
+    - ''
+    - ''
+  - - '10:12.0'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 77-83
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 77-85
+    - "+2"
+    - S. Smith makes 2-pt shot from 17 ft (assist by B. Wells)
+  - - '9:31.0'
+    - Personal foul by S. Smith
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '9:25.0'
+    - R. Allen misses 2-pt shot from 18 ft
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - Defensive rebound by S. Smith
+  - - '9:17.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - Turnover by S. Kemp (3 second)
+  - - '9:05.0'
+    - R. Allen misses 2-pt shot from 6 ft
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '9:02.0'
+    - J. Caffey misses 2-pt shot at rim
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '9:02.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - Defensive rebound by B. Wells
+  - - '8:54.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - Shooting foul by T. Thomas
+  - - '8:54.0'
+    - ''
+    - ''
+    - 77-86
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '8:54.0'
+    - ''
+    - ''
+    - 77-86
+    - ''
+    - R. Wallace enters the game for D. Davis
+  - - '8:54.0'
+    - ''
+    - ''
+    - 77-87
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '8:40.0'
+    - T. Thomas makes 3-pt shot from 24 ft (assist by R. Allen)
+    - "+3"
+    - 80-87
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 80-89
+    - "+2"
+    - R. Wallace makes 2-pt shot from 9 ft
+  - - '8:16.0'
+    - Double technical foul by R. Wallace
+    - ''
+    - 80-89
+    - ''
+    - ''
+  - - '8:16.0'
+    - G. Robinson enters the game for E. Johnson
+    - ''
+    - 80-89
+    - ''
+    - ''
+  - - '8:03.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by L. Hunter)
+    - "+3"
+    - 83-89
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - Portland 20 second timeout
+  - - '7:49.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - Personal foul by R. Allen
+  - - '7:49.0'
+    - Technical foul by R. Allen
+    - ''
+    - 83-89
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 83-90
+    - "+1"
+    - S. Smith makes free throw technical
+  - - '7:49.0'
+    - S. Cassell enters the game for R. Allen
+    - ''
+    - 83-90
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 83-90
+    - ''
+    - Shooting foul by S. Cassell
+  - - '7:42.0'
+    - ''
+    - ''
+    - 83-91
+    - "+1"
+    - B. Wells makes free throw 1 of 2
+  - - '7:42.0'
+    - ''
+    - ''
+    - 83-92
+    - "+1"
+    - B. Wells makes free throw 2 of 2
+  - - '7:28.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:28.0'
+    - T. Thomas misses free throw 1 of 2
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:28.0'
+    - Offensive rebound by Team
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:28.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 84-92
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 84-95
+    - "+3"
+    - B. Wells makes 3-pt shot from 24 ft (assist by R. Wallace)
+  - - '6:58.0'
+    - Shooting foul by B. Wells
+    - ''
+    - 84-95
+    - ''
+    - ''
+  - - '6:58.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 85-95
+    - ''
+    - ''
+  - - '6:58.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 86-95
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 86-97
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Kemp)
+  - - '6:25.0'
+    - L. Hunter misses 3-pt shot from 24 ft
+    - ''
+    - 86-97
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 86-97
+    - ''
+    - Defensive rebound by B. Wells
+  - - '6:21.0'
+    - ''
+    - ''
+    - 86-97
+    - ''
+    - Shooting foul by L. Hunter
+  - - '6:21.0'
+    - ''
+    - ''
+    - 86-98
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '6:21.0'
+    - ''
+    - ''
+    - 86-99
+    - "+1"
+    - R. Wallace makes free throw 2 of 2
+  - - '6:08.0'
+    - G. Robinson makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 88-99
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 88-101
+    - "+2"
+    - B. Wells makes 2-pt shot from 19 ft (assist by G. Anthony)
+  - - '5:41.0'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 90-101
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 90-101
+    - ''
+    - Turnover by B. Wells (bad pass; steal by L. Hunter)
+  - - '5:21.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 90-101
+    - ''
+    - ''
+  - - '5:21.0'
+    - Official timeout
+    - ''
+    - 90-101
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 90-101
+    - ''
+    - S. Pippen enters the game for S. Kemp
+  - - '5:21.0'
+    - S. Cassell misses free throw 1 of 2
+    - ''
+    - 90-101
+    - ''
+    - ''
+  - - '5:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 90-101
+    - ''
+    - ''
+  - - '5:21.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 91-101
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 91-101
+    - ''
+    - Turnover by G. Anthony (bad pass)
+  - - '4:47.0'
+    - Personal foul by S. Smith
+    - ''
+    - 91-101
+    - ''
+    - ''
+  - - '4:47.0'
+    - R. Allen enters the game for L. Hunter
+    - ''
+    - 91-101
+    - ''
+    - ''
+  - - '4:47.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 92-101
+    - ''
+    - ''
+  - - '4:47.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 93-101
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 93-101
+    - ''
+    - Turnover by S. Smith (lost ball; steal by G. Robinson)
+  - - '4:23.0'
+    - T. Thomas makes 2-pt shot from 21 ft
+    - "+2"
+    - 95-101
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - Turnover by G. Anthony (lost ball)
+  - - '4:05.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - D. Stoudamire enters the game for G. Anthony
+  - - '3:53.0'
+    - G. Robinson misses 2-pt shot from 13 ft
+    - ''
+    - 95-101
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '3:43.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '3:41.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 95-101
+    - ''
+    - ''
+  - - '3:34.0'
+    - S. Cassell misses 2-pt shot from 17 ft
+    - ''
+    - 95-101
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - Defensive rebound by Team
+  - - '3:34.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - Loose ball foul by J. Caffey
+  - - '3:34.0'
+    - ''
+    - ''
+    - 95-102
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '3:34.0'
+    - ''
+    - ''
+    - 95-103
+    - "+1"
+    - R. Wallace makes free throw 2 of 2
+  - - '3:24.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 97-103
+    - ''
+    - ''
+  - - '3:24.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 97-103
+    - ''
+    - ''
+  - - '3:24.0'
+    - R. Allen makes free throw 1 of 1
+    - "+1"
+    - 98-103
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 98-103
+    - ''
+    - S. Pippen misses 2-pt shot from 18 ft
+  - - '2:57.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 98-103
+    - ''
+    - ''
+  - - '2:53.0'
+    - Turnover by R. Allen (out of bounds)
+    - ''
+    - 98-103
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 98-103
+    - ''
+    - Portland full timeout
+  - - '2:33.0'
+    - ''
+    - ''
+    - 98-103
+    - ''
+    - Personal foul by J. Caffey
+  - - '2:33.0'
+    - L. Hunter enters the game for J. Caffey
+    - ''
+    - 98-103
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 98-104
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '2:33.0'
+    - ''
+    - ''
+    - 98-105
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '2:20.0'
+    - R. Allen misses 3-pt shot from 23 ft
+    - ''
+    - 98-105
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 98-105
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '2:00.0'
+    - ''
+    - ''
+    - 98-107
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '1:59.0'
+    - Milwaukee full timeout
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '1:52.0'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 100-107
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 100-107
+    - ''
+    - Shooting foul by G. Robinson
+  - - '1:42.0'
+    - ''
+    - ''
+    - 100-108
+    - "+1"
+    - B. Wells makes free throw 1 of 2
+  - - '1:42.0'
+    - ''
+    - ''
+    - 100-109
+    - "+1"
+    - B. Wells makes free throw 2 of 2
+  - - '1:31.0'
+    - T. Thomas makes 3-pt shot from 24 ft (assist by R. Allen)
+    - "+3"
+    - 103-109
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - Personal foul by T. Thomas
+  - - '1:15.0'
+    - Technical foul by Team
+    - ''
+    - 103-109
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - Team ejected from game
+  - - '1:15.0'
+    - ''
+    - ''
+    - 103-110
+    - "+1"
+    - S. Smith makes free throw technical
+  - - '1:15.0'
+    - ''
+    - ''
+    - 103-111
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '1:15.0'
+    - ''
+    - ''
+    - 103-111
+    - ''
+    - D. Stoudamire misses free throw 2 of 2
+  - - '1:14.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 103-111
+    - ''
+    - ''
+  - - '1:04.0'
+    - T. Thomas makes 3-pt shot from 25 ft
+    - "+3"
+    - 106-111
+    - ''
+    - ''
+  - - '0:40.5'
+    - ''
+    - ''
+    - 106-111
+    - ''
+    - S. Smith misses 2-pt shot from 16 ft
+  - - '0:39.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 106-111
+    - ''
+    - ''
+  - - '0:39.0'
+    - Personal foul by S. Pippen
+    - ''
+    - 106-111
+    - ''
+    - ''
+  - - '0:39.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 107-111
+    - ''
+    - ''
+  - - '0:39.0'
+    - G. Robinson misses free throw 2 of 2
+    - ''
+    - 107-111
+    - ''
+    - ''
+  - - '0:38.3'
+    - ''
+    - ''
+    - 107-111
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '0:35.2'
+    - ''
+    - ''
+    - 107-111
+    - ''
+    - Personal foul by S. Cassell
+  - - '0:35.2'
+    - ''
+    - ''
+    - 107-112
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '0:35.2'
+    - ''
+    - ''
+    - 107-112
+    - ''
+    - S. Pippen misses free throw 2 of 2
+  - - '0:34.0'
+    - ''
+    - ''
+    - 107-112
+    - ''
+    - Offensive rebound by B. Wells
+  - - '0:26.5'
+    - ''
+    - ''
+    - 107-112
+    - ''
+    - Personal foul by G. Robinson
+  - - '0:26.5'
+    - ''
+    - ''
+    - 107-112
+    - ''
+    - S. Smith misses free throw 1 of 2
+  - - '0:26.5'
+    - ''
+    - ''
+    - 107-112
+    - ''
+    - Offensive rebound by Team
+  - - '0:26.5'
+    - ''
+    - ''
+    - 107-113
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '0:17.1'
+    - T. Thomas misses 3-pt shot from 26 ft
+    - ''
+    - 107-113
+    - ''
+    - ''
+  - - '0:15.4'
+    - ''
+    - ''
+    - 107-113
+    - ''
+    - Defensive rebound by S. Smith
+  - - '0:15.4'
+    - ''
+    - ''
+    - 107-113
+    - ''
+    - Personal foul by G. Robinson
+  - - '0:15.4'
+    - ''
+    - ''
+    - 107-114
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '0:15.4'
+    - ''
+    - ''
+    - 107-115
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '0:15.4'
+    - Milwaukee 20 second timeout
+    - ''
+    - 107-115
+    - ''
+    - ''
+  - - '0:11.4'
+    - G. Robinson makes 3-pt shot from 26 ft
+    - "+3"
+    - 110-115
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 110-115
+    - ''
+    - Personal foul by T. Thomas
+  - - '0:09.9'
+    - ''
+    - ''
+    - 110-116
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '0:09.9'
+    - ''
+    - ''
+    - 110-117
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '0:06.5'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 112-117
+    - ''
+    - ''
+  - - '0:05.3'
+    - ''
+    - ''
+    - 112-117
+    - ''
+    - Personal foul by T. Thomas
+  - - '0:05.3'
+    - ''
+    - ''
+    - 112-118
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '0:05.3'
+    - ''
+    - ''
+    - 112-119
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '0:01.8'
+    - R. Allen makes 3-pt shot from 30 ft (assist by S. Cassell)
+    - "+3"
+    - 115-119
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

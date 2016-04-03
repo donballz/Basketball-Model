@@ -1,0 +1,2982 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. White vs. J. Caffey (M. Pope gains possession)'
+  - - '11:48.0'
+    - Offensive foul by M. Pope
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:48.0'
+    - Turnover by M. Pope (foul)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. Howard misses 2-pt shot from 4 ft (block by J. Caffey)
+  - - '11:35.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - M. Pope makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by J. White (lost ball; steal by R. Allen)
+  - - '11:10.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 3-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 4-0
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Offensive foul by M. Richmond
+  - - '10:54.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Turnover by M. Richmond (foul)
+  - - '10:39.0'
+    - R. Allen makes 2-pt shot from 9 ft
+    - "+2"
+    - 6-0
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - M. Richmond misses 2-pt shot from 19 ft
+  - - '10:26.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 6-0
+    - ''
+    - ''
+  - - '10:20.0'
+    - J. Caffey misses 2-pt shot from 8 ft
+    - ''
+    - 6-0
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - Defensive rebound by J. White
+  - - '10:15.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - Personal foul by S. Cassell
+  - - '10:11.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - Turnover by F. Lopez (lost ball; steal by S. Cassell)
+  - - '10:07.0'
+    - S. Cassell makes 2-pt shot from 16 ft
+    - "+2"
+    - 8-0
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 8-2
+    - "+2"
+    - M. Richmond makes 2-pt shot from 16 ft (assist by F. Lopez)
+  - - '9:36.0'
+    - Offensive foul by J. Caffey
+    - ''
+    - 8-2
+    - ''
+    - ''
+  - - '9:36.0'
+    - Turnover by J. Caffey (foul)
+    - ''
+    - 8-2
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - Turnover by J. Howard (lost ball; steal by R. Allen)
+  - - '9:12.0'
+    - R. Allen makes 3-pt shot from 26 ft
+    - "+3"
+    - 11-2
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - Personal foul by R. Allen
+  - - '8:58.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '8:50.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - M. Richmond misses 2-pt shot from 11 ft
+  - - '8:47.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - Offensive rebound by J. Howard
+  - - '8:46.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - J. Howard misses 2-pt shot from 2 ft
+  - - '8:44.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 11-2
+    - ''
+    - ''
+  - - '8:39.0'
+    - M. Pope misses 2-pt shot from 5 ft (block by J. White)
+    - ''
+    - 11-2
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 11-2
+    - ''
+    - Defensive rebound by J. White
+  - - '8:33.0'
+    - ''
+    - ''
+    - 11-4
+    - "+2"
+    - R. Strickland makes 2-pt shot from 2 ft (assist by R. Hamilton)
+  - - '8:26.0'
+    - S. Cassell makes 2-pt shot from 18 ft (assist by R. Allen)
+    - "+2"
+    - 13-4
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '8:05.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '8:01.0'
+    - S. Cassell misses 2-pt shot from 19 ft
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '8:00.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - Violation by Team (illegal defense)
+  - - '7:39.0'
+    - Shooting foul by J. White
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '7:39.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 14-4
+    - ''
+    - ''
+  - - '7:39.0'
+    - J. Caffey misses free throw 2 of 2
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:38.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:35.0'
+    - T. Thomas misses 2-pt shot from 16 ft
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by M. Pope
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:20.0'
+    - J. Caffey misses 2-pt shot from 1 ft
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Defensive rebound by J. White
+  - - '7:09.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - J. White misses 2-pt shot from 8 ft (block by R. Allen)
+  - - '7:08.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Offensive rebound by J. White
+  - - '7:08.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Turnover by J. White (out of bounds)
+  - - '6:53.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Defensive rebound by J. White
+  - - '6:39.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Turnover by J. Howard (3 second)
+  - - '6:23.0'
+    - S. Cassell misses 2-pt shot from 7 ft
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Defensive rebound by J. Howard
+  - - '6:15.0'
+    - ''
+    - ''
+    - 14-6
+    - "+2"
+    - R. Strickland makes 2-pt shot at rim
+  - - '6:07.0'
+    - Offensive foul by M. Pope
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '6:07.0'
+    - Turnover by M. Pope (foul)
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 14-6
+    - ''
+    - R. Hamilton misses 2-pt shot from 9 ft
+  - - '5:50.0'
+    - Defensive rebound by Team
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '5:50.0'
+    - Loose ball foul by J. White
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '5:50.0'
+    - Milwaukee full timeout
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 14-6
+    - ''
+    - C. Parks enters the game for J. White
+  - - '5:50.0'
+    - E. Johnson enters the game for M. Pope
+    - ''
+    - 14-6
+    - ''
+    - ''
+  - - '5:36.0'
+    - R. Allen makes 2-pt shot from 19 ft (assist by S. Cassell)
+    - "+2"
+    - 16-6
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 16-6
+    - ''
+    - M. Richmond misses 2-pt shot from 17 ft
+  - - '5:19.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 16-6
+    - ''
+    - ''
+  - - '5:10.0'
+    - E. Johnson makes 2-pt shot from 1 ft (assist by R. Allen)
+    - "+2"
+    - 18-6
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 18-9
+    - "+3"
+    - R. Hamilton makes 3-pt shot from 25 ft (assist by M. Richmond)
+  - - '4:45.0'
+    - Turnover by R. Allen (lost ball; steal by R. Hamilton)
+    - ''
+    - 18-9
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 18-11
+    - "+2"
+    - J. Howard makes 2-pt shot at rim (assist by M. Richmond)
+  - - '4:22.0'
+    - T. Thomas misses 2-pt shot from 18 ft
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Defensive rebound by C. Parks
+  - - '4:14.0'
+    - ''
+    - ''
+    - 18-13
+    - "+2"
+    - R. Strickland makes 2-pt shot from 7 ft
+  - - '3:50.0'
+    - T. Thomas misses 2-pt shot from 6 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by C. Parks
+  - - '3:43.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Personal foul by J. Caffey
+  - - '3:43.0'
+    - L. Hunter enters the game for R. Allen
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:43.0'
+    - M. Pope enters the game for J. Caffey
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - R. Hamilton misses 2-pt shot from 17 ft
+  - - '3:37.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Offensive rebound by C. Parks
+  - - '3:36.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - C. Parks misses 2-pt shot from 3 ft
+  - - '3:36.0'
+    - Defensive rebound by Team
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:14.0'
+    - S. Cassell misses 2-pt shot from 17 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by J. Howard
+  - - '2:54.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - R. Hamilton misses 3-pt shot from 26 ft
+  - - '2:52.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:47.0'
+    - L. Hunter misses 3-pt shot from 26 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by Team
+  - - '2:45.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Washington full timeout
+  - - '2:35.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - R. Strickland misses 2-pt shot from 19 ft
+  - - '2:33.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:20.0'
+    - T. Thomas misses 2-pt shot from 15 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by J. Howard
+  - - '1:59.0'
+    - ''
+    - ''
+    - 18-15
+    - "+2"
+    - R. Strickland makes 2-pt shot from 1 ft (assist by J. Howard)
+  - - '1:45.0'
+    - Turnover by M. Pope (bad pass; steal by J. Howard)
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Turnover by J. Howard (bad pass; steal by S. Cassell)
+  - - '1:38.0'
+    - L. Hunter misses 2-pt shot from 7 ft (block by R. Hamilton)
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Defensive rebound by J. Howard
+  - - '1:34.0'
+    - ''
+    - ''
+    - 18-17
+    - "+2"
+    - R. Strickland makes 2-pt shot from 2 ft
+  - - '1:34.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - Shooting foul by E. Johnson
+  - - '1:34.0'
+    - ''
+    - ''
+    - 18-18
+    - "+1"
+    - R. Strickland makes free throw 1 of 1
+  - - '1:22.0'
+    - S. Cassell makes 2-pt shot from 10 ft
+    - "+2"
+    - 20-18
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - M. Richmond misses 3-pt shot from 25 ft
+  - - '1:13.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '0:56.9'
+    - S. Cassell misses 2-pt shot from 5 ft
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '0:55.6'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Defensive rebound by Team
+  - - '0:54.8'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Loose ball foul by S. Cassell
+  - - '0:54.8'
+    - R. Alston enters the game for S. Cassell
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '0:54.8'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - C. Parks misses free throw 1 of 2
+  - - '0:54.8'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Offensive rebound by Team
+  - - '0:54.8'
+    - ''
+    - ''
+    - 20-19
+    - "+1"
+    - C. Parks makes free throw 2 of 2
+  - - '0:42.9'
+    - L. Hunter misses 2-pt shot from 19 ft
+    - ''
+    - 20-19
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 20-19
+    - ''
+    - Defensive rebound by C. Parks
+  - - '0:32.8'
+    - Violation by Team (illegal defense)
+    - ''
+    - 20-19
+    - ''
+    - ''
+  - - '0:27.9'
+    - ''
+    - ''
+    - 20-19
+    - ''
+    - Turnover by R. Strickland (bad pass; steal by M. Pope)
+  - - '0:07.9'
+    - L. Hunter misses 3-pt shot from 24 ft
+    - ''
+    - 20-19
+    - ''
+    - ''
+  - - '0:04.5'
+    - ''
+    - ''
+    - 20-19
+    - ''
+    - Defensive rebound by M. Richmond
+  - - '0:01.6'
+    - ''
+    - ''
+    - 20-19
+    - ''
+    - Personal foul by R. Alston
+  - - '0:01.6'
+    - ''
+    - ''
+    - 20-20
+    - "+1"
+    - J. Howard makes free throw 1 of 2
+  - - '0:01.6'
+    - ''
+    - ''
+    - 20-21
+    - "+1"
+    - J. Howard makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:36.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - R. Hamilton misses 2-pt shot from 5 ft
+  - - '11:35.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Offensive rebound by C. Parks
+  - - '11:34.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - C. Parks misses 2-pt shot from 2 ft
+  - - '11:33.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Offensive rebound by C. Parks
+  - - '11:33.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Shooting foul by E. Johnson
+  - - '11:33.0'
+    - ''
+    - ''
+    - 20-22
+    - "+1"
+    - C. Parks makes free throw 1 of 2
+  - - '11:33.0'
+    - ''
+    - ''
+    - 20-23
+    - "+1"
+    - C. Parks makes free throw 2 of 2
+  - - '11:20.0'
+    - M. Pope misses 2-pt shot from 1 ft
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '11:18.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '11:17.0'
+    - E. Johnson makes 2-pt shot from 1 ft
+    - "+2"
+    - 22-23
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Offensive foul by C. Parks
+  - - '11:01.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Turnover by C. Parks (foul)
+  - - '10:39.0'
+    - R. Allen misses 2-pt shot from 9 ft
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '10:33.0'
+    - ''
+    - ''
+    - 22-25
+    - "+2"
+    - J. Howard makes 2-pt shot from 2 ft (assist by M. Richmond)
+  - - '10:16.0'
+    - Turnover by R. Allen (lost ball; steal by M. Richmond)
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 1 ft
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - Shooting foul by L. Hunter
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - M. Smith enters the game for J. Howard
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - Washington full timeout
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - F. Lopez enters the game for M. Richmond
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - O. Ekezie enters the game for C. Parks
+  - - '10:13.0'
+    - ''
+    - ''
+    - 22-28
+    - "+1"
+    - R. Hamilton makes free throw 1 of 1
+  - - '9:57.0'
+    - Shooting foul by F. Lopez
+    - ''
+    - 22-28
+    - ''
+    - ''
+  - - '9:57.0'
+    - J. Caffey enters the game for E. Johnson
+    - ''
+    - 22-28
+    - ''
+    - ''
+  - - '9:57.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 23-28
+    - ''
+    - ''
+  - - '9:57.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 24-28
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 24-28
+    - ''
+    - Turnover by F. Lopez (bad pass)
+  - - '9:27.0'
+    - R. Allen misses 2-pt shot from 2 ft
+    - ''
+    - 24-28
+    - ''
+    - ''
+  - - '9:25.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 24-28
+    - ''
+    - ''
+  - - '9:24.0'
+    - J. Caffey makes 2-pt shot from 1 ft
+    - "+2"
+    - 26-28
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - Shooting foul by M. Pope
+  - - '9:13.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - M. Smith misses free throw 1 of 2
+  - - '9:13.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - Offensive rebound by Team
+  - - '9:13.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - M. Smith misses free throw 2 of 2
+  - - '9:12.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - Offensive rebound by F. Lopez
+  - - '9:03.0'
+    - ''
+    - ''
+    - 26-30
+    - "+2"
+    - F. Lopez makes 2-pt shot from 17 ft
+  - - '8:46.0'
+    - Offensive foul by R. Allen
+    - ''
+    - 26-30
+    - ''
+    - ''
+  - - '8:46.0'
+    - Turnover by R. Allen (foul)
+    - ''
+    - 26-30
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 26-30
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by L. Hunter)
+  - - '8:29.0'
+    - R. Allen makes 2-pt shot at rim (assist by R. Alston)
+    - "+2"
+    - 28-30
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - Shooting foul by J. Caffey
+  - - '8:15.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - F. Lopez misses free throw 1 of 2
+  - - '8:15.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - Offensive rebound by Team
+  - - '8:15.0'
+    - E. Johnson enters the game for J. Caffey
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 28-31
+    - "+1"
+    - F. Lopez makes free throw 2 of 2
+  - - '8:05.0'
+    - Turnover by R. Alston (bad pass; steal by R. Hamilton)
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - C. Whitney misses 3-pt shot from 25 ft
+  - - '7:49.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:44.0'
+    - R. Allen misses 2-pt shot from 12 ft (block by F. Lopez)
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - Defensive rebound by Team
+  - - '7:30.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - R. Hamilton misses 2-pt shot from 18 ft
+  - - '7:27.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:15.0'
+    - Personal foul by O. Ekezie
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - R. Strickland enters the game for C. Whitney
+  - - '7:15.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - J. Howard enters the game for O. Ekezie
+  - - '7:15.0'
+    - S. Cassell enters the game for R. Alston
+    - ''
+    - 28-31
+    - ''
+    - ''
+  - - '7:04.0'
+    - S. Cassell makes 2-pt shot from 15 ft
+    - "+2"
+    - 30-31
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 30-33
+    - "+2"
+    - J. Howard makes 2-pt shot from 6 ft (assist by R. Strickland)
+  - - '6:37.0'
+    - ''
+    - ''
+    - 30-33
+    - ''
+    - M. Richmond enters the game for R. Hamilton
+  - - '6:34.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '6:34.0'
+    - T. Thomas misses free throw 1 of 2
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '6:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '6:34.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 31-33
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Turnover by J. Howard (lost ball; steal by E. Johnson)
+  - - '6:13.0'
+    - L. Hunter misses 3-pt shot from 26 ft
+    - ''
+    - 31-33
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Defensive rebound by F. Lopez
+  - - '6:10.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Washington full timeout
+  - - '5:57.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Turnover by R. Strickland (lost ball; steal by L. Hunter)
+  - - '5:50.0'
+    - S. Cassell makes 2-pt shot from 1 ft (assist by T. Thomas)
+    - "+2"
+    - 33-33
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 33-35
+    - "+2"
+    - F. Lopez makes 2-pt shot from 1 ft (assist by J. Howard)
+  - - '5:11.0'
+    - T. Thomas makes 2-pt shot from 6 ft
+    - "+2"
+    - 35-35
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 35-35
+    - ''
+    - Turnover by J. Howard (traveling)
+  - - '4:41.0'
+    - Personal foul by R. Strickland
+    - ''
+    - 35-35
+    - ''
+    - ''
+  - - '4:26.0'
+    - L. Hunter makes 3-pt shot from 23 ft (assist by S. Cassell)
+    - "+3"
+    - 38-35
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Shooting foul by L. Hunter
+  - - '4:11.0'
+    - ''
+    - ''
+    - 38-36
+    - "+1"
+    - M. Smith makes free throw 1 of 2
+  - - '4:11.0'
+    - ''
+    - ''
+    - 38-36
+    - ''
+    - M. Smith misses free throw 2 of 2
+  - - '4:11.0'
+    - ''
+    - ''
+    - 38-36
+    - ''
+    - Offensive rebound by J. Howard
+  - - '4:06.0'
+    - ''
+    - ''
+    - 38-36
+    - ''
+    - M. Richmond misses 3-pt shot from 28 ft
+  - - '4:04.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 38-36
+    - ''
+    - ''
+  - - '3:54.0'
+    - T. Thomas misses 2-pt shot from 18 ft
+    - ''
+    - 38-36
+    - ''
+    - ''
+  - - '3:52.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 38-36
+    - ''
+    - ''
+  - - '3:51.0'
+    - E. Johnson makes 2-pt shot from 2 ft
+    - "+2"
+    - 40-36
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 40-38
+    - "+2"
+    - J. Howard makes 2-pt shot from 4 ft (assist by R. Strickland)
+  - - '3:20.0'
+    - Personal foul by J. Howard
+    - ''
+    - 40-38
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 40-38
+    - ''
+    - J. White enters the game for M. Smith
+  - - '3:20.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 41-38
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - G. King enters the game for J. Howard
+  - - '3:20.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '3:20.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 42-38
+    - ''
+    - ''
+  - - '3:20.0'
+    - J. Kersey enters the game for L. Hunter
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 42-40
+    - "+2"
+    - J. White makes 2-pt shot from 2 ft (assist by M. Richmond)
+  - - '2:49.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 42-40
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 42-40
+    - ''
+    - Official timeout
+  - - '2:26.0'
+    - ''
+    - ''
+    - 42-40
+    - ''
+    - R. Hamilton misses 2-pt shot from 11 ft
+  - - '2:23.0'
+    - Defensive rebound by J. Kersey
+    - ''
+    - 42-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - Shooting foul by J. White
+    - ''
+    - 42-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 43-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 43-40
+    - ''
+    - C. Parks enters the game for J. White
+  - - '2:02.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 44-40
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - Personal foul by E. Johnson
+  - - '1:49.0'
+    - ''
+    - ''
+    - 44-41
+    - "+1"
+    - G. King makes free throw 1 of 2
+  - - '1:49.0'
+    - L. Hunter enters the game for E. Johnson
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 44-42
+    - "+1"
+    - G. King makes free throw 2 of 2
+  - - '1:38.0'
+    - R. Allen makes 2-pt shot from 7 ft (assist by S. Cassell)
+    - "+2"
+    - 46-42
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - M. Richmond misses 3-pt shot from 25 ft
+  - - '1:13.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Offensive rebound by C. Parks
+  - - '1:11.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Shooting foul by R. Allen
+  - - '1:11.0'
+    - ''
+    - ''
+    - 46-43
+    - "+1"
+    - M. Richmond makes free throw 1 of 2
+  - - '1:11.0'
+    - R. Alston enters the game for R. Allen
+    - ''
+    - 46-43
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 46-44
+    - "+1"
+    - M. Richmond makes free throw 2 of 2
+  - - '0:59.9'
+    - J. Kersey misses 2-pt shot from 15 ft
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '0:57.4'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Defensive rebound by G. King
+  - - '0:52.9'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - R. Strickland misses 2-pt shot from 1 ft
+  - - '0:50.9'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Offensive rebound by M. Richmond
+  - - '0:49.9'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - M. Richmond misses 2-pt shot from 7 ft (block by T. Thomas)
+  - - '0:47.9'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '0:45.6'
+    - Shooting foul by G. King
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '0:45.6'
+    - J. Kersey makes free throw 1 of 2
+    - "+1"
+    - 47-44
+    - ''
+    - ''
+  - - '0:45.6'
+    - J. Kersey makes free throw 2 of 2
+    - "+1"
+    - 48-44
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - R. Strickland misses 3-pt shot from 26 ft
+  - - '0:34.7'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Offensive rebound by M. Richmond
+  - - '0:34.0'
+    - ''
+    - ''
+    - 48-46
+    - "+2"
+    - M. Richmond makes 2-pt shot from 2 ft
+  - - '0:26.8'
+    - T. Thomas misses 2-pt shot from 21 ft
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '0:22.9'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Defensive rebound by C. Parks
+  - - '0:18.2'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Shooting foul by L. Hunter
+  - - '0:18.2'
+    - ''
+    - ''
+    - 48-47
+    - "+1"
+    - M. Richmond makes free throw 1 of 2
+  - - '0:18.2'
+    - ''
+    - ''
+    - 48-48
+    - "+1"
+    - M. Richmond makes free throw 2 of 2
+  - - '0:01.0'
+    - L. Hunter makes 2-pt shot from 2 ft
+    - "+2"
+    - 50-48
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 50-48
+    - ''
+    - J. Howard misses 2-pt shot from 6 ft
+  - - '11:40.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 50-48
+    - ''
+    - ''
+  - - '11:31.0'
+    - S. Cassell makes 2-pt shot from 17 ft (assist by R. Allen)
+    - "+2"
+    - 52-48
+    - ''
+    - ''
+  - - '11:03.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - J. Howard misses 2-pt shot from 1 ft
+  - - '11:02.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Offensive rebound by J. White
+  - - '11:01.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Shooting foul by T. Thomas
+  - - '11:01.0'
+    - ''
+    - ''
+    - 52-49
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '11:01.0'
+    - ''
+    - ''
+    - 52-50
+    - "+1"
+    - J. White makes free throw 2 of 2
+  - - '10:47.0'
+    - S. Cassell misses 2-pt shot from 16 ft
+    - ''
+    - 52-50
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Defensive rebound by J. Howard
+  - - '10:39.0'
+    - ''
+    - ''
+    - 52-52
+    - "+2"
+    - R. Strickland makes 2-pt shot from 18 ft
+  - - '10:25.0'
+    - Personal foul by R. Strickland
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '10:16.0'
+    - J. Caffey misses 2-pt shot from 2 ft
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '10:14.0'
+    - Offensive rebound by R. Allen
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '10:12.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Defensive rebound by J. White
+  - - '10:05.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Shooting foul by T. Thomas
+  - - '10:05.0'
+    - ''
+    - ''
+    - 52-53
+    - "+1"
+    - M. Richmond makes free throw 1 of 2
+  - - '10:05.0'
+    - ''
+    - ''
+    - 52-54
+    - "+1"
+    - M. Richmond makes free throw 2 of 2
+  - - '9:52.0'
+    - T. Thomas makes 3-pt shot from 23 ft (assist by R. Allen)
+    - "+3"
+    - 55-54
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 55-56
+    - "+2"
+    - J. White makes 2-pt shot from 1 ft (assist by R. Strickland)
+  - - '9:08.0'
+    - Shooting foul by F. Lopez
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '9:08.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 56-56
+    - ''
+    - ''
+  - - '9:08.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 57-56
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 57-58
+    - "+2"
+    - J. Howard makes 2-pt shot from 5 ft (assist by R. Strickland)
+  - - '8:33.0'
+    - T. Thomas makes 2-pt shot from 8 ft
+    - "+2"
+    - 59-58
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - M. Richmond misses 3-pt shot from 25 ft
+  - - '8:20.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '8:13.0'
+    - T. Thomas misses 3-pt shot from 23 ft
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '8:11.0'
+    - Offensive rebound by M. Pope
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '8:07.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by M. Pope)
+    - "+3"
+    - 62-58
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 62-60
+    - "+2"
+    - R. Strickland makes 2-pt shot from 17 ft
+  - - '7:34.0'
+    - S. Cassell makes 2-pt shot from 9 ft
+    - "+2"
+    - 64-60
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - R. Strickland misses 2-pt shot from 16 ft
+  - - '7:21.0'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Offensive rebound by J. White
+  - - '7:20.0'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - J. White misses 2-pt shot at rim
+  - - '7:18.0'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Offensive rebound by J. White
+  - - '7:17.0'
+    - ''
+    - ''
+    - 64-62
+    - "+2"
+    - J. White makes 2-pt shot from 1 ft
+  - - '6:54.0'
+    - T. Thomas makes 2-pt shot from 13 ft
+    - "+2"
+    - 66-62
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 66-62
+    - ''
+    - J. Howard misses 2-pt shot from 9 ft
+  - - '6:34.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '6:27.0'
+    - Turnover by M. Pope (3 second)
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 66-62
+    - ''
+    - F. Lopez misses 2-pt shot from 2 ft
+  - - '6:12.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '6:05.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 66-62
+    - ''
+    - Defensive rebound by M. Richmond
+  - - '5:55.0'
+    - ''
+    - ''
+    - 66-62
+    - ''
+    - F. Lopez misses 2-pt shot from 3 ft (block by T. Thomas)
+  - - '5:52.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - Shooting foul by J. White
+    - ''
+    - 66-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 66-62
+    - ''
+    - Technical foul by F. Lopez
+  - - '5:51.0'
+    - R. Allen makes free throw technical
+    - "+1"
+    - 67-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - Milwaukee full timeout
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '5:51.0'
+    - J. Caffey misses free throw 1 of 2
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '5:51.0'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 68-62
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 68-62
+    - ''
+    - Turnover by R. Strickland (bad pass; steal by T. Thomas)
+  - - '5:33.0'
+    - R. Allen makes 2-pt shot from 1 ft (assist by T. Thomas)
+    - "+2"
+    - 70-62
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - M. Richmond misses 2-pt shot from 18 ft
+  - - '5:15.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '5:11.0'
+    - T. Thomas misses 2-pt shot from 1 ft
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - Defensive rebound by J. White
+  - - '4:55.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - R. Hamilton misses 3-pt shot from 25 ft
+  - - '4:54.0'
+    - Defensive rebound by Team
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '4:39.0'
+    - Shooting foul by R. Hamilton
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - C. Parks enters the game for J. White
+  - - '4:39.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 71-62
+    - ''
+    - ''
+  - - '4:39.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 72-62
+    - ''
+    - ''
+  - - '4:28.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - M. Richmond misses 2-pt shot from 21 ft
+  - - '4:26.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Offensive rebound by J. Howard
+  - - '4:17.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - C. Parks misses 2-pt shot from 19 ft
+  - - '4:17.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Offensive rebound by Team
+  - - '4:17.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Loose ball foul by S. Cassell
+  - - '4:17.0'
+    - E. Johnson enters the game for M. Pope
+    - ''
+    - 72-62
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Turnover by R. Hamilton (bad pass; steal by R. Allen)
+  - - '4:09.0'
+    - Personal foul by J. Howard
+    - ''
+    - 72-62
+    - ''
+    - ''
+  - - '4:09.0'
+    - Technical foul by Team
+    - ''
+    - 72-62
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 72-63
+    - "+1"
+    - M. Richmond makes free throw technical
+  - - '4:09.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 73-63
+    - ''
+    - ''
+  - - '4:09.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 74-63
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 74-65
+    - "+2"
+    - C. Parks makes 2-pt shot from 18 ft (assist by R. Strickland)
+  - - '3:36.0'
+    - S. Cassell makes 2-pt shot from 19 ft (assist by T. Thomas)
+    - "+2"
+    - 76-65
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Shooting foul by E. Johnson
+  - - '3:17.0'
+    - ''
+    - ''
+    - 76-66
+    - "+1"
+    - J. Howard makes free throw 1 of 2
+  - - '3:17.0'
+    - ''
+    - ''
+    - 76-67
+    - "+1"
+    - J. Howard makes free throw 2 of 2
+  - - '3:00.0'
+    - S. Cassell misses 2-pt shot from 11 ft
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Defensive rebound by Team
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '3:00.0'
+    - L. Hunter enters the game for R. Allen
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '3:00.0'
+    - M. Pope enters the game for E. Johnson
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-68
+    - "+1"
+    - J. Howard makes free throw 1 of 2
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - G. King enters the game for M. Richmond
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-69
+    - "+1"
+    - J. Howard makes free throw 2 of 2
+  - - '2:45.0'
+    - T. Thomas misses 2-pt shot from 15 ft
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:43.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:36.0'
+    - T. Thomas misses 3-pt shot from 24 ft
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:34.0'
+    - Offensive rebound by S. Cassell
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:24.0'
+    - Personal foul by R. Strickland
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:24.0'
+    - Milwaukee full timeout
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - C. Whitney enters the game for R. Strickland
+  - - '2:24.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 77-69
+    - ''
+    - ''
+  - - '2:24.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 78-69
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 78-69
+    - ''
+    - J. Howard misses 2-pt shot from 8 ft
+  - - '2:00.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:50.0'
+    - S. Cassell makes 2-pt shot from 17 ft
+    - "+2"
+    - 80-69
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-71
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 16 ft
+  - - '1:17.0'
+    - L. Hunter misses 2-pt shot from 20 ft
+    - ''
+    - 80-71
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 80-71
+    - ''
+    - Defensive rebound by J. Howard
+  - - '1:10.0'
+    - ''
+    - ''
+    - 80-73
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 13 ft (assist by C. Whitney)
+  - - '0:47.9'
+    - T. Thomas misses 2-pt shot from 3 ft (block by G. King)
+    - ''
+    - 80-73
+    - ''
+    - ''
+  - - '0:46.6'
+    - Offensive rebound by Team
+    - ''
+    - 80-73
+    - ''
+    - ''
+  - - '0:44.6'
+    - Turnover by S. Cassell (out of bounds)
+    - ''
+    - 80-73
+    - ''
+    - ''
+  - - '0:35.9'
+    - ''
+    - ''
+    - 80-75
+    - "+2"
+    - C. Whitney makes 2-pt shot from 4 ft
+  - - '0:21.0'
+    - S. Cassell makes 2-pt shot from 6 ft
+    - "+2"
+    - 82-75
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 82-75
+    - ''
+    - R. Hamilton misses 2-pt shot from 7 ft
+  - - '0:00.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 82-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - Personal foul by G. King
+    - ''
+    - 82-75
+    - ''
+    - ''
+  - - '11:32.0'
+    - J. Caffey misses 2-pt shot from 4 ft (block by C. Parks)
+    - ''
+    - 82-75
+    - ''
+    - ''
+  - - '11:30.0'
+    - ''
+    - ''
+    - 82-75
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '11:17.0'
+    - ''
+    - ''
+    - 82-77
+    - "+2"
+    - G. King makes 2-pt shot from 20 ft (assist by R. Hamilton)
+  - - '10:54.0'
+    - L. Hunter makes 3-pt shot from 26 ft (assist by R. Allen)
+    - "+3"
+    - 85-77
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 85-79
+    - "+2"
+    - J. Howard makes 2-pt shot from 9 ft (assist by G. King)
+  - - '10:15.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 85-79
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 85-79
+    - ''
+    - Defensive rebound by C. Parks
+  - - '9:57.0'
+    - ''
+    - ''
+    - 85-81
+    - "+2"
+    - J. Howard makes 2-pt shot from 12 ft
+  - - '9:42.0'
+    - Offensive foul by J. Caffey
+    - ''
+    - 85-81
+    - ''
+    - ''
+  - - '9:42.0'
+    - Turnover by J. Caffey (foul)
+    - ''
+    - 85-81
+    - ''
+    - ''
+  - - '9:42.0'
+    - E. Johnson enters the game for J. Caffey
+    - ''
+    - 85-81
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 85-83
+    - "+2"
+    - G. King makes 2-pt shot from 15 ft (assist by R. Hamilton)
+  - - '9:16.0'
+    - L. Hunter misses 2-pt shot from 22 ft
+    - ''
+    - 85-83
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 85-83
+    - ''
+    - Defensive rebound by J. Howard
+  - - '9:02.0'
+    - ''
+    - ''
+    - 85-83
+    - ''
+    - Shooting foul by M. Pope
+  - - '9:02.0'
+    - ''
+    - ''
+    - 85-84
+    - "+1"
+    - G. King makes free throw 1 of 2
+  - - '9:02.0'
+    - S. Cassell enters the game for T. Thomas
+    - ''
+    - 85-84
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 85-85
+    - "+1"
+    - G. King makes free throw 2 of 2
+  - - '8:42.0'
+    - Turnover by S. Cassell (bad pass; steal by C. Whitney)
+    - ''
+    - 85-85
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 85-87
+    - "+2"
+    - G. King makes 2-pt shot from 2 ft (assist by C. Whitney)
+  - - '8:29.0'
+    - Milwaukee full timeout
+    - ''
+    - 85-87
+    - ''
+    - ''
+  - - '8:13.0'
+    - R. Allen misses 2-pt shot from 17 ft
+    - ''
+    - 85-87
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - Defensive rebound by Team
+  - - '8:13.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - Personal foul by E. Johnson
+  - - '8:13.0'
+    - J. Caffey enters the game for E. Johnson
+    - ''
+    - 85-87
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - C. Parks misses 2-pt shot from 19 ft
+  - - '7:55.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '7:49.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - Personal foul by L. Hunter
+  - - '7:38.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - Washington 20 second timeout
+  - - '7:34.0'
+    - ''
+    - ''
+    - 85-87
+    - ''
+    - C. Whitney misses 2-pt shot from 21 ft
+  - - '7:32.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 85-87
+    - ''
+    - ''
+  - - '7:21.0'
+    - Shooting foul by G. King
+    - ''
+    - 85-87
+    - ''
+    - ''
+  - - '7:21.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 86-87
+    - ''
+    - ''
+  - - '7:21.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 87-87
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 87-89
+    - "+2"
+    - J. Howard makes 2-pt shot from 6 ft
+  - - '6:41.0'
+    - R. Allen misses 2-pt shot from 2 ft (block by C. Parks)
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Defensive rebound by C. Parks
+  - - '6:29.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - G. King misses 2-pt shot from 10 ft
+  - - '6:27.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '6:21.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Defensive rebound by C. Parks
+  - - '5:57.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - C. Whitney misses 2-pt shot from 18 ft
+  - - '5:57.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Offensive rebound by Team
+  - - '5:57.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Turnover by Team (shot clock)
+  - - '5:57.0'
+    - Official timeout
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '5:39.0'
+    - S. Cassell misses 2-pt shot from 12 ft
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Defensive rebound by C. Parks
+  - - '5:21.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - J. Howard misses 2-pt shot from 15 ft
+  - - '5:19.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '5:14.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 87-89
+    - ''
+    - Defensive rebound by Team
+  - - '5:12.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 87-89
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 87-91
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 13 ft (assist by J. Howard)
+  - - '4:42.0'
+    - L. Hunter misses 3-pt shot from 26 ft
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '4:23.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Double personal foul by R. Hamilton and S. Cassell
+  - - '4:16.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - J. Howard misses 2-pt shot from 5 ft
+  - - '4:13.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '4:03.0'
+    - L. Hunter misses 2-pt shot from 6 ft (block by C. Parks)
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Defensive rebound by G. King
+  - - '3:51.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Personal foul by L. Hunter
+  - - '3:38.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - G. King misses 2-pt shot from 3 ft (block by R. Allen)
+  - - '3:38.0'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Offensive rebound by Team
+  - - '3:36.0'
+    - ''
+    - ''
+    - 87-93
+    - "+2"
+    - J. Howard makes 2-pt shot from 6 ft (assist by G. King)
+  - - '3:20.0'
+    - Shooting foul by C. Whitney
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '3:20.0'
+    - R. Allen misses free throw 1 of 2
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '3:20.0'
+    - Offensive rebound by Team
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '3:20.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 88-93
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 88-96
+    - "+3"
+    - C. Whitney makes 3-pt shot from 27 ft (assist by C. Parks)
+  - - '3:04.0'
+    - ''
+    - ''
+    - 88-96
+    - ''
+    - Double personal foul by R. Hamilton and S. Cassell
+  - - '3:04.0'
+    - ''
+    - ''
+    - 88-96
+    - ''
+    - Technical foul by R. Hamilton
+  - - '3:04.0'
+    - R. Allen makes free throw technical
+    - "+1"
+    - 89-96
+    - ''
+    - ''
+  - - '2:52.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 89-96
+    - ''
+    - ''
+  - - '2:52.0'
+    - Milwaukee full timeout
+    - ''
+    - 89-96
+    - ''
+    - ''
+  - - '2:47.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 89-96
+    - ''
+    - ''
+  - - '2:47.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 90-96
+    - ''
+    - ''
+  - - '2:47.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 91-96
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 91-96
+    - ''
+    - C. Whitney misses 2-pt shot from 9 ft
+  - - '2:20.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 91-96
+    - ''
+    - ''
+  - - '2:15.0'
+    - Turnover by L. Hunter (lost ball)
+    - ''
+    - 91-96
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 91-96
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '1:58.0'
+    - ''
+    - ''
+    - 91-96
+    - ''
+    - Offensive rebound by C. Parks
+  - - '1:46.0'
+    - ''
+    - ''
+    - 91-99
+    - "+3"
+    - R. Hamilton makes 3-pt shot from 26 ft (assist by J. Howard)
+  - - '1:46.0'
+    - Milwaukee full timeout
+    - ''
+    - 91-99
+    - ''
+    - ''
+  - - '1:37.0'
+    - L. Hunter misses 3-pt shot from 27 ft
+    - ''
+    - 91-99
+    - ''
+    - ''
+  - - '1:36.0'
+    - Offensive rebound by L. Hunter
+    - ''
+    - 91-99
+    - ''
+    - ''
+  - - '1:29.0'
+    - J. Caffey makes 2-pt shot from 2 ft (assist by S. Cassell)
+    - "+2"
+    - 93-99
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 93-99
+    - ''
+    - Washington full timeout
+  - - '1:08.0'
+    - ''
+    - ''
+    - 93-99
+    - ''
+    - J. Howard misses 2-pt shot from 5 ft
+  - - '1:06.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 93-99
+    - ''
+    - ''
+  - - '1:02.0'
+    - R. Allen makes 2-pt shot from 1 ft
+    - "+2"
+    - 95-99
+    - ''
+    - ''
+  - - '0:59.4'
+    - ''
+    - ''
+    - 95-99
+    - ''
+    - Inbound foul by S. Cassell
+  - - '0:59.4'
+    - M. Pope enters the game for S. Cassell
+    - ''
+    - 95-99
+    - ''
+    - ''
+  - - '0:59.4'
+    - ''
+    - ''
+    - 95-100
+    - "+1"
+    - C. Whitney makes free throw 1 of 1
+  - - '0:59.4'
+    - ''
+    - ''
+    - 95-100
+    - ''
+    - Turnover by Team (5 second)
+  - - '0:59.4'
+    - Milwaukee 20 second timeout
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:56.9'
+    - J. Caffey misses 2-pt shot from 6 ft
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:55.5'
+    - Offensive rebound by Team
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:53.9'
+    - R. Allen misses 3-pt shot from 24 ft
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:51.8'
+    - Offensive rebound by R. Allen
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:49.9'
+    - Turnover by R. Allen (bad pass; steal by R. Hamilton)
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:43.3'
+    - ''
+    - ''
+    - 95-100
+    - ''
+    - Personal foul by R. Allen
+  - - '0:43.3'
+    - ''
+    - ''
+    - 95-101
+    - "+1"
+    - C. Whitney makes free throw 1 of 2
+  - - '0:43.3'
+    - R. Alston enters the game for M. Pope
+    - ''
+    - 95-101
+    - ''
+    - ''
+  - - '0:43.3'
+    - ''
+    - ''
+    - 95-102
+    - "+1"
+    - C. Whitney makes free throw 2 of 2
+  - - '0:33.7'
+    - R. Alston makes 3-pt shot from 26 ft (assist by T. Thomas)
+    - "+3"
+    - 98-102
+    - ''
+    - ''
+  - - '0:30.2'
+    - ''
+    - ''
+    - 98-102
+    - ''
+    - Personal foul by T. Thomas
+  - - '0:30.2'
+    - ''
+    - ''
+    - 98-103
+    - "+1"
+    - C. Whitney makes free throw 1 of 2
+  - - '0:30.2'
+    - ''
+    - ''
+    - 98-104
+    - "+1"
+    - C. Whitney makes free throw 2 of 2
+  - - '0:30.2'
+    - Milwaukee full timeout
+    - ''
+    - 98-104
+    - ''
+    - ''
+  - - '0:29.7'
+    - Turnover by R. Alston (bad pass)
+    - ''
+    - 98-104
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 98-104
+    - ''
+    - Turnover by G. King (bad pass; steal by R. Allen)
+  - - '0:22.4'
+    - T. Thomas makes 2-pt shot from 1 ft
+    - "+2"
+    - 100-104
+    - ''
+    - ''
+  - - '0:16.5'
+    - ''
+    - ''
+    - 100-104
+    - ''
+    - Personal foul by T. Thomas
+  - - '0:16.5'
+    - ''
+    - ''
+    - 100-105
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '0:16.5'
+    - ''
+    - ''
+    - 100-106
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '0:11.9'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 100-106
+    - ''
+    - ''
+  - - '0:10.8'
+    - ''
+    - ''
+    - 100-106
+    - ''
+    - Defensive rebound by Team
+  - - '0:08.7'
+    - ''
+    - ''
+    - 100-106
+    - ''
+    - Personal foul by R. Alston
+  - - '0:08.7'
+    - ''
+    - ''
+    - 100-107
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '0:08.7'
+    - ''
+    - ''
+    - 100-107
+    - ''
+    - R. Hamilton misses free throw 2 of 2
+  - - '0:07.9'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 100-107
+    - ''
+    - ''
+  - - '0:03.9'
+    - L. Hunter misses 3-pt shot from 26 ft
+    - ''
+    - 100-107
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 100-107
+    - ''
+    - Defensive rebound by J. Howard
+  - - '0:00.0'
+    - End of 4th quarter

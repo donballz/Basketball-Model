@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Brent Barry (On: +5&#9642;Off: +10&#9642;Net: -5)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 71/-3
+    - 178/
+    - 1/0
+    - 207/+2
+    - 42/
+    - 249/+11
+    - 'Patrick Ewing (On: +9&#9642;Off: +6&#9642;Net: +3)'
+    - |2-
+
+      -3
+    - 239/-3
+    - 132/
+    - 126/+8
+    - 1/
+    - 188/+4
+    - 312/
+    - 'Rashard Lewis (On: +16&#9642;Off: -1&#9642;Net: +17)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 122/
+    - 127/+8
+    - 249/+6
+    - 44/0
+    - 79/
+    - 127/+7
+    - 'Jelani McCoy (On: -10&#9642;Off: +25&#9642;Net: -35)'
+    - |2-
+
+      -10
+    - 99/-10
+    - 903/
+    - 'Gary Payton (On: +19&#9642;Off: -4&#9642;Net: +23)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 36/0
+    - 37/
+    - 176/+6
+    - 249/+6
+    - 73/
+    - 177/+12
+    - 'Ruben Patterson (On: +15&#9642;Off: 0&#9642;Net: +15)'
+    - "\n"
+    - 100/
+    - 149/+5
+    - 118/-5
+    - 131/
+    - 243/+4
+    - 54/
+    - 202/+11
+    - 'Desmond Mason (On: +9&#9642;Off: +6&#9642;Net: +3)'
+    - "\n"
+    - 248/
+    - 1/-2
+    - 249/+3
+    - 209/
+    - 41/+4
+    - 118/+4
+    - 131/
+    - 'Vin Baker (On: +8&#9642;Off: +7&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 119/-5
+    - 325/
+    - 56/+2
+    - 249/+11
+    - 'Shammond Williams (On: +4&#9642;Off: +11&#9642;Net: -7)'
+    - "\n"
+    - 292/
+    - 207/+3
+    - 248/
+    - 2/+2
+    - 71/-1
+    - 178/
+  - - Houston Rockets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shandon Anderson (On: -9&#9642;Off: -6&#9642;Net: -3)'
+    - |2-
+
+      +8
+    - 149/+8
+    - 152/
+    - 85/0
+    - 113/
+    - 250/-6
+    - 249/-11
+    - 'Steve Francis (On: -20&#9642;Off: +5&#9642;Net: -25)'
+    - |2-
+
+      +3
+    - 239/+3
+    - 146/
+    - 112/-6
+    - 1/
+    - 249/-6
+    - 192/-11
+    - 58/
+    - 'Hakeem Olajuwon (On: -11&#9642;Off: -4&#9642;Net: -7)'
+    - |2-
+
+      +6
+    - 207/+6
+    - 164/
+    - 127/-8
+    - 206/-2
+    - 165/
+    - 69/-7
+    - 59/
+    - 'Maurice Taylor (On: -9&#9642;Off: -6&#9642;Net: -3)'
+    - |2-
+
+      +9
+    - 118/+9
+    - 274/
+    - 106/-4
+    - 249/-6
+    - 118/-4
+    - 54/
+    - 20/-4
+    - 57/
+    - 'Walt Williams (On: +5&#9642;Off: -20&#9642;Net: +25)'
+    - |2-
+
+      +8
+    - 126/+8
+    - 86/
+    - 38/-1
+    - 133/+3
+    - 117/
+    - 96/-5
+    - 401/
+    - 'Kenny Thomas (On: -10&#9642;Off: -5&#9642;Net: -5)'
+    - "\n"
+    - 122/
+    - 127/-4
+    - 118/+5
+    - 338/
+    - 42/-4
+    - 163/-7
+    - 87/
+    - 'Matt Bullard (On: -2&#9642;Off: -13&#9642;Net: +11)'
+    - "\n"
+    - 131/
+    - 118/-3
+    - 46/+1
+    - 650/
+    - 54/0
+    - 'Cuttino Mobley (On: -18&#9642;Off: +3&#9642;Net: -21)'
+    - "\n"
+    - 155/
+    - 95/-3
+    - 249/-3
+    - 105/
+    - 145/-1
+    - 192/-11
+    - 56/
+    - 'Moochie Norris (On: -1&#9642;Off: -14&#9642;Net: +13)'
+    - "\n"
+    - 248/
+    - 1/+2
+    - 221/-3
+    - 28/
+    - 1/0
+    - 446/
+    - 52/0
+    - 'Dan Langhi (On: 0&#9642;Off: -15&#9642;Net: +15)'
+    - "\n"
+    - 476/
+    - 24/0
+    - 447/
+    - 53/0
+    - 'Anthony Miller (On: 0&#9642;Off: -15&#9642;Net: +15)'
+    - "\n"
+    - 949/
+    - 53/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

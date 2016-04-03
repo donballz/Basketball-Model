@@ -1,0 +1,2562 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: R. Wallace vs. K. Willis (S. Pippen gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by S. Pippen (bad pass; steal by C. Williamson)
+  - - '11:32.0'
+    - A. Davis makes 2-pt shot from 18 ft (assist by A. Williams)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:16.0'
+    - Violation by A. Williams (kicked ball)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - R. Wallace makes 2-pt shot from 4 ft (assist by S. Pippen)
+  - - '10:55.0'
+    - C. Williamson makes 2-pt shot from 14 ft (assist by M. Jackson)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '10:30.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:30.0'
+    - C. Williamson misses free throw 1 of 2
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:30.0'
+    - Offensive rebound by Team
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:30.0'
+    - C. Williamson makes free throw 2 of 2
+    - "+1"
+    - 5-4
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - R. Wallace misses 2-pt shot from 4 ft
+  - - '10:13.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:58.0'
+    - A. Williams misses 2-pt shot from 23 ft
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:56.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:42.0'
+    - K. Willis misses 2-pt shot from 8 ft (block by R. Wallace)
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '9:25.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - R. Wallace misses 2-pt shot from 12 ft
+  - - '9:22.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:16.0'
+    - Turnover by M. Jackson (bad pass; steal by D. Davis)
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - D. Stoudamire misses 3-pt shot from 25 ft
+  - - '9:08.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '8:58.0'
+    - ''
+    - ''
+    - 5-6
+    - "+2"
+    - D. Stoudamire makes 2-pt shot at rim (assist by S. Pippen)
+  - - '8:37.0'
+    - A. Davis misses 2-pt shot from 18 ft
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 5-6
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '8:25.0'
+    - ''
+    - ''
+    - 5-6
+    - ''
+    - R. Wallace misses 2-pt shot from 22 ft
+  - - '8:23.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:10.0'
+    - K. Willis misses 2-pt shot from 5 ft
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 5-6
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '7:58.0'
+    - ''
+    - ''
+    - 5-8
+    - "+2"
+    - D. Stoudamire makes 2-pt shot at rim (assist by S. Smith)
+  - - '7:47.0'
+    - Toronto full timeout
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '7:32.0'
+    - A. Davis misses 2-pt shot from 16 ft
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '7:29.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 7-8
+    - ''
+    - ''
+  - - '7:29.0'
+    - Offensive rebound by C. Williamson
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - S. Smith misses 2-pt shot from 12 ft
+  - - '7:07.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '6:57.0'
+    - K. Willis makes 2-pt shot at rim (assist by C. Williamson)
+    - "+2"
+    - 9-8
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim
+  - - '6:46.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:31.0'
+    - A. Williams misses 2-pt shot from 22 ft
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '6:21.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Personal foul by M. Jackson
+  - - '6:09.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - S. Smith misses 2-pt shot at rim (block by A. Davis)
+  - - '6:09.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Offensive rebound by Team
+  - - '6:07.0'
+    - ''
+    - ''
+    - 9-10
+    - "+2"
+    - S. Smith makes 2-pt shot at rim (assist by S. Pippen)
+  - - '5:52.0'
+    - A. Davis misses 2-pt shot from 3 ft
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '5:51.0'
+    - Offensive rebound by K. Willis
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '5:49.0'
+    - Shooting foul by R. Wallace
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '5:49.0'
+    - K. Willis makes free throw 1 of 2
+    - "+1"
+    - 10-10
+    - ''
+    - ''
+  - - '5:49.0'
+    - K. Willis makes free throw 2 of 2
+    - "+1"
+    - 11-10
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - R. Wallace misses 2-pt shot from 21 ft
+  - - '5:32.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 11-10
+    - ''
+    - ''
+  - - '5:11.0'
+    - K. Willis makes 2-pt shot from 15 ft (assist by M. Jackson)
+    - "+2"
+    - 13-10
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 13-10
+    - ''
+    - Personal foul by K. Willis
+  - - '4:53.0'
+    - ''
+    - ''
+    - 13-12
+    - "+2"
+    - S. Smith makes 2-pt shot from 9 ft (assist by R. Wallace)
+  - - '4:32.0'
+    - C. Williamson makes 2-pt shot from 12 ft
+    - "+2"
+    - 15-12
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Personal foul by M. Jackson
+  - - '4:26.0'
+    - D. Curry enters the game for M. Jackson
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - D. Stoudamire misses 3-pt shot from 24 ft
+  - - '4:14.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:58.0'
+    - K. Willis misses 2-pt shot from 5 ft (block by R. Wallace)
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:54.0'
+    - D. Curry misses 2-pt shot at rim
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '3:43.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - D. Davis misses 2-pt shot from 16 ft
+  - - '3:42.0'
+    - Defensive rebound by D. Curry
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:34.0'
+    - C. Williamson misses 2-pt shot from 10 ft
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Defensive rebound by Team
+  - - '3:34.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Loose ball foul by C. Williamson
+  - - '3:20.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - R. Wallace misses 2-pt shot from 20 ft
+  - - '3:18.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:06.0'
+    - D. Curry makes 2-pt shot from 22 ft (assist by A. Davis)
+    - "+2"
+    - 17-12
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-14
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 5 ft (assist by R. Wallace)
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - Shooting foul by D. Curry
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - Portland full timeout
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - S. Augmon enters the game for R. Wallace
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - S. Kemp enters the game for S. Pippen
+  - - '2:52.0'
+    - ''
+    - ''
+    - 17-15
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 1
+  - - '2:42.0'
+    - K. Willis misses 2-pt shot at rim
+    - ''
+    - 17-15
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - Defensive rebound by D. Davis
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim (block by A. Davis)
+  - - '2:31.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 17-15
+    - ''
+    - ''
+  - - '2:25.0'
+    - A. Williams misses 2-pt shot from 15 ft
+    - ''
+    - 17-15
+    - ''
+    - ''
+  - - '2:23.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 17-15
+    - ''
+    - ''
+  - - '2:21.0'
+    - A. Davis makes 2-pt shot from 4 ft
+    - "+2"
+    - 19-15
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 19-17
+    - "+2"
+    - S. Kemp makes 2-pt shot from 23 ft (assist by S. Smith)
+  - - '1:34.0'
+    - C. Williamson misses 2-pt shot from 4 ft
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Defensive rebound by S. Augmon
+  - - '1:18.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - D. Davis misses 2-pt shot from 7 ft
+  - - '1:17.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '1:04.0'
+    - A. Davis misses 2-pt shot from 3 ft
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Defensive rebound by D. Davis
+  - - '0:43.9'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - D. Stoudamire misses 2-pt shot from 21 ft
+  - - '0:41.3'
+    - Defensive rebound by K. Willis
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '0:27.6'
+    - D. Curry misses 2-pt shot from 20 ft
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '0:26.2'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '0:07.1'
+    - ''
+    - ''
+    - 19-19
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 16 ft
+  - - '0:01.6'
+    - A. Williams misses 2-pt shot at rim
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '0:01.4'
+    - Offensive rebound by Team
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '0:01.4'
+    - M. Peterson enters the game for C. Williamson
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '0:00.2'
+    - M. Peterson misses 2-pt shot from 16 ft
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:53.0'
+    - Turnover by A. Williams (lost ball; steal by D. Stoudamire)
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '11:48.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim
+  - - '11:46.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '11:32.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Personal foul by K. Willis
+  - - '11:32.0'
+    - M. Stewart enters the game for K. Willis
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - S. Kemp misses 2-pt shot from 5 ft
+  - - '11:19.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '11:17.0'
+    - Turnover by M. Peterson (lost ball; steal by D. Stoudamire)
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 19-21
+    - "+2"
+    - D. Stoudamire makes 2-pt shot at rim
+  - - '11:02.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:58.0'
+    - Offensive foul by M. Stewart
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:58.0'
+    - Turnover by M. Stewart (foul)
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:58.0'
+    - M. Jackson enters the game for A. Williams
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - B. Wells misses 2-pt shot from 10 ft
+  - - '10:37.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:23.0'
+    - A. Davis misses 2-pt shot from 4 ft (block by S. Augmon)
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - G. Anthony enters the game for D. Stoudamire
+  - - '10:14.0'
+    - M. Jackson makes 2-pt shot from 3 ft
+    - "+2"
+    - 21-21
+    - ''
+    - ''
+  - - '9:56.0'
+    - Violation by D. Curry (illegal defense)
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 21-23
+    - "+2"
+    - S. Kemp makes 2-pt shot at rim
+  - - '9:29.0'
+    - D. Curry misses 2-pt shot from 19 ft
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '9:15.0'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - S. Augmon misses 2-pt shot from 12 ft
+  - - '9:13.0'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - Offensive rebound by B. Wells
+  - - '9:10.0'
+    - ''
+    - ''
+    - 21-26
+    - "+3"
+    - G. Anthony makes 3-pt shot from 24 ft (assist by B. Wells)
+  - - '8:52.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 21-26
+    - ''
+    - ''
+  - - '8:52.0'
+    - Official timeout
+    - ''
+    - 21-26
+    - ''
+    - ''
+  - - '8:52.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 22-26
+    - ''
+    - ''
+  - - '8:52.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 23-26
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - S. Kemp misses 2-pt shot from 22 ft
+  - - '8:31.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - Offensive rebound by Team
+  - - '8:31.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - Loose ball foul by M. Peterson
+  - - '8:28.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - Personal foul by M. Stewart
+  - - '8:15.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - Shooting foul by M. Stewart
+  - - '8:15.0'
+    - ''
+    - ''
+    - 23-27
+    - "+1"
+    - S. Kemp makes free throw 1 of 2
+  - - '8:15.0'
+    - K. Willis enters the game for M. Stewart
+    - ''
+    - 23-27
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 23-28
+    - "+1"
+    - S. Kemp makes free throw 2 of 2
+  - - '7:59.0'
+    - Personal foul by B. Wells
+    - ''
+    - 23-28
+    - ''
+    - ''
+  - - '7:52.0'
+    - M. Peterson misses 2-pt shot from 19 ft
+    - ''
+    - 23-28
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '7:43.0'
+    - ''
+    - ''
+    - 23-30
+    - "+2"
+    - B. Wells makes 2-pt shot from 7 ft (assist by G. Anthony)
+  - - '7:43.0'
+    - ''
+    - ''
+    - 23-30
+    - ''
+    - Shooting foul by M. Peterson
+  - - '7:43.0'
+    - T. Corbin enters the game for D. Curry
+    - ''
+    - 23-30
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 23-30
+    - ''
+    - B. Wells misses free throw 1 of 1
+  - - '7:42.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 23-30
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 23-30
+    - ''
+    - Violation by S. Kemp (illegal defense)
+  - - '7:25.0'
+    - C. Williamson enters the game for A. Davis
+    - ''
+    - 23-30
+    - ''
+    - ''
+  - - '7:19.0'
+    - Turnover by M. Peterson (bad pass; steal by S. Kemp)
+    - ''
+    - 23-30
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 23-32
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Kemp)
+  - - '6:52.0'
+    - Turnover by T. Corbin (bad pass; steal by B. Wells)
+    - ''
+    - 23-32
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-34
+    - "+2"
+    - R. Wallace makes 2-pt shot from 5 ft (assist by B. Wells)
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-34
+    - ''
+    - Shooting foul by C. Williamson
+  - - '6:48.0'
+    - A. Williams enters the game for M. Peterson
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-35
+    - "+1"
+    - R. Wallace makes free throw 1 of 1
+  - - '6:36.0'
+    - C. Williamson makes 2-pt shot at rim (assist by A. Williams)
+    - "+2"
+    - 25-35
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - S. Augmon misses 2-pt shot from 3 ft
+  - - '6:17.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 25-35
+    - ''
+    - ''
+  - - '6:08.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 27-35
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 27-35
+    - ''
+    - G. Anthony misses 3-pt shot from 25 ft
+  - - '5:52.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:40.0'
+    - Personal foul by S. Kemp
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:40.0'
+    - Toronto full timeout
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:27.0'
+    - T. Corbin misses 2-pt shot from 15 ft
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:24.0'
+    - Offensive rebound by K. Willis
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:16.0'
+    - K. Willis misses 2-pt shot from 8 ft
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 27-35
+    - ''
+    - Defensive rebound by S. Augmon
+  - - '5:10.0'
+    - ''
+    - ''
+    - 27-35
+    - ''
+    - Turnover by B. Wells (bad pass)
+  - - '4:50.0'
+    - M. Jackson misses 3-pt shot from 24 ft
+    - ''
+    - 27-35
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 27-35
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '4:32.0'
+    - ''
+    - ''
+    - 27-37
+    - "+2"
+    - S. Kemp makes 2-pt shot at rim (assist by S. Augmon)
+  - - '4:16.0'
+    - C. Williamson misses 2-pt shot at rim
+    - ''
+    - 27-37
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 27-37
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '4:10.0'
+    - ''
+    - ''
+    - 27-37
+    - ''
+    - R. Wallace misses 2-pt shot from 20 ft
+  - - '4:07.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 27-37
+    - ''
+    - ''
+  - - '3:54.0'
+    - C. Williamson makes 2-pt shot from 18 ft (assist by A. Williams)
+    - "+2"
+    - 29-37
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - S. Pippen enters the game for S. Augmon
+  - - '3:34.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - D. Davis enters the game for S. Kemp
+  - - '3:34.0'
+    - A. Davis enters the game for T. Corbin
+    - ''
+    - 29-37
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - R. Wallace misses 3-pt shot from 25 ft
+  - - '3:26.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 29-37
+    - ''
+    - ''
+  - - '3:12.0'
+    - Personal foul by D. Davis
+    - ''
+    - 29-37
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '3:12.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 29-37
+    - ''
+    - ''
+  - - '3:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 29-37
+    - ''
+    - ''
+  - - '3:12.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 30-37
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - S. Smith misses 3-pt shot from 26 ft
+  - - '2:45.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:27.0'
+    - A. Davis misses 2-pt shot at rim (block by D. Davis)
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '2:22.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - Turnover by S. Pippen (bad pass; steal by A. Williams)
+  - - '2:21.0'
+    - Shooting foul by R. Wallace
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:21.0'
+    - Toronto full timeout
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - D. Stoudamire enters the game for G. Anthony
+  - - '2:21.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:21.0'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:19.0'
+    - Offensive rebound by C. Williamson
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:18.0'
+    - C. Williamson misses 2-pt shot from 14 ft
+    - ''
+    - 30-37
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '2:03.0'
+    - ''
+    - ''
+    - 30-37
+    - ''
+    - Personal foul by M. Jackson
+  - - '2:03.0'
+    - ''
+    - ''
+    - 30-38
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '2:03.0'
+    - D. Curry enters the game for M. Jackson
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 30-39
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '1:47.0'
+    - C. Williamson misses 2-pt shot from 6 ft (block by S. Pippen)
+    - ''
+    - 30-39
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 30-39
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '1:33.0'
+    - ''
+    - ''
+    - 30-41
+    - "+2"
+    - S. Pippen makes 2-pt shot from 20 ft (assist by D. Stoudamire)
+  - - '1:18.0'
+    - K. Willis misses 2-pt shot from 18 ft
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '1:16.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 30-41
+    - ''
+    - ''
+  - - '1:12.0'
+    - D. Curry makes 3-pt shot from 24 ft (assist by A. Williams)
+    - "+3"
+    - 33-41
+    - ''
+    - ''
+  - - '0:58.1'
+    - ''
+    - ''
+    - 33-41
+    - ''
+    - Turnover by D. Stoudamire (bad pass; steal by A. Williams)
+  - - '0:45.0'
+    - A. Davis makes 2-pt shot from 14 ft (assist by D. Curry)
+    - "+2"
+    - 35-41
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 35-43
+    - "+2"
+    - R. Wallace makes 2-pt shot from 7 ft
+  - - '0:02.3'
+    - A. Davis misses 2-pt shot from 19 ft
+    - ''
+    - 35-43
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - Defensive rebound by S. Smith
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:38.0'
+    - A. Davis misses 2-pt shot from 21 ft
+    - ''
+    - 35-43
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '11:17.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - R. Wallace misses 2-pt shot from 8 ft
+  - - '11:15.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - R. Wallace misses 2-pt shot at rim
+  - - '11:15.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '11:14.0'
+    - ''
+    - ''
+    - 35-45
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim
+  - - '11:14.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '11:14.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - Shooting foul by K. Willis
+  - - '11:14.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - R. Wallace misses free throw 1 of 1
+  - - '11:13.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 35-45
+    - ''
+    - ''
+  - - '10:55.0'
+    - K. Willis makes 2-pt shot from 14 ft (assist by A. Williams)
+    - "+2"
+    - 37-45
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 37-45
+    - ''
+    - S. Pippen misses 3-pt shot from 25 ft
+  - - '10:33.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 37-45
+    - ''
+    - ''
+  - - '10:21.0'
+    - A. Williams makes 2-pt shot from 15 ft (assist by M. Jackson)
+    - "+2"
+    - 39-45
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 39-47
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '9:44.0'
+    - Turnover by C. Williamson (lost ball)
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - R. Wallace misses 2-pt shot from 20 ft
+  - - '9:25.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - Offensive rebound by D. Davis
+  - - '9:10.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - Turnover by D. Stoudamire (lost ball; steal by M. Jackson)
+  - - '9:03.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '9:03.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 40-47
+    - ''
+    - ''
+  - - '9:03.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 41-47
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 41-47
+    - ''
+    - S. Smith misses 2-pt shot from 7 ft
+  - - '8:47.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 41-47
+    - ''
+    - ''
+  - - '8:38.0'
+    - A. Williams makes 3-pt shot from 24 ft (assist by M. Jackson)
+    - "+3"
+    - 44-47
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Ill def tech foul by A. Davis
+  - - '8:27.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - S. Smith misses free throw technical
+  - - '8:27.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Offensive rebound by Team
+  - - '8:23.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - D. Stoudamire misses 2-pt shot from 23 ft
+  - - '8:19.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '8:00.0'
+    - M. Jackson misses 2-pt shot from 17 ft
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Defensive rebound by D. Davis
+  - - '7:50.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - S. Smith misses 2-pt shot at rim
+  - - '7:48.0'
+    - ''
+    - ''
+    - 44-49
+    - "+2"
+    - S. Smith makes 2-pt shot at rim
+  - - '7:48.0'
+    - ''
+    - ''
+    - 44-49
+    - ''
+    - Offensive rebound by S. Smith
+  - - '7:33.0'
+    - Shooting foul by D. Davis
+    - ''
+    - 44-49
+    - ''
+    - ''
+  - - '7:33.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 45-49
+    - ''
+    - ''
+  - - '7:33.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 46-49
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - Personal foul by A. Davis
+  - - '7:14.0'
+    - ''
+    - ''
+    - 46-49
+    - ''
+    - S. Smith misses 2-pt shot from 18 ft
+  - - '7:12.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '6:53.0'
+    - M. Jackson makes 2-pt shot at rim (assist by C. Williamson)
+    - "+2"
+    - 48-49
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - R. Wallace misses 2-pt shot from 6 ft
+  - - '6:38.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '6:23.0'
+    - A. Davis misses 2-pt shot at rim
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Defensive rebound by S. Smith
+  - - '6:05.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - S. Pippen misses 2-pt shot from 18 ft
+  - - '6:03.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Offensive rebound by D. Davis
+  - - '5:54.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - D. Davis misses 2-pt shot at rim
+  - - '5:52.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '5:39.0'
+    - A. Williams makes 2-pt shot from 20 ft (assist by M. Jackson)
+    - "+2"
+    - 50-49
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - Portland full timeout
+  - - '5:13.0'
+    - ''
+    - ''
+    - 50-51
+    - "+2"
+    - R. Wallace makes 2-pt shot from 8 ft
+  - - '4:50.0'
+    - A. Davis makes 2-pt shot at rim (assist by M. Jackson)
+    - "+2"
+    - 52-51
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Offensive foul by R. Wallace
+  - - '4:38.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Turnover by R. Wallace (foul)
+  - - '4:38.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Technical foul by R. Wallace
+  - - '4:38.0'
+    - K. Willis makes free throw technical
+    - "+1"
+    - 53-51
+    - ''
+    - ''
+  - - '4:16.0'
+    - A. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Defensive rebound by Team
+  - - '4:15.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Loose ball foul by A. Davis
+  - - '4:15.0'
+    - Technical foul by A. Davis
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - S. Augmon enters the game for S. Pippen
+  - - '4:15.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - S. Kemp enters the game for D. Davis
+  - - '4:15.0'
+    - ''
+    - ''
+    - 53-52
+    - "+1"
+    - D. Stoudamire makes free throw technical
+  - - '4:04.0'
+    - ''
+    - ''
+    - 53-52
+    - ''
+    - Turnover by S. Smith (no)
+  - - '3:54.0'
+    - Personal foul by S. Smith
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:46.0'
+    - Shooting foul by S. Smith
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:46.0'
+    - C. Williamson misses free throw 1 of 2
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:46.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:46.0'
+    - C. Williamson misses free throw 2 of 2
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 53-52
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '3:31.0'
+    - ''
+    - ''
+    - 53-52
+    - ''
+    - S. Smith misses 2-pt shot from 17 ft
+  - - '3:29.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '3:20.0'
+    - A. Williams makes 2-pt shot from 5 ft (assist by M. Jackson)
+    - "+2"
+    - 55-52
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 55-54
+    - "+2"
+    - S. Kemp makes 2-pt shot from 23 ft (assist by D. Stoudamire)
+  - - '2:40.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '2:40.0'
+    - Toronto full timeout
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - B. Wells enters the game for S. Smith
+  - - '2:40.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - D. Davis enters the game for R. Wallace
+  - - '2:40.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 56-54
+    - ''
+    - ''
+  - - '2:40.0'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 56-54
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 56-54
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '2:28.0'
+    - ''
+    - ''
+    - 56-56
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '2:14.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 58-56
+    - ''
+    - ''
+  - - '2:14.0'
+    - Shooting foul by B. Wells
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '2:14.0'
+    - M. Stewart enters the game for K. Willis
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '2:14.0'
+    - C. Williamson misses free throw 1 of 1
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 58-56
+    - ''
+    - Defensive rebound by S. Augmon
+  - - '1:59.0'
+    - ''
+    - ''
+    - 58-58
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 22 ft
+  - - '1:43.0'
+    - Turnover by M. Stewart (bad pass; steal by S. Kemp)
+    - ''
+    - 58-58
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 58-60
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 18 ft
+  - - '1:15.0'
+    - Personal foul by D. Davis
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '1:15.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '1:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Violation by B. Wells (lane)
+  - - '1:15.0'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Defensive rebound by D. Davis
+  - - '1:03.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Personal foul by A. Davis
+  - - '1:03.0'
+    - D. Curry enters the game for C. Williamson
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '0:59.1'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '0:57.4'
+    - ''
+    - ''
+    - 58-62
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '0:57.4'
+    - ''
+    - ''
+    - 58-62
+    - ''
+    - Offensive rebound by B. Wells
+  - - '0:43.6'
+    - Turnover by D. Curry (bad pass; steal by D. Davis)
+    - ''
+    - 58-62
+    - ''
+    - ''
+  - - '0:32.8'
+    - ''
+    - ''
+    - 58-64
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 6 ft
+  - - '0:18.6'
+    - Turnover by A. Williams (bad pass; steal by B. Wells)
+    - ''
+    - 58-64
+    - ''
+    - ''
+  - - '0:14.7'
+    - ''
+    - ''
+    - 58-66
+    - "+2"
+    - S. Augmon makes 2-pt shot at rim (assist by B. Wells)
+  - - '0:03.0'
+    - Personal foul by B. Wells
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '0:03.0'
+    - M. Jackson makes free throw 1 of 2
+    - "+1"
+    - 59-66
+    - ''
+    - ''
+  - - '0:03.0'
+    - M. Jackson makes free throw 2 of 2
+    - "+1"
+    - 60-66
+    - ''
+    - ''
+  - - '0:01.5'
+    - ''
+    - ''
+    - 60-68
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by S. Kemp)
+  - - '0:01.5'
+    - Violation by M. Stewart (def goaltending)
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:00.3'
+    - M. Jackson misses 3-pt shot from 62 ft
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 60-68
+    - ''
+    - Turnover by D. Davis (lost ball; steal by M. Jackson)
+  - - '11:23.0'
+    - Shooting foul by D. Davis
+    - ''
+    - 60-68
+    - ''
+    - ''
+  - - '11:23.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 61-68
+    - ''
+    - ''
+  - - '11:23.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 62-68
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - Personal foul by D. Curry
+  - - '11:07.0'
+    - K. Willis enters the game for M. Stewart
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - B. Wells misses 2-pt shot from 6 ft
+  - - '10:57.0'
+    - Defensive rebound by D. Curry
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:37.0'
+    - K. Willis misses 2-pt shot from 12 ft
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '10:30.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - D. Davis misses 2-pt shot at rim
+  - - '10:28.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:26.0'
+    - Personal foul by S. Augmon
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:11.0'
+    - Personal foul by S. Augmon
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:03.0'
+    - M. Jackson misses 3-pt shot from 24 ft
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - Defensive rebound by S. Kemp
+  - - '10:00.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - Personal foul by A. Williams
+  - - '10:00.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - R. Wallace enters the game for D. Davis
+  - - '9:45.0'
+    - ''
+    - ''
+    - 62-71
+    - "+3"
+    - D. Stoudamire makes 3-pt shot from 24 ft (assist by B. Wells)
+  - - '9:40.0'
+    - Toronto full timeout
+    - ''
+    - 62-71
+    - ''
+    - ''
+  - - '9:40.0'
+    - C. Williamson enters the game for M. Jackson
+    - ''
+    - 62-71
+    - ''
+    - ''
+  - - '9:24.0'
+    - Turnover by A. Williams (lost ball; steal by D. Stoudamire)
+    - ''
+    - 62-71
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 62-73
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '8:56.0'
+    - A. Williams makes 2-pt shot from 22 ft (assist by D. Curry)
+    - "+2"
+    - 64-73
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 64-73
+    - ''
+    - Personal foul by K. Willis
+  - - '8:42.0'
+    - ''
+    - ''
+    - 64-73
+    - ''
+    - Technical foul by S. Kemp
+  - - '8:42.0'
+    - M. Jackson enters the game for A. Williams
+    - ''
+    - 64-73
+    - ''
+    - ''
+  - - '8:42.0'
+    - D. Curry makes free throw technical
+    - "+1"
+    - 65-73
+    - ''
+    - ''
+  - - '8:31.0'
+    - ''
+    - ''
+    - 65-73
+    - ''
+    - R. Wallace misses 2-pt shot from 7 ft
+  - - '8:30.0'
+    - ''
+    - ''
+    - 65-75
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '8:30.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Offensive rebound by B. Wells
+  - - '8:16.0'
+    - D. Curry makes 2-pt shot from 23 ft (assist by M. Jackson)
+    - "+2"
+    - 67-75
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 67-77
+    - "+2"
+    - S. Kemp makes 2-pt shot from 23 ft (assist by D. Stoudamire)
+  - - '7:25.0'
+    - M. Jackson makes 3-pt shot from 24 ft (assist by C. Williamson)
+    - "+3"
+    - 70-77
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 70-80
+    - "+3"
+    - B. Wells makes 3-pt shot from 24 ft (assist by S. Kemp)
+  - - '6:49.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 70-80
+    - ''
+    - ''
+  - - '6:49.0'
+    - Toronto 20 second timeout
+    - ''
+    - 70-80
+    - ''
+    - ''
+  - - '6:43.0'
+    - C. Williamson makes 2-pt shot at rim (assist by D. Curry)
+    - "+2"
+    - 72-80
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 72-80
+    - ''
+    - D. Stoudamire misses 2-pt shot from 22 ft
+  - - '6:24.0'
+    - ''
+    - ''
+    - 72-80
+    - ''
+    - Offensive rebound by B. Wells
+  - - '6:23.0'
+    - ''
+    - ''
+    - 72-80
+    - ''
+    - Personal foul by C. Williamson
+  - - '6:18.0'
+    - ''
+    - ''
+    - 72-82
+    - "+2"
+    - S. Augmon makes 2-pt shot at rim
+  - - '6:03.0'
+    - D. Curry makes 2-pt shot from 22 ft (assist by M. Jackson)
+    - "+2"
+    - 74-82
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Turnover by D. Stoudamire (lost ball; steal by M. Jackson)
+  - - '5:30.0'
+    - C. Williamson misses 2-pt shot from 4 ft
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '5:27.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '5:25.0'
+    - M. Jackson misses 3-pt shot from 24 ft
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '5:23.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '5:01.0'
+    - M. Jackson misses 2-pt shot from 9 ft
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '4:53.0'
+    - ''
+    - ''
+    - 74-84
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim (assist by B. Wells)
+  - - '4:51.0'
+    - Toronto full timeout
+    - ''
+    - 74-84
+    - ''
+    - ''
+  - - '4:51.0'
+    - A. Williams enters the game for C. Williamson
+    - ''
+    - 74-84
+    - ''
+    - ''
+  - - '4:39.0'
+    - D. Curry makes 2-pt shot from 22 ft (assist by M. Jackson)
+    - "+2"
+    - 76-84
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 76-84
+    - ''
+    - B. Wells misses 3-pt shot from 24 ft
+  - - '4:14.0'
+    - Defensive rebound by Team
+    - ''
+    - 76-84
+    - ''
+    - ''
+  - - '4:05.0'
+    - A. Williams makes 2-pt shot from 20 ft (assist by M. Jackson)
+    - "+2"
+    - 78-84
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 78-84
+    - ''
+    - R. Wallace misses 2-pt shot at rim
+  - - '3:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 78-84
+    - ''
+    - ''
+  - - '3:14.0'
+    - M. Jackson misses 3-pt shot from 27 ft
+    - ''
+    - 78-84
+    - ''
+    - ''
+  - - '3:12.0'
+    - A. Williams makes 2-pt shot from 4 ft
+    - "+2"
+    - 80-84
+    - ''
+    - ''
+  - - '3:12.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - Shooting foul by K. Willis
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - Official timeout
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - S. Pippen enters the game for B. Wells
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - S. Smith enters the game for S. Kemp
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - D. Davis enters the game for S. Augmon
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-85
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '2:50.0'
+    - ''
+    - ''
+    - 80-86
+    - "+1"
+    - R. Wallace makes free throw 2 of 2
+  - - '2:39.0'
+    - A. Williams makes 2-pt shot from 21 ft (assist by M. Jackson)
+    - "+2"
+    - 82-86
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 82-88
+    - "+2"
+    - R. Wallace makes 2-pt shot from 7 ft
+  - - '2:12.0'
+    - Personal foul by S. Smith
+    - ''
+    - 82-88
+    - ''
+    - ''
+  - - '2:12.0'
+    - D. Curry makes free throw 1 of 2
+    - "+1"
+    - 83-88
+    - ''
+    - ''
+  - - '2:12.0'
+    - D. Curry makes free throw 2 of 2
+    - "+1"
+    - 84-88
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 84-90
+    - "+2"
+    - R. Wallace makes 2-pt shot from 23 ft (assist by S. Pippen)
+  - - '1:42.0'
+    - D. Curry makes 2-pt shot from 20 ft
+    - "+2"
+    - 86-90
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Turnover by S. Pippen (bad pass; steal by A. Williams)
+  - - '1:34.0'
+    - D. Curry misses 3-pt shot from 24 ft
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Defensive rebound by S. Smith
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Shooting foul by A. Davis
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-91
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-91
+    - ''
+    - S. Augmon enters the game for D. Stoudamire
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-91
+    - ''
+    - R. Wallace misses free throw 2 of 2
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-91
+    - ''
+    - Offensive rebound by S. Smith
+  - - '0:56.0'
+    - ''
+    - ''
+    - 86-91
+    - ''
+    - R. Wallace misses 2-pt shot from 12 ft
+  - - '0:54.1'
+    - ''
+    - ''
+    - 86-93
+    - "+2"
+    - S. Smith makes 2-pt shot at rim
+  - - '0:54.1'
+    - ''
+    - ''
+    - 86-93
+    - ''
+    - Offensive rebound by S. Smith
+  - - '0:42.8'
+    - K. Willis makes 2-pt shot from 17 ft (assist by A. Williams)
+    - "+2"
+    - 88-93
+    - ''
+    - ''
+  - - '0:33.6'
+    - ''
+    - ''
+    - 88-93
+    - ''
+    - Personal foul by A. Williams
+  - - '0:33.6'
+    - ''
+    - ''
+    - 88-94
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '0:33.6'
+    - ''
+    - ''
+    - 88-95
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '0:23.0'
+    - A. Williams misses 2-pt shot at rim
+    - ''
+    - 88-95
+    - ''
+    - ''
+  - - '0:19.8'
+    - ''
+    - ''
+    - 88-95
+    - ''
+    - Defensive rebound by D. Davis
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,2838 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '11:54.0'
+    - 'Jump ball: B. Reeves vs. P. Ewing (G. Payton gains possession)'
+  - - '11:22.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 12 ft
+  - - '11:22.0'
+    - P. Ewing misses 2-pt shot from 15 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '11:04.0'
+    - D. Mason misses 2-pt shot from 17 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '10:52.0'
+    - ''
+    - ''
+    - 0-5
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 23 ft (assist by M. Bibby)
+  - - '10:40.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 0-5
+    - ''
+    - ''
+  - - '10:36.0'
+    - D. Mason misses 2-pt shot from 6 ft (block by M. Dickerson)
+    - ''
+    - 0-5
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 0-5
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '10:34.0'
+    - ''
+    - ''
+    - 0-5
+    - ''
+    - Personal foul by R. Lewis
+  - - '10:25.0'
+    - ''
+    - ''
+    - 0-7
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 1 ft
+  - - '10:03.0'
+    - V. Baker misses 2-pt shot from 3 ft
+    - ''
+    - 0-7
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 0-7
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '9:52.0'
+    - ''
+    - ''
+    - 0-7
+    - ''
+    - M. Dickerson misses 2-pt shot from 1 ft
+  - - '9:51.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 0-7
+    - ''
+    - ''
+  - - '9:46.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 0-7
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 0-7
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '9:37.0'
+    - ''
+    - ''
+    - 0-9
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 17 ft (assist by M. Bibby)
+  - - '9:28.0'
+    - Seattle full timeout
+    - ''
+    - 0-9
+    - ''
+    - ''
+  - - '9:23.0'
+    - G. Payton misses 2-pt shot from 5 ft
+    - ''
+    - 0-9
+    - ''
+    - ''
+  - - '9:21.0'
+    - ''
+    - ''
+    - 0-9
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '9:16.0'
+    - ''
+    - ''
+    - 0-11
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by O. Harrington)
+  - - '9:00.0'
+    - V. Baker misses 2-pt shot from 16 ft
+    - ''
+    - 0-11
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 0-11
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '8:51.0'
+    - ''
+    - ''
+    - 0-13
+    - "+2"
+    - O. Harrington makes 2-pt shot from 1 ft (assist by S. Abdur-Rahim)
+  - - '8:38.0'
+    - G. Payton misses 2-pt shot from 2 ft
+    - ''
+    - 0-13
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 0-13
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '8:31.0'
+    - ''
+    - ''
+    - 0-13
+    - ''
+    - M. Dickerson misses 3-pt shot from 24 ft
+  - - '8:28.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 0-13
+    - ''
+    - ''
+  - - '8:22.0'
+    - V. Baker makes 2-pt shot from 1 ft (assist by D. Mason)
+    - "+2"
+    - 2-13
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 2-13
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '8:00.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:55.0'
+    - R. Lewis misses 2-pt shot from 18 ft
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 2-13
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '7:43.0'
+    - ''
+    - ''
+    - 2-13
+    - ''
+    - O. Harrington misses 2-pt shot from 1 ft
+  - - '7:42.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:36.0'
+    - G. Payton misses 2-pt shot from 6 ft
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:33.0'
+    - V. Baker misses 2-pt shot at rim
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 2-13
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 2-13
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '7:28.0'
+    - ''
+    - ''
+    - 2-15
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 20 ft (assist by M. Dickerson)
+  - - '7:09.0'
+    - Turnover by R. Lewis (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 2-15
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 2-17
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 2 ft (assist by S. Abdur-Rahim)
+  - - '7:07.0'
+    - ''
+    - ''
+    - 2-17
+    - ''
+    - Shooting foul by D. Mason
+  - - '7:07.0'
+    - S. Williams enters the game for D. Mason
+    - ''
+    - 2-17
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 2-18
+    - "+1"
+    - M. Dickerson makes free throw 1 of 1
+  - - '6:55.0'
+    - Turnover by P. Ewing (lost ball; steal by B. Reeves)
+    - ''
+    - 2-18
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 2-18
+    - ''
+    - M. Dickerson misses 2-pt shot from 23 ft
+  - - '6:40.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 2-18
+    - ''
+    - ''
+  - - '6:35.0'
+    - Shooting foul by O. Harrington
+    - ''
+    - 2-18
+    - ''
+    - ''
+  - - '6:35.0'
+    - V. Baker makes free throw 1 of 2
+    - "+1"
+    - 3-18
+    - ''
+    - ''
+  - - '6:35.0'
+    - V. Baker makes free throw 2 of 2
+    - "+1"
+    - 4-18
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 4-20
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 21 ft
+  - - '5:55.0'
+    - P. Ewing misses 2-pt shot from 6 ft
+    - ''
+    - 4-20
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 4-20
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '5:35.0'
+    - ''
+    - ''
+    - 4-22
+    - "+2"
+    - M. Bibby makes 2-pt shot from 22 ft (assist by O. Harrington)
+  - - '5:17.0'
+    - V. Baker makes 2-pt shot from 3 ft (assist by P. Ewing)
+    - "+2"
+    - 6-22
+    - ''
+    - ''
+  - - '5:17.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 6-22
+    - ''
+    - ''
+  - - '5:17.0'
+    - R. Patterson enters the game for R. Lewis
+    - ''
+    - 6-22
+    - ''
+    - ''
+  - - '5:17.0'
+    - V. Baker makes free throw 1 of 1
+    - "+1"
+    - 7-22
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 7-22
+    - ''
+    - B. Reeves misses 2-pt shot from 16 ft
+  - - '4:57.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 7-22
+    - ''
+    - ''
+  - - '4:45.0'
+    - S. Williams misses 3-pt shot from 27 ft
+    - ''
+    - 7-22
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 7-22
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '4:35.0'
+    - ''
+    - ''
+    - 7-22
+    - ''
+    - Turnover by S. Abdur-Rahim (bad pass; steal by V. Baker)
+  - - '4:29.0'
+    - V. Baker makes 2-pt shot from 1 ft (assist by S. Williams)
+    - "+2"
+    - 9-22
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 9-24
+    - "+2"
+    - B. Reeves makes 2-pt shot from 13 ft (assist by M. Bibby)
+  - - '3:47.0'
+    - P. Ewing makes 2-pt shot from 10 ft
+    - "+2"
+    - 11-24
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 11-24
+    - ''
+    - M. Bibby misses 2-pt shot from 21 ft
+  - - '3:26.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 11-24
+    - ''
+    - ''
+  - - '3:21.0'
+    - Turnover by V. Baker (3 second)
+    - ''
+    - 11-24
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 11-24
+    - ''
+    - Vancouver full timeout
+  - - '3:16.0'
+    - ''
+    - ''
+    - 11-24
+    - ''
+    - G. Long enters the game for B. Reeves
+  - - '3:16.0'
+    - R. Wolkowyski enters the game for P. Ewing
+    - ''
+    - 11-24
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 11-26
+    - "+2"
+    - M. Bibby makes 2-pt shot from 18 ft (assist by S. Abdur-Rahim)
+  - - '2:53.0'
+    - V. Baker makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 13-26
+    - ''
+    - ''
+  - - '2:53.0'
+    - Shooting foul by G. Long
+    - ''
+    - 13-26
+    - ''
+    - ''
+  - - '2:53.0'
+    - V. Baker makes free throw 1 of 1
+    - "+1"
+    - 14-26
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 14-26
+    - ''
+    - M. Dickerson misses 2-pt shot from 1 ft (block by V. Baker)
+  - - '2:30.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 14-26
+    - ''
+    - ''
+  - - '2:27.0'
+    - G. Payton misses 3-pt shot from 26 ft
+    - ''
+    - 14-26
+    - ''
+    - ''
+  - - '2:24.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 14-26
+    - ''
+    - ''
+  - - '2:16.0'
+    - Turnover by G. Payton (out of bounds)
+    - ''
+    - 14-26
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 14-28
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '1:55.0'
+    - Offensive foul by V. Baker
+    - ''
+    - 14-28
+    - ''
+    - ''
+  - - '1:55.0'
+    - Turnover by V. Baker (foul)
+    - ''
+    - 14-28
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 14-30
+    - "+2"
+    - O. Harrington makes 2-pt shot from 1 ft (assist by S. Abdur-Rahim)
+  - - '1:21.0'
+    - R. Patterson misses 2-pt shot from 3 ft
+    - ''
+    - 14-30
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 14-30
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '1:10.0'
+    - ''
+    - ''
+    - 14-30
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '1:08.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 14-30
+    - ''
+    - ''
+  - - '1:05.0'
+    - G. Payton makes 2-pt shot from 1 ft
+    - "+2"
+    - 16-30
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 16-30
+    - ''
+    - O. Harrington misses 2-pt shot from 4 ft
+  - - '0:42.8'
+    - Defensive rebound by G. Payton
+    - ''
+    - 16-30
+    - ''
+    - ''
+  - - '0:36.9'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 16-30
+    - ''
+    - ''
+  - - '0:36.9'
+    - G. Payton makes free throw 1 of 2
+    - "+1"
+    - 17-30
+    - ''
+    - ''
+  - - '0:36.9'
+    - G. Payton makes free throw 2 of 2
+    - "+1"
+    - 18-30
+    - ''
+    - ''
+  - - '0:29.7'
+    - ''
+    - ''
+    - 18-32
+    - "+2"
+    - M. Bibby makes 2-pt shot from 9 ft
+  - - '0:29.7'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - Shooting foul by S. Williams
+  - - '0:29.7'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - M. Bibby misses free throw 1 of 1
+  - - '0:27.9'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '0:25.9'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - O. Harrington misses 2-pt shot from 2 ft (block by V. Baker)
+  - - '0:23.6'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - Offensive rebound by G. Long
+  - - '0:06.9'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '0:02.9'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - Offensive rebound by G. Long
+  - - '0:01.9'
+    - ''
+    - ''
+    - 18-32
+    - ''
+    - G. Long misses 2-pt shot from 2 ft
+  - - '0:01.6'
+    - ''
+    - ''
+    - 18-34
+    - "+2"
+    - G. Long makes 2-pt shot at rim
+  - - '0:01.6'
+    - ''
+    - ''
+    - 18-34
+    - ''
+    - Offensive rebound by G. Long
+  - - '0:00.0'
+    - Turnover by S. Williams (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 18-34
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-34
+    - ''
+    - S. Abdur-Rahim misses 3-pt shot from 32 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-34
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 18-36
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 16 ft (assist by G. Long)
+  - - '11:18.0'
+    - R. Patterson misses 2-pt shot from 17 ft
+    - ''
+    - 18-36
+    - ''
+    - ''
+  - - '11:16.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 18-36
+    - ''
+    - ''
+  - - '11:13.0'
+    - G. Payton misses 2-pt shot from 10 ft
+    - ''
+    - 18-36
+    - ''
+    - ''
+  - - '11:11.0'
+    - Offensive rebound by R. Wolkowyski
+    - ''
+    - 18-36
+    - ''
+    - ''
+  - - '11:09.0'
+    - R. Wolkowyski misses 2-pt shot from 2 ft
+    - ''
+    - 18-36
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 18-36
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '10:58.0'
+    - ''
+    - ''
+    - 18-39
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 24 ft
+  - - '10:46.0'
+    - R. Patterson misses 2-pt shot from 18 ft
+    - ''
+    - 18-39
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 18-39
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '10:40.0'
+    - ''
+    - ''
+    - 18-41
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft
+  - - '10:37.0'
+    - Seattle full timeout
+    - ''
+    - 18-41
+    - ''
+    - ''
+  - - '10:37.0'
+    - D. Mason enters the game for R. Patterson
+    - ''
+    - 18-41
+    - ''
+    - ''
+  - - '10:37.0'
+    - J. McCoy enters the game for R. Wolkowyski
+    - ''
+    - 18-41
+    - ''
+    - ''
+  - - '10:25.0'
+    - Turnover by R. Lewis (bad pass; steal by M. Bibby)
+    - ''
+    - 18-41
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 18-41
+    - ''
+    - Shooting foul by G. Payton
+  - - '10:22.0'
+    - ''
+    - ''
+    - 18-41
+    - ''
+    - M. Bibby misses free throw 1 of 2
+  - - '10:22.0'
+    - ''
+    - ''
+    - 18-41
+    - ''
+    - Offensive rebound by Team
+  - - '10:22.0'
+    - ''
+    - ''
+    - 18-42
+    - "+1"
+    - M. Bibby makes free throw 2 of 2
+  - - '10:09.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 18-42
+    - ''
+    - ''
+  - - '10:09.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 19-42
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 19-42
+    - ''
+    - O. Harrington enters the game for S. Abdur-Rahim
+  - - '10:09.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 20-42
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 20-44
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 21 ft (assist by M. Bibby)
+  - - '9:39.0'
+    - ''
+    - ''
+    - 20-44
+    - ''
+    - Violation by M. Dickerson (illegal defense)
+  - - '9:34.0'
+    - G. Payton makes 2-pt shot from 22 ft (assist by J. McCoy)
+    - "+2"
+    - 22-44
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 22-44
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '9:15.0'
+    - ''
+    - ''
+    - 22-44
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '8:59.0'
+    - ''
+    - ''
+    - 22-44
+    - ''
+    - O. Harrington misses 2-pt shot from 8 ft
+  - - '8:57.0'
+    - ''
+    - ''
+    - 22-44
+    - ''
+    - Offensive rebound by Team
+  - - '8:45.0'
+    - ''
+    - ''
+    - 22-44
+    - ''
+    - G. Long misses 2-pt shot from 19 ft
+  - - '8:43.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 22-44
+    - ''
+    - ''
+  - - '8:40.0'
+    - Personal foul by G. Long
+    - ''
+    - 22-44
+    - ''
+    - ''
+  - - '8:38.0'
+    - Ill def tech foul by O. Harrington
+    - ''
+    - 22-44
+    - ''
+    - ''
+  - - '8:38.0'
+    - G. Payton makes free throw technical
+    - "+1"
+    - 23-44
+    - ''
+    - ''
+  - - '8:28.0'
+    - Turnover by P. Ewing (traveling)
+    - ''
+    - 23-44
+    - ''
+    - ''
+  - - '8:14.0'
+    - Violation by G. Payton (kicked ball)
+    - ''
+    - 23-44
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 23-46
+    - "+2"
+    - G. Long makes 2-pt shot from 8 ft (assist by O. Harrington)
+  - - '7:36.0'
+    - R. Lewis misses 3-pt shot from 23 ft
+    - ''
+    - 23-46
+    - ''
+    - ''
+  - - '7:33.0'
+    - ''
+    - ''
+    - 23-46
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '7:33.0'
+    - ''
+    - ''
+    - 23-46
+    - ''
+    - Personal foul by R. Lewis
+  - - '7:33.0'
+    - V. Baker enters the game for P. Ewing
+    - ''
+    - 23-46
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 23-48
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 10 ft
+  - - '7:12.0'
+    - D. Mason makes 2-pt shot from 19 ft (assist by G. Payton)
+    - "+2"
+    - 25-48
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - G. Long misses 2-pt shot from 17 ft
+  - - '6:54.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:47.0'
+    - V. Baker misses 2-pt shot from 3 ft
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:45.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:42.0'
+    - Turnover by R. Lewis (out of bounds)
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - Personal foul by G. Payton
+  - - '6:16.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - M. Dickerson misses 2-pt shot from 23 ft
+  - - '6:13.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:06.0'
+    - D. Mason misses 3-pt shot from 26 ft
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - M. Dickerson misses 2-pt shot from 2 ft (block by D. Mason)
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - Offensive rebound by Team
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - Vancouver full timeout
+  - - '6:00.0'
+    - P. Ewing enters the game for J. McCoy
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - O. Harrington misses 2-pt shot from 14 ft
+  - - '5:44.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '5:36.0'
+    - R. Lewis misses 2-pt shot from 4 ft (block by O. Harrington)
+    - ''
+    - 25-48
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 25-48
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '5:19.0'
+    - ''
+    - ''
+    - 25-50
+    - "+2"
+    - M. Bibby makes 2-pt shot from 6 ft
+  - - '5:06.0'
+    - R. Lewis misses 2-pt shot from 22 ft
+    - ''
+    - 25-50
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '4:50.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - M. Dickerson misses 2-pt shot from 6 ft
+  - - '4:48.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 25-50
+    - ''
+    - ''
+  - - '4:47.0'
+    - Personal foul by M. Bibby
+    - ''
+    - 25-50
+    - ''
+    - ''
+  - - '4:37.0'
+    - V. Baker misses 2-pt shot from 21 ft
+    - ''
+    - 25-50
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - Defensive rebound by G. Long
+  - - '4:30.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - M. Dickerson misses 2-pt shot from 4 ft
+  - - '4:28.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - Offensive rebound by M. Dickerson
+  - - '4:26.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - Personal foul by V. Baker
+  - - '4:26.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - S. Abdur-Rahim enters the game for G. Long
+  - - '4:22.0'
+    - ''
+    - ''
+    - 25-50
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '4:21.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 25-50
+    - ''
+    - ''
+  - - '4:09.0'
+    - D. Mason makes 2-pt shot from 21 ft (assist by P. Ewing)
+    - "+2"
+    - 27-50
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 27-50
+    - ''
+    - Personal foul by D. Mason
+  - - '3:50.0'
+    - ''
+    - ''
+    - 27-50
+    - ''
+    - S. Abdur-Rahim misses free throw 1 of 2
+  - - '3:50.0'
+    - ''
+    - ''
+    - 27-50
+    - ''
+    - Offensive rebound by Team
+  - - '3:50.0'
+    - R. Patterson enters the game for D. Mason
+    - ''
+    - 27-50
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 27-50
+    - ''
+    - S. Abdur-Rahim misses free throw 2 of 2
+  - - '3:48.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 27-50
+    - ''
+    - ''
+  - - '3:38.0'
+    - Turnover by G. Payton (out of bounds)
+    - ''
+    - 27-50
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 27-50
+    - ''
+    - O. Harrington misses 2-pt shot from 11 ft
+  - - '3:19.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 27-50
+    - ''
+    - ''
+  - - '3:14.0'
+    - V. Baker makes 2-pt shot from 1 ft (assist by G. Payton)
+    - "+2"
+    - 29-50
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 29-50
+    - ''
+    - Turnover by S. Abdur-Rahim (out of bounds)
+  - - '2:57.0'
+    - Official timeout
+    - ''
+    - 29-50
+    - ''
+    - ''
+  - - '2:41.0'
+    - G. Payton makes 3-pt shot from 25 ft (assist by R. Lewis)
+    - "+3"
+    - 32-50
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 32-50
+    - ''
+    - M. Dickerson misses 2-pt shot from 12 ft (block by P. Ewing)
+  - - '2:15.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 32-50
+    - ''
+    - ''
+  - - '2:11.0'
+    - Turnover by V. Baker (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 32-50
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 32-52
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 17 ft
+  - - '1:55.0'
+    - G. Payton makes 2-pt shot from 1 ft
+    - "+2"
+    - 34-52
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 34-52
+    - ''
+    - Shooting foul by R. Lewis
+  - - '1:38.0'
+    - ''
+    - ''
+    - 34-53
+    - "+1"
+    - B. Reeves makes free throw 1 of 2
+  - - '1:38.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 34-53
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 34-53
+    - ''
+    - B. Reeves misses free throw 2 of 2
+  - - '1:37.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 34-53
+    - ''
+    - ''
+  - - '1:33.0'
+    - D. Mason makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 36-53
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 36-53
+    - ''
+    - Personal foul by P. Ewing
+  - - '1:19.0'
+    - ''
+    - ''
+    - 36-53
+    - ''
+    - B. Reeves misses free throw 1 of 2
+  - - '1:19.0'
+    - ''
+    - ''
+    - 36-53
+    - ''
+    - Offensive rebound by Team
+  - - '1:19.0'
+    - ''
+    - ''
+    - 36-54
+    - "+1"
+    - B. Reeves makes free throw 2 of 2
+  - - '1:08.0'
+    - Personal foul by O. Harrington
+    - ''
+    - 36-54
+    - ''
+    - ''
+  - - '1:03.0'
+    - G. Payton misses 2-pt shot from 1 ft
+    - ''
+    - 36-54
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 36-54
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '0:55.9'
+    - ''
+    - ''
+    - 36-54
+    - ''
+    - B. Reeves misses 2-pt shot from 2 ft
+  - - '0:53.9'
+    - Defensive rebound by D. Mason
+    - ''
+    - 36-54
+    - ''
+    - ''
+  - - '0:51.9'
+    - Turnover by D. Mason (lost ball; steal by M. Bibby)
+    - ''
+    - 36-54
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 36-56
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '0:31.5'
+    - Offensive foul by R. Patterson
+    - ''
+    - 36-56
+    - ''
+    - ''
+  - - '0:31.5'
+    - Turnover by R. Patterson (foul)
+    - ''
+    - 36-56
+    - ''
+    - ''
+  - - '0:10.7'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - Offensive foul by S. Abdur-Rahim
+  - - '0:10.7'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - Turnover by S. Abdur-Rahim (foul)
+  - - '0:10.7'
+    - S. Williams enters the game for R. Patterson
+    - ''
+    - 36-56
+    - ''
+    - ''
+  - - '0:10.7'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - G. Long enters the game for S. Abdur-Rahim
+  - - '0:00.0'
+    - G. Payton misses 3-pt shot from 27 ft
+    - ''
+    - 36-56
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 36-56
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - M. Dickerson misses 2-pt shot from 10 ft
+  - - '11:45.0'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '11:41.0'
+    - ''
+    - ''
+    - 36-56
+    - ''
+    - Turnover by O. Harrington (bad pass; steal by R. Lewis)
+  - - '11:31.0'
+    - S. Williams makes 3-pt shot from 23 ft (assist by G. Payton)
+    - "+3"
+    - 39-56
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 39-56
+    - ''
+    - Turnover by S. Abdur-Rahim (out of bounds)
+  - - '10:51.0'
+    - G. Payton misses 2-pt shot from 2 ft
+    - ''
+    - 39-56
+    - ''
+    - ''
+  - - '10:51.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 39-56
+    - ''
+    - ''
+  - - '10:51.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 39-56
+    - ''
+    - ''
+  - - '10:35.0'
+    - S. Williams makes 3-pt shot from 25 ft (assist by V. Baker)
+    - "+3"
+    - 42-56
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 42-58
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 19 ft (assist by M. Bibby)
+  - - '10:01.0'
+    - V. Baker makes 2-pt shot from 20 ft (assist by G. Payton)
+    - "+2"
+    - 44-58
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 44-58
+    - ''
+    - M. Dickerson misses 2-pt shot from 17 ft
+  - - '9:37.0'
+    - ''
+    - ''
+    - 44-58
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '9:32.0'
+    - ''
+    - ''
+    - 44-58
+    - ''
+    - M. Bibby misses 3-pt shot from 27 ft
+  - - '9:29.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 44-58
+    - ''
+    - ''
+  - - '9:24.0'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 44-58
+    - ''
+    - ''
+  - - '9:24.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 45-58
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - K. Edwards enters the game for M. Dickerson
+  - - '9:24.0'
+    - R. Lewis misses free throw 2 of 2
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '9:02.0'
+    - ''
+    - ''
+    - 45-60
+    - "+2"
+    - K. Edwards makes 2-pt shot from 17 ft (assist by O. Harrington)
+  - - '8:48.0'
+    - V. Baker makes 2-pt shot from 3 ft
+    - "+2"
+    - 47-60
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - M. Bibby misses 2-pt shot from 16 ft
+  - - '8:22.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '8:18.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '8:16.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '8:14.0'
+    - P. Ewing misses 2-pt shot from 1 ft (block by B. Reeves)
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '8:08.0'
+    - ''
+    - ''
+    - 47-62
+    - "+2"
+    - M. Bibby makes 2-pt shot from 19 ft (assist by S. Abdur-Rahim)
+  - - '7:56.0'
+    - Turnover by G. Payton (lost ball; steal by M. Bibby)
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - K. Edwards misses 2-pt shot from 17 ft
+  - - '7:49.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '7:33.0'
+    - R. Lewis misses 3-pt shot from 27 ft
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '7:17.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Turnover by S. Abdur-Rahim (traveling)
+  - - '7:17.0'
+    - Seattle full timeout
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '6:57.0'
+    - V. Baker misses 2-pt shot from 21 ft
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '6:40.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Turnover by K. Edwards (bad pass; steal by S. Williams)
+  - - '6:30.0'
+    - Personal foul by K. Edwards
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '6:20.0'
+    - S. Williams makes 2-pt shot from 2 ft
+    - "+2"
+    - 49-62
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 49-62
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 20 ft
+  - - '5:55.0'
+    - ''
+    - ''
+    - 49-62
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '5:46.0'
+    - ''
+    - ''
+    - 49-62
+    - ''
+    - M. Bibby misses 2-pt shot from 19 ft
+  - - '5:45.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 49-62
+    - ''
+    - ''
+  - - '5:39.0'
+    - G. Payton makes 3-pt shot from 25 ft (assist by S. Williams)
+    - "+3"
+    - 52-62
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 52-62
+    - ''
+    - O. Harrington misses 2-pt shot from 6 ft
+  - - '5:10.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '5:01.0'
+    - G. Payton misses 2-pt shot from 9 ft
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 52-62
+    - ''
+    - Defensive rebound by Team
+  - - '4:46.0'
+    - ''
+    - ''
+    - 52-62
+    - ''
+    - Personal foul by P. Ewing
+  - - '4:46.0'
+    - R. Wolkowyski enters the game for P. Ewing
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 52-64
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 14 ft (assist by M. Bibby)
+  - - '4:21.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 54-64
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - K. Edwards misses 2-pt shot from 2 ft (block by V. Baker)
+  - - '4:12.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '4:07.0'
+    - R. Lewis makes 2-pt shot from 13 ft (assist by G. Payton)
+    - "+2"
+    - 56-64
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - Vancouver full timeout
+  - - '4:03.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - M. Dickerson enters the game for O. Harrington
+  - - '4:03.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - G. Long enters the game for K. Edwards
+  - - '3:44.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - M. Dickerson misses 3-pt shot from 27 ft
+  - - '3:41.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:34.0'
+    - V. Baker misses 2-pt shot from 22 ft
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '3:14.0'
+    - ''
+    - ''
+    - 56-64
+    - ''
+    - M. Dickerson misses 2-pt shot from 3 ft
+  - - '3:12.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:01.0'
+    - Shooting foul by G. Long
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:01.0'
+    - V. Baker misses free throw 1 of 2
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 56-64
+    - ''
+    - ''
+  - - '3:01.0'
+    - V. Baker makes free throw 2 of 2
+    - "+1"
+    - 57-64
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Personal foul by R. Lewis
+  - - '2:46.0'
+    - R. Patterson enters the game for R. Lewis
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - M. Dickerson misses 3-pt shot from 23 ft
+  - - '2:36.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:20.0'
+    - R. Wolkowyski misses 2-pt shot from 17 ft
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '2:06.0'
+    - Violation by R. Wolkowyski (illegal defense)
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Turnover by B. Reeves (lost ball; steal by R. Patterson)
+  - - '1:56.0'
+    - R. Patterson makes 2-pt shot from 1 ft
+    - "+2"
+    - 59-64
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - B. Reeves misses 2-pt shot from 2 ft (block by V. Baker)
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Shooting foul by R. Wolkowyski
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - B. Reeves misses free throw 1 of 2
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Offensive rebound by Team
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - D. Jones enters the game for M. Bibby
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - B. Reeves misses free throw 2 of 2
+  - - '1:34.0'
+    - Defensive rebound by R. Wolkowyski
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '1:20.0'
+    - R. Wolkowyski misses 2-pt shot from 14 ft
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Defensive rebound by D. Jones
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - M. Dickerson misses 3-pt shot from 26 ft
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Offensive rebound by G. Long
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Personal foul by S. Williams
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - G. Long misses free throw 1 of 2
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Offensive rebound by Team
+  - - '1:04.0'
+    - ''
+    - ''
+    - 59-65
+    - "+1"
+    - G. Long makes free throw 2 of 2
+  - - '0:52.8'
+    - G. Payton makes 2-pt shot from 18 ft (assist by S. Williams)
+    - "+2"
+    - 61-65
+    - ''
+    - ''
+  - - '0:42.9'
+    - ''
+    - ''
+    - 61-65
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 3 ft (block by R. Wolkowyski)
+  - - '0:39.9'
+    - Defensive rebound by S. Williams
+    - ''
+    - 61-65
+    - ''
+    - ''
+  - - '0:33.9'
+    - R. Wolkowyski misses 2-pt shot from 2 ft
+    - ''
+    - 61-65
+    - ''
+    - ''
+  - - '0:31.9'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 61-65
+    - ''
+    - ''
+  - - '0:30.3'
+    - R. Patterson makes 2-pt shot from 1 ft
+    - "+2"
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.9'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 11 ft
+  - - '0:14.6'
+    - Defensive rebound by Team
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.6'
+    - Loose ball foul by B. Reeves
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.6'
+    - G. Payton misses free throw 1 of 2
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.6'
+    - Offensive rebound by Team
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.6'
+    - D. Mason enters the game for V. Baker
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '0:14.6'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - K. Edwards enters the game for G. Long
+  - - '0:14.6'
+    - G. Payton makes free throw 2 of 2
+    - "+1"
+    - 64-65
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - D. Jones misses 2-pt shot from 3 ft (block by R. Patterson)
+  - - '0:01.9'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - Offensive rebound by M. Dickerson
+  - - '0:00.0'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - Offensive rebound by D. Jones
+  - - '0:00.0'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - D. Jones misses 2-pt shot from 3 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - Turnover by G. Payton (bad pass; steal by M. Dickerson)
+    - ''
+    - 64-65
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 64-67
+    - "+2"
+    - I. Austin makes 2-pt shot from 21 ft (assist by D. Jones)
+  - - '11:22.0'
+    - S. Williams makes 3-pt shot from 27 ft
+    - "+3"
+    - 67-67
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 67-69
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 13 ft
+  - - '10:47.0'
+    - Personal foul by I. Austin
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:36.0'
+    - G. Payton misses 2-pt shot from 4 ft (block by M. Dickerson)
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:35.0'
+    - Turnover by G. Payton (bad pass; steal by M. Dickerson)
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Turnover by M. Dickerson (bad pass)
+  - - '10:15.0'
+    - G. Payton misses 3-pt shot from 24 ft
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '10:01.0'
+    - ''
+    - ''
+    - 67-71
+    - "+2"
+    - I. Austin makes 2-pt shot from 17 ft (assist by M. Dickerson)
+  - - '9:38.0'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 67-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - V. Baker enters the game for R. Wolkowyski
+    - ''
+    - 67-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 68-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 69-71
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - D. Jones misses 3-pt shot from 27 ft
+  - - '9:16.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Offensive rebound by S. Swift
+  - - '9:04.0'
+    - ''
+    - ''
+    - 69-73
+    - "+2"
+    - I. Austin makes 2-pt shot from 18 ft (assist by S. Abdur-Rahim)
+  - - '8:41.0'
+    - V. Baker misses 2-pt shot from 22 ft
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '8:17.0'
+    - ''
+    - ''
+    - 69-76
+    - "+3"
+    - I. Austin makes 3-pt shot from 26 ft (assist by M. Dickerson)
+  - - '8:13.0'
+    - Seattle full timeout
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '8:13.0'
+    - R. Lewis enters the game for R. Patterson
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '7:55.0'
+    - S. Williams makes 2-pt shot from 2 ft (assist by G. Payton)
+    - "+2"
+    - 71-76
+    - ''
+    - ''
+  - - '7:55.0'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 71-76
+    - ''
+    - ''
+  - - '7:55.0'
+    - S. Williams misses free throw 1 of 1
+    - ''
+    - 71-76
+    - ''
+    - ''
+  - - '7:54.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 71-76
+    - ''
+    - ''
+  - - '7:51.0'
+    - R. Lewis misses 2-pt shot from 3 ft
+    - ''
+    - 71-76
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 71-76
+    - ''
+    - Defensive rebound by I. Austin
+  - - '7:30.0'
+    - ''
+    - ''
+    - 71-78
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 19 ft (assist by I. Austin)
+  - - '7:09.0'
+    - G. Payton makes 2-pt shot from 2 ft
+    - "+2"
+    - 73-78
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 73-78
+    - ''
+    - Turnover by M. Dickerson (bad pass)
+  - - '6:55.0'
+    - ''
+    - ''
+    - 73-78
+    - ''
+    - K. Edwards enters the game for M. Dickerson
+  - - '6:42.0'
+    - R. Lewis makes 3-pt shot from 26 ft (assist by G. Payton)
+    - "+3"
+    - 76-78
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 76-81
+    - "+3"
+    - D. Jones makes 3-pt shot from 26 ft (assist by I. Austin)
+  - - '6:08.0'
+    - Personal foul by K. Edwards
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '5:57.0'
+    - P. Ewing misses 2-pt shot from 6 ft (block by I. Austin)
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:54.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:52.0'
+    - P. Ewing misses 2-pt shot from 1 ft
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '5:46.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - S. Swift misses 2-pt shot from 9 ft
+  - - '5:45.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:38.0'
+    - V. Baker misses 2-pt shot from 3 ft (block by S. Abdur-Rahim)
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - Defensive rebound by I. Austin
+  - - '5:14.0'
+    - ''
+    - ''
+    - 76-83
+    - "+2"
+    - M. Bibby makes 2-pt shot from 23 ft (assist by S. Abdur-Rahim)
+  - - '4:57.0'
+    - Turnover by G. Payton (lost ball; steal by I. Austin)
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Personal foul by V. Baker
+  - - '4:55.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Official timeout
+  - - '4:43.0'
+    - ''
+    - ''
+    - 76-85
+    - "+2"
+    - M. Bibby makes 2-pt shot from 2 ft (assist by I. Austin)
+  - - '4:29.0'
+    - Turnover by P. Ewing (bad pass; steal by K. Edwards)
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - I. Austin misses 2-pt shot from 20 ft
+  - - '4:15.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '4:12.0'
+    - R. Lewis misses 3-pt shot from 25 ft
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '3:46.0'
+    - ''
+    - ''
+    - 76-87
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '3:41.0'
+    - Seattle 20 second timeout
+    - ''
+    - 76-87
+    - ''
+    - ''
+  - - '3:28.0'
+    - R. Lewis makes 3-pt shot from 27 ft (assist by D. Mason)
+    - "+3"
+    - 79-87
+    - ''
+    - ''
+  - - '3:28.0'
+    - D. Mason enters the game for V. Baker
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - Personal foul by D. Mason
+  - - '3:06.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - M. Dickerson enters the game for S. Swift
+  - - '3:04.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - Personal foul by P. Ewing
+  - - '2:57.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - M. Bibby misses 2-pt shot from 2 ft (block by P. Ewing)
+  - - '2:55.0'
+    - Defensive rebound by D. Mason
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:49.0'
+    - S. Williams misses 3-pt shot from 27 ft
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '2:42.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - M. Bibby misses 2-pt shot from 19 ft
+  - - '2:40.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:32.0'
+    - Shooting foul by I. Austin
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:32.0'
+    - Seattle full timeout
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:32.0'
+    - G. Payton misses free throw 1 of 2
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '2:32.0'
+    - G. Payton makes free throw 2 of 2
+    - "+1"
+    - 80-87
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - Shooting foul by P. Ewing
+  - - '2:05.0'
+    - ''
+    - ''
+    - 80-88
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '2:05.0'
+    - ''
+    - ''
+    - 80-89
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '1:53.0'
+    - G. Payton misses 2-pt shot from 2 ft
+    - ''
+    - 80-89
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Defensive rebound by I. Austin
+  - - '1:49.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Vancouver 20 second timeout
+  - - '1:49.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Vancouver full timeout
+  - - '1:49.0'
+    - R. Patterson enters the game for P. Ewing
+    - ''
+    - 80-89
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Personal foul by R. Lewis
+  - - '1:35.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - S. Abdur-Rahim misses free throw 1 of 2
+  - - '1:35.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Offensive rebound by Team
+  - - '1:35.0'
+    - ''
+    - ''
+    - 80-90
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '1:21.0'
+    - S. Williams makes 3-pt shot from 23 ft (assist by G. Payton)
+    - "+3"
+    - 83-90
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 83-90
+    - ''
+    - Personal foul by G. Payton
+  - - '1:18.0'
+    - ''
+    - ''
+    - 83-91
+    - "+1"
+    - M. Dickerson makes free throw 1 of 2
+  - - '1:18.0'
+    - ''
+    - ''
+    - 83-91
+    - ''
+    - M. Dickerson misses free throw 2 of 2
+  - - '1:16.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 83-91
+    - ''
+    - ''
+  - - '1:12.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 85-91
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Personal foul by D. Mason
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - M. Dickerson misses free throw 1 of 2
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Offensive rebound by Team
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Vancouver full timeout
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - G. Long enters the game for I. Austin
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - M. Dickerson misses free throw 2 of 2
+  - - '1:03.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '1:01.0'
+    - Turnover by R. Patterson (bad pass; steal by M. Dickerson)
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '0:48.9'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball; steal by G. Payton)
+  - - '0:41.9'
+    - D. Mason misses 3-pt shot from 26 ft
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '0:38.6'
+    - Offensive rebound by G. Payton
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '0:38.6'
+    - G. Payton makes 2-pt shot from 1 ft
+    - "+2"
+    - 87-91
+    - ''
+    - ''
+  - - '0:36.5'
+    - ''
+    - ''
+    - 87-91
+    - ''
+    - Personal foul by D. Mason
+  - - '0:36.5'
+    - ''
+    - ''
+    - 87-92
+    - "+1"
+    - M. Dickerson makes free throw 1 of 2
+  - - '0:36.5'
+    - ''
+    - ''
+    - 87-93
+    - "+1"
+    - M. Dickerson makes free throw 2 of 2
+  - - '0:29.9'
+    - G. Payton misses 3-pt shot from 26 ft
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:27.9'
+    - Offensive rebound by D. Mason
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:24.9'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - D. Mason misses 2-pt shot at rim
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - Offensive rebound by D. Mason
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - Offensive rebound by D. Mason
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - Personal foul by M. Bibby
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - D. Mason misses free throw 1 of 2
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - Offensive rebound by Team
+    - ''
+    - 87-93
+    - ''
+    - ''
+  - - '0:20.7'
+    - D. Mason makes free throw 2 of 2
+    - "+1"
+    - 88-93
+    - ''
+    - ''
+  - - '0:19.8'
+    - ''
+    - ''
+    - 88-93
+    - ''
+    - Personal foul by G. Payton
+  - - '0:19.8'
+    - ''
+    - ''
+    - 88-93
+    - ''
+    - M. Dickerson misses free throw 1 of 2
+  - - '0:19.8'
+    - ''
+    - ''
+    - 88-93
+    - ''
+    - Offensive rebound by Team
+  - - '0:19.8'
+    - ''
+    - ''
+    - 88-94
+    - "+1"
+    - M. Dickerson makes free throw 2 of 2
+  - - '0:11.9'
+    - D. Mason misses 3-pt shot from 24 ft
+    - ''
+    - 88-94
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 88-94
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '0:00.0'
+    - End of 4th quarter

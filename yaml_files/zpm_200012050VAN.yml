@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      -4
+    - 180/-4
+    - 263/
+    - 55/+4
+    - 219/-2
+    - 171/
+    - 71/-6
+    - 38/
+    - 'Michael Curry (On: -10&#9642;Off: +2&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 179/-4
+    - 168/
+    - 150/+2
+    - 0/
+    - 188/0
+    - 93/
+    - 32/0
+    - 114/
+    - 32/-6
+    - 38/
+    - 'Joe Smith (On: +5&#9642;Off: -13&#9642;Net: +18)'
+    - |2-
+
+      -2
+    - 120/-2
+    - 129/
+    - 128/+7
+    - 100/
+    - 21/+7
+    - 141/-3
+    - 227/
+    - 130/-4
+    - 'Jerry Stackhouse (On: -13&#9642;Off: +5&#9642;Net: -18)'
+    - |2-
+
+      -4
+    - 227/-4
+    - 121/
+    - 151/+2
+    - 236/-5
+    - 82/
+    - 181/-6
+    - 'Ben Wallace (On: -18&#9642;Off: +10&#9642;Net: -28)'
+    - |2-
+
+      -4
+    - 205/-4
+    - 176/
+    - 94/-8
+    - 24/
+    - 219/-2
+    - 148/
+    - 131/-4
+    - 'Jerome Williams (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - "\n"
+    - 122/
+    - 127/-4
+    - 140/
+    - 108/-1
+    - 145/
+    - 104/0
+    - 114/-1
+    - 31/
+    - 31/+2
+    - 72/
+    - 'Mateen Cleaves (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 184/
+    - 66/-2
+    - 51/+2
+    - 699/
+    - 'Billy Owens (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 183/
+    - 66/-2
+    - 98/+4
+    - 345/
+    - 55/-3
+    - 26/+1
+    - 224/
+    - 'Eric Montross (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 214/
+    - 36/-2
+    - 140/+7
+    - 331/
+    - 27/-1
+    - 118/-1
+    - 131/
+    - 'Jud Buechler (On: +5&#9642;Off: -13&#9642;Net: +18)'
+    - "\n"
+    - 228/
+    - 21/-2
+    - 98/+4
+    - 388/
+    - 12/+2
+    - 135/-1
+    - 79/
+    - 35/+2
+    - 'Dana Barros (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 307/
+    - 130/0
+    - 284/
+    - 27/-1
+    - 135/-1
+    - 79/
+    - 35/+2
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +12&#9642;Off: -4&#9642;Net: +16)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 51/-2
+    - 117/
+    - 81/0
+    - 250/+3
+    - 249/+5
+    - 'Isaac Austin (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - |2-
+
+      +4
+    - 206/+4
+    - 176/
+    - 118/+1
+    - 220/+2
+    - 279/
+    - 'Mike Bibby (On: +13&#9642;Off: -5&#9642;Net: +18)'
+    - |2-
+
+      +4
+    - 205/+4
+    - 123/
+    - 170/0
+    - 250/+3
+    - 69/
+    - 181/+6
+    - 'Othella Harrington (On: +16&#9642;Off: -8&#9642;Net: +24)'
+    - |2-
+
+      +4
+    - 180/+4
+    - 149/
+    - 170/0
+    - 117/+5
+    - 223/
+    - 152/+7
+    - 6/
+    - 'Doug West (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - |2-
+
+      +2
+    - 109/+2
+    - 585/
+    - 56/+3
+    - 65/-1
+    - 184/
+    - 'Michael Dickerson (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - "\n"
+    - 109/
+    - 140/+4
+    - 74/-6
+    - 66/
+    - 109/+3
+    - 188/0
+    - 129/
+    - 181/+6
+    - 'Stromile Swift (On: -4&#9642;Off: +12&#9642;Net: -16)'
+    - "\n"
+    - 184/
+    - 66/+2
+    - 74/-6
+    - 676/
+    - 'Damon Jones (On: -8&#9642;Off: +16&#9642;Net: -24)'
+    - "\n"
+    - 214/
+    - 36/+2
+    - 135/-9
+    - 364/
+    - 65/-1
+    - 184/
+    - 'Bryant Reeves (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - "\n"
+    - 214/
+    - 36/+2
+    - 128/-7
+    - 344/
+    - 27/+1
+    - 249/+5
+    - 'Grant Long (On: -8&#9642;Off: +16&#9642;Net: -24)'
+    - "\n"
+    - 307/
+    - 104/-4
+    - 205/
+    - 131/-2
+    - 84/-1
+    - 160/
+    - 6/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

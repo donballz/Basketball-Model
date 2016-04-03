@@ -1,0 +1,2722 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. C. Dudley (C. Robinson gains possession)'
+  - - '11:43.0'
+    - C. Robinson misses 2-pt shot from 10 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '11:23.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - C. Williamson makes 2-pt shot at rim (assist by A. Davis)
+  - - '11:02.0'
+    - J. Kidd makes 2-pt shot from 16 ft
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - V. Carter misses 2-pt shot from 20 ft
+  - - '10:43.0'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:37.0'
+    - J. Kidd misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '10:36.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Loose ball foul by C. Dudley
+  - - '10:25.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - V. Carter misses 2-pt shot from 9 ft
+  - - '10:23.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:13.0'
+    - J. Kidd misses 3-pt shot from 24 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '9:57.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - M. Jackson misses 2-pt shot at rim (block by J. Kidd)
+  - - '9:55.0'
+    - Defensive rebound by Team
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:36.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 5-2
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Personal foul by C. Robinson
+  - - '9:10.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '9:08.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Offensive rebound by Team
+  - - '8:57.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - A. Davis misses 2-pt shot from 18 ft
+  - - '8:54.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '8:49.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 8-2
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - Toronto full timeout
+  - - '8:23.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - A. Davis misses 2-pt shot from 16 ft
+  - - '8:21.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - Offensive rebound by C. Williamson
+  - - '8:19.0'
+    - 'Jump ball: C. Williamson vs. C. Dudley (S. Marion gains possession)'
+  - - '8:19.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - Turnover by C. Williamson (lost ball; steal by C. Dudley)
+  - - '8:02.0'
+    - S. Marion makes 2-pt shot from 14 ft (assist by M. Elie)
+    - "+2"
+    - 10-2
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 10-2
+    - ''
+    - V. Carter misses 2-pt shot from 16 ft
+  - - '7:44.0'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 10-2
+    - ''
+    - ''
+  - - '7:38.0'
+    - S. Marion makes 2-pt shot from 17 ft (assist by J. Kidd)
+    - "+2"
+    - 12-2
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '7:13.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - Offensive rebound by A. Davis
+  - - '7:11.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '7:08.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - Offensive rebound by V. Carter
+  - - '7:05.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '7:03.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '7:00.0'
+    - ''
+    - ''
+    - 12-2
+    - ''
+    - A. Davis misses 2-pt shot from 8 ft
+  - - '6:57.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 12-2
+    - ''
+    - ''
+  - - '6:44.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 12-2
+    - ''
+    - ''
+  - - '6:44.0'
+    - C. Dudley makes free throw 1 of 2
+    - "+1"
+    - 13-2
+    - ''
+    - ''
+  - - '6:44.0'
+    - C. Dudley misses free throw 2 of 2
+    - ''
+    - 13-2
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 13-2
+    - ''
+    - Defensive rebound by C. Williamson
+  - - '6:32.0'
+    - ''
+    - ''
+    - 13-2
+    - ''
+    - Shooting foul by S. Marion
+  - - '6:32.0'
+    - ''
+    - ''
+    - 13-2
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '6:32.0'
+    - ''
+    - ''
+    - 13-2
+    - ''
+    - Offensive rebound by Team
+  - - '6:32.0'
+    - ''
+    - ''
+    - 13-3
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '6:15.0'
+    - S. Marion misses 2-pt shot from 10 ft
+    - ''
+    - 13-3
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 13-3
+    - ''
+    - Defensive rebound by A. Davis
+  - - '6:02.0'
+    - ''
+    - ''
+    - 13-5
+    - "+2"
+    - M. Jackson makes 2-pt shot from 6 ft
+  - - '5:47.0'
+    - J. Kidd misses 2-pt shot from 13 ft
+    - ''
+    - 13-5
+    - ''
+    - ''
+  - - '5:43.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 13-5
+    - ''
+    - ''
+  - - '5:41.0'
+    - C. Dudley misses 2-pt shot at rim
+    - ''
+    - 13-5
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 13-5
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:35.0'
+    - ''
+    - ''
+    - 13-7
+    - "+2"
+    - V. Carter makes 2-pt shot from 20 ft (assist by M. Jackson)
+  - - '5:20.0'
+    - S. Marion misses 2-pt shot from 17 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:04.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - C. Williamson misses 2-pt shot from 11 ft
+  - - '5:03.0'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '4:47.0'
+    - J. Kidd misses 2-pt shot from 11 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '4:42.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Shooting foul by S. Marion
+  - - '4:42.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - C. Williamson misses free throw 1 of 2
+  - - '4:42.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Offensive rebound by Team
+  - - '4:42.0'
+    - R. Rogers enters the game for S. Marion
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 13-8
+    - "+1"
+    - C. Williamson makes free throw 2 of 2
+  - - '4:19.0'
+    - R. Rogers makes 3-pt shot from 25 ft (assist by M. Elie)
+    - "+3"
+    - 16-8
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by C. Dudley)
+  - - '3:59.0'
+    - M. Elie makes 2-pt shot at rim (assist by J. Kidd)
+    - "+2"
+    - 18-8
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 18-8
+    - ''
+    - V. Carter misses 2-pt shot from 14 ft
+  - - '3:45.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:41.0'
+    - C. Robinson makes 2-pt shot from 14 ft (assist by J. Kidd)
+    - "+2"
+    - 20-8
+    - ''
+    - ''
+  - - '3:28.0'
+    - D. Santiago enters the game for C. Dudley
+    - ''
+    - 20-8
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - A. Williams enters the game for M. Jackson
+  - - '3:28.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - K. Willis enters the game for C. Oakley
+  - - '3:28.0'
+    - T. Delk enters the game for M. Elie
+    - ''
+    - 20-8
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - Turnover by K. Willis (bad pass; steal by J. Kidd)
+  - - '3:17.0'
+    - J. Kidd makes 2-pt shot at rim
+    - "+2"
+    - 22-8
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 22-10
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by V. Carter)
+  - - '2:36.0'
+    - Phoenix full timeout
+    - ''
+    - 22-10
+    - ''
+    - ''
+  - - '2:25.0'
+    - C. Robinson makes 2-pt shot from 19 ft (assist by T. Delk)
+    - "+2"
+    - 24-10
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '2:01.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - Offensive rebound by Team
+  - - '2:00.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - D. Curry enters the game for C. Williamson
+  - - '1:54.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - D. Curry misses 2-pt shot from 20 ft
+  - - '1:52.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - Offensive rebound by V. Carter
+  - - '1:50.0'
+    - ''
+    - ''
+    - 24-10
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '1:49.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 24-10
+    - ''
+    - ''
+  - - '1:45.0'
+    - Personal foul by K. Willis
+    - ''
+    - 24-10
+    - ''
+    - ''
+  - - '1:35.0'
+    - T. Delk misses 2-pt shot from 19 ft
+    - ''
+    - 24-10
+    - ''
+    - ''
+  - - '1:33.0'
+    - Offensive rebound by T. Delk
+    - ''
+    - 24-10
+    - ''
+    - ''
+  - - '1:31.0'
+    - T. Delk makes 2-pt shot at rim
+    - "+2"
+    - 26-10
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 26-10
+    - ''
+    - A. Williams misses 2-pt shot from 16 ft
+  - - '1:04.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 26-10
+    - ''
+    - ''
+  - - '0:46.0'
+    - Turnover by R. Rogers (bad pass)
+    - ''
+    - 26-10
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 26-10
+    - ''
+    - Personal foul by T. Delk
+  - - '0:33.9'
+    - ''
+    - ''
+    - 26-11
+    - "+1"
+    - A. Williams makes free throw 1 of 2
+  - - '0:33.9'
+    - ''
+    - ''
+    - 26-12
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '0:21.9'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 26-12
+    - ''
+    - ''
+  - - '0:19.9'
+    - ''
+    - ''
+    - 26-12
+    - ''
+    - Defensive rebound by V. Carter
+  - - '0:03.2'
+    - ''
+    - ''
+    - 26-14
+    - "+2"
+    - V. Carter makes 2-pt shot from 21 ft
+  - - '0:00.9'
+    - J. Kidd misses 3-pt shot from 26 ft
+    - ''
+    - 26-14
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 26-14
+    - ''
+    - Defensive rebound by D. Curry
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 26-14
+    - ''
+    - D. Curry misses 2-pt shot from 13 ft
+  - - '11:42.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 26-14
+    - ''
+    - ''
+  - - '11:25.0'
+    - R. Rogers makes 2-pt shot at rim
+    - "+2"
+    - 28-14
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 28-14
+    - ''
+    - Personal foul by D. Santiago
+  - - '11:06.0'
+    - ''
+    - ''
+    - 28-14
+    - ''
+    - A. Davis misses free throw 1 of 2
+  - - '11:06.0'
+    - ''
+    - ''
+    - 28-14
+    - ''
+    - Offensive rebound by Team
+  - - '11:06.0'
+    - ''
+    - ''
+    - 28-14
+    - ''
+    - A. Davis misses free throw 2 of 2
+  - - '11:05.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 28-14
+    - ''
+    - ''
+  - - '10:53.0'
+    - T. Delk makes 2-pt shot from 18 ft (assist by E. Perry)
+    - "+2"
+    - 30-14
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 30-14
+    - ''
+    - Personal foul by S. Marion
+  - - '10:39.0'
+    - C. Dudley enters the game for D. Santiago
+    - ''
+    - 30-14
+    - ''
+    - ''
+  - - '10:39.0'
+    - M. Elie enters the game for S. Marion
+    - ''
+    - 30-14
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 30-16
+    - "+2"
+    - D. Curry makes 2-pt shot from 19 ft (assist by A. Williams)
+  - - '10:10.0'
+    - T. Delk misses 2-pt shot at rim (block by V. Carter)
+    - ''
+    - 30-16
+    - ''
+    - ''
+  - - '10:08.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 30-16
+    - ''
+    - ''
+  - - '10:03.0'
+    - C. Dudley misses 2-pt shot at rim
+    - ''
+    - 30-16
+    - ''
+    - ''
+  - - '10:00.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 30-16
+    - ''
+    - ''
+  - - '9:58.0'
+    - C. Dudley makes 2-pt shot at rim
+    - "+2"
+    - 32-16
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 32-16
+    - ''
+    - Shooting foul by M. Elie
+  - - '9:40.0'
+    - ''
+    - ''
+    - 32-16
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '9:40.0'
+    - ''
+    - ''
+    - 32-16
+    - ''
+    - Offensive rebound by Team
+  - - '9:40.0'
+    - ''
+    - ''
+    - 32-16
+    - ''
+    - C. Oakley enters the game for A. Davis
+  - - '9:40.0'
+    - ''
+    - ''
+    - 32-17
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '9:23.0'
+    - ''
+    - ''
+    - 32-17
+    - ''
+    - Violation by D. Curry (illegal defense)
+  - - '9:23.0'
+    - ''
+    - ''
+    - 32-17
+    - ''
+    - M. Peterson enters the game for V. Carter
+  - - '9:17.0'
+    - R. Rogers makes 3-pt shot from 25 ft (assist by E. Perry)
+    - "+3"
+    - 35-17
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 35-17
+    - ''
+    - Personal foul by R. Rogers
+  - - '8:58.0'
+    - ''
+    - ''
+    - 35-17
+    - ''
+    - Official timeout
+  - - '8:44.0'
+    - ''
+    - ''
+    - 35-17
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:28.0'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 35-17
+    - ''
+    - ''
+  - - '8:25.0'
+    - Offensive rebound by E. Perry
+    - ''
+    - 35-17
+    - ''
+    - ''
+  - - '8:19.0'
+    - E. Perry misses 2-pt shot from 10 ft
+    - ''
+    - 35-17
+    - ''
+    - ''
+  - - '8:17.0'
+    - Offensive rebound by R. Rogers
+    - ''
+    - 35-17
+    - ''
+    - ''
+  - - '8:14.0'
+    - R. Rogers makes 2-pt shot at rim
+    - "+2"
+    - 37-17
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 37-17
+    - ''
+    - A. Williams misses 3-pt shot from 26 ft
+  - - '8:05.0'
+    - ''
+    - ''
+    - 37-17
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '8:03.0'
+    - ''
+    - ''
+    - 37-19
+    - "+2"
+    - K. Willis makes 2-pt shot from 10 ft (assist by C. Oakley)
+  - - '7:49.0'
+    - T. Delk makes 2-pt shot at rim (assist by E. Perry)
+    - "+2"
+    - 39-19
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-19
+    - ''
+    - Personal foul by C. Dudley
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-19
+    - ''
+    - M. Jackson enters the game for D. Curry
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-19
+    - ''
+    - K. Willis misses free throw 1 of 2
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-19
+    - ''
+    - Offensive rebound by Team
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-20
+    - "+1"
+    - K. Willis makes free throw 2 of 2
+  - - '7:15.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - T. Delk misses free throw 1 of 2
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - Phoenix full timeout
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - C. Blount enters the game for C. Dudley
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - T. Delk misses free throw 2 of 2
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:15.0'
+    - Offensive rebound by R. Rogers
+    - ''
+    - 39-20
+    - ''
+    - ''
+  - - '7:10.0'
+    - T. Delk makes 2-pt shot at rim
+    - "+2"
+    - 41-20
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 41-22
+    - "+2"
+    - M. Peterson makes 2-pt shot from 22 ft (assist by M. Jackson)
+  - - '6:35.0'
+    - E. Perry misses 2-pt shot from 20 ft
+    - ''
+    - 41-22
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Defensive rebound by A. Williams
+  - - '6:15.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '6:13.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '6:06.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - M. Peterson misses 3-pt shot from 24 ft
+  - - '6:05.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Offensive rebound by Team
+  - - '6:05.0'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Loose ball foul by R. Rogers
+  - - '6:05.0'
+    - ''
+    - ''
+    - 41-23
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '6:05.0'
+    - C. Robinson enters the game for R. Rogers
+    - ''
+    - 41-23
+    - ''
+    - ''
+  - - '6:05.0'
+    - J. Kidd enters the game for E. Perry
+    - ''
+    - 41-23
+    - ''
+    - ''
+  - - '6:05.0'
+    - ''
+    - ''
+    - 41-24
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '5:53.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 41-24
+    - ''
+    - ''
+  - - '5:53.0'
+    - M. Elie makes free throw 1 of 2
+    - "+1"
+    - 42-24
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 42-24
+    - ''
+    - V. Carter enters the game for K. Willis
+  - - '5:53.0'
+    - M. Elie makes free throw 2 of 2
+    - "+1"
+    - 43-24
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 43-24
+    - ''
+    - M. Peterson misses 2-pt shot at rim
+  - - '5:31.0'
+    - ''
+    - ''
+    - 43-24
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '5:31.0'
+    - ''
+    - ''
+    - 43-24
+    - ''
+    - Personal foul by T. Delk
+  - - '5:31.0'
+    - ''
+    - ''
+    - 43-25
+    - "+1"
+    - M. Peterson makes free throw 1 of 2
+  - - '5:31.0'
+    - ''
+    - ''
+    - 43-25
+    - ''
+    - M. Peterson misses free throw 2 of 2
+  - - '5:31.0'
+    - Defensive rebound by M. Elie
+    - ''
+    - 43-25
+    - ''
+    - ''
+  - - '5:10.0'
+    - C. Blount misses 2-pt shot at rim (block by V. Carter)
+    - ''
+    - 43-25
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 43-25
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:03.0'
+    - ''
+    - ''
+    - 43-27
+    - "+2"
+    - A. Williams makes 2-pt shot from 18 ft (assist by V. Carter)
+  - - '4:38.0'
+    - T. Delk misses 2-pt shot from 14 ft
+    - ''
+    - 43-27
+    - ''
+    - ''
+  - - '4:36.0'
+    - ''
+    - ''
+    - 43-27
+    - ''
+    - Defensive rebound by V. Carter
+  - - '4:28.0'
+    - ''
+    - ''
+    - 43-27
+    - ''
+    - Personal foul by T. Delk
+  - - '4:28.0'
+    - ''
+    - ''
+    - 43-27
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '4:28.0'
+    - ''
+    - ''
+    - 43-27
+    - ''
+    - Offensive rebound by Team
+  - - '4:28.0'
+    - R. Rogers enters the game for T. Delk
+    - ''
+    - 43-27
+    - ''
+    - ''
+  - - '4:28.0'
+    - ''
+    - ''
+    - 43-28
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '4:12.0'
+    - R. Rogers makes 2-pt shot from 9 ft
+    - "+2"
+    - 45-28
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 45-30
+    - "+2"
+    - M. Peterson makes 2-pt shot at rim (assist by V. Carter)
+  - - '3:27.0'
+    - C. Robinson misses 2-pt shot from 20 ft
+    - ''
+    - 45-30
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 45-30
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '3:14.0'
+    - ''
+    - ''
+    - 45-30
+    - ''
+    - V. Carter misses 2-pt shot at rim (block by C. Robinson)
+  - - '3:11.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 45-30
+    - ''
+    - ''
+  - - '3:07.0'
+    - Turnover by M. Elie (bad pass; steal by M. Jackson)
+    - ''
+    - 45-30
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 45-32
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '2:53.0'
+    - Turnover by J. Kidd (lost ball)
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Official timeout
+  - - '2:34.0'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - M. Jackson misses 3-pt shot from 26 ft
+  - - '2:33.0'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '2:29.0'
+    - ''
+    - ''
+    - 45-34
+    - "+2"
+    - M. Peterson makes 2-pt shot at rim
+  - - '2:14.0'
+    - M. Elie misses 2-pt shot from 14 ft
+    - ''
+    - 45-34
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 45-34
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '2:05.0'
+    - ''
+    - ''
+    - 45-36
+    - "+2"
+    - A. Williams makes 2-pt shot from 13 ft
+  - - '1:39.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 45-36
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - A. Williams misses 2-pt shot from 17 ft
+  - - '1:27.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - Offensive rebound by Team
+  - - '1:22.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - Personal foul by C. Robinson
+  - - '1:22.0'
+    - ''
+    - ''
+    - 45-37
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '1:22.0'
+    - ''
+    - ''
+    - 45-38
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '1:11.0'
+    - R. Rogers misses 3-pt shot from 22 ft
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - Defensive rebound by Team
+  - - '0:57.9'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '0:55.8'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - Offensive rebound by V. Carter
+  - - '0:53.9'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '0:51.9'
+    - Defensive rebound by C. Blount
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '0:47.9'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '0:46.0'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - Defensive rebound by Team
+  - - '0:46.0'
+    - Technical foul by R. Rogers
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '0:46.0'
+    - ''
+    - ''
+    - 45-39
+    - "+1"
+    - A. Williams makes free throw technical
+  - - '0:39.9'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - Personal foul by R. Rogers
+  - - '0:39.9'
+    - ''
+    - ''
+    - 45-40
+    - "+1"
+    - M. Peterson makes free throw 1 of 2
+  - - '0:39.9'
+    - P. McPherson enters the game for R. Rogers
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '0:39.9'
+    - ''
+    - ''
+    - 45-41
+    - "+1"
+    - M. Peterson makes free throw 2 of 2
+  - - '0:30.9'
+    - Turnover by J. Kidd (bad pass; steal by A. Williams)
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - M. Peterson misses 2-pt shot from 19 ft
+  - - '0:21.9'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '0:02.9'
+    - J. Kidd misses 2-pt shot from 22 ft
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - Violation by C. Robinson (illegal defense)
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 45-43
+    - "+2"
+    - M. Jackson makes 2-pt shot from 10 ft
+  - - '11:14.0'
+    - S. Marion makes 2-pt shot from 10 ft (assist by J. Kidd)
+    - "+2"
+    - 47-43
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by J. Kidd)
+  - - '10:44.0'
+    - J. Kidd misses 3-pt shot from 25 ft
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '10:42.0'
+    - Offensive rebound by C. Robinson
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '10:39.0'
+    - C. Robinson makes 2-pt shot from 15 ft
+    - "+2"
+    - 49-43
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 49-45
+    - "+2"
+    - V. Carter makes 2-pt shot from 16 ft (assist by M. Jackson)
+  - - '10:07.0'
+    - J. Kidd misses 2-pt shot from 18 ft
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Defensive rebound by V. Carter
+  - - '9:58.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '9:56.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '9:50.0'
+    - C. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Defensive rebound by A. Davis
+  - - '9:34.0'
+    - ''
+    - ''
+    - 49-47
+    - "+2"
+    - V. Carter makes 2-pt shot from 21 ft (assist by M. Jackson)
+  - - '9:11.0'
+    - J. Kidd makes 3-pt shot from 25 ft (assist by C. Robinson)
+    - "+3"
+    - 52-47
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 52-47
+    - ''
+    - Personal foul by M. Elie
+  - - '8:44.0'
+    - ''
+    - ''
+    - 52-49
+    - "+2"
+    - A. Davis makes 2-pt shot from 18 ft (assist by V. Carter)
+  - - '8:16.0'
+    - J. Kidd misses 3-pt shot from 26 ft
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '8:16.0'
+    - Offensive rebound by Team
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '8:16.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 52-52
+    - "+3"
+    - M. Jackson makes 3-pt shot from 25 ft (assist by C. Oakley)
+  - - '7:35.0'
+    - Turnover by C. Robinson (lost ball; steal by C. Williamson)
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Personal foul by J. Kidd
+  - - '7:17.0'
+    - ''
+    - ''
+    - 52-54
+    - "+2"
+    - C. Williamson makes 2-pt shot at rim (assist by M. Jackson)
+  - - '7:17.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Shooting foul by S. Marion
+  - - '7:17.0'
+    - R. Rogers enters the game for S. Marion
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 52-55
+    - "+1"
+    - C. Williamson makes free throw 1 of 1
+  - - '7:07.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 52-55
+    - ''
+    - ''
+  - - '7:01.0'
+    - C. Robinson misses 2-pt shot from 21 ft
+    - ''
+    - 52-55
+    - ''
+    - ''
+  - - '7:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 52-55
+    - ''
+    - ''
+  - - '7:00.0'
+    - Loose ball foul by A. Davis
+    - ''
+    - 52-55
+    - ''
+    - ''
+  - - '6:46.0'
+    - J. Kidd makes 3-pt shot from 25 ft (assist by R. Rogers)
+    - "+3"
+    - 55-55
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - C. Williamson misses 2-pt shot from 12 ft
+  - - '6:30.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Offensive rebound by A. Davis
+  - - '6:19.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Turnover by V. Carter (no)
+  - - '6:04.0'
+    - R. Rogers makes 3-pt shot from 24 ft (assist by M. Elie)
+    - "+3"
+    - 58-55
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 58-57
+    - "+2"
+    - V. Carter makes 2-pt shot from 21 ft (assist by M. Jackson)
+  - - '5:48.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - Shooting foul by M. Elie
+  - - '5:48.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - Official timeout
+  - - '5:48.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - V. Carter misses free throw 1 of 1
+  - - '5:47.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '5:34.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '5:34.0'
+    - C. Robinson makes free throw 1 of 2
+    - "+1"
+    - 59-57
+    - ''
+    - ''
+  - - '5:34.0'
+    - C. Robinson makes free throw 2 of 2
+    - "+1"
+    - 60-57
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - V. Carter misses 2-pt shot from 21 ft
+  - - '5:11.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '5:10.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Personal foul by M. Elie
+  - - '5:10.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - C. Oakley misses free throw 1 of 2
+  - - '5:10.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Offensive rebound by Team
+  - - '5:10.0'
+    - T. Delk enters the game for M. Elie
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 60-58
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '4:55.0'
+    - T. Delk misses 3-pt shot from 25 ft
+    - ''
+    - 60-58
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Defensive rebound by C. Williamson
+  - - '4:42.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Offensive foul by A. Davis
+  - - '4:42.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Turnover by A. Davis (foul)
+  - - '4:30.0'
+    - J. Kidd makes 3-pt shot from 25 ft
+    - "+3"
+    - 63-58
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 63-61
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '3:55.0'
+    - ''
+    - ''
+    - 63-61
+    - ''
+    - A. Williams enters the game for C. Williamson
+  - - '3:46.0'
+    - R. Rogers makes 2-pt shot at rim
+    - "+2"
+    - 65-61
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - V. Carter misses 2-pt shot from 13 ft (block by C. Dudley)
+  - - '3:24.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Offensive rebound by Team
+  - - '3:19.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '3:17.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Offensive rebound by A. Davis
+  - - '3:12.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '3:12.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Offensive rebound by Team
+  - - '3:12.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Double personal foul by A. Davis and C. Dudley
+  - - '3:12.0'
+    - 'Jump ball: A. Davis vs. C. Dudley (M. Jackson gains possession)'
+  - - '3:08.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Personal foul by C. Dudley
+  - - '3:08.0'
+    - C. Blount enters the game for C. Dudley
+    - ''
+    - 65-61
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 65-62
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '3:08.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - A. Davis misses free throw 2 of 2
+  - - '3:07.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 65-62
+    - ''
+    - ''
+  - - '2:50.0'
+    - C. Robinson misses 2-pt shot from 9 ft (block by C. Oakley)
+    - ''
+    - 65-62
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - Defensive rebound by A. Williams
+  - - '2:42.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - Turnover by V. Carter (bad pass)
+  - - '2:42.0'
+    - Official timeout
+    - ''
+    - 65-62
+    - ''
+    - ''
+  - - '2:20.0'
+    - R. Rogers makes 2-pt shot from 12 ft
+    - "+2"
+    - 67-62
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '1:54.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '1:35.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '1:35.0'
+    - J. Kidd makes free throw 1 of 2
+    - "+1"
+    - 68-62
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 68-62
+    - ''
+    - M. Peterson enters the game for M. Jackson
+  - - '1:35.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 69-62
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '1:21.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 69-62
+    - ''
+    - ''
+  - - '1:14.0'
+    - C. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 69-62
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Defensive rebound by V. Carter
+  - - '1:04.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '1:03.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Offensive rebound by V. Carter
+  - - '1:03.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Shooting foul by C. Blount
+  - - '1:03.0'
+    - ''
+    - ''
+    - 69-63
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '1:03.0'
+    - ''
+    - ''
+    - 69-64
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '0:52.9'
+    - J. Kidd misses 2-pt shot from 22 ft
+    - ''
+    - 69-64
+    - ''
+    - ''
+  - - '0:51.4'
+    - ''
+    - ''
+    - 69-64
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:39.9'
+    - ''
+    - ''
+    - 69-64
+    - ''
+    - Turnover by A. Williams (bad pass; steal by J. Kidd)
+  - - '0:33.9'
+    - T. Delk misses 2-pt shot at rim
+    - ''
+    - 69-64
+    - ''
+    - ''
+  - - '0:32.3'
+    - Offensive rebound by T. Delk
+    - ''
+    - 69-64
+    - ''
+    - ''
+  - - '0:32.3'
+    - Personal foul by M. Peterson
+    - ''
+    - 69-64
+    - ''
+    - ''
+  - - '0:32.3'
+    - T. Delk makes free throw 1 of 2
+    - "+1"
+    - 70-64
+    - ''
+    - ''
+  - - '0:32.3'
+    - T. Delk makes free throw 2 of 2
+    - "+1"
+    - 71-64
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 71-64
+    - ''
+    - M. Peterson misses 2-pt shot from 12 ft (block by C. Blount)
+  - - '0:15.5'
+    - Defensive rebound by T. Delk
+    - ''
+    - 71-64
+    - ''
+    - ''
+  - - '0:06.9'
+    - Turnover by J. Kidd (bad pass; steal by M. Peterson)
+    - ''
+    - 71-64
+    - ''
+    - ''
+  - - '0:00.8'
+    - ''
+    - ''
+    - 71-66
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by M. Peterson)
+  - - '0:00.2'
+    - C. Robinson misses 3-pt shot from 41 ft
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:49.0'
+    - C. Robinson makes 2-pt shot from 8 ft
+    - "+2"
+    - 73-66
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 73-66
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '11:27.0'
+    - ''
+    - ''
+    - 73-66
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '11:25.0'
+    - ''
+    - ''
+    - 73-68
+    - "+2"
+    - C. Oakley makes 2-pt shot at rim
+  - - '11:24.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Violation by Team (delay of game)
+  - - '11:15.0'
+    - J. Kidd misses 2-pt shot from 7 ft
+    - ''
+    - 73-68
+    - ''
+    - ''
+  - - '11:11.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Defensive rebound by V. Carter
+  - - '11:05.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Turnover by V. Carter (bad pass; steal by T. Delk)
+  - - '10:45.0'
+    - C. Robinson makes 2-pt shot from 15 ft (assist by R. Rogers)
+    - "+2"
+    - 75-68
+    - ''
+    - ''
+  - - '10:45.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 75-68
+    - ''
+    - ''
+  - - '10:45.0'
+    - C. Robinson makes free throw 1 of 1
+    - "+1"
+    - 76-68
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - A. Davis misses 2-pt shot from 6 ft
+  - - '10:27.0'
+    - Defensive rebound by T. Delk
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '10:14.0'
+    - C. Robinson misses 2-pt shot from 5 ft
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Defensive rebound by A. Davis
+  - - '9:55.0'
+    - ''
+    - ''
+    - 76-70
+    - "+2"
+    - V. Carter makes 2-pt shot from 13 ft
+  - - '9:36.0'
+    - C. Blount misses 2-pt shot at rim
+    - ''
+    - 76-70
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '9:25.0'
+    - ''
+    - ''
+    - 76-72
+    - "+2"
+    - M. Peterson makes 2-pt shot from 16 ft (assist by A. Williams)
+  - - '9:06.0'
+    - Turnover by T. Delk (bad pass)
+    - ''
+    - 76-72
+    - ''
+    - ''
+  - - '9:06.0'
+    - S. Marion enters the game for C. Robinson
+    - ''
+    - 76-72
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 76-72
+    - ''
+    - M. Jackson enters the game for A. Davis
+  - - '8:58.0'
+    - ''
+    - ''
+    - 76-72
+    - ''
+    - A. Williams misses 2-pt shot from 19 ft
+  - - '8:56.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 76-72
+    - ''
+    - ''
+  - - '8:46.0'
+    - S. Marion misses 2-pt shot from 16 ft
+    - ''
+    - 76-72
+    - ''
+    - ''
+  - - '8:45.0'
+    - ''
+    - ''
+    - 76-72
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '8:23.0'
+    - ''
+    - ''
+    - 76-74
+    - "+2"
+    - V. Carter makes 2-pt shot from 15 ft
+  - - '8:00.0'
+    - R. Rogers misses 2-pt shot from 14 ft
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:41.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - M. Peterson misses 3-pt shot from 24 ft
+  - - '7:40.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '7:35.0'
+    - T. Delk misses 2-pt shot from 20 ft
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '7:27.0'
+    - T. Delk makes 2-pt shot from 15 ft (assist by S. Marion)
+    - "+2"
+    - 78-74
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 78-74
+    - ''
+    - Toronto full timeout
+  - - '7:08.0'
+    - ''
+    - ''
+    - 78-76
+    - "+2"
+    - V. Carter makes 2-pt shot from 6 ft (assist by A. Williams)
+  - - '7:08.0'
+    - ''
+    - ''
+    - 78-76
+    - ''
+    - Shooting foul by C. Blount
+  - - '7:08.0'
+    - ''
+    - ''
+    - 78-77
+    - "+1"
+    - V. Carter makes free throw 1 of 1
+  - - '6:45.0'
+    - T. Delk misses 3-pt shot from 24 ft
+    - ''
+    - 78-77
+    - ''
+    - ''
+  - - '6:44.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 78-77
+    - ''
+    - ''
+  - - '6:44.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 78-77
+    - ''
+    - ''
+  - - '6:44.0'
+    - S. Marion makes free throw 1 of 2
+    - "+1"
+    - 79-77
+    - ''
+    - ''
+  - - '6:44.0'
+    - S. Marion misses free throw 2 of 2
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '6:23.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - V. Carter misses 2-pt shot from 18 ft
+  - - '6:22.0'
+    - Defensive rebound by T. Delk
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '6:02.0'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Defensive rebound by A. Williams
+  - - '5:55.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Offensive foul by V. Carter
+  - - '5:55.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Turnover by V. Carter (foul)
+  - - '5:55.0'
+    - Official timeout
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:55.0'
+    - C. Robinson enters the game for T. Delk
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:55.0'
+    - M. Elie enters the game for C. Blount
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Violation by A. Williams (kicked ball)
+  - - '5:33.0'
+    - M. Elie misses 3-pt shot from 24 ft
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:31.0'
+    - Offensive rebound by R. Rogers
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:24.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:24.0'
+    - T. Delk enters the game for R. Rogers
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '5:14.0'
+    - J. Kidd makes 3-pt shot from 24 ft (assist by C. Robinson)
+    - "+3"
+    - 82-77
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '4:49.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '4:36.0'
+    - S. Marion misses 2-pt shot from 8 ft
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Defensive rebound by V. Carter
+  - - '4:25.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Turnover by A. Williams (bad pass; steal by S. Marion)
+  - - '4:10.0'
+    - Turnover by T. Delk (lost ball; steal by C. Oakley)
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '4:01.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Offensive rebound by Team
+  - - '3:59.0'
+    - Defensive rebound by M. Elie
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - V. Carter misses 2-pt shot at rim (block by M. Elie)
+  - - '3:49.0'
+    - C. Robinson makes 3-pt shot from 27 ft (assist by M. Elie)
+    - "+3"
+    - 85-77
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - Toronto 20 second timeout
+  - - '3:47.0'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - A. Davis enters the game for C. Oakley
+  - - '3:29.0'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - Shooting foul by C. Robinson
+  - - '3:29.0'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - D. Curry enters the game for M. Peterson
+  - - '3:29.0'
+    - ''
+    - ''
+    - 85-78
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '3:29.0'
+    - ''
+    - ''
+    - 85-79
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '3:12.0'
+    - C. Robinson misses 2-pt shot from 7 ft (block by V. Carter)
+    - ''
+    - 85-79
+    - ''
+    - ''
+  - - '3:10.0'
+    - Offensive rebound by C. Robinson
+    - ''
+    - 85-79
+    - ''
+    - ''
+  - - '3:10.0'
+    - Offensive foul by C. Robinson
+    - ''
+    - 85-79
+    - ''
+    - ''
+  - - '3:10.0'
+    - Turnover by C. Robinson (foul)
+    - ''
+    - 85-79
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 85-81
+    - "+2"
+    - A. Williams makes 2-pt shot from 21 ft (assist by M. Jackson)
+  - - '2:29.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 85-81
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 85-81
+    - ''
+    - Defensive rebound by V. Carter
+  - - '2:04.0'
+    - ''
+    - ''
+    - 85-83
+    - "+2"
+    - M. Jackson makes 2-pt shot from 18 ft (assist by V. Carter)
+  - - '2:03.0'
+    - Phoenix full timeout
+    - ''
+    - 85-83
+    - ''
+    - ''
+  - - '2:03.0'
+    - R. Rogers enters the game for T. Delk
+    - ''
+    - 85-83
+    - ''
+    - ''
+  - - '1:52.0'
+    - S. Marion makes 2-pt shot from 7 ft (assist by C. Robinson)
+    - "+2"
+    - 87-83
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 87-83
+    - ''
+    - A. Williams misses 2-pt shot from 21 ft
+  - - '1:35.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 87-83
+    - ''
+    - ''
+  - - '1:21.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 87-83
+    - ''
+    - ''
+  - - '1:21.0'
+    - J. Kidd misses free throw 1 of 2
+    - ''
+    - 87-83
+    - ''
+    - ''
+  - - '1:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 87-83
+    - ''
+    - ''
+  - - '1:21.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 88-83
+    - ''
+    - ''
+  - - '0:59.9'
+    - ''
+    - ''
+    - 88-83
+    - ''
+    - A. Williams misses 2-pt shot from 5 ft
+  - - '0:58.2'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 88-83
+    - ''
+    - ''
+  - - '0:44.9'
+    - S. Marion makes 2-pt shot at rim
+    - "+2"
+    - 90-83
+    - ''
+    - ''
+  - - '0:43.9'
+    - ''
+    - ''
+    - 90-83
+    - ''
+    - Toronto full timeout
+  - - '0:39.3'
+    - ''
+    - ''
+    - 90-85
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '0:38.9'
+    - Personal foul by A. Williams
+    - ''
+    - 90-85
+    - ''
+    - ''
+  - - '0:38.9'
+    - J. Kidd misses free throw 1 of 2
+    - ''
+    - 90-85
+    - ''
+    - ''
+  - - '0:38.9'
+    - Offensive rebound by Team
+    - ''
+    - 90-85
+    - ''
+    - ''
+  - - '0:38.9'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 91-85
+    - ''
+    - ''
+  - - '0:35.3'
+    - ''
+    - ''
+    - 91-85
+    - ''
+    - Personal foul by M. Elie
+  - - '0:31.9'
+    - ''
+    - ''
+    - 91-87
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '0:30.5'
+    - Personal foul by V. Carter
+    - ''
+    - 91-87
+    - ''
+    - ''
+  - - '0:30.5'
+    - J. Kidd makes free throw 1 of 2
+    - "+1"
+    - 92-87
+    - ''
+    - ''
+  - - '0:30.5'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 93-87
+    - ''
+    - ''
+  - - '0:22.9'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - D. Curry misses 3-pt shot from 25 ft
+  - - '0:21.3'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Offensive rebound by Team
+  - - '0:18.0'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Offensive foul by V. Carter
+  - - '0:18.0'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Turnover by V. Carter (foul)
+  - - '0:16.8'
+    - Personal foul by A. Williams
+    - ''
+    - 93-87
+    - ''
+    - ''
+  - - '0:16.8'
+    - J. Kidd makes free throw 1 of 2
+    - "+1"
+    - 94-87
+    - ''
+    - ''
+  - - '0:16.8'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 95-87
+    - ''
+    - ''
+  - - '0:16.8'
+    - ''
+    - ''
+    - 95-87
+    - ''
+    - Toronto full timeout
+  - - '0:14.9'
+    - ''
+    - ''
+    - 95-87
+    - ''
+    - A. Williams misses 3-pt shot from 26 ft
+  - - '0:12.9'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 95-87
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

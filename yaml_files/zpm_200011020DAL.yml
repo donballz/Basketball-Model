@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Travis Best (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - |2-
+
+      -11
+    - 207/-11
+    - 42/
+    - 249/+9
+    - 249/-1
+    - 26/-1
+    - 31/
+    - 193/-1
+    - 'Austin Croshere (On: -4&#9642;Off: -2&#9642;Net: -2)'
+    - |2-
+
+      -3
+    - 70/-3
+    - 178/
+    - 94/+5
+    - 154/
+    - 162/-3
+    - 132/
+    - 81/-2
+    - 67/
+    - 29/-3
+    - 19/
+    - 7/+2
+    - 'Reggie Miller (On: -11&#9642;Off: +5&#9642;Net: -16)'
+    - |2-
+
+      -13
+    - 249/-13
+    - 94/+5
+    - 101/
+    - 54/+1
+    - 167/-3
+    - 83/
+    - 249/-1
+    - 'Jermaine O''Neal (On: -9&#9642;Off: +3&#9642;Net: -12)'
+    - |2-
+
+      -6
+    - 181/-6
+    - 168/
+    - 150/+4
+    - 37/-4
+    - 307/
+    - 38/-3
+    - 116/
+    - 'Sam Perkins (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - |2-
+
+      -2
+    - 150/-2
+    - 98/
+    - 99/+5
+    - 149/
+    - 28/-4
+    - 147/
+    - 73/+2
+    - 39/+2
+    - 202/
+    - 9/+2
+    - 'Al Harrington (On: -8&#9642;Off: +2&#9642;Net: -10)'
+    - "\n"
+    - 77/
+    - 172/-10
+    - 100/
+    - 91/+3
+    - 223/
+    - 85/+2
+    - 239/-3
+    - 9/
+    - 'Zan Tabak (On: -1&#9642;Off: -5&#9642;Net: +4)'
+    - "\n"
+    - 151/
+    - 97/-11
+    - 105/
+    - 143/+4
+    - 29/
+    - 219/+3
+    - 90/0
+    - 47/
+    - 51/+5
+    - 42/
+    - 8/-2
+    - 10/
+    - 'Jonathan Bender (On: -7&#9642;Off: +1&#9642;Net: -8)'
+    - "\n"
+    - 186/
+    - 64/-7
+    - 751/
+    - 'Tyus Edney (On: -1&#9642;Off: -5&#9642;Net: +4)'
+    - "\n"
+    - 212/
+    - 38/-2
+    - 531/
+    - 21/+1
+    - 197/
+    - 'Derrick McKey (On: +11&#9642;Off: -17&#9642;Net: +28)'
+    - "\n"
+    - 250/
+    - 250/+9
+    - 42/
+    - 208/+3
+    - 130/
+    - 118/-1
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: +15&#9642;Off: -9&#9642;Net: +24)'
+    - |2-
+
+      +7
+    - 186/+7
+    - 194/
+    - 119/0
+    - 188/+6
+    - 61/
+    - 137/+2
+    - 112/
+    - 'Michael Finley (On: +8&#9642;Off: -2&#9642;Net: +10)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 64/-5
+    - 185/
+    - 249/+1
+    - 90/0
+    - 54/
+    - 106/-1
+    - 'Eduardo Najera (On: +5&#9642;Off: +1&#9642;Net: +4)'
+    - |2-
+
+      +3
+    - 107/+3
+    - 374/
+    - 19/+1
+    - 250/+1
+    - 249/
+    - 'Steve Nash (On: +13&#9642;Off: -7&#9642;Net: +20)'
+    - |2-
+
+      +11
+    - 208/+11
+    - 219/
+    - 73/0
+    - 250/+1
+    - 95/
+    - 153/+1
+    - 'Dirk Nowitzki (On: +16&#9642;Off: -10&#9642;Net: +26)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 25/-2
+    - 191/
+    - 33/+1
+    - 249/+1
+    - 95/
+    - 144/+3
+    - 10/
+    - 'Greg Buckner (On: -1&#9642;Off: +7&#9642;Net: -8)'
+    - "\n"
+    - 113/
+    - 136/+10
+    - 224/-10
+    - 274/
+    - 232/+1
+    - 10/
+    - 8/-2
+    - 'Christian Laettner (On: -3&#9642;Off: +9&#9642;Net: -12)'
+    - "\n"
+    - 190/
+    - 60/+6
+    - 127/-9
+    - 623/
+    - 'Howard Eisley (On: -6&#9642;Off: +12&#9642;Net: -18)'
+    - "\n"
+    - 212/
+    - 38/+2
+    - 173/-9
+    - 327/
+    - 249/+1
+    - 'Loy Vaught (On: -13&#9642;Off: +19&#9642;Net: -32)'
+    - "\n"
+    - 278/
+    - 182/-8
+    - 231/
+    - 58/-5
+    - 90/0
+    - 159/
+    - 'Hubert Davis (On: -4&#9642;Off: +10&#9642;Net: -14)'
+    - "\n"
+    - 318/
+    - 182/-4
+    - 490/
+    - 10/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

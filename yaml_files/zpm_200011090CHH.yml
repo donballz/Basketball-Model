@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 81/+2
+    - 54/
+    - 115/+7
+    - 249/+5
+    - 59/-3
+    - 75/
+    - 114/-1
+    - 'Patrick Ewing (On: +13&#9642;Off: -5&#9642;Net: +18)'
+    - |2-
+
+      -1
+    - 163/-1
+    - 172/
+    - 164/+9
+    - 150/+5
+    - 165/
+    - 179/0
+    - 4/
+    - 'Rashard Lewis (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      -1
+    - 174/-1
+    - 222/
+    - 102/+5
+    - 79/+2
+    - 132/
+    - 38/+5
+    - 250/-5
+    - 'Desmond Mason (On: -2&#9642;Off: +10&#9642;Net: -12)'
+    - |2-
+
+      -5
+    - 228/-5
+    - 272/
+    - 183/+3
+    - 317/
+    - 'Gary Payton (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 135/
+    - 115/+7
+    - 250/+5
+    - 249/-5
+    - 'Jelani McCoy (On: -2&#9642;Off: +10&#9642;Net: -12)'
+    - "\n"
+    - 167/
+    - 82/-2
+    - 130/+4
+    - 369/
+    - 128/-4
+    - 122/
+    - 'Ruben Patterson (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 182/
+    - 67/-2
+    - 142/+6
+    - 194/
+    - 119/-2
+    - 294/
+    - 'Emanual Davis (On: +8&#9642;Off: 0&#9642;Net: +8)'
+    - "\n"
+    - 232/
+    - 17/+2
+    - 129/+4
+    - 304/
+    - 64/+2
+    - 59/-3
+    - 156/
+    - 35/+3
+    - 'Shammond Williams (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - "\n"
+    - 250/
+    - 250/+11
+    - 315/
+    - 146/-5
+    - 36/
+    - 1/-2
+    - 'Pervis Ellison (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 658/
+    - 93/0
+    - 250/
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Elden Campbell (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - |2-
+
+      +4
+    - 150/+4
+    - 99/
+    - 163/-9
+    - 86/
+    - 139/-5
+    - 110/
+    - 127/+4
+    - 88/
+    - 33/-3
+    - 'Derrick Coleman (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      +1
+    - 163/+1
+    - 86/
+    - 116/-6
+    - 52/
+    - 82/-2
+    - 122/-4
+    - 127/
+    - 248/+5
+    - 'Baron Davis (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - |2-
+
+      +5
+    - 228/+5
+    - 90/
+    - 61/-2
+    - 182/
+    - 96/-3
+    - 341/
+    - 'Jamal Mashburn (On: -10&#9642;Off: +2&#9642;Net: -12)'
+    - |2-
+
+      +1
+    - 182/+1
+    - 67/
+    - 250/-11
+    - 139/-5
+    - 111/
+    - 249/+5
+    - 'David Wesley (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      +1
+    - 163/+1
+    - 70/
+    - 17/-2
+    - 179/-10
+    - 70/
+    - 59/0
+    - 190/
+    - 248/+5
+    - 'Jamaal Magloire (On: +1&#9642;Off: -9&#9642;Net: +10)'
+    - "\n"
+    - 153/
+    - 95/-1
+    - 167/
+    - 82/-2
+    - 141/
+    - 107/0
+    - 134/
+    - 76/+4
+    - 40/
+    - 'Hersey Hawkins (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - "\n"
+    - 167/
+    - 82/+2
+    - 63/-2
+    - 71/
+    - 115/-7
+    - 249/-5
+    - 55/
+    - 194/+4
+    - 'Otis Thorpe (On: -2&#9642;Off: -6&#9642;Net: +4)'
+    - "\n"
+    - 167/
+    - 82/+2
+    - 124/
+    - 39/-3
+    - 215/
+    - 120/-1
+    - 250/
+    - 'Eddie Robinson (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 187/
+    - 62/+2
+    - 500/
+    - 49/+1
+    - 201/
+    - 'Eldridge Recasner (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - "\n"
+    - 432/
+    - 67/-1
+    - 165/
+    - 84/-2
+    - 251/
+    - 'Tim James (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 643/
+    - 108/0
+    - 250/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

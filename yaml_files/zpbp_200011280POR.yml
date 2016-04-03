@@ -1,0 +1,2598 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Sabonis vs. P. Ewing (S. Pippen gains possession)'
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - A. Sabonis misses 2-pt shot from 18 ft
+  - - '11:37.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:25.0'
+    - P. Ewing misses 2-pt shot from 14 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:12.0'
+    - E. Davis makes 3-pt shot from 25 ft (assist by P. Ewing)
+    - "+3"
+    - 3-0
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - Shooting foul by R. Lewis
+  - - '10:45.0'
+    - ''
+    - ''
+    - 3-1
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '10:45.0'
+    - ''
+    - ''
+    - 3-2
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '10:29.0'
+    - G. Payton misses 2-pt shot from 13 ft
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '10:27.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '10:26.0'
+    - J. McCoy misses 2-pt shot at rim
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '10:23.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 5-2
+    - ''
+    - ''
+  - - '10:23.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - A. Sabonis misses 2-pt shot from 21 ft
+  - - '9:58.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:49.0'
+    - J. McCoy misses 2-pt shot at rim (block by R. Wallace)
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '9:43.0'
+    - ''
+    - ''
+    - 5-4
+    - "+2"
+    - S. Pippen makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '9:19.0'
+    - G. Payton misses 3-pt shot from 24 ft (block by S. Smith)
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:16.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:12.0'
+    - G. Payton makes 3-pt shot from 24 ft (assist by J. McCoy)
+    - "+3"
+    - 8-4
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 8-7
+    - "+3"
+    - S. Smith makes 3-pt shot from 24 ft (assist by D. Stoudamire)
+  - - '8:44.0'
+    - E. Davis misses 2-pt shot from 18 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '8:29.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - R. Wallace misses 3-pt shot from 25 ft
+  - - '8:27.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:21.0'
+    - R. Lewis misses 2-pt shot at rim (block by R. Wallace)
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '8:13.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - D. Stoudamire misses 2-pt shot from 20 ft
+  - - '8:11.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:04.0'
+    - R. Lewis makes 3-pt shot from 24 ft (assist by G. Payton)
+    - "+3"
+    - 11-7
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - Turnover by D. Stoudamire (lost ball; steal by R. Lewis)
+  - - '7:33.0'
+    - G. Payton makes 2-pt shot at rim (assist by J. McCoy)
+    - "+2"
+    - 13-7
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 13-9
+    - "+2"
+    - S. Pippen makes 2-pt shot from 22 ft (assist by S. Smith)
+  - - '6:56.0'
+    - Turnover by G. Payton (traveling)
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - A. Sabonis misses 2-pt shot from 22 ft
+  - - '6:41.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '6:34.0'
+    - J. McCoy misses 2-pt shot from 3 ft (block by A. Sabonis)
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '6:27.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - Turnover by R. Wallace (lost ball)
+  - - '6:10.0'
+    - P. Ewing misses 2-pt shot at rim (block by A. Sabonis)
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '6:08.0'
+    - E. Davis makes 2-pt shot at rim
+    - "+2"
+    - 15-9
+    - ''
+    - ''
+  - - '6:08.0'
+    - Offensive rebound by E. Davis
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Portland full timeout
+  - - '6:04.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '5:44.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - S. Smith misses 3-pt shot from 24 ft
+  - - '5:42.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '5:30.0'
+    - Seattle 20 second timeout
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '5:24.0'
+    - G. Payton makes 2-pt shot from 21 ft (assist by E. Davis)
+    - "+2"
+    - 17-9
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 17-9
+    - ''
+    - Turnover by S. Smith (bad pass)
+  - - '4:47.0'
+    - R. Lewis makes 2-pt shot from 22 ft (assist by G. Payton)
+    - "+2"
+    - 19-9
+    - ''
+    - ''
+  - - '4:34.0'
+    - Violation by P. Ewing (illegal defense)
+    - ''
+    - 19-9
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - R. Wallace misses 2-pt shot from 21 ft
+  - - '4:23.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 19-9
+    - ''
+    - ''
+  - - '4:20.0'
+    - J. McCoy makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 21-9
+    - ''
+    - ''
+  - - '4:20.0'
+    - Shooting foul by R. Wallace
+    - ''
+    - 21-9
+    - ''
+    - ''
+  - - '4:20.0'
+    - J. McCoy misses free throw 1 of 1
+    - ''
+    - 21-9
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 21-9
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '4:05.0'
+    - ''
+    - ''
+    - 21-9
+    - ''
+    - S. Smith misses 2-pt shot at rim (block by J. McCoy)
+  - - '4:02.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 21-9
+    - ''
+    - ''
+  - - '3:58.0'
+    - E. Davis makes 2-pt shot from 13 ft
+    - "+2"
+    - 23-9
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 23-9
+    - ''
+    - Turnover by R. Wallace (3 second)
+  - - '3:18.0'
+    - Turnover by P. Ewing (lost ball; steal by R. Wallace)
+    - ''
+    - 23-9
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 23-12
+    - "+3"
+    - D. Stoudamire makes 3-pt shot from 25 ft (assist by D. Davis)
+  - - '2:33.0'
+    - G. Payton misses 3-pt shot from 24 ft
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '2:31.0'
+    - R. Lewis misses 2-pt shot at rim
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '2:31.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '2:29.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '2:28.0'
+    - R. Lewis misses 2-pt shot at rim
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - Defensive rebound by D. Davis
+  - - '2:11.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - S. Pippen misses 3-pt shot from 22 ft
+  - - '2:09.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:50.0'
+    - Personal foul by R. Wallace
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:50.0'
+    - Seattle full timeout
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:50.0'
+    - B. Barry enters the game for E. Davis
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - S. Kemp enters the game for R. Wallace
+  - - '1:50.0'
+    - P. Ewing makes free throw 1 of 2
+    - "+1"
+    - 24-12
+    - ''
+    - ''
+  - - '1:50.0'
+    - P. Ewing makes free throw 2 of 2
+    - "+1"
+    - 25-12
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 25-12
+    - ''
+    - Shooting foul by B. Barry
+  - - '1:31.0'
+    - V. Baker enters the game for P. Ewing
+    - ''
+    - 25-12
+    - ''
+    - ''
+  - - '1:31.0'
+    - S. Williams enters the game for G. Payton
+    - ''
+    - 25-12
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 25-13
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '1:31.0'
+    - ''
+    - ''
+    - 25-13
+    - ''
+    - B. Wells enters the game for S. Smith
+  - - '1:31.0'
+    - ''
+    - ''
+    - 25-14
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '1:16.0'
+    - J. McCoy makes 2-pt shot from 3 ft
+    - "+2"
+    - 27-14
+    - ''
+    - ''
+  - - '1:16.0'
+    - Shooting foul by D. Davis
+    - ''
+    - 27-14
+    - ''
+    - ''
+  - - '1:16.0'
+    - J. McCoy makes free throw 1 of 1
+    - "+1"
+    - 28-14
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 28-14
+    - ''
+    - Ill def tech foul by B. Barry
+  - - '1:04.0'
+    - ''
+    - ''
+    - 28-15
+    - "+1"
+    - D. Stoudamire makes free throw technical
+  - - '1:00.0'
+    - ''
+    - ''
+    - 28-17
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Kemp)
+  - - '0:37.8'
+    - V. Baker misses 2-pt shot at rim (block by S. Pippen)
+    - ''
+    - 28-17
+    - ''
+    - ''
+  - - '0:34.5'
+    - ''
+    - ''
+    - 28-17
+    - ''
+    - Defensive rebound by B. Wells
+  - - '0:27.8'
+    - ''
+    - ''
+    - 28-17
+    - ''
+    - Personal foul by S. Williams
+  - - '0:27.8'
+    - ''
+    - ''
+    - 28-18
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '0:27.8'
+    - ''
+    - ''
+    - 28-19
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '0:12.7'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 28-19
+    - ''
+    - ''
+  - - '0:12.7'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 29-19
+    - ''
+    - ''
+  - - '0:12.7'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 30-19
+    - ''
+    - ''
+  - - '0:02.8'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - D. Davis misses 2-pt shot at rim
+  - - '0:00.7'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - D. Davis misses 2-pt shot at rim
+  - - '0:00.7'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Offensive rebound by D. Davis
+  - - '0:00.2'
+    - Defensive rebound by S. Williams
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:44.0'
+    - V. Baker makes 2-pt shot at rim
+    - "+2"
+    - 32-19
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 32-21
+    - "+2"
+    - S. Kemp makes 2-pt shot from 3 ft
+  - - '11:01.0'
+    - B. Barry makes 3-pt shot from 25 ft (assist by V. Baker)
+    - "+3"
+    - 35-21
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 35-23
+    - "+2"
+    - B. Wells makes 2-pt shot from 21 ft
+  - - '10:22.0'
+    - V. Baker makes 2-pt shot at rim (assist by B. Barry)
+    - "+2"
+    - 37-23
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 37-23
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '10:06.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 37-23
+    - ''
+    - ''
+  - - '10:01.0'
+    - Shooting foul by S. Kemp
+    - ''
+    - 37-23
+    - ''
+    - ''
+  - - '10:01.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 38-23
+    - ''
+    - ''
+  - - '10:01.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 38-23
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - R. Wallace enters the game for D. Davis
+  - - '10:01.0'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 39-23
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 39-23
+    - ''
+    - Personal foul by S. Williams
+  - - '9:40.0'
+    - ''
+    - ''
+    - 39-25
+    - "+2"
+    - R. Wallace makes 2-pt shot from 20 ft (assist by S. Smith)
+  - - '9:24.0'
+    - S. Williams makes 2-pt shot at rim (assist by B. Barry)
+    - "+2"
+    - 41-25
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 41-25
+    - ''
+    - Turnover by S. Kemp (bad pass; steal by D. Mason)
+  - - '9:01.0'
+    - R. Patterson makes 2-pt shot at rim (assist by D. Mason)
+    - "+2"
+    - 43-25
+    - ''
+    - ''
+  - - '9:01.0'
+    - Shooting foul by G. Anthony
+    - ''
+    - 43-25
+    - ''
+    - ''
+  - - '9:01.0'
+    - R. Patterson makes free throw 1 of 1
+    - "+1"
+    - 44-25
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - S. Kemp misses 2-pt shot at rim
+  - - '8:47.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - Offensive rebound by Team
+  - - '8:47.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - Loose ball foul by D. Mason
+  - - '8:47.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - Official timeout
+  - - '8:47.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - S. Pippen enters the game for S. Kemp
+  - - '8:36.0'
+    - ''
+    - ''
+    - 44-25
+    - ''
+    - Personal foul by R. Patterson
+  - - '8:23.0'
+    - ''
+    - ''
+    - 44-27
+    - "+2"
+    - S. Smith makes 2-pt shot from 7 ft (assist by R. Wallace)
+  - - '8:05.0'
+    - Turnover by V. Baker (bad pass; steal by G. Anthony)
+    - ''
+    - 44-27
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 44-29
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by G. Anthony)
+  - - '7:38.0'
+    - V. Baker makes 2-pt shot from 3 ft (assist by S. Williams)
+    - "+2"
+    - 46-29
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 46-29
+    - ''
+    - G. Anthony misses 3-pt shot from 22 ft
+  - - '7:13.0'
+    - Defensive rebound by Team
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '7:13.0'
+    - Loose ball foul by G. Anthony
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '7:13.0'
+    - G. Payton enters the game for S. Williams
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '6:53.0'
+    - Turnover by D. Mason (lost ball; steal by B. Wells)
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 46-29
+    - ''
+    - Turnover by B. Wells (lost ball; steal by G. Payton)
+  - - '6:41.0'
+    - V. Baker misses 2-pt shot at rim
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '6:39.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 46-29
+    - ''
+    - ''
+  - - '6:38.0'
+    - G. Payton makes 2-pt shot from 5 ft (assist by R. Patterson)
+    - "+2"
+    - 48-29
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 48-29
+    - ''
+    - Personal foul by D. Mason
+  - - '6:23.0'
+    - ''
+    - ''
+    - 48-29
+    - ''
+    - B. Wells misses 2-pt shot from 20 ft
+  - - '6:21.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '6:05.0'
+    - B. Barry misses 3-pt shot from 25 ft
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by B. Barry
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '6:01.0'
+    - Shooting foul by B. Wells
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '6:01.0'
+    - Seattle full timeout
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '6:01.0'
+    - D. Mason makes free throw 1 of 2
+    - "+1"
+    - 49-29
+    - ''
+    - ''
+  - - '6:01.0'
+    - D. Mason misses free throw 2 of 2
+    - ''
+    - 49-29
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 49-29
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '5:45.0'
+    - ''
+    - ''
+    - 49-31
+    - "+2"
+    - R. Wallace makes 2-pt shot from 5 ft
+  - - '5:30.0'
+    - R. Patterson makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 51-31
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 51-31
+    - ''
+    - Technical foul by S. Pippen
+  - - '5:26.0'
+    - G. Payton makes free throw technical
+    - "+1"
+    - 52-31
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 52-31
+    - ''
+    - S. Pippen misses 2-pt shot from 9 ft
+  - - '5:13.0'
+    - ''
+    - ''
+    - 52-33
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '5:13.0'
+    - ''
+    - ''
+    - 52-33
+    - ''
+    - Offensive rebound by B. Wells
+  - - '4:52.0'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 52-33
+    - ''
+    - ''
+  - - '4:48.0'
+    - R. Patterson misses 2-pt shot at rim (block by R. Wallace)
+    - ''
+    - 52-33
+    - ''
+    - ''
+  - - '4:48.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 52-33
+    - ''
+    - ''
+  - - '4:45.0'
+    - R. Patterson makes 2-pt shot at rim
+    - "+2"
+    - 54-33
+    - ''
+    - ''
+  - - '4:45.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 54-33
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 54-33
+    - ''
+    - R. Wallace misses 2-pt shot at rim
+  - - '4:22.0'
+    - ''
+    - ''
+    - 54-35
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim
+  - - '4:22.0'
+    - ''
+    - ''
+    - 54-35
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '4:07.0'
+    - B. Barry makes 3-pt shot from 25 ft (assist by G. Payton)
+    - "+3"
+    - 57-35
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 57-38
+    - "+3"
+    - G. Anthony makes 3-pt shot from 24 ft (assist by S. Pippen)
+  - - '3:31.0'
+    - Personal foul by S. Smith
+    - ''
+    - 57-38
+    - ''
+    - ''
+  - - '3:31.0'
+    - J. McCoy enters the game for R. Patterson
+    - ''
+    - 57-38
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 57-38
+    - ''
+    - D. Stoudamire enters the game for G. Anthony
+  - - '3:31.0'
+    - B. Barry misses free throw 1 of 2
+    - ''
+    - 57-38
+    - ''
+    - ''
+  - - '3:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-38
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 57-38
+    - ''
+    - D. Davis enters the game for B. Wells
+  - - '3:31.0'
+    - B. Barry makes free throw 2 of 2
+    - "+1"
+    - 58-38
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 58-38
+    - ''
+    - Personal foul by B. Barry
+  - - '3:11.0'
+    - ''
+    - ''
+    - 58-38
+    - ''
+    - S. Pippen misses free throw 1 of 2
+  - - '3:11.0'
+    - ''
+    - ''
+    - 58-38
+    - ''
+    - Offensive rebound by Team
+  - - '3:11.0'
+    - ''
+    - ''
+    - 58-39
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '2:48.0'
+    - Turnover by V. Baker (3 second)
+    - ''
+    - 58-39
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 58-39
+    - ''
+    - Portland full timeout
+  - - '2:48.0'
+    - R. Lewis enters the game for D. Mason
+    - ''
+    - 58-39
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 58-39
+    - ''
+    - Personal foul by V. Baker
+  - - '2:36.0'
+    - ''
+    - ''
+    - 58-39
+    - ''
+    - D. Stoudamire misses free throw 1 of 2
+  - - '2:36.0'
+    - ''
+    - ''
+    - 58-39
+    - ''
+    - Offensive rebound by Team
+  - - '2:36.0'
+    - ''
+    - ''
+    - 58-40
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '2:24.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 60-40
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 60-40
+    - ''
+    - R. Wallace misses 2-pt shot from 5 ft (block by J. McCoy)
+  - - '2:09.0'
+    - ''
+    - ''
+    - 60-40
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '2:08.0'
+    - ''
+    - ''
+    - 60-40
+    - ''
+    - R. Wallace misses 2-pt shot from 4 ft
+  - - '2:06.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 60-40
+    - ''
+    - ''
+  - - '2:01.0'
+    - G. Payton misses 3-pt shot from 23 ft
+    - ''
+    - 60-40
+    - ''
+    - ''
+  - - '2:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 60-40
+    - ''
+    - ''
+  - - '2:00.0'
+    - Loose ball foul by S. Smith
+    - ''
+    - 60-40
+    - ''
+    - ''
+  - - '2:00.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 61-40
+    - ''
+    - ''
+  - - '2:00.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 62-40
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 62-40
+    - ''
+    - Personal foul by V. Baker
+  - - '1:42.0'
+    - ''
+    - ''
+    - 62-41
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '1:42.0'
+    - ''
+    - ''
+    - 62-42
+    - "+1"
+    - R. Wallace makes free throw 2 of 2
+  - - '1:19.0'
+    - G. Payton makes 2-pt shot from 20 ft
+    - "+2"
+    - 64-42
+    - ''
+    - ''
+  - - '0:59.7'
+    - ''
+    - ''
+    - 64-42
+    - ''
+    - D. Stoudamire misses 2-pt shot from 9 ft
+  - - '0:55.4'
+    - ''
+    - ''
+    - 64-44
+    - "+2"
+    - S. Smith makes 2-pt shot at rim
+  - - '0:55.4'
+    - ''
+    - ''
+    - 64-44
+    - ''
+    - Offensive rebound by S. Smith
+  - - '0:37.3'
+    - J. McCoy misses 2-pt shot from 4 ft
+    - ''
+    - 64-44
+    - ''
+    - ''
+  - - '0:35.0'
+    - ''
+    - ''
+    - 64-44
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '0:18.6'
+    - ''
+    - ''
+    - 64-46
+    - "+2"
+    - D. Davis makes 2-pt shot from 5 ft
+  - - '0:01.9'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 64-46
+    - ''
+    - ''
+  - - '0:00.3'
+    - B. Barry misses 2-pt shot from 20 ft
+    - ''
+    - 64-46
+    - ''
+    - ''
+  - - '0:00.3'
+    - Offensive rebound by B. Barry
+    - ''
+    - 64-46
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-46
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - P. Ewing misses 2-pt shot from 12 ft
+    - ''
+    - 64-46
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 64-46
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '11:17.0'
+    - ''
+    - ''
+    - 64-49
+    - "+3"
+    - S. Pippen makes 3-pt shot from 23 ft (assist by D. Stoudamire)
+  - - '11:02.0'
+    - Turnover by G. Payton (bad pass; steal by D. Stoudamire)
+    - ''
+    - 64-49
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 64-49
+    - ''
+    - D. Davis misses 2-pt shot at rim
+  - - '10:52.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 64-49
+    - ''
+    - ''
+  - - '10:42.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 64-49
+    - ''
+    - ''
+  - - '10:42.0'
+    - E. Davis misses free throw 1 of 2
+    - ''
+    - 64-49
+    - ''
+    - ''
+  - - '10:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-49
+    - ''
+    - ''
+  - - '10:42.0'
+    - E. Davis makes free throw 2 of 2
+    - "+1"
+    - 65-49
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 65-49
+    - ''
+    - S. Pippen misses 3-pt shot from 25 ft
+  - - '10:20.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 65-49
+    - ''
+    - ''
+  - - '10:13.0'
+    - G. Payton makes 2-pt shot from 20 ft
+    - "+2"
+    - 67-49
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 67-49
+    - ''
+    - D. Stoudamire misses 2-pt shot from 19 ft
+  - - '9:55.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 67-49
+    - ''
+    - ''
+  - - '9:49.0'
+    - R. Lewis misses 3-pt shot from 24 ft
+    - ''
+    - 67-49
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 67-49
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '9:41.0'
+    - ''
+    - ''
+    - 67-49
+    - ''
+    - Personal foul by J. McCoy
+  - - '9:28.0'
+    - ''
+    - ''
+    - 67-49
+    - ''
+    - Shooting foul by J. McCoy
+  - - '9:28.0'
+    - ''
+    - ''
+    - 67-50
+    - "+1"
+    - R. Wallace makes free throw 1 of 2
+  - - '9:28.0'
+    - ''
+    - ''
+    - 67-50
+    - ''
+    - R. Wallace misses free throw 2 of 2
+  - - '9:27.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 67-50
+    - ''
+    - ''
+  - - '9:14.0'
+    - E. Davis misses 3-pt shot from 24 ft
+    - ''
+    - 67-50
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 67-50
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '9:01.0'
+    - ''
+    - ''
+    - 67-52
+    - "+2"
+    - D. Stoudamire makes 2-pt shot from 18 ft
+  - - '8:59.0'
+    - Seattle full timeout
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '8:54.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '8:38.0'
+    - Turnover by P. Ewing (bad pass; steal by R. Wallace)
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 67-52
+    - ''
+    - S. Pippen misses 2-pt shot at rim
+  - - '8:30.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '8:20.0'
+    - J. McCoy misses 2-pt shot from 4 ft (block by R. Wallace)
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 67-52
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '8:01.0'
+    - ''
+    - ''
+    - 67-52
+    - ''
+    - R. Wallace misses 2-pt shot from 17 ft
+  - - '7:59.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '7:52.0'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 67-52
+    - ''
+    - ''
+  - - '7:50.0'
+    - R. Lewis makes 2-pt shot at rim
+    - "+2"
+    - 69-52
+    - ''
+    - ''
+  - - '7:50.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 69-52
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 69-55
+    - "+3"
+    - D. Stoudamire makes 3-pt shot from 24 ft (assist by D. Davis)
+  - - '7:06.0'
+    - P. Ewing misses 2-pt shot from 19 ft
+    - ''
+    - 69-55
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 69-55
+    - ''
+    - Defensive rebound by Team
+  - - '6:49.0'
+    - ''
+    - ''
+    - 69-55
+    - ''
+    - D. Stoudamire misses 2-pt shot from 18 ft
+  - - '6:47.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 69-55
+    - ''
+    - ''
+  - - '6:28.0'
+    - P. Ewing makes 2-pt shot from 3 ft (assist by G. Payton)
+    - "+2"
+    - 71-55
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - Shooting foul by E. Davis
+  - - '6:15.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - D. Stoudamire misses free throw 1 of 2
+  - - '6:15.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - D. Stoudamire misses free throw 2 of 2
+  - - '6:15.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - Offensive rebound by Team
+  - - '6:15.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 71-55
+    - ''
+    - ''
+  - - '5:53.0'
+    - E. Davis misses 2-pt shot at rim
+    - ''
+    - 71-55
+    - ''
+    - ''
+  - - '5:50.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 71-55
+    - ''
+    - ''
+  - - '5:45.0'
+    - P. Ewing misses 2-pt shot from 5 ft
+    - ''
+    - 71-55
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - Defensive rebound by S. Smith
+  - - '5:24.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - S. Pippen misses 3-pt shot from 24 ft
+  - - '5:22.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - Offensive rebound by D. Davis
+  - - '5:16.0'
+    - ''
+    - ''
+    - 71-55
+    - ''
+    - Shooting foul by J. McCoy
+  - - '5:16.0'
+    - ''
+    - ''
+    - 71-56
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '5:16.0'
+    - ''
+    - ''
+    - 71-57
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '4:51.0'
+    - E. Davis misses 2-pt shot from 20 ft
+    - ''
+    - 71-57
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 71-57
+    - ''
+    - Defensive rebound by D. Davis
+  - - '4:46.0'
+    - ''
+    - ''
+    - 71-57
+    - ''
+    - S. Pippen misses 2-pt shot from 22 ft
+  - - '4:45.0'
+    - ''
+    - ''
+    - 71-57
+    - ''
+    - Offensive rebound by S. Pippen
+  - - '4:40.0'
+    - ''
+    - ''
+    - 71-60
+    - "+3"
+    - S. Smith makes 3-pt shot from 25 ft (assist by S. Pippen)
+  - - '4:16.0'
+    - R. Lewis misses 2-pt shot from 17 ft (block by R. Wallace)
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - Defensive rebound by D. Davis
+  - - '4:10.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - S. Smith misses 3-pt shot from 24 ft
+  - - '4:09.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - Offensive rebound by D. Davis
+  - - '4:03.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - R. Wallace misses 2-pt shot from 9 ft
+  - - '4:01.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '3:53.0'
+    - G. Payton misses 3-pt shot from 24 ft
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '3:33.0'
+    - ''
+    - ''
+    - 71-60
+    - ''
+    - S. Pippen misses 3-pt shot from 27 ft
+  - - '3:30.0'
+    - Defensive rebound by Team
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '3:30.0'
+    - R. Patterson enters the game for J. McCoy
+    - ''
+    - 71-60
+    - ''
+    - ''
+  - - '3:13.0'
+    - E. Davis makes 3-pt shot from 23 ft (assist by G. Payton)
+    - "+3"
+    - 74-60
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - Portland full timeout
+  - - '3:03.0'
+    - ''
+    - ''
+    - 74-60
+    - ''
+    - B. Wells enters the game for S. Pippen
+  - - '2:49.0'
+    - ''
+    - ''
+    - 74-62
+    - "+2"
+    - R. Wallace makes 2-pt shot from 18 ft
+  - - '2:30.0'
+    - G. Payton makes 2-pt shot from 23 ft
+    - "+2"
+    - 76-62
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 76-62
+    - ''
+    - Personal foul by E. Davis
+  - - '2:21.0'
+    - ''
+    - ''
+    - 76-63
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '2:21.0'
+    - V. Baker enters the game for P. Ewing
+    - ''
+    - 76-63
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 76-64
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '2:13.0'
+    - Turnover by R. Lewis (bad pass; steal by B. Wells)
+    - ''
+    - 76-64
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - Personal foul by G. Payton
+  - - '1:59.0'
+    - ''
+    - ''
+    - 76-65
+    - "+1"
+    - D. Davis makes free throw 1 of 2
+  - - '1:59.0'
+    - ''
+    - ''
+    - 76-66
+    - "+1"
+    - D. Davis makes free throw 2 of 2
+  - - '1:44.0'
+    - E. Davis misses 3-pt shot from 25 ft
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '1:24.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - D. Davis misses 2-pt shot from 11 ft
+  - - '1:22.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:16.0'
+    - B. Barry enters the game for E. Davis
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - S. Kemp enters the game for R. Wallace
+  - - '1:16.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - S. Pippen enters the game for D. Davis
+  - - '1:05.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:05.0'
+    - R. Patterson misses free throw 1 of 2
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:05.0'
+    - R. Patterson misses free throw 2 of 2
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '0:53.6'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - D. Stoudamire misses 3-pt shot from 26 ft
+  - - '0:50.4'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '0:50.4'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Offensive rebound by B. Wells
+  - - '0:49.4'
+    - ''
+    - ''
+    - 76-68
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '0:49.4'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Offensive rebound by B. Wells
+  - - '0:32.3'
+    - R. Patterson misses 2-pt shot at rim
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:29.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '0:06.2'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - S. Smith misses 2-pt shot at rim (block by V. Baker)
+  - - '0:02.8'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - D. Stoudamire misses 2-pt shot from 6 ft
+  - - '0:02.8'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Offensive rebound by D. Stoudamire
+  - - '0:01.8'
+    - Defensive rebound by V. Baker
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:00.2'
+    - Turnover by V. Baker (bad pass)
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - R. Wallace misses 2-pt shot from 6 ft
+  - - '11:40.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Technical foul by Team
+  - - '11:35.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Technical foul by Team
+  - - '11:35.0'
+    - Team ejected from game
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '11:35.0'
+    - G. Payton makes free throw technical
+    - "+1"
+    - 77-68
+    - ''
+    - ''
+  - - '11:35.0'
+    - G. Payton makes free throw technical
+    - "+1"
+    - 78-68
+    - ''
+    - ''
+  - - '11:35.0'
+    - S. Williams enters the game for G. Payton
+    - ''
+    - 78-68
+    - ''
+    - ''
+  - - '11:20.0'
+    - Turnover by V. Baker (lost ball; steal by G. Anthony)
+    - ''
+    - 78-68
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 78-68
+    - ''
+    - G. Anthony misses 2-pt shot at rim
+  - - '11:11.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 78-68
+    - ''
+    - ''
+  - - '10:51.0'
+    - R. Patterson makes 2-pt shot from 21 ft (assist by S. Williams)
+    - "+2"
+    - 80-68
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 80-68
+    - ''
+    - B. Wells misses 2-pt shot from 3 ft
+  - - '10:31.0'
+    - ''
+    - ''
+    - 80-68
+    - ''
+    - R. Wallace misses 2-pt shot at rim
+  - - '10:31.0'
+    - ''
+    - ''
+    - 80-68
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '10:29.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 80-68
+    - ''
+    - ''
+  - - '10:22.0'
+    - R. Lewis makes 2-pt shot from 20 ft (assist by S. Williams)
+    - "+2"
+    - 82-68
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 82-68
+    - ''
+    - Portland full timeout
+  - - '10:01.0'
+    - ''
+    - ''
+    - 82-68
+    - ''
+    - Turnover by R. Wallace (bad pass; steal by R. Patterson)
+  - - '9:43.0'
+    - S. Williams misses 2-pt shot at rim
+    - ''
+    - 82-68
+    - ''
+    - ''
+  - - '9:40.0'
+    - V. Baker makes 2-pt shot at rim
+    - "+2"
+    - 84-68
+    - ''
+    - ''
+  - - '9:40.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 84-68
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 84-68
+    - ''
+    - Turnover by S. Kemp (lost ball)
+  - - '9:13.0'
+    - Turnover by S. Williams (lost ball; steal by B. Wells)
+    - ''
+    - 84-68
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 84-68
+    - ''
+    - Turnover by B. Wells (bad pass)
+  - - '8:52.0'
+    - S. Williams misses 2-pt shot from 18 ft
+    - ''
+    - 84-68
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 84-68
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '8:45.0'
+    - ''
+    - ''
+    - 84-68
+    - ''
+    - B. Wells misses 2-pt shot at rim (block by S. Williams)
+  - - '8:42.0'
+    - ''
+    - ''
+    - 84-70
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '8:42.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - Offensive rebound by B. Wells
+  - - '8:34.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '8:34.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - D. Stoudamire enters the game for G. Anthony
+  - - '8:16.0'
+    - B. Barry misses 2-pt shot from 22 ft
+    - ''
+    - 84-70
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '8:09.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim (block by V. Baker)
+  - - '8:04.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 84-70
+    - ''
+    - ''
+  - - '7:47.0'
+    - Personal foul by S. Kemp
+    - ''
+    - 84-70
+    - ''
+    - ''
+  - - '7:44.0'
+    - Turnover by V. Baker (lost ball; steal by S. Kemp)
+    - ''
+    - 84-70
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 84-70
+    - ''
+    - Shooting foul by V. Baker
+  - - '7:39.0'
+    - ''
+    - ''
+    - 84-71
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '7:39.0'
+    - G. Payton enters the game for R. Lewis
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 84-72
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '7:19.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 84-72
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 84-72
+    - ''
+    - B. Wells enters the game for S. Pippen
+  - - '7:19.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 85-72
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 85-72
+    - ''
+    - D. Davis enters the game for S. Kemp
+  - - '7:19.0'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 86-72
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 86-72
+    - ''
+    - D. Davis misses 2-pt shot at rim (block by R. Patterson)
+  - - '6:58.0'
+    - ''
+    - ''
+    - 86-72
+    - ''
+    - Offensive rebound by Team
+  - - '6:56.0'
+    - ''
+    - ''
+    - 86-72
+    - ''
+    - Turnover by B. Wells (bad pass; steal by G. Payton)
+  - - '6:53.0'
+    - S. Williams makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 88-72
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 88-72
+    - ''
+    - Shooting foul by R. Patterson
+  - - '6:32.0'
+    - ''
+    - ''
+    - 88-73
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '6:32.0'
+    - ''
+    - ''
+    - 88-74
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '6:12.0'
+    - V. Baker misses 2-pt shot from 21 ft
+    - ''
+    - 88-74
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 88-74
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '5:48.0'
+    - ''
+    - ''
+    - 88-76
+    - "+2"
+    - R. Wallace makes 2-pt shot from 9 ft (assist by D. Stoudamire)
+  - - '5:26.0'
+    - G. Payton makes 2-pt shot from 8 ft
+    - "+2"
+    - 90-76
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 90-78
+    - "+2"
+    - B. Wells makes 2-pt shot from 12 ft (assist by S. Smith)
+  - - '4:47.0'
+    - V. Baker misses 2-pt shot at rim
+    - ''
+    - 90-78
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 90-78
+    - ''
+    - Defensive rebound by D. Davis
+  - - '4:41.0'
+    - ''
+    - ''
+    - 90-78
+    - ''
+    - D. Stoudamire misses 3-pt shot from 24 ft
+  - - '4:38.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 90-78
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 90-78
+    - ''
+    - Technical foul by B. Wells
+  - - '4:38.0'
+    - B. Wells ejected from game
+    - ''
+    - 90-78
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 90-78
+    - ''
+    - S. Pippen enters the game for B. Wells
+  - - '4:38.0'
+    - Official timeout
+    - ''
+    - 90-78
+    - ''
+    - ''
+  - - '4:38.0'
+    - G. Payton makes free throw technical
+    - "+1"
+    - 91-78
+    - ''
+    - ''
+  - - '4:14.0'
+    - R. Patterson misses 2-pt shot from 8 ft
+    - ''
+    - 91-78
+    - ''
+    - ''
+  - - '4:12.0'
+    - V. Baker misses 2-pt shot at rim
+    - ''
+    - 91-78
+    - ''
+    - ''
+  - - '4:12.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 91-78
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 91-78
+    - ''
+    - Defensive rebound by D. Davis
+  - - '4:03.0'
+    - ''
+    - ''
+    - 91-81
+    - "+3"
+    - S. Pippen makes 3-pt shot from 25 ft (assist by R. Wallace)
+  - - '3:39.0'
+    - R. Patterson makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 93-81
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 93-81
+    - ''
+    - Turnover by S. Pippen (lost ball; steal by S. Williams)
+  - - '3:24.0'
+    - B. Barry makes 2-pt shot at rim (assist by R. Patterson)
+    - "+2"
+    - 95-81
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 95-81
+    - ''
+    - Personal foul by V. Baker
+  - - '3:10.0'
+    - R. Lewis enters the game for R. Patterson
+    - ''
+    - 95-81
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 95-84
+    - "+3"
+    - R. Wallace makes 3-pt shot from 25 ft (assist by D. Stoudamire)
+  - - '2:42.0'
+    - R. Lewis misses 2-pt shot from 18 ft
+    - ''
+    - 95-84
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '2:35.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - S. Pippen misses 3-pt shot from 25 ft
+  - - '2:33.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - Offensive rebound by Team
+  - - '2:33.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - Portland full timeout
+  - - '2:24.0'
+    - ''
+    - ''
+    - 95-86
+    - "+2"
+    - R. Wallace makes 2-pt shot from 23 ft (assist by D. Stoudamire)
+  - - '2:00.0'
+    - R. Lewis makes 3-pt shot from 23 ft (assist by S. Williams)
+    - "+3"
+    - 98-86
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 98-86
+    - ''
+    - D. Stoudamire misses 3-pt shot from 26 ft
+  - - '1:48.0'
+    - ''
+    - ''
+    - 98-86
+    - ''
+    - Offensive rebound by S. Smith
+  - - '1:47.0'
+    - ''
+    - ''
+    - 98-86
+    - ''
+    - Turnover by S. Smith (bad pass; steal by S. Williams)
+  - - '1:38.0'
+    - V. Baker makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 100-86
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 100-86
+    - ''
+    - Portland full timeout
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-86
+    - ''
+    - Shooting foul by G. Payton
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-87
+    - "+1"
+    - S. Smith makes free throw 1 of 3
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-88
+    - "+1"
+    - S. Smith makes free throw 2 of 3
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-89
+    - "+1"
+    - S. Smith makes free throw 3 of 3
+  - - '1:21.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:06.0'
+    - B. Barry misses 3-pt shot from 25 ft
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:00.0'
+    - Personal foul by S. Smith
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:00.0'
+    - G. Payton misses free throw 1 of 2
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '1:00.0'
+    - G. Payton makes free throw 2 of 2
+    - "+1"
+    - 101-89
+    - ''
+    - ''
+  - - '0:53.4'
+    - ''
+    - ''
+    - 101-89
+    - ''
+    - S. Smith misses 3-pt shot from 25 ft
+  - - '0:51.9'
+    - Defensive rebound by G. Payton
+    - ''
+    - 101-89
+    - ''
+    - ''
+  - - '0:35.3'
+    - Personal foul by R. Wallace
+    - ''
+    - 101-89
+    - ''
+    - ''
+  - - '0:35.3'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 102-89
+    - ''
+    - ''
+  - - '0:35.3'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 103-89
+    - ''
+    - ''
+  - - '0:27.6'
+    - ''
+    - ''
+    - 103-91
+    - "+2"
+    - S. Pippen makes 2-pt shot from 17 ft
+  - - '0:07.0'
+    - R. Lewis makes 2-pt shot from 10 ft
+    - "+2"
+    - 105-91
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 105-93
+    - "+2"
+    - S. Smith makes 2-pt shot at rim (assist by S. Pippen)
+  - - '0:00.0'
+    - End of 4th quarter

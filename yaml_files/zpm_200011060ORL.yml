@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: -14&#9642;Off: +3&#9642;Net: -17)'
+    - |2-
+
+      0
+    - 249/0
+    - 159/
+    - 25/+1
+    - 65/
+    - 234/-9
+    - 150/
+    - 88/-6
+    - 26/
+    - 'Patrick Ewing (On: -10&#9642;Off: -1&#9642;Net: -9)'
+    - |2-
+
+      0
+    - 178/0
+    - 179/
+    - 141/+4
+    - 181/-9
+    - 143/
+    - 126/-5
+    - 49/
+    - 'Rashard Lewis (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - |2-
+
+      -2
+    - 123/-2
+    - 168/
+    - 192/+6
+    - 16/
+    - 249/-11
+    - 46/+1
+    - 52/
+    - 150/-3
+    - 'Desmond Mason (On: -5&#9642;Off: -6&#9642;Net: +1)'
+    - |2-
+
+      0
+    - 199/0
+    - 183/
+    - 116/+5
+    - 111/-7
+    - 185/
+    - 46/-3
+    - 157/
+    - 'Gary Payton (On: -11&#9642;Off: 0&#9642;Net: -11)'
+    - |2-
+
+      0
+    - 250/0
+    - 134/
+    - 116/+5
+    - 250/-11
+    - 249/-5
+    - 'Ruben Patterson (On: +5&#9642;Off: -16&#9642;Net: +21)'
+    - "\n"
+    - 124/
+    - 124/+2
+    - 40/-1
+    - 148/
+    - 60/+4
+    - 237/
+    - 12/-2
+    - 132/+1
+    - 70/
+    - 47/+1
+    - 'Ruben Wolkowyski (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - "\n"
+    - 183/
+    - 66/0
+    - 104/+1
+    - 133/
+    - 12/0
+    - 184/
+    - 64/-2
+    - 71/-1
+    - 178/
+    - 'Shammond Williams (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 201/
+    - 49/0
+    - 130/0
+    - 238/
+    - 131/-4
+    - 249/-5
+    - 'Emanual Davis (On: 0&#9642;Off: -11&#9642;Net: +11)'
+    - "\n"
+    - 250/
+    - 130/0
+    - 621/
+    - 'Jelani McCoy (On: 0&#9642;Off: -11&#9642;Net: +11)'
+    - "\n"
+    - 250/
+    - 157/0
+    - 594/
+    - 'Pervis Ellison (On: 0&#9642;Off: -11&#9642;Net: +11)'
+    - "\n"
+    - 984/
+    - 18/0
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'John Amaechi (On: +7&#9642;Off: +4&#9642;Net: +3)'
+    - |2-
+
+      0
+    - 199/0
+    - 140/
+    - 160/-2
+    - 234/+9
+    - 266/
+    - 'Darrell Armstrong (On: +14&#9642;Off: -3&#9642;Net: +17)'
+    - |2-
+
+      0
+    - 250/0
+    - 89/
+    - 160/-2
+    - 249/+11
+    - 0/
+    - 250/+5
+    - 'Tracy McGrady (On: +12&#9642;Off: -1&#9642;Net: +13)'
+    - |2-
+
+      0
+    - 250/0
+    - 108/
+    - 141/-4
+    - 250/+11
+    - 233/+5
+    - 16/
+    - 'Mike Miller (On: +13&#9642;Off: -2&#9642;Net: +15)'
+    - |2-
+
+      0
+    - 199/0
+    - 239/
+    - 61/-4
+    - 250/+11
+    - 103/
+    - 146/+6
+    - 'Don Reid (On: +8&#9642;Off: +3&#9642;Net: +5)'
+    - |2-
+
+      +3
+    - 87/+3
+    - 322/
+    - 60/-2
+    - 30/
+    - 151/+7
+    - 348/
+    - 'Bo Outlaw (On: +2&#9642;Off: +9&#9642;Net: -7)'
+    - "\n"
+    - 88/
+    - 162/-3
+    - 104/-1
+    - 498/
+    - 147/+6
+    - 'Michael Doleac (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - "\n"
+    - 201/
+    - 49/0
+    - 87/-3
+    - 397/
+    - 15/+2
+    - 249/+5
+    - 'Monty Williams (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - "\n"
+    - 201/
+    - 49/0
+    - 185/-1
+    - 555/
+    - 9/0
+    - 'Pat Garrity (On: 0&#9642;Off: +11&#9642;Net: -11)'
+    - "\n"
+    - 249/
+    - 157/0
+    - 65/
+    - 27/-3
+    - 156/
+    - 93/+4
+    - 99/-1
+    - 150/
+    - 'Troy Hudson (On: -3&#9642;Off: +14&#9642;Net: -17)'
+    - "\n"
+    - 250/
+    - 87/-3
+    - 664/
+    - 'Elliot Perry (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - "\n"
+    - 751/
+    - 99/-1
+    - 151/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

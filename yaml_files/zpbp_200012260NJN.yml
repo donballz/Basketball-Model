@@ -1,0 +1,2824 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Williams vs. D. Mutombo (K. Gill gains possession)'
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by K. Martin (lost ball)
+  - - '11:20.0'
+    - Turnover by L. Wright (3 second)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - K. Gill misses 2-pt shot at rim
+  - - '11:05.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:49.0'
+    - L. Wright makes 2-pt shot from 15 ft (assist by R. McLeod)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - S. Marbury misses 2-pt shot from 20 ft
+  - - '10:33.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:15.0'
+    - Turnover by M. Maloney (bad pass; steal by K. Martin)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - K. Martin makes 2-pt shot at rim
+  - - '10:01.0'
+    - Personal foul by K. Gill
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:53.0'
+    - M. Maloney misses 2-pt shot from 16 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by K. Martin
+  - - '9:31.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - S. Jackson misses 2-pt shot at rim
+  - - '9:29.0'
+    - Defensive rebound by R. McLeod
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:24.0'
+    - J. Terry misses 2-pt shot from 15 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by A. Williams
+  - - '9:18.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - S. Jackson makes 2-pt shot at rim (assist by A. Williams)
+  - - '9:04.0'
+    - L. Wright makes 2-pt shot from 14 ft (assist by M. Maloney)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Turnover by S. Marbury (bad pass)
+  - - '8:38.0'
+    - Turnover by J. Terry (lost ball; steal by A. Williams)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - S. Jackson makes 2-pt shot at rim (assist by S. Marbury)
+  - - '8:11.0'
+    - J. Terry misses 2-pt shot from 20 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:09.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:08.0'
+    - D. Mutombo makes 2-pt shot at rim
+    - "+2"
+    - 6-6
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 6-8
+    - "+2"
+    - K. Gill makes 2-pt shot from 17 ft
+  - - '7:34.0'
+    - L. Wright makes 2-pt shot from 16 ft (assist by R. McLeod)
+    - "+2"
+    - 8-8
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - K. Gill misses 2-pt shot from 20 ft
+  - - '7:22.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:15.0'
+    - R. McLeod misses 2-pt shot from 10 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by A. Williams
+  - - '6:52.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - S. Jackson misses 2-pt shot from 14 ft
+  - - '6:50.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:43.0'
+    - L. Wright misses 2-pt shot from 14 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by A. Williams
+  - - '6:35.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - S. Jackson makes 2-pt shot at rim (assist by S. Marbury)
+  - - '6:26.0'
+    - Atlanta full timeout
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '6:13.0'
+    - R. McLeod makes 2-pt shot from 19 ft (assist by J. Terry)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - S. Jackson misses 3-pt shot from 24 ft
+  - - '5:46.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '5:30.0'
+    - M. Maloney misses 2-pt shot from 19 ft
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Defensive rebound by K. Martin
+  - - '5:26.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Turnover by K. Martin (lost ball; steal by D. Mutombo)
+  - - '5:21.0'
+    - J. Terry makes 2-pt shot from 17 ft (assist by M. Maloney)
+    - "+2"
+    - 12-10
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - K. Martin makes 2-pt shot from 18 ft (assist by S. Marbury)
+  - - '4:42.0'
+    - Turnover by R. McLeod (lost ball; steal by K. Gill)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '4:36.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - S. Jackson misses 2-pt shot from 19 ft
+  - - '4:34.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Offensive rebound by A. Williams
+  - - '4:27.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - S. Marbury misses 2-pt shot at rim
+  - - '4:25.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '4:09.0'
+    - L. Wright misses 2-pt shot from 13 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Defensive rebound by S. Jackson
+  - - '3:52.0'
+    - ''
+    - ''
+    - 12-15
+    - "+3"
+    - S. Jackson makes 3-pt shot from 25 ft (assist by S. Marbury)
+  - - '3:27.0'
+    - M. Maloney makes 2-pt shot from 18 ft (assist by J. Terry)
+    - "+2"
+    - 14-15
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - K. Martin misses 2-pt shot at rim (block by D. Mutombo)
+  - - '3:06.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Offensive rebound by Team
+  - - '3:06.0'
+    - H. Mottola enters the game for R. McLeod
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '3:06.0'
+    - J. Jackson enters the game for L. Wright
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - K. Martin misses 2-pt shot from 16 ft
+  - - '3:02.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:58.0'
+    - Atlanta full timeout
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:45.0'
+    - Personal foul by S. Marbury
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:34.0'
+    - J. Terry misses 3-pt shot from 27 ft
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:31.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Defensive rebound by A. Williams
+  - - '2:21.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - S. Jackson misses 3-pt shot from 26 ft
+  - - '2:19.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:04.0'
+    - Turnover by D. Mutombo (bad pass; steal by K. Martin)
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 14-17
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim (assist by K. Gill)
+  - - '1:43.0'
+    - J. Terry misses 2-pt shot from 11 ft (block by K. Martin)
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Defensive rebound by A. Williams
+  - - '1:31.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - S. Jackson misses 2-pt shot from 9 ft
+  - - '1:29.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:17.0'
+    - M. Maloney misses 3-pt shot from 25 ft
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Defensive rebound by S. Marbury
+  - - '1:10.0'
+    - ''
+    - ''
+    - 14-19
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '0:47.9'
+    - J. Terry makes 2-pt shot from 14 ft
+    - "+2"
+    - 16-19
+    - ''
+    - ''
+  - - '0:30.6'
+    - ''
+    - ''
+    - 16-19
+    - ''
+    - K. Gill misses 2-pt shot from 11 ft
+  - - '0:29.0'
+    - Defensive rebound by Team
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:29.0'
+    - Loose ball foul by A. Williams
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:05.2'
+    - H. Mottola misses 2-pt shot from 17 ft
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:04.3'
+    - Offensive rebound by J. Jackson
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '0:03.7'
+    - J. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 18-19
+    - ''
+    - ''
+  - - '0:01.2'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - S. Marbury misses 3-pt shot from 36 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - J. Jackson misses 2-pt shot from 14 ft (block by K. Martin)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '11:38.0'
+    - Offensive rebound by J. Jackson
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '11:36.0'
+    - J. Jackson misses 2-pt shot from 15 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by A. Williams
+  - - '11:34.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Turnover by A. Williams (out of bounds)
+  - - '11:24.0'
+    - Turnover by H. Mottola (bad pass)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Personal foul by A. Johnson
+  - - '11:09.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '11:07.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '11:02.0'
+    - Turnover by H. Mottola (lost ball)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - J. Newman misses 2-pt shot from 18 ft
+  - - '10:38.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '10:31.0'
+    - J. Terry misses 2-pt shot from 18 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by L. Harris
+  - - '10:20.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - S. Douglas enters the game for S. Marbury
+  - - '10:20.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - V. Stepania enters the game for K. Martin
+  - - '10:20.0'
+    - L. Robinson enters the game for J. Terry
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '10:20.0'
+    - 'Jump ball: A. Williams vs. L. Wright (L. Robinson gains possession)'
+  - - '10:17.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Turnover by A. Williams (lost ball; steal by L. Wright)
+  - - '10:09.0'
+    - Offensive foul by H. Mottola
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '10:09.0'
+    - Turnover by H. Mottola (foul)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Shooting foul by L. Wright
+  - - '9:54.0'
+    - ''
+    - ''
+    - 18-20
+    - "+1"
+    - A. Williams makes free throw 1 of 2
+  - - '9:54.0'
+    - ''
+    - ''
+    - 18-21
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '9:34.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - E. Eschmeyer enters the game for A. Williams
+  - - '9:34.0'
+    - L. Robinson makes free throw 1 of 2
+    - "+1"
+    - 19-21
+    - ''
+    - ''
+  - - '9:34.0'
+    - R. McLeod enters the game for J. Jackson
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '9:34.0'
+    - D. Mutombo enters the game for H. Mottola
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '9:34.0'
+    - L. Robinson makes free throw 2 of 2
+    - "+1"
+    - 20-21
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - J. Newman misses 2-pt shot from 15 ft
+  - - '9:13.0'
+    - 'Jump ball: V. Stepania vs. A. Johnson (D. Mutombo gains possession)'
+  - - '9:13.0'
+    - Defensive rebound by Team
+    - ''
+    - 20-21
+    - ''
+    - ''
+  - - '8:56.0'
+    - A. Johnson misses 2-pt shot from 18 ft
+    - ''
+    - 20-21
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Defensive rebound by V. Stepania
+  - - '8:46.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Personal foul by L. Robinson
+  - - '8:46.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Official timeout
+  - - '8:33.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Turnover by E. Eschmeyer (3 second)
+  - - '8:20.0'
+    - R. McLeod makes 2-pt shot from 11 ft (assist by L. Robinson)
+    - "+2"
+    - 22-21
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - J. Newman misses 2-pt shot at rim
+  - - '8:04.0'
+    - Defensive rebound by R. McLeod
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '7:59.0'
+    - Personal foul by V. Stepania
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '7:47.0'
+    - L. Robinson misses 3-pt shot from 26 ft
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - Defensive rebound by L. Harris
+  - - '7:37.0'
+    - ''
+    - ''
+    - 22-24
+    - "+3"
+    - L. Harris makes 3-pt shot from 26 ft (assist by J. Newman)
+  - - '7:15.0'
+    - Personal foul by E. Eschmeyer
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '7:15.0'
+    - M. Maloney enters the game for A. Johnson
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '7:15.0'
+    - J. Terry enters the game for L. Robinson
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '7:01.0'
+    - M. Maloney misses 3-pt shot from 25 ft
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 22-24
+    - ''
+    - Defensive rebound by Team
+  - - '6:46.0'
+    - ''
+    - ''
+    - 22-26
+    - "+2"
+    - L. Harris makes 2-pt shot from 16 ft (assist by S. Douglas)
+  - - '6:46.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Shooting foul by J. Terry
+  - - '6:46.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - L. Harris misses free throw 1 of 1
+  - - '6:45.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Offensive rebound by V. Stepania
+  - - '6:42.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - E. Eschmeyer misses 2-pt shot at rim (block by D. Mutombo)
+  - - '6:40.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Offensive rebound by E. Eschmeyer
+  - - '6:38.0'
+    - ''
+    - ''
+    - 22-29
+    - "+3"
+    - S. Douglas makes 3-pt shot from 24 ft (assist by E. Eschmeyer)
+  - - '6:15.0'
+    - L. Wright makes 2-pt shot from 14 ft (assist by R. McLeod)
+    - "+2"
+    - 24-29
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 24-29
+    - ''
+    - S. Douglas misses 2-pt shot from 22 ft
+  - - '6:01.0'
+    - ''
+    - ''
+    - 24-29
+    - ''
+    - Offensive rebound by L. Harris
+  - - '6:00.0'
+    - ''
+    - ''
+    - 24-29
+    - ''
+    - L. Harris misses 2-pt shot at rim
+  - - '5:58.0'
+    - Defensive rebound by R. McLeod
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '5:53.0'
+    - L. Wright makes 2-pt shot from 19 ft (assist by M. Maloney)
+    - "+2"
+    - 26-29
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - V. Stepania misses 2-pt shot from 18 ft
+  - - '5:31.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '5:17.0'
+    - L. Wright misses 2-pt shot from 7 ft (block by V. Stepania)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Defensive rebound by V. Stepania
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Personal foul by R. McLeod
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - New Jersey full timeout
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - A. Williams enters the game for E. Eschmeyer
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - K. Martin enters the game for V. Stepania
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-30
+    - "+1"
+    - J. Newman makes free throw 1 of 2
+  - - '5:08.0'
+    - ''
+    - ''
+    - 26-31
+    - "+1"
+    - J. Newman makes free throw 2 of 2
+  - - '4:48.0'
+    - L. Wright misses 2-pt shot from 17 ft
+    - ''
+    - 26-31
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - Defensive rebound by S. Douglas
+  - - '4:30.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - J. Newman misses 2-pt shot from 19 ft
+  - - '4:28.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - Offensive rebound by A. Williams
+  - - '4:21.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - K. Martin misses 2-pt shot from 11 ft
+  - - '4:19.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 26-31
+    - ''
+    - ''
+  - - '4:12.0'
+    - Turnover by M. Maloney (bad pass; steal by S. Douglas)
+    - ''
+    - 26-31
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - Shooting foul by J. Terry
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - S. Marbury enters the game for S. Douglas
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - S. Jackson enters the game for J. Newman
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-32
+    - "+1"
+    - K. Martin makes free throw 1 of 2
+  - - '4:08.0'
+    - J. Jackson enters the game for M. Maloney
+    - ''
+    - 26-32
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-32
+    - ''
+    - K. Martin misses free throw 2 of 2
+  - - '4:07.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 26-32
+    - ''
+    - ''
+  - - '3:49.0'
+    - Personal foul by K. Martin
+    - ''
+    - 26-32
+    - ''
+    - ''
+  - - '3:42.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 26-32
+    - ''
+    - ''
+  - - '3:42.0'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 27-32
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - K. Gill enters the game for L. Harris
+  - - '3:42.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - V. Stepania enters the game for A. Williams
+  - - '3:42.0'
+    - L. Wright makes free throw 2 of 2
+    - "+1"
+    - 28-32
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - K. Gill misses 2-pt shot at rim
+  - - '3:29.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '3:23.0'
+    - L. Wright makes 2-pt shot at rim (assist by J. Jackson)
+    - "+2"
+    - 30-32
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 30-32
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '3:07.0'
+    - ''
+    - ''
+    - 30-33
+    - "+1"
+    - S. Jackson makes free throw 1 of 2
+  - - '3:07.0'
+    - ''
+    - ''
+    - 30-33
+    - ''
+    - S. Jackson misses free throw 2 of 2
+  - - '3:06.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '2:57.0'
+    - J. Jackson misses 2-pt shot from 19 ft
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 30-33
+    - ''
+    - Defensive rebound by K. Gill
+  - - '2:47.0'
+    - ''
+    - ''
+    - 30-33
+    - ''
+    - Turnover by K. Martin (traveling)
+  - - '2:47.0'
+    - Atlanta full timeout
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '2:32.0'
+    - J. Jackson misses 2-pt shot from 7 ft
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '2:30.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 30-33
+    - ''
+    - ''
+  - - '2:19.0'
+    - R. McLeod makes 2-pt shot at rim (assist by J. Jackson)
+    - "+2"
+    - 32-33
+    - ''
+    - ''
+  - - '2:19.0'
+    - Shooting foul by V. Stepania
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '2:19.0'
+    - R. McLeod makes free throw 1 of 1
+    - "+1"
+    - 33-33
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - V. Stepania misses 2-pt shot from 21 ft
+  - - '2:04.0'
+    - Defensive rebound by R. McLeod
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '2:03.0'
+    - Loose ball foul by K. Gill
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '2:03.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 34-33
+    - ''
+    - ''
+  - - '2:03.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 35-33
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - S. Jackson misses 2-pt shot at rim
+  - - '1:51.0'
+    - Defensive rebound by Team
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:33.0'
+    - Turnover by L. Wright (lost ball; steal by K. Martin)
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - S. Marbury misses 2-pt shot at rim
+  - - '1:19.0'
+    - Defensive rebound by J. Jackson
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:11.0'
+    - J. Terry misses 2-pt shot from 6 ft
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Defensive rebound by K. Gill
+  - - '0:46.6'
+    - ''
+    - ''
+    - 35-35
+    - "+2"
+    - S. Marbury makes 2-pt shot from 19 ft (assist by K. Gill)
+  - - '0:22.8'
+    - J. Jackson makes 3-pt shot from 23 ft (assist by R. McLeod)
+    - "+3"
+    - 38-35
+    - ''
+    - ''
+  - - '0:16.4'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - New Jersey 20 second timeout
+  - - '0:16.4'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - L. Harris enters the game for K. Gill
+  - - '0:04.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - L. Harris misses 2-pt shot at rim (block by D. Mutombo)
+  - - '0:01.7'
+    - Defensive rebound by J. Jackson
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - D. Mutombo makes 2-pt shot at rim (assist by L. Wright)
+    - "+2"
+    - 40-35
+    - ''
+    - ''
+  - - '11:34.0'
+    - ''
+    - ''
+    - 40-35
+    - ''
+    - Personal foul by M. Maloney
+  - - '11:29.0'
+    - ''
+    - ''
+    - 40-35
+    - ''
+    - K. Gill misses 2-pt shot from 12 ft
+  - - '11:27.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '11:20.0'
+    - M. Maloney misses 2-pt shot from 23 ft
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '11:18.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '11:04.0'
+    - J. Terry makes 3-pt shot from 26 ft (assist by R. McLeod)
+    - "+3"
+    - 43-35
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 43-37
+    - "+2"
+    - K. Martin makes 2-pt shot from 18 ft (assist by S. Marbury)
+  - - '10:19.0'
+    - J. Terry makes 2-pt shot from 15 ft
+    - "+2"
+    - 45-37
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 45-37
+    - ''
+    - A. Williams misses 2-pt shot from 18 ft
+  - - '10:04.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 45-37
+    - ''
+    - ''
+  - - '9:46.0'
+    - J. Terry misses 2-pt shot from 15 ft (block by K. Gill)
+    - ''
+    - 45-37
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 45-37
+    - ''
+    - Defensive rebound by K. Martin
+  - - '9:37.0'
+    - ''
+    - ''
+    - 45-39
+    - "+2"
+    - S. Jackson makes 2-pt shot from 14 ft (assist by K. Gill)
+  - - '9:17.0'
+    - R. McLeod makes 2-pt shot from 18 ft (assist by M. Maloney)
+    - "+2"
+    - 47-39
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 47-39
+    - ''
+    - K. Martin misses 2-pt shot from 11 ft
+  - - '9:01.0'
+    - ''
+    - ''
+    - 47-39
+    - ''
+    - Offensive rebound by K. Gill
+  - - '9:00.0'
+    - ''
+    - ''
+    - 47-39
+    - ''
+    - K. Gill misses 2-pt shot at rim
+  - - '8:59.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 47-39
+    - ''
+    - ''
+  - - '8:55.0'
+    - Shooting foul by K. Martin
+    - ''
+    - 47-39
+    - ''
+    - ''
+  - - '8:55.0'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 48-39
+    - ''
+    - ''
+  - - '8:55.0'
+    - L. Wright makes free throw 2 of 2
+    - "+1"
+    - 49-39
+    - ''
+    - ''
+  - - '8:43.0'
+    - ''
+    - ''
+    - 49-42
+    - "+3"
+    - S. Marbury makes 3-pt shot from 25 ft (assist by K. Gill)
+  - - '8:21.0'
+    - R. McLeod misses 2-pt shot at rim
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:20.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:19.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:18.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:17.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:16.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:16.0'
+    - Shooting foul by K. Martin
+    - ''
+    - 49-42
+    - ''
+    - ''
+  - - '8:16.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 50-42
+    - ''
+    - ''
+  - - '8:16.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 51-42
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 51-44
+    - "+2"
+    - K. Martin makes 2-pt shot at rim (assist by S. Marbury)
+  - - '7:46.0'
+    - J. Terry misses 2-pt shot from 21 ft
+    - ''
+    - 51-44
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 51-44
+    - ''
+    - Defensive rebound by A. Williams
+  - - '7:41.0'
+    - ''
+    - ''
+    - 51-44
+    - ''
+    - Turnover by S. Marbury (lost ball)
+  - - '7:31.0'
+    - Personal foul by S. Marbury
+    - ''
+    - 51-44
+    - ''
+    - ''
+  - - '7:21.0'
+    - M. Maloney makes 2-pt shot from 22 ft (assist by R. McLeod)
+    - "+2"
+    - 53-44
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - A. Williams misses 2-pt shot at rim (block by D. Mutombo)
+  - - '7:08.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '7:02.0'
+    - R. McLeod misses 2-pt shot from 18 ft
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Defensive rebound by K. Gill
+  - - '6:51.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - S. Marbury misses 3-pt shot from 26 ft
+  - - '6:49.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Offensive rebound by K. Martin
+  - - '6:37.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - K. Gill misses 2-pt shot from 11 ft
+  - - '6:35.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '6:31.0'
+    - Turnover by D. Mutombo (lost ball; steal by K. Martin)
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - S. Jackson misses 3-pt shot from 25 ft
+  - - '6:16.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Offensive rebound by A. Williams
+  - - '6:02.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - A. Williams misses 2-pt shot from 13 ft
+  - - '6:00.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '5:51.0'
+    - R. McLeod misses 2-pt shot from 5 ft
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '5:49.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '5:47.0'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 55-44
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - New Jersey full timeout
+  - - '5:41.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - L. Harris enters the game for K. Gill
+  - - '5:41.0'
+    - J. Jackson enters the game for M. Maloney
+    - ''
+    - 55-44
+    - ''
+    - ''
+  - - '5:41.0'
+    - A. Johnson enters the game for R. McLeod
+    - ''
+    - 55-44
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - K. Martin misses 2-pt shot at rim
+  - - '5:21.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - Offensive rebound by K. Martin
+  - - '5:12.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - S. Marbury misses 2-pt shot from 16 ft
+  - - '5:11.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - Offensive rebound by Team
+  - - '5:10.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - Personal foul by L. Wright
+  - - '5:10.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - A. Williams misses free throw 1 of 2
+  - - '5:10.0'
+    - ''
+    - ''
+    - 55-44
+    - ''
+    - Offensive rebound by Team
+  - - '5:10.0'
+    - ''
+    - ''
+    - 55-45
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '4:52.0'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 57-45
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - S. Marbury misses 3-pt shot from 25 ft
+  - - '4:37.0'
+    - Defensive rebound by J. Jackson
+    - ''
+    - 57-45
+    - ''
+    - ''
+  - - '4:23.0'
+    - L. Wright makes 2-pt shot from 7 ft (assist by J. Jackson)
+    - "+2"
+    - 59-45
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 59-45
+    - ''
+    - L. Harris misses 2-pt shot from 13 ft
+  - - '4:05.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 59-45
+    - ''
+    - ''
+  - - '3:49.0'
+    - L. Wright misses 2-pt shot from 9 ft
+    - ''
+    - 59-45
+    - ''
+    - ''
+  - - '3:48.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 59-45
+    - ''
+    - ''
+  - - '3:47.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 59-45
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 59-45
+    - ''
+    - Defensive rebound by A. Williams
+  - - '3:42.0'
+    - ''
+    - ''
+    - 59-45
+    - ''
+    - Shooting foul by J. Jackson
+  - - '3:42.0'
+    - ''
+    - ''
+    - 59-46
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '3:42.0'
+    - H. Mottola enters the game for D. Mutombo
+    - ''
+    - 59-46
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 59-46
+    - ''
+    - J. Newman enters the game for K. Martin
+  - - '3:42.0'
+    - ''
+    - ''
+    - 59-47
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '3:24.0'
+    - A. Johnson makes 2-pt shot at rim
+    - "+2"
+    - 61-47
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 61-47
+    - ''
+    - Shooting foul by H. Mottola
+  - - '3:17.0'
+    - ''
+    - ''
+    - 61-48
+    - "+1"
+    - A. Williams makes free throw 1 of 2
+  - - '3:17.0'
+    - ''
+    - ''
+    - 61-49
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '3:08.0'
+    - Personal foul by S. Jackson
+    - ''
+    - 61-49
+    - ''
+    - ''
+  - - '3:08.0'
+    - Atlanta full timeout
+    - ''
+    - 61-49
+    - ''
+    - ''
+  - - '3:00.0'
+    - Shooting foul by J. Newman
+    - ''
+    - 61-49
+    - ''
+    - ''
+  - - '3:00.0'
+    - H. Mottola makes free throw 1 of 2
+    - "+1"
+    - 62-49
+    - ''
+    - ''
+  - - '3:00.0'
+    - H. Mottola makes free throw 2 of 2
+    - "+1"
+    - 63-49
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - A. Williams misses 2-pt shot from 7 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - Offensive rebound by A. Williams
+  - - '2:39.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '2:37.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 63-49
+    - ''
+    - ''
+  - - '2:28.0'
+    - Turnover by J. Jackson (traveling)
+    - ''
+    - 63-49
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 63-51
+    - "+2"
+    - A. Williams makes 2-pt shot from 6 ft (assist by J. Newman)
+  - - '2:00.0'
+    - J. Terry makes 2-pt shot at rim
+    - "+2"
+    - 65-51
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 65-51
+    - ''
+    - J. Newman misses 2-pt shot from 19 ft
+  - - '1:37.0'
+    - Defensive rebound by A. Johnson
+    - ''
+    - 65-51
+    - ''
+    - ''
+  - - '1:18.0'
+    - J. Jackson misses 2-pt shot from 7 ft
+    - ''
+    - 65-51
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 65-51
+    - ''
+    - Defensive rebound by S. Marbury
+  - - '1:13.0'
+    - ''
+    - ''
+    - 65-53
+    - "+2"
+    - L. Harris makes 2-pt shot at rim (assist by S. Marbury)
+  - - '0:50.9'
+    - J. Jackson misses 2-pt shot from 11 ft
+    - ''
+    - 65-53
+    - ''
+    - ''
+  - - '0:48.7'
+    - ''
+    - ''
+    - 65-53
+    - ''
+    - Defensive rebound by S. Marbury
+  - - '0:44.8'
+    - ''
+    - ''
+    - 65-55
+    - "+2"
+    - S. Jackson makes 2-pt shot at rim (assist by S. Marbury)
+  - - '0:25.7'
+    - J. Terry misses 2-pt shot from 7 ft
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:24.4'
+    - ''
+    - ''
+    - 65-55
+    - ''
+    - Defensive rebound by A. Williams
+  - - '0:18.1'
+    - ''
+    - ''
+    - 65-55
+    - ''
+    - L. Harris misses 3-pt shot from 24 ft
+  - - '0:17.3'
+    - Defensive rebound by Team
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - Loose ball foul by J. Newman
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - R. McLeod enters the game for J. Jackson
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - L. Robinson enters the game for J. Terry
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - H. Mottola misses free throw 1 of 2
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - Offensive rebound by Team
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - C. Bowdler enters the game for L. Wright
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '0:17.3'
+    - H. Mottola makes free throw 2 of 2
+    - "+1"
+    - 66-55
+    - ''
+    - ''
+  - - '0:03.6'
+    - ''
+    - ''
+    - 66-55
+    - ''
+    - Shooting foul by C. Bowdler
+  - - '0:03.6'
+    - ''
+    - ''
+    - 66-56
+    - "+1"
+    - S. Jackson makes free throw 1 of 2
+  - - '0:03.6'
+    - ''
+    - ''
+    - 66-57
+    - "+1"
+    - S. Jackson makes free throw 2 of 2
+  - - '0:00.7'
+    - L. Robinson misses 3-pt shot from 43 ft
+    - ''
+    - 66-57
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 66-57
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 66-57
+    - ''
+    - Personal foul by H. Mottola
+  - - '11:39.0'
+    - ''
+    - ''
+    - 66-59
+    - "+2"
+    - S. Marbury makes 2-pt shot from 17 ft
+  - - '11:12.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-59
+    - ''
+    - J. Newman misses 2-pt shot from 13 ft
+  - - '10:54.0'
+    - Defensive rebound by R. McLeod
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. Johnson misses 2-pt shot from 11 ft
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 66-59
+    - ''
+    - Defensive rebound by A. Williams
+  - - '10:25.0'
+    - ''
+    - ''
+    - 66-59
+    - ''
+    - Personal foul by A. Johnson
+  - - '10:25.0'
+    - M. Maloney enters the game for A. Johnson
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:25.0'
+    - L. Wright enters the game for H. Mottola
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:25.0'
+    - J. Terry enters the game for L. Robinson
+    - ''
+    - 66-59
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 66-61
+    - "+2"
+    - S. Jackson makes 2-pt shot from 19 ft (assist by S. Marbury)
+  - - '10:06.0'
+    - J. Terry misses 2-pt shot from 17 ft
+    - ''
+    - 66-61
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 66-61
+    - ''
+    - Defensive rebound by Team
+  - - '10:04.0'
+    - ''
+    - ''
+    - 66-61
+    - ''
+    - Loose ball foul by D. Mutombo
+  - - '9:54.0'
+    - ''
+    - ''
+    - 66-63
+    - "+2"
+    - S. Marbury makes 2-pt shot from 13 ft
+  - - '9:33.0'
+    - L. Wright misses 2-pt shot from 6 ft
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:32.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:32.0'
+    - Personal foul by S. Jackson
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:22.0'
+    - L. Wright misses 2-pt shot from 10 ft
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:20.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:19.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:17.0'
+    - Offensive rebound by R. McLeod
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:07.0'
+    - Turnover by J. Terry (bad pass; steal by A. Williams)
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 66-63
+    - ''
+    - S. Marbury misses 2-pt shot at rim (block by L. Wright)
+  - - '8:59.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '8:42.0'
+    - L. Wright makes 2-pt shot from 12 ft (assist by J. Terry)
+    - "+2"
+    - 68-63
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 68-63
+    - ''
+    - L. Harris misses 2-pt shot from 19 ft
+  - - '8:22.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '8:09.0'
+    - Turnover by J. Terry (lost ball; steal by J. Newman)
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 68-63
+    - ''
+    - Turnover by J. Newman (bad pass; steal by R. McLeod)
+  - - '8:01.0'
+    - J. Terry misses 3-pt shot from 22 ft
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '7:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '7:57.0'
+    - Official timeout
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '7:57.0'
+    - J. Jackson enters the game for R. McLeod
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 68-63
+    - ''
+    - S. Douglas enters the game for L. Harris
+  - - '7:44.0'
+    - Turnover by L. Wright (bad pass; steal by A. Williams)
+    - ''
+    - 68-63
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 68-63
+    - ''
+    - S. Douglas misses 2-pt shot from 18 ft
+  - - '7:28.0'
+    - ''
+    - ''
+    - 68-63
+    - ''
+    - Offensive rebound by A. Williams
+  - - '7:27.0'
+    - ''
+    - ''
+    - 68-65
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '6:59.0'
+    - J. Terry misses 2-pt shot from 16 ft
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:57.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:55.0'
+    - L. Wright misses 2-pt shot from 10 ft
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:54.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:37.0'
+    - Shooting foul by S. Douglas
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - K. Martin enters the game for J. Newman
+  - - '6:37.0'
+    - J. Terry misses free throw 1 of 2
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:37.0'
+    - J. Terry misses free throw 2 of 2
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - Defensive rebound by S. Jackson
+  - - '6:19.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - Shooting foul by J. Terry
+  - - '6:19.0'
+    - ''
+    - ''
+    - 68-66
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '6:19.0'
+    - ''
+    - ''
+    - 68-67
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '5:58.0'
+    - J. Terry misses 2-pt shot at rim (block by A. Williams)
+    - ''
+    - 68-67
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 68-67
+    - ''
+    - Defensive rebound by S. Douglas
+  - - '5:43.0'
+    - ''
+    - ''
+    - 68-70
+    - "+3"
+    - S. Jackson makes 3-pt shot from 24 ft (assist by S. Douglas)
+  - - '5:35.0'
+    - Atlanta full timeout
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '5:22.0'
+    - Shooting foul by S. Jackson
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '5:22.0'
+    - J. Jackson makes free throw 1 of 2
+    - "+1"
+    - 69-70
+    - ''
+    - ''
+  - - '5:22.0'
+    - J. Jackson makes free throw 2 of 2
+    - "+1"
+    - 70-70
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - Turnover by S. Jackson (no)
+  - - '4:51.0'
+    - Turnover by J. Jackson (traveling)
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - K. Martin misses 2-pt shot from 10 ft
+  - - '4:36.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '4:27.0'
+    - Offensive foul by J. Jackson
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '4:27.0'
+    - Turnover by J. Jackson (foul)
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - K. Martin misses 2-pt shot at rim (block by D. Mutombo)
+  - - '4:14.0'
+    - Defensive rebound by Team
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '3:54.0'
+    - L. Wright misses 2-pt shot from 19 ft
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - Defensive rebound by S. Marbury
+  - - '3:49.0'
+    - ''
+    - ''
+    - 70-72
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '3:26.0'
+    - J. Terry misses 2-pt shot from 8 ft (block by S. Douglas)
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - Defensive rebound by A. Williams
+  - - '3:18.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - S. Marbury misses 2-pt shot at rim
+  - - '3:17.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '3:13.0'
+    - Personal foul by S. Douglas
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '3:13.0'
+    - Atlanta full timeout
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '3:04.0'
+    - M. Maloney misses 3-pt shot from 22 ft
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - Defensive rebound by S. Jackson
+  - - '2:49.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - S. Douglas misses 2-pt shot from 11 ft
+  - - '2:47.0'
+    - Defensive rebound by J. Jackson
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '2:27.0'
+    - J. Terry makes 2-pt shot at rim
+    - "+2"
+    - 72-72
+    - ''
+    - ''
+  - - '2:27.0'
+    - Shooting foul by S. Douglas
+    - ''
+    - 72-72
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 72-72
+    - ''
+    - J. Newman enters the game for K. Martin
+  - - '2:27.0'
+    - J. Terry makes free throw 1 of 1
+    - "+1"
+    - 73-72
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - New Jersey full timeout
+  - - '2:10.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - S. Jackson misses 3-pt shot from 23 ft
+  - - '2:08.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - Offensive rebound by Team
+  - - '1:59.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - S. Douglas misses 2-pt shot from 17 ft
+  - - '1:57.0'
+    - Defensive rebound by J. Jackson
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:38.0'
+    - J. Terry misses 2-pt shot at rim
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:36.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:34.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:33.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:13.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '1:13.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 74-72
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 74-72
+    - ''
+    - L. Harris enters the game for S. Douglas
+  - - '1:13.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 75-72
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - New Jersey 20 second timeout
+  - - '0:56.2'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - J. Newman misses 3-pt shot from 27 ft
+  - - '0:54.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '0:36.7'
+    - J. Terry misses 2-pt shot from 9 ft
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '0:34.9'
+    - Offensive rebound by Team
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '0:34.9'
+    - Loose ball foul by S. Jackson
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '0:34.9'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 76-72
+    - ''
+    - ''
+  - - '0:34.9'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 77-72
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - New Jersey full timeout
+  - - '0:26.1'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - S. Marbury misses 2-pt shot from 13 ft
+  - - '0:23.9'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Offensive rebound by A. Williams
+  - - '0:18.8'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '0:18.8'
+    - ''
+    - ''
+    - 77-73
+    - "+1"
+    - S. Jackson makes free throw 1 of 2
+  - - '0:18.8'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - S. Jackson misses free throw 2 of 2
+  - - '0:16.9'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - Offensive rebound by A. Williams
+  - - '0:16.3'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '0:15.3'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - Offensive rebound by A. Williams
+  - - '0:14.6'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '0:12.8'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - Offensive rebound by L. Harris
+  - - '0:11.7'
+    - ''
+    - ''
+    - 77-76
+    - "+3"
+    - S. Jackson makes 3-pt shot from 23 ft (assist by L. Harris)
+  - - '0:11.7'
+    - Atlanta full timeout
+    - ''
+    - 77-76
+    - ''
+    - ''
+  - - '0:11.7'
+    - R. McLeod enters the game for L. Wright
+    - ''
+    - 77-76
+    - ''
+    - ''
+  - - '0:11.7'
+    - L. Robinson enters the game for D. Mutombo
+    - ''
+    - 77-76
+    - ''
+    - ''
+  - - '0:09.4'
+    - Personal foul by S. Marbury
+    - ''
+    - 77-76
+    - ''
+    - ''
+  - - '0:09.4'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 78-76
+    - ''
+    - ''
+  - - '0:09.4'
+    - D. Mutombo enters the game for L. Robinson
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '0:09.4'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 79-76
+    - ''
+    - ''
+  - - '0:09.4'
+    - ''
+    - ''
+    - 79-76
+    - ''
+    - New Jersey full timeout
+  - - '0:09.4'
+    - L. Robinson enters the game for R. McLeod
+    - ''
+    - 79-76
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 79-76
+    - ''
+    - S. Marbury misses 3-pt shot from 26 ft
+  - - '0:02.2'
+    - Defensive rebound by Team
+    - ''
+    - 79-76
+    - ''
+    - ''
+  - - '0:02.2'
+    - Atlanta 20 second timeout
+    - ''
+    - 79-76
+    - ''
+    - ''
+  - - '0:02.2'
+    - ''
+    - ''
+    - 79-76
+    - ''
+    - S. Douglas enters the game for A. Williams
+  - - '0:02.2'
+    - R. McLeod enters the game for D. Mutombo
+    - ''
+    - 79-76
+    - ''
+    - ''
+  - - '0:00.5'
+    - Personal foul by S. Marbury
+    - ''
+    - 79-76
+    - ''
+    - ''
+  - - '0:00.5'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 80-76
+    - ''
+    - ''
+  - - '0:00.5'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 81-76
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,211 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Howard Eisley (On: +16&#9642;Off: +10&#9642;Net: +6)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 105/
+    - 145/0
+    - 250/+8
+    - 249/
+    - 'Michael Finley (On: +26&#9642;Off: 0&#9642;Net: +26)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 250/0
+    - 185/+11
+    - 117/
+    - 39/+7
+    - 157/
+    - 'Christian Laettner (On: +11&#9642;Off: +15&#9642;Net: -4)'
+    - |2-
+
+      +2
+    - 183/+2
+    - 196/
+    - 120/0
+    - 190/+9
+    - 310/
+    - 'Steve Nash (On: +26&#9642;Off: 0&#9642;Net: +26)'
+    - |2-
+
+      +3
+    - 166/+3
+    - 83/
+    - 101/0
+    - 148/
+    - 184/+11
+    - 65/
+    - 109/+12
+    - 140/
+    - 'Dirk Nowitzki (On: +28&#9642;Off: -2&#9642;Net: +30)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 130/
+    - 120/0
+    - 250/+8
+    - 77/+12
+    - 171/
+    - 'Hubert Davis (On: +13&#9642;Off: +13&#9642;Net: 0)'
+    - "\n"
+    - 173/
+    - 77/+5
+    - 230/+1
+    - 209/
+    - 60/-3
+    - 249/+10
+    - 'Shawn Bradley (On: +19&#9642;Off: +7&#9642;Net: +12)'
+    - "\n"
+    - 187/
+    - 63/+6
+    - 124/0
+    - 375/
+    - 207/+13
+    - 42/
+    - 'Loy Vaught (On: -2&#9642;Off: +28&#9642;Net: -30)'
+    - "\n"
+    - 250/
+    - 124/0
+    - 459/
+    - 63/-2
+    - 103/
+    - 'Courtney Alexander (On: -3&#9642;Off: +29&#9642;Net: -32)'
+    - "\n"
+    - 481/
+    - 19/-1
+    - 346/
+    - 154/-2
+    - 'Eduardo Najera (On: 0&#9642;Off: +26&#9642;Net: -26)'
+    - "\n"
+    - 689/
+    - 60/-3
+    - 46/+5
+    - 65/
+    - 139/-2
+    - 'Mark Bryant (On: -4&#9642;Off: +30&#9642;Net: -34)'
+    - "\n"
+    - 697/
+    - 53/-1
+    - 213/
+    - 37/-3
+    - 'Donnell Harvey (On: 0&#9642;Off: +26&#9642;Net: -26)'
+    - "\n"
+    - 901/
+    - 101/0
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Sherman Douglas (On: -26&#9642;Off: 0&#9642;Net: -26)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 109/
+    - 141/0
+    - 250/-8
+    - 120/-10
+    - 128/
+    - 'Lucious Harris (On: -16&#9642;Off: -10&#9642;Net: -6)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 49/-2
+    - 60/
+    - 141/0
+    - 249/-8
+    - 110/
+    - 139/+2
+    - 'Kenyon Martin (On: -21&#9642;Off: -5&#9642;Net: -16)'
+    - |2-
+
+      -2
+    - 125/-2
+    - 177/
+    - 196/+2
+    - 250/-8
+    - 207/-13
+    - 43/
+    - 'Jim McIlvaine (On: -9&#9642;Off: -17&#9642;Net: +8)'
+    - |2-
+
+      -2
+    - 183/-2
+    - 316/
+    - 69/-5
+    - 244/
+    - 83/-2
+    - 103/
+    - 'Aaron Williams (On: -19&#9642;Off: -7&#9642;Net: -12)'
+    - |2-
+
+      -7
+    - 236/-7
+    - 92/
+    - 82/+2
+    - 88/
+    - 123/-6
+    - 126/
+    - 57/-8
+    - 192/
+    - 'Stephen Jackson (On: -19&#9642;Off: -7&#9642;Net: -12)'
+    - "\n"
+    - 127/
+    - 122/-6
+    - 105/0
+    - 60/
+    - 84/0
+    - 71/
+    - 178/-3
+    - 249/-10
+    - 'Evan Eschmeyer (On: -5&#9642;Off: -21&#9642;Net: +16)'
+    - "\n"
+    - 187/
+    - 63/-6
+    - 77/-2
+    - 635/
+    - 37/+3
+    - 'Johnny Newman (On: -15&#9642;Off: -11&#9642;Net: -4)'
+    - "\n"
+    - 237/
+    - 12/-1
+    - 249/0
+    - 132/
+    - 118/-2
+    - 109/-12
+    - 140/
+    - 'Kevin Ollie (On: 0&#9642;Off: -26&#9642;Net: +26)'
+    - "\n"
+    - 250/
+    - 105/0
+    - 522/
+    - 123/0
+    - 'Soumaila Samake (On: 0&#9642;Off: -26&#9642;Net: +26)'
+    - "\n"
+    - 901/
+    - 101/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

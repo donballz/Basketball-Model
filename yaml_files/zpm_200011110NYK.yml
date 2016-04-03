@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Elden Campbell (On: -5&#9642;Off: -9&#9642;Net: +4)'
+    - |2-
+
+      -8
+    - 112/-8
+    - 137/
+    - 241/+10
+    - 8/
+    - 37/-4
+    - 212/
+    - 119/-3
+    - 130/
+    - 'Derrick Coleman (On: -4&#9642;Off: -10&#9642;Net: +6)'
+    - |2-
+
+      -5
+    - 97/-5
+    - 152/
+    - 249/+13
+    - 183/-10
+    - 100/
+    - 73/-2
+    - 143/
+    - 'Baron Davis (On: -19&#9642;Off: +5&#9642;Net: -24)'
+    - |2-
+
+      -14
+    - 250/-14
+    - 77/
+    - 173/+7
+    - 250/-12
+    - 75/
+    - 173/0
+    - 'Jamal Mashburn (On: -20&#9642;Off: +6&#9642;Net: -26)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 73/+6
+    - 51/
+    - 125/-1
+    - 249/-12
+    - 69/-1
+    - 55/
+    - 125/+2
+    - 'David Wesley (On: -9&#9642;Off: -5&#9642;Net: -4)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 119/+14
+    - 68/
+    - 63/+4
+    - 249/-12
+    - 69/-1
+    - 180/
+    - 'Otis Thorpe (On: -12&#9642;Off: -2&#9642;Net: -10)'
+    - "\n"
+    - 102/
+    - 148/-9
+    - 436/
+    - 63/-2
+    - 33/-1
+    - 216/
+    - 'Jamaal Magloire (On: -9&#9642;Off: -5&#9642;Net: -4)'
+    - "\n"
+    - 118/
+    - 131/-6
+    - 249/
+    - 0/+3
+    - 44/
+    - 205/-8
+    - 112/
+    - 137/+2
+    - 'Eddie Robinson (On: +8&#9642;Off: -22&#9642;Net: +30)'
+    - "\n"
+    - 250/
+    - 182/+9
+    - 318/
+    - 250/-1
+    - 'Tim James (On: 0&#9642;Off: -14&#9642;Net: +14)'
+    - "\n"
+    - 826/
+    - 176/0
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: +22&#9642;Off: -8&#9642;Net: +30)'
+    - |2-
+
+      +14
+    - 221/+14
+    - 104/
+    - 165/-4
+    - 8/
+    - 231/+12
+    - 183/
+    - 70/0
+    - 14/
+    - 'Allan Houston (On: +27&#9642;Off: -13&#9642;Net: +40)'
+    - |2-
+
+      +14
+    - 248/+14
+    - 30/-3
+    - 93/
+    - 125/+1
+    - 248/+12
+    - 24/+1
+    - 50/
+    - 27/+2
+    - 64/
+    - 70/0
+    - 14/
+    - 'Larry Johnson (On: +20&#9642;Off: -6&#9642;Net: +26)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 73/-6
+    - 54/
+    - 122/+2
+    - 183/+10
+    - 100/
+    - 201/0
+    - 14/
+    - 'Glen Rice (On: +11&#9642;Off: +3&#9642;Net: +8)'
+    - |2-
+
+      +16
+    - 243/+16
+    - 82/
+    - 50/-9
+    - 123/
+    - 47/+4
+    - 231/
+    - 221/0
+    - 'Charlie Ward (On: +19&#9642;Off: -5&#9642;Net: +24)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 73/-6
+    - 51/
+    - 125/+1
+    - 231/+12
+    - 121/
+    - 131/-2
+    - 15/
+    - 'Kurt Thomas (On: -10&#9642;Off: +24&#9642;Net: -34)'
+    - "\n"
+    - 225/
+    - 25/0
+    - 249/-13
+    - 187/
+    - 63/+2
+    - 160/+1
+    - 88/
+    - 'Erick Strickland (On: -7&#9642;Off: +21&#9642;Net: -28)'
+    - "\n"
+    - 248/
+    - 1/-2
+    - 119/-14
+    - 179/
+    - 200/+8
+    - 165/+1
+    - 76/
+    - 8/0
+    - 'Lavor Postell (On: -10&#9642;Off: +24&#9642;Net: -34)'
+    - "\n"
+    - 281/
+    - 87/-11
+    - 368/
+    - 12/0
+    - 69/+1
+    - 172/
+    - 8/0
+    - 'Travis Knight (On: -2&#9642;Off: +16&#9642;Net: -18)'
+    - "\n"
+    - 498/
+    - 0/-3
+    - 237/
+    - 12/0
+    - 33/+1
+    - 208/
+    - 9/0
+    - 'Felton Spencer (On: 0&#9642;Off: +14&#9642;Net: -14)'
+    - "\n"
+    - 994/
+    - 8/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

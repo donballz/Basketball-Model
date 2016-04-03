@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: -10&#9642;Off: -18&#9642;Net: +8)'
+    - |2-
+
+      -4
+    - 158/-4
+    - 151/
+    - 104/-2
+    - 84/
+    - 208/-4
+    - 42/
+    - 142/0
+    - 107/
+    - 'Lamar Odom (On: -12&#9642;Off: -16&#9642;Net: +4)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 32/-1
+    - 217/
+    - 170/-5
+    - 145/
+    - 90/+2
+    - 94/
+    - 'Michael Olowokandi (On: -9&#9642;Off: -19&#9642;Net: +10)'
+    - |2-
+
+      -3
+    - 152/-3
+    - 159/
+    - 94/-2
+    - 95/
+    - 208/-4
+    - 290/
+    - 'Quentin Richardson (On: -8&#9642;Off: -20&#9642;Net: +12)'
+    - |2-
+
+      -8
+    - 227/-8
+    - 202/
+    - 70/-2
+    - 116/-4
+    - 199/
+    - 76/+4
+    - 15/
+    - 91/+2
+    - 'Derek Strong (On: -10&#9642;Off: -18&#9642;Net: +8)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 250/
+    - 93/-2
+    - 407/
+    - 'Sean Rooks (On: -15&#9642;Off: -13&#9642;Net: -2)'
+    - "\n"
+    - 157/
+    - 93/-5
+    - 61/-5
+    - 404/
+    - 34/-5
+    - 249/
+    - 'Keyon Dooling (On: -22&#9642;Off: -6&#9642;Net: -16)'
+    - "\n"
+    - 164/
+    - 85/-4
+    - 60/-5
+    - 112/
+    - 76/-4
+    - 214/
+    - 34/-5
+    - 62/-4
+    - 82/
+    - 105/0
+    - 'Corey Maggette (On: -18&#9642;Off: -10&#9642;Net: -8)'
+    - "\n"
+    - 232/
+    - 17/0
+    - 175/-9
+    - 196/
+    - 127/-5
+    - 62/-4
+    - 82/
+    - 105/0
+    - 'Darius Miles (On: -15&#9642;Off: -13&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 250/-11
+    - 173/
+    - 77/-4
+    - 249/0
+    - 'Eric Piatkowski (On: -10&#9642;Off: -18&#9642;Net: +8)'
+    - "\n"
+    - 291/
+    - 210/-10
+    - 500/
+    - 'Brian Skinner (On: -11&#9642;Off: -17&#9642;Net: +6)'
+    - "\n"
+    - 411/
+    - 89/-4
+    - 97/
+    - 152/-7
+    - 250/0
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: +26&#9642;Off: +2&#9642;Net: +24)'
+    - |2-
+
+      +8
+    - 227/+8
+    - 45/
+    - 228/+13
+    - 170/+5
+    - 329/
+    - 'Allan Houston (On: +24&#9642;Off: +4&#9642;Net: +20)'
+    - |2-
+
+      +4
+    - 172/+4
+    - 109/
+    - 217/+10
+    - 170/+5
+    - 80/
+    - 83/+5
+    - 166/
+    - 'Larry Johnson (On: +19&#9642;Off: +9&#9642;Net: +10)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 16/-2
+    - 234/
+    - 250/+9
+    - 48/+4
+    - 200/
+    - 'Glen Rice (On: +15&#9642;Off: +13&#9642;Net: +2)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 118/+2
+    - 88/
+    - 43/-4
+    - 249/+9
+    - 142/0
+    - 108/
+    - 'Latrell Sprewell (On: +27&#9642;Off: +1&#9642;Net: +26)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 28/+1
+    - 91/
+    - 131/+9
+    - 250/+9
+    - 248/
+    - 'Chris Childs (On: +23&#9642;Off: +5&#9642;Net: +18)'
+    - "\n"
+    - 178/
+    - 72/+4
+    - 203/+15
+    - 219/
+    - 77/+4
+    - 249/0
+    - 'Kurt Thomas (On: +19&#9642;Off: +9&#9642;Net: +10)'
+    - "\n"
+    - 232/
+    - 17/0
+    - 249/+11
+    - 172/
+    - 77/+4
+    - 48/+4
+    - 202/
+    - 'Travis Knight (On: -4&#9642;Off: +32&#9642;Net: -36)'
+    - "\n"
+    - 802/
+    - 200/-4
+    - 'Luc Longley (On: -4&#9642;Off: +32&#9642;Net: -36)'
+    - "\n"
+    - 802/
+    - 200/-4
+    - 'Lavor Postell (On: -5&#9642;Off: +33&#9642;Net: -38)'
+    - "\n"
+    - 839/
+    - 163/-5
+    - 'Rick Brunson (On: 0&#9642;Off: +28&#9642;Net: -28)'
+    - "\n"
+    - 897/
+    - 105/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

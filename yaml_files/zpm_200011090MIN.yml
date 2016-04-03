@@ -1,0 +1,235 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - |2-
+
+      0
+    - 228/0
+    - 164/
+    - 102/-2
+    - 4/
+    - 201/+1
+    - 144/
+    - 77/-1
+    - 75/
+    - 0/0
+    - 'Allen Iverson (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - |2-
+
+      -1
+    - 246/-1
+    - 90/
+    - 150/-5
+    - 10/
+    - 2/0
+    - 120/+3
+    - 170/
+    - 207/+3
+    - 0/
+    - 'George Lynch (On: +5&#9642;Off: -3&#9642;Net: +8)'
+    - |2-
+
+      +2
+    - 209/+2
+    - 38/
+    - 1/0
+    - 19/
+    - 62/-2
+    - 62/
+    - 105/-2
+    - 189/+1
+    - 15/
+    - 44/+6
+    - 73/-2
+    - 50/
+    - 124/+2
+    - 'Theo Ratliff (On: +5&#9642;Off: -3&#9642;Net: +8)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 15/+2
+    - 83/
+    - 151/-4
+    - 225/+5
+    - 103/
+    - 171/+3
+    - 'Eric Snow (On: +9&#9642;Off: -7&#9642;Net: +16)'
+    - |2-
+
+      +2
+    - 205/+2
+    - 44/
+    - 0/0
+    - 143/
+    - 106/-2
+    - 241/+7
+    - 132/
+    - 125/+2
+    - 'Aaron McKie (On: -1&#9642;Off: +3&#9642;Net: -4)'
+    - "\n"
+    - 210/
+    - 39/-3
+    - 136/-3
+    - 102/
+    - 11/0
+    - 124/
+    - 125/+4
+    - 33/-2
+    - 143/
+    - 71/+3
+    - 'Toni Kukoc (On: -1&#9642;Off: +3&#9642;Net: -4)'
+    - "\n"
+    - 212/
+    - 36/-3
+    - 1/
+    - 136/-3
+    - 308/
+    - 54/+6
+    - 117/-1
+    - 132/
+    - 'Todd MacCulloch (On: -1&#9642;Off: +3&#9642;Net: -4)'
+    - "\n"
+    - 232/
+    - 17/-1
+    - 98/-1
+    - 379/
+    - 21/+2
+    - 91/-1
+    - 159/
+    - 'Vernon Maxwell (On: -4&#9642;Off: +6&#9642;Net: -10)'
+    - "\n"
+    - 250/
+    - 136/-3
+    - 363/
+    - 0/0
+    - 117/-1
+    - 132/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chauncey Billups (On: -1&#9642;Off: -1&#9642;Net: 0)'
+    - |2-
+
+      -1
+    - 232/-1
+    - 161/
+    - 81/+4
+    - 25/
+    - 201/-1
+    - 126/
+    - 171/-3
+    - 'Terrell Brandon (On: -9&#9642;Off: +7&#9642;Net: -16)'
+    - |2-
+
+      -4
+    - 174/-4
+    - 58/
+    - 17/+2
+    - 249/+5
+    - 120/-3
+    - 85/
+    - 45/-6
+    - 238/-3
+    - 9/
+    - 'Kevin Garnett (On: +4&#9642;Off: -6&#9642;Net: +10)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 87/
+    - 129/+7
+    - 33/
+    - 201/-1
+    - 126/
+    - 172/-3
+    - 'Rasho Nesterovic (On: +9&#9642;Off: -11&#9642;Net: +20)'
+    - |2-
+
+      0
+    - 222/0
+    - 114/
+    - 137/+7
+    - 25/
+    - 20/0
+    - 229/
+    - 167/+2
+    - 82/
+    - 'Wally Szczerbiak (On: -2&#9642;Off: 0&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 81/0
+    - 96/
+    - 72/-1
+    - 209/-3
+    - 177/
+    - 89/-1
+    - 13/
+    - 9/+2
+    - 'Anthony Peeler (On: +3&#9642;Off: -5&#9642;Net: +8)'
+    - "\n"
+    - 176/
+    - 72/+5
+    - 136/+3
+    - 89/
+    - 12/-2
+    - 136/
+    - 125/-4
+    - 74/+2
+    - 153/
+    - 21/-1
+    - 'Dean Garrett (On: -8&#9642;Off: +6&#9642;Net: -14)'
+    - "\n"
+    - 223/
+    - 26/+1
+    - 81/0
+    - 145/
+    - 24/-2
+    - 24/
+    - 225/-7
+    - 248/
+    - 'LaPhonso Ellis (On: -4&#9642;Off: +2&#9642;Net: -6)'
+    - "\n"
+    - 249/
+    - 172/+6
+    - 48/
+    - 28/-2
+    - 204/
+    - 45/-6
+    - 133/+1
+    - 38/
+    - 78/-3
+    - 'William Avery (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - "\n"
+    - 489/
+    - 11/0
+    - 501/
+    - 'Sam Mitchell (On: -2&#9642;Off: 0&#9642;Net: -2)'
+    - "\n"
+    - 710/
+    - 40/-4
+    - 74/+2
+    - 176/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

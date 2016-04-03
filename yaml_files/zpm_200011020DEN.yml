@@ -1,0 +1,232 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: +2&#9642;Off: -6&#9642;Net: +8)'
+    - |2-
+
+      -6
+    - 207/-6
+    - 174/
+    - 118/+10
+    - 111/-4
+    - 73/
+    - 64/+4
+    - 250/-2
+    - 'Erick Dampier (On: -6&#9642;Off: +2&#9642;Net: -8)'
+    - |2-
+
+      -2
+    - 100/-2
+    - 199/
+    - 127/-6
+    - 72/
+    - 35/+2
+    - 170/
+    - 44/+2
+    - 238/-2
+    - 10/
+    - 'Danny Fortson (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 139/+1
+    - 146/
+    - 215/+9
+    - 201/-10
+    - 182/
+    - 115/-3
+    - 'Larry Hughes (On: 0&#9642;Off: -4&#9642;Net: +4)'
+    - |2-
+
+      0
+    - 122/0
+    - 98/
+    - 29/+4
+    - 59/-2
+    - 189/
+    - 111/-4
+    - 72/
+    - 65/+4
+    - 250/-2
+    - 'Antawn Jamison (On: +11&#9642;Off: -15&#9642;Net: +26)'
+    - |2-
+
+      +1
+    - 138/+1
+    - 176/
+    - 183/+12
+    - 111/-4
+    - 94/
+    - 44/+2
+    - 176/0
+    - 65/
+    - 8/0
+    - 'Adonal Foyle (On: +2&#9642;Off: -6&#9642;Net: +8)'
+    - "\n"
+    - 104/
+    - 145/-2
+    - 47/+2
+    - 136/
+    - 66/+14
+    - 37/
+    - 164/-12
+    - 297/
+    - 'Vinny Del Negro (On: -8&#9642;Off: +4&#9642;Net: -12)'
+    - "\n"
+    - 126/
+    - 91/-8
+    - 784/
+    - 'Marc Jackson (On: -4&#9642;Off: 0&#9642;Net: -4)'
+    - "\n"
+    - 141/
+    - 109/-5
+    - 31/+1
+    - 719/
+    - 'Chris Mills (On: -10&#9642;Off: +6&#9642;Net: -16)'
+    - "\n"
+    - 140/
+    - 109/-5
+    - 123/0
+    - 242/
+    - 132/-4
+    - 128/+1
+    - 52/
+    - 70/-2
+    - 'Vonteego Cummings (On: +4&#9642;Off: -8&#9642;Net: +12)'
+    - "\n"
+    - 211/
+    - 38/+2
+    - 250/+10
+    - 117/
+    - 68/-8
+    - 314/
+    - 'Chris Porter (On: -8&#9642;Off: +4&#9642;Net: -12)'
+    - "\n"
+    - 618/
+    - 60/-8
+    - 323/
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tariq Abdul-Wahad (On: +11&#9642;Off: -7&#9642;Net: +18)'
+    - |2-
+
+      0
+    - 73/0
+    - 43/
+    - 133/+6
+    - 161/
+    - 88/-10
+    - 177/+12
+    - 205/
+    - 116/+3
+    - 'Raef LaFrentz (On: +1&#9642;Off: +3&#9642;Net: -2)'
+    - |2-
+
+      0
+    - 73/0
+    - 177/
+    - 56/0
+    - 194/
+    - 41/-1
+    - 208/
+    - 248/+2
+    - 'Antonio McDyess (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - |2-
+
+      +6
+    - 207/+6
+    - 102/
+    - 151/+1
+    - 540/
+    - 'James Posey (On: -1&#9642;Off: +5&#9642;Net: -6)'
+    - |2-
+
+      -1
+    - 134/-1
+    - 246/
+    - 90/-3
+    - 28/
+    - 131/+3
+    - 369/
+    - 'Nick Van Exel (On: +8&#9642;Off: -4&#9642;Net: +12)'
+    - |2-
+
+      +6
+    - 207/+6
+    - 174/
+    - 118/-10
+    - 218/+9
+    - 133/
+    - 148/+3
+    - 'Keon Clark (On: +1&#9642;Off: +3&#9642;Net: -2)'
+    - "\n"
+    - 73/
+    - 176/+4
+    - 249/-10
+    - 249/+8
+    - 95/-1
+    - 65/
+    - 70/0
+    - 19/
+    - 'Voshon Lenard (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - "\n"
+    - 73/
+    - 38/-2
+    - 138/
+    - 159/0
+    - 274/
+    - 65/-4
+    - 128/-1
+    - 121/
+    - 'George McCloud (On: +5&#9642;Off: -1&#9642;Net: +6)'
+    - "\n"
+    - 138/
+    - 111/+5
+    - 123/0
+    - 99/
+    - 27/-7
+    - 135/
+    - 114/+5
+    - 249/+2
+    - 'Terry Davis (On: -1&#9642;Off: +5&#9642;Net: -6)'
+    - "\n"
+    - 210/
+    - 38/-2
+    - 214/
+    - 35/-11
+    - 46/
+    - 203/+9
+    - 101/
+    - 54/-1
+    - 75/
+    - 18/+4
+    - 'Robert Pack (On: -4&#9642;Off: +8&#9642;Net: -12)'
+    - "\n"
+    - 211/
+    - 38/-2
+    - 124/0
+    - 348/
+    - 27/-1
+    - 96/-1
+    - 153/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -21&#9642;Off: -6&#9642;Net: -15)'
+    - |2-
+
+      -6
+    - 216/-6
+    - 182/
+    - 36/-1
+    - 17/
+    - 48/-3
+    - 231/-8
+    - 163/
+    - 37/-3
+    - 65/
+    - 'Zydrunas Ilgauskas (On: -14&#9642;Off: -13&#9642;Net: -1)'
+    - |2-
+
+      -8
+    - 121/-8
+    - 317/
+    - 55/-3
+    - 7/
+    - 134/-3
+    - 364/
+    - 'Andre Miller (On: -16&#9642;Off: -11&#9642;Net: -5)'
+    - |2-
+
+      -4
+    - 197/-4
+    - 254/
+    - 48/-3
+    - 250/-13
+    - 174/
+    - 75/+4
+    - 'Lamond Murray (On: -10&#9642;Off: -17&#9642;Net: +7)'
+    - |2-
+
+      -4
+    - 197/-4
+    - 240/
+    - 62/-5
+    - 120/-1
+    - 380/
+    - 'Clarence Weatherspoon (On: -12&#9642;Off: -15&#9642;Net: +3)'
+    - |2-
+
+      -4
+    - 234/-4
+    - 218/
+    - 48/-3
+    - 179/-5
+    - 320/
+    - 'Chris Gatling (On: -7&#9642;Off: -20&#9642;Net: +13)'
+    - "\n"
+    - 125/
+    - 124/+2
+    - 185/-6
+    - 203/
+    - 111/-10
+    - 120/+7
+    - 129/
+    - 'Bimbo Coles (On: -11&#9642;Off: -16&#9642;Net: +5)'
+    - "\n"
+    - 202/
+    - 48/-2
+    - 196/-8
+    - 303/
+    - 168/-1
+    - 81/
+    - 'Cedric Henderson (On: -13&#9642;Off: -14&#9642;Net: +1)'
+    - "\n"
+    - 201/
+    - 48/-2
+    - 144/-5
+    - 229/
+    - 126/-12
+    - 141/+2
+    - 44/
+    - 63/+4
+    - 'Wesley Person (On: -13&#9642;Off: -14&#9642;Net: +1)'
+    - "\n"
+    - 223/
+    - 27/0
+    - 196/-8
+    - 286/
+    - 17/-5
+    - 249/
+    - 'Robert Traylor (On: -14&#9642;Off: -13&#9642;Net: -1)'
+    - "\n"
+    - 238/
+    - 11/-2
+    - 196/-8
+    - 234/
+    - 68/-8
+    - 63/+8
+    - 60/
+    - 126/-4
+    - 'Chris Mihm (On: -7&#9642;Off: -20&#9642;Net: +13)'
+    - "\n"
+    - 496/
+    - 4/-2
+    - 314/
+    - 186/-5
+    - 'Trajan Langdon (On: +3&#9642;Off: -30&#9642;Net: +33)'
+    - "\n"
+    - 752/
+    - 250/+3
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +21&#9642;Off: +6&#9642;Net: +15)'
+    - |2-
+
+      +6
+    - 216/+6
+    - 106/
+    - 148/+4
+    - 28/
+    - 249/+13
+    - 142/-2
+    - 108/
+    - 'Antonio Davis (On: +17&#9642;Off: +10&#9642;Net: +7)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 72/+5
+    - 177/
+    - 250/+13
+    - 116/-7
+    - 133/
+    - 'Mark Jackson (On: +26&#9642;Off: +1&#9642;Net: +25)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 72/+5
+    - 149/
+    - 28/+2
+    - 250/+13
+    - 249/
+    - 'Charles Oakley (On: +21&#9642;Off: +6&#9642;Net: +15)'
+    - |2-
+
+      +6
+    - 238/+6
+    - 84/
+    - 176/+6
+    - 250/+13
+    - 31/-4
+    - 219/
+    - 'Corliss Williamson (On: +23&#9642;Off: +4&#9642;Net: +19)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 24/+1
+    - 164/
+    - 62/+5
+    - 220/+11
+    - 278/
+    - 'Alvin Williams (On: +8&#9642;Off: +19&#9642;Net: -11)'
+    - "\n"
+    - 223/
+    - 27/0
+    - 250/+11
+    - 250/
+    - 249/-3
+    - 'Kevin Willis (On: +16&#9642;Off: +11&#9642;Net: +5)'
+    - "\n"
+    - 244/
+    - 5/0
+    - 250/+11
+    - 286/
+    - 147/+5
+    - 66/
+    - 'Morris Peterson (On: +1&#9642;Off: +26&#9642;Net: -25)'
+    - "\n"
+    - 279/
+    - 156/+5
+    - 288/
+    - 26/+2
+    - 71/-6
+    - 178/
+    - 'Dell Curry (On: +3&#9642;Off: +24&#9642;Net: -21)'
+    - "\n"
+    - 828/
+    - 174/+3
+    - 'Kornel David (On: +4&#9642;Off: +23&#9642;Net: -19)'
+    - "\n"
+    - 872/
+    - 130/+4
+    - 'Tyrone Corbin (On: -1&#9642;Off: +28&#9642;Net: -29)'
+    - "\n"
+    - 899/
+    - 103/-1
+    - 'Garth Joseph (On: -4&#9642;Off: +31&#9642;Net: -35)'
+    - "\n"
+    - 938/
+    - 64/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

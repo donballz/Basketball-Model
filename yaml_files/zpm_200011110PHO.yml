@@ -1,0 +1,208 @@
+---
+- name: Plus-Minus
+  data:
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Duane Causwell (On: -10&#9642;Off: +8&#9642;Net: -18)'
+    - |2-
+
+      -10
+    - 195/-10
+    - 612/
+    - 61/0
+    - 132/
+    - 'Brian Grant (On: +9&#9642;Off: -11&#9642;Net: +20)'
+    - |2-
+
+      -1
+    - 86/-1
+    - 163/
+    - 211/+8
+    - 38/
+    - 118/+6
+    - 169/
+    - 17/-1
+    - 67/
+    - 126/-3
+    - 'Tim Hardaway (On: -6&#9642;Off: +4&#9642;Net: -10)'
+    - |2-
+
+      -7
+    - 213/-7
+    - 203/
+    - 83/-8
+    - 249/+15
+    - 55/-3
+    - 67/
+    - 127/-3
+    - 'Eddie Jones (On: -3&#9642;Off: +1&#9642;Net: -4)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 57/+5
+    - 69/
+    - 123/-8
+    - 235/+14
+    - 71/
+    - 193/-3
+    - 'Anthony Mason (On: -3&#9642;Off: +1&#9642;Net: -4)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 121/+8
+    - 51/
+    - 77/-10
+    - 249/+15
+    - 34/-2
+    - 23/
+    - 192/-3
+    - 'Bruce Bowen (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - "\n"
+    - 92/
+    - 156/-10
+    - 63/
+    - 103/+5
+    - 53/
+    - 29/-6
+    - 248/+15
+    - 117/-3
+    - 76/
+    - 57/-1
+    - 'A.C. Green (On: +5&#9642;Off: -7&#9642;Net: +12)'
+    - "\n"
+    - 195/
+    - 54/-1
+    - 249/0
+    - 121/
+    - 128/+9
+    - 55/-3
+    - 195/
+    - 'Anthony Carter (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - "\n"
+    - 213/
+    - 36/-4
+    - 164/+8
+    - 326/
+    - 9/+1
+    - 190/-5
+    - 59/
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Dudley (On: -7&#9642;Off: +9&#9642;Net: -16)'
+    - |2-
+
+      +1
+    - 95/+1
+    - 405/
+    - 78/-8
+    - 422/
+    - 'Mario Elie (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - |2-
+
+      +10
+    - 194/+10
+    - 95/
+    - 81/-7
+    - 128/
+    - 118/-6
+    - 169/
+    - 67/+1
+    - 144/
+    - 'Jason Kidd (On: +8&#9642;Off: -6&#9642;Net: +14)'
+    - |2-
+
+      +11
+    - 249/+11
+    - 35/-1
+    - 91/
+    - 123/+8
+    - 249/-15
+    - 34/+2
+    - 76/
+    - 139/+3
+    - 'Shawn Marion (On: +1&#9642;Off: +1&#9642;Net: 0)'
+    - |2-
+
+      +10
+    - 195/+10
+    - 55/
+    - 85/-8
+    - 129/
+    - 35/+8
+    - 249/-15
+    - 249/+6
+    - 'Clifford Robinson (On: +6&#9642;Off: -4&#9642;Net: +10)'
+    - |2-
+
+      +11
+    - 250/+11
+    - 64/
+    - 186/+6
+    - 150/-14
+    - 166/
+    - 182/+3
+    - 'Daniel Santiago (On: +9&#9642;Off: -7&#9642;Net: +16)'
+    - "\n"
+    - 97/
+    - 152/+10
+    - 63/-6
+    - 338/
+    - 97/-1
+    - 59/+3
+    - 100/
+    - 90/+3
+    - 'Tony Delk (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - "\n"
+    - 195/
+    - 54/+1
+    - 250/0
+    - 121/
+    - 129/-9
+    - 249/+6
+    - 'Rodney Rogers (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - "\n"
+    - 195/
+    - 54/+1
+    - 28/-1
+    - 97/
+    - 88/+2
+    - 115/
+    - 168/-7
+    - 153/+3
+    - 97/
+    - 'Ruben Garces (On: -7&#9642;Off: +9&#9642;Net: -16)'
+    - "\n"
+    - 285/
+    - 87/-7
+    - 629/
+    - 'Jake Tsakalidis (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 338/
+    - 125/0
+    - 538/
+    - 'Corie Blount (On: +6&#9642;Off: -4&#9642;Net: +10)'
+    - "\n"
+    - 471/
+    - 30/+6
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

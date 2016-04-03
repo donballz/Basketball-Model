@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Brent Barry (On: -14&#9642;Off: +1&#9642;Net: -15)'
+    - |2-
+
+      -10
+    - 184/-10
+    - 316/
+    - 227/-4
+    - 103/
+    - 169/0
+    - 'Patrick Ewing (On: -7&#9642;Off: -6&#9642;Net: -1)'
+    - |2-
+
+      -10
+    - 184/-10
+    - 181/
+    - 134/+5
+    - 133/-2
+    - 367/
+    - 'Rashard Lewis (On: -1&#9642;Off: -12&#9642;Net: +11)'
+    - |2-
+
+      -4
+    - 234/-4
+    - 130/
+    - 134/+5
+    - 203/-3
+    - 148/
+    - 106/+1
+    - 42/
+    - 'Jelani McCoy (On: -4&#9642;Off: -9&#9642;Net: +5)'
+    - |2-
+
+      -2
+    - 109/-2
+    - 391/
+    - 133/-2
+    - 367/
+    - 'Gary Payton (On: -5&#9642;Off: -8&#9642;Net: +3)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 116/
+    - 134/+5
+    - 250/-5
+    - 249/-1
+    - 'Vin Baker (On: -7&#9642;Off: -6&#9642;Net: -1)'
+    - "\n"
+    - 112/
+    - 137/-2
+    - 66/+1
+    - 81/
+    - 101/-2
+    - 137/
+    - 112/-3
+    - 250/-1
+    - 'Emanual Davis (On: -5&#9642;Off: -8&#9642;Net: +3)'
+    - "\n"
+    - 189/
+    - 60/+6
+    - 108/-8
+    - 374/
+    - 16/-1
+    - 35/-2
+    - 215/
+    - 'Ruben Patterson (On: -9&#9642;Off: -4&#9642;Net: -5)'
+    - "\n"
+    - 189/
+    - 60/+6
+    - 108/-8
+    - 279/
+    - 112/-3
+    - 98/-4
+    - 151/
+    - 'Desmond Mason (On: -2&#9642;Off: -11&#9642;Net: +9)'
+    - "\n"
+    - 237/
+    - 12/0
+    - 140/-1
+    - 316/
+    - 42/-2
+    - 74/-1
+    - 141/
+    - 34/+2
+    - 'Shammond Williams (On: -2&#9642;Off: -11&#9642;Net: +9)'
+    - "\n"
+    - 250/
+    - 250/-3
+    - 286/
+    - 214/+1
+    - 'Ruben Wolkowyski (On: -9&#9642;Off: -4&#9642;Net: -5)'
+    - "\n"
+    - 325/
+    - 33/-9
+    - 643/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +13&#9642;Off: 0&#9642;Net: +13)'
+    - |2-
+
+      +7
+    - 189/+7
+    - 60/
+    - 249/+3
+    - 227/+4
+    - 79/
+    - 185/-1
+    - 8/
+    - 'Kevin Garnett (On: +10&#9642;Off: +3&#9642;Net: +7)'
+    - |2-
+
+      +4
+    - 234/+4
+    - 163/
+    - 101/+2
+    - 249/+5
+    - 86/
+    - 155/-1
+    - 9/
+    - 'Rasho Nesterovic (On: +13&#9642;Off: 0&#9642;Net: +13)'
+    - |2-
+
+      +7
+    - 190/+7
+    - 225/
+    - 71/+6
+    - 13/
+    - 106/0
+    - 393/
+    - 'Anthony Peeler (On: +12&#9642;Off: +1&#9642;Net: +11)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 148/
+    - 101/+2
+    - 249/+5
+    - 52/+2
+    - 34/
+    - 155/-1
+    - 8/
+    - 'Wally Szczerbiak (On: +18&#9642;Off: -5&#9642;Net: +23)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 66/-1
+    - 134/
+    - 49/+6
+    - 249/+5
+    - 85/+2
+    - 90/
+    - 74/+2
+    - 'Chauncey Billups (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 195/
+    - 54/-3
+    - 140/+1
+    - 342/
+    - 16/+1
+    - 169/-1
+    - 81/
+    - 'Dean Garrett (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - "\n"
+    - 195/
+    - 55/-3
+    - 38/0
+    - 712/
+    - 'LaPhonso Ellis (On: +8&#9642;Off: +5&#9642;Net: +3)'
+    - "\n"
+    - 237/
+    - 12/0
+    - 140/+1
+    - 100/
+    - 10/+1
+    - 112/
+    - 137/+5
+    - 241/+1
+    - 6/
+    - 'Reggie Slater (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 292/
+    - 116/-4
+    - 342/
+    - 85/+2
+    - 164/
+    - 'Sam Mitchell (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 325/
+    - 119/-2
+    - 557/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

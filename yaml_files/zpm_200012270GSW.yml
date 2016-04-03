@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +18&#9642;Off: -10&#9642;Net: +28)'
+    - |2-
+
+      -1
+    - 131/-1
+    - 87/
+    - 30/-2
+    - 135/+9
+    - 113/
+    - 175/+2
+    - 46/
+    - 25/0
+    - 2/
+    - 69/+5
+    - 63/
+    - 109/+5
+    - 6/
+    - 'Allen Iverson (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - |2-
+
+      +1
+    - 232/+1
+    - 113/
+    - 154/-15
+    - 217/+1
+    - 32/
+    - 0/0
+    - 249/+10
+    - 'George Lynch (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - |2-
+
+      +1
+    - 248/+1
+    - 94/+9
+    - 75/
+    - 76/-7
+    - 2/
+    - 84/-4
+    - 94/
+    - 70/+1
+    - 77/
+    - 54/0
+    - 110/
+    - 8/0
+    - 'Aaron McKie (On: +21&#9642;Off: -13&#9642;Net: +34)'
+    - |2-
+
+      +1
+    - 248/+1
+    - 165/+4
+    - 70/
+    - 11/-3
+    - 2/
+    - 47/+4
+    - 11/
+    - 120/+3
+    - 42/
+    - 28/+2
+    - 26/
+    - 222/+10
+    - 'Theo Ratliff (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - |2-
+
+      +3
+    - 215/+3
+    - 176/
+    - 107/-15
+    - 221/+3
+    - 28/
+    - 192/+10
+    - 58/
+    - 'Jumaine Jones (On: +10&#9642;Off: -2&#9642;Net: +12)'
+    - "\n"
+    - 136/
+    - 113/+2
+    - 338/
+    - 161/+7
+    - 98/+1
+    - 96/
+    - 55/0
+    - 'Kevin Ollie (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 236/
+    - 12/0
+    - 232/0
+    - 16/
+    - 1/-3
+    - 50/
+    - 5/-2
+    - 132/
+    - 62/-2
+    - 21/0
+    - 83/
+    - 142/+9
+    - 'Toni Kukoc (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - "\n"
+    - 250/
+    - 166/+4
+    - 83/
+    - 1/-3
+    - 499/
+    - 'Rodney Buford (On: -10&#9642;Off: +18&#9642;Net: -28)'
+    - "\n"
+    - 421/
+    - 79/-10
+    - 501/
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: +5&#9642;Off: -13&#9642;Net: +18)'
+    - |2-
+
+      -4
+    - 199/-4
+    - 146/
+    - 154/+15
+    - 217/-1
+    - 32/
+    - 0/0
+    - 77/
+    - 171/-5
+    - 'Larry Hughes (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 93/+1
+    - 212/
+    - 177/+7
+    - 17/
+    - 249/-3
+    - 69/-5
+    - 63/
+    - 116/-5
+    - 'Marc Jackson (On: -22&#9642;Off: +14&#9642;Net: -36)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 95/-9
+    - 155/
+    - 176/-2
+    - 73/
+    - 192/-10
+    - 57/
+    - 'Antawn Jamison (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 250/+6
+    - 250/-3
+    - 250/-10
+    - 'Chris Porter (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 47/-7
+    - 201/
+    - 1/+3
+    - 129/+1
+    - 370/
+    - 'Bob Sura (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - "\n"
+    - 97/
+    - 152/-2
+    - 249/+6
+    - 131/
+    - 118/-4
+    - 132/-5
+    - 62/
+    - 55/0
+    - 'Vonteego Cummings (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - "\n"
+    - 205/
+    - 44/+3
+    - 94/-9
+    - 142/
+    - 11/+3
+    - 223/
+    - 28/-2
+    - 249/-10
+    - 'John Coker (On: +14&#9642;Off: -22&#9642;Net: +36)'
+    - "\n"
+    - 345/
+    - 154/+15
+    - 179/
+    - 69/-1
+    - 252/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

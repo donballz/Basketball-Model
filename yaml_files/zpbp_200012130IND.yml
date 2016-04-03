@@ -1,0 +1,2480 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. D. Nowitzki (S. Nash gains possession)'
+  - - '11:40.0'
+    - S. Nash misses 2-pt shot from 17 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by J. Rose
+  - - '11:19.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - T. Best misses 2-pt shot from 6 ft
+  - - '11:16.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:57.0'
+    - M. Finley makes 2-pt shot from 21 ft (assist by S. Nash)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by A. Croshere (lost ball; steal by D. Nowitzki)
+  - - '10:27.0'
+    - D. Nowitzki misses 2-pt shot from 3 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:26.0'
+    - D. Nowitzki misses 2-pt shot from 1 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:26.0'
+    - Offensive rebound by D. Nowitzki
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by J. Rose
+  - - '10:21.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by J. Rose (lost ball; steal by M. Finley)
+  - - '10:19.0'
+    - M. Finley makes 2-pt shot from 1 ft
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - T. Best misses 2-pt shot from 12 ft
+  - - '10:01.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '9:52.0'
+    - M. Finley misses 2-pt shot from 23 ft
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '9:36.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - A. Croshere misses 2-pt shot from 16 ft
+  - - '9:34.0'
+    - Defensive rebound by S. Nash
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '9:23.0'
+    - C. Laettner makes 2-pt shot from 17 ft (assist by S. Nash)
+    - "+2"
+    - 6-0
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 6-2
+    - "+2"
+    - J. Rose makes 2-pt shot from 17 ft (assist by T. Best)
+  - - '8:56.0'
+    - D. Nowitzki misses 2-pt shot from 20 ft
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Defensive rebound by T. Best
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - A. Croshere misses free throw 1 of 2
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Offensive rebound by Team
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-3
+    - "+1"
+    - A. Croshere makes free throw 2 of 2
+  - - '8:20.0'
+    - H. Eisley makes 3-pt shot from 25 ft (assist by S. Nash)
+    - "+3"
+    - 9-3
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 9-3
+    - ''
+    - A. Croshere misses 2-pt shot from 5 ft
+  - - '8:04.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 9-3
+    - ''
+    - ''
+  - - '7:59.0'
+    - D. Nowitzki misses 2-pt shot from 3 ft
+    - ''
+    - 9-3
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 9-3
+    - ''
+    - Defensive rebound by R. Miller
+  - - '7:48.0'
+    - ''
+    - ''
+    - 9-6
+    - "+3"
+    - A. Croshere makes 3-pt shot from 25 ft (assist by T. Best)
+  - - '7:29.0'
+    - Shooting foul by A. Croshere
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '7:29.0'
+    - C. Laettner makes free throw 1 of 2
+    - "+1"
+    - 10-6
+    - ''
+    - ''
+  - - '7:29.0'
+    - C. Laettner makes free throw 2 of 2
+    - "+1"
+    - 11-6
+    - ''
+    - ''
+  - - '7:16.0'
+    - ''
+    - ''
+    - 11-8
+    - "+2"
+    - R. Miller makes 2-pt shot from 8 ft
+  - - '6:52.0'
+    - H. Eisley misses 3-pt shot from 25 ft
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '6:50.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '6:34.0'
+    - C. Laettner makes 2-pt shot from 3 ft
+    - "+2"
+    - 13-8
+    - ''
+    - ''
+  - - '6:34.0'
+    - Shooting foul by A. Croshere
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - D. McKey enters the game for A. Croshere
+  - - '6:34.0'
+    - C. Laettner makes free throw 1 of 1
+    - "+1"
+    - 14-8
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 14-10
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by J. Rose)
+  - - '5:56.0'
+    - H. Eisley misses 3-pt shot from 25 ft
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - Defensive rebound by D. McKey
+  - - '5:48.0'
+    - ''
+    - ''
+    - 14-12
+    - "+2"
+    - R. Miller makes 2-pt shot from 1 ft (assist by D. McKey)
+  - - '5:33.0'
+    - S. Nash misses 2-pt shot from 18 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Defensive rebound by T. Best
+  - - '5:24.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '5:22.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:15.0'
+    - H. Eisley misses 3-pt shot from 26 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:13.0'
+    - Offensive rebound by D. Nowitzki
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:06.0'
+    - Offensive foul by C. Laettner
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:06.0'
+    - Turnover by C. Laettner (foul)
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Indiana full timeout
+  - - '5:06.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - J. Foster enters the game for J. O'Neal
+  - - '4:47.0'
+    - ''
+    - ''
+    - 14-14
+    - "+2"
+    - D. McKey makes 2-pt shot from 2 ft (assist by J. Foster)
+  - - '4:26.0'
+    - M. Finley makes 2-pt shot from 6 ft (assist by C. Laettner)
+    - "+2"
+    - 16-14
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 16-16
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft
+  - - '3:52.0'
+    - C. Laettner makes 2-pt shot from 7 ft (assist by M. Finley)
+    - "+2"
+    - 18-16
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 18-18
+    - "+2"
+    - T. Best makes 2-pt shot from 20 ft
+  - - '3:19.0'
+    - C. Laettner makes 2-pt shot from 2 ft (assist by S. Nash)
+    - "+2"
+    - 20-18
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - T. Best misses 2-pt shot from 18 ft
+  - - '3:01.0'
+    - Defensive rebound by C. Laettner
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - Shooting foul by T. Best
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - Dallas full timeout
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - H. Davis enters the game for H. Eisley
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - A. Harrington enters the game for R. Miller
+  - - '2:53.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 21-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 22-18
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - Personal foul by H. Davis
+  - - '2:30.0'
+    - ''
+    - ''
+    - 22-20
+    - "+2"
+    - A. Harrington makes 2-pt shot from 18 ft
+  - - '2:14.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 22-20
+    - ''
+    - ''
+  - - '2:14.0'
+    - C. Laettner makes free throw 1 of 2
+    - "+1"
+    - 23-20
+    - ''
+    - ''
+  - - '2:14.0'
+    - C. Laettner makes free throw 2 of 2
+    - "+1"
+    - 24-20
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - Shooting foul by M. Finley
+  - - '1:55.0'
+    - S. Bradley enters the game for C. Laettner
+    - ''
+    - 24-20
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - A. Harrington misses free throw 1 of 2
+  - - '1:55.0'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - Offensive rebound by Team
+  - - '1:55.0'
+    - ''
+    - ''
+    - 24-21
+    - "+1"
+    - A. Harrington makes free throw 2 of 2
+  - - '1:41.0'
+    - S. Bradley makes 2-pt shot from 2 ft (assist by S. Nash)
+    - "+2"
+    - 26-21
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - D. McKey misses 2-pt shot from 16 ft
+  - - '1:24.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '1:22.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - Shooting foul by S. Bradley
+  - - '1:22.0'
+    - ''
+    - ''
+    - 26-22
+    - "+1"
+    - A. Harrington makes free throw 1 of 2
+  - - '1:22.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - A. Harrington misses free throw 2 of 2
+  - - '1:21.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '1:04.0'
+    - S. Nash makes 3-pt shot from 24 ft (assist by M. Finley)
+    - "+3"
+    - 29-22
+    - ''
+    - ''
+  - - '0:47.9'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - T. Best misses 2-pt shot from 8 ft
+  - - '0:46.4'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - Offensive rebound by J. Foster
+  - - '0:45.4'
+    - ''
+    - ''
+    - 29-24
+    - "+2"
+    - J. Foster makes 2-pt shot from 2 ft
+  - - '0:27.5'
+    - Personal foul by T. Best
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '0:27.5'
+    - E. Najera enters the game for M. Finley
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '0:27.5'
+    - D. Nowitzki misses free throw 1 of 2
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '0:27.5'
+    - Offensive rebound by Team
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '0:27.5'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 30-24
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 30-24
+    - ''
+    - D. McKey misses 2-pt shot from 11 ft
+  - - '0:00.9'
+    - ''
+    - ''
+    - 30-24
+    - ''
+    - A. Harrington misses 2-pt shot from 4 ft
+  - - '0:00.9'
+    - ''
+    - ''
+    - 30-24
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '0:00.0'
+    - ''
+    - ''
+    - 30-24
+    - ''
+    - Offensive rebound by J. Foster
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 30-26
+    - "+2"
+    - J. Rose makes 2-pt shot from 10 ft
+  - - '11:27.0'
+    - Turnover by D. Nowitzki (bad pass; steal by J. Foster)
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Turnover by D. McKey (bad pass)
+  - - '10:59.0'
+    - Personal foul by J. Foster
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '10:54.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '10:44.0'
+    - E. Najera misses 2-pt shot from 5 ft
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Defensive rebound by D. McKey
+  - - '10:33.0'
+    - ''
+    - ''
+    - 30-28
+    - "+2"
+    - J. Foster makes 2-pt shot from 3 ft (assist by J. Rose)
+  - - '10:17.0'
+    - H. Davis misses 2-pt shot from 6 ft
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Defensive rebound by D. McKey
+  - - '10:07.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - J. Foster misses 2-pt shot from 3 ft
+  - - '10:05.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:46.0'
+    - H. Eisley misses 2-pt shot from 18 ft
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Defensive rebound by J. Foster
+  - - '9:30.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Personal foul by H. Eisley
+  - - '9:30.0'
+    - M. Finley enters the game for D. Nowitzki
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:17.0'
+    - C. Laettner enters the game for S. Bradley
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Turnover by Team (5 second)
+  - - '9:04.0'
+    - Shooting foul by R. Miller
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:04.0'
+    - H. Davis makes free throw 1 of 2
+    - "+1"
+    - 31-28
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - T. Best enters the game for J. Rose
+  - - '9:04.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - J. O'Neal enters the game for D. McKey
+  - - '9:04.0'
+    - H. Davis makes free throw 2 of 2
+    - "+1"
+    - 32-28
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-28
+    - ''
+    - Shooting foul by H. Eisley
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-28
+    - ''
+    - Official timeout
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-29
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-30
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '8:40.0'
+    - M. Finley makes 2-pt shot from 1 ft (assist by C. Laettner)
+    - "+2"
+    - 34-30
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 34-30
+    - ''
+    - Personal foul by M. Finley
+  - - '8:04.0'
+    - ''
+    - ''
+    - 34-30
+    - ''
+    - J. O'Neal misses 2-pt shot from 18 ft
+  - - '8:02.0'
+    - Defensive rebound by E. Najera
+    - ''
+    - 34-30
+    - ''
+    - ''
+  - - '7:47.0'
+    - Turnover by M. Finley (bad pass)
+    - ''
+    - 34-30
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 34-32
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 6 ft (assist by R. Miller)
+  - - '7:18.0'
+    - M. Finley makes 2-pt shot from 17 ft (assist by H. Eisley)
+    - "+2"
+    - 36-32
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Turnover by J. O'Neal (lost ball; steal by C. Laettner)
+  - - '6:43.0'
+    - C. Laettner misses 2-pt shot from 12 ft
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:19.0'
+    - ''
+    - ''
+    - 36-34
+    - "+2"
+    - A. Harrington makes 2-pt shot from 10 ft
+  - - '5:59.0'
+    - M. Finley misses 2-pt shot from 17 ft (block by A. Harrington)
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:57.0'
+    - Dallas full timeout
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - J. Rose enters the game for A. Harrington
+  - - '5:57.0'
+    - S. Nash enters the game for H. Davis
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:57.0'
+    - D. Nowitzki enters the game for E. Najera
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:54.0'
+    - M. Finley misses 2-pt shot from 14 ft
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Defensive rebound by J. Foster
+  - - '5:40.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - J. Rose misses 2-pt shot from 16 ft
+  - - '5:38.0'
+    - Defensive rebound by C. Laettner
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:25.0'
+    - S. Nash makes 3-pt shot from 26 ft
+    - "+3"
+    - 39-34
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 39-36
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 1 ft (assist by T. Best)
+  - - '4:46.0'
+    - D. Nowitzki misses 3-pt shot from 24 ft
+    - ''
+    - 39-36
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:45.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Loose ball foul by C. Laettner
+  - - '4:21.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Turnover by Team (shot clock)
+  - - '4:09.0'
+    - S. Nash misses 2-pt shot from 16 ft
+    - ''
+    - 39-36
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Defensive rebound by J. Rose
+  - - '3:59.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '3:59.0'
+    - ''
+    - ''
+    - 39-37
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '3:59.0'
+    - ''
+    - ''
+    - 39-38
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '3:41.0'
+    - C. Laettner misses 2-pt shot from 18 ft
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Defensive rebound by Team
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Loose ball foul by D. Nowitzki
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - J. O'Neal misses free throw 1 of 2
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Offensive rebound by Team
+  - - '3:38.0'
+    - L. Vaught enters the game for D. Nowitzki
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-39
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '3:20.0'
+    - Turnover by S. Nash (bad pass; steal by T. Best)
+    - ''
+    - 39-39
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 39-39
+    - ''
+    - R. Miller misses 3-pt shot from 24 ft
+  - - '3:01.0'
+    - Defensive rebound by L. Vaught
+    - ''
+    - 39-39
+    - ''
+    - ''
+  - - '2:44.0'
+    - M. Finley makes 3-pt shot from 25 ft (assist by S. Nash)
+    - "+3"
+    - 42-39
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 42-39
+    - ''
+    - Offensive foul by J. Rose
+  - - '2:28.0'
+    - ''
+    - ''
+    - 42-39
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '2:28.0'
+    - Dallas full timeout
+    - ''
+    - 42-39
+    - ''
+    - ''
+  - - '2:13.0'
+    - L. Vaught makes 2-pt shot from 1 ft (assist by S. Nash)
+    - "+2"
+    - 44-39
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 44-41
+    - "+2"
+    - T. Best makes 2-pt shot from 19 ft
+  - - '1:43.0'
+    - M. Finley misses 2-pt shot from 17 ft
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - Defensive rebound by J. Foster
+  - - '1:33.0'
+    - ''
+    - ''
+    - 44-43
+    - "+2"
+    - R. Miller makes 2-pt shot from 13 ft
+  - - '1:14.0'
+    - L. Vaught misses 2-pt shot from 17 ft
+    - ''
+    - 44-43
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - Defensive rebound by Team
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - Loose ball foul by C. Laettner
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - D. McKey enters the game for J. O'Neal
+  - - '1:14.0'
+    - H. Davis enters the game for H. Eisley
+    - ''
+    - 44-43
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - J. Foster misses free throw 1 of 2
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - Offensive rebound by Team
+  - - '1:14.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - J. Foster misses free throw 2 of 2
+  - - '1:13.0'
+    - Defensive rebound by L. Vaught
+    - ''
+    - 44-43
+    - ''
+    - ''
+  - - '1:07.0'
+    - Personal foul by J. Rose
+    - ''
+    - 44-43
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 44-43
+    - ''
+    - Technical foul by J. Rose
+  - - '1:07.0'
+    - S. Nash makes free throw technical
+    - "+1"
+    - 45-43
+    - ''
+    - ''
+  - - '1:07.0'
+    - Dallas 20 second timeout
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:56.9'
+    - M. Finley misses 2-pt shot from 17 ft (block by J. Rose)
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:53.9'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - Defensive rebound by R. Miller
+  - - '0:33.9'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - T. Best misses 2-pt shot from 6 ft (block by L. Vaught)
+  - - '0:31.9'
+    - Defensive rebound by S. Nash
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:28.9'
+    - S. Nash misses 2-pt shot from 3 ft
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:26.9'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:20.1'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - Turnover by R. Miller (bad pass)
+  - - '0:00.0'
+    - L. Vaught misses 2-pt shot from 17 ft
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:49.0'
+    - ''
+    - ''
+    - 45-45
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft (assist by T. Best)
+  - - '11:30.0'
+    - M. Finley misses 2-pt shot from 11 ft
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Defensive rebound by T. Best
+  - - '11:17.0'
+    - ''
+    - ''
+    - 45-47
+    - "+2"
+    - J. Rose makes 2-pt shot from 18 ft (assist by T. Best)
+  - - '10:52.0'
+    - H. Eisley makes 2-pt shot from 6 ft (assist by M. Finley)
+    - "+2"
+    - 47-47
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 47-47
+    - ''
+    - J. Rose misses 3-pt shot from 26 ft
+  - - '10:23.0'
+    - ''
+    - ''
+    - 47-47
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '10:21.0'
+    - ''
+    - ''
+    - 47-47
+    - ''
+    - J. O'Neal misses 2-pt shot from 4 ft
+  - - '10:20.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 47-47
+    - ''
+    - ''
+  - - '9:56.0'
+    - D. Nowitzki misses 2-pt shot from 8 ft
+    - ''
+    - 47-47
+    - ''
+    - ''
+  - - '9:54.0'
+    - Offensive rebound by C. Laettner
+    - ''
+    - 47-47
+    - ''
+    - ''
+  - - '9:40.0'
+    - D. Nowitzki misses 3-pt shot from 26 ft
+    - ''
+    - 47-47
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 47-47
+    - ''
+    - Defensive rebound by J. Rose
+  - - '9:33.0'
+    - ''
+    - ''
+    - 47-50
+    - "+3"
+    - R. Miller makes 3-pt shot from 25 ft (assist by J. Rose)
+  - - '9:12.0'
+    - C. Laettner misses 2-pt shot from 6 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Defensive rebound by D. McKey
+  - - '9:06.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Turnover by R. Miller (bad pass; steal by H. Eisley)
+  - - '8:59.0'
+    - Turnover by H. Eisley (lost ball; steal by T. Best)
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Turnover by T. Best (bad pass; steal by M. Finley)
+  - - '8:55.0'
+    - Turnover by M. Finley (lost ball; steal by D. McKey)
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Turnover by D. McKey (out of bounds)
+  - - '8:55.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - J. Foster enters the game for J. O'Neal
+  - - '8:52.0'
+    - S. Nash misses 2-pt shot from 19 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Defensive rebound by J. Foster
+  - - '8:43.0'
+    - ''
+    - ''
+    - 47-52
+    - "+2"
+    - R. Miller makes 2-pt shot from 19 ft
+  - - '8:39.0'
+    - Dallas full timeout
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '8:19.0'
+    - D. Nowitzki misses 3-pt shot from 24 ft
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '8:17.0'
+    - Offensive rebound by C. Laettner
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '8:07.0'
+    - H. Eisley makes 2-pt shot from 15 ft (assist by C. Laettner)
+    - "+2"
+    - 49-52
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 49-52
+    - ''
+    - J. Foster misses 2-pt shot from 3 ft
+  - - '7:47.0'
+    - ''
+    - ''
+    - 49-52
+    - ''
+    - J. Foster misses 2-pt shot from 2 ft
+  - - '7:47.0'
+    - ''
+    - ''
+    - 49-52
+    - ''
+    - Offensive rebound by J. Foster
+  - - '7:43.0'
+    - Defensive rebound by Team
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '7:37.0'
+    - D. Nowitzki misses 2-pt shot from 5 ft
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 49-52
+    - ''
+    - Defensive rebound by T. Best
+  - - '7:20.0'
+    - ''
+    - ''
+    - 49-54
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft (assist by D. McKey)
+  - - '6:55.0'
+    - M. Finley makes 2-pt shot from 6 ft
+    - "+2"
+    - 51-54
+    - ''
+    - ''
+  - - '6:55.0'
+    - Shooting foul by T. Best
+    - ''
+    - 51-54
+    - ''
+    - ''
+  - - '6:55.0'
+    - M. Finley makes free throw 1 of 1
+    - "+1"
+    - 52-54
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - R. Miller misses 3-pt shot from 26 ft
+  - - '6:36.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Offensive rebound by J. Foster
+  - - '6:33.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - R. Miller misses 2-pt shot from 17 ft
+  - - '6:31.0'
+    - Defensive rebound by C. Laettner
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '6:20.0'
+    - Personal foul by J. Rose
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '6:10.0'
+    - H. Eisley makes 3-pt shot from 25 ft (assist by M. Finley)
+    - "+3"
+    - 55-54
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 55-56
+    - "+2"
+    - J. Foster makes 2-pt shot from 2 ft (assist by R. Miller)
+  - - '5:36.0'
+    - Turnover by S. Nash (bad pass; steal by J. Foster)
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 55-59
+    - "+3"
+    - J. Rose makes 3-pt shot from 24 ft (assist by T. Best)
+  - - '5:11.0'
+    - H. Eisley makes 2-pt shot from 19 ft (assist by M. Finley)
+    - "+2"
+    - 57-59
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 57-59
+    - ''
+    - J. Foster misses 2-pt shot from 6 ft
+  - - '4:47.0'
+    - ''
+    - ''
+    - 57-61
+    - "+2"
+    - D. McKey makes 2-pt shot from 1 ft
+  - - '4:47.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - Offensive rebound by D. McKey
+  - - '4:25.0'
+    - Turnover by C. Laettner (lost ball; steal by D. McKey)
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - T. Best misses 2-pt shot from 5 ft (block by D. Nowitzki)
+  - - '4:15.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '4:12.0'
+    - H. Eisley makes 2-pt shot from 2 ft
+    - "+2"
+    - 59-61
+    - ''
+    - ''
+  - - '4:11.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 59-61
+    - ''
+    - D. McKey misses 3-pt shot from 24 ft
+  - - '3:50.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:34.0'
+    - Turnover by S. Nash (double dribble)
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:34.0'
+    - S. Bradley enters the game for D. Nowitzki
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:34.0'
+    - L. Vaught enters the game for C. Laettner
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 59-63
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft (assist by J. Foster)
+  - - '3:26.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Shooting foul by H. Eisley
+  - - '3:26.0'
+    - ''
+    - ''
+    - 59-64
+    - "+1"
+    - J. Rose makes free throw 1 of 1
+  - - '3:04.0'
+    - H. Eisley makes 3-pt shot from 25 ft (assist by S. Nash)
+    - "+3"
+    - 62-64
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 62-64
+    - ''
+    - T. Best misses 2-pt shot from 21 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 62-64
+    - ''
+    - Offensive rebound by D. McKey
+  - - '2:35.0'
+    - ''
+    - ''
+    - 62-67
+    - "+3"
+    - T. Best makes 3-pt shot from 26 ft (assist by J. Rose)
+  - - '2:20.0'
+    - S. Nash makes 2-pt shot from 19 ft
+    - "+2"
+    - 64-67
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 64-67
+    - ''
+    - T. Best misses 3-pt shot from 25 ft
+  - - '1:55.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 64-67
+    - ''
+    - ''
+  - - '1:46.0'
+    - H. Eisley makes 3-pt shot from 25 ft (assist by M. Finley)
+    - "+3"
+    - 67-67
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 67-69
+    - "+2"
+    - J. Rose makes 2-pt shot from 16 ft (assist by T. Best)
+  - - '1:14.0'
+    - S. Nash makes 2-pt shot from 16 ft
+    - "+2"
+    - 69-69
+    - ''
+    - ''
+  - - '0:57.9'
+    - ''
+    - ''
+    - 69-69
+    - ''
+    - J. Rose misses 3-pt shot from 24 ft
+  - - '0:55.9'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '0:36.9'
+    - Offensive foul by S. Bradley
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '0:36.9'
+    - Turnover by S. Bradley (foul)
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 69-69
+    - ''
+    - Indiana full timeout
+  - - '0:36.9'
+    - H. Davis enters the game for S. Nash
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '0:22.7'
+    - ''
+    - ''
+    - 69-72
+    - "+3"
+    - T. Best makes 3-pt shot from 26 ft (assist by R. Miller)
+  - - '0:00.9'
+    - H. Eisley misses 3-pt shot from 24 ft
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by S. Bradley
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - M. Finley makes 2-pt shot from 14 ft
+    - "+2"
+    - 71-72
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 71-75
+    - "+3"
+    - R. Miller makes 3-pt shot from 24 ft (assist by J. Rose)
+  - - '11:05.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '11:05.0'
+    - H. Eisley makes free throw 1 of 2
+    - "+1"
+    - 72-75
+    - ''
+    - ''
+  - - '11:05.0'
+    - H. Eisley makes free throw 2 of 2
+    - "+1"
+    - 73-75
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - Personal foul by H. Davis
+  - - '10:41.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - J. Rose misses 2-pt shot from 6 ft
+  - - '10:39.0'
+    - Defensive rebound by L. Vaught
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '10:39.0'
+    - 'Jump ball: J. Rose vs. L. Vaught (H. Davis gains possession)'
+  - - '10:28.0'
+    - L. Vaught misses 2-pt shot from 4 ft
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '10:27.0'
+    - L. Vaught makes 2-pt shot from 2 ft
+    - "+2"
+    - 75-75
+    - ''
+    - ''
+  - - '10:27.0'
+    - Offensive rebound by L. Vaught
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Offensive foul by J. O'Neal
+  - - '10:11.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Turnover by J. O'Neal (foul)
+  - - '9:55.0'
+    - M. Finley makes 2-pt shot from 5 ft
+    - "+2"
+    - 77-75
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 77-75
+    - ''
+    - Shooting foul by S. Bradley
+  - - '9:33.0'
+    - ''
+    - ''
+    - 77-76
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '9:33.0'
+    - ''
+    - ''
+    - 77-77
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '9:20.0'
+    - Turnover by H. Eisley (bad pass; steal by R. Miller)
+    - ''
+    - 77-77
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 77-79
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 5 ft (assist by T. Best)
+  - - '9:00.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '8:45.0'
+    - M. Finley makes 2-pt shot from 17 ft
+    - "+2"
+    - 79-79
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Offensive foul by A. Harrington
+  - - '8:32.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Turnover by A. Harrington (foul)
+  - - '8:32.0'
+    - Official timeout
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '8:32.0'
+    - D. Nowitzki enters the game for S. Bradley
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '8:32.0'
+    - S. Nash enters the game for H. Eisley
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - D. McKey enters the game for A. Harrington
+  - - '8:27.0'
+    - M. Finley misses 3-pt shot from 26 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '8:09.0'
+    - ''
+    - ''
+    - 79-82
+    - "+3"
+    - T. Best makes 3-pt shot from 25 ft (assist by J. Rose)
+  - - '7:54.0'
+    - ''
+    - ''
+    - 79-82
+    - ''
+    - Violation by Team (illegal defense)
+  - - '7:39.0'
+    - S. Nash misses 2-pt shot from 10 ft
+    - ''
+    - 79-82
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 79-82
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '7:24.0'
+    - ''
+    - ''
+    - 79-84
+    - "+2"
+    - R. Miller makes 2-pt shot from 16 ft
+  - - '7:02.0'
+    - Turnover by H. Davis (bad pass; steal by J. O'Neal)
+    - ''
+    - 79-84
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 79-84
+    - ''
+    - J. O'Neal misses 2-pt shot from 2 ft
+  - - '6:53.0'
+    - Defensive rebound by L. Vaught
+    - ''
+    - 79-84
+    - ''
+    - ''
+  - - '6:48.0'
+    - Offensive foul by H. Davis
+    - ''
+    - 79-84
+    - ''
+    - ''
+  - - '6:48.0'
+    - Turnover by H. Davis (foul)
+    - ''
+    - 79-84
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 79-84
+    - ''
+    - Offensive foul by R. Miller
+  - - '6:33.0'
+    - ''
+    - ''
+    - 79-84
+    - ''
+    - Turnover by R. Miller (foul)
+  - - '6:15.0'
+    - Turnover by M. Finley (discontinued dribble)
+    - ''
+    - 79-84
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 79-84
+    - ''
+    - Personal foul by M. Finley
+  - - '5:58.0'
+    - ''
+    - ''
+    - 79-84
+    - ''
+    - Indiana full timeout
+  - - '5:52.0'
+    - ''
+    - ''
+    - 79-86
+    - "+2"
+    - R. Miller makes 2-pt shot from 19 ft (assist by J. Rose)
+  - - '5:37.0'
+    - H. Davis misses 2-pt shot from 21 ft
+    - ''
+    - 79-86
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 79-86
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '5:18.0'
+    - ''
+    - ''
+    - 79-86
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '5:16.0'
+    - ''
+    - ''
+    - 79-86
+    - ''
+    - Offensive rebound by Team
+  - - '5:16.0'
+    - H. Eisley enters the game for H. Davis
+    - ''
+    - 79-86
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 79-86
+    - ''
+    - Shooting foul by L. Vaught
+  - - '5:01.0'
+    - ''
+    - ''
+    - 79-87
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '5:01.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '5:01.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '4:48.0'
+    - M. Finley misses 2-pt shot from 14 ft
+    - ''
+    - 79-87
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 79-87
+    - ''
+    - Defensive rebound by Team
+  - - '4:32.0'
+    - ''
+    - ''
+    - 79-89
+    - "+2"
+    - J. Rose makes 2-pt shot from 11 ft
+  - - '4:29.0'
+    - Dallas full timeout
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '4:29.0'
+    - S. Bradley enters the game for L. Vaught
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '4:14.0'
+    - M. Finley misses 2-pt shot from 5 ft
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '4:11.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '4:02.0'
+    - S. Nash misses 2-pt shot from 9 ft
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '4:00.0'
+    - Offensive rebound by S. Nash
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '3:59.0'
+    - Personal foul by J. Rose
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '3:45.0'
+    - M. Finley misses 3-pt shot from 25 ft
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '3:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '3:44.0'
+    - Loose ball foul by R. Miller
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '3:33.0'
+    - M. Finley makes 2-pt shot from 2 ft
+    - "+2"
+    - 81-89
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 81-89
+    - ''
+    - T. Best misses 2-pt shot from 7 ft
+  - - '3:06.0'
+    - Defensive rebound by Team
+    - ''
+    - 81-89
+    - ''
+    - ''
+  - - '2:50.0'
+    - Turnover by S. Nash (lost ball; steal by T. Best)
+    - ''
+    - 81-89
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 81-89
+    - ''
+    - Personal foul by M. Finley
+  - - '2:45.0'
+    - ''
+    - ''
+    - 81-90
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '2:45.0'
+    - ''
+    - ''
+    - 81-90
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '2:45.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '2:23.0'
+    - H. Eisley makes 3-pt shot from 25 ft
+    - "+3"
+    - 84-90
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 84-92
+    - "+2"
+    - R. Miller makes 2-pt shot from 19 ft (assist by J. Rose)
+  - - '1:52.0'
+    - S. Nash misses 2-pt shot from 4 ft (block by J. O'Neal)
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '1:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '1:44.0'
+    - Personal foul by R. Miller
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '1:44.0'
+    - H. Eisley makes free throw 1 of 2
+    - "+1"
+    - 85-92
+    - ''
+    - ''
+  - - '1:44.0'
+    - H. Eisley makes free throw 2 of 2
+    - "+1"
+    - 86-92
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 86-92
+    - ''
+    - Indiana full timeout
+  - - '1:23.0'
+    - ''
+    - ''
+    - 86-92
+    - ''
+    - J. Rose misses 2-pt shot from 17 ft
+  - - '1:22.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 86-92
+    - ''
+    - ''
+  - - '1:08.0'
+    - D. Nowitzki makes 2-pt shot from 11 ft (assist by S. Bradley)
+    - "+2"
+    - 88-92
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - J. O'Neal misses 2-pt shot from 4 ft (block by S. Bradley)
+  - - '0:47.4'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '0:45.9'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - J. O'Neal misses 2-pt shot from 4 ft
+  - - '0:43.7'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 88-92
+    - ''
+    - ''
+  - - '0:31.9'
+    - S. Nash misses 2-pt shot from 7 ft (block by J. O'Neal)
+    - ''
+    - 88-92
+    - ''
+    - ''
+  - - '0:29.7'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '0:29.2'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - Personal foul by D. Nowitzki
+  - - '0:29.2'
+    - ''
+    - ''
+    - 88-93
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '0:29.2'
+    - ''
+    - ''
+    - 88-93
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '0:28.5'
+    - Defensive rebound by S. Nash
+    - ''
+    - 88-93
+    - ''
+    - ''
+  - - '0:28.3'
+    - Dallas full timeout
+    - ''
+    - 88-93
+    - ''
+    - ''
+  - - '0:24.1'
+    - Shooting foul by T. Best
+    - ''
+    - 88-93
+    - ''
+    - ''
+  - - '0:24.1'
+    - S. Bradley makes free throw 1 of 2
+    - "+1"
+    - 89-93
+    - ''
+    - ''
+  - - '0:24.1'
+    - S. Bradley makes free throw 2 of 2
+    - "+1"
+    - 90-93
+    - ''
+    - ''
+  - - '0:23.4'
+    - ''
+    - ''
+    - 90-93
+    - ''
+    - Personal foul by M. Finley
+  - - '0:23.4'
+    - ''
+    - ''
+    - 90-94
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '0:23.4'
+    - ''
+    - ''
+    - 90-95
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '0:23.4'
+    - Dallas 20 second timeout
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:23.4'
+    - H. Davis enters the game for S. Bradley
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:23.4'
+    - ''
+    - ''
+    - 90-95
+    - ''
+    - A. Harrington enters the game for J. O'Neal
+  - - '0:18.9'
+    - H. Eisley misses 2-pt shot from 22 ft
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:15.9'
+    - Offensive rebound by H. Eisley
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:13.9'
+    - Turnover by H. Eisley (bad pass; steal by T. Best)
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:11.9'
+    - ''
+    - ''
+    - 90-95
+    - ''
+    - Personal foul by M. Finley
+  - - '0:11.9'
+    - S. Bradley enters the game for M. Finley
+    - ''
+    - 90-95
+    - ''
+    - ''
+  - - '0:11.9'
+    - ''
+    - ''
+    - 90-96
+    - "+1"
+    - T. Best makes free throw 1 of 2
+  - - '0:11.9'
+    - ''
+    - ''
+    - 90-97
+    - "+1"
+    - T. Best makes free throw 2 of 2
+  - - '0:11.9'
+    - Dallas full timeout
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:11.9'
+    - L. Vaught enters the game for S. Bradley
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:08.5'
+    - S. Nash makes 2-pt shot from 20 ft
+    - "+2"
+    - 92-97
+    - ''
+    - ''
+  - - '0:08.5'
+    - Delay tech foul by Team
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:08.5'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - R. Miller misses free throw technical
+  - - '0:08.5'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Offensive rebound by Team
+  - - '0:05.9'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Personal foul by H. Davis
+  - - '0:05.9'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - J. Rose misses free throw 1 of 2
+  - - '0:05.9'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Offensive rebound by Team
+  - - '0:05.9'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - J. Rose misses free throw 2 of 2
+  - - '0:04.9'
+    - Defensive rebound by L. Vaught
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:04.1'
+    - Turnover by L. Vaught (bad pass)
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

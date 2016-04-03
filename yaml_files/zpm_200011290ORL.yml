@@ -1,0 +1,224 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: -1&#9642;Off: +3&#9642;Net: -4)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 141/
+    - 108/-4
+    - 231/-8
+    - 109/
+    - 159/+9
+    - 'Olden Polynice (On: -9&#9642;Off: +11&#9642;Net: -20)'
+    - |2-
+
+      0
+    - 234/0
+    - 266/
+    - 167/-9
+    - 333/
+    - 'Bryon Russell (On: -4&#9642;Off: +6&#9642;Net: -10)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 141/
+    - 105/-4
+    - 3/
+    - 166/-9
+    - 193/
+    - 140/+7
+    - 'John Starks (On: +4&#9642;Off: -2&#9642;Net: +6)'
+    - |2-
+
+      0
+    - 176/0
+    - 321/
+    - 3/0
+    - 106/-5
+    - 234/
+    - 158/+9
+    - 'John Stockton (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - |2-
+
+      +1
+    - 130/+1
+    - 157/
+    - 212/-3
+    - 126/-5
+    - 213/
+    - 160/+9
+    - 'Jacque Vaughn (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 134/
+    - 115/+1
+    - 34/0
+    - 345/
+    - 119/-3
+    - 83/+2
+    - 167/
+    - 'Quincy Lewis (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - "\n"
+    - 178/
+    - 71/+2
+    - 138/+1
+    - 224/
+    - 137/-3
+    - 83/+2
+    - 166/
+    - 'David Benoit (On: +4&#9642;Off: -2&#9642;Net: +6)'
+    - "\n"
+    - 238/
+    - 11/+2
+    - 138/+1
+    - 285/
+    - 53/+1
+    - 273/
+    - 'Danny Manning (On: +10&#9642;Off: -8&#9642;Net: +18)'
+    - "\n"
+    - 249/
+    - 187/-1
+    - 60/
+    - 3/0
+    - 230/
+    - 19/0
+    - 249/+11
+    - 'Donyell Marshall (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - "\n"
+    - 250/
+    - 250/-3
+    - 173/
+    - 76/+1
+    - 110/+4
+    - 139/
+    - 'Greg Ostertag (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 440/
+    - 55/-2
+    - 235/
+    - 18/0
+    - 84/+2
+    - 166/
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'John Amaechi (On: +7&#9642;Off: -9&#9642;Net: +16)'
+    - |2-
+
+      0
+    - 234/0
+    - 111/
+    - 154/+3
+    - 213/+10
+    - 75/
+    - 211/-6
+    - 'Darrell Armstrong (On: +4&#9642;Off: -6&#9642;Net: +10)'
+    - |2-
+
+      -1
+    - 206/-1
+    - 140/
+    - 154/+3
+    - 195/+8
+    - 93/
+    - 210/-6
+    - 'Michael Doleac (On: +15&#9642;Off: -17&#9642;Net: +32)'
+    - |2-
+
+      -1
+    - 206/-1
+    - 204/
+    - 89/+7
+    - 166/+9
+    - 334/
+    - 'Tracy McGrady (On: +3&#9642;Off: -5&#9642;Net: +8)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 9/0
+    - 101/
+    - 140/+3
+    - 213/+10
+    - 69/
+    - 216/-8
+    - 'Bo Outlaw (On: +3&#9642;Off: -5&#9642;Net: +8)'
+    - |2-
+
+      -1
+    - 205/-1
+    - 165/
+    - 117/+5
+    - 11/
+    - 203/+10
+    - 136/
+    - 146/-11
+    - 13/
+    - 'Pat Garrity (On: -4&#9642;Off: +2&#9642;Net: -6)'
+    - "\n"
+    - 209/
+    - 40/-1
+    - 121/-2
+    - 124/
+    - 3/0
+    - 173/
+    - 76/-1
+    - 83/-2
+    - 154/
+    - 11/+2
+    - 'Troy Hudson (On: -6&#9642;Off: +4&#9642;Net: -10)'
+    - "\n"
+    - 209/
+    - 40/-1
+    - 93/0
+    - 352/
+    - 54/0
+    - 34/-5
+    - 215/
+    - 'Mike Miller (On: -14&#9642;Off: +12&#9642;Net: -26)'
+    - "\n"
+    - 210/
+    - 40/-1
+    - 105/0
+    - 359/
+    - 35/-2
+    - 249/-11
+    - 'Andrew DeClercq (On: -9&#9642;Off: +7&#9642;Net: -16)'
+    - "\n"
+    - 238/
+    - 11/-2
+    - 93/0
+    - 371/
+    - 35/-2
+    - 34/-5
+    - 215/
+    - 'Monty Williams (On: -9&#9642;Off: +7&#9642;Net: -16)'
+    - "\n"
+    - 260/
+    - 144/-4
+    - 302/
+    - 43/-2
+    - 27/-3
+    - 222/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

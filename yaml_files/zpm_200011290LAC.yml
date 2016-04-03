@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Erick Dampier (On: -9&#9642;Off: -14&#9642;Net: +5)'
+    - |2-
+
+      -12
+    - 199/-12
+    - 93/
+    - 207/+2
+    - 238/+1
+    - 262/
+    - 'Larry Hughes (On: -14&#9642;Off: -9&#9642;Net: -5)'
+    - |2-
+
+      -14
+    - 180/-14
+    - 69/
+    - 220/-3
+    - 29/
+    - 237/+1
+    - 68/
+    - 127/+2
+    - 66/
+    - 'Antawn Jamison (On: -17&#9642;Off: -6&#9642;Net: -11)'
+    - |2-
+
+      -13
+    - 249/-13
+    - 39/-4
+    - 49/
+    - 161/+5
+    - 249/-1
+    - 183/-4
+    - 67/
+    - 'Chris Mills (On: -14&#9642;Off: -9&#9642;Net: -5)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 42/
+    - 141/0
+    - 67/
+    - 250/-1
+    - 248/
+    - 'Bob Sura (On: -12&#9642;Off: -11&#9642;Net: -1)'
+    - |2-
+
+      -13
+    - 249/-13
+    - 45/
+    - 193/+2
+    - 11/
+    - 123/+1
+    - 121/
+    - 5/-2
+    - 114/0
+    - 134/
+    - 'Mookie Blaylock (On: -12&#9642;Off: -11&#9642;Net: -1)'
+    - "\n"
+    - 183/
+    - 66/+1
+    - 43/-4
+    - 201/
+    - 5/0
+    - 129/
+    - 120/-2
+    - 249/-7
+    - 'Adonal Foyle (On: -7&#9642;Off: -16&#9642;Net: +9)'
+    - "\n"
+    - 204/
+    - 45/-1
+    - 39/-4
+    - 455/
+    - 5/-2
+    - 250/
+    - 'Adam Keefe (On: -12&#9642;Off: -11&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 87/-7
+    - 100/
+    - 62/+2
+    - 250/
+    - 249/-7
+    - 'Vinny Del Negro (On: -6&#9642;Off: -17&#9642;Net: +11)'
+    - "\n"
+    - 477/
+    - 23/+1
+    - 369/
+    - 131/-7
+    - 'Marc Jackson (On: -9&#9642;Off: -14&#9642;Net: +5)'
+    - "\n"
+    - 750/
+    - 49/-6
+    - 140/
+    - 61/-3
+    - 'Chris Porter (On: -3&#9642;Off: -20&#9642;Net: +17)'
+    - "\n"
+    - 941/
+    - 61/-3
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: +28&#9642;Off: -5&#9642;Net: +33)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 15/+2
+    - 130/
+    - 104/-1
+    - 249/+1
+    - 101/+4
+    - 35/
+    - 60/+9
+    - 52/
+    - 'Lamar Odom (On: +26&#9642;Off: -3&#9642;Net: +29)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 71/+4
+    - 47/
+    - 131/-3
+    - 249/+1
+    - 101/+4
+    - 35/
+    - 54/+7
+    - 58/
+    - 'Michael Olowokandi (On: +10&#9642;Off: +13&#9642;Net: -3)'
+    - |2-
+
+      +10
+    - 153/+10
+    - 293/
+    - 24/0
+    - 29/
+    - 171/0
+    - 328/
+    - 'Quentin Richardson (On: +14&#9642;Off: +9&#9642;Net: +5)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 118/+5
+    - 27/
+    - 104/-1
+    - 249/+1
+    - 130/-2
+    - 80/
+    - 39/-2
+    - 'Derek Strong (On: +18&#9642;Off: +5&#9642;Net: +13)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 250/
+    - 250/+1
+    - 183/+4
+    - 66/
+    - 'Sean Rooks (On: +15&#9642;Off: +8&#9642;Net: +7)'
+    - "\n"
+    - 157/
+    - 92/+3
+    - 192/+3
+    - 35/
+    - 22/-1
+    - 175/
+    - 74/+1
+    - 205/+9
+    - 43/
+    - 'Darius Miles (On: +5&#9642;Off: +18&#9642;Net: -13)'
+    - "\n"
+    - 250/
+    - 250/+2
+    - 439/
+    - 61/+3
+    - 'Keyon Dooling (On: -5&#9642;Off: +28&#9642;Net: -33)'
+    - "\n"
+    - 266/
+    - 128/+1
+    - 460/
+    - 25/-6
+    - 70/
+    - 49/0
+    - 'Eric Piatkowski (On: +2&#9642;Off: +21&#9642;Net: -19)'
+    - "\n"
+    - 323/
+    - 72/-1
+    - 461/
+    - 144/+3
+    - 'Corey Maggette (On: +2&#9642;Off: +21&#9642;Net: -19)'
+    - "\n"
+    - 949/
+    - 53/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

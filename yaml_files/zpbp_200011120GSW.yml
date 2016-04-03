@@ -1,0 +1,3035 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: E. Dampier vs. T. McGrady (A. Jamison gains possession)'
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - A. Jamison makes 2-pt shot from 17 ft (assist by M. Blaylock)
+  - - '11:31.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Violation by A. Jamison (kicked ball)
+  - - '11:18.0'
+    - T. McGrady misses 3-pt shot from 27 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by Team
+  - - '10:58.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - E. Dampier misses 2-pt shot from 14 ft (block by D. Reid)
+  - - '10:56.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:54.0'
+    - D. Armstrong makes 2-pt shot at rim (assist by D. Reid)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by E. Dampier (3 second)
+  - - '10:26.0'
+    - D. Armstrong misses 2-pt shot from 18 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:22.0'
+    - J. Amaechi misses 2-pt shot from 18 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '10:17.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Personal foul by J. Amaechi
+  - - '10:11.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - A. Jamison makes 2-pt shot from 18 ft (assist by L. Hughes)
+  - - '9:53.0'
+    - T. McGrady misses 2-pt shot from 12 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '9:39.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - E. Dampier misses 2-pt shot from 11 ft
+  - - '9:38.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:32.0'
+    - Personal foul by L. Hughes
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:24.0'
+    - Personal foul by E. Dampier
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:15.0'
+    - J. Amaechi misses 2-pt shot from 12 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by A. Jamison
+  - - '9:00.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Offensive foul by L. Hughes
+  - - '9:00.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Turnover by L. Hughes (foul)
+  - - '8:47.0'
+    - D. Armstrong misses 3-pt shot from 24 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '8:31.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Turnover by M. Blaylock (bad pass; steal by J. Amaechi)
+  - - '8:21.0'
+    - T. McGrady misses 2-pt shot from 18 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '8:19.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '8:18.0'
+    - T. McGrady makes 2-pt shot at rim
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - M. Blaylock makes 2-pt shot from 17 ft (assist by A. Jamison)
+  - - '7:51.0'
+    - T. McGrady makes 2-pt shot at rim (assist by D. Reid)
+    - "+2"
+    - 6-6
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Turnover by M. Blaylock (no)
+  - - '7:28.0'
+    - J. Amaechi misses 2-pt shot from 10 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '7:27.0'
+    - Offensive rebound by J. Amaechi
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '7:23.0'
+    - D. Armstrong makes 2-pt shot from 6 ft (assist by J. Amaechi)
+    - "+2"
+    - 8-6
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Offensive foul by D. Fortson
+  - - '7:10.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Turnover by D. Fortson (foul)
+  - - '6:56.0'
+    - D. Armstrong misses 2-pt shot from 15 ft
+    - ''
+    - 8-6
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '6:49.0'
+    - ''
+    - ''
+    - 8-8
+    - "+2"
+    - E. Dampier makes 2-pt shot at rim (assist by L. Hughes)
+  - - '6:36.0'
+    - J. Amaechi misses 2-pt shot at rim
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by E. Dampier
+  - - '6:23.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Personal foul by D. Reid
+  - - '6:18.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Offensive foul by E. Dampier
+  - - '6:18.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Turnover by E. Dampier (foul)
+  - - '6:04.0'
+    - J. Amaechi misses 2-pt shot from 4 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:03.0'
+    - T. McGrady misses 2-pt shot at rim
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:02.0'
+    - B. Outlaw misses 2-pt shot at rim
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:02.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:01.0'
+    - Offensive rebound by D. Reid
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:00.0'
+    - D. Reid makes 2-pt shot from 2 ft
+    - "+2"
+    - 10-8
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - A. Jamison misses 3-pt shot from 23 ft
+  - - '5:46.0'
+    - Defensive rebound by Team
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '5:46.0'
+    - Orlando full timeout
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - C. Mills enters the game for L. Hughes
+  - - '5:35.0'
+    - J. Amaechi makes 2-pt shot from 4 ft
+    - "+2"
+    - 12-8
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 12-8
+    - ''
+    - Turnover by M. Blaylock (bad pass; steal by D. Reid)
+  - - '5:14.0'
+    - D. Reid makes 2-pt shot at rim
+    - "+2"
+    - 14-8
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Turnover by C. Mills (out of bounds)
+  - - '4:52.0'
+    - T. McGrady misses 2-pt shot from 11 ft
+    - ''
+    - 14-8
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Defensive rebound by E. Dampier
+  - - '4:39.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - C. Mills misses 2-pt shot from 17 ft
+  - - '4:38.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Offensive rebound by A. Jamison
+  - - '4:33.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Turnover by A. Jamison (lost ball; steal by D. Armstrong)
+  - - '4:29.0'
+    - D. Armstrong makes 2-pt shot at rim
+    - "+2"
+    - 16-8
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - Turnover by A. Jamison (lost ball; steal by B. Outlaw)
+  - - '4:17.0'
+    - D. Armstrong makes 2-pt shot at rim (assist by B. Outlaw)
+    - "+2"
+    - 18-8
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 18-8
+    - ''
+    - Golden State full timeout
+  - - '4:07.0'
+    - ''
+    - ''
+    - 18-8
+    - ''
+    - Turnover by A. Jamison (lost ball; steal by B. Outlaw)
+  - - '4:05.0'
+    - Personal foul by C. Mills
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:52.0'
+    - T. McGrady misses 2-pt shot at rim
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 18-8
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '3:36.0'
+    - ''
+    - ''
+    - 18-8
+    - ''
+    - M. Blaylock misses 3-pt shot from 26 ft
+  - - '3:35.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:30.0'
+    - D. Armstrong makes 2-pt shot from 12 ft (assist by D. Reid)
+    - "+2"
+    - 20-8
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - C. Mills misses 2-pt shot from 16 ft
+  - - '3:12.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - Offensive rebound by E. Dampier
+  - - '3:11.0'
+    - ''
+    - ''
+    - 20-8
+    - ''
+    - Shooting foul by D. Reid
+  - - '3:11.0'
+    - ''
+    - ''
+    - 20-9
+    - "+1"
+    - E. Dampier makes free throw 1 of 2
+  - - '3:11.0'
+    - P. Garrity enters the game for D. Reid
+    - ''
+    - 20-9
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 20-10
+    - "+1"
+    - E. Dampier makes free throw 2 of 2
+  - - '2:58.0'
+    - J. Amaechi misses 2-pt shot from 21 ft
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '2:50.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - Personal foul by T. McGrady
+  - - '2:50.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - A. Foyle enters the game for E. Dampier
+  - - '2:50.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - C. Mullin enters the game for A. Jamison
+  - - '2:39.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - M. Blaylock misses 2-pt shot from 16 ft
+  - - '2:36.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - Offensive rebound by Team
+  - - '2:31.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - C. Mills misses 2-pt shot from 17 ft
+  - - '2:30.0'
+    - Defensive rebound by J. Amaechi
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:14.0'
+    - D. Armstrong makes 3-pt shot from 24 ft (assist by J. Amaechi)
+    - "+3"
+    - 23-10
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 23-10
+    - ''
+    - Shooting foul by J. Amaechi
+  - - '1:51.0'
+    - M. Doleac enters the game for J. Amaechi
+    - ''
+    - 23-10
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 23-11
+    - "+1"
+    - D. Fortson makes free throw 1 of 2
+  - - '1:51.0'
+    - ''
+    - ''
+    - 23-12
+    - "+1"
+    - D. Fortson makes free throw 2 of 2
+  - - '1:39.0'
+    - P. Garrity misses 2-pt shot from 15 ft
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - Defensive rebound by A. Foyle
+  - - '1:37.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - Turnover by A. Foyle (out of bounds)
+  - - '1:37.0'
+    - T. Hudson enters the game for D. Armstrong
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:35.0'
+    - M. Doleac misses 2-pt shot from 18 ft
+    - ''
+    - 23-12
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 23-12
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '1:26.0'
+    - ''
+    - ''
+    - 23-15
+    - "+3"
+    - C. Mullin makes 3-pt shot from 23 ft (assist by M. Blaylock)
+  - - '1:08.0'
+    - B. Outlaw makes 2-pt shot at rim
+    - "+2"
+    - 25-15
+    - ''
+    - ''
+  - - '0:48.1'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Shooting foul by M. Doleac
+  - - '0:48.1'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - D. Fortson misses free throw 1 of 2
+  - - '0:48.1'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Offensive rebound by Team
+  - - '0:48.1'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - D. Fortson misses free throw 2 of 2
+  - - '0:47.3'
+    - Defensive rebound by M. Doleac
+    - ''
+    - 25-15
+    - ''
+    - ''
+  - - '0:39.8'
+    - M. Doleac misses 2-pt shot from 18 ft
+    - ''
+    - 25-15
+    - ''
+    - ''
+  - - '0:38.6'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Defensive rebound by C. Mills
+  - - '0:22.8'
+    - ''
+    - ''
+    - 25-17
+    - "+2"
+    - D. Fortson makes 2-pt shot from 14 ft (assist by A. Foyle)
+  - - '0:01.7'
+    - M. Doleac misses 2-pt shot from 18 ft
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - Defensive rebound by C. Mills
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - M. Williams misses 2-pt shot from 5 ft
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '11:45.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '11:42.0'
+    - Turnover by B. Outlaw (back court)
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - C. Mills misses 2-pt shot from 13 ft
+  - - '11:19.0'
+    - Defensive rebound by M. Williams
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '11:15.0'
+    - M. Doleac makes 2-pt shot from 3 ft (assist by B. Outlaw)
+    - "+2"
+    - 27-17
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 27-17
+    - ''
+    - Shooting foul by M. Doleac
+  - - '10:55.0'
+    - M. Miller enters the game for B. Outlaw
+    - ''
+    - 27-17
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 27-17
+    - ''
+    - A. Foyle misses free throw 1 of 2
+  - - '10:55.0'
+    - ''
+    - ''
+    - 27-17
+    - ''
+    - Offensive rebound by Team
+  - - '10:55.0'
+    - ''
+    - ''
+    - 27-18
+    - "+1"
+    - A. Foyle makes free throw 2 of 2
+  - - '10:49.0'
+    - Turnover by T. Hudson (no)
+    - ''
+    - 27-18
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 27-18
+    - ''
+    - C. Mullin misses 2-pt shot from 9 ft
+  - - '10:31.0'
+    - Defensive rebound by M. Doleac
+    - ''
+    - 27-18
+    - ''
+    - ''
+  - - '10:26.0'
+    - T. Hudson makes 2-pt shot at rim (assist by M. Doleac)
+    - "+2"
+    - 29-18
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - Golden State full timeout
+  - - '10:08.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - C. Mullin misses 2-pt shot from 17 ft
+  - - '10:06.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - Offensive rebound by A. Foyle
+  - - '10:06.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - Shooting foul by M. Williams
+  - - '10:06.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - A. Foyle misses free throw 1 of 2
+  - - '10:06.0'
+    - ''
+    - ''
+    - 29-18
+    - ''
+    - Offensive rebound by Team
+  - - '10:06.0'
+    - ''
+    - ''
+    - 29-19
+    - "+1"
+    - A. Foyle makes free throw 2 of 2
+  - - '9:56.0'
+    - P. Garrity makes 2-pt shot from 18 ft (assist by T. Hudson)
+    - "+2"
+    - 31-19
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - Shooting foul by M. Doleac
+  - - '9:40.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - D. Fortson misses free throw 1 of 2
+  - - '9:40.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - Offensive rebound by Team
+  - - '9:40.0'
+    - J. Amaechi enters the game for M. Doleac
+    - ''
+    - 31-19
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 31-20
+    - "+1"
+    - D. Fortson makes free throw 2 of 2
+  - - '9:26.0'
+    - P. Garrity misses 2-pt shot from 19 ft
+    - ''
+    - 31-20
+    - ''
+    - ''
+  - - '9:21.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - Defensive rebound by C. Mills
+  - - '9:21.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - Personal foul by M. Williams
+  - - '9:21.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - A. Jamison enters the game for D. Fortson
+  - - '9:11.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - C. Mills misses 2-pt shot from 5 ft
+  - - '9:09.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - Offensive rebound by A. Foyle
+  - - '9:06.0'
+    - ''
+    - ''
+    - 31-22
+    - "+2"
+    - C. Mills makes 2-pt shot at rim (assist by A. Foyle)
+  - - '8:52.0'
+    - J. Amaechi misses 2-pt shot at rim (block by A. Foyle)
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - Defensive rebound by A. Foyle
+  - - '8:44.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - Turnover by A. Foyle (bad pass; steal by M. Miller)
+  - - '8:44.0'
+    - D. Reid enters the game for P. Garrity
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '8:44.0'
+    - B. Outlaw enters the game for M. Williams
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '8:44.0'
+    - Shooting foul by A. Foyle
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '8:44.0'
+    - M. Miller makes free throw 1 of 2
+    - "+1"
+    - 32-22
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - L. Hughes enters the game for V. Del Negro
+  - - '8:44.0'
+    - M. Miller makes free throw 2 of 2
+    - "+1"
+    - 33-22
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 33-22
+    - ''
+    - C. Mills misses 2-pt shot from 17 ft
+  - - '8:28.0'
+    - ''
+    - ''
+    - 33-22
+    - ''
+    - Offensive rebound by C. Mullin
+  - - '8:22.0'
+    - ''
+    - ''
+    - 33-22
+    - ''
+    - C. Mills misses 2-pt shot from 18 ft
+  - - '8:19.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 33-22
+    - ''
+    - ''
+  - - '8:09.0'
+    - T. Hudson misses 3-pt shot from 24 ft
+    - ''
+    - 33-22
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 33-22
+    - ''
+    - Defensive rebound by C. Mullin
+  - - '7:58.0'
+    - ''
+    - ''
+    - 33-24
+    - "+2"
+    - C. Mills makes 2-pt shot from 4 ft (assist by L. Hughes)
+  - - '7:51.0'
+    - Orlando full timeout
+    - ''
+    - 33-24
+    - ''
+    - ''
+  - - '7:37.0'
+    - Personal foul by A. Foyle
+    - ''
+    - 33-24
+    - ''
+    - ''
+  - - '7:29.0'
+    - J. Amaechi makes 2-pt shot from 8 ft
+    - "+2"
+    - 35-24
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 35-24
+    - ''
+    - L. Hughes misses 2-pt shot at rim
+  - - '7:07.0'
+    - ''
+    - ''
+    - 35-26
+    - "+2"
+    - A. Jamison makes 2-pt shot at rim
+  - - '7:07.0'
+    - ''
+    - ''
+    - 35-26
+    - ''
+    - Offensive rebound by A. Jamison
+  - - '6:54.0'
+    - J. Amaechi makes 2-pt shot from 2 ft (assist by T. Hudson)
+    - "+2"
+    - 37-26
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 37-26
+    - ''
+    - Turnover by L. Hughes (lost ball)
+  - - '6:45.0'
+    - D. Armstrong enters the game for T. Hudson
+    - ''
+    - 37-26
+    - ''
+    - ''
+  - - '6:45.0'
+    - T. McGrady enters the game for M. Miller
+    - ''
+    - 37-26
+    - ''
+    - ''
+  - - '6:30.0'
+    - T. McGrady misses 3-pt shot from 25 ft
+    - ''
+    - 37-26
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 37-26
+    - ''
+    - Defensive rebound by Team
+  - - '6:05.0'
+    - ''
+    - ''
+    - 37-26
+    - ''
+    - Turnover by Team (shot clock)
+  - - '5:51.0'
+    - T. McGrady misses 2-pt shot from 6 ft
+    - ''
+    - 37-26
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 37-26
+    - ''
+    - Defensive rebound by C. Mills
+  - - '5:42.0'
+    - ''
+    - ''
+    - 37-28
+    - "+2"
+    - L. Hughes makes 2-pt shot from 6 ft
+  - - '5:26.0'
+    - J. Amaechi misses 2-pt shot from 4 ft (block by A. Foyle)
+    - ''
+    - 37-28
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 37-28
+    - ''
+    - Defensive rebound by L. Hughes
+  - - '5:18.0'
+    - ''
+    - ''
+    - 37-30
+    - "+2"
+    - L. Hughes makes 2-pt shot from 7 ft
+  - - '5:18.0'
+    - Violation by D. Reid (def goaltending)
+    - ''
+    - 37-30
+    - ''
+    - ''
+  - - '5:04.0'
+    - Turnover by D. Reid (3 second)
+    - ''
+    - 37-30
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 37-30
+    - ''
+    - D. Fortson enters the game for C. Mullin
+  - - '4:45.0'
+    - ''
+    - ''
+    - 37-30
+    - ''
+    - L. Hughes misses 2-pt shot from 13 ft (block by B. Outlaw)
+  - - '4:43.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 37-30
+    - ''
+    - ''
+  - - '4:40.0'
+    - D. Reid makes 2-pt shot at rim (assist by B. Outlaw)
+    - "+2"
+    - 39-30
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 39-30
+    - ''
+    - A. Jamison misses 2-pt shot from 6 ft (block by B. Outlaw)
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-30
+    - ''
+    - Offensive rebound by A. Jamison
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-30
+    - ''
+    - Shooting foul by B. Outlaw
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-30
+    - ''
+    - A. Jamison misses free throw 1 of 2
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-31
+    - "+1"
+    - A. Jamison makes free throw 2 of 2
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - Offensive rebound by Team
+  - - '4:14.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - E. Dampier enters the game for A. Foyle
+  - - '4:00.0'
+    - B. Outlaw makes 2-pt shot from 5 ft (assist by D. Armstrong)
+    - "+2"
+    - 41-31
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 41-31
+    - ''
+    - A. Jamison misses 2-pt shot from 5 ft (block by B. Outlaw)
+  - - '3:43.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 41-31
+    - ''
+    - ''
+  - - '3:36.0'
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by B. Outlaw)
+    - "+3"
+    - 44-31
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 44-33
+    - "+2"
+    - C. Mills makes 2-pt shot from 3 ft (assist by L. Hughes)
+  - - '3:21.0'
+    - ''
+    - ''
+    - 44-33
+    - ''
+    - Shooting foul by D. Reid
+  - - '3:21.0'
+    - ''
+    - ''
+    - 44-34
+    - "+1"
+    - C. Mills makes free throw 1 of 1
+  - - '3:10.0'
+    - D. Armstrong misses 3-pt shot from 25 ft
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '3:03.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Turnover by L. Hughes (bad pass; steal by D. Armstrong)
+  - - '2:54.0'
+    - Turnover by D. Armstrong (bad pass; steal by C. Mills)
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 44-36
+    - "+2"
+    - D. Fortson makes 2-pt shot at rim
+  - - '2:46.0'
+    - ''
+    - ''
+    - 44-36
+    - ''
+    - Shooting foul by B. Outlaw
+  - - '2:46.0'
+    - ''
+    - ''
+    - 44-36
+    - ''
+    - Official timeout
+  - - '2:46.0'
+    - A. DeClercq enters the game for D. Reid
+    - ''
+    - 44-36
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 44-37
+    - "+1"
+    - D. Fortson makes free throw 1 of 1
+  - - '2:46.0'
+    - ''
+    - ''
+    - 44-37
+    - ''
+    - M. Blaylock enters the game for L. Hughes
+  - - '2:37.0'
+    - B. Outlaw makes 2-pt shot at rim (assist by T. McGrady)
+    - "+2"
+    - 46-37
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 46-37
+    - ''
+    - Offensive foul by A. Jamison
+  - - '2:22.0'
+    - ''
+    - ''
+    - 46-37
+    - ''
+    - Turnover by A. Jamison (foul)
+  - - '2:10.0'
+    - A. DeClercq misses 2-pt shot from 8 ft (block by E. Dampier)
+    - ''
+    - 46-37
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 46-37
+    - ''
+    - Defensive rebound by A. Jamison
+  - - '2:07.0'
+    - ''
+    - ''
+    - 46-39
+    - "+2"
+    - M. Blaylock makes 2-pt shot at rim (assist by A. Jamison)
+  - - '2:07.0'
+    - Violation by B. Outlaw (def goaltending)
+    - ''
+    - 46-39
+    - ''
+    - ''
+  - - '1:49.0'
+    - Offensive foul by A. DeClercq
+    - ''
+    - 46-39
+    - ''
+    - ''
+  - - '1:49.0'
+    - Turnover by A. DeClercq (foul)
+    - ''
+    - 46-39
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 46-41
+    - "+2"
+    - E. Dampier makes 2-pt shot from 7 ft
+  - - '1:25.0'
+    - Personal foul by E. Dampier
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 46-41
+    - ''
+    - A. Foyle enters the game for E. Dampier
+  - - '1:25.0'
+    - P. Garrity enters the game for A. DeClercq
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '1:18.0'
+    - P. Garrity misses 2-pt shot at rim
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 46-41
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '1:01.0'
+    - ''
+    - ''
+    - 46-41
+    - ''
+    - A. Jamison misses 2-pt shot from 6 ft
+  - - '0:59.0'
+    - Defensive rebound by J. Amaechi
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '0:52.8'
+    - T. McGrady makes 2-pt shot at rim (assist by D. Armstrong)
+    - "+2"
+    - 48-41
+    - ''
+    - ''
+  - - '0:52.8'
+    - Shooting foul by A. Foyle
+    - ''
+    - 48-41
+    - ''
+    - ''
+  - - '0:52.8'
+    - T. McGrady makes free throw 1 of 1
+    - "+1"
+    - 49-41
+    - ''
+    - ''
+  - - '0:40.3'
+    - ''
+    - ''
+    - 49-41
+    - ''
+    - Turnover by A. Jamison (bad pass; steal by T. McGrady)
+  - - '0:33.7'
+    - T. McGrady misses 2-pt shot from 4 ft
+    - ''
+    - 49-41
+    - ''
+    - ''
+  - - '0:32.6'
+    - ''
+    - ''
+    - 49-41
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '0:12.0'
+    - ''
+    - ''
+    - 49-41
+    - ''
+    - C. Mills misses 2-pt shot from 20 ft
+  - - '0:08.7'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 49-41
+    - ''
+    - ''
+  - - '0:07.1'
+    - Orlando 20 second timeout
+    - ''
+    - 49-41
+    - ''
+    - ''
+  - - '0:00.5'
+    - 'Jump ball: A. Jamison vs. D. Armstrong (A. Jamison gains possession)'
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:49.0'
+    - J. Amaechi misses 2-pt shot from 15 ft
+    - ''
+    - 49-41
+    - ''
+    - ''
+  - - '11:48.0'
+    - ''
+    - ''
+    - 49-41
+    - ''
+    - Defensive rebound by M. Blaylock
+  - - '11:33.0'
+    - ''
+    - ''
+    - 49-43
+    - "+2"
+    - M. Blaylock makes 2-pt shot from 15 ft
+  - - '11:15.0'
+    - T. McGrady makes 2-pt shot from 2 ft
+    - "+2"
+    - 51-43
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 51-45
+    - "+2"
+    - E. Dampier makes 2-pt shot at rim (assist by M. Blaylock)
+  - - '10:47.0'
+    - T. McGrady misses 2-pt shot from 8 ft
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '10:46.0'
+    - Offensive rebound by D. Armstrong
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '10:42.0'
+    - D. Armstrong misses 2-pt shot from 18 ft
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '10:39.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '10:37.0'
+    - T. McGrady makes 2-pt shot from 19 ft (assist by B. Outlaw)
+    - "+2"
+    - 53-45
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 53-45
+    - ''
+    - D. Fortson misses 2-pt shot from 7 ft (block by J. Amaechi)
+  - - '10:15.0'
+    - ''
+    - ''
+    - 53-45
+    - ''
+    - Offensive rebound by D. Fortson
+  - - '10:13.0'
+    - ''
+    - ''
+    - 53-47
+    - "+2"
+    - D. Fortson makes 2-pt shot at rim
+  - - '10:01.0'
+    - T. McGrady misses 2-pt shot from 14 ft
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '9:49.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - Turnover by E. Dampier (lost ball)
+  - - '9:32.0'
+    - J. Amaechi misses 2-pt shot from 20 ft
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '9:31.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '9:29.0'
+    - Turnover by T. McGrady (traveling)
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - A. Jamison misses 2-pt shot from 19 ft
+  - - '9:15.0'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '9:10.0'
+    - Turnover by B. Outlaw (bad pass)
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 53-49
+    - "+2"
+    - D. Fortson makes 2-pt shot from 15 ft
+  - - '8:41.0'
+    - Orlando full timeout
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '8:31.0'
+    - D. Armstrong misses 2-pt shot from 11 ft (block by M. Blaylock)
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '8:29.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '8:26.0'
+    - Turnover by B. Outlaw (bad pass; steal by E. Dampier)
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - M. Blaylock misses 3-pt shot from 23 ft
+  - - '8:10.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '8:03.0'
+    - D. Reid makes 2-pt shot at rim (assist by T. McGrady)
+    - "+2"
+    - 55-49
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 55-49
+    - ''
+    - Turnover by L. Hughes (bad pass; steal by T. McGrady)
+  - - '7:51.0'
+    - Clear path foul by L. Hughes
+    - ''
+    - 55-49
+    - ''
+    - ''
+  - - '7:51.0'
+    - T. McGrady makes free throw flagrant 1 of 2
+    - "+1"
+    - 56-49
+    - ''
+    - ''
+  - - '7:43.0'
+    - T. McGrady misses 2-pt shot from 17 ft
+    - ''
+    - 56-49
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 56-49
+    - ''
+    - Defensive rebound by E. Dampier
+  - - '7:34.0'
+    - ''
+    - ''
+    - 56-51
+    - "+2"
+    - E. Dampier makes 2-pt shot from 4 ft (assist by M. Blaylock)
+  - - '7:16.0'
+    - J. Amaechi misses 2-pt shot from 7 ft
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Defensive rebound by L. Hughes
+  - - '7:11.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Turnover by L. Hughes (bad pass; steal by T. McGrady)
+  - - '7:06.0'
+    - Shooting foul by D. Fortson
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:06.0'
+    - T. McGrady misses free throw 1 of 2
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:06.0'
+    - T. McGrady makes free throw 2 of 2
+    - "+1"
+    - 57-51
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - L. Hughes misses 3-pt shot from 25 ft
+  - - '6:52.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Offensive rebound by Team
+  - - '6:40.0'
+    - ''
+    - ''
+    - 57-53
+    - "+2"
+    - D. Fortson makes 2-pt shot from 5 ft
+  - - '6:35.0'
+    - Offensive foul by J. Amaechi
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '6:35.0'
+    - Turnover by J. Amaechi (foul)
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 57-55
+    - "+2"
+    - D. Fortson makes 2-pt shot from 7 ft (assist by M. Blaylock)
+  - - '6:06.0'
+    - T. McGrady makes 2-pt shot from 2 ft
+    - "+2"
+    - 59-55
+    - ''
+    - ''
+  - - '6:06.0'
+    - Shooting foul by L. Hughes
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '6:06.0'
+    - T. McGrady makes free throw 1 of 1
+    - "+1"
+    - 60-55
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 60-57
+    - "+2"
+    - L. Hughes makes 2-pt shot from 11 ft
+  - - '5:36.0'
+    - D. Reid misses 2-pt shot from 4 ft
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '5:29.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Personal foul by T. McGrady
+  - - '5:29.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - C. Mills enters the game for L. Hughes
+  - - '5:23.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - M. Blaylock misses 3-pt shot from 24 ft
+  - - '5:22.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '5:04.0'
+    - B. Outlaw misses 2-pt shot from 8 ft
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '5:03.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '5:01.0'
+    - Turnover by B. Outlaw (bad pass; steal by A. Jamison)
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 60-59
+    - "+2"
+    - C. Mills makes 2-pt shot from 13 ft (assist by M. Blaylock)
+  - - '4:43.0'
+    - D. Armstrong misses 3-pt shot from 25 ft
+    - ''
+    - 60-59
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 60-59
+    - ''
+    - Defensive rebound by C. Mills
+  - - '4:19.0'
+    - ''
+    - ''
+    - 60-59
+    - ''
+    - E. Dampier misses 2-pt shot at rim (block by J. Amaechi)
+  - - '4:17.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 60-59
+    - ''
+    - ''
+  - - '4:14.0'
+    - Turnover by D. Armstrong (bad pass; steal by M. Blaylock)
+    - ''
+    - 60-59
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 60-61
+    - "+2"
+    - M. Blaylock makes 2-pt shot at rim
+  - - '4:11.0'
+    - Orlando full timeout
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - A. Foyle enters the game for E. Dampier
+  - - '3:51.0'
+    - D. Armstrong misses 2-pt shot from 18 ft
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '3:50.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '3:35.0'
+    - P. Garrity enters the game for D. Reid
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '3:28.0'
+    - T. McGrady makes 2-pt shot from 17 ft
+    - "+2"
+    - 62-61
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 62-63
+    - "+2"
+    - A. Jamison makes 2-pt shot from 10 ft (assist by M. Blaylock)
+  - - '2:55.0'
+    - B. Outlaw misses 2-pt shot from 2 ft
+    - ''
+    - 62-63
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 62-63
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '2:44.0'
+    - ''
+    - ''
+    - 62-65
+    - "+2"
+    - A. Jamison makes 2-pt shot from 17 ft (assist by M. Blaylock)
+  - - '2:33.0'
+    - B. Outlaw makes 2-pt shot at rim
+    - "+2"
+    - 64-65
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 64-68
+    - "+3"
+    - C. Mills makes 3-pt shot from 25 ft (assist by M. Blaylock)
+  - - '2:02.0'
+    - J. Amaechi makes 2-pt shot at rim (assist by D. Armstrong)
+    - "+2"
+    - 66-68
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 66-70
+    - "+2"
+    - A. Foyle makes 2-pt shot at rim (assist by D. Fortson)
+  - - '1:27.0'
+    - Turnover by B. Outlaw (3 second)
+    - ''
+    - 66-70
+    - ''
+    - ''
+  - - '1:27.0'
+    - T. Hudson enters the game for D. Armstrong
+    - ''
+    - 66-70
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 66-70
+    - ''
+    - Turnover by A. Jamison (bad pass; steal by T. Hudson)
+  - - '1:09.0'
+    - P. Garrity makes 2-pt shot from 17 ft (assist by T. McGrady)
+    - "+2"
+    - 68-70
+    - ''
+    - ''
+  - - '0:51.3'
+    - ''
+    - ''
+    - 68-70
+    - ''
+    - Turnover by C. Mills (lost ball; steal by J. Amaechi)
+  - - '0:46.3'
+    - B. Outlaw makes 2-pt shot at rim (assist by T. McGrady)
+    - "+2"
+    - 70-70
+    - ''
+    - ''
+  - - '0:36.8'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - M. Blaylock misses 3-pt shot from 26 ft
+  - - '0:34.5'
+    - Defensive rebound by J. Amaechi
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '0:15.4'
+    - J. Amaechi makes 2-pt shot from 17 ft (assist by B. Outlaw)
+    - "+2"
+    - 72-70
+    - ''
+    - ''
+  - - '0:01.6'
+    - ''
+    - ''
+    - 72-72
+    - "+2"
+    - A. Jamison makes 2-pt shot from 12 ft (assist by M. Blaylock)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 72-72
+    - ''
+    - A. Jamison misses 2-pt shot from 20 ft
+  - - '11:43.0'
+    - ''
+    - ''
+    - 72-72
+    - ''
+    - Offensive rebound by A. Foyle
+  - - '11:42.0'
+    - ''
+    - ''
+    - 72-74
+    - "+2"
+    - A. Foyle makes 2-pt shot at rim
+  - - '11:14.0'
+    - M. Doleac misses 2-pt shot from 17 ft
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - Defensive rebound by Team
+  - - '10:50.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - Offensive foul by C. Mills
+  - - '10:50.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - Turnover by C. Mills (foul)
+  - - '10:29.0'
+    - Shooting foul by D. Fortson
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - L. Hughes enters the game for C. Mills
+  - - '10:29.0'
+    - M. Doleac makes free throw 1 of 2
+    - "+1"
+    - 73-74
+    - ''
+    - ''
+  - - '10:29.0'
+    - M. Doleac misses free throw 2 of 2
+    - ''
+    - 73-74
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 73-74
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '10:11.0'
+    - ''
+    - ''
+    - 73-74
+    - ''
+    - Shooting foul by M. Doleac
+  - - '10:11.0'
+    - ''
+    - ''
+    - 73-75
+    - "+1"
+    - D. Fortson makes free throw 1 of 2
+  - - '10:11.0'
+    - ''
+    - ''
+    - 73-75
+    - ''
+    - D. Fortson misses free throw 2 of 2
+  - - '10:09.0'
+    - Defensive rebound by M. Doleac
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '10:04.0'
+    - T. Hudson misses 2-pt shot from 5 ft (block by A. Foyle)
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '10:02.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 73-75
+    - ''
+    - ''
+  - - '9:58.0'
+    - M. Miller makes 2-pt shot from 19 ft (assist by B. Outlaw)
+    - "+2"
+    - 75-75
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Offensive foul by A. Jamison
+  - - '9:43.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Turnover by A. Jamison (foul)
+  - - '9:31.0'
+    - Offensive foul by P. Garrity
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '9:31.0'
+    - Turnover by P. Garrity (foul)
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - L. Hughes misses 2-pt shot from 13 ft
+  - - '9:17.0'
+    - Defensive rebound by M. Miller
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '9:08.0'
+    - Personal foul by L. Hughes
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - C. Mills enters the game for L. Hughes
+  - - '9:03.0'
+    - Personal foul by M. Blaylock
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '8:54.0'
+    - B. Outlaw makes 2-pt shot at rim (assist by T. Hudson)
+    - "+2"
+    - 77-75
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 77-77
+    - "+2"
+    - M. Blaylock makes 2-pt shot from 15 ft (assist by A. Jamison)
+  - - '8:12.0'
+    - Turnover by B. Outlaw (lost ball; steal by M. Blaylock)
+    - ''
+    - 77-77
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 77-77
+    - ''
+    - A. Jamison misses 3-pt shot from 24 ft
+  - - '7:52.0'
+    - Defensive rebound by T. Hudson
+    - ''
+    - 77-77
+    - ''
+    - ''
+  - - '7:46.0'
+    - M. Miller makes 3-pt shot from 24 ft (assist by T. Hudson)
+    - "+3"
+    - 80-77
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 80-77
+    - ''
+    - Golden State full timeout
+  - - '7:35.0'
+    - ''
+    - ''
+    - 80-77
+    - ''
+    - E. Dampier enters the game for A. Foyle
+  - - '7:35.0'
+    - D. Armstrong enters the game for B. Outlaw
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '7:35.0'
+    - T. McGrady enters the game for T. Hudson
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 80-77
+    - ''
+    - Turnover by M. Blaylock (bad pass; steal by M. Miller)
+  - - '7:15.0'
+    - T. McGrady makes 2-pt shot at rim (assist by M. Miller)
+    - "+2"
+    - 82-77
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - E. Dampier misses 2-pt shot from 10 ft
+  - - '6:53.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Offensive rebound by A. Jamison
+  - - '6:49.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Double personal foul by D. Fortson and P. Garrity
+  - - '6:49.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - L. Hughes enters the game for E. Dampier
+  - - '6:36.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - L. Hughes misses 2-pt shot from 10 ft (block by T. McGrady)
+  - - '6:34.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Offensive rebound by L. Hughes
+  - - '6:31.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - L. Hughes misses 3-pt shot from 23 ft
+  - - '6:30.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - Offensive rebound by D. Fortson
+  - - '6:29.0'
+    - 'Jump ball: D. Fortson vs. T. McGrady (C. Mills gains possession)'
+  - - '6:12.0'
+    - ''
+    - ''
+    - 82-79
+    - "+2"
+    - L. Hughes makes 2-pt shot from 6 ft (assist by M. Blaylock)
+  - - '5:57.0'
+    - M. Miller misses 2-pt shot from 19 ft
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - Defensive rebound by L. Hughes
+  - - '5:31.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - C. Mills misses 3-pt shot from 23 ft
+  - - '5:30.0'
+    - Defensive rebound by M. Doleac
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '5:26.0'
+    - Shooting foul by M. Blaylock
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '5:26.0'
+    - J. Amaechi enters the game for M. Doleac
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '5:26.0'
+    - Official timeout
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '5:26.0'
+    - D. Armstrong makes free throw 1 of 2
+    - "+1"
+    - 83-79
+    - ''
+    - ''
+  - - '5:26.0'
+    - D. Armstrong makes free throw 2 of 2
+    - "+1"
+    - 84-79
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - Turnover by L. Hughes (bad pass; steal by T. McGrady)
+  - - '5:03.0'
+    - Personal foul by L. Hughes
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - C. Mullin enters the game for L. Hughes
+  - - '5:03.0'
+    - M. Miller makes free throw 1 of 2
+    - "+1"
+    - 85-79
+    - ''
+    - ''
+  - - '5:03.0'
+    - M. Miller makes free throw 2 of 2
+    - "+1"
+    - 86-79
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - Turnover by C. Mullin (bad pass; steal by D. Armstrong)
+  - - '4:26.0'
+    - T. McGrady makes 2-pt shot from 8 ft (assist by M. Miller)
+    - "+2"
+    - 88-79
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 88-81
+    - "+2"
+    - A. Jamison makes 2-pt shot from 17 ft (assist by M. Blaylock)
+  - - '3:48.0'
+    - Turnover by D. Armstrong (bad pass; steal by D. Fortson)
+    - ''
+    - 88-81
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 88-81
+    - ''
+    - C. Mullin misses 2-pt shot from 3 ft (block by J. Amaechi)
+  - - '3:38.0'
+    - ''
+    - ''
+    - 88-81
+    - ''
+    - Offensive rebound by Team
+  - - '3:30.0'
+    - ''
+    - ''
+    - 88-83
+    - "+2"
+    - C. Mills makes 2-pt shot at rim (assist by M. Blaylock)
+  - - '3:12.0'
+    - M. Miller misses 3-pt shot from 25 ft
+    - ''
+    - 88-83
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 88-83
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '2:57.0'
+    - ''
+    - ''
+    - 88-85
+    - "+2"
+    - A. Jamison makes 2-pt shot from 13 ft (assist by M. Blaylock)
+  - - '2:55.0'
+    - Orlando full timeout
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:40.0'
+    - J. Amaechi misses 2-pt shot from 17 ft
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 88-85
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '2:19.0'
+    - ''
+    - ''
+    - 88-85
+    - ''
+    - C. Mills misses 2-pt shot from 17 ft (block by T. McGrady)
+  - - '2:17.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:11.0'
+    - Shooting foul by C. Mills
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:11.0'
+    - Orlando 20 second timeout
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:11.0'
+    - P. Garrity misses free throw 1 of 2
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:11.0'
+    - Offensive rebound by Team
+    - ''
+    - 88-85
+    - ''
+    - ''
+  - - '2:11.0'
+    - P. Garrity makes free throw 2 of 2
+    - "+1"
+    - 89-85
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 89-87
+    - "+2"
+    - A. Jamison makes 2-pt shot from 18 ft (assist by M. Blaylock)
+  - - '1:29.0'
+    - T. McGrady misses 2-pt shot from 18 ft
+    - ''
+    - 89-87
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 89-87
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '1:16.0'
+    - ''
+    - ''
+    - 89-89
+    - "+2"
+    - A. Jamison makes 2-pt shot at rim (assist by C. Mills)
+  - - '1:16.0'
+    - Orlando full timeout
+    - ''
+    - 89-89
+    - ''
+    - ''
+  - - '1:16.0'
+    - Personal foul by M. Blaylock
+    - ''
+    - 89-89
+    - ''
+    - ''
+  - - '1:02.0'
+    - T. McGrady makes 2-pt shot at rim
+    - "+2"
+    - 91-89
+    - ''
+    - ''
+  - - '0:45.2'
+    - ''
+    - ''
+    - 91-91
+    - "+2"
+    - C. Mullin makes 2-pt shot from 12 ft (assist by C. Mills)
+  - - '0:26.6'
+    - Turnover by D. Armstrong (bad pass; steal by M. Blaylock)
+    - ''
+    - 91-91
+    - ''
+    - ''
+  - - '0:21.9'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Golden State full timeout
+  - - '0:21.9'
+    - B. Outlaw enters the game for M. Miller
+    - ''
+    - 91-91
+    - ''
+    - ''
+  - - '0:21.9'
+    - D. Reid enters the game for J. Amaechi
+    - ''
+    - 91-91
+    - ''
+    - ''
+  - - '0:07.9'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Personal foul by P. Garrity
+  - - '0:07.9'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Golden State full timeout
+  - - '0:01.6'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - D. Fortson misses 2-pt shot from 15 ft (block by B. Outlaw)
+  - - '0:01.6'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.5'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Turnover by C. Mullin (bad pass; steal by B. Outlaw)
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: E. Dampier vs. T. McGrady (D. Fortson gains possession)'
+  - - '4:47.0'
+    - ''
+    - ''
+    - 91-91
+    - ''
+    - Shooting foul by D. Reid
+  - - '4:47.0'
+    - ''
+    - ''
+    - 91-92
+    - "+1"
+    - D. Fortson makes free throw 1 of 2
+  - - '4:47.0'
+    - ''
+    - ''
+    - 91-93
+    - "+1"
+    - D. Fortson makes free throw 2 of 2
+  - - '4:33.0'
+    - Personal foul by C. Mills
+    - ''
+    - 91-93
+    - ''
+    - ''
+  - - '4:22.0'
+    - J. Amaechi misses 2-pt shot from 16 ft
+    - ''
+    - 91-93
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 91-93
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '3:56.0'
+    - ''
+    - ''
+    - 91-93
+    - ''
+    - Turnover by Team (shot clock)
+  - - '3:36.0'
+    - D. Reid makes 2-pt shot from 6 ft (assist by T. McGrady)
+    - "+2"
+    - 93-93
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 93-95
+    - "+2"
+    - M. Blaylock makes 2-pt shot from 20 ft
+  - - '2:51.0'
+    - Turnover by J. Amaechi (lost ball; steal by M. Blaylock)
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 93-95
+    - ''
+    - Shooting foul by D. Reid
+  - - '2:48.0'
+    - P. Garrity enters the game for J. Amaechi
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 93-96
+    - "+1"
+    - A. Jamison makes free throw 1 of 2
+  - - '2:48.0'
+    - ''
+    - ''
+    - 93-96
+    - ''
+    - C. Mullin enters the game for E. Dampier
+  - - '2:48.0'
+    - ''
+    - ''
+    - 93-96
+    - ''
+    - A. Jamison misses free throw 2 of 2
+  - - '2:46.0'
+    - Defensive rebound by P. Garrity
+    - ''
+    - 93-96
+    - ''
+    - ''
+  - - '2:46.0'
+    - Orlando full timeout
+    - ''
+    - 93-96
+    - ''
+    - ''
+  - - '2:30.0'
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by T. McGrady)
+    - "+3"
+    - 96-96
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - C. Mullin misses 3-pt shot from 25 ft
+  - - '2:11.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Offensive rebound by A. Jamison
+  - - '2:10.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Shooting foul by B. Outlaw
+  - - '2:10.0'
+    - ''
+    - ''
+    - 96-97
+    - "+1"
+    - A. Jamison makes free throw 1 of 2
+  - - '2:10.0'
+    - ''
+    - ''
+    - 96-97
+    - ''
+    - A. Jamison misses free throw 2 of 2
+  - - '2:10.0'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '1:51.0'
+    - Personal foul by C. Mills
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '1:41.0'
+    - Shooting foul by D. Fortson
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '1:41.0'
+    - B. Outlaw makes free throw 1 of 2
+    - "+1"
+    - 97-97
+    - ''
+    - ''
+  - - '1:41.0'
+    - B. Outlaw makes free throw 2 of 2
+    - "+1"
+    - 98-97
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 98-97
+    - ''
+    - A. Jamison misses 2-pt shot from 18 ft
+  - - '1:20.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 98-97
+    - ''
+    - ''
+  - - '1:05.0'
+    - P. Garrity makes 3-pt shot from 24 ft (assist by T. McGrady)
+    - "+3"
+    - 101-97
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - Golden State full timeout
+  - - '1:00.0'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - Turnover by M. Blaylock (lost ball; steal by D. Reid)
+  - - '0:38.5'
+    - D. Armstrong misses 2-pt shot from 18 ft
+    - ''
+    - 101-97
+    - ''
+    - ''
+  - - '0:35.6'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - Defensive rebound by D. Fortson
+  - - '0:35.6'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - Loose ball foul by D. Reid
+  - - '0:35.6'
+    - J. Amaechi enters the game for D. Reid
+    - ''
+    - 101-97
+    - ''
+    - ''
+  - - '0:35.6'
+    - ''
+    - ''
+    - 101-98
+    - "+1"
+    - D. Fortson makes free throw 1 of 2
+  - - '0:35.6'
+    - ''
+    - ''
+    - 101-99
+    - "+1"
+    - D. Fortson makes free throw 2 of 2
+  - - '0:35.6'
+    - Orlando full timeout
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:35.6'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - E. Dampier enters the game for C. Mills
+  - - '0:35.6'
+    - M. Miller enters the game for B. Outlaw
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:12.6'
+    - M. Miller misses 2-pt shot at rim
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:09.6'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - Defensive rebound by Team
+  - - '0:09.6'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - Golden State full timeout
+  - - '0:09.6'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - C. Mills enters the game for E. Dampier
+  - - '0:09.6'
+    - B. Outlaw enters the game for P. Garrity
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:08.8'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - Turnover by M. Blaylock (back court)
+  - - '0:08.8'
+    - Orlando full timeout
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:08.8'
+    - ''
+    - ''
+    - 101-99
+    - ''
+    - C. Porter enters the game for C. Mills
+  - - '0:08.8'
+    - P. Garrity enters the game for B. Outlaw
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:08.8'
+    - T. Hudson enters the game for M. Miller
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:08.8'
+    - Orlando 20 second timeout
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:07.3'
+    - Personal foul by C. Porter
+    - ''
+    - 101-99
+    - ''
+    - ''
+  - - '0:07.3'
+    - T. Hudson makes free throw 1 of 2
+    - "+1"
+    - 102-99
+    - ''
+    - ''
+  - - '0:07.3'
+    - ''
+    - ''
+    - 102-99
+    - ''
+    - C. Mills enters the game for D. Fortson
+  - - '0:07.3'
+    - ''
+    - ''
+    - 102-99
+    - ''
+    - V. Del Negro enters the game for C. Porter
+  - - '0:07.3'
+    - B. Outlaw enters the game for P. Garrity
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:07.3'
+    - M. Miller enters the game for J. Amaechi
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:07.3'
+    - T. Hudson makes free throw 2 of 2
+    - "+1"
+    - 103-99
+    - ''
+    - ''
+  - - '0:02.5'
+    - ''
+    - ''
+    - 103-99
+    - ''
+    - A. Jamison misses 3-pt shot from 25 ft
+  - - '0:00.9'
+    - Defensive rebound by M. Miller
+    - ''
+    - 103-99
+    - ''
+    - ''
+  - - '0:00.9'
+    - Personal foul by C. Mills
+    - ''
+    - 103-99
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 103-99
+    - ''
+    - C. Porter enters the game for C. Mills
+  - - '0:00.9'
+    - M. Miller makes free throw 1 of 2
+    - "+1"
+    - 104-99
+    - ''
+    - ''
+  - - '0:00.9'
+    - M. Miller makes free throw 2 of 2
+    - "+1"
+    - 105-99
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime

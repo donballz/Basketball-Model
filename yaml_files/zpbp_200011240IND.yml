@@ -1,0 +1,2862 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. J. White (J. Rose gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 19 ft (assist by D. McKey)
+  - - '11:22.0'
+    - J. Howard makes 2-pt shot from 6 ft
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - J. Bender misses 2-pt shot from 4 ft
+  - - '11:08.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:02.0'
+    - F. Lopez misses 2-pt shot from 2 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by Team
+  - - '10:48.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - D. McKey makes 2-pt shot from 1 ft (assist by R. Miller)
+  - - '10:31.0'
+    - M. Richmond makes 2-pt shot from 15 ft
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - J. Bender misses 3-pt shot from 25 ft
+  - - '10:10.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Offensive rebound by J. Rose
+  - - '10:06.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Personal foul by J. White
+  - - '9:58.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - R. Miller misses 2-pt shot from 22 ft
+  - - '9:56.0'
+    - Defensive rebound by J. White
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:51.0'
+    - R. Strickland misses 2-pt shot from 4 ft
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by R. Miller
+  - - '9:43.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Shooting foul by M. Richmond
+  - - '9:43.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - R. Miller misses free throw 1 of 2
+  - - '9:43.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Offensive rebound by Team
+  - - '9:43.0'
+    - ''
+    - ''
+    - 4-5
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '9:28.0'
+    - Turnover by J. Howard (lost ball; steal by D. McKey)
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 4-7
+    - "+2"
+    - J. Rose makes 2-pt shot from 2 ft (assist by R. Miller)
+  - - '9:07.0'
+    - Turnover by J. Howard (lost ball; steal by D. McKey)
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - Personal foul by J. White
+  - - '9:00.0'
+    - C. Parks enters the game for J. White
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '8:56.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '8:44.0'
+    - J. Howard misses 2-pt shot from 6 ft
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - Defensive rebound by J. Bender
+  - - '8:29.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - Turnover by R. Miller (bad pass; steal by C. Parks)
+  - - '8:19.0'
+    - M. Richmond makes 2-pt shot from 1 ft
+    - "+2"
+    - 6-7
+    - ''
+    - ''
+  - - '8:19.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:19.0'
+    - M. Richmond makes free throw 1 of 1
+    - "+1"
+    - 7-7
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - Shooting foul by F. Lopez
+  - - '8:03.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - J. Bender misses free throw 1 of 2
+  - - '8:03.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - Offensive rebound by Team
+  - - '8:03.0'
+    - ''
+    - ''
+    - 7-8
+    - "+1"
+    - J. Bender makes free throw 2 of 2
+  - - '7:48.0'
+    - F. Lopez misses 3-pt shot from 24 ft
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Defensive rebound by Team
+  - - '7:26.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Turnover by D. McKey (out of bounds)
+  - - '7:17.0'
+    - F. Lopez makes 2-pt shot from 1 ft (assist by R. Strickland)
+    - "+2"
+    - 9-8
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - J. O'Neal misses 2-pt shot from 13 ft
+  - - '7:00.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:54.0'
+    - R. Strickland makes 2-pt shot from 19 ft
+    - "+2"
+    - 11-8
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 11-8
+    - ''
+    - Turnover by J. Rose (lost ball; steal by R. Strickland)
+  - - '6:37.0'
+    - Shooting foul by J. Rose
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '6:37.0'
+    - F. Lopez misses free throw 1 of 2
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '6:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '6:37.0'
+    - F. Lopez makes free throw 2 of 2
+    - "+1"
+    - 12-8
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 12-10
+    - "+2"
+    - R. Miller makes 2-pt shot from 17 ft (assist by J. Rose)
+  - - '6:11.0'
+    - R. Strickland misses 2-pt shot from 20 ft
+    - ''
+    - 12-10
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Defensive rebound by J. Bender
+  - - '5:50.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 15 ft (assist by D. McKey)
+  - - '5:30.0'
+    - F. Lopez makes 2-pt shot from 19 ft (assist by J. Howard)
+    - "+2"
+    - 14-12
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-14
+    - "+2"
+    - J. Rose makes 2-pt shot from 7 ft
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Shooting foul by F. Lopez
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Indiana full timeout
+  - - '5:17.0'
+    - R. Hamilton enters the game for F. Lopez
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-15
+    - "+1"
+    - J. Rose makes free throw 1 of 1
+  - - '4:56.0'
+    - R. Hamilton misses 2-pt shot from 21 ft
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:47.0'
+    - ''
+    - ''
+    - 14-17
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by D. McKey)
+  - - '4:47.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Shooting foul by J. Howard
+  - - '4:47.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - J. O'Neal misses free throw 1 of 1
+  - - '4:46.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '4:32.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '4:32.0'
+    - M. Richmond makes free throw 1 of 2
+    - "+1"
+    - 15-17
+    - ''
+    - ''
+  - - '4:32.0'
+    - M. Richmond makes free throw 2 of 2
+    - "+1"
+    - 16-17
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 16-17
+    - ''
+    - Shooting foul by M. Richmond
+  - - '4:11.0'
+    - ''
+    - ''
+    - 16-17
+    - ''
+    - A. Harrington enters the game for D. McKey
+  - - '4:11.0'
+    - ''
+    - ''
+    - 16-18
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '4:11.0'
+    - G. King enters the game for M. Richmond
+    - ''
+    - 16-18
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 16-19
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '3:57.0'
+    - R. Strickland misses 2-pt shot from 15 ft
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 16-19
+    - ''
+    - Defensive rebound by J. Bender
+  - - '3:43.0'
+    - ''
+    - ''
+    - 16-21
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 3 ft (assist by J. Rose)
+  - - '3:31.0'
+    - C. Parks makes 2-pt shot from 20 ft
+    - "+2"
+    - 18-21
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - J. Bender misses 3-pt shot from 25 ft
+  - - '3:04.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '3:00.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - A. Harrington misses 2-pt shot from 4 ft (block by C. Parks)
+  - - '2:57.0'
+    - Defensive rebound by G. King
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:51.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:51.0'
+    - Washington full timeout
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - T. Best enters the game for R. Miller
+  - - '2:51.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Z. Tabak enters the game for J. O'Neal
+  - - '2:51.0'
+    - G. King makes free throw 1 of 2
+    - "+1"
+    - 19-21
+    - ''
+    - ''
+  - - '2:51.0'
+    - G. King misses free throw 2 of 2
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '2:50.0'
+    - Offensive rebound by C. Parks
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '2:40.0'
+    - R. Hamilton makes 2-pt shot from 6 ft (assist by R. Strickland)
+    - "+2"
+    - 21-21
+    - ''
+    - ''
+  - - '2:40.0'
+    - Shooting foul by T. Best
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - J. Foster enters the game for J. Bender
+  - - '2:40.0'
+    - R. Hamilton makes free throw 1 of 1
+    - "+1"
+    - 22-21
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - J. Foster misses 2-pt shot from 19 ft
+  - - '2:18.0'
+    - Defensive rebound by R. Hamilton
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '2:14.0'
+    - J. Howard makes 2-pt shot from 3 ft (assist by R. Hamilton)
+    - "+2"
+    - 24-21
+    - ''
+    - ''
+  - - '1:48.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - J. Rose misses 2-pt shot from 9 ft
+  - - '1:46.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - Offensive rebound by Team
+  - - '1:46.0'
+    - M. Smith enters the game for R. Strickland
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '1:46.0'
+    - C. Whitney enters the game for J. Howard
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '1:46.0'
+    - 'Jump ball: Z. Tabak vs. C. Parks'
+  - - '1:34.0'
+    - ''
+    - ''
+    - 24-23
+    - "+2"
+    - J. Rose makes 2-pt shot from 12 ft
+  - - '1:20.0'
+    - R. Hamilton misses 2-pt shot from 17 ft
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Defensive rebound by J. Foster
+  - - '1:07.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Offensive foul by Z. Tabak
+  - - '1:07.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Turnover by Z. Tabak (foul)
+  - - '0:47.9'
+    - C. Whitney misses 2-pt shot from 14 ft (block by T. Best)
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '0:43.9'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:38.9'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Turnover by T. Best (bad pass; steal by M. Smith)
+  - - '0:28.8'
+    - G. King makes 2-pt shot from 16 ft (assist by R. Hamilton)
+    - "+2"
+    - 26-23
+    - ''
+    - ''
+  - - '0:15.8'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive foul by T. Best
+  - - '0:15.8'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Turnover by T. Best (foul)
+  - - '0:02.9'
+    - R. Hamilton misses 2-pt shot from 15 ft
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:43.0'
+    - C. Whitney misses 3-pt shot from 25 ft
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by M. Smith
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '11:31.0'
+    - G. King misses 2-pt shot from 18 ft
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '11:31.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Loose ball foul by C. Parks
+  - - '11:15.0'
+    - ''
+    - ''
+    - 26-25
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 3 ft
+  - - '10:54.0'
+    - R. Hamilton makes 2-pt shot from 9 ft
+    - "+2"
+    - 28-25
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 28-27
+    - "+2"
+    - A. Harrington makes 2-pt shot from 10 ft
+  - - '10:21.0'
+    - C. Parks misses 2-pt shot from 7 ft (block by J. O'Neal)
+    - ''
+    - 28-27
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 28-27
+    - ''
+    - Defensive rebound by T. Best
+  - - '10:16.0'
+    - ''
+    - ''
+    - 28-27
+    - ''
+    - T. Best misses 2-pt shot from 2 ft
+  - - '10:15.0'
+    - Defensive rebound by Team
+    - ''
+    - 28-27
+    - ''
+    - ''
+  - - '9:50.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 28-27
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 28-27
+    - ''
+    - Personal foul by G. King
+  - - '9:31.0'
+    - ''
+    - ''
+    - 28-29
+    - "+2"
+    - A. Harrington makes 2-pt shot from 13 ft (assist by T. Best)
+  - - '9:16.0'
+    - G. King makes 2-pt shot from 2 ft
+    - "+2"
+    - 30-29
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 30-31
+    - "+2"
+    - A. Harrington makes 2-pt shot from 2 ft (assist by T. Best)
+  - - '8:44.0'
+    - Turnover by R. Hamilton (bad pass)
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 30-31
+    - ''
+    - Official timeout
+  - - '8:44.0'
+    - F. Lopez enters the game for C. Parks
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:44.0'
+    - J. White enters the game for R. Hamilton
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:44.0'
+    - M. Richmond enters the game for G. King
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 30-31
+    - ''
+    - A. Harrington misses 2-pt shot from 4 ft
+  - - '8:31.0'
+    - Defensive rebound by M. Smith
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:18.0'
+    - C. Whitney misses 3-pt shot from 27 ft
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:16.0'
+    - Offensive rebound by M. Smith
+    - ''
+    - 30-31
+    - ''
+    - ''
+  - - '8:13.0'
+    - M. Smith makes 2-pt shot from 5 ft
+    - "+2"
+    - 32-31
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 32-33
+    - "+2"
+    - A. Harrington makes 2-pt shot from 2 ft (assist by T. Best)
+  - - '7:59.0'
+    - ''
+    - ''
+    - 32-33
+    - ''
+    - Shooting foul by M. Smith
+  - - '7:59.0'
+    - J. Howard enters the game for M. Smith
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:59.0'
+    - R. Strickland enters the game for C. Whitney
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 32-33
+    - ''
+    - A. Harrington misses free throw 1 of 1
+  - - '7:58.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:52.0'
+    - F. Lopez misses 2-pt shot from 3 ft (block by Z. Tabak)
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:50.0'
+    - J. White misses 2-pt shot from 2 ft
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:50.0'
+    - Offensive rebound by J. White
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 32-33
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '7:46.0'
+    - ''
+    - ''
+    - 32-35
+    - "+2"
+    - T. Best makes 2-pt shot from 10 ft
+  - - '7:28.0'
+    - M. Richmond misses 2-pt shot from 8 ft (block by A. Harrington)
+    - ''
+    - 32-35
+    - ''
+    - ''
+  - - '7:26.0'
+    - ''
+    - ''
+    - 32-35
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '7:21.0'
+    - ''
+    - ''
+    - 32-37
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by T. Best)
+  - - '7:16.0'
+    - Washington 20 second timeout
+    - ''
+    - 32-37
+    - ''
+    - ''
+  - - '7:05.0'
+    - J. Howard makes 2-pt shot from 7 ft (assist by R. Strickland)
+    - "+2"
+    - 34-37
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - Turnover by A. Harrington (lost ball)
+  - - '6:33.0'
+    - M. Richmond misses 2-pt shot from 21 ft
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '6:30.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '6:25.0'
+    - Personal foul by Z. Tabak
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - D. McKey enters the game for Z. Tabak
+  - - '6:16.0'
+    - R. Strickland misses 2-pt shot from 9 ft
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:03.0'
+    - ''
+    - ''
+    - 34-39
+    - "+2"
+    - A. Harrington makes 2-pt shot from 9 ft
+  - - '5:44.0'
+    - Turnover by M. Richmond (lost ball; steal by D. McKey)
+    - ''
+    - 34-39
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 34-41
+    - "+2"
+    - A. Harrington makes 2-pt shot from 1 ft (assist by R. Miller)
+  - - '5:21.0'
+    - R. Strickland misses 2-pt shot from 19 ft
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:19.0'
+    - Offensive rebound by J. White
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - Washington full timeout
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 34-41
+    - ''
+    - J. Rose enters the game for T. Best
+  - - '5:17.0'
+    - G. King enters the game for F. Lopez
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - J. White misses free throw 1 of 2
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - J. White misses free throw 2 of 2
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 34-41
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:54.0'
+    - ''
+    - ''
+    - 34-41
+    - ''
+    - R. Miller misses 3-pt shot from 24 ft
+  - - '4:52.0'
+    - Defensive rebound by J. White
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '4:39.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '4:39.0'
+    - J. White misses free throw 1 of 2
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '4:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-41
+    - ''
+    - ''
+  - - '4:39.0'
+    - J. White makes free throw 2 of 2
+    - "+1"
+    - 35-41
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 35-43
+    - "+2"
+    - R. Miller makes 2-pt shot from 2 ft
+  - - '4:00.0'
+    - M. Richmond misses 2-pt shot from 4 ft
+    - ''
+    - 35-43
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '3:50.0'
+    - ''
+    - ''
+    - 35-46
+    - "+3"
+    - R. Miller makes 3-pt shot from 24 ft (assist by A. Harrington)
+  - - '3:41.0'
+    - G. King misses 2-pt shot from 19 ft
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '3:39.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '3:37.0'
+    - Turnover by J. Howard (lost ball; steal by D. McKey)
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 35-48
+    - "+2"
+    - J. Rose makes 2-pt shot from 16 ft (assist by R. Miller)
+  - - '3:22.0'
+    - Washington full timeout
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Violation by Team (illegal defense)
+  - - '3:08.0'
+    - J. Howard misses 2-pt shot from 6 ft
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '3:06.0'
+    - J. Howard makes 2-pt shot from 2 ft
+    - "+2"
+    - 37-48
+    - ''
+    - ''
+  - - '3:06.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - A. Harrington misses 2-pt shot from 8 ft
+  - - '2:46.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Offensive rebound by Team
+  - - '2:40.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - D. McKey misses 2-pt shot from 3 ft
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '2:32.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Shooting foul by G. King
+  - - '2:32.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. O'Neal misses free throw 1 of 2
+  - - '2:32.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Offensive rebound by Team
+  - - '2:32.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '2:32.0'
+    - Defensive rebound by J. White
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '2:23.0'
+    - R. Strickland misses 2-pt shot from 6 ft
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Defensive rebound by J. Rose
+  - - '2:13.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Offensive foul by D. McKey
+  - - '2:13.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Turnover by D. McKey (foul)
+  - - '2:13.0'
+    - C. Parks enters the game for J. White
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '2:13.0'
+    - R. Hamilton enters the game for G. King
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:59.0'
+    - R. Hamilton misses 3-pt shot from 25 ft
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Defensive rebound by J. Rose
+  - - '1:41.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. Rose misses 3-pt shot from 26 ft
+  - - '1:39.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:38.0'
+    - Washington 20 second timeout
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. Foster enters the game for J. O'Neal
+  - - '1:38.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. Bender enters the game for D. McKey
+  - - '1:38.0'
+    - 'Jump ball: A. Harrington vs. C. Parks (J. Howard gains possession)'
+  - - '1:24.0'
+    - C. Parks misses 2-pt shot from 2 ft
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Defensive rebound by Team
+  - - '1:06.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. Rose misses 2-pt shot from 3 ft
+  - - '1:04.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Offensive rebound by J. Foster
+  - - '1:03.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - J. Foster misses 2-pt shot from 2 ft
+  - - '1:02.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '0:47.2'
+    - J. Howard makes 2-pt shot from 2 ft
+    - "+2"
+    - 39-48
+    - ''
+    - ''
+  - - '0:42.1'
+    - ''
+    - ''
+    - 39-50
+    - "+2"
+    - J. Bender makes 2-pt shot from 3 ft (assist by J. Rose)
+  - - '0:38.9'
+    - R. Hamilton makes 2-pt shot from 3 ft (assist by R. Strickland)
+    - "+2"
+    - 41-50
+    - ''
+    - ''
+  - - '0:31.6'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - Personal foul by C. Parks
+  - - '0:31.6'
+    - ''
+    - ''
+    - 41-51
+    - "+1"
+    - A. Harrington makes free throw 1 of 2
+  - - '0:31.6'
+    - ''
+    - ''
+    - 41-52
+    - "+1"
+    - A. Harrington makes free throw 2 of 2
+  - - '0:09.2'
+    - R. Hamilton makes 3-pt shot from 24 ft (assist by C. Parks)
+    - "+3"
+    - 44-52
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 44-52
+    - ''
+    - J. Rose misses 2-pt shot from 8 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 44-52
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - J. White misses 2-pt shot from 5 ft
+    - ''
+    - 44-52
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 44-52
+    - ''
+    - Defensive rebound by T. Best
+  - - '11:33.0'
+    - ''
+    - ''
+    - 44-52
+    - ''
+    - J. Rose misses 2-pt shot from 14 ft
+  - - '11:30.0'
+    - Defensive rebound by R. Strickland
+    - ''
+    - 44-52
+    - ''
+    - ''
+  - - '11:20.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 44-52
+    - ''
+    - ''
+  - - '11:20.0'
+    - R. Strickland misses free throw 1 of 2
+    - ''
+    - 44-52
+    - ''
+    - ''
+  - - '11:20.0'
+    - Offensive rebound by Team
+    - ''
+    - 44-52
+    - ''
+    - ''
+  - - '11:20.0'
+    - R. Strickland makes free throw 2 of 2
+    - "+1"
+    - 45-52
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 45-54
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 6 ft (assist by J. Rose)
+  - - '10:48.0'
+    - M. Richmond makes 2-pt shot from 15 ft (assist by F. Lopez)
+    - "+2"
+    - 47-54
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 47-56
+    - "+2"
+    - J. Rose makes 2-pt shot from 18 ft (assist by T. Best)
+  - - '10:18.0'
+    - M. Richmond misses 2-pt shot from 17 ft
+    - ''
+    - 47-56
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 47-56
+    - ''
+    - Defensive rebound by R. Miller
+  - - '10:12.0'
+    - ''
+    - ''
+    - 47-58
+    - "+2"
+    - J. Rose makes 2-pt shot from 2 ft (assist by R. Miller)
+  - - '9:56.0'
+    - J. Howard misses 2-pt shot from 6 ft
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:54.0'
+    - J. White misses 2-pt shot from 2 ft
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:54.0'
+    - Offensive rebound by J. White
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:52.0'
+    - Offensive rebound by F. Lopez
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:51.0'
+    - Turnover by F. Lopez (bad pass; steal by R. Miller)
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 47-58
+    - ''
+    - Turnover by R. Miller (bad pass; steal by F. Lopez)
+  - - '9:49.0'
+    - Turnover by F. Lopez (lost ball; steal by D. McKey)
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 47-58
+    - ''
+    - T. Best misses 2-pt shot from 2 ft
+  - - '9:42.0'
+    - ''
+    - ''
+    - 47-58
+    - ''
+    - Offensive rebound by Team
+  - - '9:32.0'
+    - ''
+    - ''
+    - 47-58
+    - ''
+    - R. Miller misses 2-pt shot from 1 ft
+  - - '9:30.0'
+    - ''
+    - ''
+    - 47-60
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 1 ft
+  - - '9:30.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '9:21.0'
+    - Shooting foul by J. Rose
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '9:21.0'
+    - F. Lopez misses free throw 1 of 2
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '9:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 47-60
+    - ''
+    - ''
+  - - '9:21.0'
+    - F. Lopez makes free throw 2 of 2
+    - "+1"
+    - 48-60
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 48-60
+    - ''
+    - Offensive foul by J. Rose
+  - - '9:13.0'
+    - ''
+    - ''
+    - 48-60
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '9:03.0'
+    - M. Richmond misses 3-pt shot from 25 ft
+    - ''
+    - 48-60
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 48-60
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '8:53.0'
+    - ''
+    - ''
+    - 48-60
+    - ''
+    - Offensive foul by Z. Tabak
+  - - '8:53.0'
+    - ''
+    - ''
+    - 48-60
+    - ''
+    - Turnover by Z. Tabak (foul)
+  - - '8:48.0'
+    - R. Strickland makes 2-pt shot from 1 ft
+    - "+2"
+    - 50-60
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 50-60
+    - ''
+    - D. McKey misses 2-pt shot from 22 ft
+  - - '8:27.0'
+    - Defensive rebound by J. White
+    - ''
+    - 50-60
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 50-60
+    - ''
+    - A. Harrington enters the game for Z. Tabak
+  - - '8:12.0'
+    - Turnover by R. Strickland (bad pass)
+    - ''
+    - 50-60
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 50-62
+    - "+2"
+    - R. Miller makes 2-pt shot from 13 ft (assist by T. Best)
+  - - '7:44.0'
+    - F. Lopez makes 2-pt shot from 2 ft (assist by M. Richmond)
+    - "+2"
+    - 52-62
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 52-62
+    - ''
+    - Personal foul by F. Lopez
+  - - '7:15.0'
+    - ''
+    - ''
+    - 52-64
+    - "+2"
+    - J. Rose makes 2-pt shot from 5 ft
+  - - '7:03.0'
+    - Shooting foul by T. Best
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:03.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 53-64
+    - ''
+    - ''
+  - - '7:03.0'
+    - J. Howard makes free throw 2 of 2
+    - "+1"
+    - 54-64
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - A. Harrington misses 2-pt shot from 10 ft
+  - - '6:38.0'
+    - Defensive rebound by M. Richmond
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:36.0'
+    - Turnover by M. Richmond (out of bounds)
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - T. Best misses 2-pt shot from 13 ft
+  - - '6:21.0'
+    - Defensive rebound by J. White
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:13.0'
+    - Turnover by R. Strickland (bad pass; steal by A. Harrington)
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 54-66
+    - "+2"
+    - J. Rose makes 2-pt shot from 4 ft (assist by A. Harrington)
+  - - '6:02.0'
+    - Offensive foul by R. Strickland
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '6:02.0'
+    - Turnover by R. Strickland (foul)
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 54-68
+    - "+2"
+    - D. McKey makes 2-pt shot from 3 ft (assist by A. Harrington)
+  - - '5:46.0'
+    - ''
+    - ''
+    - 54-68
+    - ''
+    - Shooting foul by R. Strickland
+  - - '5:46.0'
+    - ''
+    - ''
+    - 54-68
+    - ''
+    - Indiana full timeout
+  - - '5:46.0'
+    - C. Parks enters the game for J. White
+    - ''
+    - 54-68
+    - ''
+    - ''
+  - - '5:46.0'
+    - R. Hamilton enters the game for F. Lopez
+    - ''
+    - 54-68
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 54-69
+    - "+1"
+    - D. McKey makes free throw 1 of 1
+  - - '5:28.0'
+    - R. Strickland misses 2-pt shot from 19 ft
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - Defensive rebound by D. McKey
+  - - '5:20.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - R. Miller misses 3-pt shot from 29 ft
+  - - '5:17.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '5:10.0'
+    - R. Hamilton misses 2-pt shot from 18 ft
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - Defensive rebound by D. McKey
+  - - '4:49.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - A. Harrington misses 2-pt shot from 17 ft
+  - - '4:47.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '4:38.0'
+    - J. Howard makes 2-pt shot from 7 ft (assist by R. Hamilton)
+    - "+2"
+    - 56-69
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 56-69
+    - ''
+    - R. Miller misses 3-pt shot from 23 ft
+  - - '4:09.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 56-69
+    - ''
+    - ''
+  - - '4:05.0'
+    - M. Richmond makes 2-pt shot from 12 ft (assist by R. Hamilton)
+    - "+2"
+    - 58-69
+    - ''
+    - ''
+  - - '3:44.0'
+    - ''
+    - ''
+    - 58-69
+    - ''
+    - A. Harrington misses 2-pt shot from 10 ft
+  - - '3:42.0'
+    - Defensive rebound by R. Strickland
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '3:37.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '3:37.0'
+    - C. Whitney enters the game for R. Strickland
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 58-69
+    - ''
+    - J. Foster enters the game for R. Miller
+  - - '3:37.0'
+    - M. Richmond makes free throw 1 of 2
+    - "+1"
+    - 59-69
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 59-69
+    - ''
+    - B. Sundov enters the game for D. McKey
+  - - '3:37.0'
+    - M. Richmond makes free throw 2 of 2
+    - "+1"
+    - 60-69
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Offensive foul by A. Harrington
+  - - '3:27.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Turnover by A. Harrington (foul)
+  - - '3:13.0'
+    - J. Howard misses 2-pt shot from 16 ft
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Defensive rebound by B. Sundov
+  - - '3:00.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - J. Rose misses 3-pt shot from 25 ft
+  - - '2:59.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '2:52.0'
+    - M. Richmond misses 3-pt shot from 25 ft
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '2:50.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '2:43.0'
+    - M. Richmond misses 3-pt shot from 24 ft
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Defensive rebound by J. Foster
+  - - '2:35.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Shooting foul by J. Howard
+  - - '2:35.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Indiana full timeout
+  - - '2:35.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - J. Bender enters the game for A. Harrington
+  - - '2:35.0'
+    - G. King enters the game for M. Richmond
+    - ''
+    - 60-69
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 60-70
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '2:35.0'
+    - ''
+    - ''
+    - 60-71
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '2:20.0'
+    - C. Parks misses 2-pt shot from 2 ft
+    - ''
+    - 60-71
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 60-71
+    - ''
+    - Defensive rebound by J. Bender
+  - - '2:04.0'
+    - ''
+    - ''
+    - 60-71
+    - ''
+    - Turnover by J. Rose (bad pass; steal by C. Parks)
+  - - '2:01.0'
+    - Shooting foul by T. Best
+    - ''
+    - 60-71
+    - ''
+    - ''
+  - - '2:01.0'
+    - C. Whitney makes free throw 1 of 2
+    - "+1"
+    - 61-71
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 61-71
+    - ''
+    - R. Miller enters the game for T. Best
+  - - '2:01.0'
+    - M. Smith enters the game for J. Howard
+    - ''
+    - 61-71
+    - ''
+    - ''
+  - - '2:01.0'
+    - C. Whitney makes free throw 2 of 2
+    - "+1"
+    - 62-71
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 62-73
+    - "+2"
+    - J. Bender makes 2-pt shot from 20 ft (assist by J. Rose)
+  - - '1:41.0'
+    - Turnover by M. Smith (bad pass; steal by J. Foster)
+    - ''
+    - 62-73
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 62-73
+    - ''
+    - Personal foul by G. King
+  - - '1:24.0'
+    - ''
+    - ''
+    - 62-73
+    - ''
+    - Turnover by J. Rose (bad pass; steal by C. Parks)
+  - - '1:19.0'
+    - Shooting foul by B. Sundov
+    - ''
+    - 62-73
+    - ''
+    - ''
+  - - '1:19.0'
+    - R. Hamilton makes free throw 1 of 2
+    - "+1"
+    - 63-73
+    - ''
+    - ''
+  - - '1:19.0'
+    - R. Hamilton makes free throw 2 of 2
+    - "+1"
+    - 64-73
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 64-73
+    - ''
+    - J. Rose misses 2-pt shot from 15 ft
+  - - '1:02.0'
+    - Defensive rebound by C. Whitney
+    - ''
+    - 64-73
+    - ''
+    - ''
+  - - '0:57.9'
+    - C. Whitney misses 3-pt shot from 26 ft
+    - ''
+    - 64-73
+    - ''
+    - ''
+  - - '0:56.8'
+    - ''
+    - ''
+    - 64-73
+    - ''
+    - Defensive rebound by Team
+  - - '0:42.3'
+    - ''
+    - ''
+    - 64-73
+    - ''
+    - Personal foul by C. Whitney
+  - - '0:42.3'
+    - ''
+    - ''
+    - 64-74
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '0:42.3'
+    - ''
+    - ''
+    - 64-75
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '0:36.9'
+    - R. Hamilton misses 2-pt shot from 12 ft
+    - ''
+    - 64-75
+    - ''
+    - ''
+  - - '0:35.6'
+    - ''
+    - ''
+    - 64-75
+    - ''
+    - Defensive rebound by B. Sundov
+  - - '0:29.9'
+    - ''
+    - ''
+    - 64-75
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '0:27.9'
+    - Defensive rebound by M. Smith
+    - ''
+    - 64-75
+    - ''
+    - ''
+  - - '0:07.9'
+    - C. Whitney misses 3-pt shot from 26 ft
+    - ''
+    - 64-75
+    - ''
+    - ''
+  - - '0:06.4'
+    - ''
+    - ''
+    - 64-75
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:00.9'
+    - ''
+    - ''
+    - 64-75
+    - ''
+    - J. Bender misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 64-75
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 64-77
+    - "+2"
+    - J. Foster makes 2-pt shot from 6 ft
+  - - '11:32.0'
+    - Personal foul by T. Best
+    - ''
+    - 64-77
+    - ''
+    - ''
+  - - '11:32.0'
+    - ''
+    - ''
+    - 64-77
+    - ''
+    - J. Rose enters the game for T. Best
+  - - '11:22.0'
+    - C. Parks makes 2-pt shot from 19 ft (assist by M. Smith)
+    - "+2"
+    - 66-77
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Shooting foul by M. Smith
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - J. Foster misses free throw 1 of 2
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Offensive rebound by Team
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - J. Foster misses free throw 2 of 2
+  - - '10:55.0'
+    - Defensive rebound by M. Smith
+    - ''
+    - 66-77
+    - ''
+    - ''
+  - - '10:41.0'
+    - R. Hamilton misses 2-pt shot from 21 ft
+    - ''
+    - 66-77
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Defensive rebound by J. Foster
+  - - '10:35.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Turnover by J. O'Neal (lost ball; steal by M. Smith)
+  - - '10:22.0'
+    - Personal foul by J. Bender
+    - ''
+    - 66-77
+    - ''
+    - ''
+  - - '10:15.0'
+    - M. Smith misses 2-pt shot from 4 ft (block by J. O'Neal)
+    - ''
+    - 66-77
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Defensive rebound by R. Miller
+  - - '10:06.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Shooting foul by M. Smith
+  - - '10:06.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - J. Foster misses free throw 1 of 2
+  - - '10:06.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Offensive rebound by Team
+  - - '10:06.0'
+    - ''
+    - ''
+    - 66-78
+    - "+1"
+    - J. Foster makes free throw 2 of 2
+  - - '9:54.0'
+    - C. Whitney misses 3-pt shot from 25 ft
+    - ''
+    - 66-78
+    - ''
+    - ''
+  - - '9:51.0'
+    - Offensive rebound by M. Smith
+    - ''
+    - 66-78
+    - ''
+    - ''
+  - - '9:45.0'
+    - R. Hamilton makes 2-pt shot from 11 ft
+    - "+2"
+    - 68-78
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 68-81
+    - "+3"
+    - R. Miller makes 3-pt shot from 25 ft (assist by J. Rose)
+  - - '9:16.0'
+    - Turnover by C. Whitney (lost ball; steal by J. Rose)
+    - ''
+    - 68-81
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 68-83
+    - "+2"
+    - R. Miller makes 2-pt shot from 1 ft (assist by J. O'Neal)
+  - - '9:09.0'
+    - Washington full timeout
+    - ''
+    - 68-83
+    - ''
+    - ''
+  - - '9:09.0'
+    - R. Strickland enters the game for C. Whitney
+    - ''
+    - 68-83
+    - ''
+    - ''
+  - - '9:09.0'
+    - M. Richmond enters the game for G. King
+    - ''
+    - 68-83
+    - ''
+    - ''
+  - - '9:09.0'
+    - J. Howard enters the game for M. Smith
+    - ''
+    - 68-83
+    - ''
+    - ''
+  - - '8:53.0'
+    - R. Hamilton misses 3-pt shot from 25 ft
+    - ''
+    - 68-83
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 68-83
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-83
+    - ''
+    - Offensive foul by J. Rose
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-83
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-83
+    - ''
+    - D. McKey enters the game for J. Foster
+  - - '8:38.0'
+    - ''
+    - ''
+    - 68-83
+    - ''
+    - Violation by Team (delay of game)
+  - - '8:25.0'
+    - R. Hamilton makes 3-pt shot from 24 ft (assist by R. Strickland)
+    - "+3"
+    - 71-83
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 71-83
+    - ''
+    - Shooting foul by J. Howard
+  - - '8:05.0'
+    - ''
+    - ''
+    - 71-84
+    - "+1"
+    - J. Bender makes free throw 1 of 2
+  - - '8:05.0'
+    - ''
+    - ''
+    - 71-84
+    - ''
+    - A. Harrington enters the game for R. Miller
+  - - '8:05.0'
+    - ''
+    - ''
+    - 71-85
+    - "+1"
+    - J. Bender makes free throw 2 of 2
+  - - '7:41.0'
+    - M. Richmond misses 3-pt shot from 25 ft
+    - ''
+    - 71-85
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 71-85
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '7:34.0'
+    - ''
+    - ''
+    - 71-85
+    - ''
+    - Personal foul by R. Hamilton
+  - - '7:34.0'
+    - ''
+    - ''
+    - 71-85
+    - ''
+    - Turnover by A. Harrington (bad pass; steal by R. Hamilton)
+  - - '7:30.0'
+    - R. Hamilton makes 2-pt shot from 1 ft
+    - "+2"
+    - 73-85
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 73-87
+    - "+2"
+    - J. Bender makes 2-pt shot from 19 ft
+  - - '6:55.0'
+    - R. Hamilton misses 3-pt shot from 24 ft
+    - ''
+    - 73-87
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - Defensive rebound by D. McKey
+  - - '6:42.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - J. Bender misses 2-pt shot from 17 ft
+  - - '6:40.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 73-87
+    - ''
+    - ''
+  - - '6:34.0'
+    - R. Strickland misses 2-pt shot from 5 ft
+    - ''
+    - 73-87
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - Personal foul by J. Howard
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - Indiana 20 second timeout
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-87
+    - ''
+    - T. Best enters the game for J. Bender
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-88
+    - "+1"
+    - D. McKey makes free throw 1 of 2
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-89
+    - "+1"
+    - D. McKey makes free throw 2 of 2
+  - - '6:07.0'
+    - M. Richmond misses 3-pt shot from 25 ft
+    - ''
+    - 73-89
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 73-89
+    - ''
+    - Defensive rebound by Team
+  - - '5:47.0'
+    - ''
+    - ''
+    - 73-89
+    - ''
+    - J. Rose misses 2-pt shot from 20 ft
+  - - '5:43.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 73-89
+    - ''
+    - ''
+  - - '5:40.0'
+    - Personal foul by T. Best
+    - ''
+    - 73-89
+    - ''
+    - ''
+  - - '5:40.0'
+    - Official timeout
+    - ''
+    - 73-89
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 73-89
+    - ''
+    - R. Miller enters the game for T. Best
+  - - '5:36.0'
+    - R. Hamilton makes 2-pt shot from 15 ft (assist by R. Strickland)
+    - "+2"
+    - 75-89
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 75-91
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 2 ft (assist by A. Harrington)
+  - - '4:53.0'
+    - C. Parks makes 2-pt shot from 19 ft (assist by R. Strickland)
+    - "+2"
+    - 77-91
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 77-93
+    - "+2"
+    - J. Rose makes 2-pt shot from 21 ft (assist by J. O'Neal)
+  - - '4:21.0'
+    - J. Howard misses 2-pt shot from 16 ft
+    - ''
+    - 77-93
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 77-93
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:10.0'
+    - ''
+    - ''
+    - 77-95
+    - "+2"
+    - A. Harrington makes 2-pt shot from 10 ft
+  - - '3:53.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 77-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 77-95
+    - ''
+    - J. Bender enters the game for R. Miller
+  - - '3:53.0'
+    - C. Whitney enters the game for R. Strickland
+    - ''
+    - 77-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - F. Lopez enters the game for M. Richmond
+    - ''
+    - 77-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 78-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - C. Booth enters the game for C. Parks
+    - ''
+    - 78-95
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 78-95
+    - ''
+    - J. Foster enters the game for D. McKey
+  - - '3:53.0'
+    - J. Howard misses free throw 2 of 2
+    - ''
+    - 78-95
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 78-95
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '3:29.0'
+    - ''
+    - ''
+    - 78-95
+    - ''
+    - Turnover by Team (shot clock)
+  - - '3:29.0'
+    - O. Ekezie enters the game for J. Howard
+    - ''
+    - 78-95
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 78-95
+    - ''
+    - B. Sundov enters the game for J. O'Neal
+  - - '3:13.0'
+    - Turnover by F. Lopez (bad pass; steal by J. Bender)
+    - ''
+    - 78-95
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 78-97
+    - "+2"
+    - B. Sundov makes 2-pt shot from 19 ft (assist by J. Bender)
+  - - '2:54.0'
+    - Personal foul by J. Foster
+    - ''
+    - 78-97
+    - ''
+    - ''
+  - - '2:54.0'
+    - Washington full timeout
+    - ''
+    - 78-97
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 78-97
+    - ''
+    - Z. Tabak enters the game for A. Harrington
+  - - '2:54.0'
+    - C. Booth misses free throw 1 of 2
+    - ''
+    - 78-97
+    - ''
+    - ''
+  - - '2:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 78-97
+    - ''
+    - ''
+  - - '2:54.0'
+    - C. Booth makes free throw 2 of 2
+    - "+1"
+    - 79-97
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 79-97
+    - ''
+    - J. Bender misses 3-pt shot from 24 ft
+  - - '2:41.0'
+    - ''
+    - ''
+    - 79-97
+    - ''
+    - Offensive rebound by B. Sundov
+  - - '2:31.0'
+    - ''
+    - ''
+    - 79-97
+    - ''
+    - B. Sundov misses 2-pt shot from 18 ft
+  - - '2:29.0'
+    - Defensive rebound by O. Ekezie
+    - ''
+    - 79-97
+    - ''
+    - ''
+  - - '2:20.0'
+    - F. Lopez misses 3-pt shot from 24 ft
+    - ''
+    - 79-97
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 79-97
+    - ''
+    - Defensive rebound by J. Bender
+  - - '1:57.0'
+    - ''
+    - ''
+    - 79-99
+    - "+2"
+    - J. Foster makes 2-pt shot from 18 ft (assist by J. Bender)
+  - - '1:48.0'
+    - R. Hamilton makes 2-pt shot from 12 ft (assist by C. Whitney)
+    - "+2"
+    - 81-99
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 81-99
+    - ''
+    - J. Bender misses 2-pt shot from 8 ft
+  - - '1:24.0'
+    - Defensive rebound by F. Lopez
+    - ''
+    - 81-99
+    - ''
+    - ''
+  - - '1:20.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 81-99
+    - ''
+    - ''
+  - - '1:20.0'
+    - F. Lopez makes free throw 1 of 2
+    - "+1"
+    - 82-99
+    - ''
+    - ''
+  - - '1:20.0'
+    - F. Lopez makes free throw 2 of 2
+    - "+1"
+    - 83-99
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 83-99
+    - ''
+    - Turnover by J. Rose (lost ball; steal by C. Whitney)
+  - - '0:53.9'
+    - F. Lopez misses 2-pt shot from 3 ft
+    - ''
+    - 83-99
+    - ''
+    - ''
+  - - '0:52.6'
+    - 'Jump ball: J. Foster vs. O. Ekezie (F. Lopez gains possession)'
+  - - '0:52.6'
+    - Offensive rebound by Team
+    - ''
+    - 83-99
+    - ''
+    - ''
+  - - '0:40.9'
+    - C. Booth makes 2-pt shot from 11 ft (assist by R. Hamilton)
+    - "+2"
+    - 85-99
+    - ''
+    - ''
+  - - '0:20.9'
+    - ''
+    - ''
+    - 85-99
+    - ''
+    - J. Rose misses 3-pt shot from 26 ft
+  - - '0:18.6'
+    - Defensive rebound by F. Lopez
+    - ''
+    - 85-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - Personal foul by J. Rose
+    - ''
+    - 85-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - R. Hamilton makes free throw 1 of 2
+    - "+1"
+    - 86-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - R. Hamilton makes free throw 2 of 2
+    - "+1"
+    - 87-99
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

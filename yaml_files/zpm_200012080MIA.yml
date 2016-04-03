@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Alan Henderson (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      +8
+    - 144/+8
+    - 68/
+    - 36/-6
+    - 107/-10
+    - 65/
+    - 76/-3
+    - 151/+10
+    - 76/
+    - 21/-4
+    - 238/+2
+    - 11/
+    - 'DerMarr Johnson (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 113/
+    - 137/-4
+    - 69/+3
+    - 430/
+    - 'Matt Maloney (On: +12&#9642;Off: -16&#9642;Net: +28)'
+    - |2-
+
+      +4
+    - 189/+4
+    - 61/
+    - 171/-11
+    - 79/
+    - 224/+14
+    - 46/
+    - 227/+5
+    - 'Dikembe Mutombo (On: +13&#9642;Off: -17&#9642;Net: +30)'
+    - |2-
+
+      +8
+    - 145/+8
+    - 104/
+    - 107/-10
+    - 65/
+    - 76/-3
+    - 224/+14
+    - 102/
+    - 173/+4
+    - 'Jason Terry (On: +5&#9642;Off: -9&#9642;Net: +14)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 113/
+    - 136/-4
+    - 249/+10
+    - 20/-3
+    - 57/
+    - 173/+4
+    - 'Hanno Mottola (On: -4&#9642;Off: 0&#9642;Net: -4)'
+    - "\n"
+    - 147/
+    - 64/-4
+    - 151/
+    - 58/-1
+    - 155/
+    - 172/+7
+    - 37/-6
+    - 212/
+    - 'Lorenzen Wright (On: -13&#9642;Off: +9&#9642;Net: -22)'
+    - "\n"
+    - 147/
+    - 102/-10
+    - 113/
+    - 30/-1
+    - 263/
+    - 92/0
+    - 71/-2
+    - 168/
+    - 9/0
+    - 'Anthony Johnson (On: -6&#9642;Off: +2&#9642;Net: -8)'
+    - "\n"
+    - 195/
+    - 55/-6
+    - 751/
+    - 'Chris Crawford (On: -2&#9642;Off: -2&#9642;Net: 0)'
+    - "\n"
+    - 250/
+    - 108/-10
+    - 438/
+    - 204/+8
+    - 'Larry Robinson (On: -19&#9642;Off: +15&#9642;Net: -34)'
+    - "\n"
+    - 249/
+    - 107/-10
+    - 65/
+    - 76/-3
+    - 228/
+    - 21/-4
+    - 71/-2
+    - 179/
+    - 'Cal Bowdler (On: 0&#9642;Off: -4&#9642;Net: +4)'
+    - "\n"
+    - 395/
+    - 27/0
+    - 579/
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Duane Causwell (On: -12&#9642;Off: +16&#9642;Net: -28)'
+    - |2-
+
+      -9
+    - 94/-9
+    - 362/
+    - 43/+2
+    - 93/-5
+    - 407/
+    - 'Brian Grant (On: -8&#9642;Off: +12&#9642;Net: -20)'
+    - |2-
+
+      -8
+    - 145/-8
+    - 146/
+    - 101/+6
+    - 106/
+    - 249/-10
+    - 50/+6
+    - 123/
+    - 76/-2
+    - 'Tim Hardaway (On: -18&#9642;Off: +22&#9642;Net: -40)'
+    - |2-
+
+      -6
+    - 174/-6
+    - 211/
+    - 114/+4
+    - 181/-14
+    - 243/
+    - 75/-2
+    - 'Eddie Jones (On: +1&#9642;Off: +3&#9642;Net: -2)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 51/+2
+    - 93/
+    - 105/+3
+    - 249/-10
+    - 54/+6
+    - 119/
+    - 76/-2
+    - 'Anthony Mason (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 39/+5
+    - 105/
+    - 62/+1
+    - 44/
+    - 114/-7
+    - 189/
+    - 194/-8
+    - 'Bruce Bowen (On: +15&#9642;Off: -11&#9642;Net: +26)'
+    - "\n"
+    - 100/
+    - 150/+11
+    - 143/+11
+    - 204/
+    - 152/-5
+    - 249/-2
+    - 'A.C. Green (On: +21&#9642;Off: -17&#9642;Net: +38)'
+    - "\n"
+    - 147/
+    - 102/+10
+    - 249/+14
+    - 118/
+    - 131/-3
+    - 170/0
+    - 80/
+    - 'Anthony Carter (On: +22&#9642;Off: -18&#9642;Net: +40)'
+    - "\n"
+    - 181/
+    - 69/+8
+    - 132/+10
+    - 301/
+    - 66/+4
+    - 170/0
+    - 78/
+    - 'Cedric Ceballos (On: +6&#9642;Off: -2&#9642;Net: +8)'
+    - "\n"
+    - 308/
+    - 191/+12
+    - 305/
+    - 115/-6
+    - 80/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

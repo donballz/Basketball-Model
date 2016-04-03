@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'David Benoit (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 250/
+    - 237/-4
+    - 263/
+    - 'Karl Malone (On: 0&#9642;Off: -7&#9642;Net: +7)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 42/+2
+    - 106/
+    - 101/-4
+    - 210/-2
+    - 88/
+    - 201/+1
+    - 'Olden Polynice (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      +3
+    - 196/+3
+    - 304/
+    - 212/-4
+    - 288/
+    - 'John Starks (On: -8&#9642;Off: +1&#9642;Net: -9)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 148/
+    - 102/-4
+    - 118/-4
+    - 251/
+    - 129/-3
+    - 'John Stockton (On: -5&#9642;Off: -2&#9642;Net: -3)'
+    - |2-
+
+      +6
+    - 135/+6
+    - 160/
+    - 203/-8
+    - 143/0
+    - 206/
+    - 151/-3
+    - 'Jacque Vaughn (On: -2&#9642;Off: -5&#9642;Net: +3)'
+    - "\n"
+    - 137/
+    - 112/-3
+    - 42/+2
+    - 355/
+    - 101/-5
+    - 94/+4
+    - 156/
+    - 'Greg Ostertag (On: -7&#9642;Off: 0&#9642;Net: -7)'
+    - "\n"
+    - 200/
+    - 50/0
+    - 249/-6
+    - 216/
+    - 33/-1
+    - 43/0
+    - 206/
+    - 'Quincy Lewis (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 143/-2
+    - 228/
+    - 53/+1
+    - 325/
+    - 'Donyell Marshall (On: -6&#9642;Off: -1&#9642;Net: -5)'
+    - "\n"
+    - 250/
+    - 250/-6
+    - 240/
+    - 10/-1
+    - 249/+1
+    - 'Danny Manning (On: -6&#9642;Off: -1&#9642;Net: -5)'
+    - "\n"
+    - 296/
+    - 97/-4
+    - 318/
+    - 39/-3
+    - 249/+1
+    - 'DeShawn Stevenson (On: +2&#9642;Off: -9&#9642;Net: +11)'
+    - "\n"
+    - 680/
+    - 70/-2
+    - 114/+4
+    - 136/
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: +5&#9642;Off: +2&#9642;Net: +3)'
+    - |2-
+
+      -6
+    - 124/-6
+    - 250/
+    - 125/+7
+    - 211/+2
+    - 174/
+    - 114/+2
+    - 'Zydrunas Ilgauskas (On: +12&#9642;Off: -5&#9642;Net: +17)'
+    - |2-
+
+      -1
+    - 238/-1
+    - 112/
+    - 149/+7
+    - 210/+2
+    - 113/
+    - 161/+4
+    - 14/
+    - 'Andre Miller (On: +11&#9642;Off: -4&#9642;Net: +15)'
+    - |2-
+
+      -1
+    - 238/-1
+    - 112/
+    - 149/+7
+    - 217/+4
+    - 95/
+    - 187/+1
+    - 'Lamond Murray (On: -5&#9642;Off: +12&#9642;Net: -17)'
+    - |2-
+
+      -6
+    - 135/-6
+    - 246/
+    - 37/-1
+    - 292/
+    - 38/+3
+    - 250/-1
+    - 'Clarence Weatherspoon (On: +1&#9642;Off: +6&#9642;Net: -5)'
+    - |2-
+
+      -6
+    - 131/-6
+    - 220/
+    - 149/+7
+    - 105/+1
+    - 194/
+    - 199/-1
+    - 'Wesley Person (On: +1&#9642;Off: +6&#9642;Net: -5)'
+    - "\n"
+    - 125/
+    - 124/+3
+    - 122/-1
+    - 307/
+    - 70/+2
+    - 132/-3
+    - 117/
+    - 'Chris Gatling (On: +6&#9642;Off: +1&#9642;Net: +5)'
+    - "\n"
+    - 135/
+    - 114/+3
+    - 97/-1
+    - 262/
+    - 140/+4
+    - 43/0
+    - 206/
+    - 'Cedric Henderson (On: +12&#9642;Off: -5&#9642;Net: +17)'
+    - "\n"
+    - 137/
+    - 112/+3
+    - 124/-1
+    - 48/
+    - 76/+8
+    - 174/+3
+    - 310/
+    - 15/-1
+    - 'Michael Hawkins (On: -4&#9642;Off: +11&#9642;Net: -15)'
+    - "\n"
+    - 244/
+    - 5/-2
+    - 97/-1
+    - 374/
+    - 28/+1
+    - 58/-2
+    - 191/
+    - 'J.R. Reid (On: -4&#9642;Off: +11&#9642;Net: -15)'
+    - "\n"
+    - 244/
+    - 5/-2
+    - 97/-1
+    - 363/
+    - 38/+3
+    - 69/-4
+    - 181/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

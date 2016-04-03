@@ -1,0 +1,2642 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Doleac vs. M. Ruffin (E. Brand gains possession)'
+  - - '11:35.0'
+    - E. Brand makes 2-pt shot from 8 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by P. Garrity (bad pass)
+  - - '11:09.0'
+    - Turnover by M. Ruffin (bad pass; steal by D. Armstrong)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - M. Doleac makes 2-pt shot at rim (assist by T. McGrady)
+  - - '10:37.0'
+    - M. World Peace misses 2-pt shot from 18 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by J. Amaechi
+  - - '10:27.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '10:05.0'
+    - M. World Peace misses 3-pt shot from 25 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by Team
+  - - '9:52.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - T. McGrady misses 2-pt shot from 13 ft
+  - - '9:50.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:32.0'
+    - F. Hoiberg misses 2-pt shot from 17 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by J. Amaechi
+  - - '9:19.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - M. Doleac misses 2-pt shot from 13 ft (block by E. Brand)
+  - - '9:16.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:05.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:05.0'
+    - M. Ruffin misses free throw 1 of 2
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '9:05.0'
+    - M. Ruffin makes free throw 2 of 2
+    - "+1"
+    - 3-4
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - Personal foul by M. World Peace
+  - - '8:46.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - Turnover by T. McGrady (bad pass; steal by R. Mercer)
+  - - '8:43.0'
+    - R. Mercer makes 2-pt shot at rim
+    - "+2"
+    - 5-4
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - M. Doleac misses 2-pt shot from 22 ft
+  - - '8:23.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '8:11.0'
+    - E. Brand makes 2-pt shot from 8 ft
+    - "+2"
+    - 7-4
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Personal foul by M. Ruffin
+  - - '7:50.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - D. Armstrong misses 2-pt shot from 20 ft
+  - - '7:48.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:37.0'
+    - E. Brand misses 2-pt shot from 16 ft
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '7:28.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Personal foul by M. Ruffin
+  - - '7:28.0'
+    - D. Tarlac enters the game for M. Ruffin
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - T. McGrady misses 2-pt shot from 18 ft
+  - - '7:20.0'
+    - Defensive rebound by Team
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:07.0'
+    - M. World Peace misses 3-pt shot from 24 ft
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '7:01.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - D. Armstrong misses 2-pt shot from 3 ft
+  - - '6:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '6:37.0'
+    - R. Mercer makes 2-pt shot from 16 ft
+    - "+2"
+    - 9-4
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 9-4
+    - ''
+    - J. Amaechi misses 2-pt shot at rim
+  - - '6:22.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '6:14.0'
+    - R. Mercer misses 2-pt shot from 15 ft
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '6:12.0'
+    - Offensive rebound by D. Tarlac
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '6:09.0'
+    - R. Mercer makes 2-pt shot from 11 ft (assist by D. Tarlac)
+    - "+2"
+    - 11-4
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 11-4
+    - ''
+    - Orlando full timeout
+  - - '5:56.0'
+    - ''
+    - ''
+    - 11-4
+    - ''
+    - P. Garrity misses 2-pt shot from 20 ft
+  - - '5:54.0'
+    - Defensive rebound by D. Tarlac
+    - ''
+    - 11-4
+    - ''
+    - ''
+  - - '5:36.0'
+    - Turnover by R. Mercer (bad pass; steal by P. Garrity)
+    - ''
+    - 11-4
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 11-4
+    - ''
+    - P. Garrity misses 2-pt shot from 16 ft
+  - - '5:30.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 11-4
+    - ''
+    - ''
+  - - '5:27.0'
+    - Turnover by E. Brand (bad pass; steal by D. Armstrong)
+    - ''
+    - 11-4
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 11-6
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim (assist by T. McGrady)
+  - - '5:01.0'
+    - R. Mercer makes 2-pt shot from 19 ft (assist by E. Brand)
+    - "+2"
+    - 13-6
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Shooting foul by D. Tarlac
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - J. Amaechi misses free throw 1 of 2
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Offensive rebound by Team
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-7
+    - "+1"
+    - J. Amaechi makes free throw 2 of 2
+  - - '4:36.0'
+    - E. Brand misses 2-pt shot from 7 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '4:29.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Turnover by M. Doleac (lost ball)
+  - - '4:09.0'
+    - E. Brand makes 2-pt shot from 17 ft (assist by M. World Peace)
+    - "+2"
+    - 15-7
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 15-7
+    - ''
+    - Personal foul by M. World Peace
+  - - '3:49.0'
+    - ''
+    - ''
+    - 15-7
+    - ''
+    - M. Miller enters the game for P. Garrity
+  - - '3:49.0'
+    - ''
+    - ''
+    - 15-8
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '3:49.0'
+    - B. Drew enters the game for M. World Peace
+    - ''
+    - 15-8
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 15-9
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '3:30.0'
+    - Turnover by D. Tarlac (bad pass; steal by D. Armstrong)
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Shooting foul by D. Tarlac
+  - - '3:26.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - T. McGrady misses free throw 1 of 2
+  - - '3:26.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Offensive rebound by Team
+  - - '3:26.0'
+    - B. Miller enters the game for D. Tarlac
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 15-10
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '3:09.0'
+    - E. Brand misses 2-pt shot from 8 ft
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '3:08.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '3:07.0'
+    - B. Miller misses 2-pt shot at rim (block by T. McGrady)
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 15-10
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '3:01.0'
+    - ''
+    - ''
+    - 15-10
+    - ''
+    - M. Miller misses 3-pt shot from 25 ft
+  - - '2:59.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '2:41.0'
+    - Personal foul by M. Miller
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '2:41.0'
+    - Chicago full timeout
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 15-10
+    - ''
+    - D. Reid enters the game for M. Doleac
+  - - '2:27.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 15-10
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 15-12
+    - "+2"
+    - T. McGrady makes 2-pt shot from 17 ft
+  - - '2:01.0'
+    - Turnover by F. Hoiberg (bad pass)
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 15-14
+    - "+2"
+    - M. Miller makes 2-pt shot from 19 ft (assist by D. Armstrong)
+  - - '1:43.0'
+    - E. Brand makes 2-pt shot at rim (assist by F. Hoiberg)
+    - "+2"
+    - 17-14
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - J. Amaechi misses 2-pt shot at rim
+  - - '1:30.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '1:12.0'
+    - B. Drew makes 2-pt shot from 9 ft
+    - "+2"
+    - 19-14
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Turnover by D. Armstrong (bad pass; steal by R. Mercer)
+  - - '1:04.0'
+    - Personal foul by D. Armstrong
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '1:04.0'
+    - E. Brand misses free throw 1 of 2
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '1:04.0'
+    - E. Brand misses free throw 2 of 2
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Defensive rebound by D. Reid
+  - - '0:51.3'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Shooting foul by R. Mercer
+  - - '0:51.3'
+    - M. Fizer enters the game for E. Brand
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '0:51.3'
+    - C. Benjamin enters the game for F. Hoiberg
+    - ''
+    - 19-14
+    - ''
+    - ''
+  - - '0:51.3'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - T. McGrady misses free throw 1 of 2
+  - - '0:51.3'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Offensive rebound by Team
+  - - '0:51.3'
+    - ''
+    - ''
+    - 19-15
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '0:35.5'
+    - B. Drew misses 2-pt shot from 18 ft
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:34.2'
+    - Offensive rebound by Team
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:34.2'
+    - Loose ball foul by M. Miller
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:34.2'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - T. Hudson enters the game for D. Armstrong
+  - - '0:34.2'
+    - B. Miller makes free throw 1 of 2
+    - "+1"
+    - 20-15
+    - ''
+    - ''
+  - - '0:34.2'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - M. Williams enters the game for M. Miller
+  - - '0:34.2'
+    - B. Miller makes free throw 2 of 2
+    - "+1"
+    - 21-15
+    - ''
+    - ''
+  - - '0:25.4'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - T. Hudson misses 2-pt shot at rim
+  - - '0:23.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - D. Reid misses 2-pt shot at rim
+  - - '0:23.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Offensive rebound by D. Reid
+  - - '0:20.7'
+    - Defensive rebound by Team
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '0:16.4'
+    - Personal foul by T. Hudson
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '0:16.4'
+    - B. Drew makes free throw 1 of 2
+    - "+1"
+    - 22-15
+    - ''
+    - ''
+  - - '0:16.4'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - P. Garrity enters the game for J. Amaechi
+  - - '0:16.4'
+    - B. Drew misses free throw 2 of 2
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '0:15.7'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - Defensive rebound by T. Hudson
+  - - '0:01.0'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - T. McGrady misses 2-pt shot from 19 ft (block by R. Mercer)
+  - - '0:00.2'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:43.0'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - Turnover by P. Garrity (bad pass; steal by C. Benjamin)
+  - - '11:20.0'
+    - M. Fizer makes 2-pt shot from 10 ft
+    - "+2"
+    - 24-15
+    - ''
+    - ''
+  - - '11:02.0'
+    - 'Jump ball: T. McGrady vs. B. Drew (T. Hudson gains possession)'
+  - - '10:59.0'
+    - ''
+    - ''
+    - 24-17
+    - "+2"
+    - T. Hudson makes 2-pt shot from 17 ft (assist by T. McGrady)
+  - - '10:45.0'
+    - B. Drew makes 2-pt shot from 7 ft
+    - "+2"
+    - 26-17
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 26-19
+    - "+2"
+    - M. Williams makes 2-pt shot at rim (assist by D. Reid)
+  - - '10:12.0'
+    - R. Mercer misses 2-pt shot from 20 ft
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - Defensive rebound by P. Garrity
+  - - '10:08.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - T. Hudson misses 2-pt shot from 20 ft
+  - - '10:06.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '10:02.0'
+    - C. Benjamin misses 2-pt shot at rim
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - Defensive rebound by Team
+  - - '9:44.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - T. Hudson misses 2-pt shot from 3 ft
+  - - '9:41.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - Offensive rebound by T. Hudson
+  - - '9:37.0'
+    - ''
+    - ''
+    - 26-19
+    - ''
+    - Shooting foul by B. Miller
+  - - '9:37.0'
+    - ''
+    - ''
+    - 26-20
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '9:37.0'
+    - ''
+    - ''
+    - 26-21
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '9:22.0'
+    - R. Mercer misses 2-pt shot from 9 ft (block by D. Reid)
+    - ''
+    - 26-21
+    - ''
+    - ''
+  - - '9:19.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 26-21
+    - ''
+    - ''
+  - - '9:16.0'
+    - R. Mercer misses 2-pt shot from 9 ft (block by P. Garrity)
+    - ''
+    - 26-21
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - Defensive rebound by M. Williams
+  - - '9:07.0'
+    - ''
+    - ''
+    - 26-23
+    - "+2"
+    - M. Williams makes 2-pt shot at rim (assist by T. McGrady)
+  - - '8:46.0'
+    - B. Miller makes 2-pt shot at rim (assist by M. Fizer)
+    - "+2"
+    - 28-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - Shooting foul by D. Reid
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - Official timeout
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - E. Brand enters the game for R. Mercer
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - B. Miller misses free throw 1 of 1
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Defensive rebound by T. Hudson
+  - - '8:36.0'
+    - ''
+    - ''
+    - 28-26
+    - "+3"
+    - P. Garrity makes 3-pt shot from 25 ft (assist by T. Hudson)
+  - - '8:08.0'
+    - M. Fizer misses 3-pt shot from 23 ft
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Defensive rebound by T. Hudson
+  - - '7:58.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Personal foul by B. Drew
+  - - '7:58.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - D. Armstrong enters the game for T. Hudson
+  - - '7:58.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - J. Amaechi enters the game for D. Reid
+  - - '7:56.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Turnover by M. Williams (bad pass; steal by E. Brand)
+  - - '7:53.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '7:53.0'
+    - C. Benjamin misses free throw 1 of 2
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '7:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '7:53.0'
+    - C. Benjamin makes free throw 2 of 2
+    - "+1"
+    - 29-26
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 29-26
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '7:44.0'
+    - ''
+    - ''
+    - 29-26
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '7:33.0'
+    - ''
+    - ''
+    - 29-26
+    - ''
+    - Turnover by T. McGrady (bad pass; steal by B. Drew)
+  - - '7:30.0'
+    - E. Brand makes 2-pt shot at rim (assist by B. Drew)
+    - "+2"
+    - 31-26
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 31-26
+    - ''
+    - T. McGrady misses 2-pt shot from 9 ft
+  - - '7:07.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 31-26
+    - ''
+    - ''
+  - - '6:58.0'
+    - Personal foul by P. Garrity
+    - ''
+    - 31-26
+    - ''
+    - ''
+  - - '6:48.0'
+    - E. Brand makes 2-pt shot from 5 ft
+    - "+2"
+    - 33-26
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 33-26
+    - ''
+    - D. Armstrong misses 3-pt shot from 24 ft
+  - - '6:25.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 33-26
+    - ''
+    - ''
+  - - '6:12.0'
+    - M. Fizer misses 2-pt shot from 8 ft
+    - ''
+    - 33-26
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 33-26
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '6:03.0'
+    - ''
+    - ''
+    - 33-29
+    - "+3"
+    - P. Garrity makes 3-pt shot from 24 ft (assist by T. McGrady)
+  - - '5:43.0'
+    - Chicago full timeout
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:43.0'
+    - M. World Peace enters the game for B. Drew
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:43.0'
+    - F. Hoiberg enters the game for M. Fizer
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:43.0'
+    - R. Mercer enters the game for C. Benjamin
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. Miller enters the game for T. McGrady
+  - - '5:43.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. Doleac enters the game for M. Williams
+  - - '5:38.0'
+    - R. Mercer makes 2-pt shot from 20 ft
+    - "+2"
+    - 35-29
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 35-29
+    - ''
+    - P. Garrity misses 2-pt shot from 23 ft
+  - - '5:21.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 35-29
+    - ''
+    - ''
+  - - '5:00.0'
+    - E. Brand misses 2-pt shot from 20 ft
+    - ''
+    - 35-29
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 35-29
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:54.0'
+    - ''
+    - ''
+    - 35-29
+    - ''
+    - Turnover by D. Armstrong (bad pass)
+  - - '4:42.0'
+    - Turnover by B. Miller (bad pass; steal by D. Armstrong)
+    - ''
+    - 35-29
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 35-29
+    - ''
+    - Clear path foul by B. Miller
+  - - '4:40.0'
+    - ''
+    - ''
+    - 35-30
+    - "+1"
+    - D. Armstrong makes free throw flagrant 1 of 2
+  - - '4:30.0'
+    - ''
+    - ''
+    - 35-32
+    - "+2"
+    - P. Garrity makes 2-pt shot at rim
+  - - '4:15.0'
+    - B. Miller makes 2-pt shot at rim
+    - "+2"
+    - 37-32
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 37-35
+    - "+3"
+    - M. Miller makes 3-pt shot from 23 ft (assist by M. Doleac)
+  - - '3:42.0'
+    - F. Hoiberg misses 3-pt shot from 25 ft
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '3:36.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - M. Doleac misses 2-pt shot from 17 ft
+  - - '3:33.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '3:28.0'
+    - R. Mercer misses 2-pt shot from 18 ft
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Defensive rebound by M. Miller
+  - - '3:17.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Personal foul by E. Brand
+  - - '3:17.0'
+    - M. Ruffin enters the game for B. Miller
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '3:10.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - J. Amaechi misses 2-pt shot from 18 ft
+  - - '2:57.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Offensive rebound by M. Miller
+  - - '2:55.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Turnover by M. Miller (lost ball; steal by F. Hoiberg)
+  - - '2:54.0'
+    - Loose ball foul by M. Miller
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '2:54.0'
+    - Chicago full timeout
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - T. McGrady enters the game for M. Miller
+  - - '2:44.0'
+    - M. World Peace misses 3-pt shot from 25 ft
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '2:29.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Turnover by P. Garrity (lost ball)
+  - - '2:15.0'
+    - R. Mercer misses 2-pt shot from 5 ft
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '2:01.0'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - P. Garrity misses 2-pt shot at rim (block by F. Hoiberg)
+  - - '1:59.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '1:44.0'
+    - R. Mercer makes 2-pt shot from 17 ft
+    - "+2"
+    - 39-35
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - Shooting foul by M. World Peace
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-36
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '1:29.0'
+    - B. Drew enters the game for M. World Peace
+    - ''
+    - 39-36
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-37
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '1:12.0'
+    - R. Mercer misses 2-pt shot at rim
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '0:53.6'
+    - ''
+    - ''
+    - 39-40
+    - "+3"
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by J. Amaechi)
+  - - '0:38.7'
+    - Turnover by F. Hoiberg (bad pass; steal by D. Armstrong)
+    - ''
+    - 39-40
+    - ''
+    - ''
+  - - '0:32.4'
+    - ''
+    - ''
+    - 39-42
+    - "+2"
+    - M. Doleac makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '0:25.5'
+    - Chicago 20 second timeout
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '0:25.5'
+    - Chicago 20 second timeout
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '0:25.5'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - T. Hudson enters the game for P. Garrity
+  - - '0:13.8'
+    - E. Brand misses 2-pt shot at rim
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '0:12.6'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '0:03.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Turnover by D. Armstrong (bad pass; steal by R. Mercer)
+  - - '0:00.4'
+    - Shooting foul by T. Hudson
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '0:00.4'
+    - F. Hoiberg makes free throw 1 of 2
+    - "+1"
+    - 40-42
+    - ''
+    - ''
+  - - '0:00.4'
+    - F. Hoiberg makes free throw 2 of 2
+    - "+1"
+    - 41-42
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - T. McGrady misses 2-pt shot from 17 ft
+  - - '11:35.0'
+    - Defensive rebound by Team
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '11:18.0'
+    - M. World Peace makes 2-pt shot from 5 ft
+    - "+2"
+    - 43-42
+    - ''
+    - ''
+  - - '11:18.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 43-42
+    - ''
+    - ''
+  - - '11:18.0'
+    - M. World Peace makes free throw 1 of 1
+    - "+1"
+    - 44-42
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 44-44
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '10:50.0'
+    - E. Brand makes 2-pt shot from 17 ft
+    - "+2"
+    - 46-44
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - P. Garrity misses 2-pt shot from 20 ft (block by F. Hoiberg)
+  - - '10:28.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Offensive rebound by P. Garrity
+  - - '10:26.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - P. Garrity misses 2-pt shot from 18 ft
+  - - '10:23.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '10:15.0'
+    - F. Hoiberg misses 2-pt shot from 19 ft
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '10:13.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '10:07.0'
+    - M. World Peace makes 2-pt shot at rim (assist by E. Brand)
+    - "+2"
+    - 48-44
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Shooting foul by F. Hoiberg
+  - - '9:44.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - J. Amaechi misses free throw 1 of 2
+  - - '9:44.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Offensive rebound by Team
+  - - '9:44.0'
+    - ''
+    - ''
+    - 48-45
+    - "+1"
+    - J. Amaechi makes free throw 2 of 2
+  - - '9:30.0'
+    - R. Mercer makes 2-pt shot from 14 ft
+    - "+2"
+    - 50-45
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 50-45
+    - ''
+    - M. Doleac misses 2-pt shot at rim (block by E. Brand)
+  - - '9:07.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 50-45
+    - ''
+    - ''
+  - - '9:02.0'
+    - Turnover by F. Hoiberg (bad pass; steal by J. Amaechi)
+    - ''
+    - 50-45
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 50-47
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim (assist by M. Doleac)
+  - - '8:43.0'
+    - Turnover by M. World Peace (bad pass; steal by M. Doleac)
+    - ''
+    - 50-47
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 50-47
+    - ''
+    - Personal foul by M. World Peace
+  - - '8:42.0'
+    - B. Drew enters the game for M. World Peace
+    - ''
+    - 50-47
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 50-47
+    - ''
+    - Shooting foul by E. Brand
+  - - '8:29.0'
+    - ''
+    - ''
+    - 50-48
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '8:29.0'
+    - ''
+    - ''
+    - 50-48
+    - ''
+    - T. McGrady misses free throw 2 of 2
+  - - '8:29.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 50-48
+    - ''
+    - ''
+  - - '8:20.0'
+    - F. Hoiberg makes 3-pt shot from 24 ft (assist by R. Mercer)
+    - "+3"
+    - 53-48
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 53-50
+    - "+2"
+    - T. McGrady makes 2-pt shot from 8 ft
+  - - '7:57.0'
+    - R. Mercer makes 2-pt shot at rim (assist by F. Hoiberg)
+    - "+2"
+    - 55-50
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - Personal foul by R. Mercer
+  - - '7:46.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - M. Miller enters the game for J. Amaechi
+  - - '7:46.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - T. McGrady misses free throw 1 of 2
+  - - '7:46.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - Offensive rebound by Team
+  - - '7:46.0'
+    - ''
+    - ''
+    - 55-51
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '7:32.0'
+    - R. Mercer makes 2-pt shot from 17 ft (assist by B. Drew)
+    - "+2"
+    - 57-51
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - D. Armstrong misses 3-pt shot from 24 ft
+  - - '7:08.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:50.0'
+    - E. Brand misses 2-pt shot from 6 ft
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Defensive rebound by M. Miller
+  - - '6:32.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - M. Miller misses 3-pt shot from 24 ft
+  - - '6:30.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Offensive rebound by M. Doleac
+  - - '6:27.0'
+    - ''
+    - ''
+    - 57-54
+    - "+3"
+    - P. Garrity makes 3-pt shot from 24 ft (assist by T. McGrady)
+  - - '6:13.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '6:13.0'
+    - M. Ruffin misses free throw 1 of 2
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '6:13.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '6:13.0'
+    - M. Ruffin makes free throw 2 of 2
+    - "+1"
+    - 58-54
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 58-56
+    - "+2"
+    - M. Doleac makes 2-pt shot from 20 ft (assist by M. Miller)
+  - - '5:44.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '5:44.0'
+    - Chicago full timeout
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '5:44.0'
+    - E. Brand misses free throw 1 of 2
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '5:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-56
+    - ''
+    - ''
+  - - '5:44.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 59-56
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - D. Armstrong misses 2-pt shot from 4 ft
+  - - '5:33.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 59-56
+    - ''
+    - ''
+  - - '5:28.0'
+    - R. Mercer misses 2-pt shot from 20 ft
+    - ''
+    - 59-56
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Defensive rebound by M. Miller
+  - - '5:09.0'
+    - ''
+    - ''
+    - 59-58
+    - "+2"
+    - P. Garrity makes 2-pt shot at rim (assist by M. Miller)
+  - - '4:49.0'
+    - E. Brand misses 2-pt shot from 11 ft
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:41.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - M. Miller misses 2-pt shot at rim
+  - - '4:39.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:32.0'
+    - B. Drew misses 2-pt shot from 18 ft
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:11.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - P. Garrity misses 2-pt shot from 19 ft
+  - - '4:09.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:05.0'
+    - R. Mercer misses 2-pt shot at rim
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - Defensive rebound by M. Miller
+  - - '3:56.0'
+    - ''
+    - ''
+    - 59-60
+    - "+2"
+    - P. Garrity makes 2-pt shot at rim (assist by T. McGrady)
+  - - '3:56.0'
+    - ''
+    - ''
+    - 59-60
+    - ''
+    - Shooting foul by F. Hoiberg
+  - - '3:56.0'
+    - ''
+    - ''
+    - 59-61
+    - "+1"
+    - P. Garrity makes free throw 1 of 1
+  - - '3:37.0'
+    - B. Drew misses 3-pt shot from 24 ft
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 59-61
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '3:21.0'
+    - ''
+    - ''
+    - 59-64
+    - "+3"
+    - P. Garrity makes 3-pt shot from 24 ft (assist by T. McGrady)
+  - - '3:11.0'
+    - Chicago full timeout
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '3:11.0'
+    - M. Fizer enters the game for E. Brand
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '3:03.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '3:03.0'
+    - F. Hoiberg makes free throw 1 of 2
+    - "+1"
+    - 60-64
+    - ''
+    - ''
+  - - '3:03.0'
+    - F. Hoiberg makes free throw 2 of 2
+    - "+1"
+    - 61-64
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 61-66
+    - "+2"
+    - D. Armstrong makes 2-pt shot from 17 ft
+  - - '2:39.0'
+    - M. Ruffin makes 2-pt shot at rim (assist by B. Drew)
+    - "+2"
+    - 63-66
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-68
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-68
+    - ''
+    - Shooting foul by B. Drew
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-68
+    - ''
+    - M. Williams enters the game for P. Garrity
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-69
+    - "+1"
+    - D. Armstrong makes free throw 1 of 1
+  - - '2:19.0'
+    - Offensive foul by B. Drew
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '2:19.0'
+    - Turnover by B. Drew (foul)
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '2:18.0'
+    - Technical foul by Team
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 63-70
+    - "+1"
+    - D. Armstrong makes free throw technical
+  - - '2:18.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - J. Amaechi enters the game for M. Doleac
+  - - '2:00.0'
+    - ''
+    - ''
+    - 63-72
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim (assist by T. McGrady)
+  - - '1:47.0'
+    - R. Mercer misses 2-pt shot from 15 ft
+    - ''
+    - 63-72
+    - ''
+    - ''
+  - - '1:45.0'
+    - Offensive rebound by M. Ruffin
+    - ''
+    - 63-72
+    - ''
+    - ''
+  - - '1:41.0'
+    - Personal foul by M. Williams
+    - ''
+    - 63-72
+    - ''
+    - ''
+  - - '1:41.0'
+    - M. Fizer makes free throw 1 of 2
+    - "+1"
+    - 64-72
+    - ''
+    - ''
+  - - '1:41.0'
+    - E. Brand enters the game for M. Ruffin
+    - ''
+    - 64-72
+    - ''
+    - ''
+  - - '1:41.0'
+    - M. Fizer makes free throw 2 of 2
+    - "+1"
+    - 65-72
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 65-74
+    - "+2"
+    - D. Armstrong makes 2-pt shot from 9 ft
+  - - '1:03.0'
+    - M. Fizer makes 2-pt shot from 16 ft (assist by F. Hoiberg)
+    - "+2"
+    - 67-74
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 67-76
+    - "+2"
+    - M. Williams makes 2-pt shot from 19 ft (assist by D. Armstrong)
+  - - '0:36.1'
+    - Shooting foul by M. Williams
+    - ''
+    - 67-76
+    - ''
+    - ''
+  - - '0:36.1'
+    - M. Fizer makes free throw 1 of 2
+    - "+1"
+    - 68-76
+    - ''
+    - ''
+  - - '0:36.1'
+    - M. Fizer misses free throw 2 of 2
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '0:35.0'
+    - ''
+    - ''
+    - 68-76
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '0:23.1'
+    - ''
+    - ''
+    - 68-76
+    - ''
+    - J. Amaechi misses 2-pt shot at rim
+  - - '0:20.9'
+    - Defensive rebound by M. Fizer
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '0:02.4'
+    - B. Drew misses 2-pt shot from 23 ft
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '0:00.7'
+    - ''
+    - ''
+    - 68-76
+    - ''
+    - Defensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:43.0'
+    - Shooting foul by D. Armstrong
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '11:43.0'
+    - R. Mercer misses free throw 1 of 2
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '11:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '11:43.0'
+    - R. Mercer makes free throw 2 of 2
+    - "+1"
+    - 69-76
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - D. Armstrong misses 3-pt shot from 24 ft
+  - - '11:23.0'
+    - Defensive rebound by Team
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '11:05.0'
+    - M. Fizer misses 2-pt shot from 9 ft
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '11:02.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '10:47.0'
+    - E. Brand misses 2-pt shot from 12 ft
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Defensive rebound by M. Williams
+  - - '10:29.0'
+    - ''
+    - ''
+    - 69-78
+    - "+2"
+    - T. McGrady makes 2-pt shot from 15 ft
+  - - '10:06.0'
+    - Turnover by R. Mercer (bad pass; steal by D. Armstrong)
+    - ''
+    - 69-78
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 69-78
+    - ''
+    - Personal foul by M. Fizer
+  - - '10:04.0'
+    - ''
+    - ''
+    - 69-78
+    - ''
+    - D. Reid enters the game for D. Armstrong
+  - - '9:45.0'
+    - ''
+    - ''
+    - 69-78
+    - ''
+    - T. McGrady misses 2-pt shot from 19 ft
+  - - '9:43.0'
+    - Defensive rebound by M. Fizer
+    - ''
+    - 69-78
+    - ''
+    - ''
+  - - '9:25.0'
+    - R. Mercer makes 2-pt shot from 19 ft
+    - "+2"
+    - 71-78
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 71-80
+    - "+2"
+    - M. Williams makes 2-pt shot at rim (assist by M. Miller)
+  - - '8:50.0'
+    - F. Hoiberg makes 3-pt shot from 25 ft (assist by M. World Peace)
+    - "+3"
+    - 74-80
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 74-82
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim (assist by M. Williams)
+  - - '8:17.0'
+    - M. World Peace misses 2-pt shot from 5 ft
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Defensive rebound by M. Williams
+  - - '8:14.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Personal foul by M. World Peace
+  - - '8:14.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Official timeout
+  - - '8:14.0'
+    - K. El-Amin enters the game for F. Hoiberg
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '8:14.0'
+    - B. Miller enters the game for M. Fizer
+    - ''
+    - 74-82
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Shooting foul by R. Mercer
+  - - '8:04.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - M. Williams misses free throw 1 of 2
+  - - '8:04.0'
+    - ''
+    - ''
+    - 74-82
+    - ''
+    - Offensive rebound by Team
+  - - '8:04.0'
+    - ''
+    - ''
+    - 74-83
+    - "+1"
+    - M. Williams makes free throw 2 of 2
+  - - '7:47.0'
+    - E. Brand misses 2-pt shot from 6 ft (block by D. Reid)
+    - ''
+    - 74-83
+    - ''
+    - ''
+  - - '7:45.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 74-83
+    - ''
+    - ''
+  - - '7:41.0'
+    - M. World Peace misses 3-pt shot from 23 ft
+    - ''
+    - 74-83
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 74-83
+    - ''
+    - Defensive rebound by D. Reid
+  - - '7:21.0'
+    - ''
+    - ''
+    - 74-85
+    - "+2"
+    - J. Amaechi makes 2-pt shot from 18 ft (assist by D. Reid)
+  - - '6:54.0'
+    - K. El-Amin makes 2-pt shot from 5 ft (assist by R. Mercer)
+    - "+2"
+    - 76-85
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - Turnover by D. Reid (bad pass; steal by B. Miller)
+  - - '6:37.0'
+    - Shooting foul by D. Reid
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '6:37.0'
+    - R. Mercer makes free throw 1 of 2
+    - "+1"
+    - 77-85
+    - ''
+    - ''
+  - - '6:37.0'
+    - R. Mercer makes free throw 2 of 2
+    - "+1"
+    - 78-85
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - M. Williams misses 2-pt shot from 2 ft (block by R. Mercer)
+  - - '6:19.0'
+    - Defensive rebound by K. El-Amin
+    - ''
+    - 78-85
+    - ''
+    - ''
+  - - '6:09.0'
+    - R. Mercer makes 2-pt shot from 17 ft
+    - "+2"
+    - 80-85
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 80-85
+    - ''
+    - Orlando full timeout
+  - - '6:07.0'
+    - ''
+    - ''
+    - 80-85
+    - ''
+    - M. Doleac enters the game for D. Reid
+  - - '6:07.0'
+    - ''
+    - ''
+    - 80-85
+    - ''
+    - D. Armstrong enters the game for M. Williams
+  - - '5:49.0'
+    - ''
+    - ''
+    - 80-87
+    - "+2"
+    - T. McGrady makes 2-pt shot from 13 ft (assist by D. Armstrong)
+  - - '5:27.0'
+    - B. Miller misses 2-pt shot from 6 ft (block by M. Doleac)
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '5:18.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - J. Amaechi misses 2-pt shot from 9 ft (block by B. Miller)
+  - - '5:16.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '4:58.0'
+    - E. Brand misses 2-pt shot from 15 ft
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - Defensive rebound by Team
+  - - '4:46.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - Personal foul by M. World Peace
+  - - '4:46.0'
+    - F. Hoiberg enters the game for M. World Peace
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - M. Doleac misses 2-pt shot from 18 ft
+  - - '4:34.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '4:25.0'
+    - R. Mercer misses 2-pt shot from 18 ft
+    - ''
+    - 80-87
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 80-87
+    - ''
+    - Defensive rebound by M. Miller
+  - - '4:10.0'
+    - ''
+    - ''
+    - 80-89
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '4:10.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - Shooting foul by B. Miller
+  - - '4:10.0'
+    - ''
+    - ''
+    - 80-90
+    - "+1"
+    - T. McGrady makes free throw 1 of 1
+  - - '3:55.0'
+    - Shooting foul by J. Amaechi
+    - ''
+    - 80-90
+    - ''
+    - ''
+  - - '3:55.0'
+    - K. El-Amin makes free throw 1 of 2
+    - "+1"
+    - 81-90
+    - ''
+    - ''
+  - - '3:55.0'
+    - K. El-Amin makes free throw 2 of 2
+    - "+1"
+    - 82-90
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 82-90
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '3:34.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '3:27.0'
+    - E. Brand makes 2-pt shot from 7 ft (assist by F. Hoiberg)
+    - "+2"
+    - 84-90
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 84-90
+    - ''
+    - Personal foul by K. El-Amin
+  - - '3:11.0'
+    - ''
+    - ''
+    - 84-91
+    - "+1"
+    - D. Armstrong makes free throw 1 of 2
+  - - '3:11.0'
+    - ''
+    - ''
+    - 84-92
+    - "+1"
+    - D. Armstrong makes free throw 2 of 2
+  - - '3:11.0'
+    - Chicago full timeout
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '2:47.0'
+    - B. Miller misses 2-pt shot at rim
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '2:46.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '2:45.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '2:45.0'
+    - E. Brand makes free throw 1 of 2
+    - "+1"
+    - 85-92
+    - ''
+    - ''
+  - - '2:45.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 86-92
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 86-94
+    - "+2"
+    - T. McGrady makes 2-pt shot from 2 ft
+  - - '2:13.0'
+    - E. Brand misses 2-pt shot from 16 ft
+    - ''
+    - 86-94
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 86-94
+    - ''
+    - Defensive rebound by M. Miller
+  - - '1:52.0'
+    - ''
+    - ''
+    - 86-96
+    - "+2"
+    - T. McGrady makes 2-pt shot from 14 ft
+  - - '1:31.0'
+    - R. Mercer misses 2-pt shot from 20 ft
+    - ''
+    - 86-96
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 86-96
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '1:12.0'
+    - ''
+    - ''
+    - 86-98
+    - "+2"
+    - T. McGrady makes 2-pt shot from 20 ft
+  - - '0:59.7'
+    - Turnover by B. Miller (out of bounds)
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - J. Amaechi misses 2-pt shot at rim
+  - - '0:42.7'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '0:41.5'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Shooting foul by B. Miller
+  - - '0:41.5'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - M. Miller misses free throw 1 of 2
+  - - '0:41.5'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Offensive rebound by Team
+  - - '0:41.5'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - M. Williams enters the game for T. McGrady
+  - - '0:41.5'
+    - ''
+    - ''
+    - 86-99
+    - "+1"
+    - M. Miller makes free throw 2 of 2
+  - - '0:30.1'
+    - B. Miller misses 2-pt shot at rim (block by M. Williams)
+    - ''
+    - 86-99
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 86-99
+    - ''
+    - Defensive rebound by M. Miller
+  - - '0:08.3'
+    - ''
+    - ''
+    - 86-99
+    - ''
+    - Turnover by D. Armstrong (lost ball; steal by K. El-Amin)
+  - - '0:03.6'
+    - K. El-Amin makes 2-pt shot at rim
+    - "+2"
+    - 88-99
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

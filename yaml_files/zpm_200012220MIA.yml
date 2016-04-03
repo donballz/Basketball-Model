@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 27/-2
+    - 77/
+    - 145/-5
+    - 216/-5
+    - 157/
+    - 119/0
+    - 6/
+    - 'Zydrunas Ilgauskas (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      -1
+    - 231/-1
+    - 156/
+    - 113/-1
+    - 113/-4
+    - 386/
+    - 'Andre Miller (On: +8&#9642;Off: -16&#9642;Net: +24)'
+    - |2-
+
+      +4
+    - 129/+4
+    - 64/
+    - 55/+6
+    - 51/-2
+    - 85/
+    - 82/+1
+    - 30/
+    - 219/-5
+    - 29/
+    - 250/+4
+    - 'Lamond Murray (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - |2-
+
+      +1
+    - 244/+1
+    - 111/
+    - 145/-5
+    - 250/-8
+    - 240/
+    - 8/-3
+    - 'Clarence Weatherspoon (On: -11&#9642;Off: +3&#9642;Net: -14)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 27/-2
+    - 109/
+    - 54/-5
+    - 58/
+    - 190/-6
+    - 214/
+    - 95/-2
+    - 'Michael Hawkins (On: -16&#9642;Off: +8&#9642;Net: -24)'
+    - "\n"
+    - 133/
+    - 54/-6
+    - 119/
+    - 74/-5
+    - 93/
+    - 25/-2
+    - 224/
+    - 25/-3
+    - 248/
+    - 'Chris Gatling (On: -2&#9642;Off: -6&#9642;Net: +4)'
+    - "\n"
+    - 235/
+    - 14/+5
+    - 131/-7
+    - 235/
+    - 126/-4
+    - 6/
+    - 250/+4
+    - 'Cedric Henderson (On: +4&#9642;Off: -12&#9642;Net: +16)'
+    - "\n"
+    - 249/
+    - 0/+3
+    - 102/-3
+    - 367/
+    - 29/-3
+    - 236/+7
+    - 14/
+    - 'Trajan Langdon (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 285/
+    - 67/-1
+    - 391/
+    - 6/0
+    - 119/+6
+    - 127/
+    - 2/-2
+    - 'Robert Traylor (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 284/
+    - 95/-5
+    - 64/
+    - 40/+4
+    - 208/
+    - 55/-2
+    - 150/+6
+    - 100/
+    - 'J.R. Reid (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 487/
+    - 14/0
+    - 500/
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 52/+2
+    - 121/
+    - 37/0
+    - 40/
+    - 198/+6
+    - 133/
+    - 166/+2
+    - 'Brian Grant (On: +18&#9642;Off: -10&#9642;Net: +28)'
+    - |2-
+
+      +1
+    - 230/+1
+    - 83/
+    - 66/+7
+    - 41/
+    - 37/0
+    - 40/
+    - 198/+6
+    - 118/
+    - 182/+4
+    - 'Tim Hardaway (On: +8&#9642;Off: 0&#9642;Net: +8)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 51/+2
+    - 117/
+    - 80/0
+    - 235/+9
+    - 8/
+    - 6/0
+    - 55/
+    - 194/+1
+    - 'Eddie Jones (On: +12&#9642;Off: -4&#9642;Net: +16)'
+    - |2-
+
+      +1
+    - 231/+1
+    - 76/
+    - 192/+6
+    - 249/+8
+    - 49/-5
+    - 76/
+    - 124/+2
+    - 'Anthony Mason (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 59/0
+    - 78/
+    - 113/+1
+    - 250/+8
+    - 248/-4
+    - 'A.C. Green (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 235/
+    - 14/-5
+    - 168/+8
+    - 285/
+    - 38/+2
+    - 6/
+    - 63/-8
+    - 187/
+    - 'Dan Majerle (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - "\n"
+    - 235/
+    - 14/-5
+    - 168/+8
+    - 45/
+    - 35/0
+    - 205/
+    - 44/+2
+    - 119/-6
+    - 130/
+    - 'Eddie House (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - "\n"
+    - 307/
+    - 107/+6
+    - 322/
+    - 13/-1
+    - 75/-6
+    - 174/
+    - 'Duane Causwell (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 465/
+    - 35/0
+    - 501/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

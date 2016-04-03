@@ -1,0 +1,199 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tony Delk (On: -1&#9642;Off: +3&#9642;Net: -4)'
+    - |2-
+
+      +3
+    - 182/+3
+    - 272/
+    - 45/+4
+    - 211/-9
+    - 104/
+    - 184/+1
+    - 'Chris Dudley (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - |2-
+
+      +7
+    - 59/+7
+    - 441/
+    - 184/-9
+    - 316/
+    - 'Jason Kidd (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 138/
+    - 112/+11
+    - 250/-12
+    - 249/0
+    - 'Shawn Marion (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - |2-
+
+      +3
+    - 181/+3
+    - 35/
+    - 34/-6
+    - 249/+15
+    - 146/-7
+    - 71/
+    - 32/-3
+    - 248/0
+    - 'Clifford Robinson (On: +6&#9642;Off: -4&#9642;Net: +10)'
+    - |2-
+
+      +5
+    - 209/+5
+    - 143/
+    - 146/+11
+    - 146/-7
+    - 45/
+    - 58/-3
+    - 250/0
+    - 'Corie Blount (On: -6&#9642;Off: +8&#9642;Net: -14)'
+    - "\n"
+    - 64/
+    - 66/-6
+    - 871/
+    - 'Daniel Santiago (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - "\n"
+    - 132/
+    - 118/-2
+    - 751/
+    - 'Rodney Rogers (On: +6&#9642;Off: -4&#9642;Net: +10)'
+    - "\n"
+    - 182/
+    - 67/-4
+    - 250/+15
+    - 151/
+    - 98/-5
+    - 250/0
+    - 'Paul McPherson (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 186/
+    - 64/-4
+    - 99/+4
+    - 651/
+    - 'Tom Gugliotta (On: +5&#9642;Off: -3&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 202/+11
+    - 199/
+    - 98/-5
+    - 64/-1
+    - 185/
+    - 'Elliot Perry (On: +4&#9642;Off: -2&#9642;Net: +6)'
+    - "\n"
+    - 250/
+    - 133/+4
+    - 618/
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -7&#9642;Off: +5&#9642;Net: -12)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 250/-15
+    - 210/+9
+    - 290/
+    - 'Isaac Austin (On: +2&#9642;Off: -4&#9642;Net: +6)'
+    - |2-
+
+      -3
+    - 112/-3
+    - 260/
+    - 126/-7
+    - 1/
+    - 250/+12
+    - 249/
+    - 'Mike Bibby (On: -2&#9642;Off: 0&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 63/-2
+    - 59/
+    - 127/-9
+    - 249/+12
+    - 123/0
+    - 71/
+    - 39/-4
+    - 15/
+    - 'Michael Dickerson (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 65/
+    - 183/-11
+    - 1/
+    - 227/+10
+    - 149/
+    - 123/0
+    - 'Othella Harrington (On: +1&#9642;Off: -3&#9642;Net: +4)'
+    - |2-
+
+      -1
+    - 191/-1
+    - 143/
+    - 165/-10
+    - 250/+12
+    - 250/0
+    - 'Bryant Reeves (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - "\n"
+    - 116/
+    - 133/+4
+    - 119/-6
+    - 379/
+    - 239/+2
+    - 9/
+    - 2/0
+    - 'Stromile Swift (On: -3&#9642;Off: +1&#9642;Net: -4)'
+    - "\n"
+    - 196/
+    - 54/+2
+    - 79/-5
+    - 671/
+    - 'Kevin Edwards (On: -2&#9642;Off: 0&#9642;Net: -2)'
+    - "\n"
+    - 249/
+    - 63/-2
+    - 186/
+    - 0/-2
+    - 227/
+    - 22/+2
+    - 250/0
+    - 'Damon Jones (On: +1&#9642;Off: -3&#9642;Net: +4)'
+    - "\n"
+    - 314/
+    - 54/-4
+    - 129/
+    - 0/-2
+    - 211/
+    - 38/+3
+    - 191/+6
+    - 47/
+    - 11/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

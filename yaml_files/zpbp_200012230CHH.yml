@@ -1,0 +1,2571 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: E. Campbell vs. D. Robinson (A. Daniels gains possession)'
+  - - '11:47.0'
+    - D. Robinson makes 2-pt shot from 10 ft (assist by A. Daniels)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by P. Brown (bad pass; steal by A. Daniels)
+  - - '11:15.0'
+    - T. Duncan misses 2-pt shot from 7 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by P. Brown
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - E. Campbell makes 2-pt shot from 7 ft (assist by B. Davis)
+  - - '10:39.0'
+    - Turnover by T. Duncan (bad pass; steal by D. Wesley)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - D. Wesley misses 2-pt shot from 18 ft
+  - - '10:31.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Offensive rebound by P. Brown
+  - - '10:29.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - P. Brown misses 2-pt shot from 12 ft
+  - - '10:28.0'
+    - Defensive rebound by D. Anderson
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:21.0'
+    - D. Anderson misses 2-pt shot at rim
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by P. Brown
+  - - '10:14.0'
+    - Technical foul by Team
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 2-3
+    - "+1"
+    - D. Wesley makes free throw technical
+  - - '10:10.0'
+    - ''
+    - ''
+    - 2-5
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 18 ft (assist by D. Wesley)
+  - - '9:59.0'
+    - A. Daniels misses 2-pt shot at rim
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Defensive rebound by B. Davis
+  - - '9:37.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - D. Wesley misses 2-pt shot from 5 ft
+  - - '9:37.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Offensive rebound by Team
+  - - '9:35.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - D. Wesley misses 2-pt shot from 22 ft
+  - - '9:33.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:18.0'
+    - Personal foul by J. Mashburn
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:11.0'
+    - D. Anderson misses 2-pt shot from 9 ft
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:06.0'
+    - Offensive rebound by D. Anderson
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:05.0'
+    - D. Anderson misses 3-pt shot from 22 ft
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '8:50.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Offensive foul by E. Campbell
+  - - '8:50.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Turnover by E. Campbell (foul)
+  - - '8:33.0'
+    - Turnover by T. Duncan (bad pass)
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - B. Davis misses 2-pt shot at rim
+  - - '8:13.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '8:09.0'
+    - T. Duncan makes 2-pt shot at rim (assist by D. Robinson)
+    - "+2"
+    - 4-5
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '7:51.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '7:47.0'
+    - D. Anderson makes 2-pt shot at rim (assist by A. Daniels)
+    - "+2"
+    - 6-5
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 6-5
+    - ''
+    - Charlotte full timeout
+  - - '7:27.0'
+    - ''
+    - ''
+    - 6-7
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 11 ft (assist by P. Brown)
+  - - '7:05.0'
+    - T. Duncan makes 2-pt shot from 5 ft (assist by D. Anderson)
+    - "+2"
+    - 8-7
+    - ''
+    - ''
+  - - '7:05.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - J. Magloire enters the game for E. Campbell
+  - - '7:05.0'
+    - T. Duncan makes free throw 1 of 1
+    - "+1"
+    - 9-7
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - B. Davis misses 3-pt shot from 24 ft
+  - - '6:43.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - Violation by J. Magloire (illegal defense)
+  - - '6:19.0'
+    - T. Duncan makes 2-pt shot from 9 ft (assist by A. Daniels)
+    - "+2"
+    - 11-7
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 11-9
+    - "+2"
+    - D. Wesley makes 2-pt shot from 22 ft (assist by B. Davis)
+  - - '5:48.0'
+    - D. Robinson misses 2-pt shot at rim
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '5:33.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - J. Mashburn misses 3-pt shot from 24 ft
+  - - '5:31.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '5:17.0'
+    - A. Daniels misses 2-pt shot from 18 ft
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '5:15.0'
+    - Offensive rebound by D. Robinson
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '5:13.0'
+    - S. Elliott makes 3-pt shot from 23 ft (assist by A. Daniels)
+    - "+3"
+    - 14-9
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 14-9
+    - ''
+    - Turnover by B. Davis (bad pass)
+  - - '4:57.0'
+    - M. Rose enters the game for D. Robinson
+    - ''
+    - 14-9
+    - ''
+    - ''
+  - - '4:39.0'
+    - T. Duncan makes 2-pt shot from 13 ft (assist by D. Anderson)
+    - "+2"
+    - 16-9
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - J. Magloire misses 2-pt shot from 3 ft
+  - - '4:13.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '3:58.0'
+    - M. Rose misses 2-pt shot from 13 ft
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '3:41.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - J. Magloire misses 2-pt shot from 5 ft
+  - - '3:38.0'
+    - Defensive rebound by S. Elliott
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '3:19.0'
+    - M. Rose misses 2-pt shot from 18 ft
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '3:04.0'
+    - ''
+    - ''
+    - 16-11
+    - "+2"
+    - J. Magloire makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '2:56.0'
+    - San Antonio full timeout
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '2:56.0'
+    - T. Porter enters the game for D. Anderson
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '2:46.0'
+    - T. Duncan makes 2-pt shot at rim (assist by A. Daniels)
+    - "+2"
+    - 18-11
+    - ''
+    - ''
+  - - '2:46.0'
+    - Shooting foul by J. Magloire
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '2:46.0'
+    - T. Duncan makes free throw 1 of 1
+    - "+1"
+    - 19-11
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 19-13
+    - "+2"
+    - D. Wesley makes 2-pt shot from 21 ft
+  - - '2:09.0'
+    - S. Elliott misses 3-pt shot from 22 ft
+    - ''
+    - 19-13
+    - ''
+    - ''
+  - - '2:07.0'
+    - Offensive rebound by T. Duncan
+    - ''
+    - 19-13
+    - ''
+    - ''
+  - - '1:56.0'
+    - Personal foul by P. Brown
+    - ''
+    - 19-13
+    - ''
+    - ''
+  - - '1:56.0'
+    - D. Ferry enters the game for S. Elliott
+    - ''
+    - 19-13
+    - ''
+    - ''
+  - - '1:44.0'
+    - T. Duncan misses 2-pt shot from 13 ft
+    - ''
+    - 19-13
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 19-13
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '1:38.0'
+    - ''
+    - ''
+    - 19-15
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 11 ft (assist by D. Wesley)
+  - - '1:17.0'
+    - Turnover by T. Porter (bad pass; steal by J. Mashburn)
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 19-17
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '0:55.0'
+    - M. Rose misses 2-pt shot at rim (block by P. Brown)
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '0:53.7'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '0:49.7'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - H. Hawkins enters the game for B. Davis
+  - - '0:48.2'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Offensive foul by J. Magloire
+  - - '0:48.2'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Turnover by J. Magloire (foul)
+  - - '0:26.0'
+    - T. Duncan misses 2-pt shot at rim
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '0:24.8'
+    - T. Duncan makes 2-pt shot at rim
+    - "+2"
+    - 21-17
+    - ''
+    - ''
+  - - '0:24.8'
+    - Offensive rebound by T. Duncan
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:11.3'
+    - ''
+    - ''
+    - 21-19
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 8 ft
+  - - '0:00.1'
+    - D. Ferry misses 3-pt shot from 24 ft
+    - ''
+    - 21-19
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '11:39.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - Offensive rebound by O. Thorpe
+  - - '11:28.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - E. Campbell misses 2-pt shot from 6 ft
+  - - '11:28.0'
+    - Defensive rebound by Team
+    - ''
+    - 21-19
+    - ''
+    - ''
+  - - '11:12.0'
+    - Turnover by M. Rose (lost ball; steal by H. Hawkins)
+    - ''
+    - 21-19
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 21-21
+    - "+2"
+    - E. Campbell makes 2-pt shot from 17 ft (assist by J. Mashburn)
+  - - '10:31.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - Turnover by J. Mashburn (bad pass; steal by M. Rose)
+  - - '10:13.0'
+    - Turnover by M. Rose (traveling)
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '10:13.0'
+    - D. Robinson enters the game for T. Duncan
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - Personal foul by M. Rose
+  - - '9:57.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - L. Nailon enters the game for J. Mashburn
+  - - '9:43.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - E. Campbell misses 2-pt shot from 9 ft
+  - - '9:41.0'
+    - ''
+    - ''
+    - 21-21
+    - ''
+    - Offensive rebound by H. Hawkins
+  - - '9:36.0'
+    - ''
+    - ''
+    - 21-23
+    - "+2"
+    - H. Hawkins makes 2-pt shot at rim
+  - - '9:27.0'
+    - T. Porter misses 2-pt shot from 15 ft (block by H. Hawkins)
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - Defensive rebound by L. Nailon
+  - - '9:03.0'
+    - ''
+    - ''
+    - 21-23
+    - ''
+    - E. Recasner misses 2-pt shot from 17 ft
+  - - '9:02.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '8:41.0'
+    - T. Porter makes 2-pt shot from 22 ft (assist by D. Ferry)
+    - "+2"
+    - 23-23
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - Turnover by L. Nailon (bad pass; steal by D. Robinson)
+  - - '8:16.0'
+    - D. Robinson makes 2-pt shot at rim (assist by S. Kerr)
+    - "+2"
+    - 25-23
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 25-23
+    - ''
+    - Personal foul by D. Robinson
+  - - '7:56.0'
+    - ''
+    - ''
+    - 25-23
+    - ''
+    - Official timeout
+  - - '7:43.0'
+    - ''
+    - ''
+    - 25-25
+    - "+2"
+    - E. Recasner makes 2-pt shot from 18 ft (assist by L. Nailon)
+  - - '7:29.0'
+    - S. Kerr makes 2-pt shot from 7 ft
+    - "+2"
+    - 27-25
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - E. Recasner misses 3-pt shot from 25 ft
+  - - '7:05.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - Shooting foul by E. Recasner
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - B. Davis enters the game for E. Recasner
+  - - '6:48.0'
+    - T. Duncan enters the game for M. Rose
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - J. Mashburn enters the game for O. Thorpe
+  - - '6:48.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - D. Wesley enters the game for L. Nailon
+  - - '6:48.0'
+    - D. Robinson makes free throw 1 of 2
+    - "+1"
+    - 28-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - S. Elliott enters the game for D. Ferry
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - P. Brown enters the game for H. Hawkins
+  - - '6:48.0'
+    - D. Robinson misses free throw 2 of 2
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - Defensive rebound by P. Brown
+  - - '6:30.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - D. Wesley misses 2-pt shot from 21 ft
+  - - '6:29.0'
+    - Defensive rebound by T. Porter
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '6:13.0'
+    - D. Robinson makes 2-pt shot from 7 ft (assist by S. Elliott)
+    - "+2"
+    - 30-25
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - P. Brown misses 2-pt shot from 14 ft
+  - - '5:51.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '5:45.0'
+    - Shooting foul by B. Davis
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '5:45.0'
+    - San Antonio full timeout
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '5:45.0'
+    - D. Anderson enters the game for S. Kerr
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '5:45.0'
+    - T. Porter makes free throw 1 of 2
+    - "+1"
+    - 31-25
+    - ''
+    - ''
+  - - '5:45.0'
+    - T. Porter makes free throw 2 of 2
+    - "+1"
+    - 32-25
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 32-27
+    - "+2"
+    - D. Wesley makes 2-pt shot from 15 ft (assist by B. Davis)
+  - - '5:09.0'
+    - T. Duncan makes 2-pt shot from 12 ft (assist by T. Porter)
+    - "+2"
+    - 34-27
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - E. Campbell misses 2-pt shot from 14 ft
+  - - '4:42.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '4:33.0'
+    - T. Duncan misses 2-pt shot at rim
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Defensive rebound by P. Brown
+  - - '4:25.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - B. Davis misses 2-pt shot at rim (block by T. Duncan)
+  - - '4:22.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '4:15.0'
+    - Turnover by D. Anderson (lost ball)
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '4:15.0'
+    - A. Daniels enters the game for T. Porter
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 34-29
+    - "+2"
+    - B. Davis makes 2-pt shot from 13 ft (assist by J. Mashburn)
+  - - '3:46.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 34-29
+    - ''
+    - O. Thorpe enters the game for E. Campbell
+  - - '3:46.0'
+    - D. Robinson misses free throw 1 of 2
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '3:46.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '3:46.0'
+    - D. Robinson makes free throw 2 of 2
+    - "+1"
+    - 35-29
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 35-32
+    - "+3"
+    - J. Mashburn makes 3-pt shot from 24 ft (assist by P. Brown)
+  - - '3:11.0'
+    - T. Duncan makes 2-pt shot from 14 ft (assist by A. Daniels)
+    - "+2"
+    - 37-32
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 37-32
+    - ''
+    - Personal foul by S. Elliott
+  - - '2:54.0'
+    - ''
+    - ''
+    - 37-32
+    - ''
+    - J. Mashburn misses 2-pt shot from 16 ft
+  - - '2:52.0'
+    - Defensive rebound by D. Anderson
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:45.0'
+    - San Antonio full timeout
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:40.0'
+    - D. Anderson misses 2-pt shot from 17 ft
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:38.0'
+    - Offensive rebound by D. Anderson
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:28.0'
+    - T. Duncan misses 2-pt shot from 11 ft
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 37-32
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '2:20.0'
+    - ''
+    - ''
+    - 37-32
+    - ''
+    - J. Mashburn misses 2-pt shot from 11 ft
+  - - '2:19.0'
+    - Defensive rebound by A. Daniels
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:02.0'
+    - Shooting foul by O. Thorpe
+    - ''
+    - 37-32
+    - ''
+    - ''
+  - - '2:02.0'
+    - D. Anderson makes free throw 1 of 2
+    - "+1"
+    - 38-32
+    - ''
+    - ''
+  - - '2:02.0'
+    - D. Anderson makes free throw 2 of 2
+    - "+1"
+    - 39-32
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 39-32
+    - ''
+    - Charlotte 20 second timeout
+  - - '1:50.0'
+    - ''
+    - ''
+    - 39-32
+    - ''
+    - Turnover by J. Mashburn (bad pass; steal by T. Duncan)
+  - - '1:49.0'
+    - Turnover by T. Duncan (traveling)
+    - ''
+    - 39-32
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 39-32
+    - ''
+    - Personal foul by A. Daniels
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-32
+    - ''
+    - Shooting foul by T. Duncan
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-33
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '1:29.0'
+    - ''
+    - ''
+    - 39-34
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '1:11.0'
+    - Personal foul by P. Brown
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '1:11.0'
+    - D. Robinson makes free throw 1 of 2
+    - "+1"
+    - 40-34
+    - ''
+    - ''
+  - - '1:11.0'
+    - D. Robinson makes free throw 2 of 2
+    - "+1"
+    - 41-34
+    - ''
+    - ''
+  - - '0:49.5'
+    - ''
+    - ''
+    - 41-36
+    - "+2"
+    - O. Thorpe makes 2-pt shot from 9 ft
+  - - '0:30.6'
+    - S. Elliott makes 2-pt shot at rim
+    - "+2"
+    - 43-36
+    - ''
+    - ''
+  - - '0:30.6'
+    - ''
+    - ''
+    - 43-36
+    - ''
+    - Violation by P. Brown (def goaltending)
+  - - '0:09.4'
+    - ''
+    - ''
+    - 43-38
+    - "+2"
+    - O. Thorpe makes 2-pt shot from 12 ft (assist by J. Mashburn)
+  - - '0:01.0'
+    - A. Daniels misses 2-pt shot from 10 ft
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Defensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 43-40
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 12 ft (assist by P. Brown)
+  - - '11:27.0'
+    - Turnover by A. Daniels (lost ball; steal by B. Davis)
+    - ''
+    - 43-40
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 43-40
+    - ''
+    - Personal foul by D. Anderson
+  - - '11:11.0'
+    - ''
+    - ''
+    - 43-42
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 13 ft (assist by D. Wesley)
+  - - '10:45.0'
+    - D. Robinson makes 2-pt shot at rim
+    - "+2"
+    - 45-42
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 45-42
+    - ''
+    - J. Mashburn misses 2-pt shot from 16 ft
+  - - '10:30.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 45-42
+    - ''
+    - ''
+  - - '10:19.0'
+    - Personal foul by B. Davis
+    - ''
+    - 45-42
+    - ''
+    - ''
+  - - '10:19.0'
+    - A. Daniels makes 2-pt shot at rim
+    - "+2"
+    - 47-42
+    - ''
+    - ''
+  - - '10:19.0'
+    - A. Daniels makes free throw 1 of 1
+    - "+1"
+    - 48-42
+    - ''
+    - ''
+  - - '10:09.0'
+    - 'Jump ball: J. Mashburn vs. T. Duncan (B. Davis gains possession)'
+  - - '10:09.0'
+    - Turnover by T. Duncan (lost ball; steal by J. Mashburn)
+    - ''
+    - 48-42
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 48-42
+    - ''
+    - B. Davis misses 2-pt shot at rim
+  - - '9:58.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 48-42
+    - ''
+    - ''
+  - - '9:44.0'
+    - S. Elliott misses 2-pt shot at rim
+    - ''
+    - 48-42
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 48-42
+    - ''
+    - Defensive rebound by P. Brown
+  - - '9:36.0'
+    - ''
+    - ''
+    - 48-44
+    - "+2"
+    - D. Wesley makes 2-pt shot from 20 ft (assist by P. Brown)
+  - - '9:24.0'
+    - Personal foul by D. Wesley
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Technical foul by D. Wesley
+  - - '9:24.0'
+    - D. Anderson makes free throw technical
+    - "+1"
+    - 49-44
+    - ''
+    - ''
+  - - '9:15.0'
+    - D. Anderson makes 2-pt shot from 20 ft (assist by A. Daniels)
+    - "+2"
+    - 51-44
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 51-44
+    - ''
+    - E. Campbell misses 2-pt shot from 5 ft
+  - - '8:54.0'
+    - Defensive rebound by A. Daniels
+    - ''
+    - 51-44
+    - ''
+    - ''
+  - - '8:42.0'
+    - D. Robinson misses 2-pt shot at rim
+    - ''
+    - 51-44
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 51-44
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '8:26.0'
+    - ''
+    - ''
+    - 51-46
+    - "+2"
+    - D. Wesley makes 2-pt shot from 20 ft (assist by E. Campbell)
+  - - '8:07.0'
+    - Turnover by T. Duncan (bad pass; steal by B. Davis)
+    - ''
+    - 51-46
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 51-46
+    - ''
+    - Shooting foul by A. Daniels
+  - - '8:06.0'
+    - ''
+    - ''
+    - 51-46
+    - ''
+    - B. Davis misses free throw 1 of 2
+  - - '8:06.0'
+    - ''
+    - ''
+    - 51-46
+    - ''
+    - Offensive rebound by Team
+  - - '8:06.0'
+    - ''
+    - ''
+    - 51-47
+    - "+1"
+    - B. Davis makes free throw 2 of 2
+  - - '7:51.0'
+    - S. Elliott misses 2-pt shot from 8 ft
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '7:46.0'
+    - ''
+    - ''
+    - 51-49
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '7:30.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '7:30.0'
+    - T. Duncan makes free throw 1 of 2
+    - "+1"
+    - 52-49
+    - ''
+    - ''
+  - - '7:30.0'
+    - T. Duncan makes free throw 2 of 2
+    - "+1"
+    - 53-49
+    - ''
+    - ''
+  - - '7:16.0'
+    - ''
+    - ''
+    - 53-51
+    - "+2"
+    - E. Campbell makes 2-pt shot at rim (assist by B. Davis)
+  - - '6:59.0'
+    - T. Duncan misses 2-pt shot from 11 ft
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Defensive rebound by P. Brown
+  - - '6:45.0'
+    - ''
+    - ''
+    - 53-53
+    - "+2"
+    - D. Wesley makes 2-pt shot from 14 ft (assist by J. Mashburn)
+  - - '6:22.0'
+    - D. Robinson misses 2-pt shot from 14 ft
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '6:11.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - Offensive foul by E. Campbell
+  - - '6:11.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - Turnover by E. Campbell (foul)
+  - - '6:11.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - O. Thorpe enters the game for E. Campbell
+  - - '5:54.0'
+    - A. Daniels misses 2-pt shot from 22 ft
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - Defensive rebound by P. Brown
+  - - '5:28.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - D. Wesley misses 2-pt shot from 22 ft
+  - - '5:27.0'
+    - Defensive rebound by Team
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:27.0'
+    - San Antonio full timeout
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:27.0'
+    - D. Ferry enters the game for A. Daniels
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:27.0'
+    - T. Porter enters the game for S. Elliott
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:04.0'
+    - Turnover by D. Robinson (lost ball; steal by O. Thorpe)
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 53-55
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '4:52.0'
+    - Personal foul by D. Wesley
+    - ''
+    - 53-55
+    - ''
+    - ''
+  - - '4:40.0'
+    - D. Anderson makes 2-pt shot at rim
+    - "+2"
+    - 55-55
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - J. Mashburn misses 2-pt shot from 18 ft
+  - - '4:30.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 55-55
+    - ''
+    - ''
+  - - '4:14.0'
+    - Turnover by T. Porter (lost ball; steal by B. Davis)
+    - ''
+    - 55-55
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 55-58
+    - "+3"
+    - J. Mashburn makes 3-pt shot from 23 ft (assist by D. Wesley)
+  - - '3:56.0'
+    - M. Rose enters the game for D. Robinson
+    - ''
+    - 55-58
+    - ''
+    - ''
+  - - '3:50.0'
+    - D. Anderson misses 2-pt shot from 22 ft
+    - ''
+    - 55-58
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Defensive rebound by P. Brown
+  - - '3:27.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - J. Mashburn misses 2-pt shot from 13 ft
+  - - '3:25.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Offensive rebound by O. Thorpe
+  - - '3:05.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - D. Wesley misses 2-pt shot from 19 ft
+  - - '3:04.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Offensive rebound by O. Thorpe
+  - - '3:01.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - D. Wesley misses 3-pt shot from 25 ft
+  - - '2:59.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 55-58
+    - ''
+    - ''
+  - - '2:44.0'
+    - D. Anderson misses 2-pt shot at rim
+    - ''
+    - 55-58
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Defensive rebound by O. Thorpe
+  - - '2:34.0'
+    - ''
+    - ''
+    - 55-60
+    - "+2"
+    - P. Brown makes 2-pt shot from 16 ft (assist by B. Davis)
+  - - '2:16.0'
+    - T. Porter misses 2-pt shot from 21 ft
+    - ''
+    - 55-60
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 55-60
+    - ''
+    - Defensive rebound by B. Davis
+  - - '2:09.0'
+    - ''
+    - ''
+    - 55-60
+    - ''
+    - P. Brown misses 2-pt shot from 15 ft
+  - - '2:08.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 55-60
+    - ''
+    - ''
+  - - '2:03.0'
+    - Turnover by T. Porter (bad pass)
+    - ''
+    - 55-60
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 55-60
+    - ''
+    - H. Hawkins enters the game for D. Wesley
+  - - '2:03.0'
+    - S. Kerr enters the game for D. Anderson
+    - ''
+    - 55-60
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 55-63
+    - "+3"
+    - J. Mashburn makes 3-pt shot from 25 ft (assist by B. Davis)
+  - - '1:18.0'
+    - M. Rose misses 2-pt shot from 3 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by O. Thorpe
+  - - '1:12.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Turnover by J. Mashburn (traveling)
+  - - '1:12.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - L. Nailon enters the game for J. Mashburn
+  - - '0:54.3'
+    - T. Duncan makes 2-pt shot from 6 ft (assist by T. Porter)
+    - "+2"
+    - 57-63
+    - ''
+    - ''
+  - - '0:37.0'
+    - ''
+    - ''
+    - 57-66
+    - "+3"
+    - H. Hawkins makes 3-pt shot from 25 ft (assist by P. Brown)
+  - - '0:22.4'
+    - Turnover by T. Porter (bad pass)
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '0:10.6'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - Personal foul by T. Porter
+  - - '0:01.8'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - B. Davis misses 2-pt shot from 21 ft
+  - - '0:00.0'
+    - Defensive rebound by M. Rose
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:43.0'
+    - D. Ferry misses 2-pt shot from 14 ft
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - Defensive rebound by P. Brown
+  - - '11:19.0'
+    - ''
+    - ''
+    - 57-68
+    - "+2"
+    - O. Thorpe makes 2-pt shot at rim (assist by H. Hawkins)
+  - - '11:01.0'
+    - Turnover by T. Duncan (3 second)
+    - ''
+    - 57-68
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 57-68
+    - ''
+    - P. Brown misses 2-pt shot from 13 ft
+  - - '10:44.0'
+    - ''
+    - ''
+    - 57-68
+    - ''
+    - Offensive rebound by P. Brown
+  - - '10:29.0'
+    - ''
+    - ''
+    - 57-70
+    - "+2"
+    - L. Nailon makes 2-pt shot from 16 ft (assist by E. Recasner)
+  - - '10:08.0'
+    - Personal foul by L. Nailon
+    - ''
+    - 57-70
+    - ''
+    - ''
+  - - '10:02.0'
+    - Personal foul by O. Thorpe
+    - ''
+    - 57-70
+    - ''
+    - ''
+  - - '9:50.0'
+    - S. Kerr makes 3-pt shot from 26 ft
+    - "+3"
+    - 60-70
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 60-70
+    - ''
+    - L. Nailon misses 2-pt shot from 10 ft
+  - - '9:23.0'
+    - Defensive rebound by S. Kerr
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '9:20.0'
+    - Shooting foul by E. Recasner
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '9:20.0'
+    - T. Porter makes free throw 1 of 2
+    - "+1"
+    - 61-70
+    - ''
+    - ''
+  - - '9:20.0'
+    - T. Porter makes free throw 2 of 2
+    - "+1"
+    - 62-70
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 62-70
+    - ''
+    - Turnover by L. Nailon (lost ball; steal by M. Rose)
+  - - '8:52.0'
+    - S. Kerr makes 2-pt shot from 16 ft (assist by M. Rose)
+    - "+2"
+    - 64-70
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - Charlotte full timeout
+  - - '8:49.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - D. Wesley enters the game for E. Recasner
+  - - '8:49.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - B. Davis enters the game for H. Hawkins
+  - - '8:49.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - J. Mashburn enters the game for L. Nailon
+  - - '8:49.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - E. Campbell enters the game for O. Thorpe
+  - - '8:36.0'
+    - ''
+    - ''
+    - 64-70
+    - ''
+    - Turnover by E. Campbell (lost ball; steal by S. Kerr)
+  - - '8:19.0'
+    - T. Duncan makes 2-pt shot at rim (assist by T. Porter)
+    - "+2"
+    - 66-70
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 66-72
+    - "+2"
+    - E. Campbell makes 2-pt shot from 9 ft (assist by B. Davis)
+  - - '7:48.0'
+    - Ill def tech foul by E. Campbell
+    - ''
+    - 66-72
+    - ''
+    - ''
+  - - '7:48.0'
+    - S. Kerr makes free throw technical
+    - "+1"
+    - 67-72
+    - ''
+    - ''
+  - - '7:41.0'
+    - S. Kerr makes 2-pt shot from 18 ft (assist by T. Porter)
+    - "+2"
+    - 69-72
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - Personal foul by M. Rose
+  - - '7:25.0'
+    - Technical foul by M. Rose
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - D. Wesley misses free throw technical
+  - - '7:25.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - Offensive rebound by Team
+  - - '7:18.0'
+    - Violation by M. Rose (illegal defense)
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - J. Mashburn misses 2-pt shot from 21 ft
+  - - '7:08.0'
+    - Defensive rebound by Team
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:53.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:53.0'
+    - T. Duncan misses free throw 1 of 2
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:53.0'
+    - T. Duncan misses free throw 2 of 2
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - Defensive rebound by P. Brown
+  - - '6:39.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - D. Wesley misses 2-pt shot from 17 ft
+  - - '6:37.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:21.0'
+    - T. Duncan misses 2-pt shot from 8 ft
+    - ''
+    - 69-72
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 69-72
+    - ''
+    - Defensive rebound by P. Brown
+  - - '6:09.0'
+    - ''
+    - ''
+    - 69-75
+    - "+3"
+    - B. Davis makes 3-pt shot from 23 ft (assist by D. Wesley)
+  - - '5:36.0'
+    - T. Porter makes 3-pt shot from 25 ft (assist by S. Kerr)
+    - "+3"
+    - 72-75
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 72-78
+    - "+3"
+    - B. Davis makes 3-pt shot from 25 ft (assist by E. Campbell)
+  - - '4:52.0'
+    - T. Porter misses 3-pt shot from 24 ft
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '4:29.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - J. Mashburn misses 2-pt shot from 12 ft
+  - - '4:28.0'
+    - Defensive rebound by T. Porter
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '4:07.0'
+    - S. Kerr misses 2-pt shot from 21 ft
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '4:05.0'
+    - Offensive rebound by M. Rose
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '4:01.0'
+    - San Antonio full timeout
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '4:01.0'
+    - S. Elliott enters the game for D. Ferry
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:57.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:57.0'
+    - T. Duncan misses free throw 1 of 2
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:57.0'
+    - T. Duncan misses free throw 2 of 2
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '3:38.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - D. Wesley misses 2-pt shot from 22 ft
+  - - '3:34.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '3:22.0'
+    - T. Duncan makes 2-pt shot from 6 ft
+    - "+2"
+    - 74-78
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - Personal foul by S. Kerr
+  - - '3:09.0'
+    - D. Robinson enters the game for M. Rose
+    - ''
+    - 74-78
+    - ''
+    - ''
+  - - '3:09.0'
+    - D. Anderson enters the game for S. Kerr
+    - ''
+    - 74-78
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - P. Brown misses 2-pt shot from 13 ft
+  - - '2:53.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 74-78
+    - ''
+    - ''
+  - - '2:42.0'
+    - D. Robinson misses 2-pt shot from 12 ft
+    - ''
+    - 74-78
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '2:25.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - Shooting foul by T. Duncan
+  - - '2:25.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - Official timeout
+  - - '2:25.0'
+    - ''
+    - ''
+    - 74-79
+    - "+1"
+    - B. Davis makes free throw 1 of 2
+  - - '2:25.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - B. Davis misses free throw 2 of 2
+  - - '2:24.0'
+    - Defensive rebound by D. Robinson
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '2:11.0'
+    - Shooting foul by J. Mashburn
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '2:11.0'
+    - S. Elliott makes free throw 1 of 2
+    - "+1"
+    - 75-79
+    - ''
+    - ''
+  - - '2:11.0'
+    - S. Elliott makes free throw 2 of 2
+    - "+1"
+    - 76-79
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - Turnover by E. Campbell (lost ball; steal by S. Elliott)
+  - - '1:34.0'
+    - D. Anderson makes 3-pt shot from 25 ft (assist by T. Porter)
+    - "+3"
+    - 79-79
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - E. Campbell misses 2-pt shot from 13 ft
+  - - '1:06.0'
+    - Defensive rebound by S. Elliott
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:47.0'
+    - T. Duncan misses 2-pt shot from 12 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:45.5'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '0:42.5'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Charlotte full timeout
+  - - '0:26.2'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - J. Mashburn misses 2-pt shot from 15 ft
+  - - '0:24.1'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:09.3'
+    - Personal foul by P. Brown
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:09.3'
+    - T. Duncan misses free throw 1 of 2
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:09.3'
+    - Offensive rebound by Team
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:09.3'
+    - T. Duncan misses free throw 2 of 2
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:07.7'
+    - Offensive rebound by S. Elliott
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:04.1'
+    - S. Elliott misses 3-pt shot from 25 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:02.6'
+    - Offensive rebound by D. Anderson
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:02.4'
+    - D. Anderson misses 2-pt shot at rim
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:02.3'
+    - Offensive rebound by Team
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:02.3'
+    - San Antonio full timeout
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:01.9'
+    - San Antonio full timeout
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:01.0'
+    - T. Duncan misses 2-pt shot from 16 ft (block by J. Mashburn)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: E. Campbell vs. D. Robinson (T. Porter gains possession)'
+  - - '4:43.0'
+    - Turnover by T. Duncan (3 second)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - J. Mashburn misses 2-pt shot from 6 ft
+  - - '4:24.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '4:04.0'
+    - D. Robinson misses 2-pt shot from 15 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '3:48.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - D. Wesley misses 2-pt shot from 13 ft
+  - - '3:47.0'
+    - Defensive rebound by T. Porter
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '3:40.0'
+    - Turnover by T. Porter (bad pass)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Personal foul by D. Robinson
+  - - '3:17.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - P. Brown misses 2-pt shot from 10 ft
+  - - '3:16.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Offensive rebound by Team
+  - - '3:16.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Turnover by Team (shot clock)
+  - - '2:52.0'
+    - S. Elliott misses 2-pt shot at rim (block by E. Campbell)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:52.0'
+    - Offensive rebound by D. Robinson
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:52.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - D. Wesley misses 2-pt shot from 16 ft
+  - - '2:26.0'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:19.0'
+    - San Antonio full timeout
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:08.0'
+    - T. Porter misses 3-pt shot from 22 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '2:06.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Charlotte full timeout
+  - - '1:49.0'
+    - ''
+    - ''
+    - 79-81
+    - "+2"
+    - D. Wesley makes 2-pt shot from 20 ft (assist by B. Davis)
+  - - '1:28.0'
+    - D. Robinson misses 2-pt shot from 10 ft
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '1:25.0'
+    - Offensive rebound by T. Duncan
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '1:25.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 79-83
+    - "+2"
+    - D. Wesley makes 2-pt shot from 22 ft (assist by B. Davis)
+  - - '1:09.0'
+    - San Antonio full timeout
+    - ''
+    - 79-83
+    - ''
+    - ''
+  - - '1:05.0'
+    - S. Elliott makes 2-pt shot at rim
+    - "+2"
+    - 81-83
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 81-83
+    - ''
+    - Violation by E. Campbell (def goaltending)
+  - - '0:47.1'
+    - ''
+    - ''
+    - 81-85
+    - "+2"
+    - B. Davis makes 2-pt shot from 16 ft
+  - - '0:35.9'
+    - Personal foul by D. Wesley
+    - ''
+    - 81-85
+    - ''
+    - ''
+  - - '0:30.4'
+    - D. Robinson misses 2-pt shot at rim (block by E. Campbell)
+    - ''
+    - 81-85
+    - ''
+    - ''
+  - - '0:27.2'
+    - ''
+    - ''
+    - 81-85
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '0:25.9'
+    - ''
+    - ''
+    - 81-85
+    - ''
+    - Personal foul by S. Elliott
+  - - '0:25.9'
+    - ''
+    - ''
+    - 81-85
+    - ''
+    - Charlotte full timeout
+  - - '0:25.9'
+    - A. Daniels enters the game for T. Porter
+    - ''
+    - 81-85
+    - ''
+    - ''
+  - - '0:25.9'
+    - M. Rose enters the game for D. Robinson
+    - ''
+    - 81-85
+    - ''
+    - ''
+  - - '0:25.2'
+    - ''
+    - ''
+    - 81-85
+    - ''
+    - Personal foul by A. Daniels
+  - - '0:25.2'
+    - ''
+    - ''
+    - 81-86
+    - "+1"
+    - D. Wesley makes free throw 1 of 2
+  - - '0:25.2'
+    - ''
+    - ''
+    - 81-87
+    - "+1"
+    - D. Wesley makes free throw 2 of 2
+  - - '0:16.9'
+    - T. Duncan makes 3-pt shot from 25 ft (assist by A. Daniels)
+    - "+3"
+    - 84-87
+    - ''
+    - ''
+  - - '0:16.3'
+    - ''
+    - ''
+    - 84-87
+    - ''
+    - Personal foul by M. Rose
+  - - '0:16.3'
+    - ''
+    - ''
+    - 84-88
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '0:16.3'
+    - ''
+    - ''
+    - 84-88
+    - ''
+    - E. Campbell misses free throw 2 of 2
+  - - '0:15.5'
+    - Defensive rebound by T. Duncan
+    - ''
+    - 84-88
+    - ''
+    - ''
+  - - '0:07.4'
+    - D. Anderson misses 3-pt shot from 25 ft
+    - ''
+    - 84-88
+    - ''
+    - ''
+  - - '0:05.2'
+    - ''
+    - ''
+    - 84-88
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '0:00.0'
+    - End of 1st overtime

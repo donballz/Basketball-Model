@@ -1,0 +1,2512 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: C. Blount vs. K. Martin (C. Robinson gains possession)'
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Robinson misses 2-pt shot from 7 ft
+  - - '11:42.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:25.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Personal foul by S. Jackson
+  - - '11:00.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - T. Delk enters the game for M. Elie
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - C. Robinson misses 2-pt shot from 16 ft
+  - - '10:54.0'
+    - Defensive rebound by K. Gill
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:44.0'
+    - K. Gill misses 2-pt shot from 21 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:42.0'
+    - Offensive rebound by S. Marbury
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:29.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - S. Marion misses 2-pt shot from 18 ft
+  - - '9:59.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '9:53.0'
+    - E. Eschmeyer makes 2-pt shot at rim (assist by S. Marbury)
+    - "+2"
+    - 6-0
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - Shooting foul by K. Martin
+  - - '9:32.0'
+    - ''
+    - ''
+    - 6-1
+    - "+1"
+    - C. Blount makes free throw 1 of 2
+  - - '9:32.0'
+    - ''
+    - ''
+    - 6-1
+    - ''
+    - C. Blount misses free throw 2 of 2
+  - - '9:31.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 6-1
+    - ''
+    - ''
+  - - '9:19.0'
+    - S. Marbury misses 3-pt shot from 24 ft
+    - ''
+    - 6-1
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 6-1
+    - ''
+    - Defensive rebound by C. Blount
+  - - '9:11.0'
+    - ''
+    - ''
+    - 6-1
+    - ''
+    - Turnover by C. Robinson (traveling)
+  - - '9:02.0'
+    - K. Gill makes 2-pt shot at rim (assist by E. Eschmeyer)
+    - "+2"
+    - 8-1
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 8-1
+    - ''
+    - T. Delk misses 2-pt shot from 22 ft
+  - - '8:52.0'
+    - Defensive rebound by E. Eschmeyer
+    - ''
+    - 8-1
+    - ''
+    - ''
+  - - '8:43.0'
+    - S. Marbury misses 2-pt shot at rim
+    - ''
+    - 8-1
+    - ''
+    - ''
+  - - '8:41.0'
+    - Offensive rebound by E. Eschmeyer
+    - ''
+    - 8-1
+    - ''
+    - ''
+  - - '8:41.0'
+    - Shooting foul by C. Blount
+    - ''
+    - 8-1
+    - ''
+    - ''
+  - - '8:41.0'
+    - E. Eschmeyer makes free throw 1 of 2
+    - "+1"
+    - 9-1
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 9-1
+    - ''
+    - D. Santiago enters the game for C. Blount
+  - - '8:41.0'
+    - E. Eschmeyer misses free throw 2 of 2
+    - ''
+    - 9-1
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 9-1
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '8:23.0'
+    - ''
+    - ''
+    - 9-3
+    - "+2"
+    - C. Robinson makes 2-pt shot from 17 ft (assist by J. Kidd)
+  - - '8:05.0'
+    - Turnover by S. Marbury (bad pass; steal by S. Marion)
+    - ''
+    - 9-3
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 9-5
+    - "+2"
+    - J. Kidd makes 2-pt shot at rim (assist by S. Marion)
+  - - '7:42.0'
+    - K. Martin makes 2-pt shot from 16 ft (assist by S. Marbury)
+    - "+2"
+    - 11-5
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 11-5
+    - ''
+    - Turnover by D. Santiago (bad pass; steal by K. Gill)
+  - - '7:28.0'
+    - K. Gill makes 2-pt shot at rim
+    - "+2"
+    - 13-5
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 13-7
+    - "+2"
+    - D. Santiago makes 2-pt shot at rim
+  - - '6:37.0'
+    - K. Gill makes 2-pt shot at rim
+    - "+2"
+    - 15-7
+    - ''
+    - ''
+  - - '6:37.0'
+    - Shooting foul by S. Marion
+    - ''
+    - 15-7
+    - ''
+    - ''
+  - - '6:37.0'
+    - A. Williams enters the game for E. Eschmeyer
+    - ''
+    - 15-7
+    - ''
+    - ''
+  - - '6:37.0'
+    - K. Gill makes free throw 1 of 1
+    - "+1"
+    - 16-7
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 16-7
+    - ''
+    - Personal foul by A. Williams
+  - - '6:16.0'
+    - ''
+    - ''
+    - 16-9
+    - "+2"
+    - T. Delk makes 2-pt shot from 16 ft (assist by J. Kidd)
+  - - '6:03.0'
+    - Personal foul by J. Kidd
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '6:00.0'
+    - K. Gill misses 2-pt shot at rim
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Defensive rebound by D. Santiago
+  - - '5:41.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - S. Marion misses 2-pt shot from 17 ft
+  - - '5:40.0'
+    - Defensive rebound by S. Marbury
+    - ''
+    - 16-9
+    - ''
+    - ''
+  - - '5:35.0'
+    - S. Jackson makes 2-pt shot at rim (assist by S. Marbury)
+    - "+2"
+    - 18-9
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 18-9
+    - ''
+    - Phoenix full timeout
+  - - '5:20.0'
+    - ''
+    - ''
+    - 18-9
+    - ''
+    - D. Santiago misses 2-pt shot at rim (block by K. Gill)
+  - - '5:20.0'
+    - Defensive rebound by Team
+    - ''
+    - 18-9
+    - ''
+    - ''
+  - - '4:58.0'
+    - K. Gill misses 2-pt shot from 17 ft
+    - ''
+    - 18-9
+    - ''
+    - ''
+  - - '4:57.0'
+    - Offensive rebound by S. Marbury
+    - ''
+    - 18-9
+    - ''
+    - ''
+  - - '4:53.0'
+    - S. Jackson makes 2-pt shot at rim (assist by S. Marbury)
+    - "+2"
+    - 20-9
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 20-11
+    - "+2"
+    - C. Robinson makes 2-pt shot from 6 ft
+  - - '4:25.0'
+    - Shooting foul by S. Marion
+    - ''
+    - 20-11
+    - ''
+    - ''
+  - - '4:25.0'
+    - A. Williams makes free throw 1 of 2
+    - "+1"
+    - 21-11
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 21-11
+    - ''
+    - T. Gugliotta enters the game for S. Marion
+  - - '4:25.0'
+    - A. Williams makes free throw 2 of 2
+    - "+1"
+    - 22-11
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 22-13
+    - "+2"
+    - D. Santiago makes 2-pt shot at rim (assist by J. Kidd)
+  - - '4:02.0'
+    - S. Marbury makes 2-pt shot at rim (assist by A. Williams)
+    - "+2"
+    - 24-13
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 24-15
+    - "+2"
+    - T. Delk makes 2-pt shot from 21 ft
+  - - '3:44.0'
+    - Offensive foul by S. Marbury
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:44.0'
+    - Turnover by S. Marbury (foul)
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Turnover by C. Robinson (lost ball)
+  - - '3:17.0'
+    - Turnover by S. Jackson (no)
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Turnover by J. Kidd (bad pass; steal by S. Jackson)
+  - - '3:00.0'
+    - Shooting foul by C. Robinson
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:00.0'
+    - S. Marbury misses free throw 1 of 2
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:00.0'
+    - S. Marbury makes free throw 2 of 2
+    - "+1"
+    - 25-15
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Personal foul by A. Williams
+  - - '2:50.0'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Phoenix full timeout
+  - - '2:42.0'
+    - ''
+    - ''
+    - 25-17
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 19 ft (assist by J. Kidd)
+  - - '2:23.0'
+    - K. Martin misses 2-pt shot from 10 ft
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '2:14.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - C. Robinson misses 2-pt shot from 5 ft
+  - - '2:12.0'
+    - Defensive rebound by K. Gill
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '2:01.0'
+    - Offensive foul by K. Gill
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '2:01.0'
+    - Turnover by K. Gill (foul)
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - P. McPherson enters the game for J. Kidd
+  - - '2:01.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - R. Rogers enters the game for D. Santiago
+  - - '1:45.0'
+    - ''
+    - ''
+    - 25-19
+    - "+2"
+    - T. Delk makes 2-pt shot from 11 ft
+  - - '1:30.0'
+    - S. Marbury misses 2-pt shot from 8 ft
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '1:24.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Personal foul by K. Martin
+  - - '1:24.0'
+    - ''
+    - ''
+    - 25-20
+    - "+1"
+    - R. Rogers makes free throw 1 of 2
+  - - '1:24.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - R. Rogers misses free throw 2 of 2
+  - - '1:23.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '1:06.0'
+    - K. Martin misses 2-pt shot from 15 ft
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - Defensive rebound by P. McPherson
+  - - '0:50.8'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - Turnover by C. Robinson (bad pass)
+  - - '0:50.8'
+    - J. Newman enters the game for K. Martin
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '0:35.9'
+    - K. Gill misses 2-pt shot from 18 ft
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '0:34.3'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '0:28.9'
+    - ''
+    - ''
+    - 25-22
+    - "+2"
+    - T. Delk makes 2-pt shot from 20 ft
+  - - '0:04.9'
+    - K. Gill makes 2-pt shot from 21 ft (assist by S. Marbury)
+    - "+2"
+    - 27-22
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 27-24
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by T. Gugliotta)
+  - - '0:00.4'
+    - Shooting foul by P. McPherson
+    - ''
+    - 27-24
+    - ''
+    - ''
+  - - '0:00.4'
+    - S. Marbury makes free throw 1 of 2
+    - "+1"
+    - 28-24
+    - ''
+    - ''
+  - - '0:00.4'
+    - S. Marbury makes free throw 2 of 2
+    - "+1"
+    - 29-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:36.0'
+    - J. Newman misses 2-pt shot from 14 ft
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '11:34.0'
+    - ''
+    - ''
+    - 29-24
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '11:16.0'
+    - ''
+    - ''
+    - 29-24
+    - ''
+    - T. Delk misses 2-pt shot from 19 ft
+  - - '11:14.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '10:54.0'
+    - Turnover by A. Williams (traveling)
+    - ''
+    - 29-24
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 29-24
+    - ''
+    - S. Marion enters the game for C. Robinson
+  - - '10:32.0'
+    - ''
+    - ''
+    - 29-26
+    - "+2"
+    - S. Marion makes 2-pt shot from 16 ft (assist by T. Delk)
+  - - '10:06.0'
+    - L. Harris makes 2-pt shot from 18 ft (assist by J. Newman)
+    - "+2"
+    - 31-26
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 31-26
+    - ''
+    - Personal foul by J. Newman
+  - - '9:45.0'
+    - ''
+    - ''
+    - 31-28
+    - "+2"
+    - P. McPherson makes 2-pt shot at rim (assist by T. Delk)
+  - - '9:27.0'
+    - L. Harris misses 2-pt shot from 22 ft
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '9:10.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - S. Marion misses 2-pt shot from 13 ft
+  - - '9:08.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '8:57.0'
+    - S. Jackson misses 2-pt shot at rim
+    - ''
+    - 31-28
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '8:51.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - T. Delk misses 2-pt shot from 22 ft
+  - - '8:48.0'
+    - ''
+    - ''
+    - 31-28
+    - ''
+    - Offensive rebound by P. McPherson
+  - - '8:38.0'
+    - ''
+    - ''
+    - 31-30
+    - "+2"
+    - T. Gugliotta makes 2-pt shot at rim (assist by T. Delk)
+  - - '8:38.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Shooting foul by A. Williams
+  - - '8:38.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Official timeout
+  - - '8:38.0'
+    - K. Martin enters the game for A. Williams
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - T. Gugliotta misses free throw 1 of 1
+  - - '8:37.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Offensive rebound by R. Rogers
+  - - '8:34.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Turnover by R. Rogers (lost ball; steal by K. Ollie)
+  - - '8:29.0'
+    - S. Jackson misses 2-pt shot at rim (block by R. Rogers)
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '8:27.0'
+    - Offensive rebound by L. Harris
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '8:12.0'
+    - K. Martin misses 2-pt shot from 12 ft
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Defensive rebound by Team
+  - - '7:56.0'
+    - ''
+    - ''
+    - 31-33
+    - "+3"
+    - T. Delk makes 3-pt shot from 24 ft (assist by S. Marion)
+  - - '7:29.0'
+    - K. Ollie makes 2-pt shot from 16 ft (assist by J. Newman)
+    - "+2"
+    - 33-33
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - Personal foul by J. Newman
+  - - '7:10.0'
+    - S. Marbury enters the game for K. Ollie
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '7:10.0'
+    - K. Gill enters the game for S. Jackson
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - J. Kidd enters the game for P. McPherson
+  - - '6:57.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim (block by K. Martin)
+  - - '6:56.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - Offensive rebound by Team
+  - - '6:56.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - Turnover by Team (shot clock)
+  - - '6:39.0'
+    - S. Marbury misses 2-pt shot from 22 ft
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '6:37.0'
+    - Offensive rebound by L. Harris
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '6:30.0'
+    - L. Harris makes 2-pt shot from 22 ft
+    - "+2"
+    - 35-33
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Turnover by T. Gugliotta (bad pass)
+  - - '6:10.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - C. Robinson enters the game for T. Gugliotta
+  - - '5:59.0'
+    - K. Gill misses 2-pt shot at rim (block by C. Robinson)
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '5:59.0'
+    - New Jersey full timeout
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Turnover by C. Robinson (out of bounds)
+  - - '5:59.0'
+    - K. Martin makes 2-pt shot at rim (assist by K. Gill)
+    - "+2"
+    - 37-33
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 37-36
+    - "+3"
+    - J. Kidd makes 3-pt shot from 24 ft (assist by S. Marion)
+  - - '5:13.0'
+    - L. Harris misses 2-pt shot from 22 ft
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '5:03.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - R. Rogers misses 2-pt shot from 7 ft
+  - - '5:02.0'
+    - Defensive rebound by K. Gill
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '4:43.0'
+    - S. Marbury misses 2-pt shot from 19 ft
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '4:41.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Defensive rebound by S. Marion
+  - - '4:36.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - T. Delk misses 2-pt shot at rim
+  - - '4:34.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '4:29.0'
+    - K. Gill misses 2-pt shot at rim
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '4:28.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Defensive rebound by S. Marion
+  - - '4:09.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - P. McPherson enters the game for T. Delk
+  - - '4:09.0'
+    - 'Jump ball: C. Robinson vs. L. Harris (J. Kidd gains possession)'
+  - - '4:04.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - S. Marion misses 2-pt shot at rim
+  - - '4:03.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Offensive rebound by S. Marion
+  - - '4:03.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Shooting foul by K. Gill
+  - - '4:03.0'
+    - ''
+    - ''
+    - 37-37
+    - "+1"
+    - S. Marion makes free throw 1 of 2
+  - - '4:03.0'
+    - ''
+    - ''
+    - 37-38
+    - "+1"
+    - S. Marion makes free throw 2 of 2
+  - - '3:52.0'
+    - L. Harris misses 2-pt shot from 15 ft
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - Defensive rebound by S. Marion
+  - - '3:45.0'
+    - ''
+    - ''
+    - 37-40
+    - "+2"
+    - R. Rogers makes 2-pt shot at rim (assist by J. Kidd)
+  - - '3:27.0'
+    - Personal foul by R. Rogers
+    - ''
+    - 37-40
+    - ''
+    - ''
+  - - '3:15.0'
+    - L. Harris misses 2-pt shot from 17 ft
+    - ''
+    - 37-40
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 37-40
+    - ''
+    - Defensive rebound by S. Marion
+  - - '3:01.0'
+    - ''
+    - ''
+    - 37-42
+    - "+2"
+    - C. Robinson makes 2-pt shot from 6 ft
+  - - '3:01.0'
+    - Violation by K. Martin (def goaltending)
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '2:51.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 39-42
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - C. Robinson misses 2-pt shot at rim
+  - - '2:33.0'
+    - Defensive rebound by J. Newman
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '2:26.0'
+    - New Jersey full timeout
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '2:21.0'
+    - Turnover by K. Martin (lost ball; steal by P. McPherson)
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 39-44
+    - "+2"
+    - P. McPherson makes 2-pt shot at rim (assist by R. Rogers)
+  - - '2:00.0'
+    - Turnover by K. Gill (bad pass; steal by P. McPherson)
+    - ''
+    - 39-44
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 39-44
+    - ''
+    - Shooting foul by L. Harris
+  - - '1:57.0'
+    - ''
+    - ''
+    - 39-45
+    - "+1"
+    - P. McPherson makes free throw 1 of 2
+  - - '1:57.0'
+    - ''
+    - ''
+    - 39-45
+    - ''
+    - T. Gugliotta enters the game for S. Marion
+  - - '1:57.0'
+    - ''
+    - ''
+    - 39-46
+    - "+1"
+    - P. McPherson makes free throw 2 of 2
+  - - '1:42.0'
+    - J. Newman misses 2-pt shot at rim
+    - ''
+    - 39-46
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 39-46
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '1:34.0'
+    - ''
+    - ''
+    - 39-48
+    - "+2"
+    - J. Kidd makes 2-pt shot at rim
+  - - '1:14.0'
+    - J. Newman misses 2-pt shot at rim
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - Defensive rebound by P. McPherson
+  - - '1:04.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - Turnover by P. McPherson (bad pass)
+  - - '0:45.9'
+    - S. Marbury makes 2-pt shot from 9 ft
+    - "+2"
+    - 41-48
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 41-48
+    - ''
+    - C. Robinson misses 2-pt shot from 15 ft
+  - - '0:26.9'
+    - Defensive rebound by K. Gill
+    - ''
+    - 41-48
+    - ''
+    - ''
+  - - '0:04.9'
+    - J. Newman makes 2-pt shot at rim (assist by S. Marbury)
+    - "+2"
+    - 43-48
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 43-48
+    - ''
+    - J. Kidd misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - ''
+    - ''
+    - 43-48
+    - ''
+    - Offensive rebound by Team
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - S. Marbury makes 3-pt shot from 24 ft
+    - "+3"
+    - 46-48
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - S. Marion misses 2-pt shot from 11 ft
+  - - '11:25.0'
+    - Defensive rebound by Team
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '11:07.0'
+    - A. Williams makes 2-pt shot from 10 ft
+    - "+2"
+    - 48-48
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - C. Robinson misses 2-pt shot at rim
+  - - '10:51.0'
+    - Defensive rebound by E. Eschmeyer
+    - ''
+    - 48-48
+    - ''
+    - ''
+  - - '10:44.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 50-48
+    - ''
+    - ''
+  - - '10:31.0'
+    - Violation by S. Marbury (kicked ball)
+    - ''
+    - 50-48
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 50-50
+    - "+2"
+    - D. Santiago makes 2-pt shot from 7 ft (assist by M. Elie)
+  - - '10:03.0'
+    - S. Marbury makes 2-pt shot at rim (assist by K. Gill)
+    - "+2"
+    - 52-50
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Personal foul by E. Eschmeyer
+  - - '9:40.0'
+    - ''
+    - ''
+    - 52-52
+    - "+2"
+    - C. Robinson makes 2-pt shot from 18 ft (assist by M. Elie)
+  - - '9:31.0'
+    - Personal foul by S. Marion
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '9:26.0'
+    - Turnover by S. Marbury (bad pass; steal by J. Kidd)
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Shooting foul by E. Eschmeyer
+  - - '9:20.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - S. Marion misses free throw 1 of 2
+  - - '9:20.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Offensive rebound by Team
+  - - '9:20.0'
+    - ''
+    - ''
+    - 52-53
+    - "+1"
+    - S. Marion makes free throw 2 of 2
+  - - '9:05.0'
+    - Turnover by S. Jackson (lost ball; steal by S. Marion)
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 52-55
+    - "+2"
+    - M. Elie makes 2-pt shot at rim (assist by S. Marion)
+  - - '8:40.0'
+    - S. Marbury misses 3-pt shot from 23 ft
+    - ''
+    - 52-55
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - Defensive rebound by S. Marion
+  - - '8:28.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - S. Marion misses 2-pt shot from 18 ft
+  - - '8:26.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - Offensive rebound by J. Kidd
+  - - '8:24.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - Shooting foul by A. Williams
+  - - '8:24.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - D. Santiago misses free throw 1 of 2
+  - - '8:24.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - Offensive rebound by Team
+  - - '8:24.0'
+    - ''
+    - ''
+    - 52-56
+    - "+1"
+    - D. Santiago makes free throw 2 of 2
+  - - '8:14.0'
+    - K. Gill misses 2-pt shot from 17 ft
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '8:06.0'
+    - ''
+    - ''
+    - 52-58
+    - "+2"
+    - C. Robinson makes 2-pt shot from 19 ft (assist by J. Kidd)
+  - - '7:51.0'
+    - Personal foul by D. Santiago
+    - ''
+    - 52-58
+    - ''
+    - ''
+  - - '7:51.0'
+    - J. Newman enters the game for A. Williams
+    - ''
+    - 52-58
+    - ''
+    - ''
+  - - '7:41.0'
+    - Turnover by S. Jackson (traveling)
+    - ''
+    - 52-58
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 52-60
+    - "+2"
+    - D. Santiago makes 2-pt shot at rim (assist by S. Marion)
+  - - '7:10.0'
+    - S. Marbury misses 2-pt shot from 17 ft
+    - ''
+    - 52-60
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 52-60
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '6:53.0'
+    - ''
+    - ''
+    - 52-60
+    - ''
+    - J. Kidd misses 2-pt shot from 14 ft
+  - - '6:52.0'
+    - Defensive rebound by J. Newman
+    - ''
+    - 52-60
+    - ''
+    - ''
+  - - '6:44.0'
+    - Turnover by S. Marbury (lost ball; steal by M. Elie)
+    - ''
+    - 52-60
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 52-62
+    - "+2"
+    - S. Marion makes 2-pt shot at rim (assist by J. Kidd)
+  - - '6:36.0'
+    - New Jersey full timeout
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '6:22.0'
+    - Shooting foul by C. Robinson
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '6:22.0'
+    - J. Newman makes free throw 1 of 2
+    - "+1"
+    - 53-62
+    - ''
+    - ''
+  - - '6:22.0'
+    - J. Newman makes free throw 2 of 2
+    - "+1"
+    - 54-62
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 54-64
+    - "+2"
+    - D. Santiago makes 2-pt shot at rim (assist by J. Kidd)
+  - - '5:55.0'
+    - K. Gill misses 2-pt shot from 16 ft
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - Defensive rebound by D. Santiago
+  - - '5:46.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - C. Robinson misses 2-pt shot from 8 ft
+  - - '5:44.0'
+    - Defensive rebound by E. Eschmeyer
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '5:36.0'
+    - K. Gill misses 2-pt shot at rim
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '5:34.0'
+    - 'Jump ball: D. Santiago vs. E. Eschmeyer (S. Marbury gains possession)'
+  - - '5:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '5:28.0'
+    - S. Marbury misses 2-pt shot from 9 ft
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '5:23.0'
+    - ''
+    - ''
+    - 54-66
+    - "+2"
+    - S. Marion makes 2-pt shot at rim (assist by J. Kidd)
+  - - '4:59.0'
+    - Personal foul by C. Robinson
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '4:59.0'
+    - J. McIlvaine enters the game for E. Eschmeyer
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '4:47.0'
+    - S. Jackson misses 2-pt shot at rim
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 54-66
+    - ''
+    - Defensive rebound by S. Marion
+  - - '4:36.0'
+    - ''
+    - ''
+    - 54-68
+    - "+2"
+    - D. Santiago makes 2-pt shot from 18 ft (assist by M. Elie)
+  - - '4:17.0'
+    - J. Newman misses 2-pt shot from 20 ft
+    - ''
+    - 54-68
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 54-68
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '4:14.0'
+    - ''
+    - ''
+    - 54-68
+    - ''
+    - Clear path foul by J. Newman
+  - - '4:14.0'
+    - ''
+    - ''
+    - 54-69
+    - "+1"
+    - C. Robinson makes free throw flagrant 1 of 2
+  - - '4:10.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - C. Robinson misses 3-pt shot from 25 ft
+  - - '4:08.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '4:03.0'
+    - Turnover by K. Gill (traveling)
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '4:03.0'
+    - L. Harris enters the game for S. Jackson
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 54-71
+    - "+2"
+    - D. Santiago makes 2-pt shot at rim (assist by J. Kidd)
+  - - '3:53.0'
+    - ''
+    - ''
+    - 54-71
+    - ''
+    - Shooting foul by J. McIlvaine
+  - - '3:53.0'
+    - ''
+    - ''
+    - 54-71
+    - ''
+    - D. Santiago misses free throw 1 of 1
+  - - '3:51.0'
+    - Defensive rebound by L. Harris
+    - ''
+    - 54-71
+    - ''
+    - ''
+  - - '3:36.0'
+    - Personal foul by D. Santiago
+    - ''
+    - 54-71
+    - ''
+    - ''
+  - - '3:36.0'
+    - J. McIlvaine misses free throw 1 of 2
+    - ''
+    - 54-71
+    - ''
+    - ''
+  - - '3:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-71
+    - ''
+    - ''
+  - - '3:36.0'
+    - J. McIlvaine makes free throw 2 of 2
+    - "+1"
+    - 55-71
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 55-71
+    - ''
+    - S. Marion misses 2-pt shot from 17 ft
+  - - '3:20.0'
+    - ''
+    - ''
+    - 55-71
+    - ''
+    - Offensive rebound by D. Santiago
+  - - '3:13.0'
+    - ''
+    - ''
+    - 55-73
+    - "+2"
+    - S. Marion makes 2-pt shot at rim
+  - - '2:55.0'
+    - J. McIlvaine misses 2-pt shot from 7 ft (block by S. Marion)
+    - ''
+    - 55-73
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - Defensive rebound by Team
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - Phoenix full timeout
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - R. Rogers enters the game for D. Santiago
+  - - '2:43.0'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - S. Marion misses 2-pt shot from 14 ft
+  - - '2:41.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 55-73
+    - ''
+    - ''
+  - - '2:38.0'
+    - Turnover by J. McIlvaine (lost ball; steal by M. Elie)
+    - ''
+    - 55-73
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 55-75
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by S. Marion)
+  - - '2:04.0'
+    - Turnover by K. Gill (3 second)
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - T. Delk enters the game for M. Elie
+  - - '1:52.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - C. Robinson misses 2-pt shot at rim
+  - - '1:50.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '1:38.0'
+    - J. McIlvaine misses 2-pt shot from 16 ft
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Defensive rebound by Team
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Loose ball foul by J. Newman
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - R. Rogers misses free throw 1 of 2
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Offensive rebound by Team
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - T. Gugliotta enters the game for C. Robinson
+  - - '1:37.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - R. Rogers misses free throw 2 of 2
+  - - '1:35.0'
+    - Defensive rebound by J. Newman
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '1:15.0'
+    - K. Gill makes 2-pt shot from 17 ft (assist by S. Marbury)
+    - "+2"
+    - 57-75
+    - ''
+    - ''
+  - - '0:59.1'
+    - ''
+    - ''
+    - 57-77
+    - "+2"
+    - R. Rogers makes 2-pt shot from 19 ft (assist by J. Kidd)
+  - - '0:51.6'
+    - Shooting foul by J. Kidd
+    - ''
+    - 57-77
+    - ''
+    - ''
+  - - '0:51.6'
+    - S. Marbury makes free throw 1 of 2
+    - "+1"
+    - 58-77
+    - ''
+    - ''
+  - - '0:51.6'
+    - S. Marbury makes free throw 2 of 2
+    - "+1"
+    - 59-77
+    - ''
+    - ''
+  - - '0:38.9'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - T. Delk misses 2-pt shot from 21 ft
+  - - '0:36.9'
+    - Defensive rebound by S. Marbury
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '0:25.9'
+    - S. Marbury misses 3-pt shot from 24 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '0:21.9'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '0:19.9'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Turnover by T. Gugliotta (lost ball; steal by J. McIlvaine)
+  - - '0:19.2'
+    - Turnover by J. McIlvaine (bad pass)
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '0:07.9'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - J. Kidd misses 2-pt shot from 19 ft
+  - - '0:05.9'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '0:00.0'
+    - S. Marbury misses 3-pt shot from 28 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:50.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Turnover by T. Gugliotta (bad pass)
+  - - '11:31.0'
+    - A. Williams makes 2-pt shot at rim (assist by S. Jackson)
+    - "+2"
+    - 61-77
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 61-80
+    - "+3"
+    - R. Rogers makes 3-pt shot from 24 ft (assist by T. Delk)
+  - - '10:55.0'
+    - Turnover by S. Jackson (lost ball; steal by S. Marion)
+    - ''
+    - 61-80
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 61-80
+    - ''
+    - S. Marion misses 2-pt shot at rim
+  - - '10:45.0'
+    - ''
+    - ''
+    - 61-80
+    - ''
+    - Offensive rebound by T. Gugliotta
+  - - '10:39.0'
+    - ''
+    - ''
+    - 61-82
+    - "+2"
+    - S. Marion makes 2-pt shot from 6 ft (assist by J. Kidd)
+  - - '10:16.0'
+    - A. Williams makes 2-pt shot from 10 ft (assist by K. Ollie)
+    - "+2"
+    - 63-82
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 63-84
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 19 ft (assist by J. Kidd)
+  - - '9:37.0'
+    - S. Jackson makes 3-pt shot from 24 ft (assist by K. Ollie)
+    - "+3"
+    - 66-84
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 66-84
+    - ''
+    - J. Kidd misses 2-pt shot from 10 ft
+  - - '9:16.0'
+    - Defensive rebound by S. Samake
+    - ''
+    - 66-84
+    - ''
+    - ''
+  - - '9:11.0'
+    - S. Samake makes 2-pt shot at rim (assist by S. Jackson)
+    - "+2"
+    - 68-84
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Personal foul by K. Ollie
+  - - '8:56.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Official timeout
+  - - '8:46.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - T. Delk misses 2-pt shot from 15 ft
+  - - '8:46.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '8:30.0'
+    - Turnover by S. Jackson (lost ball; steal by R. Rogers)
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Turnover by R. Rogers (traveling)
+  - - '8:02.0'
+    - Offensive foul by A. Williams
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '8:02.0'
+    - Turnover by A. Williams (foul)
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - T. Delk misses 3-pt shot from 25 ft
+  - - '7:42.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '7:23.0'
+    - S. Jackson misses 2-pt shot from 14 ft
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Defensive rebound by S. Marion
+  - - '7:05.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Personal foul by S. Samake
+  - - '6:56.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim
+  - - '6:55.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:49.0'
+    - K. Ollie misses 2-pt shot from 11 ft
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '6:31.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - T. Delk misses 2-pt shot from 15 ft
+  - - '6:31.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:31.0'
+    - Loose ball foul by R. Rogers
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:16.0'
+    - A. Williams misses 2-pt shot from 22 ft
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '6:07.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - J. Kidd misses 2-pt shot from 17 ft
+  - - '6:04.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - Offensive rebound by S. Marion
+  - - '6:04.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - C. Robinson enters the game for T. Gugliotta
+  - - '6:04.0'
+    - S. Marbury enters the game for K. Ollie
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - J. Kidd misses 2-pt shot at rim
+  - - '5:59.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '5:55.0'
+    - Turnover by S. Marbury (bad pass; steal by J. Kidd)
+    - ''
+    - 68-84
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 68-84
+    - ''
+    - R. Rogers misses 2-pt shot at rim (block by S. Samake)
+  - - '5:44.0'
+    - ''
+    - ''
+    - 68-86
+    - "+2"
+    - S. Marion makes 2-pt shot at rim
+  - - '5:44.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Offensive rebound by S. Marion
+  - - '5:21.0'
+    - L. Harris makes 2-pt shot at rim (assist by S. Marbury)
+    - "+2"
+    - 70-86
+    - ''
+    - ''
+  - - '5:21.0'
+    - Shooting foul by R. Rogers
+    - ''
+    - 70-86
+    - ''
+    - ''
+  - - '5:21.0'
+    - New Jersey full timeout
+    - ''
+    - 70-86
+    - ''
+    - ''
+  - - '5:21.0'
+    - K. Gill enters the game for S. Jackson
+    - ''
+    - 70-86
+    - ''
+    - ''
+  - - '5:21.0'
+    - L. Harris makes free throw 1 of 1
+    - "+1"
+    - 71-86
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 71-88
+    - "+2"
+    - R. Rogers makes 2-pt shot at rim (assist by J. Kidd)
+  - - '4:43.0'
+    - K. Gill misses 3-pt shot from 24 ft
+    - ''
+    - 71-88
+    - ''
+    - ''
+  - - '4:39.0'
+    - Offensive rebound by S. Marbury
+    - ''
+    - 71-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - L. Harris misses 3-pt shot from 25 ft
+    - ''
+    - 71-88
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 71-88
+    - ''
+    - Defensive rebound by S. Marion
+  - - '4:12.0'
+    - ''
+    - ''
+    - 71-90
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim
+  - - '3:57.0'
+    - S. Marbury misses 2-pt shot from 4 ft
+    - ''
+    - 71-90
+    - ''
+    - ''
+  - - '3:54.0'
+    - A. Williams misses 2-pt shot at rim
+    - ''
+    - 71-90
+    - ''
+    - ''
+  - - '3:54.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 71-90
+    - ''
+    - ''
+  - - '3:53.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 73-90
+    - ''
+    - ''
+  - - '3:53.0'
+    - Offensive rebound by S. Marbury
+    - ''
+    - 73-90
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 73-90
+    - ''
+    - Turnover by J. Kidd (traveling)
+  - - '3:34.0'
+    - S. Marbury makes 2-pt shot at rim
+    - "+2"
+    - 75-90
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - Phoenix full timeout
+  - - '3:33.0'
+    - J. Newman enters the game for A. Williams
+    - ''
+    - 75-90
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - Personal foul by S. Marbury
+  - - '3:13.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - Shooting foul by J. Newman
+  - - '3:13.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - C. Robinson misses free throw 1 of 2
+  - - '3:13.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - Offensive rebound by Team
+  - - '3:13.0'
+    - ''
+    - ''
+    - 75-90
+    - ''
+    - C. Robinson misses free throw 2 of 2
+  - - '3:12.0'
+    - Defensive rebound by S. Samake
+    - ''
+    - 75-90
+    - ''
+    - ''
+  - - '3:06.0'
+    - Shooting foul by J. Kidd
+    - ''
+    - 75-90
+    - ''
+    - ''
+  - - '3:06.0'
+    - S. Marbury makes free throw 1 of 2
+    - "+1"
+    - 76-90
+    - ''
+    - ''
+  - - '3:06.0'
+    - S. Marbury makes free throw 2 of 2
+    - "+1"
+    - 77-90
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 77-92
+    - "+2"
+    - T. Delk makes 2-pt shot from 11 ft (assist by J. Kidd)
+  - - '2:32.0'
+    - Shooting foul by R. Rogers
+    - ''
+    - 77-92
+    - ''
+    - ''
+  - - '2:32.0'
+    - S. Marbury makes free throw 1 of 2
+    - "+1"
+    - 78-92
+    - ''
+    - ''
+  - - '2:32.0'
+    - S. Marbury makes free throw 2 of 2
+    - "+1"
+    - 79-92
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - T. Delk misses 2-pt shot at rim (block by S. Samake)
+  - - '2:19.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Offensive rebound by S. Marion
+  - - '2:11.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - R. Rogers misses 3-pt shot from 25 ft
+  - - '2:10.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Offensive rebound by J. Kidd
+  - - '2:01.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - T. Delk misses 2-pt shot from 16 ft
+  - - '1:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-92
+    - ''
+    - ''
+  - - '1:51.0'
+    - S. Marbury misses 2-pt shot at rim (block by R. Rogers)
+    - ''
+    - 79-92
+    - ''
+    - ''
+  - - '1:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-92
+    - ''
+    - ''
+  - - '1:42.0'
+    - K. Gill makes 3-pt shot from 26 ft (assist by S. Marbury)
+    - "+3"
+    - 82-92
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 82-94
+    - "+2"
+    - R. Rogers makes 2-pt shot at rim (assist by S. Marion)
+  - - '1:15.0'
+    - Turnover by S. Marbury (lost ball)
+    - ''
+    - 82-94
+    - ''
+    - ''
+  - - '0:54.9'
+    - ''
+    - ''
+    - 82-94
+    - ''
+    - J. Kidd misses 3-pt shot from 24 ft
+  - - '0:51.9'
+    - Defensive rebound by K. Gill
+    - ''
+    - 82-94
+    - ''
+    - ''
+  - - '0:47.9'
+    - K. Gill makes 2-pt shot at rim
+    - "+2"
+    - 84-94
+    - ''
+    - ''
+  - - '0:47.9'
+    - Shooting foul by T. Delk
+    - ''
+    - 84-94
+    - ''
+    - ''
+  - - '0:47.9'
+    - K. Gill makes free throw 1 of 1
+    - "+1"
+    - 85-94
+    - ''
+    - ''
+  - - '0:40.2'
+    - ''
+    - ''
+    - 85-96
+    - "+2"
+    - T. Delk makes 2-pt shot at rim (assist by J. Kidd)
+  - - '0:36.0'
+    - Turnover by S. Marbury (bad pass)
+    - ''
+    - 85-96
+    - ''
+    - ''
+  - - '0:28.7'
+    - ''
+    - ''
+    - 85-96
+    - ''
+    - Personal foul by S. Marbury
+  - - '0:28.7'
+    - ''
+    - ''
+    - 85-96
+    - ''
+    - J. Kidd misses free throw 1 of 2
+  - - '0:28.7'
+    - ''
+    - ''
+    - 85-96
+    - ''
+    - Offensive rebound by Team
+  - - '0:28.7'
+    - ''
+    - ''
+    - 85-97
+    - "+1"
+    - J. Kidd makes free throw 2 of 2
+  - - '0:11.9'
+    - J. Newman misses 3-pt shot from 25 ft
+    - ''
+    - 85-97
+    - ''
+    - ''
+  - - '0:09.7'
+    - ''
+    - ''
+    - 85-97
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '0:00.0'
+    - End of 4th quarter

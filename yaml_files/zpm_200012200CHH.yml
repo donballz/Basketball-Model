@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: 0&#9642;Off: -9&#9642;Net: +9)'
+    - |2-
+
+      +1
+    - 154/+1
+    - 156/
+    - 188/+2
+    - 249/-5
+    - 7/0
+    - 171/
+    - 72/+2
+    - 'Brian Grant (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 61/
+    - 94/-2
+    - 94/
+    - 231/-4
+    - 136/
+    - 132/+6
+    - 'Tim Hardaway (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - |2-
+
+      -5
+    - 236/-5
+    - 173/
+    - 89/+4
+    - 212/-2
+    - 38/
+    - 58/-4
+    - 191/
+    - 'Eddie Jones (On: -12&#9642;Off: +3&#9642;Net: -15)'
+    - |2-
+
+      -5
+    - 248/-5
+    - 98/-6
+    - 74/
+    - 77/+4
+    - 126/-6
+    - 85/
+    - 37/-3
+    - 176/+3
+    - 4/
+    - 69/+1
+    - 'Anthony Mason (On: -13&#9642;Off: +4&#9642;Net: -17)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 57/-6
+    - 103/
+    - 89/+4
+    - 249/-5
+    - 114/-1
+    - 136/
+    - 'A.C. Green (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - "\n"
+    - 160/
+    - 89/-6
+    - 249/-4
+    - 237/
+    - 12/-1
+    - 180/+4
+    - 70/
+    - 'Anthony Carter (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - "\n"
+    - 242/
+    - 8/0
+    - 156/-8
+    - 227/
+    - 117/+1
+    - 248/
+    - 'Duane Causwell (On: -6&#9642;Off: -3&#9642;Net: -3)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 57/-6
+    - 693/
+    - 'Eddie House (On: +7&#9642;Off: -16&#9642;Net: +23)'
+    - "\n"
+    - 349/
+    - 70/-2
+    - 397/
+    - 184/+9
+    - 'Cedric Ceballos (On: +5&#9642;Off: -14&#9642;Net: +19)'
+    - "\n"
+    - 761/
+    - 241/+5
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: +3&#9642;Off: +6&#9642;Net: -3)'
+    - |2-
+
+      +5
+    - 248/+5
+    - 57/+6
+    - 106/
+    - 86/-4
+    - 154/+4
+    - 94/
+    - 10/-2
+    - 71/
+    - 99/-6
+    - 69/
+    - 'Elden Campbell (On: +4&#9642;Off: +5&#9642;Net: -1)'
+    - |2-
+
+      -1
+    - 160/-1
+    - 89/
+    - 120/+6
+    - 95/
+    - 34/-2
+    - 135/+6
+    - 114/
+    - 249/-5
+    - 'Baron Davis (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 126/
+    - 123/-2
+    - 90/+6
+    - 159/
+    - 7/0
+    - 122/
+    - 120/-4
+    - 'Jamal Mashburn (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      +5
+    - 219/+5
+    - 30/
+    - 250/+4
+    - 242/+5
+    - 45/
+    - 212/-4
+    - 'David Wesley (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - |2-
+
+      +4
+    - 181/+4
+    - 167/
+    - 151/-2
+    - 250/+5
+    - 81/
+    - 168/-7
+    - 'Jamaal Magloire (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - "\n"
+    - 162/
+    - 87/+6
+    - 121/
+    - 90/0
+    - 178/
+    - 109/-1
+    - 250/
+    - 'Hersey Hawkins (On: +8&#9642;Off: +1&#9642;Net: +7)'
+    - "\n"
+    - 185/
+    - 64/+1
+    - 98/+6
+    - 245/
+    - 156/-1
+    - 76/+2
+    - 173/
+    - 'Lee Nailon (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - "\n"
+    - 219/
+    - 30/0
+    - 61/
+    - 98/+2
+    - 332/
+    - 6/0
+    - 32/-1
+    - 148/
+    - 69/-1
+    - 'Eldridge Recasner (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 121/+6
+    - 388/
+    - 116/-1
+    - 124/
+    - 'Otis Thorpe (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - "\n"
+    - 658/
+    - 91/+1
+    - 17/
+    - 59/+4
+    - 174/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

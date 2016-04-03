@@ -1,0 +1,202 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Dudley (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      +12
+    - 173/+12
+    - 107/
+    - 68/+3
+    - 151/
+    - 184/-1
+    - 315/
+    - 'Mario Elie (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - |2-
+
+      +12
+    - 177/+12
+    - 103/
+    - 219/-12
+    - 142/-2
+    - 237/
+    - 120/+6
+    - 'Jason Kidd (On: +3&#9642;Off: +5&#9642;Net: -2)'
+    - |2-
+
+      +12
+    - 250/+12
+    - 127/
+    - 122/-13
+    - 250/+1
+    - 250/+3
+    - 'Shawn Marion (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      +5
+    - 152/+5
+    - 98/
+    - 28/+4
+    - 221/
+    - 98/-7
+    - 214/
+    - 186/+4
+    - 'Clifford Robinson (On: +5&#9642;Off: +3&#9642;Net: +2)'
+    - |2-
+
+      +12
+    - 249/+12
+    - 127/
+    - 122/-13
+    - 249/+1
+    - 60/-1
+    - 69/
+    - 121/+6
+    - 'Rodney Rogers (On: +12&#9642;Off: -4&#9642;Net: +16)'
+    - "\n"
+    - 159/
+    - 89/+7
+    - 123/+5
+    - 39/
+    - 73/-11
+    - 115/
+    - 147/+8
+    - 137/-3
+    - 73/
+    - 39/+6
+    - 'Daniel Santiago (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - "\n"
+    - 178/
+    - 72/0
+    - 28/+4
+    - 722/
+    - 'Tony Delk (On: +3&#9642;Off: +5&#9642;Net: -2)'
+    - "\n"
+    - 179/
+    - 70/0
+    - 156/+3
+    - 239/
+    - 102/+3
+    - 126/-3
+    - 14/
+    - 66/0
+    - 43/
+    - 'Elliot Perry (On: +5&#9642;Off: +3&#9642;Net: +2)'
+    - "\n"
+    - 250/
+    - 123/+5
+    - 628/
+    - 'Corie Blount (On: -16&#9642;Off: +24&#9642;Net: -40)'
+    - "\n"
+    - 350/
+    - 149/-15
+    - 185/
+    - 65/+2
+    - 126/-3
+    - 123/
+    - 'Paul McPherson (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 490/
+    - 11/0
+    - 500/
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - |2-
+
+      -12
+    - 250/-12
+    - 54/-3
+    - 80/
+    - 115/+15
+    - 250/-1
+    - 249/-3
+    - 'Antonio Davis (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - |2-
+
+      -12
+    - 249/-12
+    - 48/-3
+    - 201/
+    - 249/-1
+    - 60/+1
+    - 117/
+    - 73/0
+    - 'Mark Jackson (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - |2-
+
+      -12
+    - 177/-12
+    - 171/
+    - 151/+15
+    - 217/-3
+    - 96/
+    - 186/-4
+    - 'Charles Oakley (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      -12
+    - 177/-12
+    - 126/
+    - 195/+11
+    - 250/-1
+    - 171/-3
+    - 79/
+    - 'Corliss Williamson (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - |2-
+
+      -14
+    - 208/-14
+    - 292/
+    - 162/+2
+    - 338/
+    - 'Alvin Williams (On: +2&#9642;Off: -10&#9642;Net: +12)'
+    - "\n"
+    - 180/
+    - 70/0
+    - 250/+8
+    - 168/
+    - 81/-3
+    - 249/-3
+    - 'Kevin Willis (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - "\n"
+    - 180/
+    - 70/0
+    - 127/-7
+    - 623/
+    - 'Dell Curry (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - "\n"
+    - 208/
+    - 42/+2
+    - 95/-7
+    - 588/
+    - 66/-2
+    - 'Morris Peterson (On: +12&#9642;Off: -20&#9642;Net: +32)'
+    - "\n"
+    - 306/
+    - 193/+11
+    - 221/
+    - 29/+2
+    - 177/-1
+    - 72/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

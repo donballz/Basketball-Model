@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Patrick Ewing (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - |2-
+
+      +1
+    - 234/+1
+    - 136/
+    - 129/-10
+    - 168/+4
+    - 81/
+    - 250/+2
+    - 'Rashard Lewis (On: +3&#9642;Off: +5&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 234/+1
+    - 228/
+    - 37/-4
+    - 250/+6
+    - 88/
+    - 161/0
+    - 'Jelani McCoy (On: +17&#9642;Off: -9&#9642;Net: +26)'
+    - |2-
+
+      +5
+    - 117/+5
+    - 121/
+    - 11/+3
+    - 111/+6
+    - 138/
+    - 191/+3
+    - 308/
+    - 'Ruben Patterson (On: -2&#9642;Off: +10&#9642;Net: -12)'
+    - |2-
+
+      +1
+    - 233/+1
+    - 228/
+    - 37/-4
+    - 173/+4
+    - 24/
+    - 51/+3
+    - 52/
+    - 134/-6
+    - 63/
+    - 'Gary Payton (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 135/
+    - 114/-10
+    - 250/+6
+    - 88/
+    - 161/0
+    - 'Vin Baker (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 122/
+    - 127/-1
+    - 249/-4
+    - 174/
+    - 75/+2
+    - 81/+2
+    - 111/
+    - 57/+3
+    - 'Brent Barry (On: +11&#9642;Off: -3&#9642;Net: +14)'
+    - "\n"
+    - 238/
+    - 11/+3
+    - 207/0
+    - 291/
+    - 81/+2
+    - 97/
+    - 72/+6
+    - 'Desmond Mason (On: +10&#9642;Off: -2&#9642;Net: +12)'
+    - "\n"
+    - 238/
+    - 11/+3
+    - 207/0
+    - 216/
+    - 75/+2
+    - 48/+5
+    - 202/
+    - 'Shammond Williams (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 250/
+    - 134/+6
+    - 366/
+    - 172/-4
+    - 77/
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 68/-7
+    - 67/
+    - 114/+10
+    - 249/-6
+    - 81/-2
+    - 111/
+    - 57/-3
+    - 'Rick Fox (On: -10&#9642;Off: +2&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 250/
+    - 249/-6
+    - 251/
+    - 'Horace Grant (On: +1&#9642;Off: -9&#9642;Net: +10)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 91/
+    - 159/+10
+    - 191/-3
+    - 58/
+    - 249/-2
+    - 'Ron Harper (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      -1
+    - 234/-1
+    - 266/
+    - 174/-4
+    - 326/
+    - 'Shaquille O''Neal (On: -1&#9642;Off: -7&#9642;Net: +6)'
+    - |2-
+
+      -2
+    - 100/-2
+    - 149/
+    - 250/+4
+    - 250/-6
+    - 52/
+    - 197/+3
+    - 'Greg Foster (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - "\n"
+    - 106/
+    - 128/+1
+    - 515/
+    - 49/-5
+    - 201/
+    - 'Robert Horry (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - "\n"
+    - 238/
+    - 11/-3
+    - 87/-6
+    - 360/
+    - 51/-3
+    - 251/
+    - 'Isaiah Rider (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - "\n"
+    - 238/
+    - 11/-3
+    - 250/+4
+    - 174/
+    - 75/-2
+    - 250/-2
+    - 'Mike Penberthy (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 249/
+    - 133/-6
+    - 115/
+    - 0/+3
+    - 249/
+    - 0/0
+    - 88/
+    - 98/+3
+    - 63/
+    - 'Brian Shaw (On: -1&#9642;Off: -7&#9642;Net: +6)'
+    - "\n"
+    - 321/
+    - 63/+1
+    - 365/
+    - 0/0
+    - 250/-2
+    - 'Devean George (On: +7&#9642;Off: -15&#9642;Net: +22)'
+    - "\n"
+    - 386/
+    - 109/+7
+    - 506/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,202 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: +11&#9642;Off: -8&#9642;Net: +19)'
+    - |2-
+
+      -5
+    - 120/-5
+    - 232/
+    - 146/+3
+    - 51/+2
+    - 160/
+    - 26/+2
+    - 92/
+    - 169/+9
+    - 'Hubert Davis (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 141/-3
+    - 109/
+    - 173/-4
+    - 77/
+    - 248/+9
+    - 'Michael Finley (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 45/-4
+    - 61/
+    - 68/+4
+    - 74/
+    - 140/-4
+    - 102/
+    - 7/-2
+    - 249/+9
+    - 'Steve Nash (On: +10&#9642;Off: -7&#9642;Net: +17)'
+    - |2-
+
+      +1
+    - 194/+1
+    - 106/
+    - 199/+4
+    - 250/-4
+    - 250/+9
+    - 'Dirk Nowitzki (On: +9&#9642;Off: -6&#9642;Net: +15)'
+    - |2-
+
+      0
+    - 239/0
+    - 61/
+    - 199/+4
+    - 250/-4
+    - 80/
+    - 169/+9
+    - 'Christian Laettner (On: -6&#9642;Off: +9&#9642;Net: -15)'
+    - "\n"
+    - 126/
+    - 124/+3
+    - 98/-3
+    - 205/
+    - 154/-6
+    - 291/
+    - 'Howard Eisley (On: -4&#9642;Off: +7&#9642;Net: -11)'
+    - "\n"
+    - 199/
+    - 50/-3
+    - 45/-4
+    - 101/
+    - 103/+3
+    - 173/
+    - 76/0
+    - 75/0
+    - 173/
+    - 'Eduardo Najera (On: -5&#9642;Off: +8&#9642;Net: -13)'
+    - "\n"
+    - 244/
+    - 5/-2
+    - 104/-3
+    - 291/
+    - 104/0
+    - 75/0
+    - 174/
+    - 'Courtney Alexander (On: -1&#9642;Off: +4&#9642;Net: -5)'
+    - "\n"
+    - 426/
+    - 74/-1
+    - 501/
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mike Bibby (On: -13&#9642;Off: +10&#9642;Net: -23)'
+    - |2-
+
+      -3
+    - 189/-3
+    - 131/
+    - 180/-5
+    - 250/+4
+    - 249/-9
+    - 'Michael Dickerson (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - |2-
+
+      0
+    - 207/0
+    - 147/
+    - 146/-3
+    - 208/+4
+    - 291/
+    - 'Othella Harrington (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 104/
+    - 146/-3
+    - 208/+4
+    - 122/
+    - 168/-9
+    - 'Grant Long (On: -5&#9642;Off: +2&#9642;Net: -7)'
+    - |2-
+
+      +2
+    - 172/+2
+    - 224/
+    - 103/-3
+    - 250/+4
+    - 154/-8
+    - 95/
+    - 'Bryant Reeves (On: +3&#9642;Off: -6&#9642;Net: +9)'
+    - |2-
+
+      +4
+    - 138/+4
+    - 307/
+    - 54/-1
+    - 124/0
+    - 376/
+    - 'Isaac Austin (On: +4&#9642;Off: -7&#9642;Net: +11)'
+    - "\n"
+    - 141/
+    - 108/-2
+    - 140/+3
+    - 239/
+    - 119/+4
+    - 75/0
+    - 83/
+    - 91/-1
+    - 'Kevin Edwards (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - "\n"
+    - 174/
+    - 76/0
+    - 98/+3
+    - 363/
+    - 38/0
+    - 249/-9
+    - 'Damon Jones (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 192/
+    - 57/+5
+    - 187/+1
+    - 274/
+    - 38/0
+    - 250/-9
+    - 'Mahmoud Abdul-Rauf (On: +7&#9642;Off: -10&#9642;Net: +17)'
+    - "\n"
+    - 213/
+    - 37/+2
+    - 69/+5
+    - 681/
+    - 'Stromile Swift (On: +4&#9642;Off: -7&#9642;Net: +11)'
+    - "\n"
+    - 250/
+    - 58/+4
+    - 693/
+    - 'Tony Massenburg (On: -1&#9642;Off: -2&#9642;Net: +1)'
+    - "\n"
+    - 309/
+    - 40/-1
+    - 652/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

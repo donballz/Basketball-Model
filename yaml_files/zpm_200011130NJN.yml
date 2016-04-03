@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dale Davis (On: +11&#9642;Off: +1&#9642;Net: +10)'
+    - |2-
+
+      +14
+    - 188/+14
+    - 119/
+    - 191/-11
+    - 192/+5
+    - 162/
+    - 62/+3
+    - 83/
+    - 'Scottie Pippen (On: +20&#9642;Off: -8&#9642;Net: +28)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 197/
+    - 52/-3
+    - 249/+5
+    - 151/
+    - 53/+1
+    - 46/
+    - 'Steve Smith (On: +2&#9642;Off: +10&#9642;Net: -8)'
+    - |2-
+
+      +11
+    - 143/+11
+    - 244/
+    - 112/-10
+    - 249/+5
+    - 37/-5
+    - 142/
+    - 70/+1
+    - 'Damon Stoudamire (On: +14&#9642;Off: -2&#9642;Net: +16)'
+    - |2-
+
+      +17
+    - 248/+17
+    - 173/
+    - 77/-10
+    - 249/+5
+    - 168/
+    - 46/+2
+    - 36/
+    - 'Rasheed Wallace (On: +15&#9642;Off: -3&#9642;Net: +18)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 52/-2
+    - 125/
+    - 72/-8
+    - 249/+5
+    - 104/-1
+    - 63/
+    - 50/+4
+    - 31/
+    - 'Bonzi Wells (On: -2&#9642;Off: +14&#9642;Net: -16)'
+    - "\n"
+    - 145/
+    - 104/+6
+    - 191/-10
+    - 308/
+    - 176/+2
+    - 74/
+    - 'Shawn Kemp (On: +1&#9642;Off: +11&#9642;Net: -10)'
+    - "\n"
+    - 190/
+    - 60/+3
+    - 172/-5
+    - 276/
+    - 51/0
+    - 249/+3
+    - 'Greg Anthony (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 169/-3
+    - 330/
+    - 167/+2
+    - 83/
+    - 'Stacey Augmon (On: +4&#9642;Off: +8&#9642;Net: -4)'
+    - "\n"
+    - 250/
+    - 135/-3
+    - 404/
+    - 105/+10
+    - 61/
+    - 43/-3
+    - 'Erick Barkley (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 970/
+    - 32/-1
+    - 'Antonio Harvey (On: -3&#9642;Off: +15&#9642;Net: -18)'
+    - "\n"
+    - 976/
+    - 26/-3
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Evan Eschmeyer (On: -17&#9642;Off: +5&#9642;Net: -22)'
+    - |2-
+
+      -14
+    - 189/-14
+    - 311/
+    - 109/-3
+    - 391/
+    - 'Kendall Gill (On: -14&#9642;Off: +2&#9642;Net: -16)'
+    - |2-
+
+      -17
+    - 249/-17
+    - 6/+1
+    - 131/
+    - 112/+10
+    - 218/-3
+    - 166/
+    - 83/-5
+    - 31/
+    - 'Stephen Jackson (On: -16&#9642;Off: +4&#9642;Net: -20)'
+    - |2-
+
+      -14
+    - 189/-14
+    - 311/
+    - 193/-5
+    - 280/
+    - 26/+3
+    - 'Stephon Marbury (On: -14&#9642;Off: +2&#9642;Net: -16)'
+    - |2-
+
+      -17
+    - 249/-17
+    - 6/+1
+    - 131/
+    - 112/+10
+    - 249/-5
+    - 37/+5
+    - 59/
+    - 122/-8
+    - 30/
+    - 'Kenyon Martin (On: -14&#9642;Off: +2&#9642;Net: -16)'
+    - |2-
+
+      -17
+    - 248/-17
+    - 118/
+    - 133/+10
+    - 219/-3
+    - 136/
+    - 144/-4
+    - 'Jim McIlvaine (On: -1&#9642;Off: -11&#9642;Net: +10)'
+    - "\n"
+    - 190/
+    - 60/-3
+    - 113/+3
+    - 360/
+    - 26/-2
+    - 105/+1
+    - 143/
+    - 'Johnny Newman (On: +9&#9642;Off: -21&#9642;Net: +30)'
+    - "\n"
+    - 190/
+    - 60/-3
+    - 249/+13
+    - 199/
+    - 51/0
+    - 129/-1
+    - 119/
+    - 'Aaron Williams (On: +8&#9642;Off: -20&#9642;Net: +28)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 250/+13
+    - 109/
+    - 141/-2
+    - 249/-3
+    - 'Sherman Douglas (On: -1&#9642;Off: -11&#9642;Net: +10)'
+    - "\n"
+    - 260/
+    - 126/+2
+    - 405/
+    - 51/-3
+    - 157/
+    - 'Lucious Harris (On: -3&#9642;Off: -9&#9642;Net: +6)'
+    - "\n"
+    - 260/
+    - 126/+2
+    - 338/
+    - 26/-2
+    - 249/-3
+    - 'Kevin Ollie (On: +3&#9642;Off: -15&#9642;Net: +18)'
+    - "\n"
+    - 976/
+    - 26/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -8&#9642;Off: -10&#9642;Net: +2)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 7/+1
+    - 137/
+    - 106/-4
+    - 174/0
+    - 324/
+    - 'Larry Hughes (On: -1&#9642;Off: -17&#9642;Net: +16)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 63/+3
+    - 58/
+    - 129/-2
+    - 174/0
+    - 164/
+    - 111/+3
+    - 48/
+    - 'Marc Jackson (On: -16&#9642;Off: -2&#9642;Net: -14)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 93/
+    - 157/-6
+    - 250/0
+    - 183/-5
+    - 65/
+    - 'Antawn Jamison (On: -19&#9642;Off: +1&#9642;Net: -20)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 250/-7
+    - 209/-3
+    - 91/
+    - 149/-4
+    - 49/
+    - 'Chris Porter (On: -11&#9642;Off: -7&#9642;Net: -4)'
+    - |2-
+
+      -2
+    - 117/-2
+    - 200/
+    - 73/-6
+    - 108/
+    - 99/-2
+    - 355/
+    - 45/-1
+    - 'Bob Sura (On: -14&#9642;Off: -4&#9642;Net: -10)'
+    - "\n"
+    - 122/
+    - 128/-3
+    - 117/-5
+    - 314/
+    - 68/0
+    - 249/-6
+    - 'John Coker (On: -1&#9642;Off: -17&#9642;Net: +16)'
+    - "\n"
+    - 250/
+    - 92/-1
+    - 659/
+    - 'Vonteego Cummings (On: -14&#9642;Off: -4&#9642;Net: -10)'
+    - "\n"
+    - 264/
+    - 236/-8
+    - 181/
+    - 68/0
+    - 250/-6
+    - 'Vinny Del Negro (On: -7&#9642;Off: -11&#9642;Net: +4)'
+    - "\n"
+    - 600/
+    - 149/+2
+    - 84/-8
+    - 121/
+    - 45/-1
+    - 'Adam Keefe (On: +2&#9642;Off: -20&#9642;Net: +22)'
+    - "\n"
+    - 712/
+    - 38/+3
+    - 47/-1
+    - 203/
+    - 'Bill Curley (On: -1&#9642;Off: -17&#9642;Net: +16)'
+    - "\n"
+    - 940/
+    - 62/-1
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +21&#9642;Off: -3&#9642;Net: +24)'
+    - |2-
+
+      +3
+    - 72/+3
+    - 245/
+    - 181/+10
+    - 133/+4
+    - 167/
+    - 132/+4
+    - 67/
+    - 'Antonio Daniels (On: +12&#9642;Off: +6&#9642;Net: +6)'
+    - |2-
+
+      +1
+    - 232/+1
+    - 129/
+    - 137/+4
+    - 187/+2
+    - 87/
+    - 177/+5
+    - 48/
+    - 'Tim Duncan (On: +6&#9642;Off: +12&#9642;Net: -6)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 63/-3
+    - 94/
+    - 93/+4
+    - 250/0
+    - 248/
+    - 'Sean Elliott (On: +5&#9642;Off: +13&#9642;Net: -8)'
+    - |2-
+
+      -3
+    - 130/-3
+    - 213/
+    - 157/+6
+    - 94/+2
+    - 405/
+    - 'David Robinson (On: +17&#9642;Off: +1&#9642;Net: +16)'
+    - |2-
+
+      -3
+    - 184/-3
+    - 132/
+    - 140/+13
+    - 41/
+    - 133/+4
+    - 116/
+    - 145/+3
+    - 105/
+    - 'Terry Porter (On: +7&#9642;Off: +11&#9642;Net: -4)'
+    - "\n"
+    - 74/
+    - 175/+2
+    - 108/+3
+    - 279/
+    - 111/-4
+    - 74/+6
+    - 176/
+    - 'Steve Kerr (On: +5&#9642;Off: +13&#9642;Net: -8)'
+    - "\n"
+    - 135/
+    - 114/+8
+    - 63/-3
+    - 381/
+    - 55/-2
+    - 47/+1
+    - 136/
+    - 65/+1
+    - 'Malik Rose (On: +12&#9642;Off: +6&#9642;Net: +6)'
+    - "\n"
+    - 186/
+    - 63/+8
+    - 153/+3
+    - 234/
+    - 111/-4
+    - 200/+5
+    - 50/
+    - 'Derrick Dial (On: +5&#9642;Off: +13&#9642;Net: -8)'
+    - "\n"
+    - 239/
+    - 10/+4
+    - 92/+1
+    - 486/
+    - 172/0
+    - 'Samaki Walker (On: 0&#9642;Off: +18&#9642;Net: -18)'
+    - "\n"
+    - 466/
+    - 34/-3
+    - 396/
+    - 104/+3
+    - 'Danny Ferry (On: -1&#9642;Off: +19&#9642;Net: -20)'
+    - "\n"
+    - 599/
+    - 150/-2
+    - 17/0
+    - 189/
+    - 44/+1
+    - 'Ira Newble (On: +1&#9642;Off: +17&#9642;Net: -16)'
+    - "\n"
+    - 957/
+    - 45/+1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

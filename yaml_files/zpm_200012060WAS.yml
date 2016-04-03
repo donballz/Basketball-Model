@@ -1,0 +1,233 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Corey Maggette (On: -15&#9642;Off: +20&#9642;Net: -35)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 250/
+    - 250/+1
+    - 36/-3
+    - 213/
+    - 'Jeff McInnis (On: -9&#9642;Off: +14&#9642;Net: -23)'
+    - |2-
+
+      -12
+    - 215/-12
+    - 118/
+    - 167/+2
+    - 248/+1
+    - 251/
+    - 'Michael Olowokandi (On: -13&#9642;Off: +18&#9642;Net: -31)'
+    - |2-
+
+      -12
+    - 215/-12
+    - 157/
+    - 127/-2
+    - 74/+1
+    - 426/
+    - 'Quentin Richardson (On: -9&#9642;Off: +14&#9642;Net: -23)'
+    - |2-
+
+      -10
+    - 65/-10
+    - 328/
+    - 106/0
+    - 145/+1
+    - 355/
+    - 'Derek Strong (On: -12&#9642;Off: +17&#9642;Net: -29)'
+    - |2-
+
+      -12
+    - 123/-12
+    - 879/
+    - 'Lamar Odom (On: +16&#9642;Off: -11&#9642;Net: +27)'
+    - "\n"
+    - 71/
+    - 178/-3
+    - 228/-6
+    - 21/
+    - 248/+1
+    - 44/
+    - 207/+24
+    - 'Darius Miles (On: +22&#9642;Off: -17&#9642;Net: +39)'
+    - "\n"
+    - 127/
+    - 123/-1
+    - 235/
+    - 15/+2
+    - 250/
+    - 248/+21
+    - 'Keyon Dooling (On: +14&#9642;Off: -9&#9642;Net: +23)'
+    - "\n"
+    - 221/
+    - 29/-1
+    - 77/-6
+    - 422/
+    - 250/+21
+    - 'Sean Rooks (On: +11&#9642;Off: -6&#9642;Net: +17)'
+    - "\n"
+    - 220/
+    - 29/-1
+    - 120/-2
+    - 206/
+    - 173/0
+    - 141/
+    - 108/+14
+    - 'Eric Piatkowski (On: +19&#9642;Off: -14&#9642;Net: +33)'
+    - "\n"
+    - 249/
+    - 139/-4
+    - 96/
+    - 15/+2
+    - 149/
+    - 100/0
+    - 249/+21
+    - 'Brian Skinner (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 105/-4
+    - 394/
+    - 134/+7
+    - 116/
+    - 'Cherokee Parks (On: -2&#9642;Off: +7&#9642;Net: -9)'
+    - "\n"
+    - 361/
+    - 119/-2
+    - 521/
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Juwan Howard (On: -7&#9642;Off: +2&#9642;Net: -9)'
+    - |2-
+
+      +12
+    - 215/+12
+    - 145/
+    - 139/0
+    - 127/+2
+    - 123/
+    - 249/-21
+    - 'Felipe Lopez (On: -6&#9642;Off: +1&#9642;Net: -7)'
+    - |2-
+
+      +10
+    - 182/+10
+    - 48/
+    - 19/+2
+    - 249/+4
+    - 76/-1
+    - 153/
+    - 20/0
+    - 249/-21
+    - 'Tyrone Nesby (On: +2&#9642;Off: -7&#9642;Net: +9)'
+    - |2-
+
+      +12
+    - 122/+12
+    - 62/
+    - 64/+3
+    - 82/+6
+    - 83/
+    - 83/-2
+    - 222/-1
+    - 93/
+    - 94/-12
+    - 54/
+    - 34/-4
+    - 'Rod Strickland (On: -3&#9642;Off: -2&#9642;Net: -1)'
+    - |2-
+
+      +12
+    - 215/+12
+    - 120/
+    - 165/-2
+    - 189/+3
+    - 154/
+    - 155/-16
+    - 'Jahidi White (On: +15&#9642;Off: -20&#9642;Net: +35)'
+    - |2-
+
+      +12
+    - 122/+12
+    - 127/
+    - 114/+2
+    - 135/
+    - 38/+2
+    - 305/
+    - 14/-1
+    - 141/
+    - 'Calvin Booth (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 127/
+    - 123/+1
+    - 120/
+    - 129/+2
+    - 41/
+    - 68/-5
+    - 389/
+    - 'Richard Hamilton (On: -10&#9642;Off: +5&#9642;Net: -15)'
+    - "\n"
+    - 126/
+    - 98/-1
+    - 108/
+    - 73/0
+    - 172/
+    - 168/0
+    - 65/-1
+    - 101/
+    - 84/-8
+    - 'Gerard King (On: -8&#9642;Off: +3&#9642;Net: -11)'
+    - "\n"
+    - 220/
+    - 29/+1
+    - 56/+5
+    - 324/
+    - 118/-3
+    - 111/
+    - 98/-11
+    - 40/
+    - 'Chris Whitney (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 220/
+    - 29/+1
+    - 83/+6
+    - 360/
+    - 56/-4
+    - 88/-5
+    - 161/
+    - 'Michael Smith (On: -6&#9642;Off: +1&#9642;Net: -7)'
+    - "\n"
+    - 309/
+    - 45/-1
+    - 374/
+    - 20/0
+    - 88/-5
+    - 162/
+    - 'Obinna Ekezie (On: +2&#9642;Off: -7&#9642;Net: +9)'
+    - "\n"
+    - 616/
+    - 109/+2
+    - 276/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

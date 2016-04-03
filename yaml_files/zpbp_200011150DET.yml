@@ -1,0 +1,2954 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: B. Wallace vs. J. O''Neal (C. Atkins gains possession)'
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Atkins misses 2-pt shot from 19 ft
+  - - '11:36.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:32.0'
+    - A. Croshere makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - J. Stackhouse misses 2-pt shot from 17 ft
+  - - '11:17.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:55.0'
+    - T. Best misses 3-pt shot from 26 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by C. Atkins
+  - - '10:43.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - C. Atkins misses 2-pt shot from 17 ft
+  - - '10:41.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:29.0'
+    - Turnover by A. Croshere (lost ball; steal by B. Wallace)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by J. Stackhouse (bad pass)
+  - - '9:55.0'
+    - A. Croshere misses 3-pt shot from 28 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by J. Stackhouse
+  - - '9:45.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - M. Curry makes 2-pt shot from 17 ft (assist by J. Stackhouse)
+  - - '9:30.0'
+    - T. Best makes 2-pt shot at rim
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - B. Wallace misses 2-pt shot at rim
+  - - '9:07.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:54.0'
+    - J. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '8:40.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Turnover by B. Wallace (bad pass)
+  - - '8:40.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - J. Williams enters the game for E. Montross
+  - - '8:23.0'
+    - S. Perkins makes 2-pt shot at rim
+    - "+2"
+    - 6-2
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - M. Curry misses 2-pt shot from 20 ft
+  - - '8:06.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Offensive rebound by J. Williams
+  - - '8:04.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - J. Williams misses 2-pt shot from 16 ft
+  - - '8:02.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '7:55.0'
+    - S. Perkins misses 2-pt shot at rim
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '7:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '7:46.0'
+    - T. Best makes 2-pt shot from 16 ft (assist by R. Miller)
+    - "+2"
+    - 8-2
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - J. Stackhouse misses 2-pt shot from 18 ft
+  - - '7:28.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 8-2
+    - ''
+    - ''
+  - - '7:17.0'
+    - S. Perkins makes 2-pt shot at rim (assist by J. O'Neal)
+    - "+2"
+    - 10-2
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 10-2
+    - ''
+    - Turnover by J. Williams (bad pass; steal by S. Perkins)
+  - - '6:51.0'
+    - S. Perkins misses 3-pt shot from 25 ft
+    - ''
+    - 10-2
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 10-2
+    - ''
+    - Defensive rebound by Team
+  - - '6:36.0'
+    - ''
+    - ''
+    - 10-4
+    - "+2"
+    - J. Stackhouse makes 2-pt shot from 18 ft (assist by C. Atkins)
+  - - '6:29.0'
+    - Personal foul by C. Atkins
+    - ''
+    - 10-4
+    - ''
+    - ''
+  - - '6:14.0'
+    - J. O'Neal makes 2-pt shot at rim (assist by T. Best)
+    - "+2"
+    - 12-4
+    - ''
+    - ''
+  - - '6:14.0'
+    - Shooting foul by M. Curry
+    - ''
+    - 12-4
+    - ''
+    - ''
+  - - '6:14.0'
+    - J. O'Neal makes free throw 1 of 1
+    - "+1"
+    - 13-4
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - J. Stackhouse misses 3-pt shot from 27 ft
+  - - '5:59.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '5:52.0'
+    - Personal foul by J. Stackhouse
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '5:52.0'
+    - Indiana full timeout
+    - ''
+    - 13-4
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - C. Ceballos enters the game for M. Curry
+  - - '5:42.0'
+    - R. Miller makes 3-pt shot from 27 ft (assist by J. O'Neal)
+    - "+3"
+    - 16-4
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 16-4
+    - ''
+    - Turnover by J. Williams (bad pass; steal by S. Perkins)
+  - - '5:04.0'
+    - J. O'Neal misses 2-pt shot from 13 ft
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 16-4
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '4:51.0'
+    - ''
+    - ''
+    - 16-4
+    - ''
+    - C. Ceballos misses 3-pt shot from 26 ft
+  - - '4:48.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '4:24.0'
+    - A. Croshere misses 2-pt shot from 13 ft
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '4:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '4:23.0'
+    - J. Bender enters the game for S. Perkins
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '4:20.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 16-4
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 16-4
+    - ''
+    - Defensive rebound by J. Williams
+  - - '4:13.0'
+    - ''
+    - ''
+    - 16-6
+    - "+2"
+    - C. Ceballos makes 2-pt shot at rim
+  - - '4:13.0'
+    - Violation by A. Croshere (def goaltending)
+    - ''
+    - 16-6
+    - ''
+    - ''
+  - - '3:58.0'
+    - R. Miller makes 2-pt shot from 16 ft
+    - "+2"
+    - 18-6
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 18-8
+    - "+2"
+    - J. Stackhouse makes 2-pt shot from 20 ft
+  - - '3:33.0'
+    - Personal foul by J. Stackhouse
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:30.0'
+    - R. Miller misses 3-pt shot from 26 ft
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:28.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:25.0'
+    - Shooting foul by B. Wallace
+    - ''
+    - 18-8
+    - ''
+    - ''
+  - - '3:25.0'
+    - A. Croshere makes free throw 1 of 2
+    - "+1"
+    - 19-8
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 19-8
+    - ''
+    - J. Buechler enters the game for J. Stackhouse
+  - - '3:25.0'
+    - A. Croshere makes free throw 2 of 2
+    - "+1"
+    - 20-8
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 20-10
+    - "+2"
+    - C. Atkins makes 2-pt shot from 13 ft
+  - - '2:48.0'
+    - Indiana full timeout
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:45.0'
+    - Shooting foul by C. Atkins
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:45.0'
+    - J. O'Neal misses free throw 1 of 2
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:45.0'
+    - D. McKey enters the game for R. Miller
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - M. Cleaves enters the game for C. Atkins
+  - - '2:45.0'
+    - ''
+    - ''
+    - 20-10
+    - ''
+    - M. Moore enters the game for B. Wallace
+  - - '2:45.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 21-10
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 21-12
+    - "+2"
+    - J. Buechler makes 2-pt shot at rim (assist by M. Cleaves)
+  - - '2:05.0'
+    - T. Best misses 2-pt shot from 15 ft
+    - ''
+    - 21-12
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 21-12
+    - ''
+    - Defensive rebound by Team
+  - - '1:49.0'
+    - ''
+    - ''
+    - 21-12
+    - ''
+    - Shooting foul by J. O'Neal
+  - - '1:49.0'
+    - Z. Tabak enters the game for J. O'Neal
+    - ''
+    - 21-12
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 21-12
+    - ''
+    - C. Ceballos misses free throw 1 of 2
+  - - '1:49.0'
+    - ''
+    - ''
+    - 21-12
+    - ''
+    - Offensive rebound by Team
+  - - '1:49.0'
+    - ''
+    - ''
+    - 21-13
+    - "+1"
+    - C. Ceballos makes free throw 2 of 2
+  - - '1:36.0'
+    - T. Best misses 2-pt shot from 11 ft
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Defensive rebound by J. Williams
+  - - '1:25.0'
+    - ''
+    - ''
+    - 21-15
+    - "+2"
+    - C. Ceballos makes 2-pt shot from 20 ft
+  - - '1:12.0'
+    - J. Bender misses 2-pt shot from 17 ft
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:11.0'
+    - Offensive rebound by A. Croshere
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:09.0'
+    - A. Croshere misses 2-pt shot at rim
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:07.0'
+    - Offensive rebound by D. McKey
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:02.0'
+    - J. Bender makes 2-pt shot at rim (assist by D. McKey)
+    - "+2"
+    - 23-15
+    - ''
+    - ''
+  - - '0:51.4'
+    - ''
+    - ''
+    - 23-15
+    - ''
+    - M. Moore misses 2-pt shot from 20 ft
+  - - '0:49.1'
+    - Defensive rebound by D. McKey
+    - ''
+    - 23-15
+    - ''
+    - ''
+  - - '0:32.9'
+    - A. Croshere makes 2-pt shot from 17 ft (assist by T. Best)
+    - "+2"
+    - 25-15
+    - ''
+    - ''
+  - - '0:23.3'
+    - ''
+    - ''
+    - 25-15
+    - ''
+    - Personal foul by D. McKey
+  - - '0:23.3'
+    - ''
+    - ''
+    - 25-16
+    - "+1"
+    - C. Ceballos makes free throw 1 of 2
+  - - '0:23.3'
+    - ''
+    - ''
+    - 25-16
+    - ''
+    - E. Montross enters the game for J. Williams
+  - - '0:23.3'
+    - ''
+    - ''
+    - 25-17
+    - "+1"
+    - C. Ceballos makes free throw 2 of 2
+  - - '0:08.9'
+    - J. Bender misses 3-pt shot from 24 ft
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '0:07.8'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - Defensive rebound by Team
+  - - '0:07.8'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - Loose ball foul by Z. Tabak
+  - - '0:07.8'
+    - ''
+    - ''
+    - 25-18
+    - "+1"
+    - M. Moore makes free throw 1 of 2
+  - - '0:07.8'
+    - ''
+    - ''
+    - 25-18
+    - ''
+    - J. Williams enters the game for C. Ceballos
+  - - '0:07.8'
+    - ''
+    - ''
+    - 25-19
+    - "+1"
+    - M. Moore makes free throw 2 of 2
+  - - '0:02.7'
+    - T. Best misses 2-pt shot from 12 ft
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Defensive rebound by M. Moore
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:45.0'
+    - R. Miller misses 2-pt shot from 18 ft
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '11:43.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Defensive rebound by C. Ceballos
+  - - '11:32.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Personal foul by Z. Tabak
+  - - '11:24.0'
+    - ''
+    - ''
+    - 25-21
+    - "+2"
+    - E. Montross makes 2-pt shot from 8 ft (assist by M. Cleaves)
+  - - '11:06.0'
+    - Personal foul by J. Buechler
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '11:00.0'
+    - Turnover by T. Edney (traveling)
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 25-21
+    - ''
+    - Shooting foul by Z. Tabak
+  - - '10:45.0'
+    - ''
+    - ''
+    - 25-22
+    - "+1"
+    - M. Cleaves makes free throw 1 of 2
+  - - '10:45.0'
+    - S. Perkins enters the game for Z. Tabak
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '10:45.0'
+    - J. O'Neal enters the game for J. Bender
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 25-23
+    - "+1"
+    - M. Cleaves makes free throw 2 of 2
+  - - '10:30.0'
+    - T. Edney makes 2-pt shot from 17 ft (assist by R. Miller)
+    - "+2"
+    - 27-23
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Shooting foul by T. Edney
+  - - '10:24.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - M. Cleaves misses free throw 1 of 2
+  - - '10:24.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Offensive rebound by Team
+  - - '10:24.0'
+    - ''
+    - ''
+    - 27-24
+    - "+1"
+    - M. Cleaves makes free throw 2 of 2
+  - - '10:16.0'
+    - Turnover by T. Edney (lost ball; steal by M. Cleaves)
+    - ''
+    - 27-24
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 27-26
+    - "+2"
+    - M. Cleaves makes 2-pt shot at rim (assist by C. Ceballos)
+  - - '9:53.0'
+    - J. O'Neal makes 2-pt shot from 5 ft (assist by R. Miller)
+    - "+2"
+    - 29-26
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 29-26
+    - ''
+    - Violation by M. Moore (def goaltending)
+  - - '9:34.0'
+    - ''
+    - ''
+    - 29-29
+    - "+3"
+    - C. Ceballos makes 3-pt shot from 24 ft (assist by M. Moore)
+  - - '9:19.0'
+    - Personal foul by M. Moore
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:19.0'
+    - T. Best enters the game for T. Edney
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:19.0'
+    - A. Croshere enters the game for D. McKey
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - J. Stackhouse enters the game for J. Buechler
+  - - '9:13.0'
+    - R. Miller misses 2-pt shot from 18 ft
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:12.0'
+    - Offensive rebound by A. Croshere
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:10.0'
+    - A. Croshere misses 2-pt shot at rim (block by E. Montross)
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - Defensive rebound by M. Cleaves
+  - - '9:03.0'
+    - ''
+    - ''
+    - 29-31
+    - "+2"
+    - C. Ceballos makes 2-pt shot at rim (assist by J. Stackhouse)
+  - - '9:03.0'
+    - Violation by J. O'Neal (def goaltending)
+    - ''
+    - 29-31
+    - ''
+    - ''
+  - - '8:39.0'
+    - R. Miller misses 2-pt shot from 20 ft
+    - ''
+    - 29-31
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 29-31
+    - ''
+    - Defensive rebound by M. Cleaves
+  - - '8:33.0'
+    - ''
+    - ''
+    - 29-33
+    - "+2"
+    - C. Ceballos makes 2-pt shot at rim (assist by M. Cleaves)
+  - - '8:15.0'
+    - Offensive foul by T. Best
+    - ''
+    - 29-33
+    - ''
+    - ''
+  - - '8:15.0'
+    - Turnover by T. Best (foul)
+    - ''
+    - 29-33
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - Official timeout
+  - - '8:15.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - B. Wallace enters the game for M. Moore
+  - - '8:03.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - C. Ceballos misses 3-pt shot from 27 ft
+  - - '8:00.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 29-33
+    - ''
+    - ''
+  - - '7:55.0'
+    - T. Best makes 2-pt shot from 13 ft (assist by A. Croshere)
+    - "+2"
+    - 31-33
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - C. Ceballos misses 2-pt shot at rim (block by S. Perkins)
+  - - '7:46.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Offensive rebound by J. Stackhouse
+  - - '7:44.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - J. Stackhouse misses 2-pt shot at rim
+  - - '7:43.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Offensive rebound by Team
+  - - '7:38.0'
+    - ''
+    - ''
+    - 31-35
+    - "+2"
+    - J. Stackhouse makes 2-pt shot from 19 ft (assist by M. Cleaves)
+  - - '7:19.0'
+    - J. O'Neal makes 2-pt shot from 9 ft (assist by S. Perkins)
+    - "+2"
+    - 33-35
+    - ''
+    - ''
+  - - '7:19.0'
+    - Shooting foul by E. Montross
+    - ''
+    - 33-35
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 33-35
+    - ''
+    - J. Williams enters the game for E. Montross
+  - - '7:19.0'
+    - J. O'Neal misses free throw 1 of 1
+    - ''
+    - 33-35
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 33-35
+    - ''
+    - Defensive rebound by J. Williams
+  - - '7:09.0'
+    - ''
+    - ''
+    - 33-35
+    - ''
+    - Turnover by M. Cleaves (bad pass; steal by J. O'Neal)
+  - - '7:00.0'
+    - Turnover by J. O'Neal (bad pass)
+    - ''
+    - 33-35
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 33-37
+    - "+2"
+    - M. Cleaves makes 2-pt shot from 15 ft (assist by B. Wallace)
+  - - '6:32.0'
+    - Personal foul by C. Ceballos
+    - ''
+    - 33-37
+    - ''
+    - ''
+  - - '6:19.0'
+    - A. Croshere makes 2-pt shot from 16 ft (assist by R. Miller)
+    - "+2"
+    - 35-37
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 35-37
+    - ''
+    - J. Williams misses 2-pt shot from 13 ft
+  - - '5:56.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:50.0'
+    - S. Perkins misses 3-pt shot from 25 ft
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 35-37
+    - ''
+    - Defensive rebound by J. Stackhouse
+  - - '5:43.0'
+    - ''
+    - ''
+    - 35-37
+    - ''
+    - Turnover by J. Stackhouse (lost ball; steal by S. Perkins)
+  - - '5:40.0'
+    - Shooting foul by M. Cleaves
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:40.0'
+    - Indiana full timeout
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 35-37
+    - ''
+    - C. Atkins enters the game for M. Cleaves
+  - - '5:40.0'
+    - ''
+    - ''
+    - 35-37
+    - ''
+    - M. Curry enters the game for C. Ceballos
+  - - '5:40.0'
+    - T. Best misses free throw 1 of 2
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '5:40.0'
+    - T. Best makes free throw 2 of 2
+    - "+1"
+    - 36-37
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 36-39
+    - "+2"
+    - J. Stackhouse makes 2-pt shot at rim (assist by C. Atkins)
+  - - '5:33.0'
+    - ''
+    - ''
+    - 36-39
+    - ''
+    - Shooting foul by J. O'Neal
+  - - '5:33.0'
+    - ''
+    - ''
+    - 36-40
+    - "+1"
+    - J. Stackhouse makes free throw 1 of 1
+  - - '5:19.0'
+    - T. Best misses 3-pt shot from 27 ft
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Defensive rebound by C. Atkins
+  - - '5:12.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - C. Atkins misses 2-pt shot from 18 ft
+  - - '5:10.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '5:03.0'
+    - Offensive foul by A. Croshere
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '5:03.0'
+    - Turnover by A. Croshere (foul)
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '4:53.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - J. Stackhouse misses 2-pt shot from 18 ft
+  - - '4:51.0'
+    - Defensive rebound by S. Perkins
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '4:41.0'
+    - R. Miller misses 2-pt shot at rim
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Defensive rebound by M. Curry
+  - - '4:34.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - J. Williams misses 2-pt shot at rim (block by J. O'Neal)
+  - - '4:33.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Offensive rebound by J. Williams
+  - - '4:33.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Shooting foul by T. Best
+  - - '4:33.0'
+    - ''
+    - ''
+    - 36-41
+    - "+1"
+    - J. Williams makes free throw 1 of 2
+  - - '4:33.0'
+    - J. Bender enters the game for S. Perkins
+    - ''
+    - 36-41
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 36-42
+    - "+1"
+    - J. Williams makes free throw 2 of 2
+  - - '4:11.0'
+    - T. Best makes 2-pt shot at rim
+    - "+2"
+    - 38-42
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 38-44
+    - "+2"
+    - J. Stackhouse makes 2-pt shot at rim
+  - - '3:37.0'
+    - R. Miller makes 2-pt shot at rim (assist by T. Best)
+    - "+2"
+    - 40-44
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - Turnover by J. Stackhouse (double dribble)
+  - - '3:27.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - M. Cleaves enters the game for C. Atkins
+  - - '3:27.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - Violation by Team (delay of game)
+  - - '3:12.0'
+    - Offensive foul by A. Croshere
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '3:12.0'
+    - Turnover by A. Croshere (foul)
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - Personal foul by T. Best
+  - - '3:02.0'
+    - ''
+    - ''
+    - 40-45
+    - "+1"
+    - M. Cleaves makes free throw 1 of 2
+  - - '3:02.0'
+    - T. Edney enters the game for T. Best
+    - ''
+    - 40-45
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 40-46
+    - "+1"
+    - M. Cleaves makes free throw 2 of 2
+  - - '2:48.0'
+    - R. Miller misses 3-pt shot from 26 ft
+    - ''
+    - 40-46
+    - ''
+    - ''
+  - - '2:46.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 40-46
+    - ''
+    - ''
+  - - '2:43.0'
+    - R. Miller misses 2-pt shot at rim
+    - ''
+    - 40-46
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-46
+    - ''
+    - Defensive rebound by J. Williams
+  - - '2:32.0'
+    - ''
+    - ''
+    - 40-46
+    - ''
+    - Personal foul by J. Bender
+  - - '2:32.0'
+    - ''
+    - ''
+    - 40-46
+    - ''
+    - Detroit full timeout
+  - - '2:32.0'
+    - D. McKey enters the game for T. Edney
+    - ''
+    - 40-46
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 40-47
+    - "+1"
+    - J. Stackhouse makes free throw 1 of 2
+  - - '2:32.0'
+    - ''
+    - ''
+    - 40-48
+    - "+1"
+    - J. Stackhouse makes free throw 2 of 2
+  - - '2:17.0'
+    - Personal foul by M. Cleaves
+    - ''
+    - 40-48
+    - ''
+    - ''
+  - - '2:17.0'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 41-48
+    - ''
+    - ''
+  - - '2:17.0'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 42-48
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 42-50
+    - "+2"
+    - M. Cleaves makes 2-pt shot at rim
+  - - '1:39.0'
+    - D. McKey misses 3-pt shot from 25 ft
+    - ''
+    - 42-50
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 42-50
+    - ''
+    - Defensive rebound by J. Williams
+  - - '1:32.0'
+    - ''
+    - ''
+    - 42-50
+    - ''
+    - Turnover by M. Cleaves (bad pass)
+  - - '1:16.0'
+    - Turnover by D. McKey (bad pass; steal by J. Williams)
+    - ''
+    - 42-50
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 42-50
+    - ''
+    - Turnover by M. Cleaves (bad pass; steal by J. Bender)
+  - - '0:56.2'
+    - J. O'Neal misses 2-pt shot from 17 ft
+    - ''
+    - 42-50
+    - ''
+    - ''
+  - - '0:54.1'
+    - ''
+    - ''
+    - 42-50
+    - ''
+    - Defensive rebound by J. Williams
+  - - '0:47.9'
+    - ''
+    - ''
+    - 42-50
+    - ''
+    - Shooting foul by J. Bender
+  - - '0:47.9'
+    - ''
+    - ''
+    - 42-51
+    - "+1"
+    - J. Stackhouse makes free throw 1 of 2
+  - - '0:47.9'
+    - T. Edney enters the game for D. McKey
+    - ''
+    - 42-51
+    - ''
+    - ''
+  - - '0:47.9'
+    - ''
+    - ''
+    - 42-51
+    - ''
+    - J. Stackhouse misses free throw 2 of 2
+  - - '0:46.4'
+    - Defensive rebound by R. Miller
+    - ''
+    - 42-51
+    - ''
+    - ''
+  - - '0:41.3'
+    - R. Miller makes 2-pt shot from 17 ft
+    - "+2"
+    - 44-51
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 44-54
+    - "+3"
+    - J. Stackhouse makes 3-pt shot from 29 ft (assist by M. Cleaves)
+  - - '0:20.6'
+    - Turnover by T. Edney (bad pass; steal by J. Stackhouse)
+    - ''
+    - 44-54
+    - ''
+    - ''
+  - - '0:18.4'
+    - ''
+    - ''
+    - 44-54
+    - ''
+    - Shooting foul by T. Edney
+  - - '0:18.4'
+    - ''
+    - ''
+    - 44-55
+    - "+1"
+    - M. Cleaves makes free throw 1 of 2
+  - - '0:18.4'
+    - ''
+    - ''
+    - 44-55
+    - ''
+    - J. Buechler enters the game for J. Stackhouse
+  - - '0:18.4'
+    - ''
+    - ''
+    - 44-55
+    - ''
+    - Detroit 20 second timeout
+  - - '0:18.4'
+    - ''
+    - ''
+    - 44-55
+    - ''
+    - M. Cleaves misses free throw 2 of 2
+  - - '0:17.3'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 44-55
+    - ''
+    - ''
+  - - '0:01.6'
+    - Shooting foul by J. Buechler
+    - ''
+    - 44-55
+    - ''
+    - ''
+  - - '0:01.6'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 45-55
+    - ''
+    - ''
+  - - '0:01.6'
+    - D. McKey enters the game for J. O'Neal
+    - ''
+    - 45-55
+    - ''
+    - ''
+  - - '0:01.6'
+    - Indiana 20 second timeout
+    - ''
+    - 45-55
+    - ''
+    - ''
+  - - '0:01.6'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 46-55
+    - ''
+    - ''
+  - - '0:00.5'
+    - ''
+    - ''
+    - 46-55
+    - ''
+    - M. Cleaves misses 2-pt shot from 11 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 46-55
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - T. Best makes 2-pt shot from 20 ft (assist by R. Miller)
+    - "+2"
+    - 48-55
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - B. Wallace misses 2-pt shot at rim (block by J. O'Neal)
+  - - '11:24.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '11:19.0'
+    - S. Perkins misses 3-pt shot from 27 ft
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '11:05.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Turnover by J. Stackhouse (back court)
+  - - '10:48.0'
+    - Personal foul by M. Curry
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:40.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:38.0'
+    - Offensive rebound by A. Croshere
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:38.0'
+    - A. Croshere misses 2-pt shot at rim
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Defensive rebound by E. Montross
+  - - '10:38.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Offensive foul by E. Montross
+  - - '10:38.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Turnover by E. Montross (foul)
+  - - '10:30.0'
+    - Shooting foul by B. Wallace
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:30.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 49-55
+    - ''
+    - ''
+  - - '10:30.0'
+    - J. O'Neal misses free throw 2 of 2
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Defensive rebound by E. Montross
+  - - '10:17.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Personal foul by S. Perkins
+  - - '10:05.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - E. Montross misses 2-pt shot from 6 ft
+  - - '10:02.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:44.0'
+    - J. O'Neal misses 2-pt shot from 5 ft (block by B. Wallace)
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:41.0'
+    - Offensive foul by J. O'Neal
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:41.0'
+    - Turnover by J. O'Neal (foul)
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 49-58
+    - "+3"
+    - J. Stackhouse makes 3-pt shot from 27 ft
+  - - '9:05.0'
+    - R. Miller misses 3-pt shot from 27 ft
+    - ''
+    - 49-58
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 49-58
+    - ''
+    - Defensive rebound by E. Montross
+  - - '8:56.0'
+    - ''
+    - ''
+    - 49-58
+    - ''
+    - B. Wallace misses 2-pt shot at rim
+  - - '8:54.0'
+    - Defensive rebound by S. Perkins
+    - ''
+    - 49-58
+    - ''
+    - ''
+  - - '8:48.0'
+    - S. Perkins misses 3-pt shot from 27 ft
+    - ''
+    - 49-58
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 49-58
+    - ''
+    - Defensive rebound by J. Stackhouse
+  - - '8:37.0'
+    - ''
+    - ''
+    - 49-60
+    - "+2"
+    - E. Montross makes 2-pt shot from 16 ft (assist by C. Atkins)
+  - - '8:21.0'
+    - Shooting foul by M. Curry
+    - ''
+    - 49-60
+    - ''
+    - ''
+  - - '8:21.0'
+    - T. Best makes free throw 1 of 2
+    - "+1"
+    - 50-60
+    - ''
+    - ''
+  - - '8:21.0'
+    - J. Foster enters the game for S. Perkins
+    - ''
+    - 50-60
+    - ''
+    - ''
+  - - '8:21.0'
+    - T. Best misses free throw 2 of 2
+    - ''
+    - 50-60
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 50-60
+    - ''
+    - Defensive rebound by M. Curry
+  - - '8:06.0'
+    - ''
+    - ''
+    - 50-60
+    - ''
+    - J. Stackhouse misses 2-pt shot from 16 ft
+  - - '8:04.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 50-60
+    - ''
+    - ''
+  - - '7:52.0'
+    - T. Best makes 3-pt shot from 26 ft (assist by R. Miller)
+    - "+3"
+    - 53-60
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 53-60
+    - ''
+    - Personal foul by R. Miller
+  - - '7:34.0'
+    - ''
+    - ''
+    - 53-62
+    - "+2"
+    - M. Curry makes 2-pt shot from 15 ft (assist by J. Stackhouse)
+  - - '7:27.0'
+    - Personal foul by B. Wallace
+    - ''
+    - 53-62
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 53-62
+    - ''
+    - Technical foul by B. Wallace
+  - - '7:27.0'
+    - R. Miller makes free throw technical
+    - "+1"
+    - 54-62
+    - ''
+    - ''
+  - - '7:16.0'
+    - J. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 54-62
+    - ''
+    - ''
+  - - '7:15.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 54-62
+    - ''
+    - ''
+  - - '7:15.0'
+    - J. Foster makes 2-pt shot at rim
+    - "+2"
+    - 56-62
+    - ''
+    - ''
+  - - '7:15.0'
+    - Shooting foul by E. Montross
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '7:15.0'
+    - J. Foster misses free throw 1 of 1
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Defensive rebound by Team
+  - - '7:15.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Loose ball foul by J. O'Neal
+  - - '7:15.0'
+    - Z. Tabak enters the game for J. O'Neal
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Turnover by J. Stackhouse (bad pass; steal by J. Foster)
+  - - '6:48.0'
+    - Z. Tabak misses 2-pt shot at rim
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '6:45.0'
+    - Offensive rebound by A. Croshere
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '6:27.0'
+    - A. Croshere misses 2-pt shot from 16 ft
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Defensive rebound by C. Atkins
+  - - '6:18.0'
+    - ''
+    - ''
+    - 56-65
+    - "+3"
+    - J. Stackhouse makes 3-pt shot from 25 ft (assist by E. Montross)
+  - - '5:58.0'
+    - Z. Tabak misses 2-pt shot from 18 ft
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '5:43.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - J. Stackhouse misses 2-pt shot from 15 ft (block by T. Best)
+  - - '5:41.0'
+    - Defensive rebound by J. Foster
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '5:32.0'
+    - J. Foster makes 2-pt shot from 15 ft (assist by T. Best)
+    - "+2"
+    - 58-65
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - Detroit full timeout
+  - - '5:30.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - J. Williams enters the game for B. Wallace
+  - - '5:30.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - C. Ceballos enters the game for M. Curry
+  - - '5:14.0'
+    - ''
+    - ''
+    - 58-65
+    - ''
+    - Turnover by E. Montross (bad pass; steal by R. Miller)
+  - - '4:54.0'
+    - J. Foster makes 2-pt shot from 19 ft (assist by R. Miller)
+    - "+2"
+    - 60-65
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 60-65
+    - ''
+    - C. Ceballos misses 2-pt shot from 17 ft
+  - - '4:36.0'
+    - Defensive rebound by J. Foster
+    - ''
+    - 60-65
+    - ''
+    - ''
+  - - '4:28.0'
+    - A. Croshere makes 3-pt shot from 24 ft (assist by R. Miller)
+    - "+3"
+    - 63-65
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - C. Ceballos misses 2-pt shot from 18 ft
+  - - '4:02.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '3:49.0'
+    - Turnover by T. Best (bad pass; steal by E. Montross)
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - Shooting foul by J. Foster
+  - - '3:45.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - C. Ceballos misses free throw 1 of 2
+  - - '3:45.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - Offensive rebound by Team
+  - - '3:45.0'
+    - ''
+    - ''
+    - 63-66
+    - "+1"
+    - C. Ceballos makes free throw 2 of 2
+  - - '3:32.0'
+    - Personal foul by C. Atkins
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '3:32.0'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 64-66
+    - ''
+    - ''
+  - - '3:32.0'
+    - R. Miller misses free throw 2 of 2
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - Defensive rebound by E. Montross
+  - - '3:12.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - C. Ceballos misses 3-pt shot from 24 ft
+  - - '3:10.0'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - Offensive rebound by J. Stackhouse
+  - - '3:09.0'
+    - ''
+    - ''
+    - 64-68
+    - "+2"
+    - J. Stackhouse makes 2-pt shot at rim
+  - - '2:47.0'
+    - R. Miller misses 3-pt shot from 24 ft
+    - ''
+    - 64-68
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 64-68
+    - ''
+    - Defensive rebound by C. Ceballos
+  - - '2:42.0'
+    - ''
+    - ''
+    - 64-70
+    - "+2"
+    - J. Williams makes 2-pt shot at rim (assist by J. Stackhouse)
+  - - '2:18.0'
+    - R. Miller makes 3-pt shot from 28 ft (assist by T. Best)
+    - "+3"
+    - 67-70
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 67-70
+    - ''
+    - J. Stackhouse misses 2-pt shot from 13 ft
+  - - '1:59.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '1:50.0'
+    - J. Foster makes 2-pt shot at rim (assist by T. Best)
+    - "+2"
+    - 69-70
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - Detroit 20 second timeout
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - Detroit full timeout
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - M. Cleaves enters the game for C. Atkins
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - J. Buechler enters the game for J. Stackhouse
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - B. Wallace enters the game for E. Montross
+  - - '1:32.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - Turnover by B. Wallace (lost ball)
+  - - '1:10.0'
+    - Turnover by A. Croshere (bad pass; steal by M. Cleaves)
+    - ''
+    - 69-70
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 69-72
+    - "+2"
+    - C. Ceballos makes 2-pt shot at rim (assist by M. Cleaves)
+  - - '0:46.2'
+    - R. Miller makes 3-pt shot from 28 ft (assist by T. Best)
+    - "+3"
+    - 72-72
+    - ''
+    - ''
+  - - '0:31.8'
+    - ''
+    - ''
+    - 72-74
+    - "+2"
+    - C. Ceballos makes 2-pt shot at rim (assist by J. Buechler)
+  - - '0:20.8'
+    - Personal foul by C. Ceballos
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '0:20.8'
+    - J. Bender enters the game for R. Miller
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '0:20.8'
+    - A. Croshere makes free throw 1 of 2
+    - "+1"
+    - 73-74
+    - ''
+    - ''
+  - - '0:20.8'
+    - A. Croshere makes free throw 2 of 2
+    - "+1"
+    - 74-74
+    - ''
+    - ''
+  - - '0:03.1'
+    - ''
+    - ''
+    - 74-76
+    - "+2"
+    - B. Wallace makes 2-pt shot at rim (assist by M. Cleaves)
+  - - '0:00.1'
+    - J. Foster misses 3-pt shot from 35 ft
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Defensive rebound by J. Williams
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - J. Buechler misses 3-pt shot from 27 ft
+  - - '11:44.0'
+    - Defensive rebound by J. Foster
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:27.0'
+    - Turnover by T. Best (lost ball; steal by M. Cleaves)
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Personal foul by T. Best
+  - - '11:14.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Turnover by M. Cleaves (bad pass; steal by Z. Tabak)
+  - - '11:07.0'
+    - J. O'Neal misses 2-pt shot from 17 ft
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:06.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:05.0'
+    - J. Foster misses 2-pt shot at rim
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:04.0'
+    - Offensive rebound by J. Bender
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:04.0'
+    - Personal foul by J. Buechler
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:04.0'
+    - S. Perkins enters the game for Z. Tabak
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '11:00.0'
+    - Personal foul by J. Buechler
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '10:49.0'
+    - T. Best misses 2-pt shot from 19 ft
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Defensive rebound by Team
+  - - '10:28.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - C. Ceballos misses 3-pt shot from 24 ft
+  - - '10:26.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '10:16.0'
+    - J. Foster misses 2-pt shot from 18 ft (block by J. Buechler)
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Defensive rebound by J. Williams
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Shooting foul by S. Perkins
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - B. Wallace misses free throw 1 of 2
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - Offensive rebound by Team
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-76
+    - ''
+    - M. Moore enters the game for J. Williams
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-77
+    - "+1"
+    - B. Wallace makes free throw 2 of 2
+  - - '9:54.0'
+    - Turnover by J. Bender (bad pass)
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - M. Cleaves misses 2-pt shot at rim
+  - - '9:46.0'
+    - Defensive rebound by J. Bender
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:44.0'
+    - Turnover by J. Bender (lost ball; steal by M. Moore)
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - J. Buechler misses 3-pt shot from 25 ft
+  - - '9:35.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - Violation by Team (illegal defense)
+  - - '9:27.0'
+    - A. Croshere enters the game for J. Bender
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:16.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '9:08.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - B. Wallace misses 2-pt shot at rim (block by S. Perkins)
+  - - '9:04.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - Offensive rebound by M. Moore
+  - - '9:02.0'
+    - 'Jump ball: M. Moore vs. T. Best'
+  - - '9:02.0'
+    - R. Miller enters the game for J. Foster
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - Turnover by M. Moore (traveling)
+  - - '8:54.0'
+    - Official timeout
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - J. Stackhouse enters the game for J. Buechler
+  - - '8:41.0'
+    - J. O'Neal misses 2-pt shot from 9 ft (block by B. Wallace)
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - Defensive rebound by J. Stackhouse
+  - - '8:31.0'
+    - ''
+    - ''
+    - 74-77
+    - ''
+    - C. Ceballos misses 2-pt shot from 16 ft
+  - - '8:28.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 74-77
+    - ''
+    - ''
+  - - '8:08.0'
+    - T. Best makes 3-pt shot from 28 ft (assist by A. Croshere)
+    - "+3"
+    - 77-77
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 77-79
+    - "+2"
+    - M. Moore makes 2-pt shot at rim (assist by J. Stackhouse)
+  - - '7:29.0'
+    - A. Croshere makes 2-pt shot from 15 ft
+    - "+2"
+    - 79-79
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Turnover by J. Stackhouse (lost ball; steal by R. Miller)
+  - - '6:49.0'
+    - T. Best misses 2-pt shot from 17 ft
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '6:46.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '6:44.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '6:37.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - J. Stackhouse misses 3-pt shot from 27 ft
+  - - '6:35.0'
+    - Defensive rebound by S. Perkins
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '6:33.0'
+    - Personal foul by M. Cleaves
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - C. Atkins enters the game for M. Cleaves
+  - - '6:33.0'
+    - ''
+    - ''
+    - 79-79
+    - ''
+    - M. Curry enters the game for C. Ceballos
+  - - '6:13.0'
+    - R. Miller makes 2-pt shot at rim
+    - "+2"
+    - 81-79
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - Shooting foul by T. Best
+  - - '5:49.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - Detroit full timeout
+  - - '5:49.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - B. Wallace misses free throw 1 of 2
+  - - '5:49.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - Offensive rebound by Team
+  - - '5:49.0'
+    - ''
+    - ''
+    - 81-80
+    - "+1"
+    - B. Wallace makes free throw 2 of 2
+  - - '5:33.0'
+    - S. Perkins misses 3-pt shot from 27 ft
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '5:21.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Offensive foul by M. Moore
+  - - '5:21.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Turnover by M. Moore (foul)
+  - - '5:21.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - J. Williams enters the game for B. Wallace
+  - - '5:21.0'
+    - J. Foster enters the game for S. Perkins
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:03.0'
+    - J. O'Neal misses 2-pt shot from 15 ft
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:01.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:00.0'
+    - J. Foster misses 2-pt shot at rim
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:00.0'
+    - Indiana 20 second timeout
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '4:52.0'
+    - A. Croshere misses 3-pt shot from 28 ft
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Defensive rebound by M. Curry
+  - - '4:50.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Loose ball foul by J. Foster
+  - - '4:41.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - C. Atkins misses 2-pt shot from 20 ft
+  - - '4:38.0'
+    - Defensive rebound by J. Foster
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '4:24.0'
+    - T. Best makes 2-pt shot from 10 ft
+    - "+2"
+    - 83-80
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 83-80
+    - ''
+    - Turnover by J. Stackhouse (traveling)
+  - - '3:59.0'
+    - T. Best makes 2-pt shot from 16 ft
+    - "+2"
+    - 85-80
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - Shooting foul by A. Croshere
+  - - '3:45.0'
+    - ''
+    - ''
+    - 85-81
+    - "+1"
+    - M. Moore makes free throw 1 of 2
+  - - '3:45.0'
+    - S. Perkins enters the game for J. Foster
+    - ''
+    - 85-81
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 85-82
+    - "+1"
+    - M. Moore makes free throw 2 of 2
+  - - '3:32.0'
+    - Personal foul by C. Atkins
+    - ''
+    - 85-82
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - B. Wallace enters the game for M. Moore
+  - - '3:17.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 85-82
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - B. Wallace misses 2-pt shot at rim (block by J. O'Neal)
+  - - '2:55.0'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - Offensive rebound by J. Stackhouse
+  - - '2:52.0'
+    - ''
+    - ''
+    - 85-84
+    - "+2"
+    - J. Stackhouse makes 2-pt shot at rim
+  - - '2:34.0'
+    - T. Best misses 3-pt shot from 27 ft
+    - ''
+    - 85-84
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 85-84
+    - ''
+    - Defensive rebound by B. Wallace
+  - - '2:14.0'
+    - ''
+    - ''
+    - 85-86
+    - "+2"
+    - J. Stackhouse makes 2-pt shot from 15 ft
+  - - '2:06.0'
+    - Indiana full timeout
+    - ''
+    - 85-86
+    - ''
+    - ''
+  - - '1:47.0'
+    - R. Miller makes 2-pt shot at rim (assist by T. Best)
+    - "+2"
+    - 87-86
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - C. Atkins misses 3-pt shot from 28 ft
+  - - '1:22.0'
+    - Defensive rebound by R. Miller
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '1:14.0'
+    - Indiana full timeout
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '1:02.0'
+    - Turnover by T. Best (bad pass)
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '0:44.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - M. Curry misses 2-pt shot from 17 ft
+  - - '0:42.5'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - Offensive rebound by B. Wallace
+  - - '0:29.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - Turnover by J. Stackhouse (bad pass; steal by S. Perkins)
+  - - '0:25.7'
+    - R. Miller makes 2-pt shot at rim (assist by S. Perkins)
+    - "+2"
+    - 89-86
+    - ''
+    - ''
+  - - '0:25.7'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Detroit full timeout
+  - - '0:25.7'
+    - D. McKey enters the game for S. Perkins
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:25.7'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - C. Ceballos enters the game for B. Wallace
+  - - '0:25.7'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - J. Buechler enters the game for M. Curry
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Turnover by J. Stackhouse (bad pass)
+  - - '0:22.2'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - B. Wallace enters the game for C. Ceballos
+  - - '0:21.1'
+    - Personal foul by J. Stackhouse
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:21.1'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 90-86
+    - ''
+    - ''
+  - - '0:21.1'
+    - R. Miller misses free throw 2 of 2
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:21.1'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Defensive rebound by J. Williams
+  - - '0:21.1'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - C. Ceballos enters the game for B. Wallace
+  - - '0:14.5'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Personal foul by T. Best
+  - - '0:14.5'
+    - S. Perkins enters the game for T. Best
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:14.5'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - B. Wallace enters the game for C. Ceballos
+  - - '0:14.5'
+    - ''
+    - ''
+    - 90-87
+    - "+1"
+    - C. Atkins makes free throw 1 of 2
+  - - '0:14.5'
+    - ''
+    - ''
+    - 90-88
+    - "+1"
+    - C. Atkins makes free throw 2 of 2
+  - - '0:14.5'
+    - Indiana full timeout
+    - ''
+    - 90-88
+    - ''
+    - ''
+  - - '0:14.5'
+    - ''
+    - ''
+    - 90-88
+    - ''
+    - M. Cleaves enters the game for J. Buechler
+  - - '0:11.9'
+    - Personal foul by C. Atkins
+    - ''
+    - 90-88
+    - ''
+    - ''
+  - - '0:11.9'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 91-88
+    - ''
+    - ''
+  - - '0:11.9'
+    - T. Edney enters the game for S. Perkins
+    - ''
+    - 91-88
+    - ''
+    - ''
+  - - '0:11.9'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - C. Ceballos enters the game for M. Cleaves
+  - - '0:11.9'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 92-88
+    - ''
+    - ''
+  - - '0:08.9'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - C. Atkins misses 2-pt shot at rim (block by A. Croshere)
+  - - '0:07.9'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - Offensive rebound by B. Wallace
+  - - '0:05.9'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - B. Wallace misses 3-pt shot from 27 ft
+  - - '0:02.0'
+    - Defensive rebound by T. Edney
+    - ''
+    - 92-88
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

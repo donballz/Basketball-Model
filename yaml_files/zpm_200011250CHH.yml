@@ -1,0 +1,204 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -4&#9642;Off: -7&#9642;Net: +3)'
+    - |2-
+
+      +1
+    - 126/+1
+    - 296/
+    - 16/-4
+    - 61/
+    - 29/-2
+    - 147/
+    - 73/+1
+    - 248/
+    - 'Zydrunas Ilgauskas (On: -6&#9642;Off: -5&#9642;Net: -1)'
+    - |2-
+
+      +2
+    - 188/+2
+    - 196/
+    - 100/-4
+    - 16/
+    - 115/-4
+    - 383/
+    - 'Andre Miller (On: +2&#9642;Off: -13&#9642;Net: +15)'
+    - |2-
+
+      +5
+    - 239/+5
+    - 89/
+    - 155/-2
+    - 16/
+    - 249/-3
+    - 237/+2
+    - 12/
+    - 'Lamond Murray (On: -4&#9642;Off: -7&#9642;Net: +3)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 79/
+    - 171/-4
+    - 173/-4
+    - 77/
+    - 248/+2
+    - 'Clarence Weatherspoon (On: -1&#9642;Off: -10&#9642;Net: +9)'
+    - |2-
+
+      +5
+    - 239/+5
+    - 248/
+    - 12/-2
+    - 240/-4
+    - 260/
+    - 'Trajan Langdon (On: -6&#9642;Off: -5&#9642;Net: -1)'
+    - "\n"
+    - 130/
+    - 119/+1
+    - 170/-6
+    - 25/
+    - 54/-2
+    - 33/
+    - 216/-1
+    - 249/+2
+    - 'Chris Gatling (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 189/
+    - 61/0
+    - 250/-12
+    - 245/
+    - 4/+1
+    - 249/+2
+    - 'Michael Hawkins (On: -13&#9642;Off: +2&#9642;Net: -15)'
+    - "\n"
+    - 246/
+    - 3/-3
+    - 73/-8
+    - 164/
+    - 12/-2
+    - 491/
+    - 8/0
+    - 'Robert Traylor (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 247/
+    - 3/-3
+    - 128/-6
+    - 622/
+    - 'Cedric Henderson (On: -8&#9642;Off: -3&#9642;Net: -5)'
+    - "\n"
+    - 250/
+    - 74/-8
+    - 677/
+    - 'Chris Mihm (On: +3&#9642;Off: -14&#9642;Net: +17)'
+    - "\n"
+    - 624/
+    - 127/+1
+    - 250/+2
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 104/
+    - 146/+1
+    - 190/+2
+    - 60/
+    - 248/-2
+    - 'Elden Campbell (On: +7&#9642;Off: +4&#9642;Net: +3)'
+    - |2-
+
+      -2
+    - 188/-2
+    - 62/
+    - 107/+9
+    - 142/
+    - 141/+2
+    - 109/
+    - 248/-2
+    - 'Baron Davis (On: +12&#9642;Off: -1&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 188/-2
+    - 62/
+    - 250/+12
+    - 173/+4
+    - 77/
+    - 248/-2
+    - 'Jamal Mashburn (On: +11&#9642;Off: 0&#9642;Net: +11)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 134/
+    - 115/+6
+    - 250/+3
+    - 56/
+    - 193/+4
+    - 'David Wesley (On: +11&#9642;Off: 0&#9642;Net: +11)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 134/
+    - 115/+6
+    - 250/+3
+    - 56/
+    - 193/+4
+    - 'Jamaal Magloire (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - "\n"
+    - 188/
+    - 61/0
+    - 111/
+    - 138/+3
+    - 141/
+    - 108/+1
+    - 250/
+    - 'Eldridge Recasner (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - "\n"
+    - 188/
+    - 61/0
+    - 128/+6
+    - 298/
+    - 73/-1
+    - 51/-6
+    - 198/
+    - 'Lee Nailon (On: +12&#9642;Off: -1&#9642;Net: +13)'
+    - "\n"
+    - 250/
+    - 100/+11
+    - 344/
+    - 55/+1
+    - 250/
+    - 'Eddie Robinson (On: 0&#9642;Off: +11&#9642;Net: -11)'
+    - "\n"
+    - 250/
+    - 128/+6
+    - 372/
+    - 51/-6
+    - 198/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

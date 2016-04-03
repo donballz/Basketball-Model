@@ -1,0 +1,2742 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. A. Williams (A. Croshere gains possession)'
+  - - '11:53.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - R. Miller misses 2-pt shot from 23 ft
+  - - '11:51.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:37.0'
+    - A. Williams makes 2-pt shot from 9 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - J. Rose makes 2-pt shot from 4 ft (assist by T. Best)
+  - - '11:27.0'
+    - Violation by A. Williams (def goaltending)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:09.0'
+    - K. Gill misses 2-pt shot from 22 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by T. Best
+  - - '10:55.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - A. Croshere misses 2-pt shot from 5 ft
+  - - '10:53.0'
+    - Defensive rebound by L. Harris
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:44.0'
+    - Turnover by K. Martin (bad pass; steal by R. Miller)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by R. Miller (bad pass; steal by K. Gill)
+  - - '10:34.0'
+    - L. Harris makes 2-pt shot from 19 ft
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - J. Rose makes 2-pt shot from 5 ft
+  - - '10:04.0'
+    - Turnover by S. Douglas (bad pass; steal by J. O'Neal)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - J. Rose misses 2-pt shot from 6 ft (block by A. Williams)
+  - - '9:55.0'
+    - Defensive rebound by S. Douglas
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:50.0'
+    - L. Harris makes 2-pt shot from 20 ft (assist by S. Douglas)
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Shooting foul by K. Gill
+  - - '9:42.0'
+    - ''
+    - ''
+    - 6-5
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '9:42.0'
+    - ''
+    - ''
+    - 6-6
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '9:28.0'
+    - K. Gill misses 2-pt shot from 8 ft (block by A. Croshere)
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by R. Miller
+  - - '9:22.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Turnover by T. Best (bad pass; steal by K. Gill)
+  - - '9:18.0'
+    - K. Gill misses 2-pt shot from 4 ft (block by R. Miller)
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by T. Best
+  - - '9:07.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - A. Croshere misses 3-pt shot from 24 ft
+  - - '9:04.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '9:03.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - J. O'Neal misses 2-pt shot from 6 ft
+  - - '9:02.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '8:43.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '8:43.0'
+    - A. Williams makes free throw 1 of 2
+    - "+1"
+    - 7-6
+    - ''
+    - ''
+  - - '8:43.0'
+    - A. Williams makes free throw 2 of 2
+    - "+1"
+    - 8-6
+    - ''
+    - ''
+  - - '8:33.0'
+    - 'Jump ball: J. O''Neal vs. K. Martin (R. Miller gains possession)'
+  - - '8:23.0'
+    - ''
+    - ''
+    - 8-8
+    - "+2"
+    - A. Croshere makes 2-pt shot from 8 ft
+  - - '7:59.0'
+    - S. Douglas misses 2-pt shot from 11 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:53.0'
+    - Turnover by K. Martin (off goaltending)
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - J. Rose makes 2-pt shot from 7 ft (assist by T. Best)
+  - - '7:27.0'
+    - K. Martin misses 2-pt shot from 12 ft
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Defensive rebound by R. Miller
+  - - '7:14.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Turnover by J. O'Neal (discontinued dribble)
+  - - '6:59.0'
+    - K. Martin misses 2-pt shot from 18 ft
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Defensive rebound by R. Miller
+  - - '6:42.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Personal foul by K. Martin
+  - - '6:34.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Turnover by A. Croshere (traveling)
+  - - '6:18.0'
+    - S. Douglas misses 2-pt shot from 22 ft
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Defensive rebound by J. Rose
+  - - '6:10.0'
+    - ''
+    - ''
+    - 8-13
+    - "+3"
+    - R. Miller makes 3-pt shot from 23 ft (assist by T. Best)
+  - - '5:44.0'
+    - A. Williams makes 2-pt shot from 6 ft
+    - "+2"
+    - 10-13
+    - ''
+    - ''
+  - - '5:44.0'
+    - Shooting foul by A. Croshere
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:44.0'
+    - New Jersey full timeout
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:44.0'
+    - A. Williams misses free throw 1 of 1
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '5:36.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Offensive foul by J. Rose
+  - - '5:36.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '5:24.0'
+    - Turnover by K. Gill (traveling)
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - T. Best makes 2-pt shot from 3 ft
+  - - '4:59.0'
+    - K. Gill misses 2-pt shot from 17 ft
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '4:56.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - Defensive rebound by T. Best
+  - - '4:51.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - Turnover by R. Miller (lost ball; steal by K. Gill)
+  - - '4:47.0'
+    - S. Douglas makes 2-pt shot from 1 ft (assist by K. Martin)
+    - "+2"
+    - 12-15
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 12-17
+    - "+2"
+    - A. Croshere makes 2-pt shot from 4 ft (assist by J. Rose)
+  - - '4:06.0'
+    - K. Martin misses 2-pt shot from 20 ft
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '4:02.0'
+    - A. Williams makes 2-pt shot from 1 ft
+    - "+2"
+    - 14-17
+    - ''
+    - ''
+  - - '4:02.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - J. Rose misses 2-pt shot from 4 ft
+  - - '3:45.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '3:37.0'
+    - Offensive foul by A. Williams
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '3:37.0'
+    - Turnover by A. Williams (foul)
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Shooting foul by A. Williams
+  - - '3:27.0'
+    - ''
+    - ''
+    - 14-18
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '3:27.0'
+    - ''
+    - ''
+    - 14-19
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '3:15.0'
+    - A. Williams misses 2-pt shot from 7 ft
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '3:13.0'
+    - K. Martin misses 2-pt shot from 2 ft
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '3:13.0'
+    - Offensive rebound by K. Martin
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 14-19
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '3:13.0'
+    - ''
+    - ''
+    - 14-19
+    - ''
+    - Loose ball foul by K. Martin
+  - - '3:13.0'
+    - J. Newman enters the game for A. Williams
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 14-21
+    - "+2"
+    - J. Rose makes 2-pt shot from 4 ft
+  - - '2:45.0'
+    - ''
+    - ''
+    - 14-21
+    - ''
+    - Violation by Team (illegal defense)
+  - - '2:45.0'
+    - New Jersey full timeout
+    - ''
+    - 14-21
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 14-21
+    - ''
+    - A. Harrington enters the game for A. Croshere
+  - - '2:32.0'
+    - J. Newman misses 2-pt shot from 12 ft
+    - ''
+    - 14-21
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 14-21
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '2:25.0'
+    - ''
+    - ''
+    - 14-23
+    - "+2"
+    - A. Harrington makes 2-pt shot from 1 ft (assist by T. Best)
+  - - '2:03.0'
+    - K. Martin makes 2-pt shot from 2 ft (assist by S. Douglas)
+    - "+2"
+    - 16-23
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - Personal foul by L. Harris
+  - - '1:49.0'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - J. Foster enters the game for T. Best
+  - - '1:49.0'
+    - S. Jackson enters the game for L. Harris
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 16-24
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '1:49.0'
+    - ''
+    - ''
+    - 16-25
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '1:34.0'
+    - S. Douglas misses 2-pt shot from 22 ft
+    - ''
+    - 16-25
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 16-25
+    - ''
+    - Defensive rebound by R. Miller
+  - - '1:16.0'
+    - ''
+    - ''
+    - 16-27
+    - "+2"
+    - J. Rose makes 2-pt shot from 20 ft
+  - - '1:02.0'
+    - S. Jackson makes 2-pt shot from 19 ft (assist by S. Douglas)
+    - "+2"
+    - 18-27
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 18-29
+    - "+2"
+    - R. Miller makes 2-pt shot from 3 ft
+  - - '0:37.2'
+    - Turnover by K. Gill (traveling)
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:25.9'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - Turnover by R. Miller (bad pass; steal by K. Martin)
+  - - '0:20.9'
+    - Turnover by K. Martin (bad pass; steal by J. Foster)
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:16.8'
+    - ''
+    - ''
+    - 18-31
+    - "+2"
+    - J. Rose makes 2-pt shot from 1 ft (assist by J. Foster)
+  - - '0:00.9'
+    - S. Douglas misses 2-pt shot from 13 ft
+    - ''
+    - 18-31
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-31
+    - ''
+    - Defensive rebound by J. Rose
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - J. Newman misses 3-pt shot from 25 ft
+    - ''
+    - 18-31
+    - ''
+    - ''
+  - - '11:38.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 18-31
+    - ''
+    - ''
+  - - '11:29.0'
+    - E. Eschmeyer misses 2-pt shot from 3 ft
+    - ''
+    - 18-31
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 18-31
+    - ''
+    - Defensive rebound by J. Rose
+  - - '11:07.0'
+    - ''
+    - ''
+    - 18-31
+    - ''
+    - J. Rose misses 2-pt shot from 4 ft
+  - - '11:05.0'
+    - Defensive rebound by J. Newman
+    - ''
+    - 18-31
+    - ''
+    - ''
+  - - '10:48.0'
+    - S. Jackson makes 2-pt shot from 6 ft
+    - "+2"
+    - 20-31
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - J. Foster misses 2-pt shot from 17 ft
+  - - '10:23.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '10:11.0'
+    - A. Williams misses 2-pt shot from 7 ft
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Defensive rebound by D. McKey
+  - - '9:49.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Turnover by A. Harrington (bad pass; steal by E. Eschmeyer)
+  - - '9:47.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - T. Best enters the game for J. Rose
+  - - '9:36.0'
+    - K. Ollie misses 2-pt shot from 3 ft
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Defensive rebound by D. McKey
+  - - '9:28.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - J. Foster misses 2-pt shot from 2 ft
+  - - '9:27.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Offensive rebound by J. Foster
+  - - '9:11.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - T. Best misses 2-pt shot from 13 ft
+  - - '9:09.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '9:01.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Turnover by S. Perkins (bad pass; steal by S. Jackson)
+  - - '8:55.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '8:55.0'
+    - Official timeout
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - A. Croshere enters the game for J. Foster
+  - - '8:55.0'
+    - E. Eschmeyer misses free throw 1 of 2
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '8:55.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '8:55.0'
+    - E. Eschmeyer misses free throw 2 of 2
+    - ''
+    - 20-31
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 20-31
+    - ''
+    - Defensive rebound by D. McKey
+  - - '8:34.0'
+    - ''
+    - ''
+    - 20-33
+    - "+2"
+    - T. Best makes 2-pt shot from 16 ft
+  - - '8:15.0'
+    - Turnover by J. Newman (traveling)
+    - ''
+    - 20-33
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 20-35
+    - "+2"
+    - T. Best makes 2-pt shot from 19 ft
+  - - '7:42.0'
+    - A. Williams misses 2-pt shot from 17 ft
+    - ''
+    - 20-35
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 20-35
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '7:28.0'
+    - ''
+    - ''
+    - 20-35
+    - ''
+    - T. Best misses 2-pt shot from 21 ft
+  - - '7:24.0'
+    - Defensive rebound by S. Jackson
+    - ''
+    - 20-35
+    - ''
+    - ''
+  - - '7:10.0'
+    - E. Eschmeyer misses 2-pt shot from 4 ft
+    - ''
+    - 20-35
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 20-35
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '7:04.0'
+    - ''
+    - ''
+    - 20-35
+    - ''
+    - Offensive foul by A. Croshere
+  - - '7:04.0'
+    - ''
+    - ''
+    - 20-35
+    - ''
+    - Turnover by A. Croshere (foul)
+  - - '6:52.0'
+    - S. Jackson makes 2-pt shot from 20 ft (assist by K. Ollie)
+    - "+2"
+    - 22-35
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 22-37
+    - "+2"
+    - T. Best makes 2-pt shot from 13 ft
+  - - '6:14.0'
+    - Turnover by E. Eschmeyer (bad pass)
+    - ''
+    - 22-37
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 22-37
+    - ''
+    - R. Miller enters the game for A. Harrington
+  - - '5:58.0'
+    - ''
+    - ''
+    - 22-37
+    - ''
+    - Personal foul by J. Newman
+  - - '5:58.0'
+    - ''
+    - ''
+    - 22-37
+    - ''
+    - Indiana full timeout
+  - - '5:58.0'
+    - S. Douglas enters the game for J. Newman
+    - ''
+    - 22-37
+    - ''
+    - ''
+  - - '5:58.0'
+    - K. Martin enters the game for E. Eschmeyer
+    - ''
+    - 22-37
+    - ''
+    - ''
+  - - '5:58.0'
+    - S. Samake enters the game for K. Ollie
+    - ''
+    - 22-37
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 22-39
+    - "+2"
+    - R. Miller makes 2-pt shot from 3 ft (assist by T. Best)
+  - - '5:27.0'
+    - S. Jackson misses 3-pt shot from 25 ft
+    - ''
+    - 22-39
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '5:20.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - Personal foul by S. Jackson
+  - - '5:20.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - J. Rose enters the game for D. McKey
+  - - '5:20.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - J. O'Neal enters the game for S. Perkins
+  - - '5:03.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - Shooting foul by S. Samake
+  - - '5:03.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - J. O'Neal misses free throw 1 of 2
+  - - '5:03.0'
+    - ''
+    - ''
+    - 22-39
+    - ''
+    - Offensive rebound by Team
+  - - '5:03.0'
+    - ''
+    - ''
+    - 22-40
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '4:49.0'
+    - K. Martin misses 2-pt shot from 3 ft
+    - ''
+    - 22-40
+    - ''
+    - ''
+  - - '4:47.0'
+    - S. Samake misses 2-pt shot at rim
+    - ''
+    - 22-40
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by S. Samake
+    - ''
+    - 22-40
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 22-40
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '4:40.0'
+    - ''
+    - ''
+    - 22-40
+    - ''
+    - Turnover by J. Rose (bad pass; steal by S. Jackson)
+  - - '4:35.0'
+    - A. Williams makes 2-pt shot from 1 ft (assist by S. Jackson)
+    - "+2"
+    - 24-40
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 24-42
+    - "+2"
+    - A. Croshere makes 2-pt shot from 3 ft
+  - - '3:55.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 24-42
+    - ''
+    - ''
+  - - '3:55.0'
+    - K. Martin makes free throw 1 of 2
+    - "+1"
+    - 25-42
+    - ''
+    - ''
+  - - '3:55.0'
+    - K. Martin misses free throw 2 of 2
+    - ''
+    - 25-42
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 25-42
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '3:54.0'
+    - ''
+    - ''
+    - 25-42
+    - ''
+    - Loose ball foul by S. Samake
+  - - '3:41.0'
+    - ''
+    - ''
+    - 25-44
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 3 ft (assist by R. Miller)
+  - - '3:30.0'
+    - Personal foul by T. Best
+    - ''
+    - 25-44
+    - ''
+    - ''
+  - - '3:26.0'
+    - S. Douglas misses 2-pt shot from 7 ft (block by A. Croshere)
+    - ''
+    - 25-44
+    - ''
+    - ''
+  - - '3:24.0'
+    - Offensive rebound by S. Samake
+    - ''
+    - 25-44
+    - ''
+    - ''
+  - - '3:23.0'
+    - S. Samake makes 2-pt shot from 1 ft
+    - "+2"
+    - 27-44
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 27-44
+    - ''
+    - T. Best misses 2-pt shot from 18 ft
+  - - '3:07.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '2:56.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '2:56.0'
+    - New Jersey full timeout
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 27-44
+    - ''
+    - J. Foster enters the game for J. O'Neal
+  - - '2:56.0'
+    - K. Martin makes free throw 1 of 2
+    - "+1"
+    - 28-44
+    - ''
+    - ''
+  - - '2:56.0'
+    - K. Martin misses free throw 2 of 2
+    - ''
+    - 28-44
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 28-44
+    - ''
+    - Defensive rebound by J. Rose
+  - - '2:40.0'
+    - ''
+    - ''
+    - 28-44
+    - ''
+    - J. Rose misses 2-pt shot from 17 ft
+  - - '2:39.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 28-44
+    - ''
+    - ''
+  - - '2:35.0'
+    - Personal foul by T. Best
+    - ''
+    - 28-44
+    - ''
+    - ''
+  - - '2:35.0'
+    - S. Jackson makes free throw 1 of 2
+    - "+1"
+    - 29-44
+    - ''
+    - ''
+  - - '2:35.0'
+    - S. Jackson misses free throw 2 of 2
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '2:34.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '2:20.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - R. Miller misses 2-pt shot from 2 ft
+  - - '2:19.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Offensive rebound by J. Foster
+  - - '2:14.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Indiana 20 second timeout
+  - - '2:00.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - A. Croshere misses 2-pt shot from 5 ft
+  - - '2:00.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Double personal foul by J. Foster and S. Samake
+  - - '2:00.0'
+    - 'Jump ball: J. Foster vs. S. Samake (A. Williams gains possession)'
+  - - '2:00.0'
+    - Defensive rebound by Team
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '1:42.0'
+    - Turnover by S. Jackson (bad pass; steal by A. Croshere)
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 29-46
+    - "+2"
+    - R. Miller makes 2-pt shot from 4 ft (assist by J. Rose)
+  - - '1:12.0'
+    - S. Douglas makes 3-pt shot from 25 ft (assist by K. Martin)
+    - "+3"
+    - 32-46
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 32-48
+    - "+2"
+    - J. Rose makes 2-pt shot from 7 ft (assist by T. Best)
+  - - '0:33.9'
+    - Flagrant foul type 1 by J. Foster
+    - ''
+    - 32-48
+    - ''
+    - ''
+  - - '0:33.9'
+    - A. Williams makes free throw flagrant 2 of 2
+    - "+1"
+    - 33-48
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 33-48
+    - ''
+    - J. Bender enters the game for A. Croshere
+  - - '0:33.9'
+    - A. Williams makes no shot
+    - "+1"
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - Personal foul by T. Best
+    - ''
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - A. Williams misses free throw 1 of 2
+    - ''
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - Offensive rebound by Team
+    - ''
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - New Jersey 20 second timeout
+    - ''
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - K. Gill enters the game for S. Samake
+    - ''
+    - 34-48
+    - ''
+    - ''
+  - - '0:18.2'
+    - A. Williams makes free throw 2 of 2
+    - "+1"
+    - 35-48
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - T. Best misses 2-pt shot from 4 ft
+  - - '0:00.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:37.0'
+    - A. Williams misses 2-pt shot from 3 ft
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '11:35.0'
+    - Offensive rebound by K. Martin
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '11:31.0'
+    - S. Douglas makes 2-pt shot from 19 ft (assist by K. Martin)
+    - "+2"
+    - 37-48
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 37-50
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 1 ft (assist by J. Rose)
+  - - '10:51.0'
+    - Personal foul by R. Miller
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '10:46.0'
+    - K. Martin misses 2-pt shot from 1 ft (block by A. Croshere)
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 37-50
+    - ''
+    - Defensive rebound by J. Rose
+  - - '10:38.0'
+    - ''
+    - ''
+    - 37-52
+    - "+2"
+    - T. Best makes 2-pt shot from 17 ft (assist by R. Miller)
+  - - '10:13.0'
+    - K. Martin misses 2-pt shot from 15 ft
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '10:11.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '10:09.0'
+    - L. Harris makes 2-pt shot from 2 ft (assist by A. Williams)
+    - "+2"
+    - 39-52
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 39-54
+    - "+2"
+    - J. Rose makes 2-pt shot from 14 ft (assist by T. Best)
+  - - '9:37.0'
+    - K. Martin misses 2-pt shot from 9 ft
+    - ''
+    - 39-54
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 39-54
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '9:25.0'
+    - ''
+    - ''
+    - 39-54
+    - ''
+    - Shooting foul by A. Williams
+  - - '9:25.0'
+    - ''
+    - ''
+    - 39-55
+    - "+1"
+    - A. Croshere makes free throw 1 of 2
+  - - '9:25.0'
+    - ''
+    - ''
+    - 39-55
+    - ''
+    - A. Croshere misses free throw 2 of 2
+  - - '9:23.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 39-55
+    - ''
+    - ''
+  - - '9:07.0'
+    - S. Douglas misses 2-pt shot from 18 ft (block by A. Croshere)
+    - ''
+    - 39-55
+    - ''
+    - ''
+  - - '9:05.0'
+    - Offensive rebound by K. Gill
+    - ''
+    - 39-55
+    - ''
+    - ''
+  - - '9:03.0'
+    - K. Gill misses 2-pt shot from 15 ft
+    - ''
+    - 39-55
+    - ''
+    - ''
+  - - '9:02.0'
+    - A. Williams makes 2-pt shot from 2 ft
+    - "+2"
+    - 41-55
+    - ''
+    - ''
+  - - '9:02.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - A. Croshere misses 2-pt shot from 22 ft
+  - - '8:45.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '8:33.0'
+    - K. Martin makes 2-pt shot from 11 ft (assist by A. Williams)
+    - "+2"
+    - 43-55
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 43-55
+    - ''
+    - Personal foul by L. Harris
+  - - '8:17.0'
+    - ''
+    - ''
+    - 43-55
+    - ''
+    - R. Miller misses 2-pt shot from 12 ft
+  - - '8:16.0'
+    - Defensive rebound by S. Douglas
+    - ''
+    - 43-55
+    - ''
+    - ''
+  - - '8:06.0'
+    - K. Gill misses 2-pt shot from 13 ft
+    - ''
+    - 43-55
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 43-55
+    - ''
+    - Defensive rebound by R. Miller
+  - - '7:59.0'
+    - ''
+    - ''
+    - 43-57
+    - "+2"
+    - R. Miller makes 2-pt shot from 6 ft
+  - - '7:59.0'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - Shooting foul by K. Gill
+  - - '7:59.0'
+    - ''
+    - ''
+    - 43-58
+    - "+1"
+    - R. Miller makes free throw 1 of 1
+  - - '7:42.0'
+    - K. Martin misses 2-pt shot from 10 ft
+    - ''
+    - 43-58
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 43-58
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '7:29.0'
+    - ''
+    - ''
+    - 43-58
+    - ''
+    - J. O'Neal misses 2-pt shot from 5 ft
+  - - '7:27.0'
+    - Defensive rebound by L. Harris
+    - ''
+    - 43-58
+    - ''
+    - ''
+  - - '7:22.0'
+    - L. Harris makes 2-pt shot from 19 ft
+    - "+2"
+    - 45-58
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - A. Croshere misses 2-pt shot from 19 ft
+  - - '7:02.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '6:42.0'
+    - L. Harris misses 2-pt shot from 15 ft (block by J. Rose)
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - Defensive rebound by R. Miller
+  - - '6:37.0'
+    - ''
+    - ''
+    - 45-60
+    - "+2"
+    - T. Best makes 2-pt shot from 3 ft (assist by R. Miller)
+  - - '6:15.0'
+    - S. Douglas makes 2-pt shot from 4 ft
+    - "+2"
+    - 47-60
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - A. Croshere misses 2-pt shot from 1 ft
+  - - '5:59.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '5:57.0'
+    - ''
+    - ''
+    - 47-60
+    - ''
+    - J. O'Neal misses 2-pt shot from 1 ft
+  - - '5:55.0'
+    - ''
+    - ''
+    - 47-62
+    - "+2"
+    - A. Croshere makes 2-pt shot from 1 ft
+  - - '5:55.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Offensive rebound by A. Croshere
+  - - '5:36.0'
+    - K. Gill misses 3-pt shot from 24 ft
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '5:26.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - J. Rose misses 2-pt shot from 3 ft
+  - - '5:25.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Offensive rebound by Team
+  - - '5:25.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Indiana full timeout
+  - - '5:25.0'
+    - S. Jackson enters the game for K. Gill
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - T. Best misses 2-pt shot from 21 ft
+  - - '5:15.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '4:56.0'
+    - S. Douglas misses 2-pt shot from 17 ft
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '4:44.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - R. Miller misses 3-pt shot from 24 ft
+  - - '4:42.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '4:28.0'
+    - K. Martin misses 2-pt shot from 15 ft
+    - ''
+    - 47-62
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 47-62
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:08.0'
+    - ''
+    - ''
+    - 47-65
+    - "+3"
+    - J. Rose makes 3-pt shot from 24 ft (assist by R. Miller)
+  - - '3:55.0'
+    - L. Harris misses 2-pt shot from 20 ft
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '3:51.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Turnover by A. Croshere (bad pass)
+  - - '3:29.0'
+    - K. Martin misses 2-pt shot from 6 ft
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Defensive rebound by J. Rose
+  - - '3:20.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Turnover by A. Croshere (traveling)
+  - - '3:20.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - J. Bender enters the game for T. Best
+  - - '3:01.0'
+    - L. Harris misses 2-pt shot from 5 ft (block by J. O'Neal)
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Defensive rebound by J. Rose
+  - - '2:56.0'
+    - ''
+    - ''
+    - 47-65
+    - ''
+    - Turnover by J. Rose (bad pass)
+  - - '2:56.0'
+    - New Jersey full timeout
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '2:39.0'
+    - A. Williams misses 2-pt shot from 5 ft
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '2:36.0'
+    - Offensive rebound by S. Douglas
+    - ''
+    - 47-65
+    - ''
+    - ''
+  - - '2:28.0'
+    - S. Jackson makes 3-pt shot from 25 ft (assist by A. Williams)
+    - "+3"
+    - 50-65
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Shooting foul by A. Williams
+  - - '2:08.0'
+    - ''
+    - ''
+    - 50-66
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '2:08.0'
+    - ''
+    - ''
+    - 50-67
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '1:57.0'
+    - K. Martin misses 2-pt shot from 5 ft
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 50-67
+    - ''
+    - Defensive rebound by J. Bender
+  - - '1:44.0'
+    - ''
+    - ''
+    - 50-67
+    - ''
+    - Turnover by J. O'Neal (traveling)
+  - - '1:26.0'
+    - A. Williams misses 2-pt shot from 3 ft (block by A. Croshere)
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '1:25.0'
+    - Offensive rebound by A. Williams
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '1:20.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '1:20.0'
+    - J. Newman enters the game for A. Williams
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 50-69
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by R. Miller)
+  - - '0:55.9'
+    - S. Jackson makes 2-pt shot from 1 ft
+    - "+2"
+    - 52-69
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 52-69
+    - ''
+    - Turnover by J. Rose (bad pass; steal by S. Jackson)
+  - - '0:42.9'
+    - S. Douglas misses 2-pt shot from 3 ft (block by J. Bender)
+    - ''
+    - 52-69
+    - ''
+    - ''
+  - - '0:40.6'
+    - Offensive rebound by S. Douglas
+    - ''
+    - 52-69
+    - ''
+    - ''
+  - - '0:39.0'
+    - Turnover by S. Douglas (double dribble)
+    - ''
+    - 52-69
+    - ''
+    - ''
+  - - '0:24.6'
+    - ''
+    - ''
+    - 52-69
+    - ''
+    - Personal foul by K. Martin
+  - - '0:24.6'
+    - ''
+    - ''
+    - 52-70
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '0:24.6'
+    - ''
+    - ''
+    - 52-70
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '0:23.9'
+    - Defensive rebound by K. Martin
+    - ''
+    - 52-70
+    - ''
+    - ''
+  - - '0:05.9'
+    - Turnover by S. Jackson (lost ball; steal by R. Miller)
+    - ''
+    - 52-70
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 52-70
+    - ''
+    - R. Miller misses 2-pt shot from 16 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 52-70
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:49.0'
+    - ''
+    - ''
+    - 52-70
+    - ''
+    - Shooting foul by S. Jackson
+  - - '11:49.0'
+    - ''
+    - ''
+    - 52-71
+    - "+1"
+    - J. Bender makes free throw 1 of 2
+  - - '11:49.0'
+    - ''
+    - ''
+    - 52-72
+    - "+1"
+    - J. Bender makes free throw 2 of 2
+  - - '11:30.0'
+    - K. Gill misses 2-pt shot from 18 ft
+    - ''
+    - 52-72
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 52-72
+    - ''
+    - Defensive rebound by T. Best
+  - - '11:17.0'
+    - ''
+    - ''
+    - 52-72
+    - ''
+    - J. O'Neal misses 2-pt shot from 5 ft
+  - - '11:15.0'
+    - Defensive rebound by Team
+    - ''
+    - 52-72
+    - ''
+    - ''
+  - - '10:59.0'
+    - S. Samake misses 2-pt shot from 3 ft
+    - ''
+    - 52-72
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 52-72
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '10:50.0'
+    - ''
+    - ''
+    - 52-75
+    - "+3"
+    - J. Bender makes 3-pt shot from 24 ft (assist by T. Best)
+  - - '10:34.0'
+    - J. Newman misses 2-pt shot from 3 ft (block by J. O'Neal)
+    - ''
+    - 52-75
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '10:27.0'
+    - ''
+    - ''
+    - 52-77
+    - "+2"
+    - T. Best makes 2-pt shot from 10 ft
+  - - '10:15.0'
+    - S. Jackson misses 2-pt shot from 18 ft
+    - ''
+    - 52-77
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '10:08.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - J. Bender misses 2-pt shot from 2 ft (block by S. Samake)
+  - - '10:06.0'
+    - Defensive rebound by S. Jackson
+    - ''
+    - 52-77
+    - ''
+    - ''
+  - - '9:49.0'
+    - Turnover by S. Jackson (lost ball; steal by T. Best)
+    - ''
+    - 52-77
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - Personal foul by K. Ollie
+  - - '9:45.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - Z. Tabak enters the game for J. O'Neal
+  - - '9:45.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - J. Foster enters the game for A. Croshere
+  - - '9:34.0'
+    - ''
+    - ''
+    - 52-77
+    - ''
+    - Turnover by J. Bender (traveling)
+  - - '9:18.0'
+    - Flagrant foul type 1 by Z. Tabak
+    - ''
+    - 52-77
+    - ''
+    - ''
+  - - '9:18.0'
+    - New Jersey full timeout
+    - ''
+    - 52-77
+    - ''
+    - ''
+  - - '9:18.0'
+    - J. Newman makes free throw flagrant 2 of 2
+    - "+1"
+    - 53-77
+    - ''
+    - ''
+  - - '9:18.0'
+    - J. Newman makes no shot
+    - "+1"
+    - 54-77
+    - ''
+    - ''
+  - - '9:18.0'
+    - J. McIlvaine enters the game for J. Newman
+    - ''
+    - 54-77
+    - ''
+    - ''
+  - - '9:08.0'
+    - Shooting foul by T. Best
+    - ''
+    - 54-77
+    - ''
+    - ''
+  - - '9:08.0'
+    - K. Gill makes free throw 1 of 2
+    - "+1"
+    - 55-77
+    - ''
+    - ''
+  - - '9:08.0'
+    - K. Gill makes free throw 2 of 2
+    - "+1"
+    - 56-77
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 56-77
+    - ''
+    - A. Harrington misses 2-pt shot from 10 ft
+  - - '8:49.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 56-77
+    - ''
+    - ''
+  - - '8:36.0'
+    - K. Gill misses 2-pt shot from 15 ft
+    - ''
+    - 56-77
+    - ''
+    - ''
+  - - '8:34.0'
+    - ''
+    - ''
+    - 56-77
+    - ''
+    - Defensive rebound by J. Bender
+  - - '8:30.0'
+    - ''
+    - ''
+    - 56-79
+    - "+2"
+    - A. Harrington makes 2-pt shot from 2 ft (assist by J. Bender)
+  - - '8:14.0'
+    - Shooting foul by J. Bender
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:14.0'
+    - K. Ollie misses free throw 1 of 2
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:14.0'
+    - Offensive rebound by Team
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:14.0'
+    - K. Martin enters the game for K. Gill
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:14.0'
+    - K. Ollie misses free throw 2 of 2
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:14.0'
+    - Offensive rebound by S. Jackson
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:09.0'
+    - S. Jackson misses 3-pt shot from 25 ft
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:07.0'
+    - Offensive rebound by J. McIlvaine
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:05.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 56-79
+    - ''
+    - ''
+  - - '8:05.0'
+    - K. Ollie makes free throw 1 of 2
+    - "+1"
+    - 57-79
+    - ''
+    - ''
+  - - '8:05.0'
+    - K. Ollie makes free throw 2 of 2
+    - "+1"
+    - 58-79
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - T. Best misses 2-pt shot from 3 ft (block by J. McIlvaine)
+  - - '7:49.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Offensive rebound by Team
+  - - '7:41.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - A. Harrington misses 2-pt shot from 19 ft
+  - - '7:40.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Offensive rebound by J. Foster
+  - - '7:40.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Loose ball foul by S. Samake
+  - - '7:27.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Personal foul by K. Ollie
+  - - '7:20.0'
+    - 'Jump ball: J. Foster vs. S. Jackson (A. Harrington gains possession)'
+  - - '7:10.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - T. Best misses 3-pt shot from 25 ft
+  - - '7:07.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '6:52.0'
+    - Turnover by K. Martin (bad pass; steal by T. Best)
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 58-81
+    - "+2"
+    - A. Harrington makes 2-pt shot from 9 ft (assist by T. Best)
+  - - '6:27.0'
+    - J. McIlvaine misses 2-pt shot from 5 ft
+    - ''
+    - 58-81
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 58-81
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '6:17.0'
+    - ''
+    - ''
+    - 58-81
+    - ''
+    - J. Bender misses 2-pt shot from 16 ft
+  - - '6:16.0'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 58-81
+    - ''
+    - ''
+  - - '6:16.0'
+    - Loose ball foul by Z. Tabak
+    - ''
+    - 58-81
+    - ''
+    - ''
+  - - '6:16.0'
+    - J. McIlvaine misses free throw 1 of 2
+    - ''
+    - 58-81
+    - ''
+    - ''
+  - - '6:16.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-81
+    - ''
+    - ''
+  - - '6:16.0'
+    - J. McIlvaine makes free throw 2 of 2
+    - "+1"
+    - 59-81
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - A. Harrington misses 2-pt shot from 7 ft
+  - - '5:58.0'
+    - Defensive rebound by K. Martin
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:53.0'
+    - S. Jackson misses 2-pt shot from 17 ft
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '5:46.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - Turnover by A. Harrington (discontinued dribble)
+  - - '5:46.0'
+    - Official timeout
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:33.0'
+    - S. Jackson misses 3-pt shot from 25 ft
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - Offensive rebound by S. Samake
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - Loose ball foul by J. Foster
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - S. Samake misses free throw 1 of 2
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - S. Samake misses free throw 2 of 2
+    - ''
+    - 59-81
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - Defensive rebound by J. Bender
+  - - '5:21.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - J. Bender misses 2-pt shot from 22 ft
+  - - '5:19.0'
+    - ''
+    - ''
+    - 59-81
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '5:09.0'
+    - ''
+    - ''
+    - 59-83
+    - "+2"
+    - A. Harrington makes 2-pt shot from 19 ft (assist by T. Best)
+  - - '4:44.0'
+    - K. Martin makes 2-pt shot from 2 ft (assist by S. Jackson)
+    - "+2"
+    - 61-83
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - Turnover by J. Foster (bad pass; steal by K. Martin)
+  - - '4:18.0'
+    - E. Eschmeyer enters the game for K. Martin
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '4:13.0'
+    - S. Jackson misses 2-pt shot from 21 ft
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '4:11.0'
+    - Offensive rebound by S. Jackson
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '4:05.0'
+    - E. Eschmeyer misses 2-pt shot from 5 ft
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - Defensive rebound by Team
+  - - '4:04.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - Loose ball foul by S. Samake
+  - - '4:04.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - J. Bender misses free throw 1 of 2
+  - - '4:04.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - Offensive rebound by Team
+  - - '4:04.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - J. Bender misses free throw 2 of 2
+  - - '4:04.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '3:52.0'
+    - K. Ollie misses 2-pt shot from 2 ft
+    - ''
+    - 61-83
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 61-83
+    - ''
+    - Defensive rebound by J. Foster
+  - - '3:37.0'
+    - ''
+    - ''
+    - 61-85
+    - "+2"
+    - A. Harrington makes 2-pt shot at rim (assist by Z. Tabak)
+  - - '3:24.0'
+    - Personal foul by T. Best
+    - ''
+    - 61-85
+    - ''
+    - ''
+  - - '3:24.0'
+    - S. Jackson makes free throw 1 of 2
+    - "+1"
+    - 62-85
+    - ''
+    - ''
+  - - '3:24.0'
+    - S. Jackson makes free throw 2 of 2
+    - "+1"
+    - 63-85
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 63-85
+    - ''
+    - J. Bender misses 3-pt shot from 25 ft
+  - - '3:12.0'
+    - Defensive rebound by S. Samake
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '3:02.0'
+    - S. Jackson misses 2-pt shot from 17 ft
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - Offensive rebound by E. Eschmeyer
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - Shooting foul by J. Foster
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - New Jersey full timeout
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - E. Eschmeyer misses free throw 1 of 2
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - E. Eschmeyer misses free throw 2 of 2
+    - ''
+    - 63-85
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 63-85
+    - ''
+    - Defensive rebound by Team
+  - - '2:44.0'
+    - ''
+    - ''
+    - 63-85
+    - ''
+    - Shooting foul by E. Eschmeyer
+  - - '2:44.0'
+    - ''
+    - ''
+    - 63-86
+    - "+1"
+    - A. Harrington makes free throw 1 of 2
+  - - '2:44.0'
+    - ''
+    - ''
+    - 63-87
+    - "+1"
+    - A. Harrington makes free throw 2 of 2
+  - - '2:33.0'
+    - Turnover by K. Ollie (bad pass; steal by T. Best)
+    - ''
+    - 63-87
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-87
+    - ''
+    - Shooting foul by K. Ollie
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-87
+    - ''
+    - A. Harrington misses free throw 1 of 2
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-87
+    - ''
+    - Offensive rebound by Team
+  - - '2:29.0'
+    - ''
+    - ''
+    - 63-88
+    - "+1"
+    - A. Harrington makes free throw 2 of 2
+  - - '2:11.0'
+    - E. Eschmeyer misses 2-pt shot from 4 ft
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 63-88
+    - ''
+    - Defensive rebound by J. Foster
+  - - '2:07.0'
+    - Violation by S. Jackson (kicked ball)
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 63-88
+    - ''
+    - Z. Tabak misses 2-pt shot from 5 ft
+  - - '1:50.0'
+    - Defensive rebound by S. Samake
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '1:50.0'
+    - Loose ball foul by J. Foster
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '1:50.0'
+    - S. Samake misses free throw 1 of 2
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '1:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-88
+    - ''
+    - ''
+  - - '1:50.0'
+    - S. Samake makes free throw 2 of 2
+    - "+1"
+    - 64-88
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Turnover by A. Harrington (discontinued dribble)
+  - - '1:27.0'
+    - S. Samake misses 2-pt shot from 5 ft
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '1:06.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - J. Bender misses 2-pt shot from 5 ft (block by J. McIlvaine)
+  - - '1:06.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Offensive rebound by Team
+  - - '1:03.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Z. Tabak misses 2-pt shot from 4 ft (block by E. Eschmeyer)
+  - - '1:01.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '1:00.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:47.9'
+    - S. Samake misses 2-pt shot from 8 ft
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '0:46.6'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '0:32.9'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - J. Bender misses 2-pt shot from 16 ft
+  - - '0:31.3'
+    - Defensive rebound by J. McIlvaine
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '0:24.9'
+    - S. Jackson misses 2-pt shot from 2 ft
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '0:22.9'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:00.0'
+    - End of 4th quarter

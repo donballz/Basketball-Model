@@ -1,0 +1,2862 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: O. Polynice vs. M. Jackson (K. Malone gains possession)'
+  - - '11:55.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by K. Malone (bad pass; steal by C. Porter)
+  - - '11:41.0'
+    - B. Sura makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - O. Polynice makes 2-pt shot at rim (assist by J. Stockton)
+  - - '11:09.0'
+    - Turnover by B. Sura (bad pass; steal by B. Russell)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Stockton)
+  - - '10:41.0'
+    - M. Jackson makes 2-pt shot at rim (assist by L. Hughes)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - J. Starks makes 2-pt shot from 23 ft (assist by J. Stockton)
+  - - '10:05.0'
+    - M. Jackson misses 2-pt shot from 18 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by K. Malone
+  - - '9:59.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Shooting foul by M. Jackson
+  - - '9:59.0'
+    - ''
+    - ''
+    - 4-7
+    - "+1"
+    - B. Russell makes free throw 1 of 2
+  - - '9:59.0'
+    - ''
+    - ''
+    - 4-8
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '9:50.0'
+    - M. Jackson makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 6-10
+    - "+2"
+    - B. Russell makes 2-pt shot at rim
+  - - '9:35.0'
+    - ''
+    - ''
+    - 6-10
+    - ''
+    - Shooting foul by C. Porter
+  - - '9:35.0'
+    - ''
+    - ''
+    - 6-11
+    - "+1"
+    - B. Russell makes free throw 1 of 1
+  - - '9:25.0'
+    - L. Hughes misses 2-pt shot from 22 ft
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '9:22.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '9:22.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 8-11
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 8-11
+    - ''
+    - Violation by O. Polynice (def goaltending)
+  - - '9:03.0'
+    - ''
+    - ''
+    - 8-11
+    - ''
+    - J. Stockton misses 2-pt shot at rim
+  - - '9:00.0'
+    - ''
+    - ''
+    - 8-13
+    - "+2"
+    - O. Polynice makes 2-pt shot at rim
+  - - '9:00.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - Offensive rebound by O. Polynice
+  - - '8:48.0'
+    - A. Jamison misses 2-pt shot at rim (block by K. Malone)
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '8:46.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '8:44.0'
+    - C. Porter misses 2-pt shot at rim
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '8:43.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '8:36.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - Turnover by O. Polynice (lost ball)
+  - - '8:30.0'
+    - Shooting foul by B. Russell
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '8:30.0'
+    - L. Hughes makes free throw 1 of 2
+    - "+1"
+    - 9-13
+    - ''
+    - ''
+  - - '8:30.0'
+    - L. Hughes misses free throw 2 of 2
+    - ''
+    - 9-13
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 9-13
+    - ''
+    - Defensive rebound by K. Malone
+  - - '8:12.0'
+    - ''
+    - ''
+    - 9-13
+    - ''
+    - Turnover by K. Malone (bad pass; steal by L. Hughes)
+  - - '8:02.0'
+    - B. Sura misses 3-pt shot from 25 ft
+    - ''
+    - 9-13
+    - ''
+    - ''
+  - - '7:59.0'
+    - M. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 11-13
+    - ''
+    - ''
+  - - '7:59.0'
+    - Offensive rebound by M. Jackson
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 11-15
+    - "+2"
+    - J. Starks makes 2-pt shot from 19 ft (assist by K. Malone)
+  - - '7:30.0'
+    - M. Jackson makes 2-pt shot from 3 ft
+    - "+2"
+    - 13-15
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 13-15
+    - ''
+    - Offensive foul by J. Starks
+  - - '7:13.0'
+    - ''
+    - ''
+    - 13-15
+    - ''
+    - Turnover by J. Starks (foul)
+  - - '7:00.0'
+    - L. Hughes misses 2-pt shot at rim (block by O. Polynice)
+    - ''
+    - 13-15
+    - ''
+    - ''
+  - - '7:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 13-15
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 13-15
+    - ''
+    - Violation by J. Stockton (illegal defense)
+  - - '6:51.0'
+    - L. Hughes makes 2-pt shot from 22 ft (assist by B. Sura)
+    - "+2"
+    - 15-15
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 15-15
+    - ''
+    - J. Starks misses 3-pt shot from 24 ft
+  - - '6:29.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 15-15
+    - ''
+    - ''
+  - - '6:26.0'
+    - A. Jamison makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - Turnover by O. Polynice (bad pass; steal by C. Porter)
+  - - '6:09.0'
+    - C. Porter makes 2-pt shot at rim
+    - "+2"
+    - 19-15
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 19-17
+    - "+2"
+    - J. Stockton makes 2-pt shot at rim
+  - - '5:45.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Shooting foul by A. Jamison
+  - - '5:45.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Utah full timeout
+  - - '5:45.0'
+    - ''
+    - ''
+    - 19-18
+    - "+1"
+    - J. Stockton makes free throw 1 of 1
+  - - '5:36.0'
+    - C. Porter makes 2-pt shot from 6 ft
+    - "+2"
+    - 21-18
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - O. Polynice misses 2-pt shot at rim
+  - - '5:20.0'
+    - ''
+    - ''
+    - 21-20
+    - "+2"
+    - O. Polynice makes 2-pt shot at rim
+  - - '5:20.0'
+    - ''
+    - ''
+    - 21-20
+    - ''
+    - Offensive rebound by O. Polynice
+  - - '5:12.0'
+    - A. Jamison makes 3-pt shot from 24 ft (assist by B. Sura)
+    - "+3"
+    - 24-20
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 24-22
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by B. Russell)
+  - - '4:38.0'
+    - Personal foul by J. Stockton
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - J. Vaughn enters the game for J. Stockton
+  - - '4:32.0'
+    - C. Porter misses 2-pt shot from 20 ft
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Defensive rebound by B. Russell
+  - - '4:14.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Personal foul by C. Porter
+  - - '4:07.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Shooting foul by L. Hughes
+  - - '4:07.0'
+    - ''
+    - ''
+    - 24-23
+    - "+1"
+    - J. Starks makes free throw 1 of 2
+  - - '4:07.0'
+    - ''
+    - ''
+    - 24-24
+    - "+1"
+    - J. Starks makes free throw 2 of 2
+  - - '3:55.0'
+    - Personal foul by J. Vaughn
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '3:53.0'
+    - Turnover by B. Sura (bad pass; steal by J. Vaughn)
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 24-26
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Vaughn)
+  - - '3:41.0'
+    - Personal foul by O. Polynice
+    - ''
+    - 24-26
+    - ''
+    - ''
+  - - '3:38.0'
+    - A. Jamison misses 3-pt shot from 24 ft
+    - ''
+    - 24-26
+    - ''
+    - ''
+  - - '3:35.0'
+    - Offensive rebound by B. Sura
+    - ''
+    - 24-26
+    - ''
+    - ''
+  - - '3:33.0'
+    - B. Sura makes 2-pt shot from 19 ft
+    - "+2"
+    - 26-26
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 26-26
+    - ''
+    - B. Russell misses 2-pt shot from 18 ft
+  - - '3:11.0'
+    - Defensive rebound by L. Hughes
+    - ''
+    - 26-26
+    - ''
+    - ''
+  - - '3:07.0'
+    - A. Jamison makes 2-pt shot from 21 ft (assist by L. Hughes)
+    - "+2"
+    - 28-26
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Utah full timeout
+  - - '2:52.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Turnover by B. Russell (bad pass; steal by C. Porter)
+  - - '2:33.0'
+    - M. Jackson misses 2-pt shot from 11 ft
+    - ''
+    - 28-26
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Defensive rebound by K. Malone
+  - - '2:29.0'
+    - ''
+    - ''
+    - 28-26
+    - ''
+    - Personal foul by C. Porter
+  - - '2:29.0'
+    - ''
+    - ''
+    - 28-27
+    - "+1"
+    - B. Russell makes free throw 1 of 2
+  - - '2:29.0'
+    - A. Keefe enters the game for C. Porter
+    - ''
+    - 28-27
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 28-28
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '2:19.0'
+    - Turnover by B. Sura (lost ball; steal by K. Malone)
+    - ''
+    - 28-28
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 28-28
+    - ''
+    - Personal foul by A. Keefe
+  - - '2:17.0'
+    - ''
+    - ''
+    - 28-28
+    - ''
+    - J. Vaughn misses free throw 1 of 2
+  - - '2:17.0'
+    - ''
+    - ''
+    - 28-28
+    - ''
+    - Offensive rebound by Team
+  - - '2:17.0'
+    - M. Blaylock enters the game for B. Sura
+    - ''
+    - 28-28
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 28-29
+    - "+1"
+    - J. Vaughn makes free throw 2 of 2
+  - - '1:59.0'
+    - M. Blaylock makes 3-pt shot from 23 ft (assist by A. Jamison)
+    - "+3"
+    - 31-29
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - J. Starks misses 3-pt shot from 25 ft
+  - - '1:36.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Offensive rebound by O. Polynice
+  - - '1:20.0'
+    - ''
+    - ''
+    - 31-31
+    - "+2"
+    - J. Vaughn makes 2-pt shot from 20 ft
+  - - '1:02.0'
+    - Shooting foul by J. Starks
+    - ''
+    - 31-31
+    - ''
+    - ''
+  - - '1:02.0'
+    - M. Jackson makes free throw 1 of 2
+    - "+1"
+    - 32-31
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - Q. Lewis enters the game for J. Starks
+  - - '1:02.0'
+    - M. Jackson makes free throw 2 of 2
+    - "+1"
+    - 33-31
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - J. Vaughn misses 2-pt shot at rim (block by A. Keefe)
+  - - '0:37.9'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Offensive rebound by Team
+  - - '0:37.4'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - K. Malone misses 2-pt shot from 19 ft
+  - - '0:37.4'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Offensive rebound by Team
+  - - '0:37.4'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:32.9'
+    - M. Blaylock makes 3-pt shot from 25 ft
+    - "+3"
+    - 36-31
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 36-31
+    - ''
+    - Q. Lewis misses 2-pt shot from 11 ft
+  - - '0:16.9'
+    - Defensive rebound by L. Hughes
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '0:03.9'
+    - Turnover by L. Hughes (lost ball; steal by J. Vaughn)
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 36-31
+    - ''
+    - Q. Lewis misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 36-31
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - A. Jamison misses 2-pt shot from 7 ft
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '11:39.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '11:37.0'
+    - A. Jamison misses 2-pt shot from 14 ft
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '11:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '11:36.0'
+    - Inbound foul by Q. Lewis
+    - ''
+    - 36-31
+    - ''
+    - ''
+  - - '11:36.0'
+    - L. Hughes makes free throw 1 of 2
+    - "+1"
+    - 37-31
+    - ''
+    - ''
+  - - '11:36.0'
+    - L. Hughes makes free throw 2 of 2
+    - "+1"
+    - 38-31
+    - ''
+    - ''
+  - - '11:29.0'
+    - Violation by A. Keefe (kicked ball)
+    - ''
+    - 38-31
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 38-31
+    - ''
+    - G. Ostertag misses 2-pt shot at rim
+  - - '11:18.0'
+    - ''
+    - ''
+    - 38-31
+    - ''
+    - Offensive rebound by Q. Lewis
+  - - '11:02.0'
+    - ''
+    - ''
+    - 38-31
+    - ''
+    - D. Manning misses 2-pt shot at rim
+  - - '11:01.0'
+    - Defensive rebound by M. Blaylock
+    - ''
+    - 38-31
+    - ''
+    - ''
+  - - '10:55.0'
+    - A. Jamison makes 2-pt shot from 21 ft (assist by M. Blaylock)
+    - "+2"
+    - 40-31
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 40-31
+    - ''
+    - Turnover by D. Manning (bad pass; steal by A. Keefe)
+  - - '10:31.0'
+    - Shooting foul by G. Ostertag
+    - ''
+    - 40-31
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. Keefe makes free throw 1 of 2
+    - "+1"
+    - 41-31
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. Keefe makes free throw 2 of 2
+    - "+1"
+    - 42-31
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 42-34
+    - "+3"
+    - Q. Lewis makes 3-pt shot from 25 ft (assist by D. Manning)
+  - - '10:09.0'
+    - B. Curley misses 2-pt shot from 20 ft
+    - ''
+    - 42-34
+    - ''
+    - ''
+  - - '10:05.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 42-34
+    - ''
+    - ''
+  - - '9:58.0'
+    - M. Blaylock makes 3-pt shot from 23 ft (assist by A. Jamison)
+    - "+3"
+    - 45-34
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 45-36
+    - "+2"
+    - Q. Lewis makes 2-pt shot from 19 ft (assist by G. Ostertag)
+  - - '9:26.0'
+    - A. Keefe makes 2-pt shot from 21 ft (assist by A. Jamison)
+    - "+2"
+    - 47-36
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 47-36
+    - ''
+    - D. Marshall misses 2-pt shot from 19 ft
+  - - '9:05.0'
+    - Defensive rebound by M. Blaylock
+    - ''
+    - 47-36
+    - ''
+    - ''
+  - - '9:02.0'
+    - Shooting foul by Q. Lewis
+    - ''
+    - 47-36
+    - ''
+    - ''
+  - - '9:02.0'
+    - M. Blaylock makes free throw 1 of 2
+    - "+1"
+    - 48-36
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 48-36
+    - ''
+    - J. Stockton enters the game for J. Vaughn
+  - - '9:02.0'
+    - M. Blaylock makes free throw 2 of 2
+    - "+1"
+    - 49-36
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 49-39
+    - "+3"
+    - Q. Lewis makes 3-pt shot from 23 ft (assist by D. Marshall)
+  - - '8:33.0'
+    - A. Jamison misses 2-pt shot from 12 ft
+    - ''
+    - 49-39
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 49-39
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '8:22.0'
+    - ''
+    - ''
+    - 49-39
+    - ''
+    - Shooting foul by B. Curley
+  - - '8:22.0'
+    - ''
+    - ''
+    - 49-39
+    - ''
+    - Official timeout
+  - - '8:22.0'
+    - V. Del Negro enters the game for L. Hughes
+    - ''
+    - 49-39
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 49-40
+    - "+1"
+    - G. Ostertag makes free throw 1 of 2
+  - - '8:22.0'
+    - ''
+    - ''
+    - 49-41
+    - "+1"
+    - G. Ostertag makes free throw 2 of 2
+  - - '8:03.0'
+    - A. Keefe makes 2-pt shot from 22 ft
+    - "+2"
+    - 51-41
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 51-43
+    - "+2"
+    - J. Stockton makes 2-pt shot from 21 ft
+  - - '7:37.0'
+    - B. Curley misses 2-pt shot from 7 ft (block by D. Marshall)
+    - ''
+    - 51-43
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 51-43
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '7:27.0'
+    - ''
+    - ''
+    - 51-43
+    - ''
+    - Q. Lewis misses 2-pt shot from 16 ft
+  - - '7:25.0'
+    - ''
+    - ''
+    - 51-43
+    - ''
+    - Offensive rebound by D. Marshall
+  - - '7:12.0'
+    - ''
+    - ''
+    - 51-45
+    - "+2"
+    - Q. Lewis makes 2-pt shot from 13 ft (assist by J. Stockton)
+  - - '6:59.0'
+    - M. Blaylock misses 2-pt shot from 22 ft
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:56.0'
+    - Offensive rebound by B. Curley
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:44.0'
+    - Shooting foul by G. Ostertag
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:44.0'
+    - M. Blaylock misses free throw 1 of 2
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:44.0'
+    - M. Jackson enters the game for B. Curley
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:44.0'
+    - M. Blaylock misses free throw 2 of 2
+    - ''
+    - 51-45
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 51-45
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '6:39.0'
+    - ''
+    - ''
+    - 51-45
+    - ''
+    - Personal foul by M. Blaylock
+  - - '6:27.0'
+    - ''
+    - ''
+    - 51-45
+    - ''
+    - Q. Lewis misses 3-pt shot from 24 ft
+  - - '6:25.0'
+    - ''
+    - ''
+    - 51-47
+    - "+2"
+    - D. Manning makes 2-pt shot at rim
+  - - '6:25.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - Offensive rebound by D. Manning
+  - - '6:08.0'
+    - A. Jamison misses 2-pt shot from 5 ft
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '6:05.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 53-47
+    - ''
+    - ''
+  - - '6:05.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 53-49
+    - "+2"
+    - G. Ostertag makes 2-pt shot at rim (assist by J. Stockton)
+  - - '5:22.0'
+    - Personal foul by D. Manning
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '5:22.0'
+    - Golden State full timeout
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '5:22.0'
+    - M. Blaylock misses free throw 1 of 2
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '5:22.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '5:22.0'
+    - M. Blaylock misses free throw 2 of 2
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '5:03.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - Shooting foul by A. Keefe
+  - - '5:03.0'
+    - ''
+    - ''
+    - 53-50
+    - "+1"
+    - G. Ostertag makes free throw 1 of 2
+  - - '5:03.0'
+    - ''
+    - ''
+    - 53-50
+    - ''
+    - K. Malone enters the game for D. Manning
+  - - '5:03.0'
+    - ''
+    - ''
+    - 53-51
+    - "+1"
+    - G. Ostertag makes free throw 2 of 2
+  - - '4:49.0'
+    - Shooting foul by J. Stockton
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '4:49.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 54-51
+    - ''
+    - ''
+  - - '4:49.0'
+    - B. Sura enters the game for M. Blaylock
+    - ''
+    - 54-51
+    - ''
+    - ''
+  - - '4:49.0'
+    - L. Hughes enters the game for A. Keefe
+    - ''
+    - 54-51
+    - ''
+    - ''
+  - - '4:49.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 55-51
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 55-53
+    - "+2"
+    - D. Marshall makes 2-pt shot at rim (assist by K. Malone)
+  - - '4:39.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - Shooting foul by L. Hughes
+  - - '4:39.0'
+    - ''
+    - ''
+    - 55-54
+    - "+1"
+    - D. Marshall makes free throw 1 of 1
+  - - '4:24.0'
+    - L. Hughes misses 2-pt shot from 7 ft
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '4:18.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Turnover by K. Malone (lost ball; steal by B. Sura)
+  - - '4:11.0'
+    - A. Jamison makes 2-pt shot from 8 ft (assist by L. Hughes)
+    - "+2"
+    - 57-54
+    - ''
+    - ''
+  - - '3:58.0'
+    - Violation by A. Jamison (illegal defense)
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Q. Lewis misses 2-pt shot from 21 ft
+  - - '3:48.0'
+    - Defensive rebound by V. Del Negro
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '3:41.0'
+    - V. Del Negro makes 2-pt shot from 18 ft (assist by B. Sura)
+    - "+2"
+    - 59-54
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - Q. Lewis misses 2-pt shot at rim
+  - - '3:21.0'
+    - ''
+    - ''
+    - 59-56
+    - "+2"
+    - K. Malone makes 2-pt shot at rim
+  - - '3:21.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Offensive rebound by K. Malone
+  - - '3:10.0'
+    - M. Jackson makes 2-pt shot from 12 ft (assist by V. Del Negro)
+    - "+2"
+    - 61-56
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 61-56
+    - ''
+    - K. Malone misses 2-pt shot from 15 ft
+  - - '2:49.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 61-56
+    - ''
+    - ''
+  - - '2:42.0'
+    - L. Hughes makes 2-pt shot at rim (assist by V. Del Negro)
+    - "+2"
+    - 63-56
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-56
+    - ''
+    - Shooting foul by B. Sura
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-56
+    - ''
+    - Utah full timeout
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-56
+    - ''
+    - J. Starks enters the game for Q. Lewis
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-56
+    - ''
+    - B. Russell enters the game for D. Marshall
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-57
+    - "+1"
+    - K. Malone makes free throw 1 of 2
+  - - '2:26.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - K. Malone misses free throw 2 of 2
+  - - '2:24.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - Offensive rebound by G. Ostertag
+  - - '2:09.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - K. Malone misses 2-pt shot at rim
+  - - '2:08.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - K. Malone misses 2-pt shot at rim
+  - - '2:08.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - Offensive rebound by K. Malone
+  - - '2:06.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 63-57
+    - ''
+    - ''
+  - - '1:54.0'
+    - L. Hughes makes 2-pt shot from 15 ft
+    - "+2"
+    - 65-57
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 65-59
+    - "+2"
+    - B. Russell makes 2-pt shot from 6 ft (assist by J. Stockton)
+  - - '1:23.0'
+    - A. Jamison misses 2-pt shot from 14 ft
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '1:18.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - Turnover by G. Ostertag (lost ball; steal by L. Hughes)
+  - - '1:18.0'
+    - Golden State 20 second timeout
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '1:05.0'
+    - L. Hughes misses 3-pt shot from 25 ft
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - Defensive rebound by J. Starks
+  - - '0:59.9'
+    - ''
+    - ''
+    - 65-61
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by B. Russell)
+  - - '0:54.0'
+    - Turnover by L. Hughes (lost ball)
+    - ''
+    - 65-61
+    - ''
+    - ''
+  - - '0:45.9'
+    - ''
+    - ''
+    - 65-63
+    - "+2"
+    - B. Russell makes 2-pt shot at rim (assist by J. Stockton)
+  - - '0:37.8'
+    - Turnover by B. Sura (out of bounds)
+    - ''
+    - 65-63
+    - ''
+    - ''
+  - - '0:30.0'
+    - ''
+    - ''
+    - 65-63
+    - ''
+    - J. Stockton misses 2-pt shot at rim
+  - - '0:28.9'
+    - ''
+    - ''
+    - 65-65
+    - "+2"
+    - G. Ostertag makes 2-pt shot at rim
+  - - '0:28.9'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Offensive rebound by G. Ostertag
+  - - '0:09.0'
+    - L. Hughes misses 2-pt shot from 5 ft (block by G. Ostertag)
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '0:09.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '0:05.9'
+    - V. Del Negro misses 2-pt shot from 20 ft (block by J. Starks)
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '0:00.8'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '0:00.8'
+    - ''
+    - ''
+    - 65-67
+    - "+2"
+    - K. Malone makes 2-pt shot at rim (assist by J. Stockton)
+  - - '0:00.2'
+    - M. Jackson misses 3-pt shot from 59 ft
+    - ''
+    - 65-67
+    - ''
+    - ''
+  - - '0:00.1'
+    - Offensive rebound by Team
+    - ''
+    - 65-67
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - C. Porter misses 2-pt shot from 20 ft
+    - ''
+    - 65-67
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 65-67
+    - ''
+    - Defensive rebound by B. Russell
+  - - '11:32.0'
+    - ''
+    - ''
+    - 65-69
+    - "+2"
+    - J. Starks makes 2-pt shot from 21 ft (assist by J. Stockton)
+  - - '11:12.0'
+    - A. Jamison makes 2-pt shot from 8 ft (assist by C. Porter)
+    - "+2"
+    - 67-69
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Shooting foul by C. Porter
+  - - '10:50.0'
+    - ''
+    - ''
+    - 67-70
+    - "+1"
+    - J. Stockton makes free throw 1 of 2
+  - - '10:50.0'
+    - ''
+    - ''
+    - 67-71
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '10:37.0'
+    - A. Jamison misses 2-pt shot from 10 ft
+    - ''
+    - 67-71
+    - ''
+    - ''
+  - - '10:34.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 67-71
+    - ''
+    - ''
+  - - '10:28.0'
+    - L. Hughes makes 2-pt shot from 16 ft (assist by A. Jamison)
+    - "+2"
+    - 69-71
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - J. Starks misses 2-pt shot from 19 ft
+  - - '10:11.0'
+    - Defensive rebound by Team
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '9:56.0'
+    - L. Hughes misses 2-pt shot from 16 ft
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Defensive rebound by B. Russell
+  - - '9:38.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Shooting foul by A. Jamison
+  - - '9:38.0'
+    - ''
+    - ''
+    - 69-72
+    - "+1"
+    - K. Malone makes free throw 1 of 2
+  - - '9:38.0'
+    - ''
+    - ''
+    - 69-73
+    - "+1"
+    - K. Malone makes free throw 2 of 2
+  - - '9:25.0'
+    - B. Sura misses 3-pt shot from 26 ft
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Defensive rebound by O. Polynice
+  - - '9:15.0'
+    - ''
+    - ''
+    - 69-75
+    - "+2"
+    - B. Russell makes 2-pt shot from 20 ft (assist by J. Stockton)
+  - - '9:00.0'
+    - Personal foul by B. Russell
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '9:00.0'
+    - M. Blaylock enters the game for B. Sura
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '8:49.0'
+    - M. Blaylock misses 3-pt shot from 25 ft
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '8:47.0'
+    - C. Porter makes 2-pt shot at rim
+    - "+2"
+    - 71-75
+    - ''
+    - ''
+  - - '8:47.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '8:31.0'
+    - ''
+    - ''
+    - 71-75
+    - ''
+    - B. Russell misses 2-pt shot at rim
+  - - '8:28.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '8:23.0'
+    - Personal foul by O. Polynice
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '8:14.0'
+    - Turnover by M. Jackson (bad pass; steal by O. Polynice)
+    - ''
+    - 71-75
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 71-75
+    - ''
+    - Turnover by J. Stockton (bad pass; steal by C. Porter)
+  - - '7:58.0'
+    - M. Jackson makes 2-pt shot at rim (assist by M. Blaylock)
+    - "+2"
+    - 73-75
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 73-77
+    - "+2"
+    - J. Stockton makes 2-pt shot from 18 ft (assist by J. Starks)
+  - - '7:33.0'
+    - M. Jackson makes 2-pt shot from 11 ft (assist by M. Blaylock)
+    - "+2"
+    - 75-77
+    - ''
+    - ''
+  - - '7:18.0'
+    - ''
+    - ''
+    - 75-79
+    - "+2"
+    - B. Russell makes 2-pt shot at rim (assist by K. Malone)
+  - - '6:59.0'
+    - Offensive foul by A. Jamison
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '6:59.0'
+    - Turnover by A. Jamison (foul)
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - B. Russell misses 2-pt shot at rim
+  - - '6:48.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '6:43.0'
+    - L. Hughes makes 2-pt shot from 16 ft (assist by M. Jackson)
+    - "+2"
+    - 77-79
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - K. Malone misses 2-pt shot from 17 ft
+  - - '6:22.0'
+    - Defensive rebound by L. Hughes
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:16.0'
+    - C. Porter misses 2-pt shot at rim (block by B. Russell)
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:13.0'
+    - M. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 79-79
+    - ''
+    - ''
+  - - '6:13.0'
+    - Offensive rebound by M. Jackson
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 79-81
+    - "+2"
+    - K. Malone makes 2-pt shot from 16 ft
+  - - '5:37.0'
+    - M. Jackson misses 2-pt shot from 17 ft
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 79-81
+    - ''
+    - Defensive rebound by K. Malone
+  - - '5:29.0'
+    - ''
+    - ''
+    - 79-81
+    - ''
+    - Turnover by J. Starks (lost ball)
+  - - '5:29.0'
+    - Golden State full timeout
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '5:29.0'
+    - B. Sura enters the game for C. Porter
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 79-81
+    - ''
+    - J. Vaughn enters the game for J. Stockton
+  - - '5:14.0'
+    - L. Hughes makes 2-pt shot from 20 ft (assist by A. Jamison)
+    - "+2"
+    - 81-81
+    - ''
+    - ''
+  - - '4:53.0'
+    - ''
+    - ''
+    - 81-81
+    - ''
+    - K. Malone misses 2-pt shot from 16 ft
+  - - '4:48.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '4:39.0'
+    - A. Jamison misses 2-pt shot from 20 ft
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 81-81
+    - ''
+    - Defensive rebound by Team
+  - - '4:24.0'
+    - ''
+    - ''
+    - 81-83
+    - "+2"
+    - K. Malone makes 2-pt shot from 15 ft (assist by J. Starks)
+  - - '4:01.0'
+    - L. Hughes misses 3-pt shot from 24 ft
+    - ''
+    - 81-83
+    - ''
+    - ''
+  - - '4:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-83
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 81-83
+    - ''
+    - Technical foul by Team
+  - - '3:46.0'
+    - L. Hughes makes free throw technical
+    - "+1"
+    - 82-83
+    - ''
+    - ''
+  - - '3:43.0'
+    - A. Jamison misses 3-pt shot from 24 ft
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Defensive rebound by Team
+  - - '3:37.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Personal foul by B. Sura
+  - - '3:26.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Turnover by J. Starks (lost ball; steal by L. Hughes)
+  - - '3:23.0'
+    - L. Hughes makes 2-pt shot at rim
+    - "+2"
+    - 84-83
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 84-83
+    - ''
+    - K. Malone misses 2-pt shot from 4 ft
+  - - '3:07.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 84-83
+    - ''
+    - ''
+  - - '3:00.0'
+    - A. Jamison makes 3-pt shot from 25 ft (assist by L. Hughes)
+    - "+3"
+    - 87-83
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 87-83
+    - ''
+    - Ill def tech foul by A. Jamison
+  - - '2:39.0'
+    - ''
+    - ''
+    - 87-83
+    - ''
+    - Utah full timeout
+  - - '2:39.0'
+    - ''
+    - ''
+    - 87-83
+    - ''
+    - G. Ostertag enters the game for O. Polynice
+  - - '2:39.0'
+    - ''
+    - ''
+    - 87-84
+    - "+1"
+    - J. Vaughn makes free throw technical
+  - - '2:27.0'
+    - ''
+    - ''
+    - 87-86
+    - "+2"
+    - K. Malone makes 2-pt shot from 18 ft (assist by J. Vaughn)
+  - - '2:07.0'
+    - M. Blaylock misses 2-pt shot from 20 ft
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '2:04.0'
+    - Offensive rebound by M. Jackson
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '1:59.0'
+    - L. Hughes makes 2-pt shot from 21 ft (assist by M. Blaylock)
+    - "+2"
+    - 89-86
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Offensive foul by J. Vaughn
+  - - '1:45.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Turnover by J. Vaughn (foul)
+  - - '1:37.0'
+    - Turnover by B. Sura (lost ball)
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - G. Ostertag misses 2-pt shot from 5 ft
+  - - '1:20.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '1:13.0'
+    - A. Jamison misses 2-pt shot from 20 ft
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Defensive rebound by B. Russell
+  - - '1:03.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Personal foul by M. Jackson
+  - - '1:03.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - K. Malone misses free throw 1 of 2
+  - - '1:03.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Offensive rebound by Team
+  - - '1:03.0'
+    - V. Del Negro enters the game for L. Hughes
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '1:03.0'
+    - B. Curley enters the game for M. Jackson
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - K. Malone misses free throw 2 of 2
+  - - '1:01.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:48.1'
+    - Turnover by V. Del Negro (traveling)
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:42.5'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Personal foul by B. Curley
+  - - '0:42.5'
+    - ''
+    - ''
+    - 89-87
+    - "+1"
+    - J. Vaughn makes free throw 1 of 2
+  - - '0:42.5'
+    - ''
+    - ''
+    - 89-88
+    - "+1"
+    - J. Vaughn makes free throw 2 of 2
+  - - '0:34.9'
+    - M. Blaylock makes 2-pt shot from 21 ft
+    - "+2"
+    - 91-88
+    - ''
+    - ''
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - K. Malone misses 2-pt shot from 20 ft
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - Offensive rebound by B. Russell
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - Loose ball foul by B. Sura
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - B. Russell misses free throw 1 of 2
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-88
+    - ''
+    - Offensive rebound by Team
+  - - '0:19.5'
+    - ''
+    - ''
+    - 91-89
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '0:07.3'
+    - Personal foul by J. Starks
+    - ''
+    - 91-89
+    - ''
+    - ''
+  - - '0:07.3'
+    - ''
+    - ''
+    - 91-89
+    - ''
+    - D. Manning enters the game for K. Malone
+  - - '0:07.3'
+    - ''
+    - ''
+    - 91-89
+    - ''
+    - Q. Lewis enters the game for J. Starks
+  - - '0:05.0'
+    - Offensive foul by A. Jamison
+    - ''
+    - 91-89
+    - ''
+    - ''
+  - - '0:05.0'
+    - Turnover by A. Jamison (foul)
+    - ''
+    - 91-89
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 91-91
+    - "+2"
+    - J. Vaughn makes 2-pt shot at rim
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 91-93
+    - "+2"
+    - D. Marshall makes 2-pt shot at rim (assist by J. Vaughn)
+  - - '11:30.0'
+    - V. Del Negro makes 2-pt shot from 12 ft
+    - "+2"
+    - 93-93
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 93-93
+    - ''
+    - Q. Lewis misses 2-pt shot from 13 ft
+  - - '11:05.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 93-93
+    - ''
+    - ''
+  - - '11:05.0'
+    - Loose ball foul by D. Manning
+    - ''
+    - 93-93
+    - ''
+    - ''
+  - - '10:54.0'
+    - Turnover by M. Blaylock (bad pass; steal by J. Vaughn)
+    - ''
+    - 93-93
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 93-93
+    - ''
+    - Shooting foul by B. Curley
+  - - '10:50.0'
+    - ''
+    - ''
+    - 93-94
+    - "+1"
+    - Q. Lewis makes free throw 1 of 2
+  - - '10:50.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - Q. Lewis misses free throw 2 of 2
+  - - '10:47.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - D. Manning misses 2-pt shot at rim
+  - - '10:47.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - Offensive rebound by D. Manning
+  - - '10:44.0'
+    - Defensive rebound by M. Blaylock
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '10:34.0'
+    - V. Del Negro misses 2-pt shot from 17 ft
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - Defensive rebound by G. Ostertag
+  - - '10:34.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - Loose ball foul by B. Curley
+  - - '10:09.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - D. Manning misses 2-pt shot from 8 ft
+  - - '10:06.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - G. Ostertag misses 2-pt shot at rim (block by A. Keefe)
+  - - '10:06.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - Offensive rebound by G. Ostertag
+  - - '10:04.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '9:45.0'
+    - Personal foul by Q. Lewis
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '9:45.0'
+    - A. Jamison enters the game for B. Curley
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '9:40.0'
+    - M. Blaylock makes 2-pt shot from 20 ft
+    - "+2"
+    - 95-94
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 95-94
+    - ''
+    - Shooting foul by A. Jamison
+  - - '9:17.0'
+    - ''
+    - ''
+    - 95-95
+    - "+1"
+    - J. Vaughn makes free throw 1 of 2
+  - - '9:17.0'
+    - ''
+    - ''
+    - 95-96
+    - "+1"
+    - J. Vaughn makes free throw 2 of 2
+  - - '9:04.0'
+    - A. Keefe misses 2-pt shot from 18 ft
+    - ''
+    - 95-96
+    - ''
+    - ''
+  - - '9:01.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 97-96
+    - ''
+    - ''
+  - - '9:01.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 97-96
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 97-96
+    - ''
+    - Q. Lewis misses 2-pt shot from 13 ft (block by A. Jamison)
+  - - '8:31.0'
+    - ''
+    - ''
+    - 97-98
+    - "+2"
+    - Q. Lewis makes 2-pt shot at rim
+  - - '8:31.0'
+    - ''
+    - ''
+    - 97-98
+    - ''
+    - Offensive rebound by Q. Lewis
+  - - '8:22.0'
+    - C. Porter makes 2-pt shot from 18 ft
+    - "+2"
+    - 99-98
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Official timeout
+  - - '8:03.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - K. Malone enters the game for G. Ostertag
+  - - '8:03.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - J. Stockton enters the game for J. Vaughn
+  - - '8:03.0'
+    - M. Jackson enters the game for V. Del Negro
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '8:03.0'
+    - L. Hughes enters the game for A. Jamison
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Q. Lewis misses 3-pt shot from 25 ft
+  - - '7:56.0'
+    - Defensive rebound by L. Hughes
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '7:40.0'
+    - M. Blaylock misses 2-pt shot from 21 ft
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Defensive rebound by J. Stockton
+  - - '7:36.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Turnover by J. Stockton (bad pass)
+  - - '7:17.0'
+    - L. Hughes makes 2-pt shot from 10 ft
+    - "+2"
+    - 101-98
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 101-100
+    - "+2"
+    - K. Malone makes 2-pt shot from 20 ft (assist by J. Stockton)
+  - - '6:41.0'
+    - M. Blaylock makes 2-pt shot from 20 ft (assist by L. Hughes)
+    - "+2"
+    - 103-100
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 103-102
+    - "+2"
+    - K. Malone makes 2-pt shot from 19 ft (assist by Q. Lewis)
+  - - '6:02.0'
+    - Turnover by M. Blaylock (bad pass; steal by D. Manning)
+    - ''
+    - 103-102
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 103-104
+    - "+2"
+    - D. Manning makes 2-pt shot at rim (assist by K. Malone)
+  - - '5:45.0'
+    - M. Blaylock misses 2-pt shot from 21 ft
+    - ''
+    - 103-104
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 103-104
+    - ''
+    - Defensive rebound by Q. Lewis
+  - - '5:34.0'
+    - ''
+    - ''
+    - 103-106
+    - "+2"
+    - D. Marshall makes 2-pt shot at rim (assist by K. Malone)
+  - - '5:32.0'
+    - Golden State full timeout
+    - ''
+    - 103-106
+    - ''
+    - ''
+  - - '5:32.0'
+    - ''
+    - ''
+    - 103-106
+    - ''
+    - B. Russell enters the game for Q. Lewis
+  - - '5:32.0'
+    - A. Jamison enters the game for A. Keefe
+    - ''
+    - 103-106
+    - ''
+    - ''
+  - - '5:19.0'
+    - L. Hughes misses 2-pt shot at rim (block by K. Malone)
+    - ''
+    - 103-106
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 103-106
+    - ''
+    - Defensive rebound by K. Malone
+  - - '5:13.0'
+    - ''
+    - ''
+    - 103-108
+    - "+2"
+    - B. Russell makes 2-pt shot at rim (assist by J. Stockton)
+  - - '4:59.0'
+    - L. Hughes misses 3-pt shot from 25 ft
+    - ''
+    - 103-108
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - Defensive rebound by Team
+  - - '4:59.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - Loose ball foul by C. Porter
+  - - '4:50.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - Personal foul by M. Jackson
+  - - '4:50.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - Utah 20 second timeout
+  - - '4:50.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - B. Russell misses free throw 1 of 2
+  - - '4:50.0'
+    - ''
+    - ''
+    - 103-108
+    - ''
+    - Offensive rebound by Team
+  - - '4:50.0'
+    - ''
+    - ''
+    - 103-109
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '4:25.0'
+    - A. Jamison misses 3-pt shot from 25 ft
+    - ''
+    - 103-109
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '4:20.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - Shooting foul by M. Blaylock
+  - - '4:20.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - D. Manning misses free throw 1 of 2
+  - - '4:20.0'
+    - ''
+    - ''
+    - 103-109
+    - ''
+    - Offensive rebound by Team
+  - - '4:20.0'
+    - ''
+    - ''
+    - 103-110
+    - "+1"
+    - D. Manning makes free throw 2 of 2
+  - - '4:02.0'
+    - Shooting foul by D. Manning
+    - ''
+    - 103-110
+    - ''
+    - ''
+  - - '4:02.0'
+    - L. Hughes makes free throw 1 of 2
+    - "+1"
+    - 104-110
+    - ''
+    - ''
+  - - '4:02.0'
+    - L. Hughes makes free throw 2 of 2
+    - "+1"
+    - 105-110
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 105-113
+    - "+3"
+    - D. Marshall makes 3-pt shot from 25 ft
+  - - '3:31.0'
+    - Golden State full timeout
+    - ''
+    - 105-113
+    - ''
+    - ''
+  - - '3:31.0'
+    - V. Del Negro enters the game for C. Porter
+    - ''
+    - 105-113
+    - ''
+    - ''
+  - - '3:24.0'
+    - M. Blaylock makes 2-pt shot from 16 ft
+    - "+2"
+    - 107-113
+    - ''
+    - ''
+  - - '3:24.0'
+    - Shooting foul by K. Malone
+    - ''
+    - 107-113
+    - ''
+    - ''
+  - - '3:24.0'
+    - M. Blaylock misses free throw 1 of 1
+    - ''
+    - 107-113
+    - ''
+    - ''
+  - - '3:23.0'
+    - Offensive rebound by V. Del Negro
+    - ''
+    - 107-113
+    - ''
+    - ''
+  - - '3:16.0'
+    - Personal foul by D. Marshall
+    - ''
+    - 107-113
+    - ''
+    - ''
+  - - '3:16.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 108-113
+    - ''
+    - ''
+  - - '3:16.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 109-113
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 109-115
+    - "+2"
+    - D. Manning makes 2-pt shot from 7 ft (assist by J. Stockton)
+  - - '2:50.0'
+    - Turnover by M. Blaylock (lost ball; steal by J. Stockton)
+    - ''
+    - 109-115
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 109-115
+    - ''
+    - Loose ball foul by L. Hughes
+  - - '2:50.0'
+    - ''
+    - ''
+    - 109-115
+    - ''
+    - J. Stockton misses free throw 1 of 2
+  - - '2:50.0'
+    - ''
+    - ''
+    - 109-115
+    - ''
+    - Offensive rebound by Team
+  - - '2:50.0'
+    - ''
+    - ''
+    - 109-116
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '2:41.0'
+    - Shooting foul by D. Manning
+    - ''
+    - 109-116
+    - ''
+    - ''
+  - - '2:41.0'
+    - L. Hughes makes free throw 1 of 2
+    - "+1"
+    - 110-116
+    - ''
+    - ''
+  - - '2:41.0'
+    - L. Hughes makes free throw 2 of 2
+    - "+1"
+    - 111-116
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 111-116
+    - ''
+    - K. Malone misses 2-pt shot from 16 ft
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-116
+    - ''
+    - B. Russell misses 2-pt shot at rim
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-116
+    - ''
+    - Offensive rebound by B. Russell
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-116
+    - ''
+    - Offensive rebound by B. Russell
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-116
+    - ''
+    - Shooting foul by V. Del Negro
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-117
+    - "+1"
+    - B. Russell makes free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 111-118
+    - "+1"
+    - B. Russell makes free throw 2 of 2
+  - - '2:12.0'
+    - Turnover by L. Hughes (traveling)
+    - ''
+    - 111-118
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 111-118
+    - ''
+    - J. Stockton misses 2-pt shot at rim
+  - - '1:52.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 111-118
+    - ''
+    - ''
+  - - '1:51.0'
+    - Turnover by M. Jackson (lost ball; steal by J. Stockton)
+    - ''
+    - 111-118
+    - ''
+    - ''
+  - - '1:48.0'
+    - ''
+    - ''
+    - 111-120
+    - "+2"
+    - D. Manning makes 2-pt shot at rim (assist by K. Malone)
+  - - '1:48.0'
+    - Golden State full timeout
+    - ''
+    - 111-120
+    - ''
+    - ''
+  - - '1:40.0'
+    - V. Del Negro misses 3-pt shot from 23 ft
+    - ''
+    - 111-120
+    - ''
+    - ''
+  - - '1:39.0'
+    - Offensive rebound by L. Hughes
+    - ''
+    - 111-120
+    - ''
+    - ''
+  - - '1:39.0'
+    - Loose ball foul by K. Malone
+    - ''
+    - 111-120
+    - ''
+    - ''
+  - - '1:39.0'
+    - L. Hughes makes free throw 1 of 2
+    - "+1"
+    - 112-120
+    - ''
+    - ''
+  - - '1:39.0'
+    - L. Hughes misses free throw 2 of 2
+    - ''
+    - 112-120
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - Defensive rebound by K. Malone
+  - - '1:17.0'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - Turnover by K. Malone (lost ball; steal by M. Blaylock)
+  - - '1:05.0'
+    - M. Blaylock misses 3-pt shot from 24 ft
+    - ''
+    - 112-120
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '0:46.4'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - Personal foul by M. Blaylock
+  - - '0:46.4'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - J. Stockton misses free throw 1 of 2
+  - - '0:46.4'
+    - ''
+    - ''
+    - 112-120
+    - ''
+    - Offensive rebound by Team
+  - - '0:46.4'
+    - ''
+    - ''
+    - 112-121
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '0:46.4'
+    - Golden State 20 second timeout
+    - ''
+    - 112-121
+    - ''
+    - ''
+  - - '0:40.7'
+    - M. Jackson makes 2-pt shot from 18 ft (assist by V. Del Negro)
+    - "+2"
+    - 114-121
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 114-121
+    - ''
+    - Personal foul by M. Blaylock
+  - - '0:36.9'
+    - ''
+    - ''
+    - 114-122
+    - "+1"
+    - J. Stockton makes free throw 1 of 2
+  - - '0:36.9'
+    - ''
+    - ''
+    - 114-123
+    - "+1"
+    - J. Stockton makes free throw 2 of 2
+  - - '0:28.9'
+    - A. Jamison misses 3-pt shot from 24 ft
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:27.5'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Defensive rebound by D. Marshall
+  - - '0:04.9'
+    - ''
+    - ''
+    - 114-125
+    - "+2"
+    - B. Russell makes 2-pt shot at rim (assist by J. Stockton)
+  - - '0:00.1'
+    - L. Hughes misses 2-pt shot from 7 ft (block by D. Manning)
+    - ''
+    - 114-125
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 114-125
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

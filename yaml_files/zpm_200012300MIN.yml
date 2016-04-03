@@ -1,0 +1,208 @@
+---
+- name: Plus-Minus
+  data:
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Allan Houston (On: -1&#9642;Off: +10&#9642;Net: -11)'
+    - |2-
+
+      -2
+    - 178/-2
+    - 138/
+    - 182/+1
+    - 207/-1
+    - 22/
+    - 20/-1
+    - 118/+5
+    - 38/
+    - 92/-3
+    - 'Larry Johnson (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 31/+4
+    - 126/
+    - 75/+1
+    - 17/
+    - 249/0
+    - 33/+2
+    - 47/
+    - 168/0
+    - 'Glen Rice (On: -2&#9642;Off: +11&#9642;Net: -13)'
+    - |2-
+
+      -2
+    - 179/-2
+    - 823/
+    - 'Latrell Sprewell (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 63/+4
+    - 94/
+    - 92/+1
+    - 249/0
+    - 33/+2
+    - 47/
+    - 169/0
+    - 'Kurt Thomas (On: -4&#9642;Off: +13&#9642;Net: -17)'
+    - |2-
+
+      +3
+    - 223/+3
+    - 62/
+    - 214/+1
+    - 139/-7
+    - 145/
+    - 215/-1
+    - 'Chris Childs (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - "\n"
+    - 183/
+    - 67/+5
+    - 250/+5
+    - 224/+1
+    - 59/
+    - 215/-1
+    - 'Erick Strickland (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - "\n"
+    - 182/
+    - 67/+5
+    - 150/+4
+    - 310/
+    - 37/+1
+    - 77/+1
+    - 45/
+    - 34/-1
+    - 93/
+    - 'Luc Longley (On: +12&#9642;Off: -3&#9642;Net: +15)'
+    - "\n"
+    - 225/
+    - 24/0
+    - 150/+4
+    - 241/
+    - 107/+7
+    - 77/+1
+    - 173/
+    - 'Travis Knight (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - "\n"
+    - 486/
+    - 15/0
+    - 500/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chauncey Billups (On: +7&#9642;Off: -16&#9642;Net: +23)'
+    - |2-
+
+      +2
+    - 178/+2
+    - 138/
+    - 47/0
+    - 135/
+    - 52/+5
+    - 448/
+    - 'Terrell Brandon (On: 0&#9642;Off: -9&#9642;Net: +9)'
+    - |2-
+
+      -3
+    - 223/-3
+    - 81/
+    - 195/+1
+    - 208/+1
+    - 76/
+    - 215/+1
+    - 'Kevin Garnett (On: -2&#9642;Off: -7&#9642;Net: +5)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 54/
+    - 195/+1
+    - 250/0
+    - 71/
+    - 178/0
+    - 'Dean Garrett (On: +1&#9642;Off: -10&#9642;Net: +11)'
+    - |2-
+
+      +2
+    - 178/+2
+    - 269/
+    - 52/-2
+    - 208/+1
+    - 292/
+    - 'Wally Szczerbiak (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 31/-4
+    - 88/
+    - 130/-1
+    - 98/+3
+    - 113/
+    - 37/-1
+    - 250/-1
+    - 'Rasho Nesterovic (On: -13&#9642;Off: +4&#9642;Net: -17)'
+    - "\n"
+    - 182/
+    - 67/-5
+    - 53/-6
+    - 408/
+    - 37/-1
+    - 64/-1
+    - 186/
+    - 'Anthony Peeler (On: -13&#9642;Off: +4&#9642;Net: -17)'
+    - "\n"
+    - 182/
+    - 67/-5
+    - 249/-5
+    - 55/
+    - 194/-5
+    - 33/-2
+    - 89/
+    - 127/+4
+    - 'William Avery (On: -12&#9642;Off: +3&#9642;Net: -15)'
+    - "\n"
+    - 225/
+    - 24/0
+    - 53/-6
+    - 408/
+    - 37/-1
+    - 118/-5
+    - 132/
+    - 'LaPhonso Ellis (On: -4&#9642;Off: -5&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 193/-3
+    - 307/
+    - 250/-1
+    - 'Sam Jacobson (On: 0&#9642;Off: -9&#9642;Net: +9)'
+    - "\n"
+    - 286/
+    - 27/0
+    - 688/
+    - 'Sam Mitchell (On: -2&#9642;Off: -7&#9642;Net: +5)'
+    - "\n"
+    - 603/
+    - 106/-2
+    - 292/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

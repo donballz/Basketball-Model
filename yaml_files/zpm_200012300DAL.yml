@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Houston Rockets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shandon Anderson (On: +9&#9642;Off: +6&#9642;Net: +3)'
+    - |2-
+
+      +11
+    - 249/+11
+    - 16/+2
+    - 74/
+    - 94/+4
+    - 65/
+    - 249/-7
+    - 60/
+    - 189/-1
+    - 'Steve Francis (On: +16&#9642;Off: -1&#9642;Net: +17)'
+    - |2-
+
+      +11
+    - 249/+11
+    - 81/+3
+    - 105/
+    - 62/+4
+    - 249/-7
+    - 77/-1
+    - 62/
+    - 111/+6
+    - 'Moochie Norris (On: +12&#9642;Off: +3&#9642;Net: +9)'
+    - |2-
+
+      +8
+    - 173/+8
+    - 167/
+    - 159/+8
+    - 249/-7
+    - 136/-6
+    - 30/
+    - 83/+9
+    - 'Hakeem Olajuwon (On: +4&#9642;Off: +11&#9642;Net: -7)'
+    - |2-
+
+      +6
+    - 159/+6
+    - 341/
+    - 143/-2
+    - 357/
+    - 'Maurice Taylor (On: -2&#9642;Off: +17&#9642;Net: -19)'
+    - |2-
+
+      +8
+    - 208/+8
+    - 252/
+    - 38/+2
+    - 161/-4
+    - 170/
+    - 78/-8
+    - 90/
+    - 'Kenny Thomas (On: +6&#9642;Off: +9&#9642;Net: -3)'
+    - "\n"
+    - 162/
+    - 87/+5
+    - 207/+9
+    - 257/
+    - 35/-1
+    - 226/-7
+    - 23/
+    - 'Cuttino Mobley (On: +11&#9642;Off: +4&#9642;Net: +7)'
+    - "\n"
+    - 177/
+    - 72/+3
+    - 250/+11
+    - 169/
+    - 81/-3
+    - 249/0
+    - 'Matt Bullard (On: +11&#9642;Off: +4&#9642;Net: +7)'
+    - "\n"
+    - 213/
+    - 36/+3
+    - 81/+3
+    - 155/
+    - 12/+2
+    - 146/
+    - 67/-4
+    - 262/
+    - 23/+7
+    - 'Walt Williams (On: +8&#9642;Off: +7&#9642;Net: +1)'
+    - "\n"
+    - 266/
+    - 215/+7
+    - 268/
+    - 60/+1
+    - 190/
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: -14&#9642;Off: -1&#9642;Net: -13)'
+    - |2-
+
+      -8
+    - 172/-8
+    - 325/
+    - 153/+2
+    - 135/
+    - 66/-4
+    - 99/
+    - 6/-2
+    - 13/
+    - 3/0
+    - 22/
+    - 'Howard Eisley (On: -2&#9642;Off: -13&#9642;Net: +11)'
+    - |2-
+
+      -8
+    - 232/-8
+    - 143/
+    - 123/-4
+    - 177/+2
+    - 40/
+    - 31/+1
+    - 198/+7
+    - 52/
+    - 'Michael Finley (On: -14&#9642;Off: -1&#9642;Net: -13)'
+    - |2-
+
+      -11
+    - 250/-11
+    - 207/-9
+    - 42/
+    - 215/+6
+    - 35/
+    - 249/0
+    - 'Steve Nash (On: -18&#9642;Off: +3&#9642;Net: -21)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 120/-7
+    - 91/
+    - 38/-2
+    - 94/-7
+    - 91/
+    - 65/+5
+    - 237/+4
+    - 10/
+    - 'Dirk Nowitzki (On: -8&#9642;Off: -7&#9642;Net: -1)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 55/-3
+    - 194/
+    - 123/-2
+    - 61/
+    - 65/+5
+    - 59/
+    - 190/+3
+    - 'Christian Laettner (On: -6&#9642;Off: -9&#9642;Net: +3)'
+    - "\n"
+    - 177/
+    - 73/-3
+    - 82/-3
+    - 668/
+    - 'Hubert Davis (On: -6&#9642;Off: -9&#9642;Net: +3)'
+    - "\n"
+    - 238/
+    - 11/-3
+    - 249/-11
+    - 98/
+    - 151/+14
+    - 36/+2
+    - 162/
+    - 51/-8
+    - 'Courtney Alexander (On: -6&#9642;Off: -9&#9642;Net: +3)'
+    - "\n"
+    - 307/
+    - 189/-8
+    - 157/
+    - 90/+5
+    - 57/-3
+    - 96/
+    - 41/+3
+    - 3/
+    - 3/+2
+    - 12/
+    - 9/-2
+    - 8/
+    - 19/-5
+    - 'Gary Trent (On: -4&#9642;Off: -11&#9642;Net: +7)'
+    - "\n"
+    - 341/
+    - 94/-4
+    - 566/
+    - 'Donnell Harvey (On: +3&#9642;Off: -18&#9642;Net: +21)'
+    - "\n"
+    - 436/
+    - 62/-4
+    - 129/
+    - 48/+4
+    - 179/
+    - 44/+7
+    - 87/
+    - 11/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

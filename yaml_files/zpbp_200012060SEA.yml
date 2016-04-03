@@ -1,0 +1,2862 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: P. Ewing vs. B. Wallace (B. Wallace gains possession)'
+  - - '11:48.0'
+    - Personal foul by E. Davis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:34.0'
+    - C. Atkins makes 3-pt shot from 26 ft (assist by M. Curry)
+    - "+3"
+    - 3-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - Personal foul by E. Montross
+  - - '11:13.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - G. Payton misses 2-pt shot from 3 ft
+  - - '11:12.0'
+    - Defensive rebound by Team
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '11:07.0'
+    - Shooting foul by R. Lewis
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '11:07.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 4-0
+    - ''
+    - ''
+  - - '11:07.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 5-0
+    - ''
+    - ''
+  - - '10:49.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 5-2
+    - "+2"
+    - E. Davis makes 2-pt shot from 16 ft
+  - - '10:29.0'
+    - Turnover by C. Atkins (bad pass; steal by J. McCoy)
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Personal foul by C. Atkins
+  - - '10:11.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Turnover by J. McCoy (3 second)
+  - - '9:54.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:53.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:50.0'
+    - C. Atkins makes 2-pt shot at rim (assist by B. Wallace)
+    - "+2"
+    - 7-2
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - Personal foul by M. Curry
+  - - '9:23.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - E. Davis misses 2-pt shot from 17 ft
+  - - '9:21.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 7-2
+    - ''
+    - ''
+  - - '8:59.0'
+    - J. Stackhouse makes 2-pt shot from 20 ft
+    - "+2"
+    - 9-2
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - P. Ewing misses 2-pt shot from 4 ft
+  - - '8:42.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '8:21.0'
+    - E. Montross misses 2-pt shot from 3 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '8:11.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - J. McCoy misses 2-pt shot from 3 ft (block by E. Montross)
+  - - '8:08.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Offensive rebound by E. Davis
+  - - '8:07.0'
+    - ''
+    - ''
+    - 9-4
+    - "+2"
+    - E. Davis makes 2-pt shot at rim
+  - - '7:58.0'
+    - J. Smith enters the game for B. Wallace
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 9-4
+    - ''
+    - B. Barry enters the game for E. Davis
+  - - '7:56.0'
+    - J. Stackhouse makes 2-pt shot from 19 ft (assist by M. Curry)
+    - "+2"
+    - 11-4
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 11-4
+    - ''
+    - Turnover by B. Barry (bad pass; steal by C. Atkins)
+  - - '7:32.0'
+    - J. Stackhouse makes 3-pt shot from 26 ft (assist by C. Atkins)
+    - "+3"
+    - 14-4
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - Seattle full timeout
+  - - '7:17.0'
+    - ''
+    - ''
+    - 14-4
+    - ''
+    - G. Payton misses 2-pt shot from 16 ft
+  - - '7:16.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 14-4
+    - ''
+    - ''
+  - - '7:10.0'
+    - C. Atkins makes 2-pt shot from 15 ft
+    - "+2"
+    - 16-4
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 16-6
+    - "+2"
+    - G. Payton makes 2-pt shot from 16 ft (assist by B. Barry)
+  - - '6:39.0'
+    - J. Stackhouse makes 3-pt shot from 23 ft (assist by M. Curry)
+    - "+3"
+    - 19-6
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 19-8
+    - "+2"
+    - R. Lewis makes 2-pt shot from 4 ft (assist by G. Payton)
+  - - '6:08.0'
+    - Personal foul by P. Ewing
+    - ''
+    - 19-8
+    - ''
+    - ''
+  - - '5:58.0'
+    - C. Atkins misses 3-pt shot from 24 ft
+    - ''
+    - 19-8
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 19-8
+    - ''
+    - Defensive rebound by Team
+  - - '5:46.0'
+    - ''
+    - ''
+    - 19-8
+    - ''
+    - G. Payton misses 2-pt shot from 13 ft
+  - - '5:44.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 19-8
+    - ''
+    - ''
+  - - '5:32.0'
+    - J. Stackhouse misses 2-pt shot from 19 ft
+    - ''
+    - 19-8
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 19-8
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '5:25.0'
+    - ''
+    - ''
+    - 19-10
+    - "+2"
+    - B. Barry makes 2-pt shot at rim (assist by G. Payton)
+  - - '5:10.0'
+    - J. Smith misses 2-pt shot from 18 ft
+    - ''
+    - 19-10
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 19-10
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '4:55.0'
+    - ''
+    - ''
+    - 19-10
+    - ''
+    - Turnover by G. Payton (bad pass; steal by M. Curry)
+  - - '4:48.0'
+    - Shooting foul by J. McCoy
+    - ''
+    - 19-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - J. Buechler enters the game for M. Curry
+    - ''
+    - 19-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 19-10
+    - ''
+    - V. Baker enters the game for P. Ewing
+  - - '4:48.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 20-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - M. Cleaves enters the game for C. Atkins
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - B. Wallace enters the game for E. Montross
+    - ''
+    - 20-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 21-10
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 21-12
+    - "+2"
+    - G. Payton makes 2-pt shot from 5 ft
+  - - '4:21.0'
+    - J. Stackhouse makes 2-pt shot from 10 ft
+    - "+2"
+    - 23-12
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 23-14
+    - "+2"
+    - J. McCoy makes 2-pt shot from 7 ft
+  - - '3:43.0'
+    - M. Cleaves misses 2-pt shot at rim
+    - ''
+    - 23-14
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 23-14
+    - ''
+    - Defensive rebound by J. McCoy
+  - - '3:40.0'
+    - D. Barros enters the game for J. Stackhouse
+    - ''
+    - 23-14
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 23-14
+    - ''
+    - Personal foul by B. Wallace
+  - - '3:26.0'
+    - ''
+    - ''
+    - 23-17
+    - "+3"
+    - B. Barry makes 3-pt shot from 26 ft (assist by G. Payton)
+  - - '3:18.0'
+    - Detroit full timeout
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '3:04.0'
+    - J. Smith misses 2-pt shot from 3 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Defensive rebound by J. McCoy
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Personal foul by M. Cleaves
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - G. Payton misses free throw 1 of 2
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Offensive rebound by Team
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - R. Patterson enters the game for J. McCoy
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-18
+    - "+1"
+    - G. Payton makes free throw 2 of 2
+  - - '2:39.0'
+    - Personal foul by B. Barry
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '2:39.0'
+    - Double technical foul by G. Payton and M. Cleaves
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '2:39.0'
+    - D. Barros makes free throw 1 of 2
+    - "+1"
+    - 24-18
+    - ''
+    - ''
+  - - '2:39.0'
+    - D. Barros makes free throw 2 of 2
+    - "+1"
+    - 25-18
+    - ''
+    - ''
+  - - '2:27.0'
+    - Defensive rebound by J. Buechler
+    - ''
+    - 25-18
+    - ''
+    - ''
+  - - '2:27.0'
+    - Loose ball foul by G. Payton
+    - ''
+    - 25-18
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 25-18
+    - ''
+    - V. Baker misses 2-pt shot at rim
+  - - '2:27.0'
+    - M. Cleaves makes free throw 1 of 2
+    - "+1"
+    - 26-18
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - S. Williams enters the game for G. Payton
+  - - '2:27.0'
+    - M. Cleaves makes free throw 2 of 2
+    - "+1"
+    - 27-18
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 27-18
+    - ''
+    - V. Baker misses 2-pt shot at rim
+  - - '2:08.0'
+    - Defensive rebound by J. Buechler
+    - ''
+    - 27-18
+    - ''
+    - ''
+  - - '1:57.0'
+    - B. Wallace misses 2-pt shot at rim
+    - ''
+    - 27-18
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 27-18
+    - ''
+    - Defensive rebound by V. Baker
+  - - '1:44.0'
+    - ''
+    - ''
+    - 27-18
+    - ''
+    - R. Lewis misses 2-pt shot from 19 ft
+  - - '1:43.0'
+    - ''
+    - ''
+    - 27-18
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '1:40.0'
+    - ''
+    - ''
+    - 27-20
+    - "+2"
+    - V. Baker makes 2-pt shot at rim (assist by R. Patterson)
+  - - '1:33.0'
+    - Offensive foul by J. Buechler
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '1:33.0'
+    - Turnover by J. Buechler (foul)
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '1:33.0'
+    - J. Stackhouse enters the game for M. Cleaves
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '1:33.0'
+    - B. Owens enters the game for J. Smith
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 27-20
+    - ''
+    - Turnover by R. Patterson (bad pass; steal by J. Stackhouse)
+  - - '1:13.0'
+    - Turnover by J. Stackhouse (bad pass; steal by R. Patterson)
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 27-22
+    - "+2"
+    - V. Baker makes 2-pt shot at rim (assist by R. Patterson)
+  - - '0:50.1'
+    - J. Buechler misses 3-pt shot from 26 ft
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:47.9'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:42.3'
+    - J. Stackhouse misses 2-pt shot from 5 ft (block by R. Patterson)
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:42.3'
+    - Offensive rebound by Team
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:37.2'
+    - D. Barros misses 2-pt shot from 2 ft
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:35.6'
+    - ''
+    - ''
+    - 27-22
+    - ''
+    - Defensive rebound by S. Williams
+  - - '0:30.5'
+    - ''
+    - ''
+    - 27-24
+    - "+2"
+    - S. Williams makes 2-pt shot from 13 ft
+  - - '0:16.9'
+    - B. Owens misses 2-pt shot from 19 ft
+    - ''
+    - 27-24
+    - ''
+    - ''
+  - - '0:15.3'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - Defensive rebound by B. Barry
+  - - '0:00.8'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - R. Lewis misses 2-pt shot from 6 ft
+  - - '0:00.4'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '0:00.3'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - R. Patterson misses 2-pt shot from 3 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 27-26
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim (assist by B. Barry)
+  - - '11:30.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 27-26
+    - ''
+    - Defensive rebound by V. Baker
+  - - '11:14.0'
+    - ''
+    - ''
+    - 27-26
+    - ''
+    - R. Patterson misses 2-pt shot from 7 ft
+  - - '11:13.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '11:04.0'
+    - Turnover by J. Stackhouse (bad pass; steal by R. Patterson)
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 27-28
+    - "+2"
+    - S. Williams makes 2-pt shot from 20 ft
+  - - '10:44.0'
+    - D. Barros makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 29-28
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 29-28
+    - ''
+    - Turnover by S. Williams (no)
+  - - '10:33.0'
+    - C. Atkins enters the game for D. Barros
+    - ''
+    - 29-28
+    - ''
+    - ''
+  - - '10:16.0'
+    - Turnover by J. Stackhouse (lost ball; steal by V. Baker)
+    - ''
+    - 29-28
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 29-30
+    - "+2"
+    - D. Mason makes 2-pt shot at rim (assist by S. Williams)
+  - - '9:53.0'
+    - Personal foul by B. Barry
+    - ''
+    - 29-30
+    - ''
+    - ''
+  - - '9:49.0'
+    - J. Stackhouse misses 2-pt shot from 5 ft
+    - ''
+    - 29-30
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 29-30
+    - ''
+    - Defensive rebound by V. Baker
+  - - '9:42.0'
+    - ''
+    - ''
+    - 29-30
+    - ''
+    - D. Mason misses 2-pt shot from 14 ft
+  - - '9:40.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 29-30
+    - ''
+    - ''
+  - - '9:19.0'
+    - C. Atkins misses 2-pt shot from 16 ft
+    - ''
+    - 29-30
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 29-30
+    - ''
+    - Defensive rebound by V. Baker
+  - - '9:07.0'
+    - ''
+    - ''
+    - 29-30
+    - ''
+    - Shooting foul by B. Wallace
+  - - '9:07.0'
+    - ''
+    - ''
+    - 29-31
+    - "+1"
+    - D. Mason makes free throw 1 of 2
+  - - '9:07.0'
+    - M. Curry enters the game for B. Owens
+    - ''
+    - 29-31
+    - ''
+    - ''
+  - - '9:07.0'
+    - ''
+    - ''
+    - 29-32
+    - "+1"
+    - D. Mason makes free throw 2 of 2
+  - - '8:51.0'
+    - J. Smith makes 2-pt shot from 10 ft (assist by J. Stackhouse)
+    - "+2"
+    - 31-32
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 31-34
+    - "+2"
+    - V. Baker makes 2-pt shot at rim (assist by S. Williams)
+  - - '8:28.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '8:28.0'
+    - M. Moore enters the game for B. Wallace
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - Shooting foul by J. Smith
+  - - '8:09.0'
+    - ''
+    - ''
+    - 31-35
+    - "+1"
+    - D. Mason makes free throw 1 of 2
+  - - '8:09.0'
+    - ''
+    - ''
+    - 31-36
+    - "+1"
+    - D. Mason makes free throw 2 of 2
+  - - '7:49.0'
+    - J. Stackhouse makes 2-pt shot from 12 ft (assist by M. Curry)
+    - "+2"
+    - 33-36
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - Personal foul by M. Moore
+  - - '7:39.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - G. Payton enters the game for B. Barry
+  - - '7:29.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - Turnover by S. Williams (bad pass; steal by J. Stackhouse)
+  - - '7:26.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 35-36
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - V. Baker misses 2-pt shot from 10 ft
+  - - '7:08.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Offensive rebound by Team
+  - - '7:08.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Loose ball foul by J. Stackhouse
+  - - '6:57.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - G. Payton misses 2-pt shot from 17 ft
+  - - '6:56.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Offensive rebound by Team
+  - - '6:56.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Loose ball foul by J. Smith
+  - - '6:56.0'
+    - ''
+    - ''
+    - 35-37
+    - "+1"
+    - V. Baker makes free throw 1 of 2
+  - - '6:56.0'
+    - ''
+    - ''
+    - 35-38
+    - "+1"
+    - V. Baker makes free throw 2 of 2
+  - - '6:45.0'
+    - M. Curry makes 2-pt shot at rim (assist by J. Smith)
+    - "+2"
+    - 37-38
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - Turnover by D. Mason (lost ball; steal by M. Moore)
+  - - '6:32.0'
+    - J. Stackhouse makes 2-pt shot from 13 ft
+    - "+2"
+    - 39-38
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Offensive foul by V. Baker
+  - - '6:17.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Turnover by V. Baker (foul)
+  - - '5:56.0'
+    - Shooting foul by S. Williams
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:56.0'
+    - Detroit full timeout
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - R. Lewis enters the game for R. Patterson
+  - - '5:56.0'
+    - M. Moore misses free throw 1 of 2
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:56.0'
+    - Offensive rebound by Team
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:56.0'
+    - M. Moore misses free throw 2 of 2
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '5:36.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - D. Mason misses 2-pt shot from 17 ft
+  - - '5:32.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '5:23.0'
+    - C. Atkins makes 3-pt shot from 23 ft (assist by M. Curry)
+    - "+3"
+    - 42-38
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - S. Williams misses 2-pt shot from 15 ft
+  - - '5:06.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '5:02.0'
+    - Turnover by J. Stackhouse (lost ball; steal by R. Lewis)
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - Turnover by S. Williams (bad pass; steal by C. Atkins)
+  - - '4:48.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by M. Moore
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '4:45.0'
+    - M. Moore makes 2-pt shot from 3 ft
+    - "+2"
+    - 44-38
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-38
+    - ''
+    - Shooting foul by M. Moore
+  - - '4:22.0'
+    - B. Owens enters the game for J. Smith
+    - ''
+    - 44-38
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-38
+    - ''
+    - B. Barry enters the game for S. Williams
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-38
+    - ''
+    - R. Patterson enters the game for D. Mason
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-38
+    - ''
+    - R. Lewis misses free throw 1 of 2
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-38
+    - ''
+    - Offensive rebound by Team
+  - - '4:22.0'
+    - ''
+    - ''
+    - 44-39
+    - "+1"
+    - R. Lewis makes free throw 2 of 2
+  - - '4:10.0'
+    - Shooting foul by V. Baker
+    - ''
+    - 44-39
+    - ''
+    - ''
+  - - '4:10.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 45-39
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - P. Ewing enters the game for V. Baker
+  - - '4:10.0'
+    - E. Montross enters the game for M. Moore
+    - ''
+    - 45-39
+    - ''
+    - ''
+  - - '4:10.0'
+    - J. Stackhouse misses free throw 2 of 2
+    - ''
+    - 45-39
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '3:55.0'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - P. Ewing misses 2-pt shot from 16 ft
+  - - '3:54.0'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '3:53.0'
+    - ''
+    - ''
+    - 45-41
+    - "+2"
+    - R. Patterson makes 2-pt shot from 5 ft
+  - - '3:42.0'
+    - M. Curry makes 2-pt shot from 14 ft (assist by C. Atkins)
+    - "+2"
+    - 47-41
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 47-43
+    - "+2"
+    - G. Payton makes 2-pt shot from 4 ft
+  - - '3:15.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft (block by R. Patterson)
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '3:13.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '3:10.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - Defensive rebound by B. Barry
+  - - '2:57.0'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - R. Lewis misses 2-pt shot from 3 ft
+  - - '2:55.0'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - Offensive rebound by P. Ewing
+  - - '2:54.0'
+    - ''
+    - ''
+    - 47-45
+    - "+2"
+    - P. Ewing makes 2-pt shot at rim
+  - - '2:54.0'
+    - Detroit no timeout
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:48.0'
+    - D. Barros enters the game for M. Curry
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:48.0'
+    - M. Moore enters the game for C. Atkins
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - Violation by Team (illegal defense)
+  - - '2:29.0'
+    - M. Moore misses 2-pt shot from 2 ft
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:27.0'
+    - E. Montross makes 2-pt shot at rim
+    - "+2"
+    - 49-45
+    - ''
+    - ''
+  - - '2:27.0'
+    - Offensive rebound by E. Montross
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 49-47
+    - "+2"
+    - R. Lewis makes 2-pt shot from 4 ft (assist by G. Payton)
+  - - '1:55.0'
+    - Shooting foul by R. Lewis
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '1:55.0'
+    - E. Montross misses free throw 1 of 2
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '1:55.0'
+    - Offensive rebound by Team
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '1:55.0'
+    - E. Montross makes free throw 2 of 2
+    - "+1"
+    - 50-47
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 50-50
+    - "+3"
+    - G. Payton makes 3-pt shot from 25 ft
+  - - '1:35.0'
+    - D. Barros makes 2-pt shot from 21 ft (assist by J. Stackhouse)
+    - "+2"
+    - 52-50
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - R. Lewis misses 3-pt shot from 25 ft
+  - - '1:24.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Offensive rebound by Team
+  - - '1:20.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Shooting foul by B. Owens
+  - - '1:20.0'
+    - ''
+    - ''
+    - 52-51
+    - "+1"
+    - G. Payton makes free throw 1 of 2
+  - - '1:20.0'
+    - J. Buechler enters the game for B. Owens
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 52-52
+    - "+1"
+    - G. Payton makes free throw 2 of 2
+  - - '1:03.0'
+    - E. Montross misses 2-pt shot from 16 ft
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '0:56.3'
+    - ''
+    - ''
+    - 52-54
+    - "+2"
+    - G. Payton makes 2-pt shot from 19 ft
+  - - '0:47.7'
+    - J. Stackhouse misses 2-pt shot from 8 ft
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '0:46.7'
+    - M. Moore makes 2-pt shot at rim
+    - "+2"
+    - 54-54
+    - ''
+    - ''
+  - - '0:46.7'
+    - Offensive rebound by M. Moore
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '0:35.4'
+    - ''
+    - ''
+    - 54-54
+    - ''
+    - R. Lewis misses 2-pt shot from 18 ft
+  - - '0:33.8'
+    - Defensive rebound by E. Montross
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '0:27.6'
+    - D. Barros misses 2-pt shot from 3 ft
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '0:27.1'
+    - M. Moore makes 2-pt shot at rim
+    - "+2"
+    - 56-54
+    - ''
+    - ''
+  - - '0:27.1'
+    - Offensive rebound by M. Moore
+    - ''
+    - 56-54
+    - ''
+    - ''
+  - - '0:10.1'
+    - ''
+    - ''
+    - 56-56
+    - "+2"
+    - G. Payton makes 2-pt shot at rim
+  - - '0:10.1'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - Shooting foul by J. Buechler
+  - - '0:10.1'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - D. Mason enters the game for R. Lewis
+  - - '0:10.1'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - E. Davis enters the game for B. Barry
+  - - '0:10.1'
+    - J. Smith enters the game for E. Montross
+    - ''
+    - 56-56
+    - ''
+    - ''
+  - - '0:10.1'
+    - ''
+    - ''
+    - 56-57
+    - "+1"
+    - G. Payton makes free throw 1 of 1
+  - - '0:00.2'
+    - Shooting foul by R. Patterson
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '0:00.2'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 57-57
+    - ''
+    - ''
+  - - '0:00.2'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 58-57
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - R. Lewis misses 2-pt shot from 16 ft
+  - - '11:40.0'
+    - Defensive rebound by C. Atkins
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '11:40.0'
+    - Offensive foul by C. Atkins
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '11:40.0'
+    - Turnover by C. Atkins (foul)
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - G. Payton misses 2-pt shot from 16 ft
+  - - '11:25.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 58-57
+    - ''
+    - ''
+  - - '11:13.0'
+    - M. Curry makes 2-pt shot from 14 ft (assist by C. Atkins)
+    - "+2"
+    - 60-57
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 60-60
+    - "+3"
+    - G. Payton makes 3-pt shot from 25 ft (assist by P. Ewing)
+  - - '10:36.0'
+    - M. Curry misses 2-pt shot from 21 ft
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '10:28.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - G. Payton misses 3-pt shot from 26 ft
+  - - '10:25.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - Offensive rebound by P. Ewing
+  - - '10:21.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - Turnover by G. Payton (bad pass; steal by M. Curry)
+  - - '10:17.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - Defensive rebound by J. McCoy
+  - - '10:04.0'
+    - ''
+    - ''
+    - 60-62
+    - "+2"
+    - G. Payton makes 2-pt shot from 12 ft (assist by J. McCoy)
+  - - '9:42.0'
+    - J. Stackhouse misses 3-pt shot from 23 ft
+    - ''
+    - 60-62
+    - ''
+    - ''
+  - - '9:41.0'
+    - Offensive rebound by E. Montross
+    - ''
+    - 60-62
+    - ''
+    - ''
+  - - '9:27.0'
+    - Shooting foul by E. Davis
+    - ''
+    - 60-62
+    - ''
+    - ''
+  - - '9:27.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 61-62
+    - ''
+    - ''
+  - - '9:27.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 62-62
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - P. Ewing misses 2-pt shot from 5 ft
+  - - '9:10.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 62-62
+    - ''
+    - ''
+  - - '9:07.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 64-62
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 64-64
+    - "+2"
+    - P. Ewing makes 2-pt shot at rim (assist by G. Payton)
+  - - '8:43.0'
+    - B. Wallace makes 2-pt shot at rim (assist by E. Montross)
+    - "+2"
+    - 66-64
+    - ''
+    - ''
+  - - '8:43.0'
+    - Shooting foul by E. Davis
+    - ''
+    - 66-64
+    - ''
+    - ''
+  - - '8:43.0'
+    - B. Wallace makes free throw 1 of 1
+    - "+1"
+    - 67-64
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 67-64
+    - ''
+    - R. Lewis misses 3-pt shot from 24 ft
+  - - '8:18.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '8:00.0'
+    - J. Stackhouse misses 2-pt shot from 10 ft
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 67-64
+    - ''
+    - Defensive rebound by Team
+  - - '7:50.0'
+    - ''
+    - ''
+    - 67-64
+    - ''
+    - P. Ewing misses 2-pt shot from 3 ft
+  - - '7:47.0'
+    - ''
+    - ''
+    - 67-66
+    - "+2"
+    - R. Lewis makes 2-pt shot at rim
+  - - '7:47.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - Offensive rebound by R. Lewis
+  - - '7:26.0'
+    - M. Curry misses 2-pt shot from 20 ft
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - Defensive rebound by E. Davis
+  - - '7:19.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - E. Davis misses 2-pt shot from 7 ft
+  - - '7:15.0'
+    - Defensive rebound by E. Montross
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '7:14.0'
+    - Turnover by E. Montross (lost ball; steal by E. Davis)
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - Personal foul by E. Montross
+  - - '7:00.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - J. McCoy misses 2-pt shot from 10 ft
+  - - '6:58.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:44.0'
+    - Turnover by E. Montross (lost ball; steal by E. Davis)
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - E. Davis misses 3-pt shot from 24 ft
+  - - '6:36.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - Offensive rebound by J. McCoy
+  - - '6:31.0'
+    - ''
+    - ''
+    - 67-66
+    - ''
+    - R. Lewis misses 3-pt shot from 26 ft
+  - - '6:29.0'
+    - Defensive rebound by Team
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:28.0'
+    - J. Buechler enters the game for M. Curry
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:09.0'
+    - J. Buechler misses 3-pt shot from 23 ft (block by P. Ewing)
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:05.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 67-66
+    - ''
+    - ''
+  - - '6:04.0'
+    - B. Wallace makes 2-pt shot from 5 ft
+    - "+2"
+    - 69-66
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 69-68
+    - "+2"
+    - G. Payton makes 2-pt shot from 17 ft
+  - - '5:43.0'
+    - C. Atkins makes 2-pt shot from 22 ft (assist by J. Buechler)
+    - "+2"
+    - 71-68
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 71-70
+    - "+2"
+    - P. Ewing makes 2-pt shot from 3 ft (assist by G. Payton)
+  - - '5:15.0'
+    - Personal foul by R. Lewis
+    - ''
+    - 71-70
+    - ''
+    - ''
+  - - '5:15.0'
+    - Detroit full timeout
+    - ''
+    - 71-70
+    - ''
+    - ''
+  - - '5:15.0'
+    - M. Cleaves enters the game for E. Montross
+    - ''
+    - 71-70
+    - ''
+    - ''
+  - - '5:15.0'
+    - J. Smith enters the game for J. Stackhouse
+    - ''
+    - 71-70
+    - ''
+    - ''
+  - - '4:58.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 71-70
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 71-72
+    - "+2"
+    - G. Payton makes 2-pt shot from 15 ft
+  - - '4:25.0'
+    - J. Smith makes 2-pt shot at rim
+    - "+2"
+    - 73-72
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - Violation by J. McCoy (def goaltending)
+  - - '4:06.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - Offensive foul by P. Ewing
+  - - '4:06.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - Turnover by P. Ewing (foul)
+  - - '3:52.0'
+    - J. Buechler makes 2-pt shot from 21 ft (assist by C. Atkins)
+    - "+2"
+    - 75-72
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Personal foul by B. Wallace
+  - - '3:30.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Turnover by G. Payton (bad pass; steal by C. Atkins)
+  - - '3:25.0'
+    - M. Cleaves misses 2-pt shot from 5 ft
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '3:23.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Personal foul by M. Cleaves
+  - - '3:23.0'
+    - E. Montross enters the game for B. Wallace
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - G. Payton misses 2-pt shot from 17 ft
+  - - '3:14.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '2:58.0'
+    - C. Atkins makes 2-pt shot from 18 ft
+    - "+2"
+    - 77-72
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Seattle 20 second timeout
+  - - '2:54.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Seattle full timeout
+  - - '2:52.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - R. Patterson enters the game for J. McCoy
+  - - '2:40.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Shooting foul by E. Montross
+  - - '2:40.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - B. Barry enters the game for E. Davis
+  - - '2:40.0'
+    - ''
+    - ''
+    - 77-73
+    - "+1"
+    - R. Lewis makes free throw 1 of 2
+  - - '2:40.0'
+    - ''
+    - ''
+    - 77-74
+    - "+1"
+    - R. Lewis makes free throw 2 of 2
+  - - '2:18.0'
+    - J. Buechler makes 3-pt shot from 24 ft (assist by C. Atkins)
+    - "+3"
+    - 80-74
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Personal foul by M. Cleaves
+  - - '2:08.0'
+    - J. Stackhouse enters the game for C. Atkins
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 80-75
+    - "+1"
+    - G. Payton makes free throw 1 of 2
+  - - '2:08.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - G. Payton misses free throw 2 of 2
+  - - '2:08.0'
+    - Defensive rebound by E. Montross
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '1:57.0'
+    - M. Cleaves misses 2-pt shot from 9 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - Defensive rebound by G. Payton
+  - - '1:51.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - G. Payton misses 2-pt shot from 2 ft (block by J. Smith)
+  - - '1:47.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - Offensive rebound by R. Lewis
+  - - '1:46.0'
+    - ''
+    - ''
+    - 80-77
+    - "+2"
+    - R. Lewis makes 2-pt shot at rim
+  - - '1:32.0'
+    - J. Smith misses 2-pt shot from 12 ft
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 80-77
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '1:25.0'
+    - ''
+    - ''
+    - 80-79
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim (assist by B. Barry)
+  - - '1:10.0'
+    - J. Stackhouse makes 2-pt shot from 19 ft
+    - "+2"
+    - 82-79
+    - ''
+    - ''
+  - - '0:43.7'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - P. Ewing misses 2-pt shot from 15 ft
+  - - '0:41.4'
+    - Defensive rebound by J. Smith
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '0:38.3'
+    - Turnover by J. Smith (bad pass; steal by G. Payton)
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '0:33.3'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - Turnover by R. Lewis (bad pass)
+  - - '0:33.3'
+    - D. Barros enters the game for M. Cleaves
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '0:18.3'
+    - Personal foul by B. Barry
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '0:04.8'
+    - D. Barros misses 2-pt shot from 5 ft
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '0:02.7'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '0:00.2'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - B. Barry misses 2-pt shot at rim
+  - - '0:00.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - B. Wallace makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 84-79
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - Personal foul by J. Buechler
+  - - '11:15.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - B. Barry misses 2-pt shot from 5 ft
+  - - '11:13.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '11:08.0'
+    - D. Barros misses 3-pt shot from 25 ft
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - Defensive rebound by Team
+  - - '11:07.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - Loose ball foul by M. Moore
+  - - '10:55.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - B. Barry misses 2-pt shot from 3 ft
+  - - '10:53.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:53.0'
+    - Personal foul by B. Barry
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:42.0'
+    - J. Stackhouse misses 2-pt shot from 11 ft
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:39.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:35.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:33.0'
+    - Offensive rebound by J. Buechler
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '10:30.0'
+    - M. Moore makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 86-79
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - Shooting foul by M. Moore
+  - - '10:10.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - R. Lewis enters the game for J. McCoy
+  - - '10:10.0'
+    - ''
+    - ''
+    - 86-80
+    - "+1"
+    - V. Baker makes free throw 1 of 2
+  - - '10:10.0'
+    - ''
+    - ''
+    - 86-81
+    - "+1"
+    - V. Baker makes free throw 2 of 2
+  - - '9:57.0'
+    - Turnover by M. Moore (bad pass)
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 86-83
+    - "+2"
+    - S. Williams makes 2-pt shot from 17 ft
+  - - '9:26.0'
+    - Shooting foul by S. Williams
+    - ''
+    - 86-83
+    - ''
+    - ''
+  - - '9:26.0'
+    - D. Barros makes free throw 1 of 2
+    - "+1"
+    - 87-83
+    - ''
+    - ''
+  - - '9:26.0'
+    - D. Barros makes free throw 2 of 2
+    - "+1"
+    - 88-83
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 88-83
+    - ''
+    - R. Patterson misses 3-pt shot from 23 ft
+  - - '9:10.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 88-83
+    - ''
+    - ''
+  - - '9:06.0'
+    - Shooting foul by R. Patterson
+    - ''
+    - 88-83
+    - ''
+    - ''
+  - - '9:06.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 89-83
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 89-83
+    - ''
+    - G. Payton enters the game for R. Patterson
+  - - '9:06.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 90-83
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 90-85
+    - "+2"
+    - R. Lewis makes 2-pt shot from 5 ft (assist by S. Williams)
+  - - '8:30.0'
+    - B. Wallace makes 2-pt shot from 3 ft
+    - "+2"
+    - 92-85
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 92-85
+    - ''
+    - R. Lewis misses 2-pt shot from 17 ft
+  - - '8:06.0'
+    - Defensive rebound by J. Buechler
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:48.0'
+    - Personal foul by V. Baker
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:48.0'
+    - Official timeout
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:48.0'
+    - C. Atkins enters the game for J. Buechler
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:35.0'
+    - J. Stackhouse misses 2-pt shot from 17 ft
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 92-85
+    - ''
+    - ''
+  - - '7:16.0'
+    - D. Barros makes 2-pt shot from 18 ft (assist by B. Wallace)
+    - "+2"
+    - 94-85
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 94-87
+    - "+2"
+    - V. Baker makes 2-pt shot at rim (assist by B. Barry)
+  - - '6:32.0'
+    - D. Barros makes 2-pt shot from 21 ft (assist by J. Stackhouse)
+    - "+2"
+    - 96-87
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - V. Baker misses 2-pt shot from 5 ft
+  - - '6:15.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '6:09.0'
+    - Turnover by M. Moore (traveling)
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - E. Davis enters the game for B. Barry
+  - - '5:56.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - S. Williams misses 3-pt shot from 24 ft
+  - - '5:55.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:44.0'
+    - D. Barros misses 3-pt shot from 23 ft
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - Defensive rebound by V. Baker
+  - - '5:34.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - Personal foul by C. Atkins
+  - - '5:34.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - Seattle full timeout
+  - - '5:34.0'
+    - J. Smith enters the game for M. Moore
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - P. Ewing enters the game for V. Baker
+  - - '5:34.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - R. Patterson enters the game for S. Williams
+  - - '5:25.0'
+    - ''
+    - ''
+    - 96-87
+    - ''
+    - G. Payton misses 3-pt shot from 23 ft
+  - - '5:25.0'
+    - Defensive rebound by Team
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:25.0'
+    - Loose ball foul by P. Ewing
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:25.0'
+    - J. Smith misses free throw 1 of 2
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:25.0'
+    - Offensive rebound by Team
+    - ''
+    - 96-87
+    - ''
+    - ''
+  - - '5:25.0'
+    - J. Smith makes free throw 2 of 2
+    - "+1"
+    - 97-87
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 97-87
+    - ''
+    - Turnover by P. Ewing (lost ball)
+  - - '4:48.0'
+    - Turnover by J. Smith (traveling)
+    - ''
+    - 97-87
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 97-87
+    - ''
+    - Personal foul by D. Barros
+  - - '4:34.0'
+    - ''
+    - ''
+    - 97-88
+    - "+1"
+    - G. Payton makes free throw 1 of 2
+  - - '4:34.0'
+    - ''
+    - ''
+    - 97-89
+    - "+1"
+    - G. Payton makes free throw 2 of 2
+  - - '4:14.0'
+    - C. Atkins misses 3-pt shot from 26 ft
+    - ''
+    - 97-89
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 97-89
+    - ''
+    - Defensive rebound by Team
+  - - '4:01.0'
+    - ''
+    - ''
+    - 97-91
+    - "+2"
+    - P. Ewing makes 2-pt shot at rim (assist by G. Payton)
+  - - '3:57.0'
+    - Detroit full timeout
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:57.0'
+    - M. Curry enters the game for D. Barros
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:47.0'
+    - C. Atkins misses 3-pt shot from 23 ft
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:44.0'
+    - Offensive rebound by J. Smith
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:42.0'
+    - Shooting foul by P. Ewing
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:42.0'
+    - B. Wallace misses free throw 1 of 2
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:42.0'
+    - B. Wallace misses free throw 2 of 2
+    - ''
+    - 97-91
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 97-91
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '3:28.0'
+    - ''
+    - ''
+    - 97-94
+    - "+3"
+    - E. Davis makes 3-pt shot from 23 ft (assist by G. Payton)
+  - - '3:18.0'
+    - J. Stackhouse makes 2-pt shot from 22 ft (assist by C. Atkins)
+    - "+2"
+    - 99-94
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 99-96
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim (assist by G. Payton)
+  - - '3:10.0'
+    - ''
+    - ''
+    - 99-96
+    - ''
+    - Shooting foul by J. Smith
+  - - '3:10.0'
+    - D. Barros enters the game for C. Atkins
+    - ''
+    - 99-96
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 99-97
+    - "+1"
+    - R. Patterson makes free throw 1 of 1
+  - - '2:59.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 99-97
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 99-97
+    - ''
+    - G. Payton misses 3-pt shot from 25 ft
+  - - '2:46.0'
+    - Defensive rebound by Team
+    - ''
+    - 99-97
+    - ''
+    - ''
+  - - '2:28.0'
+    - D. Barros makes 3-pt shot from 24 ft (assist by J. Smith)
+    - "+3"
+    - 102-97
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 102-97
+    - ''
+    - E. Davis misses 3-pt shot from 26 ft
+  - - '2:07.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 102-97
+    - ''
+    - ''
+  - - '2:07.0'
+    - Personal foul by E. Davis
+    - ''
+    - 102-97
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 102-97
+    - ''
+    - B. Barry enters the game for E. Davis
+  - - '2:07.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 103-97
+    - ''
+    - ''
+  - - '2:07.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 104-97
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 104-97
+    - ''
+    - G. Payton misses 2-pt shot from 3 ft
+  - - '1:53.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 104-97
+    - ''
+    - ''
+  - - '1:50.0'
+    - J. Stackhouse makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 106-97
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 106-97
+    - ''
+    - Seattle full timeout
+  - - '1:38.0'
+    - ''
+    - ''
+    - 106-97
+    - ''
+    - Shooting foul by B. Wallace
+  - - '1:38.0'
+    - ''
+    - ''
+    - 106-98
+    - "+1"
+    - R. Lewis makes free throw 1 of 2
+  - - '1:38.0'
+    - ''
+    - ''
+    - 106-98
+    - ''
+    - S. Williams enters the game for R. Patterson
+  - - '1:38.0'
+    - ''
+    - ''
+    - 106-99
+    - "+1"
+    - R. Lewis makes free throw 2 of 2
+  - - '1:22.0'
+    - D. Barros makes 2-pt shot from 18 ft
+    - "+2"
+    - 108-99
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - R. Lewis misses 3-pt shot from 26 ft
+  - - '1:09.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - Offensive rebound by P. Ewing
+  - - '1:09.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - Shooting foul by J. Stackhouse
+  - - '1:09.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - P. Ewing misses free throw 1 of 2
+  - - '1:09.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - Offensive rebound by Team
+  - - '1:09.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - P. Ewing misses free throw 2 of 2
+  - - '1:08.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 108-99
+    - ''
+    - ''
+  - - '0:50.2'
+    - J. Stackhouse misses 3-pt shot from 24 ft
+    - ''
+    - 108-99
+    - ''
+    - ''
+  - - '0:48.0'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - Defensive rebound by B. Barry
+  - - '0:43.7'
+    - ''
+    - ''
+    - 108-99
+    - ''
+    - G. Payton misses 2-pt shot from 2 ft
+  - - '0:42.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 108-99
+    - ''
+    - ''
+  - - '0:42.0'
+    - Personal foul by G. Payton
+    - ''
+    - 108-99
+    - ''
+    - ''
+  - - '0:42.0'
+    - B. Wallace makes free throw 1 of 2
+    - "+1"
+    - 109-99
+    - ''
+    - ''
+  - - '0:42.0'
+    - B. Wallace makes free throw 2 of 2
+    - "+1"
+    - 110-99
+    - ''
+    - ''
+  - - '0:33.5'
+    - ''
+    - ''
+    - 110-99
+    - ''
+    - R. Lewis misses 3-pt shot from 25 ft
+  - - '0:31.2'
+    - ''
+    - ''
+    - 110-99
+    - ''
+    - Offensive rebound by R. Lewis
+  - - '0:25.9'
+    - ''
+    - ''
+    - 110-99
+    - ''
+    - P. Ewing misses 2-pt shot from 5 ft
+  - - '0:24.3'
+    - Defensive rebound by Team
+    - ''
+    - 110-99
+    - ''
+    - ''
+  - - '0:24.3'
+    - Loose ball foul by G. Payton
+    - ''
+    - 110-99
+    - ''
+    - ''
+  - - '0:24.3'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 111-99
+    - ''
+    - ''
+  - - '0:24.3'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 112-99
+    - ''
+    - ''
+  - - '0:18.4'
+    - ''
+    - ''
+    - 112-99
+    - ''
+    - S. Williams misses 3-pt shot from 25 ft
+  - - '0:16.8'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 112-99
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

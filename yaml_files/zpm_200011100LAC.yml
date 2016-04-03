@@ -1,0 +1,228 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Alan Henderson (On: -15&#9642;Off: +6&#9642;Net: -21)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 127/
+    - 122/0
+    - 94/-11
+    - 156/
+    - 249/-3
+    - 'Jim Jackson (On: -17&#9642;Off: +8&#9642;Net: -25)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 127/
+    - 122/0
+    - 250/-14
+    - 85/
+    - 164/-2
+    - 'Roshown McLeod (On: -13&#9642;Off: +4&#9642;Net: -17)'
+    - |2-
+
+      0
+    - 169/0
+    - 330/
+    - 94/-11
+    - 240/
+    - 96/-2
+    - 69/
+    - 'Dikembe Mutombo (On: -16&#9642;Off: +7&#9642;Net: -23)'
+    - |2-
+
+      -5
+    - 209/-5
+    - 168/
+    - 122/0
+    - 197/-9
+    - 138/
+    - 164/-2
+    - 'Jason Terry (On: -8&#9642;Off: -1&#9642;Net: -7)'
+    - |2-
+
+      0
+    - 170/0
+    - 330/
+    - 31/-5
+    - 219/
+    - 249/-3
+    - 'Anthony Johnson (On: +3&#9642;Off: -12&#9642;Net: +15)'
+    - "\n"
+    - 175/
+    - 75/-1
+    - 53/+4
+    - 697/
+    - 'DerMarr Johnson (On: +4&#9642;Off: -13&#9642;Net: +17)'
+    - "\n"
+    - 174/
+    - 75/-1
+    - 249/+9
+    - 98/
+    - 151/-3
+    - 77/-1
+    - 110/
+    - 62/0
+    - 'Lorenzen Wright (On: +7&#9642;Off: -16&#9642;Net: +23)'
+    - "\n"
+    - 214/
+    - 35/+4
+    - 122/+9
+    - 329/
+    - 48/-5
+    - 77/-1
+    - 172/
+    - 'Chris Crawford (On: +6&#9642;Off: -15&#9642;Net: +21)'
+    - "\n"
+    - 250/
+    - 122/+9
+    - 226/
+    - 151/-3
+    - 250/
+    - 'Larry Robinson (On: +8&#9642;Off: -17&#9642;Net: +25)'
+    - "\n"
+    - 250/
+    - 122/+9
+    - 377/
+    - 77/-1
+    - 173/
+    - 'Matt Maloney (On: -4&#9642;Off: -5&#9642;Net: +1)'
+    - "\n"
+    - 304/
+    - 195/+5
+    - 37/
+    - 213/-9
+    - 250/
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: +18&#9642;Off: -9&#9642;Net: +27)'
+    - |2-
+
+      +3
+    - 235/+3
+    - 149/
+    - 115/+3
+    - 247/+12
+    - 190/
+    - 62/0
+    - 'Tyrone Nesby (On: +19&#9642;Off: -10&#9642;Net: +29)'
+    - |2-
+
+      +5
+    - 209/+5
+    - 198/
+    - 92/+7
+    - 204/+7
+    - 269/
+    - 26/0
+    - 'Lamar Odom (On: +8&#9642;Off: +1&#9642;Net: +7)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 53/-4
+    - 41/
+    - 145/-8
+    - 10/
+    - 196/+9
+    - 13/
+    - 40/+7
+    - 248/+3
+    - 'Michael Olowokandi (On: +12&#9642;Off: -3&#9642;Net: +15)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 75/
+    - 168/-5
+    - 7/
+    - 148/+13
+    - 101/
+    - 249/+3
+    - 'Brian Skinner (On: +15&#9642;Off: -6&#9642;Net: +21)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 157/
+    - 19/+1
+    - 73/
+    - 148/+13
+    - 351/
+    - 'Corey Maggette (On: -10&#9642;Off: +19&#9642;Net: -29)'
+    - "\n"
+    - 215/
+    - 35/-4
+    - 91/-6
+    - 659/
+    - 'Keyon Dooling (On: -9&#9642;Off: +18&#9642;Net: -27)'
+    - "\n"
+    - 239/
+    - 10/-2
+    - 130/-12
+    - 368/
+    - 0/+2
+    - 181/+3
+    - 69/
+    - 'Sean Rooks (On: -3&#9642;Off: +12&#9642;Net: -15)'
+    - "\n"
+    - 249/
+    - 72/-6
+    - 172/
+    - 6/+2
+    - 153/
+    - 97/+1
+    - 248/
+    - 'Derek Strong (On: -2&#9642;Off: +11&#9642;Net: -13)'
+    - "\n"
+    - 250/
+    - 69/-6
+    - 114/
+    - 66/+4
+    - 500/
+    - 'Darius Miles (On: -7&#9642;Off: +16&#9642;Net: -23)'
+    - "\n"
+    - 304/
+    - 96/-12
+    - 91/
+    - 8/+5
+    - 500/
+    - 'Eric Piatkowski (On: -4&#9642;Off: +13&#9642;Net: -17)'
+    - "\n"
+    - 321/
+    - 79/-10
+    - 99/
+    - 0/+2
+    - 153/
+    - 97/+1
+    - 248/+3
+    - 'Quentin Richardson (On: +8&#9642;Off: +1&#9642;Net: +7)'
+    - "\n"
+    - 702/
+    - 48/+5
+    - 219/+3
+    - 31/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

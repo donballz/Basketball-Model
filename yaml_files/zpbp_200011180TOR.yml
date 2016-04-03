@@ -1,0 +1,2828 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. J. Przybilla (M. Jackson gains possession)'
+  - - '11:48.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - C. Williamson makes 2-pt shot from 8 ft
+  - - '11:24.0'
+    - Turnover by R. Allen (bad pass)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:09.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - M. Jackson makes 2-pt shot from 8 ft
+  - - '11:01.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by V. Carter
+  - - '10:42.0'
+    - ''
+    - ''
+    - 0-6
+    - "+2"
+    - V. Carter makes 2-pt shot from 20 ft (assist by C. Oakley)
+  - - '10:19.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 3-6
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 3-6
+    - ''
+    - Personal foul by M. Pope
+  - - '10:00.0'
+    - ''
+    - ''
+    - 3-8
+    - "+2"
+    - M. Jackson makes 2-pt shot from 5 ft
+  - - '9:45.0'
+    - S. Cassell makes 2-pt shot from 10 ft
+    - "+2"
+    - 5-8
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 5-8
+    - ''
+    - Personal foul by J. Przybilla
+  - - '9:12.0'
+    - ''
+    - ''
+    - 5-11
+    - "+3"
+    - M. Jackson makes 3-pt shot from 30 ft (assist by A. Davis)
+  - - '8:57.0'
+    - M. Pope misses 2-pt shot from 19 ft
+    - ''
+    - 5-11
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 5-11
+    - ''
+    - Defensive rebound by V. Carter
+  - - '8:46.0'
+    - ''
+    - ''
+    - 5-11
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '8:45.0'
+    - ''
+    - ''
+    - 5-11
+    - ''
+    - Offensive rebound by V. Carter
+  - - '8:43.0'
+    - ''
+    - ''
+    - 5-11
+    - ''
+    - V. Carter misses 2-pt shot at rim (block by J. Przybilla)
+  - - '8:41.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 5-11
+    - ''
+    - ''
+  - - '8:39.0'
+    - M. Pope makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 7-11
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - V. Carter misses 2-pt shot from 19 ft
+  - - '8:22.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 7-11
+    - ''
+    - ''
+  - - '8:17.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 7-11
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - Defensive rebound by V. Carter
+  - - '8:09.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '8:08.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - Offensive rebound by Team
+  - - '8:08.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - Loose ball foul by S. Cassell
+  - - '7:57.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - Shooting foul by G. Robinson
+  - - '7:57.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - C. Williamson misses free throw 1 of 2
+  - - '7:57.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - Offensive rebound by Team
+  - - '7:57.0'
+    - ''
+    - ''
+    - 7-12
+    - "+1"
+    - C. Williamson makes free throw 2 of 2
+  - - '7:45.0'
+    - G. Robinson makes 2-pt shot from 18 ft
+    - "+2"
+    - 9-12
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - V. Carter misses 2-pt shot at rim (block by J. Przybilla)
+  - - '7:19.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:17.0'
+    - R. Allen misses 2-pt shot from 19 ft
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '7:10.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - V. Carter misses 3-pt shot from 23 ft
+  - - '7:07.0'
+    - Defensive rebound by J. Przybilla
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:00.0'
+    - G. Robinson misses 2-pt shot from 17 ft
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '6:59.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '6:57.0'
+    - G. Robinson misses 2-pt shot from 19 ft
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Defensive rebound by A. Davis
+  - - '6:42.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Shooting foul by J. Przybilla
+  - - '6:42.0'
+    - ''
+    - ''
+    - 9-13
+    - "+1"
+    - C. Williamson makes free throw 1 of 2
+  - - '6:42.0'
+    - ''
+    - ''
+    - 9-14
+    - "+1"
+    - C. Williamson makes free throw 2 of 2
+  - - '6:31.0'
+    - G. Robinson misses 2-pt shot from 19 ft
+    - ''
+    - 9-14
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 9-14
+    - ''
+    - Defensive rebound by C. Williamson
+  - - '6:15.0'
+    - ''
+    - ''
+    - 9-14
+    - ''
+    - Turnover by V. Carter (lost ball; steal by S. Cassell)
+  - - '6:11.0'
+    - Personal foul by V. Carter
+    - ''
+    - 9-14
+    - ''
+    - ''
+  - - '6:03.0'
+    - G. Robinson makes 2-pt shot from 6 ft
+    - "+2"
+    - 11-14
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 11-14
+    - ''
+    - Turnover by C. Williamson (bad pass; steal by R. Allen)
+  - - '5:38.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 13-14
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 13-14
+    - ''
+    - A. Davis misses 2-pt shot from 6 ft
+  - - '5:14.0'
+    - Defensive rebound by Team
+    - ''
+    - 13-14
+    - ''
+    - ''
+  - - '5:14.0'
+    - Official timeout
+    - ''
+    - 13-14
+    - ''
+    - ''
+  - - '4:59.0'
+    - Turnover by G. Robinson (bad pass; steal by C. Oakley)
+    - ''
+    - 13-14
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-14
+    - ''
+    - Shooting foul by R. Allen
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-15
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '4:52.0'
+    - E. Johnson enters the game for J. Przybilla
+    - ''
+    - 13-15
+    - ''
+    - ''
+  - - '4:52.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 13-15
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 13-16
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '4:32.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 13-16
+    - ''
+    - ''
+  - - '4:27.0'
+    - R. Allen misses 2-pt shot from 22 ft (block by V. Carter)
+    - ''
+    - 13-16
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 13-16
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '4:17.0'
+    - ''
+    - ''
+    - 13-18
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '4:17.0'
+    - ''
+    - ''
+    - 13-18
+    - ''
+    - Shooting foul by E. Johnson
+  - - '4:17.0'
+    - ''
+    - ''
+    - 13-19
+    - "+1"
+    - V. Carter makes free throw 1 of 1
+  - - '4:11.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 13-19
+    - ''
+    - ''
+  - - '4:03.0'
+    - T. Thomas makes 2-pt shot from 17 ft
+    - "+2"
+    - 15-19
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 15-19
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '3:43.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:34.0'
+    - Personal foul by C. Williamson
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:34.0'
+    - L. Hunter enters the game for S. Cassell
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:27.0'
+    - E. Johnson makes 2-pt shot from 6 ft
+    - "+2"
+    - 17-19
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 17-21
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by M. Jackson)
+  - - '3:09.0'
+    - ''
+    - ''
+    - 17-21
+    - ''
+    - Shooting foul by E. Johnson
+  - - '3:09.0'
+    - ''
+    - ''
+    - 17-22
+    - "+1"
+    - A. Davis makes free throw 1 of 1
+  - - '2:57.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 17-22
+    - ''
+    - ''
+  - - '2:56.0'
+    - Offensive rebound by L. Hunter
+    - ''
+    - 17-22
+    - ''
+    - ''
+  - - '2:52.0'
+    - R. Allen misses 2-pt shot at rim
+    - ''
+    - 17-22
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Defensive rebound by A. Davis
+  - - '2:42.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - M. Jackson misses 3-pt shot from 24 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Offensive rebound by C. Williamson
+  - - '2:37.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '2:35.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Offensive rebound by A. Davis
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Shooting foul by L. Hunter
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Official timeout
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - K. Willis enters the game for C. Oakley
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - A. Davis misses free throw 1 of 2
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - Offensive rebound by Team
+  - - '2:34.0'
+    - ''
+    - ''
+    - 17-22
+    - ''
+    - A. Davis misses free throw 2 of 2
+  - - '2:33.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 17-22
+    - ''
+    - ''
+  - - '2:16.0'
+    - T. Thomas makes 3-pt shot from 26 ft (assist by E. Johnson)
+    - "+3"
+    - 20-22
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - M. Jackson misses 2-pt shot from 19 ft (block by L. Hunter)
+  - - '1:46.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Offensive rebound by V. Carter
+  - - '1:45.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - V. Carter misses 2-pt shot from 23 ft
+  - - '1:44.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Offensive rebound by Team
+  - - '1:44.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Turnover by Team (shot clock)
+  - - '1:33.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 22-22
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Turnover by A. Davis (lost ball; steal by L. Hunter)
+  - - '1:09.0'
+    - L. Hunter misses 2-pt shot from 9 ft
+    - ''
+    - 22-22
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Defensive rebound by A. Davis
+  - - '1:01.0'
+    - ''
+    - ''
+    - 22-24
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim (assist by A. Davis)
+  - - '0:44.8'
+    - G. Robinson makes 2-pt shot at rim
+    - "+2"
+    - 24-24
+    - ''
+    - ''
+  - - '0:39.0'
+    - ''
+    - ''
+    - 24-24
+    - ''
+    - A. Williams enters the game for M. Jackson
+  - - '0:30.5'
+    - ''
+    - ''
+    - 24-26
+    - "+2"
+    - V. Carter makes 2-pt shot from 10 ft (assist by A. Williams)
+  - - '0:13.9'
+    - R. Allen makes 2-pt shot from 20 ft
+    - "+2"
+    - 26-26
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 26-28
+    - "+2"
+    - A. Williams makes 2-pt shot from 18 ft (assist by V. Carter)
+  - - '0:00.9'
+    - E. Johnson misses 2-pt shot from 7 ft
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - Offensive foul by E. Johnson
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '11:42.0'
+    - Turnover by E. Johnson (foul)
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '11:31.0'
+    - M. Pope enters the game for E. Johnson
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - K. Willis misses 2-pt shot from 14 ft
+  - - '11:20.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - Offensive rebound by V. Carter
+  - - '11:15.0'
+    - ''
+    - ''
+    - 26-28
+    - ''
+    - V. Carter misses 2-pt shot from 20 ft
+  - - '11:15.0'
+    - Defensive rebound by Team
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '11:01.0'
+    - T. Thomas misses 2-pt shot from 19 ft
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '10:59.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '10:58.0'
+    - J. Caffey makes 2-pt shot at rim
+    - "+2"
+    - 28-28
+    - ''
+    - ''
+  - - '10:58.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 28-28
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 28-28
+    - ''
+    - M. Stewart enters the game for A. Davis
+  - - '10:58.0'
+    - J. Caffey makes free throw 1 of 1
+    - "+1"
+    - 29-28
+    - ''
+    - ''
+  - - '10:46.0'
+    - Violation by R. Allen (illegal defense)
+    - ''
+    - 29-28
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 29-28
+    - ''
+    - A. Williams misses 2-pt shot from 11 ft (block by L. Hunter)
+  - - '10:36.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 29-28
+    - ''
+    - ''
+  - - '10:34.0'
+    - Turnover by T. Thomas (lost ball; steal by A. Williams)
+    - ''
+    - 29-28
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 29-30
+    - "+2"
+    - K. Willis makes 2-pt shot at rim (assist by V. Carter)
+  - - '10:18.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 31-30
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - Personal foul by T. Thomas
+  - - '10:02.0'
+    - ''
+    - ''
+    - 31-30
+    - ''
+    - M. Stewart misses 2-pt shot at rim (block by T. Thomas)
+  - - '9:59.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '9:48.0'
+    - Shooting foul by M. Stewart
+    - ''
+    - 31-30
+    - ''
+    - ''
+  - - '9:48.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 32-30
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 32-30
+    - ''
+    - M. Peterson enters the game for C. Williamson
+  - - '9:48.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 33-30
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 33-30
+    - ''
+    - Shooting foul by J. Caffey
+  - - '9:32.0'
+    - S. Cassell enters the game for R. Allen
+    - ''
+    - 33-30
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 33-31
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '9:32.0'
+    - ''
+    - ''
+    - 33-32
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '9:10.0'
+    - M. Pope makes 3-pt shot from 24 ft (assist by S. Cassell)
+    - "+3"
+    - 36-32
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - V. Carter misses 3-pt shot from 27 ft
+  - - '8:58.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Offensive rebound by A. Williams
+  - - '8:49.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - M. Peterson misses 2-pt shot from 18 ft
+  - - '8:49.0'
+    - Defensive rebound by Team
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - Official timeout
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '8:36.0'
+    - Personal foul by A. Williams
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '8:26.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Defensive rebound by K. Willis
+  - - '8:19.0'
+    - ''
+    - ''
+    - 36-34
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by A. Williams)
+  - - '8:03.0'
+    - T. Thomas makes 2-pt shot from 16 ft (assist by S. Cassell)
+    - "+2"
+    - 38-34
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 38-34
+    - ''
+    - M. Peterson misses 2-pt shot from 8 ft
+  - - '7:53.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '7:38.0'
+    - T. Thomas misses 2-pt shot from 9 ft
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '7:37.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '7:35.0'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 40-34
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - Personal foul by T. Thomas
+  - - '7:20.0'
+    - G. Robinson enters the game for M. Pope
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - C. Oakley enters the game for M. Stewart
+  - - '7:14.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - V. Carter misses 2-pt shot at rim (block by J. Caffey)
+  - - '7:11.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '7:09.0'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 42-34
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 42-34
+    - ''
+    - Toronto full timeout
+  - - '6:48.0'
+    - ''
+    - ''
+    - 42-36
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by M. Peterson)
+  - - '6:40.0'
+    - G. Robinson misses 2-pt shot from 21 ft
+    - ''
+    - 42-36
+    - ''
+    - ''
+  - - '6:38.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 42-36
+    - ''
+    - ''
+  - - '6:35.0'
+    - G. Robinson misses 2-pt shot from 11 ft
+    - ''
+    - 42-36
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 42-36
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '6:25.0'
+    - ''
+    - ''
+    - 42-36
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '6:23.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 42-36
+    - ''
+    - ''
+  - - '6:17.0'
+    - G. Robinson misses 2-pt shot at rim (block by V. Carter)
+    - ''
+    - 42-36
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 42-36
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:59.0'
+    - ''
+    - ''
+    - 42-39
+    - "+3"
+    - V. Carter makes 3-pt shot from 24 ft (assist by K. Willis)
+  - - '5:35.0'
+    - L. Hunter misses 2-pt shot from 12 ft
+    - ''
+    - 42-39
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 42-39
+    - ''
+    - Defensive rebound by V. Carter
+  - - '5:24.0'
+    - ''
+    - ''
+    - 42-41
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '5:15.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 42-41
+    - ''
+    - ''
+  - - '5:14.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 42-41
+    - ''
+    - ''
+  - - '5:11.0'
+    - T. Thomas misses 2-pt shot at rim
+    - ''
+    - 42-41
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 42-41
+    - ''
+    - Defensive rebound by A. Williams
+  - - '5:08.0'
+    - ''
+    - ''
+    - 42-41
+    - ''
+    - M. Peterson misses 2-pt shot at rim
+  - - '5:03.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 42-41
+    - ''
+    - ''
+  - - '4:59.0'
+    - G. Robinson makes 3-pt shot from 24 ft (assist by L. Hunter)
+    - "+3"
+    - 45-41
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - Toronto 20 second timeout
+  - - '4:50.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - M. Jackson enters the game for V. Carter
+  - - '4:44.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - Personal foul by J. Caffey
+  - - '4:44.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - A. Davis enters the game for K. Willis
+  - - '4:44.0'
+    - R. Allen enters the game for T. Thomas
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - A. Williams misses 2-pt shot from 20 ft
+  - - '4:29.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '4:20.0'
+    - R. Allen makes 3-pt shot from 24 ft (assist by G. Robinson)
+    - "+3"
+    - 48-41
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 48-41
+    - ''
+    - Turnover by M. Peterson (3 second)
+  - - '3:46.0'
+    - G. Robinson makes 2-pt shot from 14 ft
+    - "+2"
+    - 50-41
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 50-41
+    - ''
+    - Shooting foul by R. Allen
+  - - '3:21.0'
+    - ''
+    - ''
+    - 50-42
+    - "+1"
+    - M. Peterson makes free throw 1 of 2
+  - - '3:21.0'
+    - ''
+    - ''
+    - 50-43
+    - "+1"
+    - M. Peterson makes free throw 2 of 2
+  - - '3:04.0'
+    - R. Allen misses 2-pt shot from 10 ft
+    - ''
+    - 50-43
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - Defensive rebound by Team
+  - - '3:02.0'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - Loose ball foul by J. Caffey
+  - - '3:02.0'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - D. Curry enters the game for M. Peterson
+  - - '3:02.0'
+    - ''
+    - ''
+    - 50-44
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '3:02.0'
+    - T. Thomas enters the game for L. Hunter
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '3:02.0'
+    - M. Pope enters the game for J. Caffey
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - A. Davis misses free throw 2 of 2
+  - - '3:02.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '2:53.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '2:53.0'
+    - Official timeout
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '2:42.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - Defensive rebound by A. Davis
+  - - '2:17.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - D. Curry misses 3-pt shot from 25 ft
+  - - '2:16.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '2:11.0'
+    - R. Allen makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 52-44
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 52-47
+    - "+3"
+    - D. Curry makes 3-pt shot from 26 ft (assist by M. Jackson)
+  - - '1:36.0'
+    - S. Cassell misses 2-pt shot from 12 ft
+    - ''
+    - 52-47
+    - ''
+    - ''
+  - - '1:35.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 52-47
+    - ''
+    - ''
+  - - '1:34.0'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 52-47
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 52-47
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '1:33.0'
+    - ''
+    - ''
+    - 52-47
+    - ''
+    - Personal foul by M. Pope
+  - - '1:33.0'
+    - L. Hunter enters the game for T. Thomas
+    - ''
+    - 52-47
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 52-47
+    - ''
+    - V. Carter enters the game for C. Oakley
+  - - '1:33.0'
+    - ''
+    - ''
+    - 52-48
+    - "+1"
+    - M. Jackson makes free throw 1 of 2
+  - - '1:33.0'
+    - ''
+    - ''
+    - 52-49
+    - "+1"
+    - M. Jackson makes free throw 2 of 2
+  - - '1:19.0'
+    - Personal foul by A. Williams
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '1:19.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 53-49
+    - ''
+    - ''
+  - - '1:19.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 54-49
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 54-49
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '1:04.0'
+    - ''
+    - ''
+    - 54-49
+    - ''
+    - Offensive rebound by A. Davis
+  - - '1:02.0'
+    - ''
+    - ''
+    - 54-49
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '0:59.8'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 54-49
+    - ''
+    - ''
+  - - '0:54.9'
+    - G. Robinson misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 54-49
+    - ''
+    - ''
+  - - '0:52.3'
+    - Offensive rebound by R. Allen
+    - ''
+    - 54-49
+    - ''
+    - ''
+  - - '0:44.9'
+    - S. Cassell makes 2-pt shot from 21 ft
+    - "+2"
+    - 56-49
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 56-49
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by L. Hunter)
+  - - '0:31.9'
+    - G. Robinson misses 2-pt shot from 19 ft
+    - ''
+    - 56-49
+    - ''
+    - ''
+  - - '0:29.5'
+    - ''
+    - ''
+    - 56-49
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:29.5'
+    - ''
+    - ''
+    - 56-49
+    - ''
+    - Personal foul by S. Cassell
+  - - '0:29.5'
+    - ''
+    - ''
+    - 56-50
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '0:29.5'
+    - ''
+    - ''
+    - 56-51
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '0:17.9'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 58-51
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 58-51
+    - ''
+    - D. Curry misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 58-51
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 60-51
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 60-51
+    - ''
+    - V. Carter misses 2-pt shot from 16 ft
+  - - '11:25.0'
+    - ''
+    - ''
+    - 60-51
+    - ''
+    - Offensive rebound by A. Davis
+  - - '11:12.0'
+    - ''
+    - ''
+    - 60-51
+    - ''
+    - Turnover by V. Carter (bad pass)
+  - - '11:04.0'
+    - S. Cassell makes 2-pt shot from 18 ft (assist by G. Robinson)
+    - "+2"
+    - 62-51
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 62-51
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '10:40.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 62-51
+    - ''
+    - ''
+  - - '10:32.0'
+    - J. Przybilla makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 64-51
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 64-51
+    - ''
+    - Toronto 20 second timeout
+  - - '10:15.0'
+    - ''
+    - ''
+    - 64-53
+    - "+2"
+    - C. Williamson makes 2-pt shot from 8 ft (assist by C. Oakley)
+  - - '10:15.0'
+    - Violation by J. Przybilla (def goaltending)
+    - ''
+    - 64-53
+    - ''
+    - ''
+  - - '10:00.0'
+    - R. Allen makes 3-pt shot from 26 ft
+    - "+3"
+    - 67-53
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 67-53
+    - ''
+    - V. Carter misses 2-pt shot from 8 ft
+  - - '9:42.0'
+    - ''
+    - ''
+    - 67-53
+    - ''
+    - Offensive rebound by V. Carter
+  - - '9:41.0'
+    - ''
+    - ''
+    - 67-53
+    - ''
+    - Shooting foul by J. Przybilla
+  - - '9:41.0'
+    - ''
+    - ''
+    - 67-54
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '9:41.0'
+    - ''
+    - ''
+    - 67-55
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '9:28.0'
+    - G. Robinson misses 2-pt shot from 11 ft
+    - ''
+    - 67-55
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 67-55
+    - ''
+    - Defensive rebound by A. Davis
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-55
+    - ''
+    - Offensive foul by C. Williamson
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-55
+    - ''
+    - Turnover by C. Williamson (foul)
+  - - '9:16.0'
+    - Personal foul by C. Williamson
+    - ''
+    - 67-55
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 67-55
+    - ''
+    - Technical foul by Team
+  - - '9:10.0'
+    - S. Cassell makes free throw technical
+    - "+1"
+    - 68-55
+    - ''
+    - ''
+  - - '9:04.0'
+    - R. Allen makes 2-pt shot from 15 ft
+    - "+2"
+    - 70-55
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 70-57
+    - "+2"
+    - A. Davis makes 2-pt shot from 6 ft (assist by V. Carter)
+  - - '8:49.0'
+    - ''
+    - ''
+    - 70-57
+    - ''
+    - Shooting foul by J. Przybilla
+  - - '8:49.0'
+    - ''
+    - ''
+    - 70-58
+    - "+1"
+    - A. Davis makes free throw 1 of 1
+  - - '8:31.0'
+    - G. Robinson makes 2-pt shot from 15 ft (assist by S. Cassell)
+    - "+2"
+    - 72-58
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - C. Oakley misses 2-pt shot from 21 ft
+  - - '8:12.0'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - Offensive rebound by V. Carter
+  - - '8:06.0'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - C. Williamson misses 2-pt shot from 17 ft
+  - - '8:03.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 72-58
+    - ''
+    - ''
+  - - '7:58.0'
+    - G. Robinson makes 2-pt shot at rim (assist by R. Allen)
+    - "+2"
+    - 74-58
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-58
+    - ''
+    - Shooting foul by R. Allen
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-59
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-59
+    - ''
+    - A. Williams enters the game for C. Williamson
+  - - '7:40.0'
+    - Technical foul by Team
+    - ''
+    - 74-59
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-60
+    - "+1"
+    - V. Carter makes free throw technical
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-61
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '7:31.0'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '7:22.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '7:20.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '7:15.0'
+    - S. Cassell misses 2-pt shot from 20 ft
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '7:14.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '7:06.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Defensive rebound by A. Davis
+  - - '7:01.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Personal foul by S. Cassell
+  - - '6:41.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - A. Davis misses 2-pt shot from 16 ft (block by J. Przybilla)
+  - - '6:39.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '6:26.0'
+    - R. Allen misses 2-pt shot from 17 ft
+    - ''
+    - 74-61
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 74-61
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '6:21.0'
+    - ''
+    - ''
+    - 74-63
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '5:59.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:59.0'
+    - Official timeout
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:44.0'
+    - S. Cassell misses 2-pt shot from 8 ft
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:42.0'
+    - Turnover by J. Przybilla (off goaltending)
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 74-63
+    - ''
+    - V. Carter misses 2-pt shot from 11 ft
+  - - '5:35.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:22.0'
+    - Turnover by S. Cassell (bad pass; steal by V. Carter)
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 74-63
+    - ''
+    - Personal foul by M. Pope
+  - - '5:22.0'
+    - ''
+    - ''
+    - 74-64
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '5:22.0'
+    - T. Thomas enters the game for J. Przybilla
+    - ''
+    - 74-64
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 74-65
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '5:10.0'
+    - G. Robinson makes 2-pt shot from 16 ft
+    - "+2"
+    - 76-65
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Shooting foul by T. Thomas
+  - - '4:50.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - A. Williams misses free throw 1 of 2
+  - - '4:50.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Offensive rebound by Team
+  - - '4:50.0'
+    - ''
+    - ''
+    - 76-66
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '4:39.0'
+    - T. Thomas misses 2-pt shot from 16 ft
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Defensive rebound by V. Carter
+  - - '4:32.0'
+    - ''
+    - ''
+    - 76-69
+    - "+3"
+    - V. Carter makes 3-pt shot from 26 ft (assist by M. Jackson)
+  - - '4:16.0'
+    - G. Robinson makes 2-pt shot from 17 ft
+    - "+2"
+    - 78-69
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 78-71
+    - "+2"
+    - V. Carter makes 2-pt shot from 17 ft (assist by M. Jackson)
+  - - '3:43.0'
+    - Offensive foul by T. Thomas
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:43.0'
+    - Turnover by T. Thomas (foul)
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:43.0'
+    - E. Johnson enters the game for M. Pope
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 78-71
+    - ''
+    - A. Williams misses 2-pt shot from 15 ft
+  - - '3:26.0'
+    - Defensive rebound by Team
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:26.0'
+    - Loose ball foul by V. Carter
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:26.0'
+    - L. Hunter enters the game for S. Cassell
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:03.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '3:01.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '2:55.0'
+    - R. Allen misses 2-pt shot from 20 ft
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 78-71
+    - ''
+    - Defensive rebound by A. Williams
+  - - '2:49.0'
+    - ''
+    - ''
+    - 78-73
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by V. Carter)
+  - - '2:47.0'
+    - Milwaukee full timeout
+    - ''
+    - 78-73
+    - ''
+    - ''
+  - - '2:35.0'
+    - G. Robinson makes 2-pt shot from 15 ft (assist by L. Hunter)
+    - "+2"
+    - 80-73
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 80-76
+    - "+3"
+    - V. Carter makes 3-pt shot from 24 ft (assist by M. Jackson)
+  - - '1:56.0'
+    - E. Johnson makes 2-pt shot from 11 ft (assist by G. Robinson)
+    - "+2"
+    - 82-76
+    - ''
+    - ''
+  - - '1:33.0'
+    - J. Caffey enters the game for G. Robinson
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 82-76
+    - ''
+    - C. Oakley misses 3-pt shot from 27 ft
+  - - '1:29.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '1:11.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 82-76
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:55.7'
+    - ''
+    - ''
+    - 82-76
+    - ''
+    - Personal foul by L. Hunter
+  - - '0:55.7'
+    - ''
+    - ''
+    - 82-77
+    - "+1"
+    - M. Jackson makes free throw 1 of 2
+  - - '0:55.7'
+    - ''
+    - ''
+    - 82-78
+    - "+1"
+    - M. Jackson makes free throw 2 of 2
+  - - '0:36.3'
+    - Personal foul by C. Oakley
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '0:26.2'
+    - Shooting foul by A. Davis
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '0:26.2'
+    - J. Caffey misses free throw 1 of 2
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '0:26.2'
+    - Offensive rebound by Team
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '0:26.2'
+    - J. Caffey misses free throw 2 of 2
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '0:26.2'
+    - ''
+    - ''
+    - 82-78
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:07.9'
+    - ''
+    - ''
+    - 82-78
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '0:05.4'
+    - ''
+    - ''
+    - 82-78
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 82-80
+    - "+2"
+    - V. Carter makes 2-pt shot from 15 ft (assist by A. Williams)
+  - - '11:27.0'
+    - J. Caffey misses 2-pt shot from 4 ft
+    - ''
+    - 82-80
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 82-80
+    - ''
+    - Defensive rebound by Team
+  - - '11:27.0'
+    - ''
+    - ''
+    - 82-80
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '11:06.0'
+    - ''
+    - ''
+    - 82-83
+    - "+3"
+    - C. Oakley makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '10:51.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '10:47.0'
+    - ''
+    - ''
+    - 82-85
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by M. Jackson)
+  - - '10:47.0'
+    - ''
+    - ''
+    - 82-85
+    - ''
+    - Shooting foul by L. Hunter
+  - - '10:47.0'
+    - G. Robinson enters the game for E. Johnson
+    - ''
+    - 82-85
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 82-86
+    - "+1"
+    - A. Williams makes free throw 1 of 1
+  - - '10:29.0'
+    - J. Caffey makes 2-pt shot from 4 ft
+    - "+2"
+    - 84-86
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 84-86
+    - ''
+    - Personal foul by J. Caffey
+  - - '10:03.0'
+    - ''
+    - ''
+    - 84-86
+    - ''
+    - A. Williams misses 3-pt shot from 25 ft
+  - - '10:01.0'
+    - ''
+    - ''
+    - 84-86
+    - ''
+    - Offensive rebound by A. Davis
+  - - '10:01.0'
+    - ''
+    - ''
+    - 84-86
+    - ''
+    - Personal foul by T. Thomas
+  - - '10:01.0'
+    - S. Cassell enters the game for T. Thomas
+    - ''
+    - 84-86
+    - ''
+    - ''
+  - - '10:01.0'
+    - M. Pope enters the game for R. Allen
+    - ''
+    - 84-86
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 84-88
+    - "+2"
+    - A. Williams makes 2-pt shot from 14 ft
+  - - '9:37.0'
+    - S. Cassell misses 2-pt shot from 19 ft
+    - ''
+    - 84-88
+    - ''
+    - ''
+  - - '9:36.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 84-88
+    - ''
+    - ''
+  - - '9:33.0'
+    - J. Caffey makes 2-pt shot at rim
+    - "+2"
+    - 86-88
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 86-90
+    - "+2"
+    - A. Williams makes 2-pt shot from 17 ft (assist by M. Jackson)
+  - - '9:13.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Shooting foul by J. Caffey
+  - - '9:13.0'
+    - ''
+    - ''
+    - 86-91
+    - "+1"
+    - A. Williams makes free throw 1 of 1
+  - - '9:01.0'
+    - L. Hunter makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 89-91
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 89-91
+    - ''
+    - Turnover by A. Davis (traveling)
+  - - '8:40.0'
+    - Official timeout
+    - ''
+    - 89-91
+    - ''
+    - ''
+  - - '8:28.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 89-91
+    - ''
+    - ''
+  - - '8:28.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 90-91
+    - ''
+    - ''
+  - - '8:28.0'
+    - J. Caffey misses free throw 2 of 2
+    - ''
+    - 90-91
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 90-91
+    - ''
+    - Defensive rebound by A. Davis
+  - - '8:06.0'
+    - ''
+    - ''
+    - 90-93
+    - "+2"
+    - V. Carter makes 2-pt shot from 13 ft
+  - - '7:48.0'
+    - L. Hunter misses 2-pt shot at rim
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '7:46.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '7:38.0'
+    - G. Robinson makes 2-pt shot from 7 ft
+    - "+2"
+    - 92-93
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 92-93
+    - ''
+    - Violation by A. Davis (def goaltending)
+  - - '7:38.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 92-93
+    - ''
+    - ''
+  - - '7:38.0'
+    - G. Robinson misses free throw 1 of 1
+    - ''
+    - 92-93
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 92-93
+    - ''
+    - Defensive rebound by Team
+  - - '7:38.0'
+    - ''
+    - ''
+    - 92-93
+    - ''
+    - Loose ball foul by J. Caffey
+  - - '7:38.0'
+    - T. Thomas enters the game for J. Caffey
+    - ''
+    - 92-93
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 92-94
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '7:38.0'
+    - ''
+    - ''
+    - 92-95
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '7:20.0'
+    - T. Thomas misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 92-95
+    - ''
+    - ''
+  - - '7:18.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 92-95
+    - ''
+    - ''
+  - - '7:15.0'
+    - T. Thomas misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 92-95
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 92-95
+    - ''
+    - Defensive rebound by A. Davis
+  - - '7:01.0'
+    - ''
+    - ''
+    - 92-95
+    - ''
+    - A. Williams misses 2-pt shot at rim (block by T. Thomas)
+  - - '7:01.0'
+    - ''
+    - ''
+    - 92-95
+    - ''
+    - Offensive rebound by Team
+  - - '7:01.0'
+    - R. Allen enters the game for M. Pope
+    - ''
+    - 92-95
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 92-95
+    - ''
+    - C. Oakley misses 3-pt shot from 25 ft
+  - - '6:51.0'
+    - Defensive rebound by Team
+    - ''
+    - 92-95
+    - ''
+    - ''
+  - - '6:33.0'
+    - G. Robinson makes 2-pt shot from 7 ft
+    - "+2"
+    - 94-95
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 94-95
+    - ''
+    - Shooting foul by T. Thomas
+  - - '6:14.0'
+    - E. Johnson enters the game for T. Thomas
+    - ''
+    - 94-95
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 94-96
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '6:14.0'
+    - ''
+    - ''
+    - 94-97
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '5:58.0'
+    - G. Robinson misses 2-pt shot from 13 ft (block by A. Davis)
+    - ''
+    - 94-97
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:36.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Shooting foul by E. Johnson
+  - - '5:36.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Official timeout
+  - - '5:36.0'
+    - ''
+    - ''
+    - 94-98
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '5:36.0'
+    - ''
+    - ''
+    - 94-98
+    - ''
+    - V. Carter misses free throw 2 of 2
+  - - '5:35.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 94-98
+    - ''
+    - ''
+  - - '5:22.0'
+    - E. Johnson makes 2-pt shot from 8 ft (assist by R. Allen)
+    - "+2"
+    - 96-98
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 96-98
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '4:58.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 96-98
+    - ''
+    - ''
+  - - '4:54.0'
+    - Personal foul by A. Williams
+    - ''
+    - 96-98
+    - ''
+    - ''
+  - - '4:45.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 98-98
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 98-100
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '4:10.0'
+    - Personal foul by A. Davis
+    - ''
+    - 98-100
+    - ''
+    - ''
+  - - '4:01.0'
+    - R. Allen misses 2-pt shot from 20 ft
+    - ''
+    - 98-100
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 98-100
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '3:52.0'
+    - ''
+    - ''
+    - 98-100
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '3:51.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 98-100
+    - ''
+    - ''
+  - - '3:46.0'
+    - Turnover by S. Cassell (lost ball; steal by A. Davis)
+    - ''
+    - 98-100
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 98-100
+    - ''
+    - Personal foul by L. Hunter
+  - - '3:33.0'
+    - ''
+    - ''
+    - 98-101
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '3:33.0'
+    - ''
+    - ''
+    - 98-102
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '3:20.0'
+    - L. Hunter misses 2-pt shot from 19 ft
+    - ''
+    - 98-102
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 98-102
+    - ''
+    - Defensive rebound by A. Davis
+  - - '3:03.0'
+    - ''
+    - ''
+    - 98-104
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '2:44.0'
+    - Turnover by R. Allen (lost ball; steal by V. Carter)
+    - ''
+    - 98-104
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 98-106
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+  - - '2:25.0'
+    - ''
+    - ''
+    - 98-106
+    - ''
+    - Shooting foul by S. Cassell
+  - - '2:25.0'
+    - ''
+    - ''
+    - 98-107
+    - "+1"
+    - A. Davis makes free throw 1 of 1
+  - - '2:11.0'
+    - S. Cassell misses 3-pt shot from 24 ft
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '2:09.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '2:07.0'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '2:06.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - Offensive foul by C. Oakley
+  - - '2:06.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - Turnover by C. Oakley (foul)
+  - - '2:02.0'
+    - Turnover by G. Robinson (lost ball; steal by C. Oakley)
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - Shooting foul by S. Cassell
+  - - '1:41.0'
+    - M. Pope enters the game for E. Johnson
+    - ''
+    - 98-107
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - A. Davis misses free throw 1 of 2
+  - - '1:41.0'
+    - ''
+    - ''
+    - 98-107
+    - ''
+    - Offensive rebound by Team
+  - - '1:41.0'
+    - ''
+    - ''
+    - 98-108
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '1:22.0'
+    - R. Allen makes 3-pt shot from 24 ft (assist by M. Pope)
+    - "+3"
+    - 101-108
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 101-108
+    - ''
+    - Personal foul by M. Pope
+  - - '1:03.0'
+    - ''
+    - ''
+    - 101-108
+    - ''
+    - C. Oakley misses free throw 1 of 2
+  - - '1:03.0'
+    - ''
+    - ''
+    - 101-108
+    - ''
+    - Offensive rebound by Team
+  - - '1:03.0'
+    - ''
+    - ''
+    - 101-109
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '1:03.0'
+    - Milwaukee full timeout
+    - ''
+    - 101-109
+    - ''
+    - ''
+  - - '0:55.9'
+    - G. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 101-109
+    - ''
+    - ''
+  - - '0:53.6'
+    - Offensive rebound by M. Pope
+    - ''
+    - 101-109
+    - ''
+    - ''
+  - - '0:49.7'
+    - Personal foul by A. Williams
+    - ''
+    - 101-109
+    - ''
+    - ''
+  - - '0:49.7'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 102-109
+    - ''
+    - ''
+  - - '0:49.7'
+    - R. Allen misses free throw 2 of 2
+    - ''
+    - 102-109
+    - ''
+    - ''
+  - - '0:49.5'
+    - ''
+    - ''
+    - 102-109
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:47.7'
+    - ''
+    - ''
+    - 102-109
+    - ''
+    - Personal foul by M. Pope
+  - - '0:47.7'
+    - ''
+    - ''
+    - 102-110
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '0:47.7'
+    - ''
+    - ''
+    - 102-111
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '0:47.7'
+    - Milwaukee full timeout
+    - ''
+    - 102-111
+    - ''
+    - ''
+  - - '0:46.9'
+    - Turnover by S. Cassell (bad pass; steal by V. Carter)
+    - ''
+    - 102-111
+    - ''
+    - ''
+  - - '0:44.3'
+    - ''
+    - ''
+    - 102-111
+    - ''
+    - Toronto full timeout
+  - - '0:44.3'
+    - 'Jump ball: V. Carter vs. G. Robinson (A. Davis gains possession)'
+  - - '0:21.9'
+    - ''
+    - ''
+    - 102-111
+    - ''
+    - V. Carter misses 2-pt shot from 21 ft
+  - - '0:19.9'
+    - ''
+    - ''
+    - 102-111
+    - ''
+    - Offensive rebound by A. Davis
+  - - '0:00.0'
+    - End of 4th quarter

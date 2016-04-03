@@ -1,0 +1,2316 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Camby vs. K. Garnett (T. Brandon gains possession)'
+  - - '11:48.0'
+    - K. Garnett misses 2-pt shot from 10 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:47.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '11:29.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '11:15.0'
+    - K. Garnett misses 2-pt shot from 20 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:13.0'
+    - Offensive rebound by C. Billups
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:08.0'
+    - K. Garnett makes 2-pt shot at rim (assist by T. Brandon)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Personal foul by C. Billups
+  - - '10:36.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by G. Rice)
+  - - '10:24.0'
+    - C. Billups misses 3-pt shot from 25 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by M. Camby
+  - - '10:05.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Turnover by L. Sprewell (lost ball; steal by L. Ellis)
+  - - '9:54.0'
+    - L. Ellis makes 2-pt shot at rim (assist by T. Brandon)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - L. Johnson makes 2-pt shot from 7 ft
+  - - '9:22.0'
+    - K. Garnett makes 2-pt shot from 22 ft (assist by T. Brandon)
+    - "+2"
+    - 6-6
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Turnover by L. Johnson (lost ball; steal by K. Garnett)
+  - - '8:58.0'
+    - T. Brandon misses 2-pt shot from 18 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by G. Rice
+  - - '8:38.0'
+    - ''
+    - ''
+    - 6-8
+    - "+2"
+    - A. Houston makes 2-pt shot from 7 ft (assist by G. Rice)
+  - - '8:28.0'
+    - Shooting foul by A. Houston
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '8:28.0'
+    - L. Ellis makes free throw 1 of 2
+    - "+1"
+    - 7-8
+    - ''
+    - ''
+  - - '8:28.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 8-8
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Personal foul by C. Billups
+  - - '8:19.0'
+    - A. Peeler enters the game for C. Billups
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - G. Rice misses 2-pt shot from 6 ft
+  - - '8:10.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '8:04.0'
+    - Turnover by A. Peeler (traveling)
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Turnover by L. Johnson (lost ball; steal by L. Ellis)
+  - - '7:36.0'
+    - Turnover by L. Ellis (traveling)
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:16.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - A. Houston makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '7:04.0'
+    - W. Szczerbiak makes 2-pt shot from 22 ft (assist by K. Garnett)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '6:45.0'
+    - Violation by L. Ellis (illegal defense)
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 10-12
+    - "+2"
+    - A. Houston makes 2-pt shot from 11 ft
+  - - '6:23.0'
+    - T. Brandon misses 2-pt shot from 20 ft
+    - ''
+    - 10-12
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '6:04.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - New York full timeout
+  - - '5:57.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - L. Johnson misses 2-pt shot from 6 ft
+  - - '5:55.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Offensive rebound by M. Camby
+  - - '5:34.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Turnover by G. Rice (bad pass; steal by L. Ellis)
+  - - '5:28.0'
+    - T. Brandon misses 2-pt shot from 11 ft
+    - ''
+    - 10-12
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:13.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Ill def tech foul by L. Ellis
+  - - '5:13.0'
+    - ''
+    - ''
+    - 10-13
+    - "+1"
+    - A. Houston makes free throw technical
+  - - '5:07.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - A. Houston misses 2-pt shot from 17 ft
+  - - '5:05.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '4:56.0'
+    - W. Szczerbiak misses 3-pt shot from 24 ft
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '4:35.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - G. Rice misses 2-pt shot from 10 ft
+  - - '4:33.0'
+    - Defensive rebound by A. Peeler
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '4:21.0'
+    - W. Szczerbiak misses 2-pt shot from 12 ft
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by M. Camby
+  - - '4:12.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - L. Johnson misses 3-pt shot from 24 ft
+  - - '4:10.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Offensive rebound by M. Camby
+  - - '4:10.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Loose ball foul by L. Ellis
+  - - '4:10.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - New York full timeout
+  - - '4:06.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim
+  - - '4:06.0'
+    - Violation by K. Garnett (def goaltending)
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '3:54.0'
+    - K. Garnett makes 2-pt shot from 11 ft
+    - "+2"
+    - 12-15
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Turnover by L. Sprewell (bad pass; steal by T. Brandon)
+  - - '3:29.0'
+    - Turnover by A. Peeler (bad pass; steal by M. Camby)
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 12-17
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '3:11.0'
+    - Personal foul by A. Houston
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - C. Childs enters the game for A. Houston
+  - - '3:11.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - K. Thomas enters the game for M. Camby
+  - - '3:11.0'
+    - R. Nesterovic enters the game for L. Ellis
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '3:00.0'
+    - Turnover by T. Brandon (bad pass)
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 12-19
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim
+  - - '2:35.0'
+    - A. Peeler misses 3-pt shot from 26 ft
+    - ''
+    - 12-19
+    - ''
+    - ''
+  - - '2:33.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 12-19
+    - ''
+    - ''
+  - - '2:25.0'
+    - A. Peeler makes 2-pt shot at rim (assist by W. Szczerbiak)
+    - "+2"
+    - 14-19
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 14-22
+    - "+3"
+    - G. Rice makes 3-pt shot from 25 ft (assist by C. Childs)
+  - - '1:46.0'
+    - K. Garnett misses 2-pt shot from 14 ft
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '1:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '1:44.0'
+    - S. Mitchell enters the game for W. Szczerbiak
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '1:38.0'
+    - T. Brandon misses 2-pt shot from 15 ft
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '1:36.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '1:34.0'
+    - K. Garnett makes 2-pt shot from 8 ft
+    - "+2"
+    - 16-22
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - Personal foul by R. Nesterovic
+  - - '1:10.0'
+    - ''
+    - ''
+    - 16-25
+    - "+3"
+    - L. Johnson makes 3-pt shot from 24 ft (assist by C. Childs)
+  - - '0:53.5'
+    - A. Peeler misses 2-pt shot from 22 ft
+    - ''
+    - 16-25
+    - ''
+    - ''
+  - - '0:51.3'
+    - ''
+    - ''
+    - 16-25
+    - ''
+    - Defensive rebound by Team
+  - - '0:39.1'
+    - ''
+    - ''
+    - 16-25
+    - ''
+    - Shooting foul by A. Peeler
+  - - '0:39.1'
+    - ''
+    - ''
+    - 16-26
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '0:39.1'
+    - ''
+    - ''
+    - 16-27
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '0:29.6'
+    - Shooting foul by K. Thomas
+    - ''
+    - 16-27
+    - ''
+    - ''
+  - - '0:29.6'
+    - R. Nesterovic makes free throw 1 of 2
+    - "+1"
+    - 17-27
+    - ''
+    - ''
+  - - '0:29.6'
+    - R. Nesterovic makes free throw 2 of 2
+    - "+1"
+    - 18-27
+    - ''
+    - ''
+  - - '0:07.9'
+    - ''
+    - ''
+    - 18-27
+    - ''
+    - Shooting foul by R. Nesterovic
+  - - '0:07.9'
+    - ''
+    - ''
+    - 18-28
+    - "+1"
+    - C. Childs makes free throw 1 of 2
+  - - '0:07.9'
+    - T. Day enters the game for R. Nesterovic
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '0:07.9'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - C. Childs misses free throw 2 of 2
+  - - '0:06.5'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '0:01.0'
+    - T. Brandon misses 2-pt shot from 15 ft
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - L. Sprewell misses 2-pt shot from 14 ft
+  - - '11:39.0'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '11:35.0'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - G. Rice misses 3-pt shot from 25 ft
+  - - '11:33.0'
+    - Defensive rebound by S. Mitchell
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '11:16.0'
+    - K. Garnett misses 2-pt shot from 8 ft
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '11:14.0'
+    - Offensive rebound by Team
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '11:09.0'
+    - C. Billups makes 2-pt shot from 8 ft
+    - "+2"
+    - 20-28
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 20-30
+    - "+2"
+    - G. Rice makes 2-pt shot at rim (assist by C. Childs)
+  - - '10:25.0'
+    - Turnover by T. Day (bad pass)
+    - ''
+    - 20-30
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 20-30
+    - ''
+    - A. Houston enters the game for L. Sprewell
+  - - '10:11.0'
+    - ''
+    - ''
+    - 20-32
+    - "+2"
+    - C. Childs makes 2-pt shot from 20 ft
+  - - '10:00.0'
+    - Minnesota 20 second timeout
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '9:49.0'
+    - K. Garnett misses 2-pt shot from 6 ft
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 20-32
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '9:30.0'
+    - ''
+    - ''
+    - 20-32
+    - ''
+    - A. Houston misses 2-pt shot from 17 ft
+  - - '9:27.0'
+    - Defensive rebound by S. Mitchell
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '9:19.0'
+    - K. Garnett makes 2-pt shot from 20 ft (assist by C. Billups)
+    - "+2"
+    - 22-32
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 22-32
+    - ''
+    - Offensive foul by L. Johnson
+  - - '9:05.0'
+    - ''
+    - ''
+    - 22-32
+    - ''
+    - Turnover by L. Johnson (foul)
+  - - '9:05.0'
+    - ''
+    - ''
+    - 22-32
+    - ''
+    - M. Camby enters the game for L. Johnson
+  - - '8:56.0'
+    - Official timeout
+    - ''
+    - 22-32
+    - ''
+    - ''
+  - - '8:43.0'
+    - L. Ellis makes 2-pt shot from 18 ft
+    - "+2"
+    - 24-32
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 24-34
+    - "+2"
+    - A. Houston makes 2-pt shot from 15 ft
+  - - '8:09.0'
+    - L. Ellis misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 24-34
+    - ''
+    - ''
+  - - '8:09.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-34
+    - ''
+    - ''
+  - - '8:03.0'
+    - K. Garnett misses 2-pt shot from 22 ft
+    - ''
+    - 24-34
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 24-34
+    - ''
+    - Defensive rebound by G. Rice
+  - - '7:47.0'
+    - ''
+    - ''
+    - 24-37
+    - "+3"
+    - A. Houston makes 3-pt shot from 25 ft
+  - - '7:33.0'
+    - S. Mitchell makes 2-pt shot from 22 ft (assist by C. Billups)
+    - "+2"
+    - 26-37
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 26-37
+    - ''
+    - Turnover by C. Childs (bad pass)
+  - - '7:06.0'
+    - C. Billups makes 3-pt shot from 25 ft (assist by K. Garnett)
+    - "+3"
+    - 29-37
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - New York full timeout
+  - - '6:44.0'
+    - ''
+    - ''
+    - 29-39
+    - "+2"
+    - A. Houston makes 2-pt shot from 16 ft
+  - - '6:26.0'
+    - Turnover by K. Garnett (traveling)
+    - ''
+    - 29-39
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 29-39
+    - ''
+    - L. Sprewell enters the game for G. Rice
+  - - '6:20.0'
+    - ''
+    - ''
+    - 29-39
+    - ''
+    - L. Sprewell misses 2-pt shot from 7 ft
+  - - '6:18.0'
+    - Defensive rebound by S. Mitchell
+    - ''
+    - 29-39
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 29-39
+    - ''
+    - Violation by K. Thomas (illegal defense)
+  - - '6:06.0'
+    - K. Garnett makes 2-pt shot at rim (assist by T. Day)
+    - "+2"
+    - 31-39
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 31-41
+    - "+2"
+    - A. Houston makes 2-pt shot at rim
+  - - '5:27.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 31-41
+    - ''
+    - ''
+  - - '5:27.0'
+    - S. Mitchell misses free throw 1 of 2
+    - ''
+    - 31-41
+    - ''
+    - ''
+  - - '5:27.0'
+    - Offensive rebound by Team
+    - ''
+    - 31-41
+    - ''
+    - ''
+  - - '5:27.0'
+    - S. Mitchell misses free throw 2 of 2
+    - ''
+    - 31-41
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 31-41
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:05.0'
+    - ''
+    - ''
+    - 31-43
+    - "+2"
+    - A. Houston makes 2-pt shot from 16 ft
+  - - '4:55.0'
+    - Personal foul by K. Thomas
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '4:55.0'
+    - W. Szczerbiak enters the game for S. Mitchell
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 31-43
+    - ''
+    - L. Johnson enters the game for K. Thomas
+  - - '4:38.0'
+    - C. Billups makes 3-pt shot from 24 ft (assist by K. Garnett)
+    - "+3"
+    - 34-43
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 34-43
+    - ''
+    - New York 20 second timeout
+  - - '4:19.0'
+    - ''
+    - ''
+    - 34-43
+    - ''
+    - M. Camby misses 2-pt shot from 8 ft
+  - - '4:18.0'
+    - Defensive rebound by C. Billups
+    - ''
+    - 34-43
+    - ''
+    - ''
+  - - '4:11.0'
+    - T. Day makes 3-pt shot from 25 ft (assist by C. Billups)
+    - "+3"
+    - 37-43
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 37-45
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '3:38.0'
+    - W. Szczerbiak misses 2-pt shot from 20 ft
+    - ''
+    - 37-45
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 37-45
+    - ''
+    - Defensive rebound by M. Camby
+  - - '3:27.0'
+    - ''
+    - ''
+    - 37-45
+    - ''
+    - L. Sprewell misses 2-pt shot at rim
+  - - '3:26.0'
+    - ''
+    - ''
+    - 37-47
+    - "+2"
+    - L. Johnson makes 2-pt shot at rim
+  - - '3:26.0'
+    - ''
+    - ''
+    - 37-47
+    - ''
+    - Offensive rebound by L. Johnson
+  - - '3:10.0'
+    - Shooting foul by C. Childs
+    - ''
+    - 37-47
+    - ''
+    - ''
+  - - '3:10.0'
+    - R. Nesterovic enters the game for K. Garnett
+    - ''
+    - 37-47
+    - ''
+    - ''
+  - - '3:10.0'
+    - T. Brandon enters the game for T. Day
+    - ''
+    - 37-47
+    - ''
+    - ''
+  - - '3:10.0'
+    - C. Billups makes free throw 1 of 2
+    - "+1"
+    - 38-47
+    - ''
+    - ''
+  - - '3:10.0'
+    - C. Billups makes free throw 2 of 2
+    - "+1"
+    - 39-47
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - A. Houston misses 2-pt shot from 16 ft
+  - - '2:51.0'
+    - Defensive rebound by C. Billups
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '2:42.0'
+    - L. Ellis makes 2-pt shot at rim (assist by T. Brandon)
+    - "+2"
+    - 41-47
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 41-47
+    - ''
+    - Turnover by L. Sprewell (bad pass; steal by C. Billups)
+  - - '2:14.0'
+    - T. Brandon makes 2-pt shot at rim (assist by C. Billups)
+    - "+2"
+    - 43-47
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 43-47
+    - ''
+    - Personal foul by L. Ellis
+  - - '2:01.0'
+    - ''
+    - ''
+    - 43-47
+    - ''
+    - New York full timeout
+  - - '2:01.0'
+    - K. Garnett enters the game for R. Nesterovic
+    - ''
+    - 43-47
+    - ''
+    - ''
+  - - '1:48.0'
+    - ''
+    - ''
+    - 43-47
+    - ''
+    - C. Childs misses 2-pt shot from 10 ft
+  - - '1:46.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 43-47
+    - ''
+    - ''
+  - - '1:40.0'
+    - T. Brandon misses 2-pt shot from 14 ft
+    - ''
+    - 43-47
+    - ''
+    - ''
+  - - '1:39.0'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 43-47
+    - ''
+    - ''
+  - - '1:29.0'
+    - T. Brandon makes 2-pt shot from 17 ft (assist by C. Billups)
+    - "+2"
+    - 45-47
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 45-49
+    - "+2"
+    - A. Houston makes 2-pt shot from 18 ft
+  - - '0:47.0'
+    - W. Szczerbiak misses 2-pt shot from 15 ft
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '0:44.8'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Defensive rebound by M. Camby
+  - - '0:22.2'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - L. Sprewell misses 2-pt shot at rim (block by L. Ellis)
+  - - '0:21.5'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Offensive rebound by Team
+  - - '0:21.5'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:21.5'
+    - T. Day enters the game for L. Ellis
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '0:21.5'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - E. Strickland enters the game for A. Houston
+  - - '0:03.8'
+    - Turnover by W. Szczerbiak (lost ball)
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '0:00.3'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - C. Childs misses 2-pt shot from 11 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '12:00.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Turnover by Team (5 second)
+  - - '11:45.0'
+    - K. Garnett makes 2-pt shot from 15 ft
+    - "+2"
+    - 47-49
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 47-51
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Johnson)
+  - - '11:16.0'
+    - C. Billups misses 3-pt shot from 25 ft
+    - ''
+    - 47-51
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 47-51
+    - ''
+    - Defensive rebound by M. Camby
+  - - '10:52.0'
+    - ''
+    - ''
+    - 47-51
+    - ''
+    - Turnover by Team (shot clock)
+  - - '10:37.0'
+    - T. Brandon makes 2-pt shot at rim
+    - "+2"
+    - 49-51
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Shooting foul by L. Ellis
+  - - '10:26.0'
+    - ''
+    - ''
+    - 49-52
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '10:26.0'
+    - ''
+    - ''
+    - 49-53
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '10:11.0'
+    - T. Brandon misses 2-pt shot from 14 ft
+    - ''
+    - 49-53
+    - ''
+    - ''
+  - - '10:09.0'
+    - Offensive rebound by L. Ellis
+    - ''
+    - 49-53
+    - ''
+    - ''
+  - - '10:07.0'
+    - L. Ellis misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 49-53
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 49-53
+    - ''
+    - Defensive rebound by L. Johnson
+  - - '9:47.0'
+    - ''
+    - ''
+    - 49-55
+    - "+2"
+    - L. Johnson makes 2-pt shot at rim
+  - - '9:29.0'
+    - W. Szczerbiak misses 2-pt shot from 15 ft (block by M. Camby)
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Defensive rebound by G. Rice
+  - - '9:16.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Personal foul by K. Garnett
+  - - '9:03.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Shooting foul by W. Szczerbiak
+  - - '9:03.0'
+    - ''
+    - ''
+    - 49-56
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '9:03.0'
+    - ''
+    - ''
+    - 49-56
+    - ''
+    - G. Rice misses free throw 2 of 2
+  - - '9:03.0'
+    - ''
+    - ''
+    - 49-56
+    - ''
+    - Offensive rebound by M. Camby
+  - - '9:00.0'
+    - ''
+    - ''
+    - 49-56
+    - ''
+    - M. Camby misses 2-pt shot from 6 ft
+  - - '8:57.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 49-56
+    - ''
+    - ''
+  - - '8:48.0'
+    - K. Garnett makes 2-pt shot from 6 ft (assist by C. Billups)
+    - "+2"
+    - 51-56
+    - ''
+    - ''
+  - - '8:48.0'
+    - Shooting foul by L. Johnson
+    - ''
+    - 51-56
+    - ''
+    - ''
+  - - '8:48.0'
+    - K. Garnett makes free throw 1 of 1
+    - "+1"
+    - 52-56
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - M. Camby misses 2-pt shot from 11 ft
+  - - '8:25.0'
+    - Defensive rebound by C. Billups
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '8:10.0'
+    - L. Ellis misses 2-pt shot from 13 ft
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Defensive rebound by M. Camby
+  - - '7:47.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - G. Rice misses 3-pt shot from 25 ft
+  - - '7:45.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '7:40.0'
+    - T. Brandon misses 2-pt shot at rim
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '7:38.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '7:30.0'
+    - T. Brandon misses 2-pt shot from 15 ft
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Defensive rebound by G. Rice
+  - - '7:24.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - New York full timeout
+  - - '7:05.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - L. Johnson misses 3-pt shot from 25 ft
+  - - '7:03.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Offensive rebound by M. Camby
+  - - '6:59.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Shooting foul by K. Garnett
+  - - '6:59.0'
+    - ''
+    - ''
+    - 52-57
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '6:59.0'
+    - ''
+    - ''
+    - 52-58
+    - "+1"
+    - G. Rice makes free throw 2 of 2
+  - - '6:46.0'
+    - Personal foul by M. Camby
+    - ''
+    - 52-58
+    - ''
+    - ''
+  - - '6:36.0'
+    - C. Billups makes 2-pt shot from 5 ft
+    - "+2"
+    - 54-58
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 54-58
+    - ''
+    - Personal foul by W. Szczerbiak
+  - - '6:11.0'
+    - ''
+    - ''
+    - 54-59
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '6:11.0'
+    - ''
+    - ''
+    - 54-60
+    - "+1"
+    - G. Rice makes free throw 2 of 2
+  - - '5:57.0'
+    - C. Billups misses 2-pt shot from 20 ft
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:40.0'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Offensive foul by A. Houston
+  - - '5:40.0'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Turnover by A. Houston (foul)
+  - - '5:18.0'
+    - T. Brandon misses 2-pt shot from 20 ft
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Defensive rebound by G. Rice
+  - - '4:57.0'
+    - ''
+    - ''
+    - 54-60
+    - ''
+    - Turnover by L. Sprewell (traveling)
+  - - '4:48.0'
+    - K. Garnett makes 2-pt shot from 8 ft
+    - "+2"
+    - 56-60
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 56-62
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 19 ft
+  - - '4:29.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Shooting foul by C. Billups
+  - - '4:29.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - C. Childs enters the game for A. Houston
+  - - '4:29.0'
+    - A. Peeler enters the game for C. Billups
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 56-63
+    - "+1"
+    - L. Sprewell makes free throw 1 of 1
+  - - '4:15.0'
+    - Personal foul by M. Camby
+    - ''
+    - 56-63
+    - ''
+    - ''
+  - - '4:15.0'
+    - Minnesota full timeout
+    - ''
+    - 56-63
+    - ''
+    - ''
+  - - '4:06.0'
+    - Personal foul by L. Johnson
+    - ''
+    - 56-63
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 56-63
+    - ''
+    - K. Thomas enters the game for L. Johnson
+  - - '3:56.0'
+    - A. Peeler makes 2-pt shot from 19 ft (assist by T. Brandon)
+    - "+2"
+    - 58-63
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 58-63
+    - ''
+    - Turnover by C. Childs (bad pass; steal by A. Peeler)
+  - - '3:23.0'
+    - T. Brandon makes 3-pt shot from 24 ft (assist by K. Garnett)
+    - "+3"
+    - 61-63
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - Turnover by M. Camby (lost ball)
+  - - '2:41.0'
+    - K. Garnett makes 2-pt shot at rim (assist by T. Brandon)
+    - "+2"
+    - 63-63
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 63-65
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim
+  - - '2:04.0'
+    - K. Garnett misses 2-pt shot at rim
+    - ''
+    - 63-65
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '1:57.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - L. Sprewell misses 2-pt shot from 14 ft
+  - - '1:55.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '1:54.0'
+    - ''
+    - ''
+    - 63-65
+    - ''
+    - K. Thomas misses 2-pt shot at rim (block by L. Ellis)
+  - - '1:52.0'
+    - ''
+    - ''
+    - 63-67
+    - "+2"
+    - K. Thomas makes 2-pt shot from 3 ft
+  - - '1:52.0'
+    - ''
+    - ''
+    - 63-67
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '1:36.0'
+    - Turnover by A. Peeler (lost ball; steal by M. Camby)
+    - ''
+    - 63-67
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 63-69
+    - "+2"
+    - C. Childs makes 2-pt shot from 15 ft (assist by L. Sprewell)
+  - - '1:07.0'
+    - W. Szczerbiak misses 2-pt shot from 11 ft
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 63-69
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '0:45.1'
+    - ''
+    - ''
+    - 63-69
+    - ''
+    - L. Sprewell misses 2-pt shot from 20 ft
+  - - '0:41.3'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '0:26.0'
+    - T. Brandon makes 2-pt shot at rim
+    - "+2"
+    - 65-69
+    - ''
+    - ''
+  - - '0:03.1'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - Turnover by L. Sprewell (bad pass; steal by L. Ellis)
+  - - '0:00.4'
+    - L. Ellis misses 3-pt shot from 26 ft
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:46.0'
+    - R. Nesterovic misses 2-pt shot at rim
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '11:44.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '11:25.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - Turnover by C. Childs (traveling)
+  - - '11:12.0'
+    - Personal foul by A. Houston
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '11:08.0'
+    - Personal foul by E. Strickland
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '10:56.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '10:56.0'
+    - L. Ellis makes free throw 1 of 2
+    - "+1"
+    - 66-69
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 66-69
+    - ''
+    - L. Johnson enters the game for M. Camby
+  - - '10:56.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 67-69
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Personal foul by T. Day
+  - - '10:34.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - C. Childs misses 2-pt shot from 22 ft
+  - - '10:32.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 67-69
+    - ''
+    - ''
+  - - '10:22.0'
+    - L. Ellis makes 2-pt shot from 18 ft (assist by T. Brandon)
+    - "+2"
+    - 69-69
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 69-69
+    - ''
+    - Shooting foul by L. Ellis
+  - - '10:09.0'
+    - C. Billups enters the game for T. Brandon
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 69-70
+    - "+1"
+    - E. Strickland makes free throw 1 of 2
+  - - '10:09.0'
+    - T. Hammonds enters the game for L. Ellis
+    - ''
+    - 69-70
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 69-71
+    - "+1"
+    - E. Strickland makes free throw 2 of 2
+  - - '9:50.0'
+    - A. Peeler misses 3-pt shot from 25 ft
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Defensive rebound by E. Strickland
+  - - '9:48.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Loose ball foul by T. Day
+  - - '9:35.0'
+    - ''
+    - ''
+    - 69-73
+    - "+2"
+    - A. Houston makes 2-pt shot from 21 ft
+  - - '9:19.0'
+    - Turnover by T. Day (bad pass; steal by C. Childs)
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - A. Houston misses 2-pt shot at rim
+  - - '9:12.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Offensive rebound by E. Strickland
+  - - '8:59.0'
+    - ''
+    - ''
+    - 69-75
+    - "+2"
+    - A. Houston makes 2-pt shot from 19 ft
+  - - '8:55.0'
+    - Minnesota full timeout
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '8:55.0'
+    - K. Garnett enters the game for R. Nesterovic
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '8:39.0'
+    - T. Day makes 3-pt shot from 24 ft (assist by K. Garnett)
+    - "+3"
+    - 72-75
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 72-77
+    - "+2"
+    - A. Houston makes 2-pt shot from 19 ft (assist by C. Childs)
+  - - '8:17.0'
+    - Personal foul by L. Johnson
+    - ''
+    - 72-77
+    - ''
+    - ''
+  - - '8:11.0'
+    - A. Peeler misses 2-pt shot from 11 ft
+    - ''
+    - 72-77
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 72-77
+    - ''
+    - Defensive rebound by C. Childs
+  - - '7:57.0'
+    - ''
+    - ''
+    - 72-79
+    - "+2"
+    - A. Houston makes 2-pt shot from 23 ft (assist by C. Childs)
+  - - '7:39.0'
+    - T. Hammonds misses 2-pt shot from 9 ft
+    - ''
+    - 72-79
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Defensive rebound by C. Childs
+  - - '7:27.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - C. Childs misses 3-pt shot from 25 ft
+  - - '7:25.0'
+    - Defensive rebound by Team
+    - ''
+    - 72-79
+    - ''
+    - ''
+  - - '7:09.0'
+    - K. Garnett misses 2-pt shot from 17 ft
+    - ''
+    - 72-79
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Defensive rebound by C. Childs
+  - - '6:47.0'
+    - ''
+    - ''
+    - 72-81
+    - "+2"
+    - E. Strickland makes 2-pt shot from 18 ft (assist by C. Childs)
+  - - '6:46.0'
+    - Minnesota full timeout
+    - ''
+    - 72-81
+    - ''
+    - ''
+  - - '6:46.0'
+    - W. Szczerbiak enters the game for A. Peeler
+    - ''
+    - 72-81
+    - ''
+    - ''
+  - - '6:46.0'
+    - T. Brandon enters the game for T. Day
+    - ''
+    - 72-81
+    - ''
+    - ''
+  - - '6:46.0'
+    - L. Ellis enters the game for T. Hammonds
+    - ''
+    - 72-81
+    - ''
+    - ''
+  - - '6:33.0'
+    - Turnover by L. Ellis (bad pass; steal by C. Childs)
+    - ''
+    - 72-81
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 72-81
+    - ''
+    - Shooting foul by C. Billups
+  - - '6:29.0'
+    - ''
+    - ''
+    - 72-82
+    - "+1"
+    - C. Childs makes free throw 1 of 2
+  - - '6:29.0'
+    - ''
+    - ''
+    - 72-83
+    - "+1"
+    - C. Childs makes free throw 2 of 2
+  - - '6:19.0'
+    - L. Ellis misses 2-pt shot from 19 ft
+    - ''
+    - 72-83
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 72-83
+    - ''
+    - Defensive rebound by E. Strickland
+  - - '6:00.0'
+    - ''
+    - ''
+    - 72-83
+    - ''
+    - E. Strickland misses 2-pt shot at rim
+  - - '5:59.0'
+    - ''
+    - ''
+    - 72-83
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '5:58.0'
+    - ''
+    - ''
+    - 72-85
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim
+  - - '5:40.0'
+    - C. Billups misses 3-pt shot from 25 ft
+    - ''
+    - 72-85
+    - ''
+    - ''
+  - - '5:37.0'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 72-85
+    - ''
+    - ''
+  - - '5:36.0'
+    - W. Szczerbiak makes 2-pt shot at rim
+    - "+2"
+    - 74-85
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 74-88
+    - "+3"
+    - A. Houston makes 3-pt shot from 24 ft
+  - - '5:01.0'
+    - Personal foul by E. Strickland
+    - ''
+    - 74-88
+    - ''
+    - ''
+  - - '5:01.0'
+    - C. Billups makes free throw 1 of 2
+    - "+1"
+    - 75-88
+    - ''
+    - ''
+  - - '5:01.0'
+    - C. Billups misses free throw 2 of 2
+    - ''
+    - 75-88
+    - ''
+    - ''
+  - - '5:00.0'
+    - Offensive rebound by L. Ellis
+    - ''
+    - 75-88
+    - ''
+    - ''
+  - - '4:57.0'
+    - T. Brandon makes 2-pt shot from 21 ft (assist by L. Ellis)
+    - "+2"
+    - 77-88
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 77-90
+    - "+2"
+    - A. Houston makes 2-pt shot from 16 ft
+  - - '4:18.0'
+    - K. Garnett misses 2-pt shot from 9 ft
+    - ''
+    - 77-90
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 77-90
+    - ''
+    - Defensive rebound by E. Strickland
+  - - '4:03.0'
+    - ''
+    - ''
+    - 77-90
+    - ''
+    - Turnover by A. Houston (lost ball; steal by T. Brandon)
+  - - '3:56.0'
+    - C. Billups misses 3-pt shot from 25 ft
+    - ''
+    - 77-90
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 77-90
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '3:49.0'
+    - ''
+    - ''
+    - 77-90
+    - ''
+    - New York full timeout
+  - - '3:35.0'
+    - ''
+    - ''
+    - 77-92
+    - "+2"
+    - A. Houston makes 2-pt shot from 8 ft
+  - - '3:19.0'
+    - W. Szczerbiak makes 2-pt shot from 6 ft (assist by T. Brandon)
+    - "+2"
+    - 79-92
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Personal foul by K. Garnett
+  - - '2:56.0'
+    - ''
+    - ''
+    - 79-93
+    - "+1"
+    - A. Houston makes free throw 1 of 2
+  - - '2:56.0'
+    - ''
+    - ''
+    - 79-94
+    - "+1"
+    - A. Houston makes free throw 2 of 2
+  - - '2:45.0'
+    - W. Szczerbiak makes 2-pt shot from 10 ft
+    - "+2"
+    - 81-94
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 81-94
+    - ''
+    - C. Childs misses 3-pt shot from 26 ft
+  - - '2:19.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 81-94
+    - ''
+    - ''
+  - - '2:14.0'
+    - T. Brandon makes 2-pt shot at rim
+    - "+2"
+    - 83-94
+    - ''
+    - ''
+  - - '2:14.0'
+    - Shooting foul by E. Strickland
+    - ''
+    - 83-94
+    - ''
+    - ''
+  - - '2:14.0'
+    - S. Mitchell enters the game for L. Ellis
+    - ''
+    - 83-94
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 83-94
+    - ''
+    - L. Sprewell enters the game for K. Thomas
+  - - '2:14.0'
+    - ''
+    - ''
+    - 83-94
+    - ''
+    - M. Camby enters the game for E. Strickland
+  - - '2:14.0'
+    - T. Brandon makes free throw 1 of 1
+    - "+1"
+    - 84-94
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - Offensive foul by A. Houston
+  - - '1:53.0'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - Turnover by A. Houston (foul)
+  - - '1:43.0'
+    - S. Mitchell makes 3-pt shot from 26 ft (assist by C. Billups)
+    - "+3"
+    - 87-94
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 87-94
+    - ''
+    - Turnover by A. Houston (bad pass)
+  - - '1:12.0'
+    - C. Billups misses 3-pt shot from 25 ft
+    - ''
+    - 87-94
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 87-94
+    - ''
+    - Defensive rebound by M. Camby
+  - - '1:02.0'
+    - ''
+    - ''
+    - 87-94
+    - ''
+    - New York full timeout
+  - - '0:47.9'
+    - ''
+    - ''
+    - 87-96
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim (assist by C. Childs)
+  - - '0:38.5'
+    - T. Brandon makes 2-pt shot from 16 ft
+    - "+2"
+    - 89-96
+    - ''
+    - ''
+  - - '0:34.3'
+    - ''
+    - ''
+    - 89-96
+    - ''
+    - Personal foul by S. Mitchell
+  - - '0:34.3'
+    - ''
+    - ''
+    - 89-97
+    - "+1"
+    - C. Childs makes free throw 1 of 2
+  - - '0:34.3'
+    - ''
+    - ''
+    - 89-98
+    - "+1"
+    - C. Childs makes free throw 2 of 2
+  - - '0:34.3'
+    - Minnesota full timeout
+    - ''
+    - 89-98
+    - ''
+    - ''
+  - - '0:32.2'
+    - Turnover by C. Billups (bad pass; steal by M. Camby)
+    - ''
+    - 89-98
+    - ''
+    - ''
+  - - '0:29.6'
+    - ''
+    - ''
+    - 89-98
+    - ''
+    - Personal foul by T. Brandon
+  - - '0:29.6'
+    - ''
+    - ''
+    - 89-99
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '0:29.6'
+    - ''
+    - ''
+    - 89-100
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '0:16.0'
+    - K. Garnett misses 3-pt shot from 26 ft
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:13.8'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:09.4'
+    - W. Szczerbiak misses 2-pt shot at rim
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - W. Szczerbiak misses 2-pt shot at rim
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - Shooting foul by M. Camby
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - W. Szczerbiak misses free throw 1 of 2
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - Offensive rebound by Team
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '0:08.6'
+    - ''
+    - ''
+    - 89-100
+    - ''
+    - E. Strickland enters the game for A. Houston
+  - - '0:08.6'
+    - W. Szczerbiak makes free throw 2 of 2
+    - "+1"
+    - 90-100
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

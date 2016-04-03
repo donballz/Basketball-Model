@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Alan Henderson (On: -12&#9642;Off: +3&#9642;Net: -15)'
+    - |2-
+
+      -10
+    - 248/-10
+    - 130/
+    - 119/+2
+    - 128/-4
+    - 30/
+    - 91/-2
+    - 85/+1
+    - 117/
+    - 36/+1
+    - 10/
+    - 'Jim Jackson (On: -11&#9642;Off: +2&#9642;Net: -13)'
+    - |2-
+
+      -7
+    - 202/-7
+    - 146/
+    - 151/0
+    - 199/-10
+    - 136/
+    - 164/+6
+    - 'Roshown McLeod (On: -4&#9642;Off: -5&#9642;Net: +1)'
+    - |2-
+
+      -10
+    - 250/-10
+    - 199/
+    - 51/+4
+    - 85/-4
+    - 250/
+    - 163/+6
+    - 'Jason Terry (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - |2-
+
+      -3
+    - 173/-3
+    - 76/
+    - 250/+4
+    - 199/-10
+    - 186/
+    - 114/+2
+    - 'Lorenzen Wright (On: -8&#9642;Off: -1&#9642;Net: -7)'
+    - |2-
+
+      -7
+    - 201/-7
+    - 47/
+    - 249/+4
+    - 154/-8
+    - 50/
+    - 45/0
+    - 80/+1
+    - 54/
+    - 115/+2
+    - 'Matt Maloney (On: -2&#9642;Off: -7&#9642;Net: +5)'
+    - "\n"
+    - 181/
+    - 69/-7
+    - 454/
+    - 45/0
+    - 132/+5
+    - 117/
+    - 'Chris Crawford (On: -1&#9642;Off: -8&#9642;Net: +7)'
+    - "\n"
+    - 209/
+    - 40/-3
+    - 127/+2
+    - 256/
+    - 65/-6
+    - 136/
+    - 114/+6
+    - 49/
+    - 'Larry Robinson (On: +1&#9642;Off: -10&#9642;Net: +11)'
+    - "\n"
+    - 209/
+    - 40/-3
+    - 93/+4
+    - 360/
+    - 45/0
+    - 81/+1
+    - 160/
+    - 8/-1
+    - 'DerMarr Johnson (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 194/0
+    - 147/
+    - 158/-6
+    - 81/+1
+    - 168/
+    - 'Hanno Mottola (On: +4&#9642;Off: -13&#9642;Net: +17)'
+    - "\n"
+    - 842/
+    - 41/+4
+    - 118/
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dale Davis (On: +12&#9642;Off: -3&#9642;Net: +15)'
+    - |2-
+
+      +3
+    - 173/+3
+    - 74/
+    - 2/+3
+    - 193/0
+    - 56/
+    - 248/+10
+    - 85/
+    - 76/-6
+    - 77/
+    - 10/+2
+    - 'Scottie Pippen (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - |2-
+
+      +7
+    - 202/+7
+    - 246/
+    - 51/-4
+    - 250/+10
+    - 162/
+    - 87/0
+    - 'Steve Smith (On: +16&#9642;Off: -7&#9642;Net: +23)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 199/
+    - 51/-4
+    - 249/+10
+    - 56/0
+    - 107/
+    - 86/0
+    - 'Damon Stoudamire (On: +3&#9642;Off: +6&#9642;Net: -3)'
+    - |2-
+
+      +7
+    - 240/+7
+    - 208/
+    - 51/-4
+    - 176/+5
+    - 171/
+    - 152/-5
+    - 'Rasheed Wallace (On: +14&#9642;Off: -5&#9642;Net: +19)'
+    - |2-
+
+      +7
+    - 240/+7
+    - 102/
+    - 156/0
+    - 249/+10
+    - 81/-1
+    - 82/
+    - 74/-2
+    - 12/
+    - 'Shawn Kemp (On: -9&#9642;Off: +18&#9642;Net: -27)'
+    - "\n"
+    - 181/
+    - 68/+7
+    - 92/-4
+    - 107/
+    - 45/-4
+    - 254/
+    - 239/-8
+    - 10/
+    - 'Stacey Augmon (On: -3&#9642;Off: +12&#9642;Net: -15)'
+    - "\n"
+    - 209/
+    - 41/+3
+    - 194/0
+    - 305/
+    - 159/-7
+    - 82/
+    - 7/+1
+    - 'Greg Anthony (On: +6&#9642;Off: +3&#9642;Net: +3)'
+    - "\n"
+    - 247/
+    - 2/+3
+    - 194/0
+    - 236/
+    - 69/+5
+    - 91/-2
+    - 158/
+    - 'Bonzi Wells (On: -7&#9642;Off: +16&#9642;Net: -23)'
+    - "\n"
+    - 250/
+    - 194/0
+    - 367/
+    - 100/-7
+    - 88/
+    - 'Antonio Harvey (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - "\n"
+    - 498/
+    - 3/0
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: +22&#9642;Off: -26&#9642;Net: +48)'
+    - |2-
+
+      +23
+    - 249/+23
+    - 5/-1
+    - 121/
+    - 78/-1
+    - 240/
+    - 54/+1
+    - 156/+5
+    - 47/
+    - 45/-5
+    - 'Brian Grant (On: -8&#9642;Off: +4&#9642;Net: -12)'
+    - |2-
+
+      +17
+    - 155/+17
+    - 94/
+    - 250/-14
+    - 165/-12
+    - 113/
+    - 221/+1
+    - 'Tim Hardaway (On: -5&#9642;Off: +1&#9642;Net: -6)'
+    - |2-
+
+      +18
+    - 208/+18
+    - 40/
+    - 0/+2
+    - 105/
+    - 144/-5
+    - 249/-14
+    - 26/0
+    - 104/
+    - 119/-6
+    - 'Eddie Jones (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      +23
+    - 249/+23
+    - 104/-9
+    - 33/
+    - 112/-1
+    - 190/-15
+    - 210/
+    - 48/-1
+    - 50/
+    - 'Anthony Mason (On: -9&#9642;Off: +5&#9642;Net: -14)'
+    - |2-
+
+      +21
+    - 247/+21
+    - 69/
+    - 182/-11
+    - 249/-14
+    - 25/0
+    - 139/
+    - 81/-5
+    - 4/
+    - 'A.C. Green (On: +3&#9642;Off: -7&#9642;Net: +10)'
+    - "\n"
+    - 158/
+    - 91/+6
+    - 65/-3
+    - 357/
+    - 76/-2
+    - 222/+2
+    - 28/
+    - 'Anthony Carter (On: -9&#9642;Off: +5&#9642;Net: -14)'
+    - "\n"
+    - 213/
+    - 36/+5
+    - 131/-13
+    - 239/
+    - 93/-7
+    - 61/
+    - 120/+7
+    - 79/
+    - 23/-1
+    - 'Cedric Ceballos (On: -21&#9642;Off: +17&#9642;Net: -38)'
+    - "\n"
+    - 260/
+    - 108/-10
+    - 87/
+    - 20/-4
+    - 24/
+    - 115/-7
+    - 383/
+    - 'Eddie House (On: +10&#9642;Off: -14&#9642;Net: +24)'
+    - "\n"
+    - 479/
+    - 19/+2
+    - 215/
+    - 35/0
+    - 127/+7
+    - 120/
+    - 2/+1
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: -6&#9642;Off: +10&#9642;Net: -16)'
+    - |2-
+
+      -23
+    - 249/-23
+    - 33/+1
+    - 72/
+    - 100/+3
+    - 44/
+    - 46/+7
+    - 315/
+    - 137/+6
+    - 'Vlade Divac (On: -3&#9642;Off: +7&#9642;Net: -10)'
+    - |2-
+
+      -17
+    - 156/-17
+    - 344/
+    - 215/+14
+    - 285/
+    - 'Hedo Turkoglu (On: +4&#9642;Off: 0&#9642;Net: +4)'
+    - |2-
+
+      -17
+    - 155/-17
+    - 132/
+    - 66/+8
+    - 145/
+    - 249/+14
+    - 103/-7
+    - 24/
+    - 122/+6
+    - 'Chris Webber (On: -10&#9642;Off: +14&#9642;Net: -24)'
+    - |2-
+
+      -23
+    - 250/-23
+    - 173/
+    - 76/-1
+    - 250/+14
+    - 246/0
+    - 3/
+    - 'Jason Williams (On: +2&#9642;Off: +2&#9642;Net: 0)'
+    - |2-
+
+      -17
+    - 155/-17
+    - 268/
+    - 76/-1
+    - 250/+14
+    - 112/
+    - 137/+6
+    - 'Jon Barry (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - "\n"
+    - 158/
+    - 91/-6
+    - 249/+14
+    - 48/
+    - 201/+7
+    - 103/-7
+    - 143/
+    - 3/-1
+    - 'Bobby Jackson (On: +4&#9642;Off: 0&#9642;Net: +4)'
+    - "\n"
+    - 158/
+    - 91/-6
+    - 169/+15
+    - 37/
+    - 43/+2
+    - 249/
+    - 126/-7
+    - 123/
+    - 'Scot Pollard (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - "\n"
+    - 158/
+    - 91/-6
+    - 250/+14
+    - 215/
+    - 35/0
+    - 249/-1
+    - 'Lawrence Funderburke (On: +15&#9642;Off: -11&#9642;Net: +26)'
+    - "\n"
+    - 250/
+    - 170/+15
+    - 581/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

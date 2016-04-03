@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'John Amaechi (On: -11&#9642;Off: +1&#9642;Net: -12)'
+    - |2-
+
+      -6
+    - 234/-6
+    - 138/
+    - 128/-5
+    - 223/0
+    - 276/
+    - 'Darrell Armstrong (On: -9&#9642;Off: -1&#9642;Net: -8)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 102/
+    - 148/-7
+    - 249/+1
+    - 103/
+    - 146/+3
+    - 'Michael Doleac (On: -14&#9642;Off: +4&#9642;Net: -18)'
+    - |2-
+
+      -8
+    - 173/-8
+    - 74/
+    - 2/+2
+    - 249/-10
+    - 62/-1
+    - 336/
+    - 101/+3
+    - 'Tracy McGrady (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 39/0
+    - 63/
+    - 148/-7
+    - 250/+1
+    - 248/+5
+    - 'Bo Outlaw (On: -6&#9642;Off: -4&#9642;Net: -2)'
+    - |2-
+
+      -8
+    - 159/-8
+    - 213/
+    - 127/-5
+    - 249/+1
+    - 50/+2
+    - 84/
+    - 115/+4
+    - 'Don Reid (On: 0&#9642;Off: -10&#9642;Net: +10)'
+    - "\n"
+    - 162/
+    - 80/0
+    - 614/
+    - 38/0
+    - 105/
+    - 'Pat Garrity (On: -1&#9642;Off: -9&#9642;Net: +8)'
+    - "\n"
+    - 176/
+    - 73/+2
+    - 118/-5
+    - 358/
+    - 23/+1
+    - 128/+1
+    - 121/
+    - 'Mike Miller (On: +1&#9642;Off: -11&#9642;Net: +12)'
+    - "\n"
+    - 238/
+    - 12/0
+    - 97/-3
+    - 530/
+    - 122/+4
+    - 'Troy Hudson (On: -1&#9642;Off: -9&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 97/-3
+    - 402/
+    - 96/+2
+    - 154/
+    - 'Monty Williams (On: -6&#9642;Off: -4&#9642;Net: -2)'
+    - "\n"
+    - 291/
+    - 77/-5
+    - 437/
+    - 67/-1
+    - 127/
+    - 'Andrew DeClercq (On: +4&#9642;Off: -14&#9642;Net: +18)'
+    - "\n"
+    - 565/
+    - 185/+2
+    - 103/+2
+    - 147/
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: +15&#9642;Off: -5&#9642;Net: +20)'
+    - |2-
+
+      +4
+    - 84/+4
+    - 188/
+    - 167/+12
+    - 60/
+    - 212/0
+    - 124/
+    - 162/-1
+    - 'Arvydas Sabonis (On: +17&#9642;Off: -7&#9642;Net: +24)'
+    - |2-
+
+      +6
+    - 191/+6
+    - 139/
+    - 110/+11
+    - 60/
+    - 223/0
+    - 275/
+    - 'Steve Smith (On: +4&#9642;Off: +6&#9642;Net: -2)'
+    - |2-
+
+      +8
+    - 242/+8
+    - 202/
+    - 55/-2
+    - 250/-1
+    - 156/
+    - 93/-1
+    - 'Damon Stoudamire (On: 0&#9642;Off: +10&#9642;Net: -10)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 23/0
+    - 158/
+    - 68/0
+    - 249/-1
+    - 50/-2
+    - 95/
+    - 104/-3
+    - 'Rasheed Wallace (On: +6&#9642;Off: +4&#9642;Net: +2)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 17/0
+    - 105/
+    - 87/+7
+    - 40/
+    - 119/-1
+    - 94/
+    - 35/-1
+    - 249/-5
+    - 'Shawn Kemp (On: -4&#9642;Off: +14&#9642;Net: -18)'
+    - "\n"
+    - 87/
+    - 146/+2
+    - 209/
+    - 55/-2
+    - 226/
+    - 23/-1
+    - 156/-3
+    - 94/
+    - 'Dale Davis (On: -5&#9642;Off: +15&#9642;Net: -20)'
+    - "\n"
+    - 195/
+    - 53/0
+    - 74/+1
+    - 134/
+    - 40/-2
+    - 122/
+    - 126/0
+    - 84/-4
+    - 76/
+    - 52/0
+    - 37/
+    - 'Stacey Augmon (On: +5&#9642;Off: +5&#9642;Net: 0)'
+    - "\n"
+    - 238/
+    - 12/0
+    - 118/+5
+    - 632/
+    - 'Bonzi Wells (On: +2&#9642;Off: +8&#9642;Net: -6)'
+    - "\n"
+    - 247/
+    - 2/-2
+    - 249/+10
+    - 249/
+    - 149/-4
+    - 67/
+    - 34/-2
+    - 'Greg Anthony (On: +10&#9642;Off: 0&#9642;Net: +10)'
+    - "\n"
+    - 275/
+    - 154/+10
+    - 376/
+    - 84/0
+    - 110/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

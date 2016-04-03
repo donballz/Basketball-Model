@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +8&#9642;Off: +2&#9642;Net: +6)'
+    - |2-
+
+      -1
+    - 145/-1
+    - 178/
+    - 107/+6
+    - 69/
+    - 218/-7
+    - 31/
+    - 249/+10
+    - 'Rick Fox (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 186/
+    - 64/+7
+    - 250/-9
+    - 249/
+    - 'Horace Grant (On: +8&#9642;Off: +2&#9642;Net: +6)'
+    - |2-
+
+      +3
+    - 241/+3
+    - 9/
+    - 250/+4
+    - 250/-9
+    - 249/+10
+    - 'Ron Harper (On: -1&#9642;Off: +11&#9642;Net: -12)'
+    - |2-
+
+      +5
+    - 246/+5
+    - 253/
+    - 250/-9
+    - 185/
+    - 65/+3
+    - 'Shaquille O''Neal (On: +7&#9642;Off: +3&#9642;Net: +4)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 229/+4
+    - 20/
+    - 248/-9
+    - 82/
+    - 163/+7
+    - 6/
+    - 'Tyronn Lue (On: +16&#9642;Off: -6&#9642;Net: +22)'
+    - "\n"
+    - 153/
+    - 97/+6
+    - 172/
+    - 77/+8
+    - 382/
+    - 44/+2
+    - 72/
+    - 'Brian Shaw (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 246/
+    - 3/+2
+    - 172/-4
+    - 327/
+    - 126/+5
+    - 124/
+    - 'Mark Madsen (On: 0&#9642;Off: +10&#9642;Net: -10)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 236/
+    - 14/0
+    - 499/
+    - 'Devean George (On: -9&#9642;Off: +19&#9642;Net: -28)'
+    - "\n"
+    - 250/
+    - 68/-9
+    - 683/
+    - 'Isaiah Rider (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - "\n"
+    - 250/
+    - 250/+4
+    - 224/
+    - 26/-2
+    - 249/+10
+    - 'Greg Foster (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 749/
+    - 1/0
+    - 77/+3
+    - 173/
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dale Davis (On: 0&#9642;Off: -10&#9642;Net: +10)'
+    - |2-
+
+      -3
+    - 203/-3
+    - 135/
+    - 75/-3
+    - 85/
+    - 218/+7
+    - 138/
+    - 123/-1
+    - 19/
+    - 'Scottie Pippen (On: +1&#9642;Off: -11&#9642;Net: +12)'
+    - |2-
+
+      +1
+    - 145/+1
+    - 857/
+    - 'Steve Smith (On: -24&#9642;Off: +14&#9642;Net: -38)'
+    - |2-
+
+      -3
+    - 240/-3
+    - 140/
+    - 119/-11
+    - 133/0
+    - 116/
+    - 250/-10
+    - 'Damon Stoudamire (On: -18&#9642;Off: +8&#9642;Net: -26)'
+    - |2-
+
+      -5
+    - 246/-5
+    - 134/
+    - 119/-11
+    - 133/0
+    - 224/
+    - 70/0
+    - 55/
+    - 15/-2
+    - 'Rasheed Wallace (On: -8&#9642;Off: -2&#9642;Net: -6)'
+    - |2-
+
+      -3
+    - 240/-3
+    - 9/
+    - 0/0
+    - 249/-4
+    - 249/+9
+    - 244/-10
+    - 6/
+    - 'Bonzi Wells (On: +3&#9642;Off: -13&#9642;Net: +16)'
+    - "\n"
+    - 153/
+    - 97/-6
+    - 127/+7
+    - 261/
+    - 110/+9
+    - 177/-7
+    - 72/
+    - 'Will Perdue (On: -2&#9642;Off: -8&#9642;Net: +6)'
+    - "\n"
+    - 207/
+    - 40/-2
+    - 754/
+    - 'Greg Anthony (On: +4&#9642;Off: -14&#9642;Net: +18)'
+    - "\n"
+    - 245/
+    - 3/-2
+    - 127/+7
+    - 261/
+    - 110/+9
+    - 101/-7
+    - 83/
+    - 59/-3
+    - 6/
+    - 'Stacey Augmon (On: +2&#9642;Off: -12&#9642;Net: +14)'
+    - "\n"
+    - 246/
+    - 3/-2
+    - 249/-4
+    - 249/+9
+    - 185/
+    - 45/-1
+    - 20/
+    - 'Shawn Kemp (On: 0&#9642;Off: -10&#9642;Net: +10)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 84/+7
+    - 388/
+    - 26/+2
+    - 101/-7
+    - 130/
+    - 18/-2
+    - 'Antonio Harvey (On: -8&#9642;Off: -2&#9642;Net: -6)'
+    - "\n"
+    - 420/
+    - 81/-8
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

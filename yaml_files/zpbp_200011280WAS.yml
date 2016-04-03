@@ -1,0 +1,2890 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. White vs. D. Mutombo (M. Maloney gains possession)'
+  - - '11:41.0'
+    - M. Maloney makes 2-pt shot from 11 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - J. Howard misses 2-pt shot from 7 ft
+  - - '11:21.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:12.0'
+    - Turnover by C. Crawford (bad pass)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - J. Howard makes 2-pt shot from 6 ft
+  - - '10:41.0'
+    - A. Henderson misses 2-pt shot from 7 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by J. White
+  - - '10:24.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - R. Strickland misses 3-pt shot from 25 ft
+  - - '10:22.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:14.0'
+    - M. Maloney misses 3-pt shot from 25 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by M. Richmond
+  - - '10:01.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by R. Strickland (lost ball; steal by M. Maloney)
+  - - '9:56.0'
+    - M. Maloney misses 2-pt shot from 2 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:54.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:53.0'
+    - A. Henderson makes 2-pt shot from 1 ft
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - F. Lopez misses 2-pt shot from 21 ft
+  - - '9:35.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:30.0'
+    - M. Maloney makes 2-pt shot from 22 ft (assist by J. Terry)
+    - "+2"
+    - 6-2
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Washington 20 second timeout
+  - - '9:03.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - M. Richmond misses 2-pt shot from 15 ft
+  - - '9:01.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '8:57.0'
+    - C. Crawford misses 2-pt shot from 3 ft (block by J. White)
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Defensive rebound by J. White
+  - - '8:50.0'
+    - D. Johnson enters the game for C. Crawford
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Shooting foul by D. Johnson
+  - - '8:44.0'
+    - ''
+    - ''
+    - 6-3
+    - "+1"
+    - F. Lopez makes free throw 1 of 2
+  - - '8:44.0'
+    - ''
+    - ''
+    - 6-4
+    - "+1"
+    - F. Lopez makes free throw 2 of 2
+  - - '8:32.0'
+    - J. Terry misses 2-pt shot from 5 ft (block by J. White)
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '8:28.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Defensive rebound by J. Howard
+  - - '8:27.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Turnover by J. Howard (double dribble)
+  - - '8:17.0'
+    - D. Mutombo makes 2-pt shot from 8 ft (assist by J. Terry)
+    - "+2"
+    - 8-4
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 8-6
+    - "+2"
+    - R. Strickland makes 2-pt shot from 20 ft (assist by F. Lopez)
+  - - '7:50.0'
+    - J. Terry misses 3-pt shot from 26 ft
+    - ''
+    - 8-6
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Defensive rebound by M. Richmond
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-8
+    - "+2"
+    - J. Howard makes 2-pt shot from 14 ft (assist by R. Strickland)
+  - - '7:21.0'
+    - J. Terry misses 2-pt shot from 22 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:18.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:08.0'
+    - D. Mutombo misses 2-pt shot from 7 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:06.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:04.0'
+    - A. Henderson makes 2-pt shot at rim
+    - "+2"
+    - 10-8
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - M. Richmond misses 2-pt shot from 2 ft
+  - - '6:46.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - Offensive rebound by J. White
+  - - '6:44.0'
+    - ''
+    - ''
+    - 10-10
+    - "+2"
+    - J. White makes 2-pt shot at rim
+  - - '6:32.0'
+    - A. Henderson misses 2-pt shot from 2 ft
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Defensive rebound by J. Howard
+  - - '6:16.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - F. Lopez misses 2-pt shot from 2 ft (block by D. Mutombo)
+  - - '6:15.0'
+    - Defensive rebound by Team
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:15.0'
+    - Loose ball foul by J. White
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - Shooting foul by F. Lopez
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - A. Henderson makes free throw 1 of 2
+    - "+1"
+    - 11-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '6:03.0'
+    - A. Henderson makes free throw 2 of 2
+    - "+1"
+    - 12-10
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - J. Howard misses 2-pt shot from 7 ft (block by A. Henderson)
+  - - '5:39.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Offensive rebound by J. White
+  - - '5:34.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - J. White makes 2-pt shot from 2 ft
+  - - '5:27.0'
+    - J. Terry misses 2-pt shot from 9 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:25.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:17.0'
+    - Turnover by D. Johnson (bad pass; steal by J. Howard)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Personal foul by D. Johnson
+  - - '5:14.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Washington full timeout
+  - - '5:14.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:14.0'
+    - L. Robinson enters the game for D. Johnson
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - M. Richmond makes 2-pt shot from 11 ft
+  - - '4:46.0'
+    - A. Henderson makes 2-pt shot from 19 ft
+    - "+2"
+    - 14-14
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Personal foul by M. Maloney
+  - - '4:17.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - R. Hamilton misses 3-pt shot from 23 ft
+  - - '4:17.0'
+    - Defensive rebound by Team
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:05.0'
+    - M. Maloney misses 2-pt shot from 19 ft
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:03.0'
+    - Offensive rebound by L. Robinson
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:00.0'
+    - A. Henderson misses 2-pt shot from 15 ft
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '3:53.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - M. Richmond makes 2-pt shot at rim (assist by R. Hamilton)
+  - - '3:32.0'
+    - L. Wright makes 2-pt shot from 1 ft
+    - "+2"
+    - 16-16
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - M. Smith enters the game for J. White
+  - - '3:08.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Turnover by J. Howard (traveling)
+  - - '2:51.0'
+    - Turnover by A. Henderson (bad pass)
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Washington full timeout
+  - - '2:51.0'
+    - H. Mottola enters the game for A. Henderson
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '2:51.0'
+    - A. Johnson enters the game for M. Maloney
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - R. Hamilton misses 2-pt shot from 16 ft
+  - - '2:33.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '2:28.0'
+    - Turnover by H. Mottola (lost ball; steal by J. Howard)
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Turnover by J. Howard (out of bounds)
+  - - '2:13.0'
+    - L. Wright makes 2-pt shot from 4 ft
+    - "+2"
+    - 18-16
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - Personal foul by H. Mottola
+  - - '1:56.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - C. Whitney enters the game for R. Strickland
+  - - '1:42.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '1:40.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '1:24.0'
+    - Shooting foul by C. Whitney
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '1:24.0'
+    - A. Johnson misses free throw 1 of 2
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '1:24.0'
+    - A. Johnson makes free throw 2 of 2
+    - "+1"
+    - 19-16
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - C. Booth enters the game for J. Howard
+  - - '1:00.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - C. Whitney misses 2-pt shot from 19 ft
+  - - '0:58.9'
+    - Defensive rebound by L. Robinson
+    - ''
+    - 19-16
+    - ''
+    - ''
+  - - '0:51.3'
+    - L. Wright makes 2-pt shot from 4 ft (assist by L. Robinson)
+    - "+2"
+    - 21-16
+    - ''
+    - ''
+  - - '0:51.3'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - Violation by C. Booth (def goaltending)
+  - - '0:36.9'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - M. Richmond misses 2-pt shot from 17 ft
+  - - '0:34.6'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - Offensive rebound by C. Booth
+  - - '0:34.6'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - C. Booth misses 2-pt shot from 2 ft
+  - - '0:34.6'
+    - Defensive rebound by Team
+    - ''
+    - 21-16
+    - ''
+    - ''
+  - - '0:34.6'
+    - Loose ball foul by M. Smith
+    - ''
+    - 21-16
+    - ''
+    - ''
+  - - '0:34.6'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 22-16
+    - ''
+    - ''
+  - - '0:34.6'
+    - L. Wright makes free throw 2 of 2
+    - "+1"
+    - 23-16
+    - ''
+    - ''
+  - - '0:21.7'
+    - ''
+    - ''
+    - 23-18
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 18 ft (assist by M. Smith)
+  - - '0:02.2'
+    - J. Terry misses 2-pt shot from 8 ft
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '0:02.2'
+    - Offensive rebound by L. Wright
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '0:02.2'
+    - L. Wright makes 2-pt shot at rim
+    - "+2"
+    - 25-18
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 25-18
+    - ''
+    - G. King misses 2-pt shot from 9 ft
+  - - '11:40.0'
+    - Defensive rebound by A. Johnson
+    - ''
+    - 25-18
+    - ''
+    - ''
+  - - '11:34.0'
+    - L. Robinson misses 2-pt shot from 16 ft
+    - ''
+    - 25-18
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 25-18
+    - ''
+    - Defensive rebound by G. King
+  - - '11:25.0'
+    - ''
+    - ''
+    - 25-20
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 12 ft (assist by C. Whitney)
+  - - '11:04.0'
+    - L. Wright makes 2-pt shot from 6 ft (assist by L. Robinson)
+    - "+2"
+    - 27-20
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 27-20
+    - ''
+    - R. Hamilton misses 2-pt shot from 5 ft
+  - - '10:45.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '10:36.0'
+    - D. Glover misses 2-pt shot from 15 ft
+    - ''
+    - 27-20
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 27-20
+    - ''
+    - Defensive rebound by C. Booth
+  - - '10:26.0'
+    - ''
+    - ''
+    - 27-23
+    - "+3"
+    - C. Whitney makes 3-pt shot from 27 ft (assist by R. Hamilton)
+  - - '10:00.0'
+    - Turnover by L. Wright (bad pass; steal by C. Whitney)
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - M. Smith misses 2-pt shot from 16 ft
+  - - '9:38.0'
+    - J. Terry enters the game for D. Glover
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '9:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '9:38.0'
+    - A. Henderson enters the game for L. Wright
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '9:23.0'
+    - Shooting foul by R. Hamilton
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '9:23.0'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 28-23
+    - ''
+    - ''
+  - - '9:23.0'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 29-23
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 29-23
+    - ''
+    - Washington full timeout
+  - - '8:58.0'
+    - ''
+    - ''
+    - 29-23
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:39.0'
+    - A. Henderson misses 2-pt shot from 7 ft (block by C. Booth)
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 29-23
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '8:33.0'
+    - ''
+    - ''
+    - 29-25
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 7 ft
+  - - '8:27.0'
+    - Offensive foul by D. Mutombo
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:27.0'
+    - Turnover by D. Mutombo (foul)
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - Offensive foul by R. Hamilton
+  - - '8:18.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - Turnover by R. Hamilton (foul)
+  - - '8:18.0'
+    - M. Maloney enters the game for A. Johnson
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - M. Richmond enters the game for R. Hamilton
+  - - '8:18.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - J. Howard enters the game for M. Smith
+  - - '8:01.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:01.0'
+    - A. Henderson misses free throw 1 of 2
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - R. Strickland enters the game for C. Whitney
+  - - '8:01.0'
+    - A. Henderson makes free throw 2 of 2
+    - "+1"
+    - 30-25
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - M. Richmond misses 2-pt shot from 17 ft
+  - - '7:49.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '7:39.0'
+    - L. Robinson makes 3-pt shot from 25 ft (assist by M. Maloney)
+    - "+3"
+    - 33-25
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Turnover by G. King (lost ball; steal by L. Robinson)
+  - - '7:10.0'
+    - Offensive foul by D. Mutombo
+    - ''
+    - 33-25
+    - ''
+    - ''
+  - - '7:10.0'
+    - Turnover by D. Mutombo (foul)
+    - ''
+    - 33-25
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Personal foul by L. Robinson
+  - - '6:58.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - J. White enters the game for C. Booth
+  - - '6:49.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - R. Strickland misses 2-pt shot from 18 ft
+  - - '6:47.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 33-25
+    - ''
+    - ''
+  - - '6:42.0'
+    - A. Henderson misses 2-pt shot from 2 ft
+    - ''
+    - 33-25
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Defensive rebound by J. White
+  - - '6:32.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - G. King misses 2-pt shot from 18 ft
+  - - '6:30.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Offensive rebound by J. Howard
+  - - '6:24.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Offensive foul by J. Howard
+  - - '6:24.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - Turnover by J. Howard (foul)
+  - - '6:12.0'
+    - L. Robinson makes 3-pt shot from 26 ft
+    - "+3"
+    - 36-25
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - J. Howard misses 2-pt shot from 8 ft
+  - - '5:49.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '5:47.0'
+    - Atlanta full timeout
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - F. Lopez enters the game for G. King
+  - - '5:29.0'
+    - Turnover by L. Robinson (bad pass; steal by F. Lopez)
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - Turnover by F. Lopez (lost ball)
+  - - '5:14.0'
+    - J. Terry misses 2-pt shot from 7 ft
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - Defensive rebound by J. White
+  - - '5:00.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - J. Howard misses 2-pt shot from 10 ft
+  - - '4:58.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:51.0'
+    - Personal foul by J. White
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:38.0'
+    - A. Henderson misses 2-pt shot from 5 ft
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - Defensive rebound by J. White
+  - - '4:32.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - Personal foul by M. Maloney
+  - - '4:32.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 36-25
+    - ''
+    - J. White misses 2-pt shot from 4 ft
+  - - '4:17.0'
+    - Defensive rebound by A. Henderson
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:08.0'
+    - L. Wright makes 2-pt shot from 15 ft
+    - "+2"
+    - 38-25
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - Washington full timeout
+  - - '3:58.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - G. King enters the game for J. White
+  - - '3:45.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - R. Strickland misses 2-pt shot from 12 ft
+  - - '3:44.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - Offensive rebound by R. Strickland
+  - - '3:37.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - Personal foul by J. Terry
+  - - '3:30.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - M. Richmond misses 2-pt shot from 20 ft
+  - - '3:29.0'
+    - Defensive rebound by Team
+    - ''
+    - 38-25
+    - ''
+    - ''
+  - - '3:10.0'
+    - Turnover by A. Henderson (bad pass; steal by M. Richmond)
+    - ''
+    - 38-25
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 38-27
+    - "+2"
+    - M. Richmond makes 2-pt shot at rim
+  - - '2:42.0'
+    - J. Terry misses 2-pt shot from 15 ft
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '2:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 38-27
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '2:29.0'
+    - M. Maloney makes 2-pt shot from 22 ft
+    - "+2"
+    - 40-27
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 40-27
+    - ''
+    - G. King misses 2-pt shot from 15 ft
+  - - '2:09.0'
+    - Defensive rebound by L. Robinson
+    - ''
+    - 40-27
+    - ''
+    - ''
+  - - '1:55.0'
+    - L. Wright makes 2-pt shot from 9 ft (assist by L. Robinson)
+    - "+2"
+    - 42-27
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 42-27
+    - ''
+    - Personal foul by L. Wright
+  - - '1:42.0'
+    - ''
+    - ''
+    - 42-27
+    - ''
+    - R. Hamilton misses 2-pt shot from 13 ft
+  - - '1:40.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 42-27
+    - ''
+    - ''
+  - - '1:22.0'
+    - Shooting foul by M. Richmond
+    - ''
+    - 42-27
+    - ''
+    - ''
+  - - '1:22.0'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 43-27
+    - ''
+    - ''
+  - - '1:22.0'
+    - J. Terry makes free throw 2 of 2
+    - "+1"
+    - 44-27
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 44-29
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 16 ft (assist by R. Strickland)
+  - - '1:06.0'
+    - ''
+    - ''
+    - 44-29
+    - ''
+    - Shooting foul by L. Robinson
+  - - '1:06.0'
+    - A. Johnson enters the game for M. Maloney
+    - ''
+    - 44-29
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 44-30
+    - "+1"
+    - R. Hamilton makes free throw 1 of 1
+  - - '0:58.2'
+    - Turnover by J. Terry (traveling)
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:51.7'
+    - ''
+    - ''
+    - 44-30
+    - ''
+    - M. Richmond misses 2-pt shot from 4 ft (block by L. Wright)
+  - - '0:51.7'
+    - 'Jump ball: M. Richmond vs. L. Wright (L. Robinson gains possession)'
+  - - '0:51.7'
+    - Defensive rebound by Team
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:33.5'
+    - Shooting foul by G. King
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:33.5'
+    - A. Henderson misses free throw 1 of 2
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:33.5'
+    - Offensive rebound by Team
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:33.5'
+    - A. Henderson misses free throw 2 of 2
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:32.9'
+    - Offensive rebound by L. Wright
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '0:31.3'
+    - A. Johnson makes 2-pt shot at rim (assist by L. Wright)
+    - "+2"
+    - 46-30
+    - ''
+    - ''
+  - - '0:10.9'
+    - ''
+    - ''
+    - 46-30
+    - ''
+    - G. King misses 2-pt shot from 18 ft
+  - - '0:09.6'
+    - Defensive rebound by A. Johnson
+    - ''
+    - 46-30
+    - ''
+    - ''
+  - - '0:05.7'
+    - L. Wright makes 2-pt shot from 1 ft (assist by A. Johnson)
+    - "+2"
+    - 48-30
+    - ''
+    - ''
+  - - '0:05.2'
+    - ''
+    - ''
+    - 48-30
+    - ''
+    - Turnover by M. Richmond (bad pass)
+  - - '0:05.2'
+    - Atlanta 20 second timeout
+    - ''
+    - 48-30
+    - ''
+    - ''
+  - - '0:05.2'
+    - ''
+    - ''
+    - 48-30
+    - ''
+    - C. Booth enters the game for R. Hamilton
+  - - '0:05.2'
+    - ''
+    - ''
+    - 48-30
+    - ''
+    - M. Smith enters the game for J. Howard
+  - - '0:01.6'
+    - J. Terry makes 2-pt shot from 10 ft (assist by A. Henderson)
+    - "+2"
+    - 50-30
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 50-32
+    - "+2"
+    - R. Strickland makes 2-pt shot from 1 ft (assist by J. Howard)
+  - - '11:40.0'
+    - ''
+    - ''
+    - 50-32
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '11:40.0'
+    - ''
+    - ''
+    - 50-33
+    - "+1"
+    - R. Strickland makes free throw 1 of 1
+  - - '11:17.0'
+    - C. Crawford misses 2-pt shot from 19 ft
+    - ''
+    - 50-33
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 50-33
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '11:12.0'
+    - ''
+    - ''
+    - 50-33
+    - ''
+    - J. Howard misses 2-pt shot from 5 ft (block by C. Crawford)
+  - - '11:12.0'
+    - ''
+    - ''
+    - 50-33
+    - ''
+    - Offensive rebound by Team
+  - - '11:11.0'
+    - ''
+    - ''
+    - 50-33
+    - ''
+    - R. Strickland misses 2-pt shot from 18 ft
+  - - '11:11.0'
+    - ''
+    - ''
+    - 50-33
+    - ''
+    - Offensive rebound by Team
+  - - '11:08.0'
+    - ''
+    - ''
+    - 50-35
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 14 ft (assist by M. Richmond)
+  - - '10:47.0'
+    - Personal foul by J. Howard
+    - ''
+    - 50-35
+    - ''
+    - ''
+  - - '10:36.0'
+    - A. Henderson makes 2-pt shot from 2 ft
+    - "+2"
+    - 52-35
+    - ''
+    - ''
+  - - '10:36.0'
+    - Shooting foul by M. Richmond
+    - ''
+    - 52-35
+    - ''
+    - ''
+  - - '10:36.0'
+    - A. Henderson makes free throw 1 of 1
+    - "+1"
+    - 53-35
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 53-35
+    - ''
+    - R. Hamilton misses 2-pt shot from 17 ft
+  - - '10:14.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '10:14.0'
+    - Personal foul by J. White
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '10:04.0'
+    - J. Terry misses 2-pt shot from 16 ft
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 53-35
+    - ''
+    - Defensive rebound by J. White
+  - - '9:58.0'
+    - ''
+    - ''
+    - 53-35
+    - ''
+    - J. Howard misses 2-pt shot from 17 ft
+  - - '9:56.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '9:40.0'
+    - Turnover by A. Henderson (3 second)
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 53-35
+    - ''
+    - J. White misses 2-pt shot from 3 ft (block by D. Mutombo)
+  - - '9:23.0'
+    - Defensive rebound by M. Maloney
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '9:18.0'
+    - Turnover by M. Maloney (bad pass; steal by M. Richmond)
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 53-35
+    - ''
+    - Turnover by M. Richmond (bad pass)
+  - - '9:06.0'
+    - Turnover by M. Maloney (bad pass; steal by M. Richmond)
+    - ''
+    - 53-35
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 53-37
+    - "+2"
+    - J. Howard makes 2-pt shot from 3 ft (assist by M. Richmond)
+  - - '8:35.0'
+    - J. Terry misses 2-pt shot from 22 ft
+    - ''
+    - 53-37
+    - ''
+    - ''
+  - - '8:33.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 53-37
+    - ''
+    - ''
+  - - '8:32.0'
+    - D. Mutombo makes 2-pt shot from 2 ft
+    - "+2"
+    - 55-37
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 55-39
+    - "+2"
+    - R. Strickland makes 2-pt shot at rim
+  - - '7:58.0'
+    - D. Mutombo makes 2-pt shot from 5 ft
+    - "+2"
+    - 57-39
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Personal foul by A. Henderson
+  - - '7:40.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 57-39
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Turnover by R. Strickland (bad pass; steal by A. Henderson)
+  - - '7:27.0'
+    - J. Terry misses 2-pt shot from 19 ft
+    - ''
+    - 57-39
+    - ''
+    - ''
+  - - '7:25.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 57-39
+    - ''
+    - ''
+  - - '7:20.0'
+    - Turnover by A. Henderson (lost ball; steal by J. Howard)
+    - ''
+    - 57-39
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '7:10.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Offensive rebound by J. Howard
+  - - '7:02.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Turnover by R. Strickland (bad pass; steal by A. Henderson)
+  - - '6:41.0'
+    - C. Crawford misses 2-pt shot from 7 ft
+    - ''
+    - 57-39
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Defensive rebound by J. White
+  - - '6:40.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Personal foul by A. Henderson
+  - - '6:26.0'
+    - ''
+    - ''
+    - 57-41
+    - "+2"
+    - R. Strickland makes 2-pt shot from 2 ft
+  - - '6:03.0'
+    - D. Mutombo misses 2-pt shot from 2 ft
+    - ''
+    - 57-41
+    - ''
+    - ''
+  - - '6:01.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 57-41
+    - ''
+    - ''
+  - - '6:00.0'
+    - C. Crawford makes 2-pt shot from 1 ft
+    - "+2"
+    - 59-41
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 59-41
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '5:41.0'
+    - Defensive rebound by Team
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:41.0'
+    - Loose ball foul by J. White
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:41.0'
+    - Atlanta full timeout
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:41.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:41.0'
+    - L. Robinson enters the game for C. Crawford
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:31.0'
+    - A. Henderson makes 2-pt shot at rim (assist by J. Terry)
+    - "+2"
+    - 61-41
+    - ''
+    - ''
+  - - '5:31.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 61-41
+    - ''
+    - ''
+  - - '5:31.0'
+    - A. Henderson misses free throw 1 of 1
+    - ''
+    - 61-41
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 61-41
+    - ''
+    - Defensive rebound by J. White
+  - - '5:16.0'
+    - ''
+    - ''
+    - 61-41
+    - ''
+    - Shooting foul by L. Wright
+  - - '5:16.0'
+    - ''
+    - ''
+    - 61-41
+    - ''
+    - G. King enters the game for J. White
+  - - '5:16.0'
+    - ''
+    - ''
+    - 61-42
+    - "+1"
+    - J. Howard makes free throw 1 of 2
+  - - '5:16.0'
+    - ''
+    - ''
+    - 61-43
+    - "+1"
+    - J. Howard makes free throw 2 of 2
+  - - '5:02.0'
+    - Personal foul by G. King
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - M. Smith enters the game for J. Howard
+  - - '5:02.0'
+    - L. Wright misses free throw 1 of 2
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '5:02.0'
+    - Offensive rebound by Team
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '5:02.0'
+    - L. Wright misses free throw 2 of 2
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - Defensive rebound by M. Smith
+  - - '4:40.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - R. Hamilton misses 2-pt shot from 5 ft
+  - - '4:39.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '4:29.0'
+    - A. Henderson misses 2-pt shot from 5 ft
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '4:28.0'
+    - Offensive rebound by A. Henderson
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '4:25.0'
+    - Turnover by A. Henderson (lost ball; steal by M. Smith)
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - Personal foul by L. Robinson
+  - - '4:23.0'
+    - ''
+    - ''
+    - 61-44
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '4:23.0'
+    - ''
+    - ''
+    - 61-45
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '4:13.0'
+    - Personal foul by G. King
+    - ''
+    - 61-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 61-45
+    - ''
+    - C. Whitney enters the game for R. Strickland
+  - - '4:13.0'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 62-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - H. Mottola enters the game for A. Henderson
+    - ''
+    - 62-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - L. Wright misses free throw 2 of 2
+    - ''
+    - 62-45
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 62-45
+    - ''
+    - Defensive rebound by M. Smith
+  - - '4:00.0'
+    - ''
+    - ''
+    - 62-45
+    - ''
+    - R. Hamilton misses 2-pt shot from 13 ft
+  - - '3:58.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 62-45
+    - ''
+    - ''
+  - - '3:45.0'
+    - M. Maloney makes 3-pt shot from 26 ft (assist by L. Wright)
+    - "+3"
+    - 65-45
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 65-45
+    - ''
+    - C. Whitney misses 3-pt shot from 25 ft
+  - - '3:28.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '3:11.0'
+    - L. Wright misses 2-pt shot from 18 ft
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 65-45
+    - ''
+    - Defensive rebound by Team
+  - - '2:46.0'
+    - ''
+    - ''
+    - 65-45
+    - ''
+    - M. Richmond misses 3-pt shot from 27 ft
+  - - '2:46.0'
+    - Atlanta full timeout
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '2:46.0'
+    - Defensive rebound by Team
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 65-45
+    - ''
+    - F. Lopez enters the game for M. Richmond
+  - - '2:46.0'
+    - A. Johnson enters the game for M. Maloney
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '2:35.0'
+    - L. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 65-45
+    - ''
+    - ''
+  - - '2:34.0'
+    - ''
+    - ''
+    - 65-45
+    - ''
+    - Defensive rebound by G. King
+  - - '2:15.0'
+    - ''
+    - ''
+    - 65-47
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 16 ft (assist by G. King)
+  - - '1:57.0'
+    - H. Mottola makes 2-pt shot from 17 ft (assist by J. Terry)
+    - "+2"
+    - 67-47
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 67-47
+    - ''
+    - C. Whitney misses 2-pt shot from 17 ft
+  - - '1:41.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 67-47
+    - ''
+    - ''
+  - - '1:36.0'
+    - J. Terry makes 2-pt shot at rim
+    - "+2"
+    - 69-47
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 69-47
+    - ''
+    - Washington 20 second timeout
+  - - '1:28.0'
+    - ''
+    - ''
+    - 69-47
+    - ''
+    - R. Strickland enters the game for R. Hamilton
+  - - '1:17.0'
+    - ''
+    - ''
+    - 69-47
+    - ''
+    - C. Whitney misses 2-pt shot from 10 ft
+  - - '1:16.0'
+    - ''
+    - ''
+    - 69-47
+    - ''
+    - Offensive rebound by F. Lopez
+  - - '1:16.0'
+    - ''
+    - ''
+    - 69-47
+    - ''
+    - Personal foul by A. Johnson
+  - - '1:16.0'
+    - ''
+    - ''
+    - 69-48
+    - "+1"
+    - F. Lopez makes free throw 1 of 2
+  - - '1:16.0'
+    - ''
+    - ''
+    - 69-49
+    - "+1"
+    - F. Lopez makes free throw 2 of 2
+  - - '1:10.0'
+    - Offensive foul by H. Mottola
+    - ''
+    - 69-49
+    - ''
+    - ''
+  - - '1:10.0'
+    - Turnover by H. Mottola (foul)
+    - ''
+    - 69-49
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 69-49
+    - ''
+    - G. King misses 2-pt shot from 2 ft (block by H. Mottola)
+  - - '0:58.9'
+    - Defensive rebound by L. Wright
+    - ''
+    - 69-49
+    - ''
+    - ''
+  - - '0:48.8'
+    - J. Terry makes 2-pt shot from 18 ft (assist by A. Johnson)
+    - "+2"
+    - 71-49
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 71-49
+    - ''
+    - C. Whitney misses 3-pt shot from 25 ft
+  - - '0:32.9'
+    - Defensive rebound by J. Terry
+    - ''
+    - 71-49
+    - ''
+    - ''
+  - - '0:27.9'
+    - L. Wright makes 2-pt shot from 11 ft (assist by J. Terry)
+    - "+2"
+    - 73-49
+    - ''
+    - ''
+  - - '0:11.9'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - F. Lopez misses 2-pt shot from 15 ft
+  - - '0:09.5'
+    - Defensive rebound by L. Wright
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '0:01.0'
+    - A. Johnson misses 2-pt shot from 16 ft
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Defensive rebound by M. Smith
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - Turnover by J. Terry (bad pass; steal by C. Booth)
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '11:43.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Shooting foul by A. Henderson
+  - - '11:43.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - J. Howard misses free throw 1 of 2
+  - - '11:43.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Offensive rebound by Team
+  - - '11:43.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - J. Howard misses free throw 2 of 2
+  - - '11:40.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '11:20.0'
+    - L. Robinson misses 3-pt shot from 26 ft
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '11:18.0'
+    - Offensive rebound by L. Robinson
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '11:04.0'
+    - D. Mutombo misses 2-pt shot from 3 ft
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Defensive rebound by R. Strickland
+  - - '10:59.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Personal foul by A. Johnson
+  - - '10:57.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Offensive foul by C. Whitney
+  - - '10:57.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - Turnover by C. Whitney (foul)
+  - - '10:34.0'
+    - Shooting foul by C. Whitney
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '10:34.0'
+    - J. Terry misses free throw 1 of 3
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '10:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 73-49
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - M. Richmond enters the game for C. Whitney
+  - - '10:34.0'
+    - ''
+    - ''
+    - 73-49
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '10:34.0'
+    - J. Terry makes free throw 2 of 3
+    - "+1"
+    - 74-49
+    - ''
+    - ''
+  - - '10:34.0'
+    - J. Terry makes free throw 3 of 3
+    - "+1"
+    - 75-49
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 75-49
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '10:25.0'
+    - ''
+    - ''
+    - 75-50
+    - "+1"
+    - R. Strickland makes free throw 1 of 2
+  - - '10:25.0'
+    - ''
+    - ''
+    - 75-51
+    - "+1"
+    - R. Strickland makes free throw 2 of 2
+  - - '10:11.0'
+    - D. Mutombo makes 2-pt shot from 3 ft
+    - "+2"
+    - 77-51
+    - ''
+    - ''
+  - - '10:11.0'
+    - Shooting foul by C. Booth
+    - ''
+    - 77-51
+    - ''
+    - ''
+  - - '10:11.0'
+    - D. Mutombo misses free throw 1 of 1
+    - ''
+    - 77-51
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 77-51
+    - ''
+    - Defensive rebound by J. Howard
+  - - '10:01.0'
+    - ''
+    - ''
+    - 77-51
+    - ''
+    - C. Booth misses 2-pt shot from 3 ft (block by D. Mutombo)
+  - - '9:59.0'
+    - ''
+    - ''
+    - 77-51
+    - ''
+    - Offensive rebound by C. Booth
+  - - '9:58.0'
+    - ''
+    - ''
+    - 77-53
+    - "+2"
+    - C. Booth makes 2-pt shot from 2 ft
+  - - '9:40.0'
+    - ''
+    - ''
+    - 77-53
+    - ''
+    - Violation by Team (illegal defense)
+  - - '9:26.0'
+    - L. Robinson makes 3-pt shot from 23 ft (assist by D. Mutombo)
+    - "+3"
+    - 80-53
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 80-53
+    - ''
+    - J. Howard misses 2-pt shot from 10 ft
+  - - '9:11.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 80-53
+    - ''
+    - ''
+  - - '9:02.0'
+    - A. Henderson makes 2-pt shot from 11 ft
+    - "+2"
+    - 82-53
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 82-55
+    - "+2"
+    - R. Strickland makes 2-pt shot from 9 ft
+  - - '8:43.0'
+    - L. Robinson makes 2-pt shot at rim (assist by J. Terry)
+    - "+2"
+    - 84-55
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 84-58
+    - "+3"
+    - M. Richmond makes 3-pt shot from 26 ft
+  - - '8:16.0'
+    - A. Henderson misses 2-pt shot from 6 ft
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:16.0'
+    - Offensive rebound by Team
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:16.0'
+    - Official timeout
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 84-58
+    - ''
+    - M. Smith enters the game for C. Booth
+  - - '8:16.0'
+    - L. Wright enters the game for D. Mutombo
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:16.0'
+    - M. Maloney enters the game for A. Johnson
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:05.0'
+    - L. Wright misses 2-pt shot from 5 ft (block by M. Smith)
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:04.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:04.0'
+    - L. Wright misses 2-pt shot from 6 ft (block by M. Smith)
+    - ''
+    - 84-58
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 84-58
+    - ''
+    - Defensive rebound by Team
+  - - '7:55.0'
+    - ''
+    - ''
+    - 84-60
+    - "+2"
+    - R. Strickland makes 2-pt shot from 11 ft
+  - - '7:34.0'
+    - Shooting foul by R. Strickland
+    - ''
+    - 84-60
+    - ''
+    - ''
+  - - '7:34.0'
+    - J. Terry makes free throw 1 of 2
+    - "+1"
+    - 85-60
+    - ''
+    - ''
+  - - '7:34.0'
+    - J. Terry misses free throw 2 of 2
+    - ''
+    - 85-60
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 85-60
+    - ''
+    - Defensive rebound by M. Smith
+  - - '7:17.0'
+    - ''
+    - ''
+    - 85-60
+    - ''
+    - Shooting foul by L. Wright
+  - - '7:17.0'
+    - ''
+    - ''
+    - 85-61
+    - "+1"
+    - M. Richmond makes free throw 1 of 2
+  - - '7:17.0'
+    - ''
+    - ''
+    - 85-62
+    - "+1"
+    - M. Richmond makes free throw 2 of 2
+  - - '6:58.0'
+    - L. Wright misses 2-pt shot from 8 ft
+    - ''
+    - 85-62
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 85-62
+    - ''
+    - Defensive rebound by M. Smith
+  - - '6:51.0'
+    - ''
+    - ''
+    - 85-62
+    - ''
+    - Personal foul by M. Maloney
+  - - '6:51.0'
+    - ''
+    - ''
+    - 85-63
+    - "+1"
+    - R. Strickland makes free throw 1 of 2
+  - - '6:51.0'
+    - ''
+    - ''
+    - 85-63
+    - ''
+    - G. King enters the game for J. Howard
+  - - '6:51.0'
+    - ''
+    - ''
+    - 85-64
+    - "+1"
+    - R. Strickland makes free throw 2 of 2
+  - - '6:27.0'
+    - L. Robinson misses 2-pt shot from 15 ft (block by M. Richmond)
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '6:26.0'
+    - Offensive rebound by L. Wright
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '6:26.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 85-64
+    - ''
+    - F. Lopez enters the game for M. Richmond
+  - - '6:16.0'
+    - ''
+    - ''
+    - 85-64
+    - ''
+    - F. Lopez misses 2-pt shot from 6 ft (block by L. Wright)
+  - - '6:14.0'
+    - Defensive rebound by J. Terry
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '5:59.0'
+    - Personal foul by G. King
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '5:59.0'
+    - Atlanta full timeout
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 85-64
+    - ''
+    - C. Whitney enters the game for R. Strickland
+  - - '5:59.0'
+    - A. Johnson enters the game for J. Terry
+    - ''
+    - 85-64
+    - ''
+    - ''
+  - - '5:47.0'
+    - M. Maloney makes 2-pt shot from 11 ft
+    - "+2"
+    - 87-64
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 87-64
+    - ''
+    - Offensive foul by F. Lopez
+  - - '5:41.0'
+    - ''
+    - ''
+    - 87-64
+    - ''
+    - Turnover by F. Lopez (foul)
+  - - '5:19.0'
+    - M. Maloney misses 2-pt shot from 16 ft
+    - ''
+    - 87-64
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 87-64
+    - ''
+    - Defensive rebound by M. Smith
+  - - '5:10.0'
+    - ''
+    - ''
+    - 87-64
+    - ''
+    - R. Hamilton misses 2-pt shot from 8 ft
+  - - '5:08.0'
+    - Defensive rebound by L. Robinson
+    - ''
+    - 87-64
+    - ''
+    - ''
+  - - '5:00.0'
+    - Personal foul by M. Smith
+    - ''
+    - 87-64
+    - ''
+    - ''
+  - - '5:00.0'
+    - L. Wright makes free throw 1 of 2
+    - "+1"
+    - 88-64
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 88-64
+    - ''
+    - C. Booth enters the game for M. Smith
+  - - '5:00.0'
+    - H. Mottola enters the game for A. Henderson
+    - ''
+    - 88-64
+    - ''
+    - ''
+  - - '5:00.0'
+    - L. Wright makes free throw 2 of 2
+    - "+1"
+    - 89-64
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 89-64
+    - ''
+    - R. Hamilton misses 2-pt shot from 14 ft
+  - - '4:47.0'
+    - Defensive rebound by L. Wright
+    - ''
+    - 89-64
+    - ''
+    - ''
+  - - '4:31.0'
+    - A. Johnson misses 2-pt shot from 18 ft
+    - ''
+    - 89-64
+    - ''
+    - ''
+  - - '4:29.0'
+    - Offensive rebound by H. Mottola
+    - ''
+    - 89-64
+    - ''
+    - ''
+  - - '4:27.0'
+    - A. Johnson makes 2-pt shot from 2 ft
+    - "+2"
+    - 91-64
+    - ''
+    - ''
+  - - '4:26.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 91-64
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 91-66
+    - "+2"
+    - F. Lopez makes 2-pt shot at rim (assist by C. Whitney)
+  - - '4:02.0'
+    - Turnover by L. Wright (bad pass; steal by F. Lopez)
+    - ''
+    - 91-66
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 91-68
+    - "+2"
+    - F. Lopez makes 2-pt shot from 1 ft
+  - - '3:45.0'
+    - Turnover by H. Mottola (lost ball; steal by G. King)
+    - ''
+    - 91-68
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 91-68
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '3:35.0'
+    - Defensive rebound by H. Mottola
+    - ''
+    - 91-68
+    - ''
+    - ''
+  - - '3:15.0'
+    - Turnover by H. Mottola (lost ball; steal by G. King)
+    - ''
+    - 91-68
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 91-70
+    - "+2"
+    - F. Lopez makes 2-pt shot from 1 ft (assist by R. Hamilton)
+  - - '2:59.0'
+    - Atlanta full timeout
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:59.0'
+    - C. Bowdler enters the game for L. Wright
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:59.0'
+    - J. Terry enters the game for M. Maloney
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:43.0'
+    - H. Mottola misses 2-pt shot from 17 ft
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 91-70
+    - ''
+    - Defensive rebound by G. King
+  - - '2:31.0'
+    - ''
+    - ''
+    - 91-70
+    - ''
+    - C. Whitney misses 2-pt shot from 21 ft
+  - - '2:29.0'
+    - Defensive rebound by C. Bowdler
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:24.0'
+    - Shooting foul by C. Whitney
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '2:24.0'
+    - H. Mottola makes free throw 1 of 2
+    - "+1"
+    - 92-70
+    - ''
+    - ''
+  - - '2:24.0'
+    - D. Johnson enters the game for L. Robinson
+    - ''
+    - 92-70
+    - ''
+    - ''
+  - - '2:24.0'
+    - H. Mottola makes free throw 2 of 2
+    - "+1"
+    - 93-70
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - R. Hamilton misses 2-pt shot from 18 ft
+  - - '2:11.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '2:08.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - F. Lopez misses 2-pt shot from 3 ft (block by A. Johnson)
+  - - '2:08.0'
+    - 'Jump ball: F. Lopez vs. A. Johnson (R. Hamilton gains possession)'
+  - - '2:08.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - Offensive rebound by Team
+  - - '2:03.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - C. Whitney misses 3-pt shot from 26 ft
+  - - '2:00.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '1:59.0'
+    - ''
+    - ''
+    - 93-70
+    - ''
+    - R. Hamilton misses 2-pt shot from 8 ft
+  - - '1:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 93-70
+    - ''
+    - ''
+  - - '1:51.0'
+    - D. Johnson makes 2-pt shot from 20 ft (assist by H. Mottola)
+    - "+2"
+    - 95-70
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 95-70
+    - ''
+    - Shooting foul by D. Johnson
+  - - '1:37.0'
+    - ''
+    - ''
+    - 95-70
+    - ''
+    - F. Lopez misses free throw 1 of 2
+  - - '1:37.0'
+    - ''
+    - ''
+    - 95-70
+    - ''
+    - Offensive rebound by Team
+  - - '1:37.0'
+    - ''
+    - ''
+    - 95-71
+    - "+1"
+    - F. Lopez makes free throw 2 of 2
+  - - '1:19.0'
+    - C. Bowdler misses 2-pt shot at rim
+    - ''
+    - 95-71
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 95-71
+    - ''
+    - Defensive rebound by F. Lopez
+  - - '1:06.0'
+    - ''
+    - ''
+    - 95-73
+    - "+2"
+    - C. Booth makes 2-pt shot from 16 ft (assist by G. King)
+  - - '0:47.2'
+    - D. Johnson makes 3-pt shot from 25 ft (assist by A. Johnson)
+    - "+3"
+    - 98-73
+    - ''
+    - ''
+  - - '0:37.0'
+    - ''
+    - ''
+    - 98-73
+    - ''
+    - Personal foul by C. Bowdler
+  - - '0:37.0'
+    - ''
+    - ''
+    - 98-74
+    - "+1"
+    - C. Booth makes free throw 1 of 2
+  - - '0:37.0'
+    - ''
+    - ''
+    - 98-75
+    - "+1"
+    - C. Booth makes free throw 2 of 2
+  - - '0:24.9'
+    - D. Johnson misses 3-pt shot from 26 ft
+    - ''
+    - 98-75
+    - ''
+    - ''
+  - - '0:20.4'
+    - Offensive rebound by A. Johnson
+    - ''
+    - 98-75
+    - ''
+    - ''
+  - - '0:20.4'
+    - A. Johnson makes 2-pt shot from 1 ft
+    - "+2"
+    - 100-75
+    - ''
+    - ''
+  - - '0:13.9'
+    - ''
+    - ''
+    - 100-75
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by H. Mottola)
+  - - '0:07.7'
+    - D. Johnson makes 2-pt shot from 13 ft (assist by J. Terry)
+    - "+2"
+    - 102-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

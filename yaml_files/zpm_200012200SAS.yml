@@ -1,0 +1,241 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -3&#9642;Off: -14&#9642;Net: +11)'
+    - |2-
+
+      -3
+    - 198/-3
+    - 148/
+    - 152/-7
+    - 217/+10
+    - 106/
+    - 135/-3
+    - 41/
+    - 'Zydrunas Ilgauskas (On: -4&#9642;Off: -13&#9642;Net: +9)'
+    - |2-
+
+      -4
+    - 95/-4
+    - 198/
+    - 179/-10
+    - 26/
+    - 216/+10
+    - 87/
+    - 117/0
+    - 78/
+    - 'Andre Miller (On: -8&#9642;Off: -9&#9642;Net: +1)'
+    - |2-
+
+      -5
+    - 154/-5
+    - 151/
+    - 192/-10
+    - 1/
+    - 173/+14
+    - 76/
+    - 247/-7
+    - 2/
+    - 'Lamond Murray (On: -14&#9642;Off: -3&#9642;Net: -11)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 130/
+    - 119/-8
+    - 249/+5
+    - 23/-1
+    - 89/
+    - 138/-5
+    - 'Clarence Weatherspoon (On: -11&#9642;Off: -6&#9642;Net: -5)'
+    - |2-
+
+      -4
+    - 223/-4
+    - 123/
+    - 73/-1
+    - 79/
+    - 117/+6
+    - 103/
+    - 29/-5
+    - 209/-7
+    - 39/
+    - 'Chris Gatling (On: -10&#9642;Off: -7&#9642;Net: -3)'
+    - "\n"
+    - 101/
+    - 148/-1
+    - 90/-3
+    - 82/
+    - 77/-6
+    - 119/
+    - 115/+1
+    - 191/
+    - 72/-1
+    - 'Michael Hawkins (On: -9&#9642;Off: -8&#9642;Net: -1)'
+    - "\n"
+    - 160/
+    - 89/0
+    - 49/0
+    - 199/
+    - 1/0
+    - 177/
+    - 72/-9
+    - 249/
+    - 'Cedric Henderson (On: -11&#9642;Off: -6&#9642;Net: -5)'
+    - "\n"
+    - 203/
+    - 47/-2
+    - 123/-2
+    - 347/
+    - 29/-5
+    - 104/-2
+    - 144/
+    - 'Robert Traylor (On: -8&#9642;Off: -9&#9642;Net: +1)'
+    - "\n"
+    - 228/
+    - 21/-1
+    - 41/+1
+    - 447/
+    - 11/-2
+    - 52/-6
+    - 197/
+    - 'Trajan Langdon (On: -6&#9642;Off: -11&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 90/-3
+    - 435/
+    - 46/-3
+    - 141/
+    - 36/0
+    - 'J.R. Reid (On: -1&#9642;Off: -16&#9642;Net: +15)'
+    - "\n"
+    - 481/
+    - 19/-1
+    - 465/
+    - 35/0
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +9&#9642;Off: +8&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 146/
+    - 104/+8
+    - 250/-5
+    - 23/+1
+    - 225/
+    - 'Antonio Daniels (On: -5&#9642;Off: +22&#9642;Net: -27)'
+    - |2-
+
+      +3
+    - 199/+3
+    - 222/
+    - 79/+6
+    - 173/-14
+    - 326/
+    - 'Tim Duncan (On: +18&#9642;Off: -1&#9642;Net: +19)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 35/-1
+    - 110/
+    - 104/+8
+    - 249/-5
+    - 52/+6
+    - 59/
+    - 98/+5
+    - 39/
+    - 'Sean Elliott (On: +3&#9642;Off: +14&#9642;Net: -11)'
+    - |2-
+
+      +5
+    - 144/+5
+    - 229/
+    - 127/+6
+    - 133/-8
+    - 366/
+    - 'David Robinson (On: -6&#9642;Off: +23&#9642;Net: -29)'
+    - |2-
+
+      +3
+    - 198/+3
+    - 91/
+    - 130/+5
+    - 79/
+    - 173/-14
+    - 131/
+    - 117/0
+    - 77/
+    - 'Danny Ferry (On: +14&#9642;Off: +3&#9642;Net: +11)'
+    - "\n"
+    - 147/
+    - 102/0
+    - 117/+4
+    - 269/
+    - 112/+3
+    - 209/+7
+    - 41/
+    - 'Terry Porter (On: +22&#9642;Off: -5&#9642;Net: +27)'
+    - "\n"
+    - 203/
+    - 47/+2
+    - 169/+4
+    - 257/
+    - 72/+9
+    - 203/+7
+    - 46/
+    - 'Malik Rose (On: +20&#9642;Off: -3&#9642;Net: +23)'
+    - "\n"
+    - 202/
+    - 47/+2
+    - 142/+2
+    - 30/
+    - 51/+5
+    - 202/
+    - 72/+9
+    - 104/+2
+    - 109/
+    - 35/0
+    - 'Steve Kerr (On: +8&#9642;Off: +9&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 143/+2
+    - 384/
+    - 223/+6
+    - 'Samaki Walker (On: +2&#9642;Off: +15&#9642;Net: -13)'
+    - "\n"
+    - 481/
+    - 19/+1
+    - 427/
+    - 73/+1
+    - 'Derrick Dial (On: 0&#9642;Off: +17&#9642;Net: -17)'
+    - "\n"
+    - 955/
+    - 47/0
+    - 'Ira Newble (On: 0&#9642;Off: +17&#9642;Net: -17)'
+    - "\n"
+    - 967/
+    - 35/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

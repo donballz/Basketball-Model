@@ -1,0 +1,220 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Maloney (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 104/
+    - 60/-4
+    - 86/
+    - 131/+8
+    - 153/
+    - 214/-2
+    - 'Roshown McLeod (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - |2-
+
+      -1
+    - 184/-1
+    - 121/
+    - 192/+4
+    - 131/+8
+    - 117/
+    - 1/-2
+    - 84/-4
+    - 165/
+    - 0/+2
+    - 'Dikembe Mutombo (On: +4&#9642;Off: +1&#9642;Net: +3)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 57/
+    - 192/+4
+    - 172/+9
+    - 77/
+    - 245/-8
+    - 3/
+    - 1/0
+    - "-1/"
+    - 'Jason Terry (On: +10&#9642;Off: -5&#9642;Net: +15)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 35/0
+    - 69/
+    - 146/+5
+    - 243/+8
+    - 41/
+    - 214/-2
+    - 'Lorenzen Wright (On: +5&#9642;Off: 0&#9642;Net: +5)'
+    - |2-
+
+      -1
+    - 185/-1
+    - 64/
+    - 249/+4
+    - 243/+8
+    - 41/
+    - 211/-6
+    - 4/
+    - 'Jim Jackson (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - "\n"
+    - 185/
+    - 64/0
+    - 50/0
+    - 113/
+    - 85/+9
+    - 137/
+    - 106/0
+    - 94/
+    - 161/0
+    - 'Hanno Mottola (On: -5&#9642;Off: +10&#9642;Net: -15)'
+    - "\n"
+    - 186/
+    - 64/0
+    - 51/0
+    - 377/
+    - 71/-3
+    - 33/-2
+    - 215/
+    - 'Anthony Johnson (On: -5&#9642;Off: +10&#9642;Net: -15)'
+    - "\n"
+    - 250/
+    - 99/-1
+    - 288/
+    - 112/-2
+    - 33/-2
+    - 216/
+    - 'Larry Robinson (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - "\n"
+    - 285/
+    - 63/-1
+    - 399/
+    - 1/-2
+    - 33/-2
+    - 213/
+    - 3/+4
+    - 'Cal Bowdler (On: -2&#9642;Off: +7&#9642;Net: -9)'
+    - "\n"
+    - 749/
+    - 1/-2
+    - 251/
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kendall Gill (On: -14&#9642;Off: +9&#9642;Net: -23)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 176/
+    - 67/-7
+    - 6/
+    - 131/-8
+    - 368/
+    - 'Stephen Jackson (On: -10&#9642;Off: +5&#9642;Net: -15)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 164/
+    - 86/-9
+    - 250/-6
+    - 249/+4
+    - 'Stephon Marbury (On: -10&#9642;Off: +5&#9642;Net: -15)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 32/0
+    - 132/
+    - 86/-9
+    - 250/-6
+    - 248/+4
+    - 'Kenyon Martin (On: -14&#9642;Off: +9&#9642;Net: -23)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 35/0
+    - 115/
+    - 100/-8
+    - 172/-9
+    - 189/
+    - 86/+2
+    - 50/
+    - 'Aaron Williams (On: 0&#9642;Off: -5&#9642;Net: +5)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 50/0
+    - 99/
+    - 23/-1
+    - 77/
+    - 249/-6
+    - 248/+6
+    - 1/
+    - 'Lucious Harris (On: +7&#9642;Off: -12&#9642;Net: +19)'
+    - "\n"
+    - 249/
+    - 172/+3
+    - 75/
+    - 1/0
+    - 137/
+    - 112/+2
+    - 84/+4
+    - 141/
+    - 24/-2
+    - 'Johnny Newman (On: +10&#9642;Off: -15&#9642;Net: +25)'
+    - "\n"
+    - 249/
+    - 163/+5
+    - 264/
+    - 71/+3
+    - 112/+6
+    - 88/
+    - 50/-4
+    - 'Sherman Douglas (On: +5&#9642;Off: -10&#9642;Net: +15)'
+    - "\n"
+    - 284/
+    - 129/+5
+    - 424/
+    - 135/+2
+    - 25/
+    - 1/-2
+    - 'Vladimir Stepania (On: -3&#9642;Off: -2&#9642;Net: -1)'
+    - "\n"
+    - 285/
+    - 107/+4
+    - 34/
+    - 73/-7
+    - 500/
+    - 'Evan Eschmeyer (On: +4&#9642;Off: -9&#9642;Net: +13)'
+    - "\n"
+    - 307/
+    - 86/+4
+    - 608/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

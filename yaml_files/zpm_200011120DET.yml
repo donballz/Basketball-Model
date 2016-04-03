@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: -8&#9642;Off: -1&#9642;Net: -7)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 81/-2
+    - 77/
+    - 91/-2
+    - 249/-2
+    - 82/+6
+    - 78/
+    - 89/-7
+    - 'Patrick Ewing (On: -6&#9642;Off: -3&#9642;Net: -3)'
+    - |2-
+
+      +1
+    - 177/+1
+    - 154/
+    - 168/-8
+    - 231/0
+    - 80/
+    - 158/+1
+    - 29/
+    - 'Rashard Lewis (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      +1
+    - 200/+1
+    - 157/
+    - 142/-5
+    - 250/-2
+    - 62/
+    - 187/+1
+    - 'Desmond Mason (On: -18&#9642;Off: +9&#9642;Net: -27)'
+    - |2-
+
+      -1
+    - 232/-1
+    - 156/
+    - 91/-7
+    - 21/
+    - 110/-10
+    - 388/
+    - 'Gary Payton (On: -9&#9642;Off: 0&#9642;Net: -9)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 250/-10
+    - 250/-2
+    - 250/+4
+    - 'Pervis Ellison (On: 0&#9642;Off: -9&#9642;Net: +9)'
+    - "\n"
+    - 182/
+    - 68/-2
+    - 43/+1
+    - 445/
+    - 11/-2
+    - 57/+3
+    - 191/
+    - 'Ruben Patterson (On: +6&#9642;Off: -15&#9642;Net: +21)'
+    - "\n"
+    - 204/
+    - 45/-2
+    - 103/-5
+    - 259/
+    - 135/+8
+    - 57/+3
+    - 27/
+    - 97/+2
+    - 46/
+    - 21/0
+    - 'Brent Barry (On: +4&#9642;Off: -13&#9642;Net: +17)'
+    - "\n"
+    - 238/
+    - 11/0
+    - 133/-4
+    - 101/
+    - 15/+1
+    - 249/
+    - 156/+11
+    - 31/
+    - 61/-4
+    - 'Jelani McCoy (On: -9&#9642;Off: 0&#9642;Net: -9)'
+    - "\n"
+    - 298/
+    - 108/-9
+    - 595/
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: +17&#9642;Off: -8&#9642;Net: +25)'
+    - |2-
+
+      -1
+    - 156/-1
+    - 94/
+    - 250/+10
+    - 136/+6
+    - 193/
+    - 169/+2
+    - 'Michael Curry (On: +3&#9642;Off: +6&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 200/-1
+    - 157/
+    - 142/+5
+    - 231/0
+    - 80/
+    - 188/-1
+    - 'Eric Montross (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - |2-
+
+      -1
+    - 182/-1
+    - 149/
+    - 168/+8
+    - 231/0
+    - 133/
+    - 106/+6
+    - 28/
+    - 'Jerry Stackhouse (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      +1
+    - 232/+1
+    - 155/
+    - 111/+6
+    - 231/0
+    - 103/
+    - 152/+3
+    - 13/
+    - 'Ben Wallace (On: +1&#9642;Off: +8&#9642;Net: -7)'
+    - |2-
+
+      -1
+    - 155/-1
+    - 211/
+    - 75/-2
+    - 57/
+    - 183/+2
+    - 146/
+    - 170/+2
+    - 'Mateen Cleaves (On: -8&#9642;Off: +17&#9642;Net: -25)'
+    - "\n"
+    - 163/
+    - 87/+2
+    - 391/
+    - 108/-4
+    - 73/-6
+    - 176/
+    - 'Jerome Williams (On: +2&#9642;Off: +7&#9642;Net: -5)'
+    - "\n"
+    - 162/
+    - 87/+2
+    - 81/+2
+    - 115/
+    - 53/+4
+    - 186/
+    - 62/0
+    - 73/-6
+    - 154/
+    - 21/0
+    - 'Mikki Moore (On: +2&#9642;Off: +7&#9642;Net: -5)'
+    - "\n"
+    - 183/
+    - 66/+2
+    - 114/+8
+    - 374/
+    - 11/+2
+    - 111/-10
+    - 138/
+    - 'Cedric Ceballos (On: +6&#9642;Off: +3&#9642;Net: +3)'
+    - "\n"
+    - 205/
+    - 45/+2
+    - 103/+5
+    - 385/
+    - 11/+2
+    - 57/-3
+    - 191/
+    - 'Jud Buechler (On: -1&#9642;Off: +10&#9642;Net: -11)'
+    - "\n"
+    - 238/
+    - 11/0
+    - 133/+4
+    - 354/
+    - 11/+2
+    - 82/-6
+    - 154/
+    - 13/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

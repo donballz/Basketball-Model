@@ -1,0 +1,227 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +7&#9642;Off: +2&#9642;Net: +5)'
+    - |2-
+
+      +7
+    - 222/+7
+    - 36/
+    - 240/-7
+    - 149/+7
+    - 138/
+    - 195/0
+    - 17/
+    - 'Allen Iverson (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 82/-7
+    - 63/
+    - 104/0
+    - 249/+8
+    - 45/0
+    - 84/
+    - 120/+1
+    - 'George Lynch (On: -1&#9642;Off: +10&#9642;Net: -11)'
+    - |2-
+
+      -2
+    - 62/-2
+    - 169/
+    - 17/0
+    - 7/0
+    - 242/
+    - 6/0
+    - 146/
+    - 59/+1
+    - 273/
+    - 9/0
+    - 3/
+    - 'Theo Ratliff (On: +16&#9642;Off: -7&#9642;Net: +23)'
+    - |2-
+
+      +8
+    - 227/+8
+    - 110/
+    - 161/0
+    - 249/+8
+    - 37/0
+    - 51/
+    - 162/0
+    - 'Eric Snow (On: +14&#9642;Off: -5&#9642;Net: +19)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 88/
+    - 161/0
+    - 207/+6
+    - 90/
+    - 202/0
+    - 'Toni Kukoc (On: +23&#9642;Off: -14&#9642;Net: +37)'
+    - "\n"
+    - 65/
+    - 173/+12
+    - 156/
+    - 80/+3
+    - 36/
+    - 166/+8
+    - 321/
+    - 'Matt Geiger (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - "\n"
+    - 223/
+    - 27/+1
+    - 82/-7
+    - 382/
+    - 35/0
+    - 84/0
+    - 164/
+    - 'Aaron McKie (On: -12&#9642;Off: +21&#9642;Net: -33)'
+    - "\n"
+    - 244/
+    - 4/-2
+    - 139/-7
+    - 89/
+    - 20/-3
+    - 181/
+    - 68/0
+    - 126/-1
+    - 27/
+    - 79/+1
+    - 16/
+    - 'Vernon Maxwell (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - "\n"
+    - 249/
+    - 139/-7
+    - 321/
+    - 39/+2
+    - 150/-1
+    - 86/
+    - 13/0
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Alan Henderson (On: -16&#9642;Off: +7&#9642;Net: -23)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 145/
+    - 105/0
+    - 211/-8
+    - 86/
+    - 201/0
+    - 'DerMarr Johnson (On: -15&#9642;Off: +6&#9642;Net: -21)'
+    - |2-
+
+      -5
+    - 183/-5
+    - 316/
+    - 158/-8
+    - 52/
+    - 39/-2
+    - 45/0
+    - 204/
+    - 'Matt Maloney (On: +1&#9642;Off: -10&#9642;Net: +11)'
+    - |2-
+
+      0
+    - 161/0
+    - 88/
+    - 139/+7
+    - 98/
+    - 12/+2
+    - 158/-8
+    - 91/
+    - 249/0
+    - 'Dikembe Mutombo (On: -1&#9642;Off: -8&#9642;Net: +7)'
+    - |2-
+
+      0
+    - 161/0
+    - 88/
+    - 196/+5
+    - 53/
+    - 206/-6
+    - 90/
+    - 186/0
+    - 16/
+    - 'Jason Terry (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      -6
+    - 193/-6
+    - 56/
+    - 250/+7
+    - 207/-6
+    - 43/
+    - 249/0
+    - 'Anthony Johnson (On: -10&#9642;Off: +1&#9642;Net: -11)'
+    - "\n"
+    - 163/
+    - 87/-8
+    - 145/
+    - 86/-2
+    - 178/
+    - 89/0
+    - 249/
+    - 'Lorenzen Wright (On: -6&#9642;Off: -3&#9642;Net: -3)'
+    - "\n"
+    - 163/
+    - 30/-6
+    - 255/
+    - 50/+2
+    - 210/
+    - 39/-2
+    - 45/0
+    - 204/
+    - 'Chris Crawford (On: -3&#9642;Off: -6&#9642;Net: +3)'
+    - "\n"
+    - 183/
+    - 66/-3
+    - 464/
+    - 35/0
+    - 45/0
+    - 190/
+    - 14/0
+    - 'Cal Bowdler (On: -2&#9642;Off: -7&#9642;Net: +5)'
+    - "\n"
+    - 198/
+    - 52/-2
+    - 751/
+    - 'Larry Robinson (On: +5&#9642;Off: -14&#9642;Net: +19)'
+    - "\n"
+    - 197/
+    - 52/-2
+    - 249/+7
+    - 160/
+    - 89/0
+    - 47/
+    - 203/0
+    - 'Hanno Mottola (On: +7&#9642;Off: -16&#9642;Net: +23)'
+    - "\n"
+    - 250/
+    - 140/+7
+    - 611/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

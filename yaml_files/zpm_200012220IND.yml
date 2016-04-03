@@ -1,0 +1,211 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +19&#9642;Off: -11&#9642;Net: +30)'
+    - |2-
+
+      +11
+    - 238/+11
+    - 167/
+    - 94/0
+    - 247/+1
+    - 99/
+    - 153/+7
+    - 'Olden Polynice (On: +17&#9642;Off: -9&#9642;Net: +26)'
+    - |2-
+
+      +12
+    - 213/+12
+    - 287/
+    - 150/+5
+    - 350/
+    - 'Bryon Russell (On: +19&#9642;Off: -11&#9642;Net: +30)'
+    - |2-
+
+      +11
+    - 250/+11
+    - 200/
+    - 49/0
+    - 164/+5
+    - 85/
+    - 250/+3
+    - 'John Starks (On: +19&#9642;Off: -11&#9642;Net: +30)'
+    - |2-
+
+      +11
+    - 249/+11
+    - 10/0
+    - 93/
+    - 145/0
+    - 249/+1
+    - 97/
+    - 154/+7
+    - 'John Stockton (On: +22&#9642;Off: -14&#9642;Net: +36)'
+    - |2-
+
+      +12
+    - 161/+12
+    - 193/
+    - 146/0
+    - 132/+5
+    - 185/
+    - 181/+5
+    - 'Jacque Vaughn (On: -14&#9642;Off: +22&#9642;Net: -36)'
+    - "\n"
+    - 162/
+    - 87/-1
+    - 101/-7
+    - 285/
+    - 112/-4
+    - 62/-2
+    - 188/
+    - 'Greg Ostertag (On: -10&#9642;Off: +18&#9642;Net: -28)'
+    - "\n"
+    - 216/
+    - 33/-1
+    - 194/-7
+    - 210/
+    - 19/+2
+    - 76/
+    - 91/-4
+    - 157/
+    - 'Danny Manning (On: -11&#9642;Off: +19&#9642;Net: -30)'
+    - "\n"
+    - 245/
+    - 4/0
+    - 153/-7
+    - 344/
+    - 1/0
+    - 91/-4
+    - 159/
+    - 'Donyell Marshall (On: -8&#9642;Off: +16&#9642;Net: -24)'
+    - "\n"
+    - 250/
+    - 250/-7
+    - 169/
+    - 81/-4
+    - 249/+3
+    - 'DeShawn Stevenson (On: -7&#9642;Off: +15&#9642;Net: -22)'
+    - "\n"
+    - 265/
+    - 87/-7
+    - 649/
+    - 'David Benoit (On: -6&#9642;Off: +14&#9642;Net: -20)'
+    - "\n"
+    - 677/
+    - 73/-6
+    - 251/
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff Foster (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - |2-
+
+      -12
+    - 161/-12
+    - 588/
+    - 1/0
+    - 250/
+    - 'Al Harrington (On: -16&#9642;Off: +8&#9642;Net: -24)'
+    - |2-
+
+      -12
+    - 161/-12
+    - 339/
+    - 96/-4
+    - 404/
+    - 'Reggie Miller (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - |2-
+
+      -11
+    - 250/-11
+    - 104/
+    - 146/0
+    - 250/-1
+    - 249/-3
+    - 'Jermaine O''Neal (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 15/+3
+    - 141/
+    - 73/+3
+    - 21/
+    - 173/-7
+    - 96/
+    - 228/-3
+    - 'Jalen Rose (On: -11&#9642;Off: +3&#9642;Net: -14)'
+    - |2-
+
+      -11
+    - 250/-11
+    - 101/+7
+    - 131/
+    - 18/-3
+    - 250/-1
+    - 248/-3
+    - 'Travis Best (On: +10&#9642;Off: -18&#9642;Net: +28)'
+    - "\n"
+    - 162/
+    - 87/+1
+    - 228/+10
+    - 124/
+    - 145/+3
+    - 139/+1
+    - 54/
+    - 57/-5
+    - 'Austin Croshere (On: +9&#9642;Off: -17&#9642;Net: +26)'
+    - "\n"
+    - 162/
+    - 87/+1
+    - 248/+7
+    - 149/-5
+    - 27/
+    - 73/+6
+    - 13/0
+    - 54/
+    - 119/0
+    - 33/
+    - 28/0
+    - 'Sam Perkins (On: +9&#9642;Off: -17&#9642;Net: +26)'
+    - "\n"
+    - 249/
+    - 249/+7
+    - 154/
+    - 92/+4
+    - 2/
+    - 62/+2
+    - 81/
+    - 71/-4
+    - 35/
+    - 'Zan Tabak (On: +4&#9642;Off: -12&#9642;Net: +16)'
+    - "\n"
+    - 272/
+    - 132/+4
+    - 597/
+    - 'Derrick McKey (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - "\n"
+    - 483/
+    - 18/-3
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -15&#9642;Off: +2&#9642;Net: -17)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 36/-8
+    - 213/
+    - 249/-1
+    - 102/-6
+    - 55/
+    - 93/+2
+    - 'Zydrunas Ilgauskas (On: -9&#9642;Off: -4&#9642;Net: -5)'
+    - |2-
+
+      0
+    - 207/0
+    - 70/
+    - 197/+6
+    - 25/
+    - 114/-2
+    - 135/
+    - 143/-13
+    - 105/
+    - 'Andre Miller (On: +9&#9642;Off: -22&#9642;Net: +31)'
+    - |2-
+
+      -4
+    - 166/-4
+    - 200/
+    - 132/+10
+    - 249/-1
+    - 35/+2
+    - 111/
+    - 104/+2
+    - 'Lamond Murray (On: 0&#9642;Off: -13&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 92/-2
+    - 264/
+    - 142/+8
+    - 232/-1
+    - 125/
+    - 74/-5
+    - 68/
+    - 'Clarence Weatherspoon (On: -3&#9642;Off: -10&#9642;Net: +7)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 25/-5
+    - 107/
+    - 118/+12
+    - 249/-1
+    - 107/
+    - 118/-7
+    - 23/
+    - 'Cedric Henderson (On: -7&#9642;Off: -6&#9642;Net: -1)'
+    - "\n"
+    - 99/
+    - 151/0
+    - 107/-7
+    - 581/
+    - 61/0
+    - 'Bimbo Coles (On: -22&#9642;Off: +9&#9642;Net: -31)'
+    - "\n"
+    - 169/
+    - 80/+2
+    - 114/-9
+    - 423/
+    - 105/-15
+    - 107/
+    - 'Robert Traylor (On: -18&#9642;Off: +5&#9642;Net: -23)'
+    - "\n"
+    - 210/
+    - 39/-2
+    - 128/-11
+    - 98/
+    - 23/0
+    - 117/
+    - 131/+1
+    - 101/-6
+    - 44/
+    - 7/0
+    - 95/
+    - 'Trajan Langdon (On: -2&#9642;Off: -11&#9642;Net: +9)'
+    - "\n"
+    - 290/
+    - 209/+9
+    - 238/
+    - 11/0
+    - 251/-11
+    - 'Chris Mihm (On: +2&#9642;Off: -15&#9642;Net: +17)'
+    - "\n"
+    - 978/
+    - 24/+2
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: -1&#9642;Off: +14&#9642;Net: -15)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 79/+4
+    - 99/
+    - 70/-8
+    - 249/+1
+    - 55/0
+    - 102/
+    - 68/0
+    - 24/
+    - 'Sam Cassell (On: +5&#9642;Off: +8&#9642;Net: -3)'
+    - |2-
+
+      0
+    - 207/0
+    - 128/
+    - 163/-5
+    - 192/-3
+    - 118/
+    - 165/+13
+    - 24/
+    - 'Mark Pope (On: -10&#9642;Off: +23&#9642;Net: -33)'
+    - |2-
+
+      0
+    - 207/0
+    - 181/
+    - 111/-10
+    - 108/+2
+    - 375/
+    - 16/-2
+    - 'Joel Przybilla (On: +3&#9642;Off: +10&#9642;Net: -7)'
+    - |2-
+
+      +2
+    - 77/+2
+    - 423/
+    - 55/+1
+    - 445/
+    - 'Glenn Robinson (On: +11&#9642;Off: +2&#9642;Net: +9)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 25/+5
+    - 154/
+    - 71/-8
+    - 192/-3
+    - 95/
+    - 187/+15
+    - 23/
+    - 'Ervin Johnson (On: +5&#9642;Off: +8&#9642;Net: -3)'
+    - "\n"
+    - 79/
+    - 170/0
+    - 133/+9
+    - 176/
+    - 189/0
+    - 35/-2
+    - 198/
+    - 16/-2
+    - 'Lindsey Hunter (On: +24&#9642;Off: -11&#9642;Net: +35)'
+    - "\n"
+    - 211/
+    - 39/+2
+    - 172/+7
+    - 273/
+    - 54/+4
+    - 249/+11
+    - 'Tim Thomas (On: +21&#9642;Off: -8&#9642;Net: +29)'
+    - "\n"
+    - 210/
+    - 39/+2
+    - 171/+7
+    - 189/
+    - 138/-1
+    - 153/+13
+    - 97/
+    - 'Jason Caffey (On: +11&#9642;Off: +2&#9642;Net: +9)'
+    - "\n"
+    - 277/
+    - 222/-6
+    - 195/
+    - 54/+4
+    - 226/+13
+    - 24/
+    - 'Rafer Alston (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 986/
+    - 16/-2
+    - 'Michael Redd (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 986/
+    - 16/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

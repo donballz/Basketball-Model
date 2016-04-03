@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: -16&#9642;Off: -5&#9642;Net: -11)'
+    - |2-
+
+      -5
+    - 248/-5
+    - 124/
+    - 127/-2
+    - 243/-4
+    - 105/
+    - 72/-5
+    - 78/
+    - 'Allan Houston (On: -9&#9642;Off: -12&#9642;Net: +3)'
+    - |2-
+
+      -3
+    - 161/-3
+    - 120/
+    - 218/+3
+    - 161/-3
+    - 132/
+    - 84/-6
+    - 121/
+    - 'Larry Johnson (On: -15&#9642;Off: -6&#9642;Net: -9)'
+    - |2-
+
+      -1
+    - 210/-1
+    - 38/
+    - 0/0
+    - 117/+2
+    - 77/
+    - 54/-5
+    - 161/-3
+    - 88/
+    - 138/-8
+    - 111/
+    - 'Latrell Sprewell (On: -19&#9642;Off: -2&#9642;Net: -17)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 29/-3
+    - 166/
+    - 54/-5
+    - 249/-4
+    - 44/-2
+    - 206/
+    - 'Charlie Ward (On: -4&#9642;Off: -17&#9642;Net: +13)'
+    - |2-
+
+      -3
+    - 161/-3
+    - 89/
+    - 226/+3
+    - 24/
+    - 250/-4
+    - 248/
+    - 'Chris Childs (On: -14&#9642;Off: -7&#9642;Net: -7)'
+    - "\n"
+    - 164/
+    - 86/-2
+    - 500/
+    - 250/-12
+    - 'Glen Rice (On: -6&#9642;Off: -15&#9642;Net: +9)'
+    - "\n"
+    - 163/
+    - 86/-2
+    - 191/+5
+    - 226/
+    - 81/-1
+    - 128/-8
+    - 122/
+    - 'Kurt Thomas (On: -3&#9642;Off: -18&#9642;Net: +15)'
+    - "\n"
+    - 215/
+    - 34/-4
+    - 191/+5
+    - 226/
+    - 81/-1
+    - 98/-3
+    - 152/
+    - 'Erick Strickland (On: -7&#9642;Off: -14&#9642;Net: +7)'
+    - "\n"
+    - 477/
+    - 23/-3
+    - 383/
+    - 117/-4
+    - 'Lavor Postell (On: -4&#9642;Off: -17&#9642;Net: +13)'
+    - "\n"
+    - 884/
+    - 118/-4
+    - 'Travis Knight (On: -4&#9642;Off: -17&#9642;Net: +13)'
+    - "\n"
+    - 893/
+    - 109/-4
+    - 'Felton Spencer (On: -4&#9642;Off: -17&#9642;Net: +13)'
+    - "\n"
+    - 926/
+    - 76/-4
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: +15&#9642;Off: +6&#9642;Net: +9)'
+    - |2-
+
+      +3
+    - 160/+3
+    - 28/
+    - 59/+2
+    - 2/
+    - 249/0
+    - 217/+1
+    - 130/
+    - 145/+9
+    - 5/
+    - 'Patrick Ewing (On: +13&#9642;Off: +8&#9642;Net: +5)'
+    - |2-
+
+      +3
+    - 188/+3
+    - 143/
+    - 168/+1
+    - 177/+5
+    - 171/
+    - 110/+4
+    - 40/
+    - 'Rashard Lewis (On: +14&#9642;Off: +7&#9642;Net: +7)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 81/
+    - 168/+1
+    - 250/+4
+    - 132/
+    - 117/+4
+    - 'Ruben Patterson (On: +24&#9642;Off: -3&#9642;Net: +27)'
+    - |2-
+
+      +3
+    - 187/+3
+    - 61/
+    - 0/0
+    - 117/-2
+    - 77/
+    - 54/+5
+    - 176/+5
+    - 72/
+    - 128/+8
+    - 86/
+    - 35/+5
+    - 'Gary Payton (On: +16&#9642;Off: +5&#9642;Net: +11)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 250/0
+    - 250/+4
+    - 209/+7
+    - 40/
+    - 'Jelani McCoy (On: 0&#9642;Off: +21&#9642;Net: -21)'
+    - "\n"
+    - 163/
+    - 47/-2
+    - 465/
+    - 66/-1
+    - 6/
+    - 98/+3
+    - 152/
+    - 'Brent Barry (On: +13&#9642;Off: +8&#9642;Net: +5)'
+    - "\n"
+    - 188/
+    - 61/+2
+    - 31/+3
+    - 90/
+    - 69/-3
+    - 235/
+    - 72/-1
+    - 250/+12
+    - 'Pervis Ellison (On: +9&#9642;Off: +12&#9642;Net: -3)'
+    - "\n"
+    - 215/
+    - 34/+4
+    - 75/-1
+    - 399/
+    - 25/+3
+    - 98/+3
+    - 151/
+    - 'Emanual Davis (On: +1&#9642;Off: +20&#9642;Net: -19)'
+    - "\n"
+    - 286/
+    - 39/-4
+    - 641/
+    - 34/+5
+    - 'Ruben Wolkowyski (On: 0&#9642;Off: +21&#9642;Net: -21)'
+    - "\n"
+    - 1001/
+    - 1/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

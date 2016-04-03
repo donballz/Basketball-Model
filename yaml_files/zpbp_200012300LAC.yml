@@ -1,0 +1,2939 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Olowokandi vs. S. O''Neal (R. Fox gains possession)'
+  - - '11:40.0'
+    - R. Harper makes 2-pt shot from 18 ft (assist by S. O'Neal)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Olowokandi misses free throw 1 of 2
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Offensive rebound by Team
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Olowokandi misses free throw 2 of 2
+  - - '11:12.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:01.0'
+    - H. Grant makes 2-pt shot from 19 ft (assist by R. Fox)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - L. Odom misses 3-pt shot from 27 ft
+  - - '10:45.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Offensive rebound by M. Olowokandi
+  - - '10:45.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - M. Olowokandi makes 2-pt shot at rim
+  - - '10:35.0'
+    - Offensive foul by S. O'Neal
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:35.0'
+    - Turnover by S. O'Neal (foul)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - M. Olowokandi makes 2-pt shot from 5 ft (assist by L. Odom)
+  - - '10:06.0'
+    - H. Grant makes 2-pt shot from 20 ft (assist by R. Fox)
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Offensive foul by M. Olowokandi
+  - - '9:44.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Turnover by M. Olowokandi (foul)
+  - - '9:34.0'
+    - Shooting foul by Q. Richardson
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:34.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 7-4
+    - ''
+    - ''
+  - - '9:34.0'
+    - K. Bryant misses free throw 2 of 2
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '9:21.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Shooting foul by R. Fox
+  - - '9:21.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - L. Odom misses free throw 1 of 2
+  - - '9:21.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - Offensive rebound by Team
+  - - '9:21.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - L. Odom misses free throw 2 of 2
+  - - '9:19.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '9:08.0'
+    - K. Bryant misses 2-pt shot from 20 ft
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '9:06.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '8:50.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 9-4
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 9-6
+    - "+2"
+    - J. McInnis makes 2-pt shot at rim
+  - - '8:27.0'
+    - R. Fox misses 3-pt shot from 23 ft
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '8:11.0'
+    - ''
+    - ''
+    - 9-9
+    - "+3"
+    - Q. Richardson makes 3-pt shot from 27 ft
+  - - '7:58.0'
+    - S. O'Neal makes 2-pt shot from 6 ft (assist by R. Fox)
+    - "+2"
+    - 11-9
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - B. Skinner misses 2-pt shot from 16 ft
+  - - '7:34.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '7:29.0'
+    - K. Bryant makes 3-pt shot from 26 ft
+    - "+3"
+    - 14-9
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 14-11
+    - "+2"
+    - B. Skinner makes 2-pt shot at rim (assist by L. Odom)
+  - - '6:44.0'
+    - K. Bryant misses 3-pt shot from 25 ft
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 14-11
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '6:35.0'
+    - ''
+    - ''
+    - 14-13
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '6:21.0'
+    - R. Fox makes 2-pt shot at rim (assist by S. O'Neal)
+    - "+2"
+    - 16-13
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Offensive foul by L. Odom
+  - - '6:02.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Turnover by L. Odom (foul)
+  - - '5:53.0'
+    - K. Bryant misses 2-pt shot from 16 ft
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '5:51.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '5:51.0'
+    - R. Fox makes 2-pt shot at rim
+    - "+2"
+    - 18-13
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - M. Olowokandi misses 2-pt shot from 7 ft
+  - - '5:27.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '5:23.0'
+    - H. Grant makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 20-13
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - LA Clippers full timeout
+  - - '5:02.0'
+    - ''
+    - ''
+    - 20-15
+    - "+2"
+    - M. Olowokandi makes 2-pt shot from 8 ft
+  - - '4:49.0'
+    - R. Fox makes 2-pt shot from 17 ft (assist by H. Grant)
+    - "+2"
+    - 22-15
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - Q. Richardson misses 3-pt shot from 26 ft
+  - - '4:24.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '4:18.0'
+    - Personal foul by B. Skinner
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - D. Miles enters the game for B. Skinner
+  - - '4:09.0'
+    - S. O'Neal makes 2-pt shot from 11 ft
+    - "+2"
+    - 24-15
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - L. Odom misses 3-pt shot from 28 ft
+  - - '3:43.0'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Offensive rebound by D. Miles
+  - - '3:25.0'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - D. Miles misses 2-pt shot from 18 ft
+  - - '3:23.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:16.0'
+    - R. Fox misses 3-pt shot from 24 ft
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:13.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '3:11.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 26-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 26-15
+    - ''
+    - Offensive foul by M. Olowokandi
+  - - '2:59.0'
+    - ''
+    - ''
+    - 26-15
+    - ''
+    - Turnover by M. Olowokandi (foul)
+  - - '2:59.0'
+    - LA Lakers full timeout
+    - ''
+    - 26-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - G. Foster enters the game for S. O'Neal
+    - ''
+    - 26-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 26-15
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '2:59.0'
+    - ''
+    - ''
+    - 26-15
+    - ''
+    - E. Piatkowski enters the game for Q. Richardson
+  - - '2:51.0'
+    - K. Bryant makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 28-15
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 28-17
+    - "+2"
+    - J. McInnis makes 2-pt shot from 19 ft (assist by L. Odom)
+  - - '2:18.0'
+    - H. Grant misses 2-pt shot at rim
+    - ''
+    - 28-17
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 28-17
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '2:07.0'
+    - ''
+    - ''
+    - 28-17
+    - ''
+    - D. Miles misses 2-pt shot from 10 ft
+  - - '2:04.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 28-17
+    - ''
+    - ''
+  - - '1:53.0'
+    - K. Bryant misses 2-pt shot from 17 ft
+    - ''
+    - 28-17
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 28-17
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '1:42.0'
+    - ''
+    - ''
+    - 28-19
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by L. Odom)
+  - - '1:20.0'
+    - G. Foster misses 2-pt shot from 19 ft
+    - ''
+    - 28-19
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 28-19
+    - ''
+    - Defensive rebound by D. Miles
+  - - '1:08.0'
+    - ''
+    - ''
+    - 28-21
+    - "+2"
+    - S. Rooks makes 2-pt shot from 13 ft
+  - - '0:55.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - K. Dooling enters the game for J. McInnis
+  - - '0:55.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - C. Maggette enters the game for L. Odom
+  - - '0:40.1'
+    - K. Bryant misses 2-pt shot from 6 ft
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '0:36.8'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '0:32.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - D. Miles misses 2-pt shot from 9 ft
+  - - '0:31.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Offensive rebound by D. Miles
+  - - '0:31.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Turnover by D. Miles (traveling)
+  - - '0:15.8'
+    - G. Foster misses 2-pt shot from 18 ft
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '0:13.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '0:00.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - K. Dooling misses 2-pt shot from 19 ft
+  - - '0:00.1'
+    - Defensive rebound by H. Grant
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - S. Rooks misses 2-pt shot from 18 ft
+  - - '11:44.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '11:35.0'
+    - S. O'Neal makes 2-pt shot from 10 ft
+    - "+2"
+    - 30-21
+    - ''
+    - ''
+  - - '11:19.0'
+    - 'Jump ball: D. Miles vs. S. O''Neal (K. Bryant gains possession)'
+  - - '11:19.0'
+    - ''
+    - ''
+    - 30-21
+    - ''
+    - D. Miles misses 2-pt shot at rim (block by S. O'Neal)
+  - - '11:19.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 30-21
+    - ''
+    - ''
+  - - '11:02.0'
+    - S. O'Neal misses 2-pt shot from 10 ft
+    - ''
+    - 30-21
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 30-21
+    - ''
+    - Defensive rebound by D. Miles
+  - - '10:54.0'
+    - ''
+    - ''
+    - 30-23
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim (assist by D. Miles)
+  - - '10:30.0'
+    - K. Bryant misses 2-pt shot from 15 ft
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '10:29.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '10:29.0'
+    - Technical foul by K. Bryant
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 30-24
+    - "+1"
+    - E. Piatkowski makes free throw technical
+  - - '10:28.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 30-24
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 30-26
+    - "+2"
+    - S. Rooks makes 2-pt shot from 18 ft (assist by K. Dooling)
+  - - '10:02.0'
+    - Personal foul by D. Miles
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '9:54.0'
+    - I. Rider misses 2-pt shot from 22 ft
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '9:52.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '9:45.0'
+    - R. Horry misses 3-pt shot from 27 ft
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '9:38.0'
+    - ''
+    - ''
+    - 30-28
+    - "+2"
+    - C. Maggette makes 2-pt shot from 17 ft
+  - - '9:26.0'
+    - Personal foul by S. Rooks
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:21.0'
+    - M. Penberthy misses 3-pt shot from 27 ft
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Defensive rebound by D. Miles
+  - - '9:04.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - K. Dooling misses 2-pt shot from 18 ft
+  - - '9:02.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '8:55.0'
+    - K. Bryant misses 3-pt shot from 27 ft
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Defensive rebound by D. Miles
+  - - '8:48.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Turnover by K. Dooling (bad pass; steal by S. O'Neal)
+  - - '8:43.0'
+    - LA Lakers full timeout
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '8:35.0'
+    - Personal foul by C. Maggette
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '8:34.0'
+    - Personal foul by C. Maggette
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '8:28.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 32-28
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 32-31
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 23 ft (assist by C. Maggette)
+  - - '7:57.0'
+    - Personal foul by D. Miles
+    - ''
+    - 32-31
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - M. Olowokandi enters the game for S. Rooks
+  - - '7:57.0'
+    - R. Horry makes free throw 1 of 2
+    - "+1"
+    - 33-31
+    - ''
+    - ''
+  - - '7:57.0'
+    - R. Horry makes free throw 2 of 2
+    - "+1"
+    - 34-31
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - M. Olowokandi misses 2-pt shot from 9 ft (block by S. O'Neal)
+  - - '7:47.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Offensive rebound by Team
+  - - '7:34.0'
+    - ''
+    - ''
+    - 34-33
+    - "+2"
+    - K. Dooling makes 2-pt shot from 10 ft
+  - - '7:10.0'
+    - I. Rider misses 2-pt shot from 17 ft
+    - ''
+    - 34-33
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - Defensive rebound by D. Miles
+  - - '7:04.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - Shooting foul by I. Rider
+  - - '7:04.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - J. McInnis enters the game for K. Dooling
+  - - '7:04.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - D. Miles misses free throw 1 of 2
+  - - '7:04.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - Offensive rebound by Team
+  - - '7:04.0'
+    - ''
+    - ''
+    - 34-34
+    - "+1"
+    - D. Miles makes free throw 2 of 2
+  - - '6:48.0'
+    - I. Rider makes 3-pt shot from 25 ft
+    - "+3"
+    - 37-34
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 37-36
+    - "+2"
+    - C. Maggette makes 2-pt shot from 14 ft (assist by J. McInnis)
+  - - '6:20.0'
+    - K. Bryant makes 3-pt shot from 26 ft (assist by R. Horry)
+    - "+3"
+    - 40-36
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 40-36
+    - ''
+    - Personal foul by K. Bryant
+  - - '5:59.0'
+    - ''
+    - ''
+    - 40-38
+    - "+2"
+    - J. McInnis makes 2-pt shot from 10 ft
+  - - '5:33.0'
+    - K. Bryant makes 2-pt shot from 8 ft
+    - "+2"
+    - 42-38
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 42-40
+    - "+2"
+    - J. McInnis makes 2-pt shot from 13 ft
+  - - '4:58.0'
+    - I. Rider makes 2-pt shot from 4 ft
+    - "+2"
+    - 44-40
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - C. Maggette misses 2-pt shot from 14 ft (block by R. Horry)
+  - - '4:41.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - Offensive rebound by Team
+  - - '4:41.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - Official timeout
+  - - '4:41.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - L. Odom enters the game for C. Maggette
+  - - '4:41.0'
+    - B. Shaw enters the game for M. Penberthy
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:41.0'
+    - R. Fox enters the game for I. Rider
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - E. Piatkowski misses 2-pt shot from 13 ft
+  - - '4:36.0'
+    - Defensive rebound by R. Horry
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:23.0'
+    - Personal foul by M. Olowokandi
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:23.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '4:23.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 45-40
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 45-40
+    - ''
+    - M. Olowokandi misses 2-pt shot from 8 ft
+  - - '4:05.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '3:56.0'
+    - K. Bryant makes 2-pt shot at rim (assist by R. Horry)
+    - "+2"
+    - 47-40
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 47-42
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 11 ft
+  - - '3:18.0'
+    - R. Fox misses 3-pt shot from 23 ft
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 47-42
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '3:08.0'
+    - ''
+    - ''
+    - 47-45
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 25 ft (assist by J. McInnis)
+  - - '2:47.0'
+    - R. Horry misses 3-pt shot from 25 ft
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '2:22.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - Shooting foul by R. Horry
+  - - '2:22.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - LA Clippers full timeout
+  - - '2:22.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - C. Parks enters the game for M. Olowokandi
+  - - '2:22.0'
+    - H. Grant enters the game for R. Horry
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 47-46
+    - "+1"
+    - D. Miles makes free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 47-47
+    - "+1"
+    - D. Miles makes free throw 2 of 2
+  - - '2:01.0'
+    - K. Bryant makes 2-pt shot from 8 ft (assist by R. Fox)
+    - "+2"
+    - 49-47
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 49-49
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '1:32.0'
+    - B. Shaw makes 2-pt shot from 20 ft (assist by K. Bryant)
+    - "+2"
+    - 51-49
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - L. Odom misses 2-pt shot from 19 ft
+  - - '1:11.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '0:58.7'
+    - S. O'Neal misses 2-pt shot from 13 ft
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '0:57.4'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Defensive rebound by C. Parks
+  - - '0:33.8'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - D. Miles misses 2-pt shot at rim (block by B. Shaw)
+  - - '0:31.1'
+    - Defensive rebound by H. Grant
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '0:27.4'
+    - K. Bryant misses 3-pt shot from 25 ft
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '0:25.1'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Defensive rebound by D. Miles
+  - - '0:20.0'
+    - ''
+    - ''
+    - 51-51
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '0:00.1'
+    - B. Shaw makes 3-pt shot from 26 ft (assist by K. Bryant)
+    - "+3"
+    - 54-51
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:38.0'
+    - ''
+    - ''
+    - 54-51
+    - ''
+    - J. McInnis misses 2-pt shot from 17 ft
+  - - '11:36.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 54-51
+    - ''
+    - ''
+  - - '11:15.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 56-51
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - L. Odom misses 2-pt shot from 6 ft (block by S. O'Neal)
+  - - '10:49.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Offensive rebound by D. Miles
+  - - '10:48.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Turnover by D. Miles (bad pass; steal by H. Grant)
+  - - '10:39.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '10:39.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '10:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '10:39.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '10:31.0'
+    - ''
+    - ''
+    - 56-53
+    - "+2"
+    - Q. Richardson makes 2-pt shot at rim
+  - - '10:12.0'
+    - Turnover by S. O'Neal (lost ball)
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - L. Odom misses 2-pt shot from 7 ft (block by S. O'Neal)
+  - - '9:59.0'
+    - 'Jump ball: L. Odom vs. S. O''Neal (R. Fox gains possession)'
+  - - '9:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:45.0'
+    - H. Grant misses 2-pt shot from 21 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:43.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:38.0'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Defensive rebound by Q. Richardson
+  - - '9:25.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Q. Richardson misses 3-pt shot from 26 ft
+  - - '9:24.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Offensive rebound by Team
+  - - '9:19.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - L. Odom misses 2-pt shot from 12 ft
+  - - '9:18.0'
+    - Defensive rebound by Team
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:18.0'
+    - Loose ball foul by M. Olowokandi
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '9:11.0'
+    - R. Fox misses 2-pt shot from 9 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:10.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:08.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '8:53.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - L. Odom misses 2-pt shot at rim
+  - - '8:51.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '8:38.0'
+    - K. Bryant misses 3-pt shot from 25 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '8:36.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Turnover by S. Rooks (out of bounds)
+  - - '8:36.0'
+    - LA Lakers full timeout
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '8:29.0'
+    - H. Grant makes 2-pt shot from 17 ft (assist by S. O'Neal)
+    - "+2"
+    - 58-53
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - J. McInnis misses 2-pt shot from 5 ft
+  - - '8:05.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - Offensive rebound by D. Miles
+  - - '8:05.0'
+    - ''
+    - ''
+    - 58-55
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '7:48.0'
+    - H. Grant misses 2-pt shot from 17 ft
+    - ''
+    - 58-55
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 58-55
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '7:24.0'
+    - ''
+    - ''
+    - 58-55
+    - ''
+    - Turnover by J. McInnis (lost ball; steal by K. Bryant)
+  - - '7:14.0'
+    - R. Harper misses 3-pt shot from 26 ft
+    - ''
+    - 58-55
+    - ''
+    - ''
+  - - '7:12.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 58-55
+    - ''
+    - ''
+  - - '7:05.0'
+    - S. O'Neal makes 2-pt shot from 7 ft (assist by R. Harper)
+    - "+2"
+    - 60-55
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 60-58
+    - "+3"
+    - L. Odom makes 3-pt shot from 26 ft (assist by J. McInnis)
+  - - '6:27.0'
+    - S. O'Neal makes 2-pt shot from 8 ft (assist by K. Bryant)
+    - "+2"
+    - 62-58
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 62-60
+    - "+2"
+    - S. Rooks makes 2-pt shot from 19 ft (assist by J. McInnis)
+  - - '6:00.0'
+    - R. Fox makes 3-pt shot from 24 ft (assist by K. Bryant)
+    - "+3"
+    - 65-60
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - J. McInnis misses 2-pt shot from 19 ft
+  - - '5:43.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 65-60
+    - ''
+    - ''
+  - - '5:37.0'
+    - R. Harper makes 2-pt shot at rim
+    - "+2"
+    - 67-60
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 67-60
+    - ''
+    - L. Odom misses 2-pt shot from 15 ft
+  - - '5:09.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '5:01.0'
+    - R. Fox makes 3-pt shot from 24 ft (assist by R. Harper)
+    - "+3"
+    - 70-60
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - LA Clippers full timeout
+  - - '4:54.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - E. Piatkowski enters the game for Q. Richardson
+  - - '4:41.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - E. Piatkowski misses 2-pt shot at rim
+  - - '4:40.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - Offensive rebound by S. Rooks
+  - - '4:39.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - S. Rooks misses 2-pt shot at rim
+  - - '4:38.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '4:35.0'
+    - Turnover by R. Fox (bad pass)
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 70-62
+    - "+2"
+    - J. McInnis makes 2-pt shot from 15 ft (assist by S. Rooks)
+  - - '3:54.0'
+    - K. Bryant misses 3-pt shot from 27 ft
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '3:50.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - Turnover by S. Rooks (bad pass; steal by R. Fox)
+  - - '3:47.0'
+    - Personal foul by S. Rooks
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '3:43.0'
+    - R. Fox makes 3-pt shot from 25 ft (assist by S. O'Neal)
+    - "+3"
+    - 73-62
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 73-62
+    - ''
+    - Shooting foul by H. Grant
+  - - '3:20.0'
+    - ''
+    - ''
+    - 73-63
+    - "+1"
+    - S. Rooks makes free throw 1 of 2
+  - - '3:20.0'
+    - ''
+    - ''
+    - 73-64
+    - "+1"
+    - S. Rooks makes free throw 2 of 2
+  - - '3:06.0'
+    - Shooting foul by S. Rooks
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '3:06.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '3:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 73-64
+    - ''
+    - C. Maggette enters the game for L. Odom
+  - - '3:06.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 73-64
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '2:56.0'
+    - ''
+    - ''
+    - 73-64
+    - ''
+    - E. Piatkowski misses 2-pt shot from 10 ft
+  - - '2:54.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '2:49.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 73-64
+    - ''
+    - K. Dooling enters the game for J. McInnis
+  - - '2:49.0'
+    - R. Harper makes free throw 1 of 2
+    - "+1"
+    - 74-64
+    - ''
+    - ''
+  - - '2:49.0'
+    - R. Horry enters the game for H. Grant
+    - ''
+    - 74-64
+    - ''
+    - ''
+  - - '2:49.0'
+    - R. Harper makes free throw 2 of 2
+    - "+1"
+    - 75-64
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 75-67
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 26 ft (assist by K. Dooling)
+  - - '2:11.0'
+    - R. Harper makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 77-67
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - C. Maggette misses 2-pt shot at rim (block by R. Fox)
+  - - '1:57.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:53.0'
+    - K. Bryant misses 2-pt shot from 13 ft (block by S. Rooks)
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:52.0'
+    - LA Lakers 20 second timeout
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:52.0'
+    - K. Bryant ejected from game
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:52.0'
+    - B. Shaw enters the game for K. Bryant
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 77-68
+    - "+1"
+    - E. Piatkowski makes free throw technical
+  - - '1:52.0'
+    - ''
+    - ''
+    - 77-68
+    - ''
+    - C. Parks enters the game for S. Rooks
+  - - '1:52.0'
+    - Technical foul by K. Bryant
+    - ''
+    - 77-68
+    - ''
+    - ''
+  - - '1:46.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by B. Shaw)
+    - "+2"
+    - 79-68
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 79-68
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '1:29.0'
+    - ''
+    - ''
+    - 79-69
+    - "+1"
+    - C. Maggette makes free throw 1 of 2
+  - - '1:29.0'
+    - ''
+    - ''
+    - 79-70
+    - "+1"
+    - C. Maggette makes free throw 2 of 2
+  - - '1:13.0'
+    - R. Harper misses 2-pt shot at rim (block by D. Miles)
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - Defensive rebound by C. Parks
+  - - '1:00.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - K. Dooling misses 2-pt shot from 11 ft
+  - - '0:59.2'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - Offensive rebound by D. Miles
+  - - '0:59.2'
+    - ''
+    - ''
+    - 79-72
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '0:49.5'
+    - Personal foul by E. Piatkowski
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '0:49.5'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '0:49.5'
+    - Offensive rebound by Team
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '0:49.5'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 80-72
+    - ''
+    - ''
+  - - '0:36.4'
+    - ''
+    - ''
+    - 80-74
+    - "+2"
+    - K. Dooling makes 2-pt shot from 14 ft
+  - - '0:17.5'
+    - B. Shaw misses 3-pt shot from 27 ft
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '0:15.2'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Defensive rebound by Team
+  - - '0:15.2'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Loose ball foul by R. Harper
+  - - '0:15.2'
+    - ''
+    - ''
+    - 80-75
+    - "+1"
+    - D. Miles makes free throw 1 of 2
+  - - '0:15.2'
+    - M. Penberthy enters the game for R. Horry
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '0:15.2'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - D. Miles misses free throw 2 of 2
+  - - '0:13.9'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '0:05.2'
+    - R. Fox misses 3-pt shot from 24 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '0:03.0'
+    - Offensive rebound by R. Harper
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '0:00.1'
+    - Turnover by R. Harper (bad pass; steal by C. Maggette)
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - R. Horry misses 2-pt shot from 20 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '11:40.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '11:39.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '11:22.0'
+    - ''
+    - ''
+    - 80-77
+    - "+2"
+    - K. Dooling makes 2-pt shot from 10 ft
+  - - '11:07.0'
+    - R. Horry makes 2-pt shot from 9 ft (assist by M. Penberthy)
+    - "+2"
+    - 82-77
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 82-77
+    - ''
+    - C. Parks misses 2-pt shot from 19 ft
+  - - '10:45.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '10:42.0'
+    - Turnover by B. Shaw (bad pass; steal by D. Miles)
+    - ''
+    - 82-77
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 82-79
+    - "+2"
+    - K. Dooling makes 2-pt shot at rim (assist by D. Miles)
+  - - '10:39.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - Shooting foul by I. Rider
+  - - '10:39.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - L. Odom enters the game for D. Miles
+  - - '10:39.0'
+    - ''
+    - ''
+    - 82-79
+    - ''
+    - K. Dooling misses free throw 1 of 1
+  - - '10:37.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '10:29.0'
+    - Personal foul by C. Parks
+    - ''
+    - 82-79
+    - ''
+    - ''
+  - - '10:22.0'
+    - B. Shaw makes 2-pt shot from 18 ft (assist by S. O'Neal)
+    - "+2"
+    - 84-79
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 84-79
+    - ''
+    - C. Parks misses 2-pt shot at rim (block by R. Horry)
+  - - '10:03.0'
+    - Defensive rebound by R. Horry
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '9:56.0'
+    - Shooting foul by C. Parks
+    - ''
+    - 84-79
+    - ''
+    - ''
+  - - '9:56.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 85-79
+    - ''
+    - ''
+  - - '9:56.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 86-79
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - E. Piatkowski misses 3-pt shot from 30 ft
+  - - '9:39.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 86-79
+    - ''
+    - ''
+  - - '9:32.0'
+    - I. Rider misses 2-pt shot at rim
+    - ''
+    - 86-79
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - Defensive rebound by L. Odom
+  - - '9:25.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - C. Maggette misses 2-pt shot at rim
+  - - '9:23.0'
+    - ''
+    - ''
+    - 86-79
+    - ''
+    - Offensive rebound by C. Maggette
+  - - '9:22.0'
+    - ''
+    - ''
+    - 86-81
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim
+  - - '9:09.0'
+    - B. Shaw misses 3-pt shot from 26 ft
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '9:07.0'
+    - ''
+    - ''
+    - 86-81
+    - ''
+    - Defensive rebound by L. Odom
+  - - '9:03.0'
+    - ''
+    - ''
+    - 86-81
+    - ''
+    - Personal foul by M. Penberthy
+  - - '8:50.0'
+    - ''
+    - ''
+    - 86-81
+    - ''
+    - C. Parks misses 2-pt shot from 17 ft
+  - - '8:48.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '8:35.0'
+    - I. Rider misses 2-pt shot from 22 ft
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '8:34.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '8:29.0'
+    - Shooting foul by C. Parks
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '8:29.0'
+    - Official timeout
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '8:29.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 87-81
+    - ''
+    - ''
+  - - '8:29.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 88-81
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 88-83
+    - "+2"
+    - C. Parks makes 2-pt shot from 21 ft (assist by L. Odom)
+  - - '7:52.0'
+    - S. O'Neal makes 2-pt shot from 14 ft
+    - "+2"
+    - 90-83
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 90-85
+    - "+2"
+    - C. Maggette makes 2-pt shot from 14 ft (assist by L. Odom)
+  - - '7:08.0'
+    - M. Penberthy makes 3-pt shot from 27 ft (assist by I. Rider)
+    - "+3"
+    - 93-85
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 93-85
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '6:51.0'
+    - ''
+    - ''
+    - 93-86
+    - "+1"
+    - L. Odom makes free throw 1 of 2
+  - - '6:51.0'
+    - ''
+    - ''
+    - 93-87
+    - "+1"
+    - L. Odom makes free throw 2 of 2
+  - - '6:30.0'
+    - S. O'Neal misses 2-pt shot from 13 ft
+    - ''
+    - 93-87
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Defensive rebound by K. Dooling
+  - - '6:25.0'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Offensive foul by C. Maggette
+  - - '6:25.0'
+    - ''
+    - ''
+    - 93-87
+    - ''
+    - Turnover by C. Maggette (foul)
+  - - '6:16.0'
+    - I. Rider makes 2-pt shot at rim
+    - "+2"
+    - 95-87
+    - ''
+    - ''
+  - - '6:16.0'
+    - Shooting foul by C. Maggette
+    - ''
+    - 95-87
+    - ''
+    - ''
+  - - '6:16.0'
+    - ''
+    - ''
+    - 95-87
+    - ''
+    - J. McInnis enters the game for K. Dooling
+  - - '6:16.0'
+    - ''
+    - ''
+    - 95-87
+    - ''
+    - D. Miles enters the game for C. Maggette
+  - - '6:16.0'
+    - H. Grant enters the game for R. Horry
+    - ''
+    - 95-87
+    - ''
+    - ''
+  - - '6:16.0'
+    - I. Rider misses free throw 1 of 1
+    - ''
+    - 95-87
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 95-87
+    - ''
+    - Defensive rebound by C. Parks
+  - - '6:06.0'
+    - ''
+    - ''
+    - 95-90
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 27 ft
+  - - '5:50.0'
+    - Personal foul by C. Parks
+    - ''
+    - 95-90
+    - ''
+    - ''
+  - - '5:50.0'
+    - LA Lakers full timeout
+    - ''
+    - 95-90
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 95-90
+    - ''
+    - S. Rooks enters the game for C. Parks
+  - - '5:50.0'
+    - R. Harper enters the game for M. Penberthy
+    - ''
+    - 95-90
+    - ''
+    - ''
+  - - '5:50.0'
+    - R. Fox enters the game for I. Rider
+    - ''
+    - 95-90
+    - ''
+    - ''
+  - - '5:50.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 96-90
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 96-90
+    - ''
+    - Violation by J. McInnis (lane)
+  - - '5:50.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 96-90
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 96-90
+    - ''
+    - Defensive rebound by L. Odom
+  - - '5:34.0'
+    - ''
+    - ''
+    - 96-90
+    - ''
+    - S. Rooks misses 2-pt shot from 17 ft
+  - - '5:33.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 96-90
+    - ''
+    - ''
+  - - '5:10.0'
+    - R. Harper misses 2-pt shot at rim (block by L. Odom)
+    - ''
+    - 96-90
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 96-90
+    - ''
+    - Defensive rebound by L. Odom
+  - - '5:00.0'
+    - ''
+    - ''
+    - 96-92
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by L. Odom)
+  - - '4:39.0'
+    - H. Grant makes 2-pt shot from 18 ft
+    - "+2"
+    - 98-92
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 98-94
+    - "+2"
+    - E. Piatkowski makes 2-pt shot at rim (assist by L. Odom)
+  - - '4:00.0'
+    - Turnover by B. Shaw (bad pass; steal by L. Odom)
+    - ''
+    - 98-94
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 98-96
+    - "+2"
+    - L. Odom makes 2-pt shot from 8 ft
+  - - '3:43.0'
+    - LA Lakers full timeout
+    - ''
+    - 98-96
+    - ''
+    - ''
+  - - '3:27.0'
+    - Personal foul by E. Piatkowski
+    - ''
+    - 98-96
+    - ''
+    - ''
+  - - '3:27.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 98-96
+    - ''
+    - ''
+  - - '3:27.0'
+    - Offensive rebound by Team
+    - ''
+    - 98-96
+    - ''
+    - ''
+  - - '3:27.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 98-96
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 98-96
+    - ''
+    - Defensive rebound by L. Odom
+  - - '3:26.0'
+    - ''
+    - ''
+    - 98-96
+    - ''
+    - Personal foul by S. O'Neal
+  - - '3:09.0'
+    - ''
+    - ''
+    - 98-96
+    - ''
+    - L. Odom misses 2-pt shot from 10 ft
+  - - '3:06.0'
+    - ''
+    - ''
+    - 98-96
+    - ''
+    - Offensive rebound by S. Rooks
+  - - '3:05.0'
+    - ''
+    - ''
+    - 98-98
+    - "+2"
+    - S. Rooks makes 2-pt shot at rim
+  - - '2:56.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 100-98
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - D. Miles misses 2-pt shot at rim
+  - - '2:29.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - Offensive rebound by Team
+  - - '2:29.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - LA Clippers full timeout
+  - - '2:12.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - S. Rooks misses 2-pt shot from 17 ft
+  - - '2:11.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '2:05.0'
+    - Away from play foul by S. Rooks
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '2:05.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '2:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '2:05.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '2:03.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '1:47.0'
+    - B. Shaw misses 3-pt shot from 25 ft
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - Defensive rebound by L. Odom
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-98
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '1:27.0'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 100-98
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-99
+    - "+1"
+    - D. Miles makes free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - D. Miles misses free throw 2 of 2
+  - - '1:27.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '1:14.0'
+    - R. Harper misses 2-pt shot from 13 ft
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - Defensive rebound by Team
+  - - '0:52.1'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - D. Miles misses 2-pt shot from 10 ft
+  - - '0:50.5'
+    - Defensive rebound by Team
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '0:33.6'
+    - B. Shaw misses 2-pt shot from 14 ft
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '0:32.3'
+    - Offensive rebound by R. Horry
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '0:26.0'
+    - LA Lakers full timeout
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '0:21.2'
+    - R. Harper makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 102-99
+    - ''
+    - ''
+  - - '0:21.2'
+    - ''
+    - ''
+    - 102-99
+    - ''
+    - LA Clippers full timeout
+  - - '0:13.7'
+    - ''
+    - ''
+    - 102-99
+    - ''
+    - L. Odom misses 3-pt shot from 35 ft
+  - - '0:12.7'
+    - Defensive rebound by Team
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - Personal foul by L. Odom
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - R. Fox misses free throw 1 of 2
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - Offensive rebound by Team
+    - ''
+    - 102-99
+    - ''
+    - ''
+  - - '0:12.2'
+    - R. Fox makes free throw 2 of 2
+    - "+1"
+    - 103-99
+    - ''
+    - ''
+  - - '0:08.8'
+    - ''
+    - ''
+    - 103-101
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 22 ft
+  - - '0:08.3'
+    - Personal foul by J. McInnis
+    - ''
+    - 103-101
+    - ''
+    - ''
+  - - '0:08.3'
+    - R. Fox misses free throw 1 of 2
+    - ''
+    - 103-101
+    - ''
+    - ''
+  - - '0:08.3'
+    - Offensive rebound by Team
+    - ''
+    - 103-101
+    - ''
+    - ''
+  - - '0:08.3'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - C. Parks enters the game for E. Piatkowski
+  - - '0:08.3'
+    - R. Fox misses free throw 2 of 2
+    - ''
+    - 103-101
+    - ''
+    - ''
+  - - '0:07.1'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '0:06.9'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - LA Clippers 20 second timeout
+  - - '0:06.9'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - E. Piatkowski enters the game for C. Parks
+  - - '0:04.5'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - L. Odom misses 3-pt shot from 28 ft (block by R. Fox)
+  - - '0:02.5'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - Offensive rebound by D. Miles
+  - - '0:01.5'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - D. Miles misses 2-pt shot from 11 ft (block by R. Horry)
+  - - '0:01.0'
+    - ''
+    - ''
+    - 103-101
+    - ''
+    - Offensive rebound by S. Rooks
+  - - '0:00.5'
+    - ''
+    - ''
+    - 103-103
+    - "+2"
+    - S. Rooks makes 2-pt shot at rim
+  - - '0:00.5'
+    - LA Lakers full timeout
+    - ''
+    - 103-103
+    - ''
+    - ''
+  - - '0:00.5'
+    - M. Madsen enters the game for R. Horry
+    - ''
+    - 103-103
+    - ''
+    - ''
+  - - '0:00.5'
+    - ''
+    - ''
+    - 103-103
+    - ''
+    - M. Olowokandi enters the game for J. McInnis
+  - - '0:00.1'
+    - R. Harper misses 2-pt shot from 18 ft
+    - ''
+    - 103-103
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 103-103
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: D. Miles vs. H. Grant (J. McInnis gains possession)'
+  - - '4:49.0'
+    - ''
+    - ''
+    - 103-105
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 16 ft (assist by J. McInnis)
+  - - '4:25.0'
+    - R. Horry misses 2-pt shot from 17 ft
+    - ''
+    - 103-105
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '4:11.0'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - S. Rooks misses 2-pt shot from 19 ft
+  - - '4:09.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 103-105
+    - ''
+    - ''
+  - - '3:46.0'
+    - R. Horry makes 3-pt shot from 24 ft (assist by H. Grant)
+    - "+3"
+    - 106-105
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 106-107
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 7 ft
+  - - '3:00.0'
+    - R. Fox misses 2-pt shot from 17 ft
+    - ''
+    - 106-107
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - Defensive rebound by L. Odom
+  - - '2:47.0'
+    - ''
+    - ''
+    - 106-109
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by E. Piatkowski)
+  - - '2:26.0'
+    - R. Horry makes 2-pt shot from 9 ft
+    - "+2"
+    - 108-109
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 108-109
+    - ''
+    - Shooting foul by R. Harper
+  - - '2:01.0'
+    - ''
+    - ''
+    - 108-110
+    - "+1"
+    - E. Piatkowski makes free throw 1 of 2
+  - - '2:01.0'
+    - ''
+    - ''
+    - 108-111
+    - "+1"
+    - E. Piatkowski makes free throw 2 of 2
+  - - '1:50.0'
+    - R. Horry makes 2-pt shot from 16 ft
+    - "+2"
+    - 110-111
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 110-113
+    - "+2"
+    - J. McInnis makes 2-pt shot from 20 ft
+  - - '1:09.0'
+    - B. Shaw makes 2-pt shot from 16 ft
+    - "+2"
+    - 112-113
+    - ''
+    - ''
+  - - '0:49.4'
+    - ''
+    - ''
+    - 112-113
+    - ''
+    - Turnover by S. Rooks (bad pass; steal by H. Grant)
+  - - '0:28.8'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 112-113
+    - ''
+    - ''
+  - - '0:26.7'
+    - Offensive rebound by R. Horry
+    - ''
+    - 112-113
+    - ''
+    - ''
+  - - '0:25.2'
+    - R. Horry makes 2-pt shot from 10 ft
+    - "+2"
+    - 114-113
+    - ''
+    - ''
+  - - '0:25.2'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - LA Clippers full timeout
+  - - '0:12.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - Shooting foul by R. Harper
+  - - '0:12.0'
+    - ''
+    - ''
+    - 114-114
+    - "+1"
+    - E. Piatkowski makes free throw 1 of 2
+  - - '0:12.0'
+    - ''
+    - ''
+    - 114-114
+    - ''
+    - C. Maggette enters the game for S. Rooks
+  - - '0:12.0'
+    - ''
+    - ''
+    - 114-114
+    - ''
+    - LA Clippers full timeout
+  - - '0:12.0'
+    - M. Penberthy enters the game for R. Harper
+    - ''
+    - 114-114
+    - ''
+    - ''
+  - - '0:12.0'
+    - ''
+    - ''
+    - 114-114
+    - ''
+    - E. Piatkowski misses free throw 2 of 2
+  - - '0:10.7'
+    - Defensive rebound by H. Grant
+    - ''
+    - 114-114
+    - ''
+    - ''
+  - - '0:04.8'
+    - B. Shaw misses 2-pt shot at rim
+    - ''
+    - 114-114
+    - ''
+    - ''
+  - - '0:04.5'
+    - Offensive rebound by H. Grant
+    - ''
+    - 114-114
+    - ''
+    - ''
+  - - '0:04.5'
+    - H. Grant makes 2-pt shot at rim
+    - "+2"
+    - 116-114
+    - ''
+    - ''
+  - - '0:04.5'
+    - ''
+    - ''
+    - 116-114
+    - ''
+    - LA Clippers full timeout
+  - - '0:04.5'
+    - ''
+    - ''
+    - 116-114
+    - ''
+    - Violation by Team (delay of game)
+  - - '0:04.5'
+    - ''
+    - ''
+    - 116-114
+    - ''
+    - S. Rooks enters the game for C. Maggette
+  - - '0:04.5'
+    - R. Harper enters the game for M. Penberthy
+    - ''
+    - 116-114
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 116-114
+    - ''
+    - L. Odom misses 2-pt shot at rim (block by R. Horry)
+  - - '0:00.3'
+    - Defensive rebound by R. Fox
+    - ''
+    - 116-114
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime

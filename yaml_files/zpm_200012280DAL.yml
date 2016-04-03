@@ -1,0 +1,205 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: -13&#9642;Off: +4&#9642;Net: -17)'
+    - |2-
+
+      -11
+    - 209/-11
+    - 140/
+    - 112/+1
+    - 37/
+    - 128/-3
+    - 372/
+    - 'Lamar Odom (On: -15&#9642;Off: +6&#9642;Net: -21)'
+    - |2-
+
+      -11
+    - 236/-11
+    - 101/
+    - 162/+1
+    - 232/-5
+    - 268/
+    - 'Michael Olowokandi (On: -15&#9642;Off: +6&#9642;Net: -21)'
+    - |2-
+
+      -10
+    - 149/-10
+    - 176/
+    - 91/-2
+    - 82/
+    - 128/-3
+    - 372/
+    - 'Quentin Richardson (On: -12&#9642;Off: +3&#9642;Net: -15)'
+    - |2-
+
+      -10
+    - 150/-10
+    - 338/
+    - 12/+1
+    - 128/-3
+    - 371/
+    - 'Brian Skinner (On: -16&#9642;Off: +7&#9642;Net: -23)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 171/
+    - 64/0
+    - 14/
+    - 128/-3
+    - 371/
+    - 'Corey Maggette (On: +5&#9642;Off: -14&#9642;Net: +19)'
+    - "\n"
+    - 150/
+    - 100/-3
+    - 83/-3
+    - 398/
+    - 18/-2
+    - 249/+13
+    - 'Sean Rooks (On: -8&#9642;Off: -1&#9642;Net: -7)'
+    - "\n"
+    - 150/
+    - 100/-3
+    - 72/-1
+    - 312/
+    - 116/-4
+    - 248/
+    - 'Keyon Dooling (On: +4&#9642;Off: -13&#9642;Net: +17)'
+    - "\n"
+    - 213/
+    - 36/-2
+    - 96/-3
+    - 121/
+    - 32/0
+    - 133/
+    - 116/-4
+    - 249/+13
+    - 'Eric Piatkowski (On: +5&#9642;Off: -14&#9642;Net: +19)'
+    - "\n"
+    - 239/
+    - 11/-2
+    - 250/-2
+    - 134/
+    - 116/-4
+    - 248/+13
+    - 'Darius Miles (On: +11&#9642;Off: -20&#9642;Net: +31)'
+    - "\n"
+    - 250/
+    - 250/-2
+    - 250/
+    - 250/+13
+    - 'Cherokee Parks (On: +9&#9642;Off: -18&#9642;Net: +27)'
+    - "\n"
+    - 635/
+    - 116/-4
+    - 250/+13
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 72/+1
+    - 178/
+    - 248/+7
+    - 100/
+    - 57/-8
+    - 93/
+    - 'Howard Eisley (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 55/-2
+    - 183/
+    - 12/-1
+    - 249/+7
+    - 11/
+    - 56/-5
+    - 87/
+    - 93/+1
+    - 'Michael Finley (On: +11&#9642;Off: -2&#9642;Net: +13)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 189/+4
+    - 61/
+    - 250/+7
+    - 249/-13
+    - 'Steve Nash (On: +14&#9642;Off: -5&#9642;Net: +19)'
+    - |2-
+
+      +11
+    - 209/+11
+    - 99/
+    - 190/+4
+    - 249/+7
+    - 8/-1
+    - 64/
+    - 178/-7
+    - 'Dirk Nowitzki (On: +15&#9642;Off: -6&#9642;Net: +21)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 87/+3
+    - 162/
+    - 215/+5
+    - 86/
+    - 198/-6
+    - 'Hubert Davis (On: -2&#9642;Off: +11&#9642;Net: -13)'
+    - "\n"
+    - 214/
+    - 36/+2
+    - 250/+2
+    - 344/
+    - 56/-6
+    - 98/
+    - 'Christian Laettner (On: -3&#9642;Off: +12&#9642;Net: -15)'
+    - "\n"
+    - 326/
+    - 159/+2
+    - 263/
+    - 96/-8
+    - 66/
+    - 88/+3
+    - 'Gary Trent (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - "\n"
+    - 341/
+    - 158/-1
+    - 222/
+    - 27/+2
+    - 45/-7
+    - 205/
+    - 'Courtney Alexander (On: -10&#9642;Off: +19&#9642;Net: -29)'
+    - "\n"
+    - 444/
+    - 55/-2
+    - 249/
+    - 0/0
+    - 90/-8
+    - 160/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

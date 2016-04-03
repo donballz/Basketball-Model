@@ -1,0 +1,214 @@
+---
+- name: Plus-Minus
+  data:
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: -1&#9642;Off: +7&#9642;Net: -8)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 24/0
+    - 97/
+    - 66/-1
+    - 61/
+    - 95/-3
+    - 212/
+    - 186/0
+    - 5/
+    - 'Brian Grant (On: +7&#9642;Off: -1&#9642;Net: +8)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 89/+4
+    - 46/
+    - 115/0
+    - 240/+1
+    - 9/
+    - 54/-1
+    - 194/
+    - 'Tim Hardaway (On: +10&#9642;Off: -4&#9642;Net: +14)'
+    - |2-
+
+      +3
+    - 248/+3
+    - 24/0
+    - 110/
+    - 115/0
+    - 248/+2
+    - 25/+3
+    - 41/
+    - 176/+2
+    - 2/
+    - 5/0
+    - 'Eddie Jones (On: +1&#9642;Off: +5&#9642;Net: -4)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 249/+2
+    - 238/+2
+    - 10/
+    - 1/+1
+    - 63/-1
+    - 104/
+    - 82/-6
+    - 'Anthony Mason (On: +2&#9642;Off: +4&#9642;Net: -2)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 92/
+    - 119/-1
+    - 39/
+    - 204/0
+    - 103/
+    - 191/0
+    - 'A.C. Green (On: +5&#9642;Off: +1&#9642;Net: +4)'
+    - "\n"
+    - 249/
+    - 130/+2
+    - 88/
+    - 32/-1
+    - 95/
+    - 154/+5
+    - 249/-1
+    - 'Eddie House (On: +4&#9642;Off: +2&#9642;Net: +2)'
+    - "\n"
+    - 277/
+    - 101/+2
+    - 329/
+    - 39/+2
+    - 28/
+    - 134/+2
+    - 80/
+    - 8/-2
+    - 'Dan Majerle (On: +4&#9642;Off: +2&#9642;Net: +2)'
+    - "\n"
+    - 279/
+    - 89/+4
+    - 633/
+    - 'Cedric Ceballos (On: -2&#9642;Off: +8&#9642;Net: -10)'
+    - "\n"
+    - 443/
+    - 56/-1
+    - 240/
+    - 9/0
+    - 54/-1
+    - 196/
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kendall Gill (On: +4&#9642;Off: -10&#9642;Net: +14)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 134/
+    - 76/-1
+    - 39/
+    - 164/+4
+    - 214/
+    - 121/+4
+    - 'Stephen Jackson (On: 0&#9642;Off: -6&#9642;Net: +6)'
+    - |2-
+
+      -8
+    - 114/-8
+    - 294/
+    - 91/0
+    - 181/+2
+    - 236/
+    - 82/+6
+    - 'Stephon Marbury (On: -3&#9642;Off: -3&#9642;Net: 0)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 134/
+    - 115/0
+    - 249/-2
+    - 85/
+    - 162/+2
+    - 3/
+    - 'Kenyon Martin (On: -6&#9642;Off: 0&#9642;Net: -6)'
+    - |2-
+
+      -8
+    - 114/-8
+    - 163/
+    - 177/-1
+    - 44/
+    - 68/+2
+    - 182/
+    - 249/+1
+    - 'Aaron Williams (On: -1&#9642;Off: -5&#9642;Net: +4)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 24/0
+    - 68/
+    - 158/+2
+    - 249/-2
+    - 82/
+    - 167/+2
+    - 'Lucious Harris (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - "\n"
+    - 119/
+    - 130/+5
+    - 130/-2
+    - 88/
+    - 31/+1
+    - 171/
+    - 78/-6
+    - 122/-3
+    - 126/
+    - 'Vladimir Stepania (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - "\n"
+    - 119/
+    - 130/+5
+    - 88/-4
+    - 122/
+    - 36/-1
+    - 72/
+    - 180/-4
+    - 73/-1
+    - 175/
+    - 'Sherman Douglas (On: -3&#9642;Off: -3&#9642;Net: 0)'
+    - "\n"
+    - 249/
+    - 130/-2
+    - 118/
+    - 1/0
+    - 249/
+    - 82/-1
+    - 166/
+    - 1/0
+    - 'Johnny Newman (On: -11&#9642;Off: +5&#9642;Net: -16)'
+    - "\n"
+    - 250/
+    - 157/-2
+    - 276/
+    - 66/-4
+    - 163/-5
+    - 86/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

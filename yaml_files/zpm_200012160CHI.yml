@@ -1,0 +1,224 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +15&#9642;Off: -7&#9642;Net: +22)'
+    - |2-
+
+      -1
+    - 248/-1
+    - 155/
+    - 63/+7
+    - 30/
+    - 155/-6
+    - 63/
+    - 29/+2
+    - 1/
+    - 23/+2
+    - 71/
+    - 126/+8
+    - 28/
+    - 'Allen Iverson (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 99/-1
+    - 69/
+    - 81/+9
+    - 249/-8
+    - 231/+8
+    - 19/
+    - 'Toni Kukoc (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 130/-2
+    - 65/
+    - 54/+2
+    - 155/-6
+    - 202/
+    - 142/+7
+    - 'Vernon Maxwell (On: -5&#9642;Off: +13&#9642;Net: -18)'
+    - |2-
+
+      +1
+    - 182/+1
+    - 318/
+    - 151/-6
+    - 349/
+    - 'Theo Ratliff (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - |2-
+
+      +1
+    - 194/+1
+    - 190/
+    - 59/+12
+    - 54/
+    - 213/-10
+    - 62/
+    - 205/+6
+    - 19/
+    - 'Aaron McKie (On: +13&#9642;Off: -5&#9642;Net: +18)'
+    - "\n"
+    - 189/
+    - 61/-2
+    - 250/+12
+    - 156/
+    - 94/-2
+    - 248/+5
+    - 'Todd MacCulloch (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - "\n"
+    - 200/
+    - 48/-2
+    - 152/+1
+    - 44/
+    - 54/+2
+    - 158/
+    - 91/-2
+    - 91/0
+    - 157/
+    - 'George Lynch (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 250/
+    - 66/-2
+    - 157/
+    - 25/+4
+    - 501/
+    - 'Jumaine Jones (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - "\n"
+    - 326/
+    - 118/+9
+    - 213/
+    - 91/-2
+    - 24/+2
+    - 203/
+    - 22/-3
+    - 'Pepe Sanchez (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 349/
+    - 68/+4
+    - 357/
+    - 80/-4
+    - 126/
+    - 18/-3
+    - 'Nazr Mohammed (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 984/
+    - 18/-3
+  - - Chicago Bulls
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Metta World Peace (On: +4&#9642;Off: -12&#9642;Net: +16)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 66/+2
+    - 130/
+    - 40/0
+    - 13/
+    - 249/+8
+    - 108/
+    - 141/-7
+    - 'Elton Brand (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 66/+2
+    - 70/
+    - 114/-14
+    - 250/+8
+    - 248/-5
+    - 'Khalid El-Amin (On: -14&#9642;Off: +6&#9642;Net: -20)'
+    - |2-
+
+      -1
+    - 182/-1
+    - 224/
+    - 93/-11
+    - 59/-2
+    - 441/
+    - 'Ron Mercer (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 223/-11
+    - 27/
+    - 213/+10
+    - 36/
+    - 249/-5
+    - 'Dragan Tarlac (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - |2-
+
+      -4
+    - 59/-4
+    - 259/
+    - 62/0
+    - 275/
+    - 94/+2
+    - 123/-2
+    - 125/
+    - 'Michael Ruffin (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - "\n"
+    - 62/
+    - 187/+5
+    - 249/-12
+    - 150/+6
+    - 227/
+    - 102/-6
+    - 20/
+    - 'Bryce Drew (On: +16&#9642;Off: -24&#9642;Net: +40)'
+    - "\n"
+    - 188/
+    - 61/+2
+    - 152/-1
+    - 160/
+    - 186/+10
+    - 123/-2
+    - 78/
+    - 48/+7
+    - 'Corey Benjamin (On: -16&#9642;Off: +8&#9642;Net: -24)'
+    - "\n"
+    - 318/
+    - 126/-12
+    - 49/
+    - 6/-2
+    - 219/
+    - 30/-2
+    - 249/
+    - 'Fred Hoiberg (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - "\n"
+    - 477/
+    - 22/-1
+    - 249/
+    - 106/+2
+    - 23/
+    - 66/-10
+    - 54/
+    - 'Jamal Crawford (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 984/
+    - 18/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

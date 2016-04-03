@@ -1,0 +1,216 @@
+---
+- name: Plus-Minus
+  data:
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: -4&#9642;Off: +7&#9642;Net: -11)'
+    - |2-
+
+      -7
+    - 168/-7
+    - 114/
+    - 213/-4
+    - 4/
+    - 249/+7
+    - 195/
+    - 54/0
+    - 'Allan Houston (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 30/+2
+    - 100/
+    - 120/-2
+    - 249/+7
+    - 94/+2
+    - 100/
+    - 54/0
+    - 'Larry Johnson (On: -4&#9642;Off: +7&#9642;Net: -11)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 30/+2
+    - 127/
+    - 28/-3
+    - 64/
+    - 85/-1
+    - 164/
+    - 249/+6
+    - 'Glen Rice (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      -5
+    - 162/-5
+    - 119/
+    - 217/-4
+    - 221/+5
+    - 56/
+    - 217/+5
+    - 5/
+    - 'Latrell Sprewell (On: +5&#9642;Off: -2&#9642;Net: +7)'
+    - |2-
+
+      -8
+    - 249/-8
+    - 125/0
+    - 50/
+    - 74/+1
+    - 249/+7
+    - 24/+1
+    - 77/
+    - 148/+4
+    - 'Chris Childs (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - "\n"
+    - 163/
+    - 86/-3
+    - 170/-3
+    - 303/
+    - 25/+2
+    - 190/+6
+    - 56/
+    - 3/0
+    - 'Kurt Thomas (On: +10&#9642;Off: -7&#9642;Net: +17)'
+    - "\n"
+    - 173/
+    - 76/-1
+    - 45/+1
+    - 145/
+    - 55/+3
+    - 90/
+    - 113/+7
+    - 299/
+    - 'Luc Longley (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - "\n"
+    - 301/
+    - 99/-3
+    - 98/
+    - 1/0
+    - 204/
+    - 45/+1
+    - 190/+6
+    - 58/
+    - 'Travis Knight (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 499/
+    - 1/0
+    - 501/
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 131/
+    - 119/+2
+    - 212/-7
+    - 102/
+    - 184/-2
+    - 'Tim Duncan (On: -8&#9642;Off: +5&#9642;Net: -13)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 125/0
+    - 45/
+    - 79/-3
+    - 250/-7
+    - 249/-6
+    - 'Sean Elliott (On: +2&#9642;Off: -5&#9642;Net: +7)'
+    - |2-
+
+      +5
+    - 162/+5
+    - 148/
+    - 188/+3
+    - 165/-3
+    - 55/
+    - 29/0
+    - 40/+1
+    - 62/
+    - 146/-4
+    - 'Avery Johnson (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - |2-
+
+      +5
+    - 194/+5
+    - 212/
+    - 92/0
+    - 199/-6
+    - 187/
+    - 107/-2
+    - 6/
+    - 'David Robinson (On: +2&#9642;Off: -5&#9642;Net: +7)'
+    - |2-
+
+      +7
+    - 173/+7
+    - 205/
+    - 115/+2
+    - 4/
+    - 165/-3
+    - 186/
+    - 149/-4
+    - 'Ira Newble (On: -2&#9642;Off: -1&#9642;Net: -1)'
+    - "\n"
+    - 164/
+    - 86/+3
+    - 58/-1
+    - 357/
+    - 47/-4
+    - 286/
+    - 'Malik Rose (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 178/
+    - 71/+1
+    - 165/+5
+    - 82/
+    - 1/0
+    - 165/
+    - 84/-4
+    - 94/-2
+    - 155/
+    - 'Antonio Daniels (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 198/
+    - 51/+3
+    - 150/+2
+    - 304/
+    - 45/-1
+    - 128/-4
+    - 121/
+    - 'Terry Porter (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - "\n"
+    - 249/
+    - 129/0
+    - 340/
+    - 29/0
+    - 59/-4
+    - 186/
+    - 5/0
+    - 'Danny Ferry (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 794/
+    - 52/-3
+    - 155/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

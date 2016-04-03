@@ -1,0 +1,208 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -3&#9642;Off: -2&#9642;Net: -1)'
+    - |2-
+
+      +6
+    - 207/+6
+    - 134/
+    - 158/-1
+    - 183/-2
+    - 144/
+    - 63/-6
+    - 108/
+    - 'Larry Hughes (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - |2-
+
+      +4
+    - 230/+4
+    - 111/
+    - 158/-1
+    - 104/0
+    - 145/
+    - 250/-7
+    - 'Marc Jackson (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - |2-
+
+      +4
+    - 248/+4
+    - 69/+2
+    - 104/
+    - 72/-2
+    - 3/
+    - 0/0
+    - 248/-3
+    - 4/-1
+    - 49/
+    - 197/-5
+    - 'Antawn Jamison (On: +1&#9642;Off: -6&#9642;Net: +7)'
+    - |2-
+
+      +4
+    - 230/+4
+    - 90/
+    - 178/-1
+    - 249/-3
+    - 50/-2
+    - 78/
+    - 122/+3
+    - 'Adam Keefe (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 125/+5
+    - 107/
+    - 16/0
+    - 86/+2
+    - 162/
+    - 95/0
+    - 164/
+    - 111/-9
+    - 129/
+    - 'Bob Sura (On: -3&#9642;Off: -2&#9642;Net: -1)'
+    - "\n"
+    - 127/
+    - 122/-1
+    - 249/+1
+    - 99/
+    - 150/-3
+    - 97/
+    - 153/0
+    - 'Vonteego Cummings (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - "\n"
+    - 213/
+    - 36/-2
+    - 86/+2
+    - 274/
+    - 138/-3
+    - 74/-5
+    - 71/
+    - 104/+4
+    - 'Vinny Del Negro (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - "\n"
+    - 233/
+    - 16/0
+    - 167/+4
+    - 269/
+    - 62/-1
+    - 90/-7
+    - 160/
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kendall Gill (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 173/
+    - 76/+3
+    - 226/+2
+    - 274/
+    - 'Stephen Jackson (On: +6&#9642;Off: -1&#9642;Net: +7)'
+    - |2-
+
+      -7
+    - 173/-7
+    - 250/
+    - 76/+3
+    - 250/+3
+    - 228/+7
+    - 21/
+    - 'Stephon Marbury (On: 0&#9642;Off: +5&#9642;Net: -5)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 78/
+    - 172/+3
+    - 250/+3
+    - 199/
+    - 49/-2
+    - 'Kenyon Martin (On: 0&#9642;Off: +5&#9642;Net: -5)'
+    - |2-
+
+      -9
+    - 158/-9
+    - 137/
+    - 29/0
+    - 176/
+    - 151/+2
+    - 99/
+    - 247/+7
+    - 'Aaron Williams (On: -12&#9642;Off: +17&#9642;Net: -29)'
+    - |2-
+
+      -4
+    - 248/-4
+    - 23/-2
+    - 138/
+    - 6/-2
+    - 82/
+    - 104/0
+    - 326/
+    - 46/-5
+    - 7/
+    - 14/+1
+    - 'Keith Van Horn (On: +16&#9642;Off: -11&#9642;Net: +27)'
+    - "\n"
+    - 162/
+    - 86/+5
+    - 39/-4
+    - 133/
+    - 76/+3
+    - 155/
+    - 93/+1
+    - 177/+12
+    - 56/
+    - 1/-1
+    - 15/
+    - 'Lucious Harris (On: +12&#9642;Off: -7&#9642;Net: +19)'
+    - "\n"
+    - 175/
+    - 74/+3
+    - 249/-1
+    - 228/
+    - 21/+1
+    - 196/+9
+    - 39/
+    - 14/0
+    - 'Sherman Douglas (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 168/-4
+    - 332/
+    - 250/+7
+    - 'Johnny Newman (On: -4&#9642;Off: +9&#9642;Net: -13)'
+    - "\n"
+    - 250/
+    - 168/-4
+    - 583/
+    - 'Vladimir Stepania (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - "\n"
+    - 278/
+    - 131/0
+    - 202/
+    - 138/+3
+    - 250/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

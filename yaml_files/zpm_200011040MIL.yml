@@ -1,0 +1,236 @@
+---
+- name: Plus-Minus
+  data:
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -6&#9642;Off: -3&#9642;Net: -3)'
+    - |2-
+
+      +1
+    - 159/+1
+    - 118/
+    - 223/-6
+    - 159/-1
+    - 340/
+    - 'Eric Montross (On: -1&#9642;Off: -8&#9642;Net: +7)'
+    - |2-
+
+      -1
+    - 139/-1
+    - 361/
+    - 115/0
+    - 385/
+    - 'Billy Owens (On: +2&#9642;Off: -11&#9642;Net: +13)'
+    - |2-
+
+      +5
+    - 70/+5
+    - 179/
+    - 165/-2
+    - 84/
+    - 159/-1
+    - 341/
+    - 'Jerry Stackhouse (On: -15&#9642;Off: +6&#9642;Net: -21)'
+    - |2-
+
+      +2
+    - 181/+2
+    - 144/
+    - 175/-8
+    - 230/-9
+    - 269/
+    - 'Ben Wallace (On: -17&#9642;Off: +8&#9642;Net: -25)'
+    - |2-
+
+      -1
+    - 138/-1
+    - 111/
+    - 165/-2
+    - 84/
+    - 229/-9
+    - 152/
+    - 49/-3
+    - 68/
+    - 'Michael Curry (On: -8&#9642;Off: -1&#9642;Net: -7)'
+    - "\n"
+    - 73/
+    - 176/-10
+    - 214/
+    - 36/0
+    - 163/
+    - 86/-10
+    - 249/+12
+    - 'Mikki Moore (On: +6&#9642;Off: -15&#9642;Net: +21)'
+    - "\n"
+    - 141/
+    - 107/-4
+    - 171/
+    - 78/-3
+    - 232/
+    - 17/-2
+    - 127/+5
+    - 62/
+    - 60/+10
+    - 'Jerome Williams (On: -11&#9642;Off: +2&#9642;Net: -13)'
+    - "\n"
+    - 141/
+    - 108/-4
+    - 138/+3
+    - 34/
+    - 38/-3
+    - 154/
+    - 84/-7
+    - 299/
+    - 'Mateen Cleaves (On: -3&#9642;Off: -6&#9642;Net: +3)'
+    - "\n"
+    - 166/
+    - 83/-6
+    - 20/+1
+    - 393/
+    - 86/-10
+    - 250/+12
+    - 'Jud Buechler (On: +6&#9642;Off: -15&#9642;Net: +21)'
+    - "\n"
+    - 187/
+    - 63/-7
+    - 71/+3
+    - 411/
+    - 17/-2
+    - 249/+12
+    - 'John Wallace (On: +2&#9642;Off: -11&#9642;Net: +13)'
+    - "\n"
+    - 390/
+    - 107/-6
+    - 206/
+    - 46/-4
+    - 250/+12
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: -4&#9642;Off: +13&#9642;Net: -17)'
+    - |2-
+
+      -5
+    - 66/-5
+    - 174/
+    - 9/+4
+    - 220/+1
+    - 28/
+    - 1/+2
+    - 56/+4
+    - 175/
+    - 17/+2
+    - 248/-12
+    - 'Sam Cassell (On: +17&#9642;Off: -8&#9642;Net: +25)'
+    - |2-
+
+      +1
+    - 234/+1
+    - 155/
+    - 109/+8
+    - 229/+9
+    - 153/
+    - 75/-1
+    - 42/
+    - 'Darvin Ham (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - |2-
+
+      -1
+    - 158/-1
+    - 231/
+    - 80/+4
+    - 29/
+    - 125/-3
+    - 375/
+    - 'Ervin Johnson (On: +2&#9642;Off: +7&#9642;Net: -5)'
+    - |2-
+
+      -2
+    - 201/-2
+    - 299/
+    - 190/+4
+    - 310/
+    - 'Glenn Robinson (On: +19&#9642;Off: -10&#9642;Net: +29)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 8/+1
+    - 153/
+    - 89/+5
+    - 232/+9
+    - 138/
+    - 87/-1
+    - 40/
+    - 'Lindsey Hunter (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - "\n"
+    - 70/
+    - 179/+10
+    - 138/-3
+    - 89/
+    - 22/+4
+    - 61/
+    - 187/+7
+    - 127/-5
+    - 122/
+    - 'Tim Thomas (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - "\n"
+    - 166/
+    - 83/+6
+    - 156/0
+    - 57/
+    - 36/0
+    - 130/
+    - 118/+14
+    - 173/-4
+    - 42/
+    - 33/-6
+    - 'Scott Williams (On: +8&#9642;Off: +1&#9642;Net: +7)'
+    - "\n"
+    - 206/
+    - 43/+7
+    - 138/-3
+    - 89/
+    - 20/+2
+    - 194/
+    - 57/+7
+    - 114/-5
+    - 134/
+    - 'Jason Caffey (On: 0&#9642;Off: +9&#9642;Net: -9)'
+    - "\n"
+    - 263/
+    - 196/+4
+    - 280/
+    - 9/+2
+    - 208/-6
+    - 42/
+    - 'Joel Przybilla (On: -8&#9642;Off: +17&#9642;Net: -25)'
+    - "\n"
+    - 932/
+    - 70/-8
+    - 'Rafer Alston (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - "\n"
+    - 968/
+    - 34/-6
+    - 'Michael Redd (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - "\n"
+    - 968/
+    - 34/-6
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

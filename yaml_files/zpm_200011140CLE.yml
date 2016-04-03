@@ -1,0 +1,206 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -10&#9642;Off: 0&#9642;Net: -10)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 58/+2
+    - 141/
+    - 51/-4
+    - 250/+7
+    - 248/-12
+    - 'Erick Dampier (On: -10&#9642;Off: 0&#9642;Net: -10)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 57/+2
+    - 103/
+    - 88/-9
+    - 249/+7
+    - 44/-6
+    - 28/
+    - 169/-1
+    - 8/
+    - 'Larry Hughes (On: -6&#9642;Off: -4&#9642;Net: -2)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 195/+2
+    - 55/
+    - 250/+7
+    - 249/-12
+    - 'Antawn Jamison (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 95/+2
+    - 65/
+    - 88/-9
+    - 249/+7
+    - 48/
+    - 188/-2
+    - 2/
+    - 11/-2
+    - 'Chris Mullin (On: -15&#9642;Off: +5&#9642;Net: -20)'
+    - |2-
+
+      -5
+    - 223/-5
+    - 275/
+    - 142/-1
+    - 146/
+    - 129/-4
+    - 18/
+    - 64/-5
+    - 'Marc Jackson (On: -2&#9642;Off: -8&#9642;Net: +6)'
+    - "\n"
+    - 224/
+    - 25/+2
+    - 155/+7
+    - 343/
+    - 65/-11
+    - 178/
+    - 7/0
+    - 'Vinny Del Negro (On: -4&#9642;Off: -6&#9642;Net: +2)'
+    - "\n"
+    - 312/
+    - 188/-4
+    - 501/
+    - 'Adonal Foyle (On: +5&#9642;Off: -15&#9642;Net: +20)'
+    - "\n"
+    - 312/
+    - 94/+5
+    - 595/
+    - 'Chris Porter (On: -1&#9642;Off: -9&#9642;Net: +8)'
+    - "\n"
+    - 348/
+    - 150/-4
+    - 146/
+    - 103/+8
+    - 32/-3
+    - 143/
+    - 4/0
+    - 70/
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: +2&#9642;Off: +8&#9642;Net: -6)'
+    - |2-
+
+      +5
+    - 224/+5
+    - 276/
+    - 178/-5
+    - 206/
+    - 115/+2
+    - 'Zydrunas Ilgauskas (On: +1&#9642;Off: +9&#9642;Net: -8)'
+    - |2-
+
+      +1
+    - 119/+1
+    - 187/
+    - 192/+4
+    - 178/-5
+    - 247/
+    - 61/+1
+    - 13/
+    - 'Andre Miller (On: +22&#9642;Off: -12&#9642;Net: +34)'
+    - |2-
+
+      +5
+    - 224/+5
+    - 190/
+    - 86/+9
+    - 73/+2
+    - 220/
+    - 205/+6
+    - 'Lamond Murray (On: +17&#9642;Off: -7&#9642;Net: +24)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 35/-4
+    - 126/
+    - 89/+9
+    - 249/-7
+    - 128/+10
+    - 51/
+    - 69/+6
+    - 'Clarence Weatherspoon (On: +9&#9642;Off: +1&#9642;Net: +8)'
+    - |2-
+
+      +3
+    - 235/+3
+    - 265/
+    - 147/+3
+    - 238/
+    - 114/+3
+    - 'Chris Mihm (On: +7&#9642;Off: +3&#9642;Net: +4)'
+    - "\n"
+    - 125/
+    - 124/+2
+    - 53/-2
+    - 379/
+    - 67/-2
+    - 135/+9
+    - 114/
+    - 'Bimbo Coles (On: -8&#9642;Off: +18&#9642;Net: -26)'
+    - "\n"
+    - 224/
+    - 25/-2
+    - 160/-7
+    - 163/
+    - 175/-9
+    - 43/+6
+    - 194/
+    - 12/+4
+    - 'Cedric Henderson (On: -10&#9642;Off: +20&#9642;Net: -30)'
+    - "\n"
+    - 224/
+    - 25/-2
+    - 155/-7
+    - 276/
+    - 67/-2
+    - 24/+1
+    - 226/
+    - 'Robert Traylor (On: -1&#9642;Off: +11&#9642;Net: -12)'
+    - "\n"
+    - 240/
+    - 9/0
+    - 249/+2
+    - 150/
+    - 99/-10
+    - 168/+7
+    - 82/
+    - 'Trajan Langdon (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - "\n"
+    - 286/
+    - 213/+6
+    - 279/
+    - 150/+5
+    - 71/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

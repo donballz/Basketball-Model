@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: -5&#9642;Off: -16&#9642;Net: +11)'
+    - |2-
+
+      +2
+    - 49/+2
+    - 134/
+    - 50/+1
+    - 264/
+    - 90/-4
+    - 126/
+    - 12/-2
+    - 271/
+    - 'Greg Buckner (On: -5&#9642;Off: -16&#9642;Net: +11)'
+    - |2-
+
+      +2
+    - 238/+2
+    - 89/
+    - 171/+1
+    - 207/-8
+    - 172/
+    - 89/0
+    - 31/
+    - 'Michael Finley (On: -5&#9642;Off: -16&#9642;Net: +11)'
+    - |2-
+
+      +3
+    - 233/+3
+    - 61/
+    - 145/+3
+    - 59/
+    - 195/-9
+    - 54/
+    - 126/-2
+    - 123/
+    - 'Steve Nash (On: -12&#9642;Off: -9&#9642;Net: -3)'
+    - |2-
+
+      0
+    - 249/0
+    - 154/
+    - 95/-2
+    - 249/-10
+    - 126/-2
+    - 24/
+    - 48/+2
+    - 51/
+    - 'Dirk Nowitzki (On: -16&#9642;Off: -5&#9642;Net: -11)'
+    - |2-
+
+      0
+    - 249/0
+    - 77/-3
+    - 118/
+    - 55/-2
+    - 228/-10
+    - 103/
+    - 117/-1
+    - 49/
+    - 'Christian Laettner (On: -1&#9642;Off: -20&#9642;Net: +19)'
+    - "\n"
+    - 53/
+    - 128/0
+    - 411/
+    - 69/-1
+    - 338/
+    - 'Hubert Davis (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - "\n"
+    - 234/
+    - 15/-3
+    - 249/-2
+    - 202/
+    - 47/-1
+    - 147/-2
+    - 54/
+    - 48/-9
+    - 'Eduardo Najera (On: -14&#9642;Off: -7&#9642;Net: -7)'
+    - "\n"
+    - 235/
+    - 14/-3
+    - 44/-3
+    - 436/
+    - 18/0
+    - 79/+1
+    - 123/
+    - 47/-9
+    - 'Howard Eisley (On: -11&#9642;Off: -10&#9642;Net: -1)'
+    - "\n"
+    - 246/
+    - 3/-2
+    - 154/0
+    - 328/
+    - 18/0
+    - 249/-9
+    - 'Loy Vaught (On: -3&#9642;Off: -18&#9642;Net: +15)'
+    - "\n"
+    - 250/
+    - 190/0
+    - 223/
+    - 83/-3
+    - 253/
+    - 'Courtney Alexander (On: -9&#9642;Off: -12&#9642;Net: +3)'
+    - "\n"
+    - 445/
+    - 55/-2
+    - 380/
+    - 120/-7
+    - 'Bill Curley (On: -7&#9642;Off: -14&#9642;Net: +7)'
+    - "\n"
+    - 978/
+    - 24/-7
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Dudley (On: 0&#9642;Off: +21&#9642;Net: -21)'
+    - |2-
+
+      0
+    - 74/0
+    - 928/
+    - 'Mario Elie (On: +15&#9642;Off: +6&#9642;Net: +9)'
+    - |2-
+
+      -2
+    - 181/-2
+    - 318/
+    - 228/+10
+    - 21/
+    - 239/+5
+    - 11/
+    - 'Jason Kidd (On: +5&#9642;Off: +16&#9642;Net: -11)'
+    - |2-
+
+      -5
+    - 210/-5
+    - 118/
+    - 171/-1
+    - 246/+8
+    - 92/
+    - 129/+3
+    - 31/
+    - 'Shawn Marion (On: +26&#9642;Off: -5&#9642;Net: +31)'
+    - |2-
+
+      0
+    - 249/0
+    - 77/+3
+    - 78/
+    - 95/+2
+    - 228/+10
+    - 58/
+    - 212/+11
+    - 'Clifford Robinson (On: +8&#9642;Off: +13&#9642;Net: -5)'
+    - |2-
+
+      -2
+    - 181/-2
+    - 55/
+    - 14/+3
+    - 250/+2
+    - 156/+5
+    - 342/
+    - 'Daniel Santiago (On: +8&#9642;Off: +13&#9642;Net: -5)'
+    - "\n"
+    - 76/
+    - 158/-3
+    - 264/
+    - 207/+8
+    - 24/
+    - 18/0
+    - 85/-1
+    - 154/
+    - 9/+4
+    - 'Tony Delk (On: +13&#9642;Off: +8&#9642;Net: +5)'
+    - "\n"
+    - 184/
+    - 66/+2
+    - 250/+2
+    - 232/
+    - 18/0
+    - 248/+9
+    - 'Rodney Rogers (On: +11&#9642;Off: +10&#9642;Net: +1)'
+    - "\n"
+    - 183/
+    - 66/+2
+    - 235/+2
+    - 175/
+    - 89/+5
+    - 218/+2
+    - 31/
+    - 'Paul McPherson (On: +12&#9642;Off: +9&#9642;Net: +3)'
+    - "\n"
+    - 214/
+    - 35/+5
+    - 153/0
+    - 85/
+    - 11/0
+    - 215/
+    - 33/+2
+    - 33/-2
+    - 192/
+    - 23/+7
+    - 'Ruben Garces (On: +7&#9642;Off: +14&#9642;Net: -7)'
+    - "\n"
+    - 978/
+    - 24/+7
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

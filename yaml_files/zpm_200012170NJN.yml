@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: +15&#9642;Off: +1&#9642;Net: +14)'
+    - |2-
+
+      +16
+    - 249/+16
+    - 132/+4
+    - 74/
+    - 43/-3
+    - 249/-8
+    - 208/+6
+    - 42/
+    - 'Vlade Divac (On: +14&#9642;Off: +2&#9642;Net: +12)'
+    - |2-
+
+      +16
+    - 250/+16
+    - 111/
+    - 116/+2
+    - 23/
+    - 196/-4
+    - 302/
+    - 'Hedo Turkoglu (On: +6&#9642;Off: +10&#9642;Net: -4)'
+    - |2-
+
+      +16
+    - 250/+16
+    - 132/
+    - 117/-3
+    - 237/-8
+    - 228/
+    - 34/+1
+    - 'Chris Webber (On: +12&#9642;Off: +4&#9642;Net: +8)'
+    - |2-
+
+      +16
+    - 249/+16
+    - 110/+1
+    - 71/
+    - 19/-3
+    - 49/
+    - 249/-8
+    - 208/+6
+    - 41/
+    - 'Jason Williams (On: +4&#9642;Off: +12&#9642;Net: -8)'
+    - |2-
+
+      +16
+    - 246/+16
+    - 189/
+    - 64/-4
+    - 237/-8
+    - 263/
+    - 'Bobby Jackson (On: +12&#9642;Off: +4&#9642;Net: +8)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 181/+5
+    - 309/
+    - 9/0
+    - 249/+7
+    - 'Jon Barry (On: +9&#9642;Off: +7&#9642;Net: +2)'
+    - "\n"
+    - 249/
+    - 200/+4
+    - 32/
+    - 18/-2
+    - 240/
+    - 9/0
+    - 249/+7
+    - 'Scot Pollard (On: +7&#9642;Off: +9&#9642;Net: -2)'
+    - "\n"
+    - 249/
+    - 174/+7
+    - 32/
+    - 43/-3
+    - 197/
+    - 52/-4
+    - 241/+7
+    - 8/
+    - 'Darrick Martin (On: +1&#9642;Off: +15&#9642;Net: -14)'
+    - "\n"
+    - 967/
+    - 35/+1
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Lucious Harris (On: +3&#9642;Off: -19&#9642;Net: +22)'
+    - |2-
+
+      -9
+    - 164/-9
+    - 266/
+    - 69/+6
+    - 228/+8
+    - 102/
+    - 55/-2
+    - 113/
+    - 'Stephen Jackson (On: +4&#9642;Off: -20&#9642;Net: +24)'
+    - |2-
+
+      -8
+    - 135/-8
+    - 240/
+    - 124/+2
+    - 250/+8
+    - 177/
+    - 72/+2
+    - 'Stephon Marbury (On: -15&#9642;Off: -1&#9642;Net: -14)'
+    - |2-
+
+      -16
+    - 249/-16
+    - 110/
+    - 139/0
+    - 249/+8
+    - 75/-7
+    - 67/
+    - 33/0
+    - 74/
+    - 'Kenyon Martin (On: -17&#9642;Off: +1&#9642;Net: -18)'
+    - |2-
+
+      -16
+    - 249/-16
+    - 110/
+    - 139/0
+    - 191/+4
+    - 116/
+    - 136/-5
+    - 56/
+    - 'Aaron Williams (On: -8&#9642;Off: -8&#9642;Net: 0)'
+    - |2-
+
+      -8
+    - 135/-8
+    - 150/
+    - 74/+1
+    - 139/
+    - 249/+8
+    - 175/-9
+    - 75/
+    - 'Kendall Gill (On: -16&#9642;Off: 0&#9642;Net: -16)'
+    - "\n"
+    - 139/
+    - 111/-8
+    - 110/-1
+    - 368/
+    - 21/0
+    - 249/-7
+    - 'Vladimir Stepania (On: -8&#9642;Off: -8&#9642;Net: 0)'
+    - "\n"
+    - 138/
+    - 111/-8
+    - 31/-2
+    - 413/
+    - 54/+4
+    - 57/-3
+    - 140/
+    - 52/+1
+    - 'Johnny Newman (On: -17&#9642;Off: +1&#9642;Net: -18)'
+    - "\n"
+    - 170/
+    - 79/-7
+    - 122/-3
+    - 377/
+    - 75/-7
+    - 175/
+    - 'Sherman Douglas (On: -7&#9642;Off: -9&#9642;Net: +2)'
+    - "\n"
+    - 250/
+    - 175/-7
+    - 406/
+    - 169/0
+    - 'Evan Eschmeyer (On: 0&#9642;Off: -16&#9642;Net: +16)'
+    - "\n"
+    - 250/
+    - 145/0
+    - 606/
+    - 'Soumaila Samake (On: +1&#9642;Off: -17&#9642;Net: +18)'
+    - "\n"
+    - 399/
+    - 101/-1
+    - 427/
+    - 73/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

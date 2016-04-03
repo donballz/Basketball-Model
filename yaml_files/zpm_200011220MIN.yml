@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -3&#9642;Off: +2&#9642;Net: -5)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 37/-4
+    - 85/
+    - 98/+3
+    - 29/
+    - 248/-8
+    - 69/
+    - 181/+2
+    - 'Mike Bibby (On: +5&#9642;Off: -6&#9642;Net: +11)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 98/
+    - 151/+5
+    - 249/-10
+    - 60/+4
+    - 76/
+    - 114/+2
+    - 'Kevin Edwards (On: -2&#9642;Off: +1&#9642;Net: -3)'
+    - |2-
+
+      +4
+    - 150/+4
+    - 99/
+    - 250/-1
+    - 179/-7
+    - 134/
+    - 186/+2
+    - 'Othella Harrington (On: 0&#9642;Off: -1&#9642;Net: +1)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 125/
+    - 95/+5
+    - 29/
+    - 168/-9
+    - 331/
+    - 'Bryant Reeves (On: -9&#9642;Off: +8&#9642;Net: -17)'
+    - |2-
+
+      +4
+    - 150/+4
+    - 141/
+    - 82/-4
+    - 125/
+    - 135/-9
+    - 365/
+    - 'Isaac Austin (On: +2&#9642;Off: -3&#9642;Net: +5)'
+    - "\n"
+    - 154/
+    - 95/0
+    - 37/-4
+    - 186/
+    - 26/+2
+    - 249/
+    - 64/+4
+    - 185/
+    - 'Doug West (On: +4&#9642;Off: -5&#9642;Net: +9)'
+    - "\n"
+    - 154/
+    - 95/0
+    - 223/
+    - 26/+2
+    - 248/
+    - 1/-2
+    - 64/+4
+    - 185/
+    - 'Damon Jones (On: -5&#9642;Off: +4&#9642;Net: -9)'
+    - "\n"
+    - 250/
+    - 96/-6
+    - 339/
+    - 64/-3
+    - 129/+4
+    - 120/
+    - 'Stromile Swift (On: -1&#9642;Off: 0&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 118/-6
+    - 304/
+    - 77/-1
+    - 250/+6
+    - 'Grant Long (On: +5&#9642;Off: -6&#9642;Net: +11)'
+    - "\n"
+    - 292/
+    - 208/+3
+    - 319/
+    - 181/+2
+    - 'Tony Massenburg (On: -1&#9642;Off: 0&#9642;Net: -1)'
+    - "\n"
+    - 642/
+    - 109/-1
+    - 250/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chauncey Billups (On: -4&#9642;Off: +5&#9642;Net: -9)'
+    - |2-
+
+      -4
+    - 212/-4
+    - 203/
+    - 84/-5
+    - 179/+7
+    - 139/
+    - 181/-2
+    - 'Terrell Brandon (On: +5&#9642;Off: -4&#9642;Net: +9)'
+    - |2-
+
+      +1
+    - 117/+1
+    - 174/
+    - 207/-3
+    - 168/+9
+    - 144/
+    - 185/-2
+    - 2/
+    - 'Kevin Garnett (On: +1&#9642;Off: 0&#9642;Net: +1)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 99/
+    - 77/-2
+    - 73/
+    - 249/+10
+    - 43/-1
+    - 93/
+    - 113/-2
+    - 'Rasho Nesterovic (On: -3&#9642;Off: +4&#9642;Net: -7)'
+    - |2-
+
+      -4
+    - 211/-4
+    - 210/
+    - 76/-3
+    - 179/+7
+    - 118/
+    - 144/-2
+    - 49/
+    - 9/-1
+    - 'Wally Szczerbiak (On: +6&#9642;Off: -5&#9642;Net: +11)'
+    - |2-
+
+      -2
+    - 193/-2
+    - 55/
+    - 172/+4
+    - 77/
+    - 249/+10
+    - 64/-4
+    - 133/
+    - 37/-2
+    - 15/
+    - 'Anthony Peeler (On: -2&#9642;Off: +3&#9642;Net: -5)'
+    - "\n"
+    - 120/
+    - 129/-5
+    - 161/+6
+    - 260/
+    - 77/+1
+    - 129/-4
+    - 121/
+    - 'LaPhonso Ellis (On: -4&#9642;Off: +5&#9642;Net: -9)'
+    - "\n"
+    - 197/
+    - 52/-2
+    - 172/+4
+    - 11/
+    - 65/-3
+    - 185/
+    - 64/+3
+    - 250/-6
+    - 'William Avery (On: +3&#9642;Off: -2&#9642;Net: +5)'
+    - "\n"
+    - 215/
+    - 34/0
+    - 37/+4
+    - 397/
+    - 64/+3
+    - 60/-4
+    - 190/
+    - 'Dean Garrett (On: +6&#9642;Off: -5&#9642;Net: +11)'
+    - "\n"
+    - 216/
+    - 34/0
+    - 98/+6
+    - 652/
+    - 'Sam Mitchell (On: -3&#9642;Off: +4&#9642;Net: -7)'
+    - "\n"
+    - 424/
+    - 77/-3
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

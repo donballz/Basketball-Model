@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derrick McKey (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 131/
+    - 119/-7
+    - 141/+6
+    - 342/
+    - 15/+4
+    - 'Reggie Miller (On: +12&#9642;Off: -4&#9642;Net: +16)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 64/+2
+    - 105/
+    - 79/-6
+    - 157/+4
+    - 79/
+    - 13/+2
+    - 250/+9
+    - 'Jermaine O''Neal (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      +5
+    - 195/+5
+    - 54/
+    - 249/-7
+    - 141/+6
+    - 144/
+    - 99/+4
+    - 88/
+    - 26/+6
+    - 'Sam Perkins (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      0
+    - 231/0
+    - 214/
+    - 51/-2
+    - 1/
+    - 173/+4
+    - 215/
+    - 95/+4
+    - 16/
+    - 'Jalen Rose (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 67/
+    - 183/-9
+    - 250/+5
+    - 249/+9
+    - 'Austin Croshere (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 201/
+    - 48/-4
+    - 174/-3
+    - 240/
+    - 84/+1
+    - 219/+3
+    - 31/
+    - 'Travis Best (On: +5&#9642;Off: +3&#9642;Net: +2)'
+    - "\n"
+    - 237/
+    - 10/+1
+    - 163/-1
+    - 18/
+    - 8/-2
+    - 59/
+    - 0/0
+    - 147/
+    - 84/-3
+    - 53/
+    - 194/+7
+    - 6/
+    - 12/+3
+    - 'Al Harrington (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 250/
+    - 127/0
+    - 624/
+    - 'Terry Mills (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 648/
+    - 90/-1
+    - 11/
+    - 31/-2
+    - 219/
+    - 'Zan Tabak (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - "\n"
+    - 679/
+    - 72/+1
+    - 250/
+    - 'Jeff Foster (On: -2&#9642;Off: +10&#9642;Net: -12)'
+    - "\n"
+    - 745/
+    - 5/0
+    - 31/-2
+    - 219/
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Brent Barry (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 50/0
+    - 31/
+    - 169/+7
+    - 232/-3
+    - 108/
+    - 158/-9
+    - 'Patrick Ewing (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - |2-
+
+      -5
+    - 196/-5
+    - 163/
+    - 141/+6
+    - 173/-4
+    - 326/
+    - 'Rashard Lewis (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 131/
+    - 119/+7
+    - 233/-3
+    - 59/
+    - 206/-11
+    - 'Jelani McCoy (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      -3
+    - 111/-3
+    - 389/
+    - 233/-3
+    - 267/
+    - 'Gary Payton (On: -13&#9642;Off: +5&#9642;Net: -18)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 53/
+    - 25/0
+    - 171/
+    - 249/-5
+    - 84/0
+    - 55/
+    - 110/-7
+    - 'Vin Baker (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - "\n"
+    - 115/
+    - 134/+2
+    - 105/+1
+    - 322/
+    - 72/-1
+    - 235/-6
+    - 14/
+    - 'Ruben Patterson (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 201/
+    - 48/+4
+    - 250/+7
+    - 237/
+    - 13/-2
+    - 249/-9
+    - 'Desmond Mason (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 126/0
+    - 360/
+    - 13/-2
+    - 36/+2
+    - 213/
+    - 'Shammond Williams (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 249/
+    - 249/+7
+    - 237/
+    - 13/-2
+    - 135/-2
+    - 102/
+    - 12/-3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

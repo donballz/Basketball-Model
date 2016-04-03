@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Allen Iverson (On: +34&#9642;Off: 0&#9642;Net: +34)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 125/+17
+    - 47/
+    - 78/-7
+    - 249/+12
+    - 65/+5
+    - 184/
+    - 'Toni Kukoc (On: +16&#9642;Off: +18&#9642;Net: -2)'
+    - |2-
+
+      +5
+    - 183/+5
+    - 93/
+    - 23/0
+    - 199/
+    - 137/+5
+    - 112/
+    - 250/+3
+    - 'George Lynch (On: +16&#9642;Off: +18&#9642;Net: -2)'
+    - |2-
+
+      +3
+    - 145/+3
+    - 353/
+    - 159/+8
+    - 27/
+    - 62/+1
+    - 1/
+    - 65/+5
+    - 54/
+    - 129/-1
+    - 'Theo Ratliff (On: +25&#9642;Off: +9&#9642;Net: +16)'
+    - |2-
+
+      +7
+    - 248/+7
+    - 21/+4
+    - 29/
+    - 75/+11
+    - 47/
+    - 77/-7
+    - 12/0
+    - 173/
+    - 63/+4
+    - 33/+6
+    - 215/
+    - 'Eric Snow (On: +24&#9642;Off: +10&#9642;Net: +14)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 81/+11
+    - 51/
+    - 117/-5
+    - 249/+12
+    - 65/
+    - 53/-1
+    - 131/
+    - 'Matt Geiger (On: +13&#9642;Off: +21&#9642;Net: -8)'
+    - "\n"
+    - 152/
+    - 97/+4
+    - 49/+6
+    - 82/
+    - 66/+1
+    - 69/
+    - 43/-1
+    - 78/
+    - 41/+3
+    - 317/
+    - 'Aaron McKie (On: +24&#9642;Off: +10&#9642;Net: +14)'
+    - "\n"
+    - 188/
+    - 61/+2
+    - 165/+19
+    - 69/
+    - 14/-4
+    - 160/
+    - 89/+4
+    - 250/+3
+    - 'Todd MacCulloch (On: +16&#9642;Off: +18&#9642;Net: -2)'
+    - "\n"
+    - 306/
+    - 107/+15
+    - 38/
+    - 45/-6
+    - 63/
+    - 116/+9
+    - 104/
+    - 83/-2
+    - 133/
+    - 'Jumaine Jones (On: +3&#9642;Off: +31&#9642;Net: -28)'
+    - "\n"
+    - 335/
+    - 149/+5
+    - 332/
+    - 184/-2
+    - 'Nazr Mohammed (On: -1&#9642;Off: +35&#9642;Net: -36)'
+    - "\n"
+    - 872/
+    - 130/-1
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: -13&#9642;Off: -21&#9642;Net: +8)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 42/-6
+    - 208/
+    - 94/-3
+    - 199/
+    - 106/+3
+    - 99/
+    - 'Zydrunas Ilgauskas (On: -18&#9642;Off: -16&#9642;Net: -2)'
+    - |2-
+
+      -5
+    - 183/-5
+    - 151/
+    - 65/-8
+    - 100/
+    - 137/-5
+    - 362/
+    - 'Andre Miller (On: -34&#9642;Off: 0&#9642;Net: -34)'
+    - |2-
+
+      -7
+    - 250/-7
+    - 250/-12
+    - 170/-8
+    - 80/
+    - 219/-7
+    - 29/
+    - 'Lamond Murray (On: -18&#9642;Off: -16&#9642;Net: -2)'
+    - |2-
+
+      -5
+    - 183/-5
+    - 114/
+    - 46/-7
+    - 155/
+    - 148/-7
+    - 145/
+    - 132/+1
+    - 73/
+    - 'Clarence Weatherspoon (On: -14&#9642;Off: -20&#9642;Net: +6)'
+    - |2-
+
+      -7
+    - 250/-7
+    - 100/
+    - 150/+1
+    - 166/-8
+    - 333/
+    - 'Chris Gatling (On: -16&#9642;Off: -18&#9642;Net: +2)'
+    - "\n"
+    - 188/
+    - 61/-2
+    - 81/-11
+    - 419/
+    - 250/-3
+    - 'Trajan Langdon (On: -26&#9642;Off: -8&#9642;Net: -18)'
+    - "\n"
+    - 188/
+    - 61/-2
+    - 249/-12
+    - 100/
+    - 149/-9
+    - 37/-7
+    - 188/
+    - 24/+4
+    - 'Robert Traylor (On: -20&#9642;Off: -14&#9642;Net: -6)'
+    - "\n"
+    - 250/
+    - 95/-13
+    - 294/
+    - 110/-7
+    - 250/
+    - 'Cedric Henderson (On: -3&#9642;Off: -31&#9642;Net: +28)'
+    - "\n"
+    - 349/
+    - 150/+1
+    - 155/
+    - 95/-5
+    - 157/
+    - 92/+1
+    - 'Chris Mihm (On: 0&#9642;Off: -34&#9642;Net: +34)'
+    - "\n"
+    - 402/
+    - 97/+7
+    - 170/
+    - 80/-4
+    - 250/-3
+    - 'Wesley Person (On: -8&#9642;Off: -26&#9642;Net: +18)'
+    - "\n"
+    - 671/
+    - 78/-4
+    - 37/-7
+    - 147/
+    - 66/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

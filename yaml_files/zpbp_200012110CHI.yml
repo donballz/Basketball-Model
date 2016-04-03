@@ -1,0 +1,2448 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: E. Brand vs. C. Dudley (J. Kidd gains possession)'
+  - - '11:40.0'
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - C. Benjamin misses 3-pt shot from 25 ft
+  - - '11:28.0'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:28.0'
+    - Loose ball foul by M. World Peace
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:06.0'
+    - C. Dudley misses 2-pt shot from 6 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '10:47.0'
+    - ''
+    - ''
+    - 2-3
+    - "+3"
+    - C. Benjamin makes 3-pt shot from 24 ft
+  - - '10:33.0'
+    - S. Marion misses 2-pt shot at rim
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - Defensive rebound by C. Benjamin
+  - - '10:23.0'
+    - ''
+    - ''
+    - 2-5
+    - "+2"
+    - E. Brand makes 2-pt shot from 7 ft (assist by F. Hoiberg)
+  - - '10:05.0'
+    - Turnover by C. Robinson (lost ball; steal by M. World Peace)
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 2-7
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim
+  - - '9:43.0'
+    - J. Kidd makes 2-pt shot at rim (assist by C. Robinson)
+    - "+2"
+    - 4-7
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 4-7
+    - ''
+    - Turnover by M. World Peace (lost ball; steal by C. Robinson)
+  - - '9:18.0'
+    - M. Elie misses 2-pt shot at rim
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '9:16.0'
+    - S. Marion makes 2-pt shot at rim
+    - "+2"
+    - 6-7
+    - ''
+    - ''
+  - - '9:16.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 6-9
+    - "+2"
+    - M. World Peace makes 2-pt shot from 19 ft (assist by C. Benjamin)
+  - - '8:30.0'
+    - Turnover by S. Marion (no)
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - E. Brand misses 2-pt shot from 12 ft
+  - - '8:14.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '8:09.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 9-9
+    - ''
+    - ''
+  - - '8:09.0'
+    - Shooting foul by M. World Peace
+    - ''
+    - 9-9
+    - ''
+    - ''
+  - - '8:09.0'
+    - C. Robinson makes free throw 1 of 1
+    - "+1"
+    - 10-9
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 10-9
+    - ''
+    - Personal foul by C. Robinson
+  - - '8:00.0'
+    - ''
+    - ''
+    - 10-9
+    - ''
+    - K. El-Amin enters the game for M. World Peace
+  - - '7:48.0'
+    - ''
+    - ''
+    - 10-11
+    - "+2"
+    - E. Brand makes 2-pt shot from 9 ft
+  - - '7:31.0'
+    - C. Dudley misses 2-pt shot from 5 ft
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Defensive rebound by E. Brand
+  - - '7:22.0'
+    - ''
+    - ''
+    - 10-13
+    - "+2"
+    - R. Mercer makes 2-pt shot from 13 ft (assist by K. El-Amin)
+  - - '6:56.0'
+    - M. Elie misses 3-pt shot from 24 ft
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by E. Brand
+  - - '6:47.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - R. Mercer makes 2-pt shot from 19 ft
+  - - '6:30.0'
+    - S. Marion makes 2-pt shot from 13 ft
+    - "+2"
+    - 12-15
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 12-17
+    - "+2"
+    - E. Brand makes 2-pt shot from 7 ft (assist by F. Hoiberg)
+  - - '5:51.0'
+    - M. Elie misses 2-pt shot at rim (block by E. Brand)
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - Defensive rebound by E. Brand
+  - - '5:41.0'
+    - ''
+    - ''
+    - 12-17
+    - ''
+    - F. Hoiberg misses 2-pt shot at rim
+  - - '5:39.0'
+    - Defensive rebound by M. Elie
+    - ''
+    - 12-17
+    - ''
+    - ''
+  - - '5:28.0'
+    - C. Robinson makes 2-pt shot from 15 ft (assist by J. Kidd)
+    - "+2"
+    - 14-17
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Chicago full timeout
+  - - '5:07.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Shooting foul by C. Robinson
+  - - '5:07.0'
+    - ''
+    - ''
+    - 14-18
+    - "+1"
+    - E. Brand makes free throw 1 of 2
+  - - '5:07.0'
+    - ''
+    - ''
+    - 14-18
+    - ''
+    - M. Ruffin enters the game for C. Benjamin
+  - - '5:07.0'
+    - T. Gugliotta enters the game for C. Robinson
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 14-19
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '5:07.0'
+    - R. Rogers enters the game for C. Dudley
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '4:48.0'
+    - Personal foul by E. Brand
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '4:43.0'
+    - R. Rogers makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 17-19
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Turnover by R. Mercer (lost ball)
+  - - '4:04.0'
+    - R. Rogers misses 2-pt shot from 6 ft
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '3:40.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - M. Ruffin misses 2-pt shot at rim
+  - - '3:36.0'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:31.0'
+    - R. Rogers misses 3-pt shot from 23 ft
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:29.0'
+    - Offensive rebound by J. Kidd
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:29.0'
+    - Personal foul by K. El-Amin
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:13.0'
+    - M. Elie misses 2-pt shot from 15 ft
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Defensive rebound by Team
+  - - '3:13.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Loose ball foul by T. Gugliotta
+  - - '2:58.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - E. Brand misses 2-pt shot from 12 ft
+  - - '2:56.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Offensive rebound by M. Ruffin
+  - - '2:54.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - K. El-Amin misses 3-pt shot from 26 ft
+  - - '2:52.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '2:40.0'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Defensive rebound by Team
+  - - '2:39.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Chicago full timeout
+  - - '2:39.0'
+    - T. Delk enters the game for M. Elie
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - K. El-Amin misses 2-pt shot from 5 ft
+  - - '2:18.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '2:15.0'
+    - J. Kidd makes 2-pt shot from 15 ft
+    - "+2"
+    - 19-19
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - R. Mercer misses 2-pt shot from 7 ft
+  - - '2:03.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:46.0'
+    - R. Rogers misses 2-pt shot from 9 ft
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Defensive rebound by E. Brand
+  - - '1:30.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - R. Mercer misses 2-pt shot from 18 ft
+  - - '1:28.0'
+    - ''
+    - ''
+    - 19-21
+    - "+2"
+    - E. Brand makes 2-pt shot at rim
+  - - '1:28.0'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - Offensive rebound by E. Brand
+  - - '1:01.0'
+    - J. Kidd misses 2-pt shot from 22 ft
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '0:58.6'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '0:56.0'
+    - ''
+    - ''
+    - 19-23
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by K. El-Amin)
+  - - '0:38.9'
+    - T. Delk misses 2-pt shot from 12 ft
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:36.9'
+    - Offensive rebound by T. Gugliotta
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:33.9'
+    - R. Rogers misses 3-pt shot from 25 ft
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 19-23
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '0:28.9'
+    - ''
+    - ''
+    - 19-23
+    - ''
+    - K. El-Amin misses 2-pt shot at rim
+  - - '0:25.4'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:22.5'
+    - Turnover by T. Delk (traveling)
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:22.5'
+    - C. Blount enters the game for S. Marion
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 19-25
+    - "+2"
+    - E. Brand makes 2-pt shot from 8 ft (assist by F. Hoiberg)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 19-25
+    - ''
+    - E. Brand misses 2-pt shot from 10 ft
+  - - '11:38.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 19-25
+    - ''
+    - ''
+  - - '11:28.0'
+    - Turnover by E. Perry (bad pass; steal by R. Mercer)
+    - ''
+    - 19-25
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 19-27
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim (assist by R. Mercer)
+  - - '11:13.0'
+    - Personal foul by E. Brand
+    - ''
+    - 19-27
+    - ''
+    - ''
+  - - '11:04.0'
+    - T. Delk misses 2-pt shot at rim
+    - ''
+    - 19-27
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 19-27
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '10:43.0'
+    - ''
+    - ''
+    - 19-27
+    - ''
+    - R. Mercer misses 2-pt shot from 12 ft
+  - - '10:41.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 19-27
+    - ''
+    - ''
+  - - '10:32.0'
+    - Turnover by T. Gugliotta (bad pass; steal by R. Mercer)
+    - ''
+    - 19-27
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 19-29
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim
+  - - '10:13.0'
+    - E. Perry makes 2-pt shot from 21 ft
+    - "+2"
+    - 21-29
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - K. El-Amin misses 2-pt shot from 17 ft
+  - - '9:44.0'
+    - Defensive rebound by Team
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '9:27.0'
+    - T. Gugliotta makes 2-pt shot from 14 ft (assist by R. Rogers)
+    - "+2"
+    - 23-29
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Personal foul by C. Blount
+  - - '9:06.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Personal foul by R. Rogers
+  - - '9:00.0'
+    - ''
+    - ''
+    - 23-31
+    - "+2"
+    - K. El-Amin makes 2-pt shot at rim
+  - - '8:41.0'
+    - E. Perry misses 2-pt shot at rim
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - Defensive rebound by E. Brand
+  - - '8:33.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - Shooting foul by T. Delk
+  - - '8:33.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - Chicago full timeout
+  - - '8:33.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - F. Hoiberg enters the game for K. El-Amin
+  - - '8:33.0'
+    - C. Robinson enters the game for T. Gugliotta
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 23-32
+    - "+1"
+    - R. Mercer makes free throw 1 of 2
+  - - '8:33.0'
+    - ''
+    - ''
+    - 23-33
+    - "+1"
+    - R. Mercer makes free throw 2 of 2
+  - - '8:20.0'
+    - E. Perry makes 2-pt shot from 18 ft (assist by R. Rogers)
+    - "+2"
+    - 25-33
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - Shooting foul by C. Blount
+  - - '7:54.0'
+    - ''
+    - ''
+    - 25-34
+    - "+1"
+    - F. Hoiberg makes free throw 1 of 2
+  - - '7:54.0'
+    - ''
+    - ''
+    - 25-35
+    - "+1"
+    - F. Hoiberg makes free throw 2 of 2
+  - - '7:44.0'
+    - C. Robinson makes 2-pt shot at rim (assist by R. Rogers)
+    - "+2"
+    - 27-35
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 27-35
+    - ''
+    - Personal foul by R. Rogers
+  - - '7:31.0'
+    - ''
+    - ''
+    - 27-36
+    - "+1"
+    - M. World Peace makes free throw 1 of 2
+  - - '7:31.0'
+    - ''
+    - ''
+    - 27-36
+    - ''
+    - M. World Peace misses free throw 2 of 2
+  - - '7:30.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '7:12.0'
+    - R. Rogers makes 2-pt shot at rim
+    - "+2"
+    - 29-36
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 29-36
+    - ''
+    - Turnover by M. World Peace (bad pass; steal by C. Robinson)
+  - - '6:53.0'
+    - R. Rogers makes 2-pt shot from 4 ft (assist by C. Robinson)
+    - "+2"
+    - 31-36
+    - ''
+    - ''
+  - - '6:53.0'
+    - Shooting foul by M. World Peace
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - C. Benjamin enters the game for M. World Peace
+  - - '6:53.0'
+    - S. Marion enters the game for C. Blount
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '6:53.0'
+    - R. Rogers makes free throw 1 of 1
+    - "+1"
+    - 32-36
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 32-38
+    - "+2"
+    - R. Mercer makes 2-pt shot from 12 ft (assist by F. Hoiberg)
+  - - '6:19.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by R. Rogers)
+    - "+3"
+    - 35-38
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Turnover by R. Mercer (traveling)
+  - - '6:07.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Violation by Team (delay of game)
+  - - '5:53.0'
+    - Turnover by C. Robinson (out of bounds)
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Chicago full timeout
+  - - '5:32.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - F. Hoiberg misses 3-pt shot from 26 ft
+  - - '5:27.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:15.0'
+    - R. Rogers misses 2-pt shot from 10 ft (block by C. Benjamin)
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '5:01.0'
+    - ''
+    - ''
+    - 35-40
+    - "+2"
+    - E. Brand makes 2-pt shot at rim (assist by C. Benjamin)
+  - - '4:46.0'
+    - Personal foul by E. Brand
+    - ''
+    - 35-40
+    - ''
+    - ''
+  - - '4:46.0'
+    - J. Kidd enters the game for E. Perry
+    - ''
+    - 35-40
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 35-40
+    - ''
+    - D. Tarlac enters the game for E. Brand
+  - - '4:38.0'
+    - C. Robinson makes 2-pt shot from 7 ft (assist by S. Marion)
+    - "+2"
+    - 37-40
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 37-42
+    - "+2"
+    - R. Mercer makes 2-pt shot from 12 ft
+  - - '4:00.0'
+    - R. Rogers makes 2-pt shot at rim (assist by J. Kidd)
+    - "+2"
+    - 39-42
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - R. Mercer misses 2-pt shot from 21 ft
+  - - '3:36.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '3:27.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 42-42
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - F. Hoiberg misses 2-pt shot at rim
+  - - '3:03.0'
+    - Defensive rebound by Team
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - K. El-Amin enters the game for C. Benjamin
+  - - '3:03.0'
+    - M. Elie enters the game for T. Delk
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '2:43.0'
+    - Turnover by C. Robinson (lost ball; steal by R. Mercer)
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - Turnover by R. Mercer (lost ball)
+  - - '2:41.0'
+    - Phoenix full timeout
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '2:35.0'
+    - Personal foul by D. Tarlac
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '2:23.0'
+    - S. Marion misses 2-pt shot from 6 ft
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '2:07.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - D. Tarlac misses 2-pt shot from 8 ft
+  - - '2:06.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '1:46.0'
+    - S. Marion misses 2-pt shot from 14 ft
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - Defensive rebound by M. Ruffin
+  - - '1:34.0'
+    - ''
+    - ''
+    - 42-44
+    - "+2"
+    - D. Tarlac makes 2-pt shot from 3 ft (assist by F. Hoiberg)
+  - - '1:16.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '1:16.0'
+    - R. Rogers makes free throw 1 of 2
+    - "+1"
+    - 43-44
+    - ''
+    - ''
+  - - '1:16.0'
+    - R. Rogers makes free throw 2 of 2
+    - "+1"
+    - 44-44
+    - ''
+    - ''
+  - - '0:56.5'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Offensive foul by R. Mercer
+  - - '0:56.5'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Turnover by R. Mercer (foul)
+  - - '0:38.9'
+    - C. Robinson misses 3-pt shot from 26 ft
+    - ''
+    - 44-44
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '0:15.9'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - R. Mercer misses 3-pt shot from 26 ft
+  - - '0:13.5'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Offensive rebound by M. Ruffin
+  - - '0:13.5'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Turnover by M. Ruffin (lost ball)
+  - - '0:00.0'
+    - Turnover by J. Kidd (bad pass; steal by F. Hoiberg)
+    - ''
+    - 44-44
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - M. World Peace misses 2-pt shot at rim
+  - - '11:41.0'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Offensive rebound by M. World Peace
+  - - '11:40.0'
+    - ''
+    - ''
+    - 44-46
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim
+  - - '11:30.0'
+    - Offensive foul by C. Dudley
+    - ''
+    - 44-46
+    - ''
+    - ''
+  - - '11:30.0'
+    - Turnover by C. Dudley (foul)
+    - ''
+    - 44-46
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 44-46
+    - ''
+    - Personal foul by C. Dudley
+  - - '11:00.0'
+    - ''
+    - ''
+    - 44-46
+    - ''
+    - M. World Peace misses 2-pt shot from 11 ft
+  - - '10:58.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 44-46
+    - ''
+    - ''
+  - - '10:53.0'
+    - R. Rogers enters the game for C. Robinson
+    - ''
+    - 44-46
+    - ''
+    - ''
+  - - '10:43.0'
+    - M. Elie makes 2-pt shot from 10 ft (assist by R. Rogers)
+    - "+2"
+    - 46-46
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 46-48
+    - "+2"
+    - M. World Peace makes 2-pt shot from 11 ft
+  - - '10:08.0'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '10:06.0'
+    - C. Dudley misses 2-pt shot at rim
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '10:06.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '10:05.0'
+    - C. Dudley misses 2-pt shot at rim
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '10:05.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '9:50.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - F. Hoiberg misses 3-pt shot from 26 ft
+  - - '9:48.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '9:36.0'
+    - R. Rogers misses 2-pt shot from 11 ft
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '9:34.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '9:34.0'
+    - Turnover by C. Dudley (traveling)
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '9:34.0'
+    - C. Robinson enters the game for C. Dudley
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 46-50
+    - "+2"
+    - R. Mercer makes 2-pt shot from 17 ft
+  - - '8:54.0'
+    - S. Marion misses 2-pt shot from 20 ft
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '8:53.0'
+    - Offensive rebound by C. Robinson
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '8:53.0'
+    - Shooting foul by F. Hoiberg
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '8:53.0'
+    - C. Robinson misses free throw 1 of 2
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '8:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '8:53.0'
+    - C. Robinson makes free throw 2 of 2
+    - "+1"
+    - 47-50
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - R. Mercer misses 2-pt shot from 11 ft
+  - - '8:37.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '8:27.0'
+    - C. Robinson misses 2-pt shot from 11 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Defensive rebound by E. Brand
+  - - '8:19.0'
+    - ''
+    - ''
+    - 47-52
+    - "+2"
+    - C. Benjamin makes 2-pt shot from 10 ft
+  - - '8:02.0'
+    - R. Rogers misses 2-pt shot from 9 ft (block by E. Brand)
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 47-52
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '7:53.0'
+    - ''
+    - ''
+    - 47-52
+    - ''
+    - Turnover by R. Mercer (bad pass)
+  - - '7:47.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '7:47.0'
+    - J. Kidd misses free throw 1 of 2
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '7:47.0'
+    - Offensive rebound by Team
+    - ''
+    - 47-52
+    - ''
+    - ''
+  - - '7:47.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 48-52
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 48-54
+    - "+2"
+    - M. World Peace makes 2-pt shot at rim
+  - - '7:37.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Shooting foul by R. Rogers
+  - - '7:37.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - M. World Peace misses free throw 1 of 1
+  - - '7:36.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '7:20.0'
+    - Turnover by R. Rogers (bad pass; steal by F. Hoiberg)
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - E. Brand misses 2-pt shot from 7 ft
+  - - '7:03.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:53.0'
+    - M. Elie misses 3-pt shot from 23 ft
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '6:47.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Turnover by M. World Peace (traveling)
+  - - '6:36.0'
+    - S. Marion misses 3-pt shot from 24 ft
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '6:20.0'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - R. Mercer misses 2-pt shot from 15 ft
+  - - '6:18.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:12.0'
+    - Shooting foul by C. Benjamin
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:12.0'
+    - J. Kidd misses free throw 1 of 2
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:12.0'
+    - Phoenix full timeout
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '6:12.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 49-54
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 49-54
+    - ''
+    - Offensive foul by C. Benjamin
+  - - '5:58.0'
+    - ''
+    - ''
+    - 49-54
+    - ''
+    - Turnover by C. Benjamin (foul)
+  - - '5:49.0'
+    - R. Rogers makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 52-54
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - C. Benjamin misses 2-pt shot from 19 ft
+  - - '5:30.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Offensive rebound by Team
+  - - '5:30.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Loose ball foul by C. Robinson
+  - - '5:30.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - K. El-Amin enters the game for C. Benjamin
+  - - '5:08.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - E. Brand misses 2-pt shot from 7 ft (block by C. Robinson)
+  - - '5:05.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Offensive rebound by E. Brand
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - E. Brand misses 2-pt shot from 12 ft
+  - - '5:01.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Offensive rebound by R. Mercer
+  - - '4:48.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - R. Mercer misses 2-pt shot at rim
+  - - '4:48.0'
+    - ''
+    - ''
+    - 52-56
+    - "+2"
+    - E. Brand makes 2-pt shot at rim
+  - - '4:48.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Offensive rebound by E. Brand
+  - - '4:48.0'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Shooting foul by M. Elie
+  - - '4:48.0'
+    - T. Gugliotta enters the game for S. Marion
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 52-57
+    - "+1"
+    - E. Brand makes free throw 1 of 1
+  - - '4:37.0'
+    - T. Gugliotta misses 2-pt shot from 11 ft (block by E. Brand)
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '4:20.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - R. Mercer misses 2-pt shot from 15 ft
+  - - '4:17.0'
+    - Defensive rebound by M. Elie
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '4:06.0'
+    - M. Elie makes 3-pt shot from 25 ft (assist by J. Kidd)
+    - "+3"
+    - 55-57
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - M. World Peace misses 3-pt shot from 25 ft
+  - - '3:33.0'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '3:23.0'
+    - T. Gugliotta misses 2-pt shot from 19 ft
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Defensive rebound by E. Brand
+  - - '3:11.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - R. Mercer misses 2-pt shot from 19 ft
+  - - '3:09.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '3:07.0'
+    - Personal foul by K. El-Amin
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '2:59.0'
+    - J. Kidd misses 2-pt shot at rim
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '2:57.0'
+    - Offensive rebound by T. Gugliotta
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '2:43.0'
+    - J. Kidd makes 2-pt shot from 8 ft (assist by R. Rogers)
+    - "+2"
+    - 57-57
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - Shooting foul by T. Gugliotta
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - Chicago full timeout
+  - - '2:22.0'
+    - T. Delk enters the game for M. Elie
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - E. Brand misses free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - Offensive rebound by Team
+  - - '2:22.0'
+    - Violation by T. Gugliotta (lane)
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - M. Ruffin enters the game for M. World Peace
+  - - '2:22.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - E. Brand misses free throw 2 of 2
+  - - '2:21.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '2:09.0'
+    - Turnover by C. Robinson (bad pass; steal by K. El-Amin)
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 57-57
+    - ''
+    - K. El-Amin misses 2-pt shot from 15 ft
+  - - '2:00.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '1:54.0'
+    - T. Delk misses 2-pt shot at rim
+    - ''
+    - 57-57
+    - ''
+    - ''
+  - - '1:51.0'
+    - T. Gugliotta makes 2-pt shot at rim
+    - "+2"
+    - 59-57
+    - ''
+    - ''
+  - - '1:51.0'
+    - Offensive rebound by T. Gugliotta
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '1:40.0'
+    - Violation by R. Rogers (illegal defense)
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Turnover by K. El-Amin (bad pass; steal by T. Gugliotta)
+  - - '1:16.0'
+    - R. Rogers misses 3-pt shot from 24 ft
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '0:53.9'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - R. Mercer misses 2-pt shot from 12 ft (block by R. Rogers)
+  - - '0:49.9'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '0:48.7'
+    - J. Kidd makes 2-pt shot at rim (assist by R. Rogers)
+    - "+2"
+    - 61-57
+    - ''
+    - ''
+  - - '0:27.9'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - E. Brand misses 2-pt shot from 9 ft
+  - - '0:26.5'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 61-57
+    - ''
+    - ''
+  - - '0:01.9'
+    - C. Robinson makes 3-pt shot from 24 ft (assist by T. Delk)
+    - "+3"
+    - 64-57
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - T. Delk makes 2-pt shot from 20 ft (assist by J. Kidd)
+    - "+2"
+    - 66-57
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 66-57
+    - ''
+    - Turnover by R. Mercer (traveling)
+  - - '11:07.0'
+    - T. Gugliotta makes 2-pt shot at rim (assist by R. Rogers)
+    - "+2"
+    - 68-57
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 68-57
+    - ''
+    - Shooting foul by C. Robinson
+  - - '10:43.0'
+    - ''
+    - ''
+    - 68-57
+    - ''
+    - M. Ruffin misses free throw 1 of 2
+  - - '10:43.0'
+    - ''
+    - ''
+    - 68-57
+    - ''
+    - Offensive rebound by Team
+  - - '10:43.0'
+    - ''
+    - ''
+    - 68-57
+    - ''
+    - M. Ruffin misses free throw 2 of 2
+  - - '10:42.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 68-57
+    - ''
+    - ''
+  - - '10:26.0'
+    - T. Delk makes 3-pt shot from 26 ft (assist by R. Rogers)
+    - "+3"
+    - 71-57
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 71-59
+    - "+2"
+    - R. Mercer makes 2-pt shot from 17 ft (assist by K. El-Amin)
+  - - '9:39.0'
+    - C. Robinson makes 2-pt shot from 16 ft (assist by J. Kidd)
+    - "+2"
+    - 73-59
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 73-59
+    - ''
+    - M. World Peace misses 2-pt shot at rim
+  - - '9:15.0'
+    - ''
+    - ''
+    - 73-61
+    - "+2"
+    - E. Brand makes 2-pt shot at rim
+  - - '9:15.0'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - Offensive rebound by E. Brand
+  - - '8:52.0'
+    - R. Rogers misses 2-pt shot from 7 ft
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '8:35.0'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - R. Mercer misses 2-pt shot from 17 ft
+  - - '8:33.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '8:29.0'
+    - T. Delk makes 2-pt shot from 20 ft (assist by J. Kidd)
+    - "+2"
+    - 75-61
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 75-61
+    - ''
+    - Chicago full timeout
+  - - '8:23.0'
+    - ''
+    - ''
+    - 75-61
+    - ''
+    - D. Tarlac enters the game for M. Ruffin
+  - - '8:07.0'
+    - ''
+    - ''
+    - 75-63
+    - "+2"
+    - R. Mercer makes 2-pt shot from 15 ft
+  - - '7:49.0'
+    - Personal foul by K. El-Amin
+    - ''
+    - 75-63
+    - ''
+    - ''
+  - - '7:41.0'
+    - T. Gugliotta misses 2-pt shot from 10 ft
+    - ''
+    - 75-63
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 75-63
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '7:26.0'
+    - ''
+    - ''
+    - 75-63
+    - ''
+    - Personal foul by J. Kidd
+  - - '7:22.0'
+    - ''
+    - ''
+    - 75-63
+    - ''
+    - K. El-Amin misses 2-pt shot from 16 ft
+  - - '7:20.0'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 75-63
+    - ''
+    - ''
+  - - '7:12.0'
+    - T. Delk misses 3-pt shot from 25 ft
+    - ''
+    - 75-63
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 75-63
+    - ''
+    - Defensive rebound by Team
+  - - '6:55.0'
+    - ''
+    - ''
+    - 75-65
+    - "+2"
+    - R. Mercer makes 2-pt shot from 15 ft (assist by K. El-Amin)
+  - - '6:32.0'
+    - R. Rogers misses 2-pt shot at rim
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - Defensive rebound by D. Tarlac
+  - - '6:24.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - M. World Peace misses 3-pt shot from 24 ft
+  - - '6:21.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '6:17.0'
+    - Turnover by J. Kidd (bad pass; steal by K. El-Amin)
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - R. Mercer misses 2-pt shot from 17 ft
+  - - '5:56.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - Offensive rebound by D. Tarlac
+  - - '5:48.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - Ill def tech foul by Team
+  - - '5:48.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - Chicago full timeout
+  - - '5:48.0'
+    - S. Marion enters the game for T. Gugliotta
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 75-66
+    - "+1"
+    - R. Mercer makes free throw technical
+  - - '5:34.0'
+    - ''
+    - ''
+    - 75-68
+    - "+2"
+    - E. Brand makes 2-pt shot at rim (assist by D. Tarlac)
+  - - '5:19.0'
+    - Turnover by T. Delk (bad pass; steal by R. Mercer)
+    - ''
+    - 75-68
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 75-70
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim
+  - - '4:51.0'
+    - C. Robinson misses 2-pt shot from 17 ft
+    - ''
+    - 75-70
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 75-70
+    - ''
+    - Defensive rebound by Team
+  - - '4:34.0'
+    - ''
+    - ''
+    - 75-72
+    - "+2"
+    - E. Brand makes 2-pt shot from 7 ft (assist by K. El-Amin)
+  - - '4:34.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Shooting foul by C. Robinson
+  - - '4:34.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - E. Brand misses free throw 1 of 1
+  - - '4:34.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Offensive rebound by D. Tarlac
+  - - '4:19.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Personal foul by C. Robinson
+  - - '4:19.0'
+    - T. Gugliotta enters the game for C. Robinson
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:19.0'
+    - Technical foul by C. Robinson
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 75-73
+    - "+1"
+    - R. Mercer makes free throw technical
+  - - '4:13.0'
+    - ''
+    - ''
+    - 75-73
+    - ''
+    - E. Brand misses 2-pt shot from 16 ft
+  - - '4:11.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '3:55.0'
+    - R. Rogers makes 2-pt shot from 11 ft (assist by J. Kidd)
+    - "+2"
+    - 77-73
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - R. Mercer misses 2-pt shot from 19 ft
+  - - '3:27.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 77-73
+    - ''
+    - ''
+  - - '3:07.0'
+    - T. Gugliotta makes 2-pt shot from 12 ft (assist by J. Kidd)
+    - "+2"
+    - 79-73
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - Chicago 20 second timeout
+  - - '2:58.0'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - Chicago full timeout
+  - - '2:44.0'
+    - ''
+    - ''
+    - 79-75
+    - "+2"
+    - K. El-Amin makes 2-pt shot at rim (assist by D. Tarlac)
+  - - '2:20.0'
+    - T. Gugliotta misses 2-pt shot from 7 ft
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '1:56.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Turnover by D. Tarlac (bad pass; steal by T. Gugliotta)
+  - - '1:39.0'
+    - Turnover by T. Delk (lost ball; steal by K. El-Amin)
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - M. World Peace misses 2-pt shot at rim
+  - - '1:14.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '1:10.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '1:05.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '1:05.0'
+    - J. Kidd makes free throw 1 of 2
+    - "+1"
+    - 80-75
+    - ''
+    - ''
+  - - '1:05.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 81-75
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 81-75
+    - ''
+    - Chicago full timeout
+  - - '1:00.0'
+    - ''
+    - ''
+    - 81-75
+    - ''
+    - R. Mercer misses 2-pt shot from 19 ft
+  - - '0:57.7'
+    - Defensive rebound by T. Delk
+    - ''
+    - 81-75
+    - ''
+    - ''
+  - - '0:56.6'
+    - Personal foul by E. Brand
+    - ''
+    - 81-75
+    - ''
+    - ''
+  - - '0:56.6'
+    - T. Delk makes free throw 1 of 2
+    - "+1"
+    - 82-75
+    - ''
+    - ''
+  - - '0:56.6'
+    - T. Delk makes free throw 2 of 2
+    - "+1"
+    - 83-75
+    - ''
+    - ''
+  - - '0:56.6'
+    - ''
+    - ''
+    - 83-75
+    - ''
+    - Chicago full timeout
+  - - '0:56.6'
+    - ''
+    - ''
+    - 83-75
+    - ''
+    - C. Benjamin enters the game for D. Tarlac
+  - - '0:51.9'
+    - ''
+    - ''
+    - 83-75
+    - ''
+    - C. Benjamin misses 3-pt shot from 26 ft
+  - - '0:49.6'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 83-75
+    - ''
+    - ''
+  - - '0:45.6'
+    - Personal foul by R. Mercer
+    - ''
+    - 83-75
+    - ''
+    - ''
+  - - '0:45.6'
+    - T. Delk makes free throw 1 of 2
+    - "+1"
+    - 84-75
+    - ''
+    - ''
+  - - '0:45.6'
+    - P. McPherson enters the game for J. Kidd
+    - ''
+    - 84-75
+    - ''
+    - ''
+  - - '0:45.6'
+    - T. Delk makes free throw 2 of 2
+    - "+1"
+    - 85-75
+    - ''
+    - ''
+  - - '0:37.2'
+    - ''
+    - ''
+    - 85-77
+    - "+2"
+    - K. El-Amin makes 2-pt shot at rim
+  - - '0:35.9'
+    - Personal foul by E. Brand
+    - ''
+    - 85-77
+    - ''
+    - ''
+  - - '0:35.9'
+    - T. Gugliotta misses free throw 1 of 2
+    - ''
+    - 85-77
+    - ''
+    - ''
+  - - '0:35.9'
+    - Offensive rebound by Team
+    - ''
+    - 85-77
+    - ''
+    - ''
+  - - '0:35.9'
+    - T. Gugliotta misses free throw 2 of 2
+    - ''
+    - 85-77
+    - ''
+    - ''
+  - - '0:34.4'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - Defensive rebound by C. Benjamin
+  - - '0:28.9'
+    - ''
+    - ''
+    - 85-80
+    - "+3"
+    - M. World Peace makes 3-pt shot from 26 ft (assist by C. Benjamin)
+  - - '0:27.6'
+    - Personal foul by R. Mercer
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:27.6'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - J. Crawford enters the game for R. Mercer
+  - - '0:27.6'
+    - P. McPherson misses free throw 1 of 2
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:27.6'
+    - Offensive rebound by Team
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:27.6'
+    - P. McPherson misses free throw 2 of 2
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:25.9'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '0:14.9'
+    - ''
+    - ''
+    - 85-80
+    - ''
+    - M. World Peace misses 3-pt shot from 25 ft
+  - - '0:14.2'
+    - Defensive rebound by Team
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:10.8'
+    - Personal foul by M. World Peace
+    - ''
+    - 85-80
+    - ''
+    - ''
+  - - '0:10.8'
+    - T. Delk makes free throw 1 of 2
+    - "+1"
+    - 86-80
+    - ''
+    - ''
+  - - '0:10.8'
+    - T. Delk misses free throw 2 of 2
+    - ''
+    - 86-80
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 86-80
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '0:06.9'
+    - ''
+    - ''
+    - 86-80
+    - ''
+    - Turnover by M. World Peace (bad pass; steal by P. McPherson)
+  - - '0:00.0'
+    - End of 4th quarter

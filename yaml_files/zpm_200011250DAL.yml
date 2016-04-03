@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Keon Clark (On: -27&#9642;Off: +3&#9642;Net: -30)'
+    - |2-
+
+      -6
+    - 134/-6
+    - 115/
+    - 175/-10
+    - 74/
+    - 155/-5
+    - 113/
+    - 231/-6
+    - 'Voshon Lenard (On: -8&#9642;Off: -16&#9642;Net: +8)'
+    - |2-
+
+      -1
+    - 167/-1
+    - 220/
+    - 113/+1
+    - 106/-8
+    - 393/
+    - 'Antonio McDyess (On: -18&#9642;Off: -6&#9642;Net: -12)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 86/
+    - 163/-1
+    - 249/-9
+    - 35/0
+    - 100/
+    - 28/-6
+    - 86/
+    - 'James Posey (On: -11&#9642;Off: -13&#9642;Net: +2)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 137/
+    - 113/+1
+    - 193/-6
+    - 190/
+    - 57/-4
+    - 58/
+    - 'Nick Van Exel (On: -15&#9642;Off: -9&#9642;Net: -6)'
+    - |2-
+
+      -4
+    - 216/-4
+    - 170/
+    - 113/+1
+    - 193/-6
+    - 56/
+    - 163/-6
+    - 86/
+    - 'Raef LaFrentz (On: -3&#9642;Off: -21&#9642;Net: +18)'
+    - "\n"
+    - 139/
+    - 110/+4
+    - 81/-6
+    - 97/
+    - 70/+3
+    - 155/
+    - 94/-4
+    - 17/0
+    - 232/
+    - 'Tariq Abdul-Wahad (On: -9&#9642;Off: -15&#9642;Net: +6)'
+    - "\n"
+    - 170/
+    - 80/-1
+    - 132/-8
+    - 618/
+    - 'Robert Pack (On: -7&#9642;Off: -17&#9642;Net: +10)'
+    - "\n"
+    - 221/
+    - 28/+2
+    - 132/-8
+    - 226/
+    - 141/-1
+    - 169/
+    - 80/0
+    - 'George McCloud (On: -17&#9642;Off: -7&#9642;Net: -10)'
+    - "\n"
+    - 250/
+    - 132/-8
+    - 316/
+    - 51/-3
+    - 250/-6
+    - 'Tracy Murray (On: -5&#9642;Off: -19&#9642;Net: +14)'
+    - "\n"
+    - 698/
+    - 51/-3
+    - 130/0
+    - 63/
+    - 57/-2
+    - 'Terry Davis (On: 0&#9642;Off: -24&#9642;Net: +24)'
+    - "\n"
+    - 790/
+    - 91/0
+    - 120/
+    - 'Mark Strickland (On: 0&#9642;Off: -24&#9642;Net: +24)'
+    - "\n"
+    - 921/
+    - 81/0
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Hubert Davis (On: +24&#9642;Off: 0&#9642;Net: +24)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 81/+6
+    - 141/
+    - 26/+1
+    - 122/+8
+    - 76/
+    - 51/+3
+    - 191/+4
+    - 58/
+    - 'Michael Finley (On: +20&#9642;Off: +4&#9642;Net: +16)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 215/+6
+    - 34/
+    - 193/+6
+    - 56/
+    - 163/+6
+    - 87/
+    - 'Christian Laettner (On: +9&#9642;Off: +15&#9642;Net: -6)'
+    - |2-
+
+      +1
+    - 157/+1
+    - 343/
+    - 106/+8
+    - 394/
+    - 'Steve Nash (On: +14&#9642;Off: +10&#9642;Net: +4)'
+    - |2-
+
+      +4
+    - 217/+4
+    - 119/
+    - 164/+1
+    - 250/+9
+    - 249/
+    - 'Dirk Nowitzki (On: +25&#9642;Off: -1&#9642;Net: +26)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 132/+8
+    - 117/
+    - 241/+9
+    - 83/
+    - 88/+6
+    - 87/
+    - 'Shawn Bradley (On: +9&#9642;Off: +15&#9642;Net: -6)'
+    - "\n"
+    - 164/
+    - 86/+1
+    - 249/+7
+    - 108/
+    - 141/+1
+    - 71/0
+    - 178/
+    - 'Howard Eisley (On: +12&#9642;Off: +12&#9642;Net: 0)'
+    - "\n"
+    - 221/
+    - 28/-2
+    - 250/+7
+    - 127/
+    - 122/+1
+    - 250/+6
+    - 'Loy Vaught (On: +5&#9642;Off: +19&#9642;Net: -14)'
+    - "\n"
+    - 387/
+    - 113/-1
+    - 249/
+    - 1/0
+    - 249/+6
+    - 'Courtney Alexander (On: 0&#9642;Off: +24&#9642;Net: -24)'
+    - "\n"
+    - 921/
+    - 81/0
+    - 'Eduardo Najera (On: 0&#9642;Off: +24&#9642;Net: -24)'
+    - "\n"
+    - 921/
+    - 81/0
+    - 'Bill Curley (On: +2&#9642;Off: +22&#9642;Net: -20)'
+    - "\n"
+    - 946/
+    - 56/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

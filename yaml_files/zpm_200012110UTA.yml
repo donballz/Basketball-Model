@@ -1,0 +1,230 @@
+---
+- name: Plus-Minus
+  data:
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - |2-
+
+      -5
+    - 143/-5
+    - 250/
+    - 106/+3
+    - 250/+4
+    - 22/0
+    - 227/
+    - 'Tim Duncan (On: -8&#9642;Off: +16&#9642;Net: -24)'
+    - |2-
+
+      -7
+    - 204/-7
+    - 145/
+    - 7/-4
+    - 142/
+    - 184/-3
+    - 121/
+    - 191/+6
+    - 2/
+    - 'Sean Elliott (On: -5&#9642;Off: +13&#9642;Net: -18)'
+    - |2-
+
+      -7
+    - 223/-7
+    - 127/
+    - 149/-3
+    - 142/-3
+    - 191/
+    - 166/+8
+    - 'Avery Johnson (On: -7&#9642;Off: +15&#9642;Net: -22)'
+    - |2-
+
+      -7
+    - 189/-7
+    - 204/
+    - 106/+3
+    - 142/-3
+    - 358/
+    - 'David Robinson (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 143/-5
+    - 64/
+    - 42/+7
+    - 136/-3
+    - 113/
+    - 59/0
+    - 230/
+    - 11/0
+    - 197/
+    - 'Terry Porter (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - "\n"
+    - 147/
+    - 103/+5
+    - 137/-3
+    - 390/
+    - 220/+4
+    - 1/
+    - 'Malik Rose (On: +17&#9642;Off: -9&#9642;Net: +26)'
+    - "\n"
+    - 146/
+    - 103/+5
+    - 96/+3
+    - 11/
+    - 142/+1
+    - 59/
+    - 190/+4
+    - 249/+4
+    - 'Antonio Daniels (On: +15&#9642;Off: -7&#9642;Net: +22)'
+    - "\n"
+    - 194/
+    - 56/+7
+    - 137/-3
+    - 263/
+    - 100/+7
+    - 248/+4
+    - 'Danny Ferry (On: +17&#9642;Off: -9&#9642;Net: +26)'
+    - "\n"
+    - 224/
+    - 25/+7
+    - 96/+3
+    - 75/
+    - 78/+4
+    - 149/
+    - 100/+7
+    - 78/-4
+    - 170/
+    - 'Shawnelle Scott (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - "\n"
+    - 393/
+    - 24/-1
+    - 272/
+    - 59/+7
+    - 39/-2
+    - 210/
+    - 0/0
+    - 'Ira Newble (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 1002/
+    - 0/0
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - |2-
+
+      0
+    - 250/0
+    - 100/
+    - 149/+3
+    - 250/-4
+    - 55/
+    - 194/-6
+    - 'Olden Polynice (On: -2&#9642;Off: -6&#9642;Net: +4)'
+    - |2-
+
+      +4
+    - 225/+4
+    - 275/
+    - 233/-6
+    - 267/
+    - 'Bryon Russell (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - |2-
+
+      0
+    - 249/0
+    - 126/
+    - 123/-2
+    - 112/+3
+    - 221/
+    - 163/-8
+    - 3/
+    - 'John Starks (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - |2-
+
+      0
+    - 239/0
+    - 182/
+    - 78/-4
+    - 233/-6
+    - 198/
+    - 68/+1
+    - 'John Stockton (On: +2&#9642;Off: -10&#9642;Net: +12)'
+    - |2-
+
+      +3
+    - 129/+3
+    - 168/
+    - 201/+4
+    - 142/+3
+    - 191/
+    - 167/-8
+    - 'Jacque Vaughn (On: -10&#9642;Off: +2&#9642;Net: -12)'
+    - "\n"
+    - 135/
+    - 115/-3
+    - 47/-4
+    - 352/
+    - 100/-7
+    - 79/+4
+    - 169/
+    - 'Greg Ostertag (On: +5&#9642;Off: -13&#9642;Net: +18)'
+    - "\n"
+    - 228/
+    - 20/-4
+    - 167/+4
+    - 317/
+    - 13/+2
+    - 51/+2
+    - 85/
+    - 103/+1
+    - 11/
+    - 'Quincy Lewis (On: +10&#9642;Off: -18&#9642;Net: +28)'
+    - "\n"
+    - 243/
+    - 6/0
+    - 167/+4
+    - 317/
+    - 13/+2
+    - 79/+4
+    - 170/
+    - 1/0
+    - 'Danny Manning (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - "\n"
+    - 250/
+    - 97/-3
+    - 402/
+    - 131/-3
+    - 112/
+    - 6/-2
+    - 'Donyell Marshall (On: -10&#9642;Off: +2&#9642;Net: -12)'
+    - "\n"
+    - 250/
+    - 123/+2
+    - 238/
+    - 137/-7
+    - 176/-5
+    - 74/
+    - 'David Benoit (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - "\n"
+    - 422/
+    - 78/-4
+    - 501/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

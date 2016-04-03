@@ -1,0 +1,201 @@
+---
+- name: Plus-Minus
+  data:
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -9&#9642;Off: +2&#9642;Net: -11)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 89/0
+    - 160/
+    - 250/-5
+    - 23/
+    - 226/-7
+    - 'Mike Bibby (On: -6&#9642;Off: -1&#9642;Net: -5)'
+    - |2-
+
+      +2
+    - 206/+2
+    - 212/
+    - 70/+4
+    - 10/
+    - 250/-5
+    - 250/-7
+    - 'Michael Dickerson (On: -4&#9642;Off: -3&#9642;Net: -1)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 95/
+    - 144/+2
+    - 10/
+    - 248/-3
+    - 60/
+    - 191/-6
+    - 'Othella Harrington (On: 0&#9642;Off: -7&#9642;Net: +7)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 26/+1
+    - 142/
+    - 77/+4
+    - 4/
+    - 249/-5
+    - 18/0
+    - 100/
+    - 130/-3
+    - 'Bryant Reeves (On: +2&#9642;Off: -9&#9642;Net: +11)'
+    - |2-
+
+      +2
+    - 199/+2
+    - 220/
+    - 81/+4
+    - 206/-4
+    - 293/
+    - 'Isaac Austin (On: -4&#9642;Off: -3&#9642;Net: -1)'
+    - "\n"
+    - 203/
+    - 46/+1
+    - 160/-2
+    - 299/
+    - 37/+1
+    - 1/
+    - 114/-4
+    - 136/
+    - 'Damon Jones (On: -2&#9642;Off: -5&#9642;Net: +3)'
+    - "\n"
+    - 209/
+    - 40/+1
+    - 161/-2
+    - 85/
+    - 4/0
+    - 405/
+    - 93/-1
+    - 'Kevin Edwards (On: -3&#9642;Off: -4&#9642;Net: +1)'
+    - "\n"
+    - 249/
+    - 89/0
+    - 157/
+    - 4/0
+    - 249/
+    - 54/-1
+    - 195/
+    - 'Grant Long (On: -7&#9642;Off: 0&#9642;Net: -7)'
+    - "\n"
+    - 279/
+    - 221/+1
+    - 250/
+    - 152/-6
+    - 97/
+    - 'Stromile Swift (On: -2&#9642;Off: -5&#9642;Net: +3)'
+    - "\n"
+    - 344/
+    - 66/-2
+    - 87/
+    - 2/0
+    - 500/
+  - - Houston Rockets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shandon Anderson (On: -4&#9642;Off: +11&#9642;Net: -15)'
+    - |2-
+
+      -2
+    - 159/-2
+    - 229/
+    - 112/-1
+    - 177/-1
+    - 322/
+    - 'Steve Francis (On: +5&#9642;Off: +2&#9642;Net: +3)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 51/-2
+    - 133/
+    - 66/-2
+    - 250/+5
+    - 248/+7
+    - 'Hakeem Olajuwon (On: -1&#9642;Off: +8&#9642;Net: -9)'
+    - |2-
+
+      -2
+    - 172/-2
+    - 215/
+    - 112/-1
+    - 180/+2
+    - 320/
+    - 'Maurice Taylor (On: +1&#9642;Off: +6&#9642;Net: -5)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 169/
+    - 81/-4
+    - 250/+5
+    - 140/
+    - 108/+3
+    - 'Walt Williams (On: +10&#9642;Off: -3&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 125/-2
+    - 375/
+    - 250/+5
+    - 250/+7
+    - 'Matt Bullard (On: -2&#9642;Off: +9&#9642;Net: -11)'
+    - "\n"
+    - 127/
+    - 123/-1
+    - 133/-1
+    - 617/
+    - 'Cuttino Mobley (On: +10&#9642;Off: -3&#9642;Net: +13)'
+    - "\n"
+    - 159/
+    - 90/-1
+    - 250/-2
+    - 180/
+    - 69/+6
+    - 250/+7
+    - 'Jason Collier (On: +5&#9642;Off: +2&#9642;Net: +3)'
+    - "\n"
+    - 177/
+    - 72/-1
+    - 133/-1
+    - 302/
+    - 64/+3
+    - 135/+4
+    - 114/
+    - 'Kenny Thomas (On: +9&#9642;Off: -2&#9642;Net: +11)'
+    - "\n"
+    - 250/
+    - 161/+2
+    - 339/
+    - 250/+7
+    - 'Moochie Norris (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - "\n"
+    - 307/
+    - 128/+2
+    - 566/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

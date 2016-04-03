@@ -1,0 +1,2742 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. McDyess vs. P. Ewing (G. Payton gains possession)'
+  - - '11:49.0'
+    - Personal foul by N. Van Exel
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:37.0'
+    - P. Ewing misses 2-pt shot at rim (block by R. LaFrentz)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:30.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '11:21.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - A. McDyess makes 2-pt shot from 17 ft (assist by N. Van Exel)
+  - - '10:59.0'
+    - E. Davis makes 3-pt shot from 26 ft (assist by R. Lewis)
+    - "+3"
+    - 3-2
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 3-5
+    - "+3"
+    - V. Lenard makes 3-pt shot from 23 ft (assist by N. Van Exel)
+  - - '10:24.0'
+    - Turnover by P. Ewing (bad pass; steal by J. Posey)
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Personal foul by E. Davis
+  - - '10:09.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - A. McDyess misses 2-pt shot from 11 ft
+  - - '10:04.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '10:00.0'
+    - J. McCoy misses 2-pt shot from 9 ft (block by A. McDyess)
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '9:51.0'
+    - Violation by J. McCoy (illegal defense)
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - V. Lenard misses 3-pt shot from 25 ft
+  - - '9:42.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '9:37.0'
+    - ''
+    - ''
+    - 3-7
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim (assist by A. McDyess)
+  - - '9:15.0'
+    - E. Davis makes 2-pt shot from 13 ft (assist by J. McCoy)
+    - "+2"
+    - 5-7
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - A. McDyess misses 2-pt shot from 16 ft
+  - - '8:54.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '8:46.0'
+    - Turnover by P. Ewing (traveling)
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Shooting foul by P. Ewing
+  - - '8:35.0'
+    - ''
+    - ''
+    - 5-8
+    - "+1"
+    - A. McDyess makes free throw 1 of 2
+  - - '8:35.0'
+    - ''
+    - ''
+    - 5-9
+    - "+1"
+    - A. McDyess makes free throw 2 of 2
+  - - '8:23.0'
+    - G. Payton misses 2-pt shot from 11 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '8:15.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - V. Lenard misses 3-pt shot from 24 ft (block by R. Lewis)
+  - - '8:12.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Offensive rebound by V. Lenard
+  - - '8:09.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - J. Posey misses 2-pt shot at rim (block by P. Ewing)
+  - - '8:07.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - J. Posey misses 2-pt shot at rim
+  - - '8:07.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Offensive rebound by J. Posey
+  - - '8:04.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:04.0'
+    - E. Davis misses 2-pt shot at rim (block by V. Lenard)
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:51.0'
+    - R. Lewis misses 3-pt shot from 24 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:49.0'
+    - Offensive rebound by Team
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:49.0'
+    - Loose ball foul by R. LaFrentz
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:41.0'
+    - G. Payton misses 2-pt shot from 15 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:37.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '7:35.0'
+    - J. McCoy makes 2-pt shot at rim (assist by R. Lewis)
+    - "+2"
+    - 7-9
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 7-11
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '7:13.0'
+    - G. Payton misses 2-pt shot from 15 ft
+    - ''
+    - 7-11
+    - ''
+    - ''
+  - - '7:09.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 9-11
+    - ''
+    - ''
+  - - '7:09.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 9-11
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - V. Lenard misses 3-pt shot from 25 ft
+  - - '6:56.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 9-11
+    - ''
+    - ''
+  - - '6:51.0'
+    - R. Lewis misses 2-pt shot at rim (block by R. LaFrentz)
+    - ''
+    - 9-11
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - Defensive rebound by V. Lenard
+  - - '6:49.0'
+    - Technical foul by Team
+    - ''
+    - 9-11
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 9-12
+    - "+1"
+    - V. Lenard makes free throw technical
+  - - '6:41.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - R. LaFrentz misses 2-pt shot from 19 ft
+  - - '6:39.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '6:29.0'
+    - P. Ewing misses 2-pt shot from 19 ft
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '6:10.0'
+    - ''
+    - ''
+    - 9-12
+    - ''
+    - Shooting foul by R. Lewis
+  - - '6:10.0'
+    - ''
+    - ''
+    - 9-13
+    - "+1"
+    - A. McDyess makes free throw 1 of 2
+  - - '6:10.0'
+    - ''
+    - ''
+    - 9-14
+    - "+1"
+    - A. McDyess makes free throw 2 of 2
+  - - '5:59.0'
+    - G. Payton makes 2-pt shot at rim (assist by P. Ewing)
+    - "+2"
+    - 11-14
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 11-14
+    - ''
+    - A. McDyess misses 2-pt shot from 17 ft
+  - - '5:40.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 11-14
+    - ''
+    - ''
+  - - '5:33.0'
+    - G. Payton makes 2-pt shot from 10 ft
+    - "+2"
+    - 13-14
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 13-14
+    - ''
+    - V. Lenard misses 2-pt shot from 20 ft
+  - - '5:12.0'
+    - ''
+    - ''
+    - 13-14
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '5:06.0'
+    - ''
+    - ''
+    - 13-17
+    - "+3"
+    - R. LaFrentz makes 3-pt shot from 23 ft (assist by N. Van Exel)
+  - - '4:44.0'
+    - J. McCoy misses 2-pt shot from 7 ft (block by R. LaFrentz)
+    - ''
+    - 13-17
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 13-17
+    - ''
+    - Defensive rebound by J. Posey
+  - - '4:38.0'
+    - ''
+    - ''
+    - 13-17
+    - ''
+    - V. Lenard misses 2-pt shot at rim
+  - - '4:35.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 13-17
+    - ''
+    - ''
+  - - '4:31.0'
+    - J. McCoy makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 15-17
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 15-17
+    - ''
+    - R. LaFrentz misses 2-pt shot from 8 ft
+  - - '4:07.0'
+    - ''
+    - ''
+    - 15-17
+    - ''
+    - A. McDyess misses 2-pt shot at rim
+  - - '4:07.0'
+    - ''
+    - ''
+    - 15-17
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '4:05.0'
+    - ''
+    - ''
+    - 15-19
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim
+  - - '4:05.0'
+    - ''
+    - ''
+    - 15-19
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '3:50.0'
+    - P. Ewing misses 2-pt shot from 12 ft
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 15-19
+    - ''
+    - Defensive rebound by J. Posey
+  - - '3:40.0'
+    - ''
+    - ''
+    - 15-19
+    - ''
+    - V. Lenard misses 3-pt shot from 25 ft
+  - - '3:38.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:32.0'
+    - G. Payton misses 2-pt shot from 9 ft
+    - ''
+    - 15-19
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 15-19
+    - ''
+    - Defensive rebound by J. Posey
+  - - '3:24.0'
+    - ''
+    - ''
+    - 15-21
+    - "+2"
+    - V. Lenard makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '3:24.0'
+    - ''
+    - ''
+    - 15-21
+    - ''
+    - Shooting foul by G. Payton
+  - - '3:24.0'
+    - ''
+    - ''
+    - 15-21
+    - ''
+    - Denver full timeout
+  - - '3:24.0'
+    - R. Patterson enters the game for R. Lewis
+    - ''
+    - 15-21
+    - ''
+    - ''
+  - - '3:24.0'
+    - B. Barry enters the game for P. Ewing
+    - ''
+    - 15-21
+    - ''
+    - ''
+  - - '3:24.0'
+    - D. Mason enters the game for E. Davis
+    - ''
+    - 15-21
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 15-22
+    - "+1"
+    - V. Lenard makes free throw 1 of 1
+  - - '3:13.0'
+    - B. Barry misses 3-pt shot from 27 ft
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '3:09.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '3:02.0'
+    - Turnover by J. McCoy (bad pass; steal by N. Van Exel)
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '2:54.0'
+    - Violation by G. Payton (kicked ball)
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 15-24
+    - "+2"
+    - A. McDyess makes 2-pt shot from 8 ft (assist by N. Van Exel)
+  - - '2:42.0'
+    - Seattle full timeout
+    - ''
+    - 15-24
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 15-24
+    - ''
+    - K. Clark enters the game for R. LaFrentz
+  - - '2:42.0'
+    - ''
+    - ''
+    - 15-24
+    - ''
+    - T. Abdul-Wahad enters the game for V. Lenard
+  - - '2:32.0'
+    - R. Patterson misses 2-pt shot at rim (block by T. Abdul-Wahad)
+    - ''
+    - 15-24
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 15-24
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '2:24.0'
+    - ''
+    - ''
+    - 15-26
+    - "+2"
+    - K. Clark makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '2:11.0'
+    - Turnover by D. Mason (bad pass; steal by J. Posey)
+    - ''
+    - 15-26
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 15-28
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim (assist by J. Posey)
+  - - '1:52.0'
+    - Personal foul by J. Posey
+    - ''
+    - 15-28
+    - ''
+    - ''
+  - - '1:52.0'
+    - R. Wolkowyski enters the game for J. McCoy
+    - ''
+    - 15-28
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - G. McCloud enters the game for J. Posey
+  - - '1:46.0'
+    - G. Payton misses 2-pt shot from 4 ft (block by N. Van Exel)
+    - ''
+    - 15-28
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - Defensive rebound by Team
+  - - '1:43.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - Loose ball foul by G. Payton
+  - - '1:43.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - A. McDyess misses free throw 1 of 2
+  - - '1:43.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - Offensive rebound by Team
+  - - '1:43.0'
+    - ''
+    - ''
+    - 15-28
+    - ''
+    - A. McDyess misses free throw 2 of 2
+  - - '1:41.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 15-28
+    - ''
+    - ''
+  - - '1:29.0'
+    - R. Patterson makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 17-28
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 17-28
+    - ''
+    - Personal foul by D. Mason
+  - - '1:19.0'
+    - ''
+    - ''
+    - 17-28
+    - ''
+    - R. Pack enters the game for N. Van Exel
+  - - '1:19.0'
+    - ''
+    - ''
+    - 17-29
+    - "+1"
+    - G. McCloud makes free throw 1 of 2
+  - - '1:19.0'
+    - ''
+    - ''
+    - 17-30
+    - "+1"
+    - G. McCloud makes free throw 2 of 2
+  - - '1:06.0'
+    - ''
+    - ''
+    - 17-30
+    - ''
+    - Violation by T. Abdul-Wahad (illegal defense)
+  - - '1:01.0'
+    - Turnover by G. Payton (lost ball; steal by A. McDyess)
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:56.9'
+    - ''
+    - ''
+    - 17-30
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 18 ft
+  - - '0:54.8'
+    - Defensive rebound by D. Mason
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:48.9'
+    - R. Patterson misses 2-pt shot at rim
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 17-30
+    - ''
+    - Defensive rebound by T. Abdul-Wahad
+  - - '0:31.9'
+    - ''
+    - ''
+    - 17-30
+    - ''
+    - R. Pack misses 2-pt shot at rim
+  - - '0:29.4'
+    - Defensive rebound by R. Wolkowyski
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:25.9'
+    - G. Payton misses 2-pt shot at rim (block by T. Abdul-Wahad)
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:25.9'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '0:24.1'
+    - R. Patterson makes 2-pt shot at rim
+    - "+2"
+    - 19-30
+    - ''
+    - ''
+  - - '0:05.8'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - Turnover by K. Clark (traveling)
+  - - '0:00.0'
+    - R. Wolkowyski misses 2-pt shot from 20 ft
+    - ''
+    - 19-30
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-30
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 8 ft (block by D. Mason)
+  - - '11:39.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '11:38.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - R. LaFrentz misses 2-pt shot from 11 ft
+  - - '11:31.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '11:31.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - Offensive rebound by K. Clark
+  - - '11:28.0'
+    - Defensive rebound by R. Wolkowyski
+    - ''
+    - 19-30
+    - ''
+    - ''
+  - - '11:26.0'
+    - S. Williams misses 2-pt shot from 20 ft
+    - ''
+    - 19-30
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '11:20.0'
+    - ''
+    - ''
+    - 19-30
+    - ''
+    - K. Clark misses 2-pt shot from 4 ft
+  - - '11:13.0'
+    - ''
+    - ''
+    - 19-32
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '11:13.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - Offensive rebound by K. Clark
+  - - '10:58.0'
+    - B. Barry misses 3-pt shot from 24 ft
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - Defensive rebound by T. Abdul-Wahad
+  - - '10:53.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot at rim (block by R. Patterson)
+  - - '10:52.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '10:52.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - Personal foul by D. Mason
+  - - '10:52.0'
+    - P. Ewing enters the game for R. Wolkowyski
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:52.0'
+    - G. Payton enters the game for D. Mason
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 19-32
+    - ''
+    - K. Clark misses 2-pt shot from 10 ft
+  - - '10:40.0'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:29.0'
+    - Turnover by R. Patterson (lost ball; steal by K. Clark)
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 19-34
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '10:04.0'
+    - Shooting foul by G. McCloud
+    - ''
+    - 19-34
+    - ''
+    - ''
+  - - '10:04.0'
+    - R. Lewis enters the game for R. Patterson
+    - ''
+    - 19-34
+    - ''
+    - ''
+  - - '10:04.0'
+    - B. Barry makes free throw 1 of 2
+    - "+1"
+    - 20-34
+    - ''
+    - ''
+  - - '10:04.0'
+    - B. Barry misses free throw 2 of 2
+    - ''
+    - 20-34
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 20-34
+    - ''
+    - Defensive rebound by K. Clark
+  - - '9:54.0'
+    - ''
+    - ''
+    - 20-34
+    - ''
+    - G. McCloud misses 2-pt shot from 21 ft
+  - - '9:52.0'
+    - ''
+    - ''
+    - 20-36
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '9:52.0'
+    - ''
+    - ''
+    - 20-36
+    - ''
+    - Offensive rebound by K. Clark
+  - - '9:36.0'
+    - G. Payton misses 3-pt shot from 26 ft
+    - ''
+    - 20-36
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 20-36
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '9:28.0'
+    - ''
+    - ''
+    - 20-36
+    - ''
+    - G. McCloud misses 2-pt shot from 23 ft
+  - - '9:25.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 20-36
+    - ''
+    - ''
+  - - '9:17.0'
+    - R. Lewis makes 2-pt shot from 7 ft
+    - "+2"
+    - 22-36
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 22-36
+    - ''
+    - G. McCloud misses 2-pt shot at rim
+  - - '8:51.0'
+    - ''
+    - ''
+    - 22-38
+    - "+2"
+    - G. McCloud makes 2-pt shot at rim
+  - - '8:51.0'
+    - ''
+    - ''
+    - 22-38
+    - ''
+    - Offensive rebound by G. McCloud
+  - - '8:32.0'
+    - Turnover by P. Ewing (bad pass; steal by R. LaFrentz)
+    - ''
+    - 22-38
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 22-38
+    - ''
+    - Turnover by G. McCloud (lost ball; steal by B. Barry)
+  - - '8:21.0'
+    - R. Lewis makes 2-pt shot at rim
+    - "+2"
+    - 24-38
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 24-38
+    - ''
+    - Personal foul by G. Payton
+  - - '8:05.0'
+    - ''
+    - ''
+    - 24-38
+    - ''
+    - Official timeout
+  - - '7:53.0'
+    - ''
+    - ''
+    - 24-38
+    - ''
+    - Turnover by R. Pack (bad pass)
+  - - '7:41.0'
+    - Personal foul by T. Abdul-Wahad
+    - ''
+    - 24-38
+    - ''
+    - ''
+  - - '7:35.0'
+    - Turnover by P. Ewing (lost ball)
+    - ''
+    - 24-38
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 24-38
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 17 ft
+  - - '7:20.0'
+    - ''
+    - ''
+    - 24-38
+    - ''
+    - Offensive rebound by T. Abdul-Wahad
+  - - '7:13.0'
+    - ''
+    - ''
+    - 24-40
+    - "+2"
+    - T. Abdul-Wahad makes 2-pt shot from 11 ft
+  - - '6:56.0'
+    - S. Williams makes 2-pt shot from 8 ft
+    - "+2"
+    - 26-40
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 26-40
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 6 ft
+  - - '6:43.0'
+    - Defensive rebound by B. Barry
+    - ''
+    - 26-40
+    - ''
+    - ''
+  - - '6:34.0'
+    - G. Payton misses 2-pt shot from 6 ft
+    - ''
+    - 26-40
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 26-40
+    - ''
+    - Defensive rebound by R. Pack
+  - - '6:29.0'
+    - ''
+    - ''
+    - 26-40
+    - ''
+    - Turnover by R. Pack (bad pass; steal by G. Payton)
+  - - '6:24.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 28-40
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - Denver full timeout
+  - - '6:21.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - N. Van Exel enters the game for R. Pack
+  - - '6:21.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - A. McDyess enters the game for K. Clark
+  - - '6:21.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - V. Lenard enters the game for T. Abdul-Wahad
+  - - '6:02.0'
+    - ''
+    - ''
+    - 28-42
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim (assist by G. McCloud)
+  - - '5:46.0'
+    - R. Lewis makes 2-pt shot from 23 ft (assist by S. Williams)
+    - "+2"
+    - 30-42
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 30-42
+    - ''
+    - A. McDyess misses 2-pt shot from 15 ft
+  - - '5:23.0'
+    - ''
+    - ''
+    - 30-44
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim
+  - - '5:23.0'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '5:08.0'
+    - P. Ewing misses 2-pt shot from 9 ft (block by A. McDyess)
+    - ''
+    - 30-44
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '4:59.0'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - Personal foul by P. Ewing
+  - - '4:59.0'
+    - J. McCoy enters the game for P. Ewing
+    - ''
+    - 30-44
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - A. McDyess misses 2-pt shot from 7 ft
+  - - '4:48.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 30-44
+    - ''
+    - ''
+  - - '4:40.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by G. Payton)
+    - "+3"
+    - 33-44
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - G. McCloud misses 2-pt shot from 17 ft
+  - - '4:19.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 33-44
+    - ''
+    - ''
+  - - '4:13.0'
+    - S. Williams makes 2-pt shot from 7 ft
+    - "+2"
+    - 35-44
+    - ''
+    - ''
+  - - '4:13.0'
+    - Shooting foul by V. Lenard
+    - ''
+    - 35-44
+    - ''
+    - ''
+  - - '4:13.0'
+    - S. Williams makes free throw 1 of 1
+    - "+1"
+    - 36-44
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 36-44
+    - ''
+    - J. Posey enters the game for G. McCloud
+  - - '4:00.0'
+    - ''
+    - ''
+    - 36-44
+    - ''
+    - R. LaFrentz misses 3-pt shot from 26 ft
+  - - '3:57.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 36-44
+    - ''
+    - ''
+  - - '3:53.0'
+    - S. Williams misses 2-pt shot from 22 ft
+    - ''
+    - 36-44
+    - ''
+    - ''
+  - - '3:51.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 36-44
+    - ''
+    - ''
+  - - '3:48.0'
+    - R. Lewis misses 2-pt shot from 19 ft
+    - ''
+    - 36-44
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 36-44
+    - ''
+    - Defensive rebound by J. Posey
+  - - '3:29.0'
+    - ''
+    - ''
+    - 36-46
+    - "+2"
+    - J. Posey makes 2-pt shot at rim (assist by V. Lenard)
+  - - '3:04.0'
+    - J. McCoy misses 2-pt shot from 8 ft
+    - ''
+    - 36-46
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 36-46
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '2:56.0'
+    - ''
+    - ''
+    - 36-49
+    - "+3"
+    - V. Lenard makes 3-pt shot from 24 ft (assist by N. Van Exel)
+  - - '2:37.0'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '2:32.0'
+    - S. Williams makes 3-pt shot from 25 ft
+    - "+3"
+    - 39-49
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 39-49
+    - ''
+    - Denver full timeout
+  - - '2:16.0'
+    - ''
+    - ''
+    - 39-51
+    - "+2"
+    - J. Posey makes 2-pt shot from 16 ft (assist by N. Van Exel)
+  - - '2:03.0'
+    - R. Lewis misses 2-pt shot at rim (block by R. LaFrentz)
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:59.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:59.0'
+    - Personal foul by J. Posey
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:59.0'
+    - J. McCoy misses free throw 1 of 2
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:59.0'
+    - J. McCoy misses free throw 2 of 2
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 39-51
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '1:52.0'
+    - ''
+    - ''
+    - 39-51
+    - ''
+    - Personal foul by J. McCoy
+  - - '1:38.0'
+    - ''
+    - ''
+    - 39-51
+    - ''
+    - V. Lenard misses 3-pt shot from 24 ft
+  - - '1:36.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:33.0'
+    - Turnover by B. Barry (lost ball)
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 39-53
+    - "+2"
+    - V. Lenard makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '0:56.9'
+    - R. Lewis misses 3-pt shot from 25 ft
+    - ''
+    - 39-53
+    - ''
+    - ''
+  - - '0:53.9'
+    - ''
+    - ''
+    - 39-53
+    - ''
+    - Defensive rebound by J. Posey
+  - - '0:46.9'
+    - ''
+    - ''
+    - 39-55
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '0:29.1'
+    - R. Lewis makes 2-pt shot at rim
+    - "+2"
+    - 41-55
+    - ''
+    - ''
+  - - '0:29.1'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Violation by R. LaFrentz (def goaltending)
+  - - '0:07.9'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - V. Lenard misses 2-pt shot from 16 ft
+  - - '0:06.5'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim
+  - - '0:06.5'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '0:04.5'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - A. McDyess misses 2-pt shot at rim
+  - - '0:04.5'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '0:00.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '0:00.0'
+    - G. Payton misses 3-pt shot from 39 ft
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:39.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - J. Posey misses 3-pt shot from 26 ft
+  - - '11:36.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '11:33.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - V. Lenard misses 3-pt shot from 24 ft
+  - - '11:31.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '11:31.0'
+    - Turnover by P. Ewing (lost ball; steal by J. Posey)
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Turnover by J. Posey (out of bounds)
+  - - '11:19.0'
+    - R. Lewis misses 2-pt shot from 18 ft
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '11:03.0'
+    - ''
+    - ''
+    - 41-55
+    - ''
+    - R. LaFrentz misses 2-pt shot from 17 ft
+  - - '10:59.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '10:48.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 41-55
+    - ''
+    - ''
+  - - '10:48.0'
+    - P. Ewing makes free throw 1 of 2
+    - "+1"
+    - 42-55
+    - ''
+    - ''
+  - - '10:48.0'
+    - P. Ewing makes free throw 2 of 2
+    - "+1"
+    - 43-55
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 43-55
+    - ''
+    - A. McDyess misses 2-pt shot from 15 ft
+  - - '10:27.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 43-55
+    - ''
+    - ''
+  - - '10:19.0'
+    - J. McCoy makes 2-pt shot from 6 ft (assist by G. Payton)
+    - "+2"
+    - 45-55
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - Denver full timeout
+  - - '10:03.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - V. Lenard misses 2-pt shot from 20 ft
+  - - '10:00.0'
+    - ''
+    - ''
+    - 45-57
+    - "+2"
+    - J. Posey makes 2-pt shot from 9 ft
+  - - '10:00.0'
+    - ''
+    - ''
+    - 45-57
+    - ''
+    - Offensive rebound by J. Posey
+  - - '9:39.0'
+    - P. Ewing makes 2-pt shot from 14 ft (assist by E. Davis)
+    - "+2"
+    - 47-57
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 47-57
+    - ''
+    - J. Posey misses 2-pt shot from 19 ft
+  - - '9:19.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 47-57
+    - ''
+    - ''
+  - - '9:05.0'
+    - J. McCoy misses 2-pt shot at rim (block by R. LaFrentz)
+    - ''
+    - 47-57
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 47-57
+    - ''
+    - Defensive rebound by V. Lenard
+  - - '8:44.0'
+    - ''
+    - ''
+    - 47-57
+    - ''
+    - N. Van Exel misses 3-pt shot from 25 ft
+  - - '8:42.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 47-57
+    - ''
+    - ''
+  - - '8:37.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 47-57
+    - ''
+    - ''
+  - - '8:37.0'
+    - J. McCoy makes free throw 1 of 2
+    - "+1"
+    - 48-57
+    - ''
+    - ''
+  - - '8:37.0'
+    - J. McCoy misses free throw 2 of 2
+    - ''
+    - 48-57
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 48-57
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '8:14.0'
+    - ''
+    - ''
+    - 48-59
+    - "+2"
+    - A. McDyess makes 2-pt shot from 18 ft (assist by N. Van Exel)
+  - - '7:56.0'
+    - Offensive foul by E. Davis
+    - ''
+    - 48-59
+    - ''
+    - ''
+  - - '7:56.0'
+    - Turnover by E. Davis (foul)
+    - ''
+    - 48-59
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 48-59
+    - ''
+    - Offensive foul by A. McDyess
+  - - '7:47.0'
+    - ''
+    - ''
+    - 48-59
+    - ''
+    - Turnover by A. McDyess (foul)
+  - - '7:35.0'
+    - G. Payton misses 2-pt shot from 16 ft
+    - ''
+    - 48-59
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 48-59
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '7:15.0'
+    - ''
+    - ''
+    - 48-61
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '6:54.0'
+    - R. Lewis misses 3-pt shot from 25 ft
+    - ''
+    - 48-61
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 48-61
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '6:53.0'
+    - ''
+    - ''
+    - 48-61
+    - ''
+    - Personal foul by R. Lewis
+  - - '6:29.0'
+    - ''
+    - ''
+    - 48-61
+    - ''
+    - V. Lenard misses 3-pt shot from 26 ft
+  - - '6:26.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 48-61
+    - ''
+    - ''
+  - - '6:07.0'
+    - G. Payton misses 2-pt shot from 21 ft
+    - ''
+    - 48-61
+    - ''
+    - ''
+  - - '6:05.0'
+    - R. Lewis makes 2-pt shot at rim
+    - "+2"
+    - 50-61
+    - ''
+    - ''
+  - - '6:05.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 50-61
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 50-63
+    - "+2"
+    - A. McDyess makes 2-pt shot from 17 ft (assist by N. Van Exel)
+  - - '5:33.0'
+    - Turnover by G. Payton (bad pass; steal by J. Posey)
+    - ''
+    - 50-63
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 50-65
+    - "+2"
+    - V. Lenard makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '5:26.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Shooting foul by J. McCoy
+  - - '5:26.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Denver full timeout
+  - - '5:26.0'
+    - S. Williams enters the game for P. Ewing
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - V. Lenard misses free throw 1 of 1
+  - - '5:23.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '5:05.0'
+    - R. Lewis misses 2-pt shot from 7 ft
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '5:05.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Defensive rebound by Team
+  - - '5:05.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Loose ball foul by R. Lewis
+  - - '4:49.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - A. McDyess misses 2-pt shot at rim
+  - - '4:48.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Offensive rebound by Team
+  - - '4:43.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - V. Lenard misses 3-pt shot from 26 ft
+  - - '4:41.0'
+    - ''
+    - ''
+    - 50-67
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim
+  - - '4:41.0'
+    - ''
+    - ''
+    - 50-67
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '4:20.0'
+    - Personal foul by V. Lenard
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:13.0'
+    - Personal foul by V. Lenard
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:06.0'
+    - G. Payton makes 2-pt shot from 18 ft (assist by R. Lewis)
+    - "+2"
+    - 52-67
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 52-67
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim (block by R. Lewis)
+  - - '3:47.0'
+    - ''
+    - ''
+    - 52-67
+    - ''
+    - Offensive rebound by N. Van Exel
+  - - '3:41.0'
+    - ''
+    - ''
+    - 52-69
+    - "+2"
+    - A. McDyess makes 2-pt shot from 15 ft (assist by R. LaFrentz)
+  - - '3:24.0'
+    - E. Davis misses 2-pt shot from 7 ft
+    - ''
+    - 52-69
+    - ''
+    - ''
+  - - '3:20.0'
+    - J. McCoy makes 2-pt shot at rim (assist by E. Davis)
+    - "+2"
+    - 54-69
+    - ''
+    - ''
+  - - '3:20.0'
+    - Offensive rebound by E. Davis
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - Personal foul by J. McCoy
+  - - '3:05.0'
+    - R. Patterson enters the game for R. Lewis
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - G. McCloud enters the game for J. Posey
+  - - '3:02.0'
+    - ''
+    - ''
+    - 54-69
+    - ''
+    - A. McDyess misses 2-pt shot from 7 ft
+  - - '3:00.0'
+    - Defensive rebound by E. Davis
+    - ''
+    - 54-69
+    - ''
+    - ''
+  - - '2:52.0'
+    - E. Davis makes 3-pt shot from 26 ft (assist by R. Patterson)
+    - "+3"
+    - 57-69
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 57-69
+    - ''
+    - N. Van Exel misses 3-pt shot from 28 ft
+  - - '2:25.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '2:20.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 57-69
+    - ''
+    - K. Clark enters the game for R. LaFrentz
+  - - '2:20.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 58-69
+    - ''
+    - ''
+  - - '2:20.0'
+    - R. Patterson misses free throw 2 of 2
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '2:19.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 58-69
+    - ''
+    - ''
+  - - '2:17.0'
+    - R. Patterson makes 2-pt shot at rim
+    - "+2"
+    - 60-69
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Personal foul by G. Payton
+  - - '1:59.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - A. McDyess misses free throw 1 of 2
+  - - '1:59.0'
+    - ''
+    - ''
+    - 60-69
+    - ''
+    - Offensive rebound by Team
+  - - '1:59.0'
+    - ''
+    - ''
+    - 60-70
+    - "+1"
+    - A. McDyess makes free throw 2 of 2
+  - - '1:46.0'
+    - G. Payton misses 2-pt shot from 8 ft (block by K. Clark)
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 60-70
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '1:45.0'
+    - ''
+    - ''
+    - 60-70
+    - ''
+    - Turnover by A. McDyess (traveling)
+  - - '1:31.0'
+    - Turnover by E. Davis (traveling)
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '1:31.0'
+    - B. Barry enters the game for E. Davis
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 60-70
+    - ''
+    - Turnover by G. McCloud (bad pass; steal by R. Patterson)
+  - - '1:11.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 60-70
+    - ''
+    - ''
+  - - '1:11.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 61-70
+    - ''
+    - ''
+  - - '1:11.0'
+    - R. Patterson misses free throw 2 of 2
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 61-70
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '0:54.9'
+    - ''
+    - ''
+    - 61-70
+    - ''
+    - N. Van Exel misses 2-pt shot from 6 ft (block by R. Patterson)
+  - - '0:51.4'
+    - Defensive rebound by R. Patterson
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '0:50.5'
+    - G. Payton makes 2-pt shot at rim (assist by S. Williams)
+    - "+2"
+    - 63-70
+    - ''
+    - ''
+  - - '0:32.9'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - N. Van Exel misses 3-pt shot from 25 ft
+  - - '0:28.9'
+    - Defensive rebound by B. Barry
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '0:25.4'
+    - R. Patterson makes 2-pt shot at rim (assist by S. Williams)
+    - "+2"
+    - 65-70
+    - ''
+    - ''
+  - - '0:25.4'
+    - Shooting foul by N. Van Exel
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '0:25.4'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - R. Bowen enters the game for K. Clark
+  - - '0:25.4'
+    - R. Patterson misses free throw 1 of 1
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '0:24.7'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '0:05.9'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - N. Van Exel misses 2-pt shot from 20 ft
+  - - '0:01.9'
+    - Defensive rebound by S. Williams
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - S. Williams misses 3-pt shot from 45 ft
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:49.0'
+    - Turnover by S. Williams (traveling)
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Personal foul by R. Patterson
+  - - '11:28.0'
+    - ''
+    - ''
+    - 65-72
+    - "+2"
+    - A. McDyess makes 2-pt shot from 11 ft (assist by R. Bowen)
+  - - '11:02.0'
+    - Personal foul by R. Bowen
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '10:53.0'
+    - S. Williams misses 2-pt shot from 11 ft
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Defensive rebound by K. Clark
+  - - '10:45.0'
+    - ''
+    - ''
+    - 65-74
+    - "+2"
+    - G. McCloud makes 2-pt shot from 18 ft (assist by N. Van Exel)
+  - - '10:29.0'
+    - R. Patterson misses 2-pt shot from 7 ft
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - Defensive rebound by K. Clark
+  - - '10:19.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - G. McCloud misses 3-pt shot from 26 ft
+  - - '10:17.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '10:00.0'
+    - Turnover by G. Payton (traveling)
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '10:00.0'
+    - R. Lewis enters the game for S. Williams
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - Shooting foul by R. Patterson
+  - - '9:49.0'
+    - E. Davis enters the game for J. McCoy
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 65-75
+    - "+1"
+    - K. Clark makes free throw 1 of 2
+  - - '9:49.0'
+    - ''
+    - ''
+    - 65-76
+    - "+1"
+    - K. Clark makes free throw 2 of 2
+  - - '9:37.0'
+    - G. Payton makes 2-pt shot from 12 ft
+    - "+2"
+    - 67-76
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 67-78
+    - "+2"
+    - A. McDyess makes 2-pt shot from 15 ft (assist by N. Van Exel)
+  - - '9:07.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by G. Payton)
+    - "+3"
+    - 70-78
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Personal foul by R. Lewis
+  - - '8:50.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Official timeout
+  - - '8:50.0'
+    - J. McCoy enters the game for R. Patterson
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 70-80
+    - "+2"
+    - A. McDyess makes 2-pt shot from 17 ft (assist by N. Van Exel)
+  - - '8:23.0'
+    - G. Payton misses 3-pt shot from 26 ft
+    - ''
+    - 70-80
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 70-80
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '8:16.0'
+    - ''
+    - ''
+    - 70-82
+    - "+2"
+    - G. McCloud makes 2-pt shot from 22 ft (assist by N. Van Exel)
+  - - '8:07.0'
+    - G. Payton misses 2-pt shot from 5 ft (block by N. Van Exel)
+    - ''
+    - 70-82
+    - ''
+    - ''
+  - - '8:05.0'
+    - Offensive rebound by G. Payton
+    - ''
+    - 70-82
+    - ''
+    - ''
+  - - '8:04.0'
+    - Personal foul by A. McDyess
+    - ''
+    - 70-82
+    - ''
+    - ''
+  - - '7:55.0'
+    - R. Lewis misses 2-pt shot from 7 ft
+    - ''
+    - 70-82
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 70-82
+    - ''
+    - Defensive rebound by K. Clark
+  - - '7:27.0'
+    - ''
+    - ''
+    - 70-84
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '7:25.0'
+    - Seattle 20 second timeout
+    - ''
+    - 70-84
+    - ''
+    - ''
+  - - '7:05.0'
+    - B. Barry makes 3-pt shot from 26 ft (assist by E. Davis)
+    - "+3"
+    - 73-84
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 73-86
+    - "+2"
+    - A. McDyess makes 2-pt shot from 15 ft (assist by N. Van Exel)
+  - - '6:31.0'
+    - E. Davis makes 3-pt shot from 23 ft (assist by G. Payton)
+    - "+3"
+    - 76-86
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 76-88
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 17 ft (assist by A. McDyess)
+  - - '6:07.0'
+    - ''
+    - ''
+    - 76-88
+    - ''
+    - Shooting foul by G. Payton
+  - - '6:07.0'
+    - ''
+    - ''
+    - 76-89
+    - "+1"
+    - N. Van Exel makes free throw 1 of 1
+  - - '6:07.0'
+    - Seattle full timeout
+    - ''
+    - 76-89
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 76-89
+    - ''
+    - V. Lenard enters the game for N. Van Exel
+  - - '5:51.0'
+    - E. Davis misses 3-pt shot from 23 ft
+    - ''
+    - 76-89
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 76-89
+    - ''
+    - Defensive rebound by R. Bowen
+  - - '5:32.0'
+    - ''
+    - ''
+    - 76-89
+    - ''
+    - J. Posey enters the game for R. Bowen
+  - - '5:30.0'
+    - ''
+    - ''
+    - 76-91
+    - "+2"
+    - V. Lenard makes 2-pt shot from 19 ft (assist by J. Posey)
+  - - '5:19.0'
+    - Shooting foul by A. McDyess
+    - ''
+    - 76-91
+    - ''
+    - ''
+  - - '5:19.0'
+    - J. McCoy misses free throw 1 of 2
+    - ''
+    - 76-91
+    - ''
+    - ''
+  - - '5:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 76-91
+    - ''
+    - ''
+  - - '5:19.0'
+    - ''
+    - ''
+    - 76-91
+    - ''
+    - R. LaFrentz enters the game for K. Clark
+  - - '5:19.0'
+    - J. McCoy makes free throw 2 of 2
+    - "+1"
+    - 77-91
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 77-91
+    - ''
+    - Offensive foul by R. LaFrentz
+  - - '5:07.0'
+    - ''
+    - ''
+    - 77-91
+    - ''
+    - Turnover by R. LaFrentz (foul)
+  - - '5:07.0'
+    - S. Williams enters the game for B. Barry
+    - ''
+    - 77-91
+    - ''
+    - ''
+  - - '4:49.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 79-91
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - Turnover by A. McDyess (3 second)
+  - - '4:15.0'
+    - G. Payton misses 3-pt shot from 24 ft
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '4:00.0'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - Shooting foul by J. McCoy
+  - - '4:00.0'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - N. Van Exel enters the game for G. McCloud
+  - - '4:00.0'
+    - ''
+    - ''
+    - 79-92
+    - "+1"
+    - J. Posey makes free throw 1 of 2
+  - - '4:00.0'
+    - ''
+    - ''
+    - 79-93
+    - "+1"
+    - J. Posey makes free throw 2 of 2
+  - - '3:44.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by G. Payton)
+    - "+3"
+    - 82-93
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 82-93
+    - ''
+    - Turnover by J. Posey (bad pass; steal by R. Lewis)
+  - - '3:19.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 82-93
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 82-93
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '2:53.0'
+    - ''
+    - ''
+    - 82-93
+    - ''
+    - V. Lenard misses 2-pt shot from 21 ft
+  - - '2:51.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 82-93
+    - ''
+    - ''
+  - - '2:51.0'
+    - Personal foul by R. LaFrentz
+    - ''
+    - 82-93
+    - ''
+    - ''
+  - - '2:51.0'
+    - Seattle full timeout
+    - ''
+    - 82-93
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 82-93
+    - ''
+    - K. Clark enters the game for R. LaFrentz
+  - - '2:37.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 82-93
+    - ''
+    - ''
+  - - '2:37.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 83-93
+    - ''
+    - ''
+  - - '2:37.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 84-93
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 84-93
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by R. Lewis)
+  - - '2:19.0'
+    - R. Lewis makes 2-pt shot at rim
+    - "+2"
+    - 86-93
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 86-95
+    - "+2"
+    - A. McDyess makes 2-pt shot from 10 ft (assist by V. Lenard)
+  - - '1:45.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by S. Williams)
+    - "+3"
+    - 89-95
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 89-95
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '1:29.0'
+    - ''
+    - ''
+    - 89-97
+    - "+2"
+    - A. McDyess makes 2-pt shot at rim
+  - - '1:29.0'
+    - ''
+    - ''
+    - 89-97
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '1:26.0'
+    - E. Davis makes 3-pt shot from 26 ft (assist by G. Payton)
+    - "+3"
+    - 92-97
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Denver full timeout
+  - - '1:08.0'
+    - ''
+    - ''
+    - 92-100
+    - "+3"
+    - V. Lenard makes 3-pt shot from 23 ft (assist by A. McDyess)
+  - - '1:01.0'
+    - S. Williams misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 92-100
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 92-100
+    - ''
+    - Defensive rebound by Team
+  - - '1:00.0'
+    - ''
+    - ''
+    - 92-100
+    - ''
+    - G. McCloud enters the game for K. Clark
+  - - '0:36.1'
+    - ''
+    - ''
+    - 92-103
+    - "+3"
+    - V. Lenard makes 3-pt shot from 24 ft (assist by A. McDyess)
+  - - '0:28.9'
+    - E. Davis misses 3-pt shot from 26 ft
+    - ''
+    - 92-103
+    - ''
+    - ''
+  - - '0:25.4'
+    - ''
+    - ''
+    - 92-103
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '0:03.9'
+    - ''
+    - ''
+    - 92-103
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by S. Williams)
+  - - '0:00.0'
+    - G. Payton misses 2-pt shot from 7 ft
+    - ''
+    - 92-103
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 92-103
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

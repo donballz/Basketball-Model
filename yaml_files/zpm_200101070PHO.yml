@@ -1,0 +1,225 @@
+---
+- name: Plus-Minus
+  data:
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +12&#9642;Off: +8&#9642;Net: +4)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 88/-1
+    - 108/
+    - 53/+3
+    - 249/+14
+    - 147/-6
+    - 103/
+    - 'Kevin Garnett (On: +23&#9642;Off: -3&#9642;Net: +26)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 93/
+    - 156/+7
+    - 249/+14
+    - 79/-3
+    - 71/
+    - 63/+3
+    - 36/
+    - 'Rasho Nesterovic (On: -2&#9642;Off: +22&#9642;Net: -24)'
+    - |2-
+
+      +2
+    - 172/+2
+    - 244/
+    - 25/-2
+    - 59/
+    - 36/-2
+    - 462/
+    - 'Anthony Peeler (On: +28&#9642;Off: -8&#9642;Net: +36)'
+    - |2-
+
+      +3
+    - 163/+3
+    - 179/
+    - 156/+7
+    - 249/+14
+    - 47/+1
+    - 103/
+    - 63/+3
+    - 36/
+    - 'Wally Szczerbiak (On: +10&#9642;Off: +10&#9642;Net: 0)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 56/-2
+    - 191/
+    - 2/-1
+    - 249/+14
+    - 213/-3
+    - 37/
+    - 'Chauncey Billups (On: -2&#9642;Off: +22&#9642;Net: -24)'
+    - "\n"
+    - 167/
+    - 83/-1
+    - 191/+3
+    - 357/
+    - 164/-4
+    - 36/
+    - 'Dean Garrett (On: +19&#9642;Off: +1&#9642;Net: +18)'
+    - "\n"
+    - 173/
+    - 75/0
+    - 56/-2
+    - 140/
+    - 50/+4
+    - 44/
+    - 208/+16
+    - 47/+1
+    - 202/
+    - 'LaPhonso Ellis (On: -4&#9642;Off: +24&#9642;Net: -28)'
+    - "\n"
+    - 250/
+    - 89/-1
+    - 461/
+    - 200/-3
+    - 'Sam Mitchell (On: +9&#9642;Off: +11&#9642;Net: -2)'
+    - "\n"
+    - 308/
+    - 192/+8
+    - 467/
+    - 33/+1
+    - 'Reggie Slater (On: +5&#9642;Off: +15&#9642;Net: -10)'
+    - "\n"
+    - 308/
+    - 107/+7
+    - 421/
+    - 61/-3
+    - 69/
+    - 32/+1
+    - 'William Avery (On: +1&#9642;Off: +19&#9642;Net: -18)'
+    - "\n"
+    - 969/
+    - 33/+1
+    - 'Todd Day (On: +1&#9642;Off: +19&#9642;Net: -18)'
+    - "\n"
+    - 969/
+    - 33/+1
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Dudley (On: 0&#9642;Off: -20&#9642;Net: +20)'
+    - |2-
+
+      0
+    - 136/0
+    - 364/
+    - 80/0
+    - 420/
+    - 'Anfernee Hardaway (On: -12&#9642;Off: -8&#9642;Net: -4)'
+    - |2-
+
+      -3
+    - 163/-3
+    - 86/
+    - 128/+1
+    - 119/
+    - 2/+1
+    - 198/-11
+    - 301/
+    - 'Jason Kidd (On: -22&#9642;Off: +2&#9642;Net: -24)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 134/
+    - 115/-7
+    - 250/-14
+    - 106/+1
+    - 143/
+    - 'Shawn Marion (On: -12&#9642;Off: -8&#9642;Net: -4)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 58/
+    - 191/-8
+    - 105/-2
+    - 96/
+    - 48/-3
+    - 79/+3
+    - 170/
+    - 'Clifford Robinson (On: -9&#9642;Off: -11&#9642;Net: +2)'
+    - |2-
+
+      -4
+    - 195/-4
+    - 188/
+    - 104/-8
+    - 11/
+    - 56/+2
+    - 193/
+    - 126/+1
+    - 123/
+    - 'Jake Tsakalidis (On: -14&#9642;Off: -6&#9642;Net: -8)'
+    - "\n"
+    - 138/
+    - 111/-2
+    - 56/+2
+    - 92/
+    - 98/-4
+    - 88/
+    - 113/-11
+    - 162/
+    - 137/+1
+    - 'Tony Delk (On: -6&#9642;Off: -14&#9642;Net: +8)'
+    - "\n"
+    - 167/
+    - 83/+1
+    - 250/-6
+    - 201/
+    - 48/-3
+    - 249/+2
+    - 'Tom Gugliotta (On: -13&#9642;Off: -7&#9642;Net: -6)'
+    - "\n"
+    - 197/
+    - 52/+2
+    - 128/+1
+    - 179/
+    - 191/-16
+    - 47/-1
+    - 84/
+    - 118/+1
+    - 'Rodney Rogers (On: +1&#9642;Off: -21&#9642;Net: +22)'
+    - "\n"
+    - 250/
+    - 144/-3
+    - 94/
+    - 11/+1
+    - 299/
+    - 200/+3
+    - 'Paul McPherson (On: -13&#9642;Off: -7&#9642;Net: -6)'
+    - "\n"
+    - 607/
+    - 143/-12
+    - 87/
+    - 163/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network
