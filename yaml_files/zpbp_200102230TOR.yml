@@ -1,0 +1,3171 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. V. Divac (C. Oakley gains possession)'
+  - - '11:54.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '11:51.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Oakley misses 2-pt shot from 16 ft
+  - - '11:44.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by A. Davis
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - A. Davis makes 2-pt shot from 15 ft (assist by C. Oakley)
+  - - '11:16.0'
+    - V. Divac makes 2-pt shot at rim (assist by P. Stojakovic)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by M. Peterson (bad pass; steal by D. Christie)
+  - - '10:47.0'
+    - P. Stojakovic makes 2-pt shot at rim (assist by D. Christie)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Turnover by V. Carter (lost ball; steal by J. Williams)
+  - - '10:29.0'
+    - Loose ball foul by V. Carter
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:13.0'
+    - D. Christie misses 2-pt shot from 21 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by A. Davis
+  - - '10:04.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - A. Williams makes 2-pt shot from 17 ft
+  - - '9:49.0'
+    - S. Pollard misses 2-pt shot from 11 ft (block by A. Davis)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by A. Davis
+  - - '9:25.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - A. Davis misses 2-pt shot from 11 ft (block by V. Divac)
+  - - '9:24.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Offensive rebound by Team
+  - - '9:23.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:12.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:12.0'
+    - P. Stojakovic makes free throw 1 of 2
+    - "+1"
+    - 5-4
+    - ''
+    - ''
+  - - '9:12.0'
+    - P. Stojakovic misses free throw 2 of 2
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - Defensive rebound by V. Carter
+  - - '9:00.0'
+    - ''
+    - ''
+    - 5-6
+    - "+2"
+    - A. Davis makes 2-pt shot from 14 ft (assist by C. Oakley)
+  - - '8:46.0'
+    - Shooting foul by M. Peterson
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:46.0'
+    - P. Stojakovic makes free throw 1 of 2
+    - "+1"
+    - 6-6
+    - ''
+    - ''
+  - - '8:46.0'
+    - P. Stojakovic makes free throw 2 of 2
+    - "+1"
+    - 7-6
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 7-6
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '8:30.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 7-6
+    - ''
+    - ''
+  - - '8:16.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 7-6
+    - ''
+    - ''
+  - - '8:16.0'
+    - V. Divac makes free throw 1 of 2
+    - "+1"
+    - 8-6
+    - ''
+    - ''
+  - - '8:16.0'
+    - V. Divac makes free throw 2 of 2
+    - "+1"
+    - 9-6
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Shooting foul by D. Christie
+  - - '8:04.0'
+    - ''
+    - ''
+    - 9-7
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '8:04.0'
+    - ''
+    - ''
+    - 9-8
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '7:44.0'
+    - P. Stojakovic misses 3-pt shot from 23 ft
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:38.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Shooting foul by S. Pollard
+  - - '7:38.0'
+    - ''
+    - ''
+    - 9-9
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '7:38.0'
+    - ''
+    - ''
+    - 9-10
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '7:26.0'
+    - V. Divac misses 2-pt shot from 18 ft
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 9-10
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '7:16.0'
+    - ''
+    - ''
+    - 9-10
+    - ''
+    - Shooting foul by D. Christie
+  - - '7:16.0'
+    - ''
+    - ''
+    - 9-11
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '7:16.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - V. Carter misses free throw 2 of 2
+  - - '7:16.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 9-11
+    - ''
+    - ''
+  - - '7:00.0'
+    - D. Christie makes 2-pt shot at rim
+    - "+2"
+    - 11-11
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 11-11
+    - ''
+    - Turnover by A. Williams (bad pass)
+  - - '6:42.0'
+    - J. Williams misses 2-pt shot from 17 ft
+    - ''
+    - 11-11
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by Team
+    - ''
+    - 11-11
+    - ''
+    - ''
+  - - '6:41.0'
+    - Loose ball foul by C. Oakley
+    - ''
+    - 11-11
+    - ''
+    - ''
+  - - '6:41.0'
+    - S. Pollard makes free throw 1 of 2
+    - "+1"
+    - 12-11
+    - ''
+    - ''
+  - - '6:41.0'
+    - S. Pollard makes free throw 2 of 2
+    - "+1"
+    - 13-11
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 13-13
+    - "+2"
+    - C. Oakley makes 2-pt shot from 17 ft (assist by A. Williams)
+  - - '6:10.0'
+    - S. Pollard makes 2-pt shot at rim
+    - "+2"
+    - 15-13
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - V. Carter misses 2-pt shot from 8 ft
+  - - '5:55.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '5:54.0'
+    - Turnover by V. Divac (bad pass; steal by V. Carter)
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 15-15
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '5:43.0'
+    - V. Divac makes 2-pt shot at rim (assist by J. Williams)
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 17-17
+    - "+2"
+    - A. Davis makes 2-pt shot from 6 ft (assist by V. Carter)
+  - - '5:20.0'
+    - P. Stojakovic misses 2-pt shot from 5 ft
+    - ''
+    - 17-17
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '5:00.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - A. Davis misses 2-pt shot from 7 ft
+  - - '4:57.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 17-17
+    - ''
+    - ''
+  - - '4:54.0'
+    - J. Williams misses 3-pt shot from 27 ft
+    - ''
+    - 17-17
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - Defensive rebound by Team
+  - - '4:52.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - Official timeout
+  - - '4:52.0'
+    - H. Turkoglu enters the game for D. Christie
+    - ''
+    - 17-17
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - K. Clark enters the game for C. Oakley
+  - - '4:33.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '4:32.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '4:28.0'
+    - ''
+    - ''
+    - 17-20
+    - "+3"
+    - V. Carter makes 3-pt shot from 23 ft (assist by M. Peterson)
+  - - '4:06.0'
+    - P. Stojakovic misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '4:04.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '4:02.0'
+    - S. Pollard misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 17-20
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '3:53.0'
+    - ''
+    - ''
+    - 17-20
+    - ''
+    - A. Williams misses 2-pt shot from 19 ft
+  - - '3:52.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '3:42.0'
+    - S. Pollard misses 2-pt shot from 16 ft
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 17-20
+    - ''
+    - Defensive rebound by A. Williams
+  - - '3:23.0'
+    - ''
+    - ''
+    - 17-20
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '3:22.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 17-20
+    - ''
+    - ''
+  - - '3:09.0'
+    - V. Divac makes 2-pt shot from 7 ft
+    - "+2"
+    - 19-20
+    - ''
+    - ''
+  - - '3:09.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 19-20
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 19-20
+    - ''
+    - T. Murray enters the game for M. Peterson
+  - - '3:09.0'
+    - V. Divac makes free throw 1 of 1
+    - "+1"
+    - 20-20
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 20-22
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '2:38.0'
+    - P. Stojakovic misses 3-pt shot from 24 ft
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:36.0'
+    - Loose ball foul by T. Murray
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:36.0'
+    - Official timeout
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:36.0'
+    - S. Pollard makes free throw 1 of 2
+    - "+1"
+    - 21-22
+    - ''
+    - ''
+  - - '2:36.0'
+    - S. Pollard makes free throw 2 of 2
+    - "+1"
+    - 22-22
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - A. Davis misses 2-pt shot from 11 ft
+  - - '2:16.0'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Offensive rebound by V. Carter
+  - - '2:15.0'
+    - ''
+    - ''
+    - 22-24
+    - "+2"
+    - V. Carter makes 2-pt shot from 6 ft
+  - - '2:02.0'
+    - Offensive foul by J. Williams
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '2:02.0'
+    - Turnover by J. Williams (foul)
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 22-24
+    - ''
+    - V. Carter misses 2-pt shot from 20 ft
+  - - '1:52.0'
+    - ''
+    - ''
+    - 22-24
+    - ''
+    - Offensive rebound by T. Murray
+  - - '1:50.0'
+    - ''
+    - ''
+    - 22-24
+    - ''
+    - T. Murray misses 2-pt shot at rim (block by H. Turkoglu)
+  - - '1:49.0'
+    - Defensive rebound by H. Turkoglu
+    - ''
+    - 22-24
+    - ''
+    - ''
+  - - '1:43.0'
+    - S. Pollard makes 2-pt shot at rim (assist by P. Stojakovic)
+    - "+2"
+    - 24-24
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 24-27
+    - "+3"
+    - T. Murray makes 3-pt shot from 23 ft (assist by A. Williams)
+  - - '1:10.0'
+    - S. Pollard makes 2-pt shot at rim (assist by H. Turkoglu)
+    - "+2"
+    - 26-27
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 26-27
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '0:48.7'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 26-27
+    - ''
+    - ''
+  - - '0:36.9'
+    - P. Stojakovic makes 3-pt shot from 25 ft (assist by J. Williams)
+    - "+3"
+    - 29-27
+    - ''
+    - ''
+  - - '0:16.1'
+    - L. Funderburke enters the game for V. Divac
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '0:13.9'
+    - ''
+    - ''
+    - 29-29
+    - "+2"
+    - V. Carter makes 2-pt shot from 22 ft (assist by A. Williams)
+  - - '0:01.9'
+    - J. Williams misses 3-pt shot from 26 ft
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '0:00.4'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '0:00.1'
+    - S. Pollard makes 2-pt shot at rim
+    - "+2"
+    - 31-29
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - H. Turkoglu makes 2-pt shot from 8 ft
+    - "+2"
+    - 33-29
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - T. Murray misses 3-pt shot from 25 ft
+  - - '11:31.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '11:11.0'
+    - P. Stojakovic misses 3-pt shot from 25 ft (block by K. Clark)
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '11:08.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by A. Davis
+  - - '10:53.0'
+    - ''
+    - ''
+    - 33-31
+    - "+2"
+    - T. Murray makes 2-pt shot from 9 ft
+  - - '10:53.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Shooting foul by H. Turkoglu
+  - - '10:53.0'
+    - ''
+    - ''
+    - 33-32
+    - "+1"
+    - T. Murray makes free throw 1 of 1
+  - - '10:35.0'
+    - P. Stojakovic misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 33-32
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 33-32
+    - ''
+    - Defensive rebound by A. Williams
+  - - '10:29.0'
+    - ''
+    - ''
+    - 33-34
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '10:05.0'
+    - L. Funderburke makes 2-pt shot from 17 ft
+    - "+2"
+    - 35-34
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - A. Williams misses 2-pt shot at rim (block by S. Pollard)
+  - - '9:47.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - D. Curry enters the game for A. Williams
+  - - '9:46.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - C. Oakley enters the game for A. Davis
+  - - '9:46.0'
+    - A. Long enters the game for S. Pollard
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '9:46.0'
+    - D. Christie enters the game for P. Stojakovic
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '9:27.0'
+    - H. Turkoglu misses 2-pt shot from 18 ft
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - Defensive rebound by D. Curry
+  - - '9:17.0'
+    - ''
+    - ''
+    - 35-36
+    - "+2"
+    - V. Carter makes 2-pt shot from 5 ft
+  - - '9:17.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Shooting foul by D. Christie
+  - - '9:17.0'
+    - ''
+    - ''
+    - 35-37
+    - "+1"
+    - V. Carter makes free throw 1 of 1
+  - - '9:02.0'
+    - D. Christie misses 2-pt shot at rim
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:58.0'
+    - Offensive rebound by L. Funderburke
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:56.0'
+    - L. Funderburke misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:55.0'
+    - Offensive rebound by D. Christie
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:55.0'
+    - Shooting foul by T. Murray
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:55.0'
+    - Official timeout
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '8:55.0'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 36-37
+    - ''
+    - ''
+  - - '8:55.0'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 37-37
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 37-37
+    - ''
+    - D. Curry misses 2-pt shot from 21 ft
+  - - '8:36.0'
+    - Defensive rebound by A. Long
+    - ''
+    - 37-37
+    - ''
+    - ''
+  - - '8:21.0'
+    - L. Funderburke misses 2-pt shot from 14 ft
+    - ''
+    - 37-37
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 37-37
+    - ''
+    - Defensive rebound by V. Carter
+  - - '8:14.0'
+    - ''
+    - ''
+    - 37-37
+    - ''
+    - T. Murray misses 2-pt shot at rim
+  - - '8:12.0'
+    - Defensive rebound by L. Funderburke
+    - ''
+    - 37-37
+    - ''
+    - ''
+  - - '8:04.0'
+    - D. Christie makes 2-pt shot at rim
+    - "+2"
+    - 39-37
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - K. Clark misses 2-pt shot from 6 ft
+  - - '7:41.0'
+    - Defensive rebound by D. Christie
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '7:29.0'
+    - H. Turkoglu misses 3-pt shot from 25 ft
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:23.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - Turnover by D. Curry (bad pass; steal by D. Christie)
+  - - '7:21.0'
+    - Turnover by D. Christie (out of bounds)
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - Personal foul by B. Jackson
+  - - '7:03.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '7:01.0'
+    - Defensive rebound by Team
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '7:01.0'
+    - Loose ball foul by K. Clark
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '6:48.0'
+    - B. Jackson misses 2-pt shot from 17 ft
+    - ''
+    - 39-37
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 39-37
+    - ''
+    - Defensive rebound by D. Curry
+  - - '6:39.0'
+    - ''
+    - ''
+    - 39-40
+    - "+3"
+    - T. Murray makes 3-pt shot from 25 ft (assist by V. Carter)
+  - - '6:19.0'
+    - H. Turkoglu misses 3-pt shot from 25 ft
+    - ''
+    - 39-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 39-40
+    - ''
+    - Defensive rebound by V. Carter
+  - - '6:12.0'
+    - ''
+    - ''
+    - 39-40
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '6:10.0'
+    - ''
+    - ''
+    - 39-40
+    - ''
+    - Offensive rebound by V. Carter
+  - - '6:05.0'
+    - ''
+    - ''
+    - 39-42
+    - "+2"
+    - T. Murray makes 2-pt shot from 21 ft (assist by V. Carter)
+  - - '5:54.0'
+    - Sacramento full timeout
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - A. Davis enters the game for K. Clark
+  - - '5:54.0'
+    - S. Pollard enters the game for D. Christie
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:54.0'
+    - V. Divac enters the game for L. Funderburke
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:54.0'
+    - P. Stojakovic enters the game for A. Long
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:46.0'
+    - V. Divac misses 2-pt shot at rim
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:28.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '5:26.0'
+    - Defensive rebound by B. Jackson
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:18.0'
+    - P. Stojakovic misses 2-pt shot from 17 ft
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:00.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - T. Murray misses 2-pt shot from 8 ft
+  - - '4:58.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Offensive rebound by T. Murray
+  - - '4:57.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - T. Murray misses 2-pt shot from 8 ft
+  - - '4:55.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '4:51.0'
+    - Turnover by B. Jackson (bad pass; steal by D. Curry)
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - C. Oakley misses 2-pt shot from 17 ft
+  - - '4:41.0'
+    - Defensive rebound by Team
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '4:41.0'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '4:30.0'
+    - V. Divac makes 2-pt shot from 5 ft
+    - "+2"
+    - 41-42
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - Personal foul by V. Divac
+  - - '4:13.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - A. Williams enters the game for T. Murray
+  - - '4:01.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft (block by S. Pollard)
+  - - '3:59.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:53.0'
+    - H. Turkoglu misses 2-pt shot at rim (block by D. Curry)
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:45.0'
+    - Turnover by S. Pollard (traveling)
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - C. Oakley misses 2-pt shot from 15 ft
+  - - '3:29.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:17.0'
+    - P. Stojakovic misses 2-pt shot at rim
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:15.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '3:12.0'
+    - S. Pollard makes 2-pt shot at rim
+    - "+2"
+    - 43-42
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 43-44
+    - "+2"
+    - A. Davis makes 2-pt shot from 21 ft (assist by V. Carter)
+  - - '2:42.0'
+    - V. Divac makes 2-pt shot from 19 ft (assist by J. Williams)
+    - "+2"
+    - 45-44
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 45-44
+    - ''
+    - V. Carter misses 2-pt shot from 21 ft
+  - - '2:21.0'
+    - Defensive rebound by H. Turkoglu
+    - ''
+    - 45-44
+    - ''
+    - ''
+  - - '2:05.0'
+    - V. Divac makes 2-pt shot from 18 ft (assist by H. Turkoglu)
+    - "+2"
+    - 47-44
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - Toronto full timeout
+  - - '1:56.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - J. Williams enters the game for D. Curry
+  - - '1:40.0'
+    - ''
+    - ''
+    - 47-46
+    - "+2"
+    - V. Carter makes 2-pt shot from 9 ft
+  - - '1:15.0'
+    - Personal foul by V. Carter
+    - ''
+    - 47-46
+    - ''
+    - ''
+  - - '1:05.0'
+    - P. Stojakovic makes 3-pt shot from 25 ft (assist by V. Divac)
+    - "+3"
+    - 50-46
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '0:49.6'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 50-46
+    - ''
+    - ''
+  - - '0:29.9'
+    - Turnover by H. Turkoglu (bad pass; steal by C. Oakley)
+    - ''
+    - 50-46
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - V. Carter misses 2-pt shot from 10 ft
+  - - '0:07.0'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - Offensive rebound by Team
+  - - '0:07.0'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - Toronto 20 second timeout
+  - - '0:00.1'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - A. Davis misses 2-pt shot from 15 ft (block by S. Pollard)
+  - - '0:00.0'
+    - ''
+    - ''
+    - 50-46
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - D. Christie makes 2-pt shot from 21 ft
+    - "+2"
+    - 52-46
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 52-48
+    - "+2"
+    - V. Carter makes 2-pt shot from 11 ft
+  - - '10:52.0'
+    - S. Pollard misses 2-pt shot at rim
+    - ''
+    - 52-48
+    - ''
+    - ''
+  - - '10:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 52-48
+    - ''
+    - ''
+  - - '10:50.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 52-48
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 52-50
+    - "+2"
+    - V. Carter makes 2-pt shot from 12 ft
+  - - '10:23.0'
+    - Shooting foul by M. Peterson
+    - ''
+    - 52-50
+    - ''
+    - ''
+  - - '10:23.0'
+    - P. Stojakovic makes free throw 1 of 2
+    - "+1"
+    - 53-50
+    - ''
+    - ''
+  - - '10:23.0'
+    - P. Stojakovic makes free throw 2 of 2
+    - "+1"
+    - 54-50
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 54-52
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by M. Peterson)
+  - - '9:49.0'
+    - Turnover by P. Stojakovic (bad pass; steal by C. Oakley)
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '9:41.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '9:22.0'
+    - V. Divac misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - Defensive rebound by Team
+  - - '9:09.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - A. Davis misses 2-pt shot from 6 ft
+  - - '9:07.0'
+    - Defensive rebound by D. Christie
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '8:53.0'
+    - P. Stojakovic misses 2-pt shot from 11 ft
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - Defensive rebound by A. Davis
+  - - '8:46.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - A. Williams misses 2-pt shot from 20 ft
+  - - '8:43.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '8:29.0'
+    - V. Divac misses 2-pt shot from 5 ft
+    - ''
+    - 54-52
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 54-52
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '8:17.0'
+    - ''
+    - ''
+    - 54-54
+    - "+2"
+    - C. Oakley makes 2-pt shot from 20 ft (assist by A. Williams)
+  - - '7:57.0'
+    - V. Divac misses 2-pt shot at rim
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 54-54
+    - ''
+    - Defensive rebound by A. Davis
+  - - '7:47.0'
+    - ''
+    - ''
+    - 54-54
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '7:45.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '7:26.0'
+    - P. Stojakovic makes 3-pt shot from 23 ft (assist by V. Divac)
+    - "+3"
+    - 57-54
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Turnover by C. Oakley (bad pass)
+  - - '6:59.0'
+    - P. Stojakovic makes 2-pt shot at rim (assist by J. Williams)
+    - "+2"
+    - 59-54
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - Toronto full timeout
+  - - '6:40.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - A. Davis misses 2-pt shot at rim (block by V. Divac)
+  - - '6:38.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - Offensive rebound by A. Davis
+  - - '6:37.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - A. Davis misses 2-pt shot at rim (block by P. Stojakovic)
+  - - '6:37.0'
+    - ''
+    - ''
+    - 59-54
+    - ''
+    - Offensive rebound by Team
+  - - '6:34.0'
+    - ''
+    - ''
+    - 59-56
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Peterson)
+  - - '6:15.0'
+    - P. Stojakovic makes 2-pt shot from 16 ft
+    - "+2"
+    - 61-56
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 61-59
+    - "+3"
+    - M. Peterson makes 3-pt shot from 24 ft (assist by A. Williams)
+  - - '5:37.0'
+    - V. Divac misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '5:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '5:29.0'
+    - P. Stojakovic makes 2-pt shot from 18 ft
+    - "+2"
+    - 63-59
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 63-59
+    - ''
+    - V. Carter misses 2-pt shot from 23 ft
+  - - '5:10.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 63-59
+    - ''
+    - ''
+  - - '4:56.0'
+    - P. Stojakovic misses 2-pt shot from 6 ft (block by A. Williams)
+    - ''
+    - 63-59
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 63-59
+    - ''
+    - Defensive rebound by A. Williams
+  - - '4:48.0'
+    - ''
+    - ''
+    - 63-62
+    - "+3"
+    - M. Peterson makes 3-pt shot from 23 ft (assist by A. Williams)
+  - - '4:35.0'
+    - Turnover by D. Christie (lost ball; steal by M. Peterson)
+    - ''
+    - 63-62
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 63-64
+    - "+2"
+    - V. Carter makes 2-pt shot from 6 ft (assist by M. Peterson)
+  - - '4:26.0'
+    - Sacramento full timeout
+    - ''
+    - 63-64
+    - ''
+    - ''
+  - - '4:07.0'
+    - Personal foul by M. Peterson
+    - ''
+    - 63-64
+    - ''
+    - ''
+  - - '4:01.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 63-64
+    - ''
+    - ''
+  - - '4:01.0'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 64-64
+    - ''
+    - ''
+  - - '4:01.0'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 65-64
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 65-66
+    - "+2"
+    - M. Peterson makes 2-pt shot from 12 ft
+  - - '3:30.0'
+    - P. Stojakovic makes 3-pt shot from 25 ft
+    - "+3"
+    - 68-66
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 68-66
+    - ''
+    - Shooting foul by P. Stojakovic
+  - - '3:10.0'
+    - ''
+    - ''
+    - 68-67
+    - "+1"
+    - M. Peterson makes free throw 1 of 2
+  - - '3:10.0'
+    - ''
+    - ''
+    - 68-68
+    - "+1"
+    - M. Peterson makes free throw 2 of 2
+  - - '2:53.0'
+    - V. Divac misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 68-68
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 68-68
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '2:41.0'
+    - ''
+    - ''
+    - 68-70
+    - "+2"
+    - A. Davis makes 2-pt shot from 13 ft (assist by A. Williams)
+  - - '2:40.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:27.0'
+    - Offensive foul by V. Divac
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:27.0'
+    - Turnover by V. Divac (foul)
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:27.0'
+    - Double technical foul by V. Carter and V. Divac
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 68-72
+    - "+2"
+    - C. Oakley makes 2-pt shot from 20 ft (assist by A. Davis)
+  - - '1:55.0'
+    - Personal foul by A. Davis
+    - ''
+    - 68-72
+    - ''
+    - ''
+  - - '1:55.0'
+    - L. Funderburke enters the game for V. Divac
+    - ''
+    - 68-72
+    - ''
+    - ''
+  - - '1:46.0'
+    - D. Christie misses 2-pt shot from 20 ft
+    - ''
+    - 68-72
+    - ''
+    - ''
+  - - '1:45.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 68-72
+    - ''
+    - ''
+  - - '1:42.0'
+    - P. Stojakovic makes 2-pt shot from 17 ft (assist by S. Pollard)
+    - "+2"
+    - 70-72
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 70-74
+    - "+2"
+    - A. Williams makes 2-pt shot from 16 ft
+  - - '1:14.0'
+    - J. Williams makes 3-pt shot from 26 ft
+    - "+3"
+    - 73-74
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 73-74
+    - ''
+    - A. Williams misses 2-pt shot from 20 ft
+  - - '0:50.3'
+    - Defensive rebound by D. Christie
+    - ''
+    - 73-74
+    - ''
+    - ''
+  - - '0:38.7'
+    - Shooting foul by M. Peterson
+    - ''
+    - 73-74
+    - ''
+    - ''
+  - - '0:38.7'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 74-74
+    - ''
+    - ''
+  - - '0:38.7'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 75-74
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 75-76
+    - "+2"
+    - V. Carter makes 2-pt shot from 16 ft (assist by A. Williams)
+  - - '0:18.9'
+    - Turnover by D. Christie (lost ball; steal by C. Oakley)
+    - ''
+    - 75-76
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 75-79
+    - "+3"
+    - C. Oakley makes 3-pt shot from 24 ft (assist by A. Williams)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Personal foul by S. Pollard
+  - - '11:41.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '11:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '11:21.0'
+    - B. Jackson misses 2-pt shot from 19 ft (block by M. Peterson)
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Defensive rebound by A. Davis
+  - - '11:01.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - V. Carter misses 2-pt shot from 8 ft
+  - - '11:00.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 75-79
+    - ''
+    - ''
+  - - '10:53.0'
+    - B. Jackson makes 2-pt shot at rim
+    - "+2"
+    - 77-79
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - A. Davis misses 2-pt shot from 14 ft
+  - - '10:30.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '10:16.0'
+    - ''
+    - ''
+    - 77-82
+    - "+3"
+    - M. Peterson makes 3-pt shot from 24 ft (assist by A. Williams)
+  - - '10:01.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - K. Clark enters the game for A. Davis
+  - - '9:55.0'
+    - H. Turkoglu misses 2-pt shot from 15 ft
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '9:45.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - K. Clark misses 2-pt shot at rim (block by S. Pollard)
+  - - '9:43.0'
+    - Defensive rebound by L. Funderburke
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '9:36.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '9:36.0'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 78-82
+    - ''
+    - ''
+  - - '9:36.0'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 79-82
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 79-82
+    - ''
+    - M. Peterson misses 2-pt shot from 17 ft
+  - - '9:22.0'
+    - Defensive rebound by D. Christie
+    - ''
+    - 79-82
+    - ''
+    - ''
+  - - '9:18.0'
+    - P. Stojakovic enters the game for D. Christie
+    - ''
+    - 79-82
+    - ''
+    - ''
+  - - '9:03.0'
+    - P. Stojakovic makes 2-pt shot at rim (assist by S. Pollard)
+    - "+2"
+    - 81-82
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Personal foul by L. Funderburke
+  - - '8:49.0'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Official timeout
+  - - '8:38.0'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Turnover by V. Carter (lost ball; steal by B. Jackson)
+  - - '8:33.0'
+    - L. Funderburke makes 2-pt shot at rim (assist by B. Jackson)
+    - "+2"
+    - 83-82
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 83-82
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '8:16.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 83-82
+    - ''
+    - ''
+  - - '7:54.0'
+    - P. Stojakovic misses 3-pt shot from 24 ft
+    - ''
+    - 83-82
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 83-82
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '7:31.0'
+    - ''
+    - ''
+    - 83-82
+    - ''
+    - K. Clark misses 2-pt shot from 20 ft
+  - - '7:29.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 83-82
+    - ''
+    - ''
+  - - '7:19.0'
+    - Turnover by P. Stojakovic (bad pass; steal by A. Williams)
+    - ''
+    - 83-82
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 83-84
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '6:47.0'
+    - S. Pollard misses 2-pt shot from 8 ft (block by K. Clark)
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:46.0'
+    - Offensive rebound by L. Funderburke
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:46.0'
+    - Personal foul by M. Peterson
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 83-84
+    - ''
+    - T. Murray enters the game for M. Peterson
+  - - '6:46.0'
+    - V. Divac enters the game for S. Pollard
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:34.0'
+    - H. Turkoglu misses 2-pt shot from 6 ft
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:32.0'
+    - Offensive rebound by L. Funderburke
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '6:30.0'
+    - L. Funderburke makes 2-pt shot at rim
+    - "+2"
+    - 85-84
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 85-86
+    - "+2"
+    - T. Murray makes 2-pt shot from 8 ft
+  - - '5:54.0'
+    - Turnover by V. Divac (bad pass; steal by T. Murray)
+    - ''
+    - 85-86
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 85-88
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '5:27.0'
+    - Sacramento full timeout
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 85-88
+    - ''
+    - A. Davis enters the game for K. Clark
+  - - '5:27.0'
+    - D. Christie enters the game for H. Turkoglu
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '5:18.0'
+    - D. Christie misses 2-pt shot from 16 ft
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 85-88
+    - ''
+    - Defensive rebound by A. Davis
+  - - '4:54.0'
+    - ''
+    - ''
+    - 85-88
+    - ''
+    - A. Williams misses 3-pt shot from 26 ft
+  - - '4:52.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:51.0'
+    - Personal foul by V. Carter
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:51.0'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:36.0'
+    - V. Divac misses 2-pt shot from 19 ft
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - Offensive rebound by L. Funderburke
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - Personal foul by A. Davis
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - L. Funderburke misses free throw 1 of 2
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 85-88
+    - ''
+    - ''
+  - - '4:35.0'
+    - L. Funderburke makes free throw 2 of 2
+    - "+1"
+    - 86-88
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 86-91
+    - "+3"
+    - T. Murray makes 3-pt shot from 25 ft (assist by A. Williams)
+  - - '4:04.0'
+    - P. Stojakovic makes 3-pt shot from 25 ft
+    - "+3"
+    - 89-91
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 89-91
+    - ''
+    - Shooting foul by P. Stojakovic
+  - - '3:47.0'
+    - S. Pollard enters the game for L. Funderburke
+    - ''
+    - 89-91
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 89-92
+    - "+1"
+    - T. Murray makes free throw 1 of 2
+  - - '3:47.0'
+    - ''
+    - ''
+    - 89-93
+    - "+1"
+    - T. Murray makes free throw 2 of 2
+  - - '3:31.0'
+    - P. Stojakovic misses 2-pt shot from 13 ft
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '3:28.0'
+    - Offensive rebound by V. Divac
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '3:27.0'
+    - V. Divac misses 2-pt shot from 8 ft
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 89-93
+    - ''
+    - Defensive rebound by Team
+  - - '3:18.0'
+    - ''
+    - ''
+    - 89-93
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '3:16.0'
+    - Defensive rebound by D. Christie
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '3:02.0'
+    - S. Pollard misses 2-pt shot from 11 ft
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 89-93
+    - ''
+    - Defensive rebound by T. Murray
+  - - '2:46.0'
+    - ''
+    - ''
+    - 89-93
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '2:45.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '2:39.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '2:39.0'
+    - Official timeout
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '2:39.0'
+    - D. Christie misses free throw 1 of 2
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '2:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 89-93
+    - ''
+    - ''
+  - - '2:39.0'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 90-93
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 90-93
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '2:24.0'
+    - Defensive rebound by Team
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '2:24.0'
+    - Loose ball foul by A. Davis
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '2:24.0'
+    - S. Pollard misses free throw 1 of 2
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '2:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 90-93
+    - ''
+    - ''
+  - - '2:24.0'
+    - S. Pollard makes free throw 2 of 2
+    - "+1"
+    - 91-93
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 91-93
+    - ''
+    - Shooting foul by D. Christie
+  - - '2:13.0'
+    - ''
+    - ''
+    - 91-94
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '2:13.0'
+    - ''
+    - ''
+    - 91-95
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '1:50.0'
+    - D. Christie makes 2-pt shot at rim
+    - "+2"
+    - 93-95
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 93-95
+    - ''
+    - Turnover by A. Williams (bad pass; steal by D. Christie)
+  - - '1:16.0'
+    - D. Christie misses 3-pt shot from 25 ft
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 93-95
+    - ''
+    - Defensive rebound by T. Murray
+  - - '1:02.0'
+    - ''
+    - ''
+    - 93-95
+    - ''
+    - V. Carter misses 2-pt shot from 21 ft
+  - - '0:59.3'
+    - Defensive rebound by Team
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '0:59.3'
+    - Sacramento full timeout
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '0:45.4'
+    - Shooting foul by C. Oakley
+    - ''
+    - 93-95
+    - ''
+    - ''
+  - - '0:45.4'
+    - V. Divac makes free throw 1 of 2
+    - "+1"
+    - 94-95
+    - ''
+    - ''
+  - - '0:45.4'
+    - V. Divac makes free throw 2 of 2
+    - "+1"
+    - 95-95
+    - ''
+    - ''
+  - - '0:26.9'
+    - ''
+    - ''
+    - 95-95
+    - ''
+    - V. Carter misses 3-pt shot from 28 ft
+  - - '0:24.9'
+    - Defensive rebound by J. Williams
+    - ''
+    - 95-95
+    - ''
+    - ''
+  - - '0:02.7'
+    - P. Stojakovic makes 2-pt shot from 21 ft (assist by D. Christie)
+    - "+2"
+    - 97-95
+    - ''
+    - ''
+  - - '0:02.7'
+    - ''
+    - ''
+    - 97-95
+    - ''
+    - Toronto full timeout
+  - - '0:02.7'
+    - B. Jackson enters the game for J. Williams
+    - ''
+    - 97-95
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 97-95
+    - ''
+    - Shooting foul by V. Divac
+  - - '0:00.4'
+    - ''
+    - ''
+    - 97-96
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '0:00.4'
+    - ''
+    - ''
+    - 97-96
+    - ''
+    - Toronto 20 second timeout
+  - - '0:00.4'
+    - ''
+    - ''
+    - 97-96
+    - ''
+    - J. Williams enters the game for T. Murray
+  - - '0:00.4'
+    - ''
+    - ''
+    - 97-97
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '0:00.4'
+    - Sacramento full timeout
+    - ''
+    - 97-97
+    - ''
+    - ''
+  - - '0:00.4'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 97-97
+    - ''
+    - ''
+  - - '0:00.1'
+    - V. Divac misses 3-pt shot from 31 ft
+    - ''
+    - 97-97
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 97-97
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: A. Davis vs. V. Divac (J. Williams gains possession)'
+  - - '4:45.0'
+    - Personal foul by T. Murray
+    - ''
+    - 97-97
+    - ''
+    - ''
+  - - '4:32.0'
+    - V. Divac makes 2-pt shot from 13 ft
+    - "+2"
+    - 99-97
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 99-97
+    - ''
+    - Shooting foul by V. Divac
+  - - '4:13.0'
+    - ''
+    - ''
+    - 99-98
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '4:13.0'
+    - ''
+    - ''
+    - 99-99
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '4:03.0'
+    - D. Christie misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 99-99
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 99-99
+    - ''
+    - Defensive rebound by V. Carter
+  - - '3:47.0'
+    - ''
+    - ''
+    - 99-101
+    - "+2"
+    - V. Carter makes 2-pt shot from 21 ft
+  - - '3:24.0'
+    - V. Divac makes 2-pt shot at rim
+    - "+2"
+    - 101-101
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - A. Davis misses 2-pt shot from 14 ft
+  - - '3:05.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '2:45.0'
+    - D. Christie misses 3-pt shot from 25 ft
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - Defensive rebound by V. Carter
+  - - '2:28.0'
+    - ''
+    - ''
+    - 101-103
+    - "+2"
+    - A. Williams makes 2-pt shot from 21 ft
+  - - '2:06.0'
+    - J. Williams misses 3-pt shot from 26 ft
+    - ''
+    - 101-103
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 101-103
+    - ''
+    - Defensive rebound by A. Davis
+  - - '1:58.0'
+    - ''
+    - ''
+    - 101-103
+    - ''
+    - Toronto 20 second timeout
+  - - '1:46.0'
+    - ''
+    - ''
+    - 101-105
+    - "+2"
+    - A. Williams makes 2-pt shot from 17 ft
+  - - '1:29.0'
+    - V. Divac makes 2-pt shot from 5 ft
+    - "+2"
+    - 103-105
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - Turnover by A. Davis (lost ball; steal by P. Stojakovic)
+  - - '1:05.0'
+    - V. Divac misses 2-pt shot from 19 ft
+    - ''
+    - 103-105
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:42.9'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - A. Williams misses 2-pt shot from 11 ft
+  - - '0:41.5'
+    - Defensive rebound by V. Divac
+    - ''
+    - 103-105
+    - ''
+    - ''
+  - - '0:31.9'
+    - S. Pollard misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 103-105
+    - ''
+    - ''
+  - - '0:29.7'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - Defensive rebound by A. Williams
+  - - '0:25.9'
+    - ''
+    - ''
+    - 103-105
+    - ''
+    - Turnover by A. Williams (lost ball; steal by P. Stojakovic)
+  - - '0:23.2'
+    - S. Pollard makes 2-pt shot at rim (assist by D. Christie)
+    - "+2"
+    - 105-105
+    - ''
+    - ''
+  - - '0:11.4'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - Toronto full timeout
+  - - '0:11.4'
+    - B. Jackson enters the game for J. Williams
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - Turnover by A. Williams (lost ball; steal by B. Jackson)
+  - - '0:00.1'
+    - B. Jackson misses 3-pt shot from 25 ft
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime
+  - []
+  - - '5:00.0'
+    - Start of 2nd overtime
+  - - '5:00.0'
+    - 'Jump ball: A. Davis vs. V. Divac (P. Stojakovic gains possession)'
+  - - '4:43.0'
+    - D. Christie misses 2-pt shot from 18 ft
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '4:41.0'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - Defensive rebound by A. Davis
+  - - '4:29.0'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - V. Carter misses 2-pt shot from 20 ft
+  - - '4:27.0'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '4:13.0'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '4:11.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '3:55.0'
+    - Turnover by D. Christie (bad pass)
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 105-105
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '3:34.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 105-105
+    - ''
+    - ''
+  - - '3:23.0'
+    - P. Stojakovic makes 2-pt shot from 16 ft (assist by J. Williams)
+    - "+2"
+    - 107-105
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 107-107
+    - "+2"
+    - V. Carter makes 2-pt shot from 14 ft (assist by A. Williams)
+  - - '2:52.0'
+    - V. Divac misses 2-pt shot from 17 ft
+    - ''
+    - 107-107
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 107-107
+    - ''
+    - Defensive rebound by V. Carter
+  - - '2:39.0'
+    - ''
+    - ''
+    - 107-107
+    - ''
+    - V. Carter misses 2-pt shot from 18 ft
+  - - '2:37.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 107-107
+    - ''
+    - ''
+  - - '2:25.0'
+    - Turnover by J. Williams (lost ball; steal by A. Williams)
+    - ''
+    - 107-107
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 107-109
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by V. Carter)
+  - - '1:58.0'
+    - S. Pollard makes 2-pt shot at rim (assist by J. Williams)
+    - "+2"
+    - 109-109
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 109-109
+    - ''
+    - Personal foul by D. Christie
+  - - '1:37.0'
+    - ''
+    - ''
+    - 109-109
+    - ''
+    - Shooting foul by V. Divac
+  - - '1:37.0'
+    - ''
+    - ''
+    - 109-109
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '1:37.0'
+    - ''
+    - ''
+    - 109-109
+    - ''
+    - Offensive rebound by Team
+  - - '1:37.0'
+    - ''
+    - ''
+    - 109-110
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '1:24.0'
+    - Personal foul by V. Carter
+    - ''
+    - 109-110
+    - ''
+    - ''
+  - - '1:15.0'
+    - P. Stojakovic misses 2-pt shot from 21 ft
+    - ''
+    - 109-110
+    - ''
+    - ''
+  - - '1:14.0'
+    - Offensive rebound by P. Stojakovic
+    - ''
+    - 109-110
+    - ''
+    - ''
+  - - '1:10.0'
+    - D. Christie makes 3-pt shot from 23 ft (assist by P. Stojakovic)
+    - "+3"
+    - 112-110
+    - ''
+    - ''
+  - - '0:54.9'
+    - ''
+    - ''
+    - 112-110
+    - ''
+    - V. Carter misses 2-pt shot from 16 ft
+  - - '0:53.6'
+    - Defensive rebound by Team
+    - ''
+    - 112-110
+    - ''
+    - ''
+  - - '0:30.9'
+    - J. Williams misses 3-pt shot from 26 ft
+    - ''
+    - 112-110
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 112-110
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:09.9'
+    - ''
+    - ''
+    - 112-112
+    - "+2"
+    - A. Williams makes 2-pt shot from 6 ft
+  - - '0:09.6'
+    - Sacramento full timeout
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:09.6'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - J. Williams enters the game for T. Murray
+  - - '0:02.9'
+    - Turnover by V. Divac (lost ball; steal by A. Williams)
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - Toronto full timeout
+  - - '0:00.9'
+    - B. Jackson enters the game for J. Williams
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - T. Murray enters the game for J. Williams
+  - - '0:00.0'
+    - End of 2nd overtime
+  - []
+  - - '5:00.0'
+    - Start of 3rd overtime
+  - - '5:00.0'
+    - 'Jump ball: A. Davis vs. V. Divac (J. Williams gains possession)'
+  - - '4:44.0'
+    - P. Stojakovic misses 2-pt shot from 19 ft
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '4:22.0'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - T. Murray misses 3-pt shot from 24 ft
+  - - '4:20.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '4:05.0'
+    - P. Stojakovic misses 2-pt shot at rim
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - Defensive rebound by A. Davis
+  - - '3:53.0'
+    - ''
+    - ''
+    - 112-114
+    - "+2"
+    - A. Davis makes 2-pt shot from 18 ft (assist by A. Williams)
+  - - '3:33.0'
+    - D. Christie misses 3-pt shot from 24 ft
+    - ''
+    - 112-114
+    - ''
+    - ''
+  - - '3:30.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 112-114
+    - ''
+    - ''
+  - - '3:17.0'
+    - Turnover by J. Williams (bad pass)
+    - ''
+    - 112-114
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 112-116
+    - "+2"
+    - A. Davis makes 2-pt shot from 7 ft
+  - - '2:38.0'
+    - V. Divac makes 2-pt shot at rim
+    - "+2"
+    - 114-116
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 114-116
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '2:12.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 114-116
+    - ''
+    - ''
+  - - '1:56.0'
+    - J. Williams makes 2-pt shot at rim
+    - "+2"
+    - 116-116
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 116-116
+    - ''
+    - A. Davis misses 2-pt shot from 6 ft
+  - - '1:33.0'
+    - Defensive rebound by D. Christie
+    - ''
+    - 116-116
+    - ''
+    - ''
+  - - '1:14.0'
+    - Turnover by J. Williams (lost ball; steal by A. Williams)
+    - ''
+    - 116-116
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 116-116
+    - ''
+    - Toronto full timeout
+  - - '0:57.6'
+    - ''
+    - ''
+    - 116-118
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by V. Carter)
+  - - '0:57.6'
+    - Sacramento full timeout
+    - ''
+    - 116-118
+    - ''
+    - ''
+  - - '0:57.6'
+    - ''
+    - ''
+    - 116-118
+    - ''
+    - J. Williams enters the game for T. Murray
+  - - '0:45.2'
+    - P. Stojakovic makes 3-pt shot from 23 ft (assist by V. Divac)
+    - "+3"
+    - 119-118
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - A. Williams misses 2-pt shot from 22 ft
+  - - '0:29.8'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 119-118
+    - ''
+    - ''
+  - - '0:28.4'
+    - Personal foul by J. Williams
+    - ''
+    - 119-118
+    - ''
+    - ''
+  - - '0:04.4'
+    - Turnover by Team (shot clock)
+    - ''
+    - 119-118
+    - ''
+    - ''
+  - - '0:04.4'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - Toronto full timeout
+  - - '0:04.4'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - T. Murray enters the game for J. Williams
+  - - '0:04.4'
+    - B. Jackson enters the game for J. Williams
+    - ''
+    - 119-118
+    - ''
+    - ''
+  - - '0:02.6'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - Personal foul by P. Stojakovic
+  - - '0:00.1'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - C. Oakley misses 3-pt shot from 32 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 119-118
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd overtime

@@ -1,0 +1,205 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Gatling (On: +4&#9642;Off: -9&#9642;Net: +13)'
+    - |2-
+
+      +5
+    - 104/+5
+    - 41/
+    - 104/0
+    - 199/0
+    - 50/
+    - 249/-1
+    - 75/-7
+    - 53/
+    - 120/+7
+    - 'Jim Jackson (On: -6&#9642;Off: +1&#9642;Net: -7)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 25/-5
+    - 74/
+    - 151/+2
+    - 249/-1
+    - 50/-5
+    - 106/
+    - 92/+5
+    - 'Andre Miller (On: +4&#9642;Off: -9&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 113/
+    - 136/0
+    - 249/-1
+    - 11/-2
+    - 64/
+    - 175/+9
+    - 'Lamond Murray (On: +3&#9642;Off: -8&#9642;Net: +11)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 98/-4
+    - 67/
+    - 84/+1
+    - 224/-1
+    - 100/
+    - 175/+9
+    - 'Clarence Weatherspoon (On: +2&#9642;Off: -7&#9642;Net: +9)'
+    - |2-
+
+      -2
+    - 141/-2
+    - 60/
+    - 47/+1
+    - 113/-2
+    - 60/
+    - 60/-1
+    - 15/
+    - 237/-1
+    - 93/
+    - 168/+7
+    - 'Robert Traylor (On: -16&#9642;Off: +11&#9642;Net: -27)'
+    - "\n"
+    - 105/
+    - 91/-8
+    - 168/
+    - 56/+1
+    - 32/
+    - 45/-2
+    - 239/
+    - 10/0
+    - 123/-7
+    - 125/
+    - 'Anthony Johnson (On: -9&#9642;Off: +4&#9642;Net: -13)'
+    - "\n"
+    - 250/
+    - 109/-2
+    - 402/
+    - 60/-7
+    - 178/
+    - 'Trajan Langdon (On: +2&#9642;Off: -7&#9642;Net: +9)'
+    - "\n"
+    - 276/
+    - 137/+2
+    - 391/
+    - 99/0
+    - 96/
+    - 'Etdrick Bohannon (On: 0&#9642;Off: -5&#9642;Net: +5)'
+    - "\n"
+    - 491/
+    - 9/0
+    - 501/
+    - 'Cedric Henderson (On: -9&#9642;Off: +4&#9642;Net: -13)'
+    - "\n"
+    - 727/
+    - 23/0
+    - 72/-9
+    - 178/
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: -4&#9642;Off: +9&#9642;Net: -13)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 165/
+    - 84/-1
+    - 249/+1
+    - 35/+1
+    - 94/
+    - 121/-7
+    - 'Vlade Divac (On: -3&#9642;Off: +8&#9642;Net: -11)'
+    - |2-
+
+      +3
+    - 205/+3
+    - 160/
+    - 83/-2
+    - 50/
+    - 135/-4
+    - 365/
+    - 'Peja Stojakovic (On: +7&#9642;Off: -2&#9642;Net: +9)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 25/+5
+    - 138/
+    - 87/-1
+    - 250/+1
+    - 248/0
+    - 'Chris Webber (On: +6&#9642;Off: -1&#9642;Net: +7)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 113/+2
+    - 61/
+    - 76/+1
+    - 250/+1
+    - 248/0
+    - 'Jason Williams (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 38/+7
+    - 102/
+    - 109/-2
+    - 249/+1
+    - 128/
+    - 122/-7
+    - 'Scot Pollard (On: +7&#9642;Off: -2&#9642;Net: +9)'
+    - "\n"
+    - 210/
+    - 39/-1
+    - 172/+1
+    - 32/
+    - 45/+2
+    - 141/
+    - 108/+5
+    - 249/0
+    - 'Jon Barry (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - "\n"
+    - 250/
+    - 163/+3
+    - 372/
+    - 89/+6
+    - 125/
+    - 'Hedo Turkoglu (On: -2&#9642;Off: +7&#9642;Net: -9)'
+    - "\n"
+    - 277/
+    - 130/-2
+    - 594/
+    - 'Bobby Jackson (On: +4&#9642;Off: +1&#9642;Net: +3)'
+    - "\n"
+    - 289/
+    - 96/-3
+    - 365/
+    - 124/+7
+    - 125/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,2462 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. C. Booth (R. Hamilton gains possession)'
+  - - '11:44.0'
+    - C. Booth makes 2-pt shot from 10 ft (assist by J. Howard)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by J. Howard)
+  - - '11:16.0'
+    - R. Hamilton misses 2-pt shot from 18 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '11:08.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '10:56.0'
+    - F. Lopez makes 2-pt shot at rim (assist by C. Whitney)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '10:39.0'
+    - Defensive rebound by R. Hamilton
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:36.0'
+    - Turnover by R. Hamilton (bad pass)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - M. Jackson misses 2-pt shot from 14 ft
+  - - '10:19.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by A. Davis
+  - - '10:16.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Shooting foul by C. Booth
+  - - '10:16.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - M. Peterson misses free throw 1 of 2
+  - - '10:16.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by Team
+  - - '10:16.0'
+    - ''
+    - ''
+    - 4-3
+    - "+1"
+    - M. Peterson makes free throw 2 of 2
+  - - '9:54.0'
+    - C. Booth makes 2-pt shot from 13 ft
+    - "+2"
+    - 6-3
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 6-3
+    - ''
+    - V. Carter misses 2-pt shot from 21 ft
+  - - '9:33.0'
+    - Defensive rebound by C. Whitney
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '9:24.0'
+    - Personal foul by A. Davis
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '9:14.0'
+    - Personal foul by M. Peterson
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '9:09.0'
+    - R. Hamilton misses 2-pt shot at rim
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 6-3
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '8:52.0'
+    - ''
+    - ''
+    - 6-5
+    - "+2"
+    - A. Davis makes 2-pt shot from 11 ft
+  - - '8:25.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:25.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 7-5
+    - ''
+    - ''
+  - - '8:25.0'
+    - J. Howard makes free throw 2 of 2
+    - "+1"
+    - 8-5
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 8-7
+    - "+2"
+    - V. Carter makes 2-pt shot from 21 ft
+  - - '7:50.0'
+    - C. Booth misses 2-pt shot from 7 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-10
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by C. Oakley)
+  - - '7:27.0'
+    - J. Howard makes 2-pt shot from 11 ft
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Shooting foul by C. Booth
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-11
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '7:06.0'
+    - J. White enters the game for C. Booth
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-12
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '6:48.0'
+    - J. Howard makes 2-pt shot from 7 ft
+    - "+2"
+    - 12-12
+    - ''
+    - ''
+  - - '6:28.0'
+    - Violation by C. Whitney (illegal defense)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - V. Carter misses 2-pt shot from 16 ft
+  - - '6:20.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Offensive rebound by A. Davis
+  - - '6:17.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - C. Oakley makes 2-pt shot from 16 ft (assist by V. Carter)
+  - - '5:50.0'
+    - R. Hamilton misses 2-pt shot from 19 ft
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:41.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Offensive foul by A. Davis
+  - - '5:41.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Turnover by A. Davis (foul)
+  - - '5:41.0'
+    - Official timeout
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - K. Clark enters the game for A. Davis
+  - - '5:29.0'
+    - Personal foul by K. Clark
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '5:23.0'
+    - J. Howard misses 2-pt shot from 17 ft
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '5:19.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:15.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Personal foul by F. Lopez
+  - - '5:04.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '5:02.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '5:01.0'
+    - ''
+    - ''
+    - 12-16
+    - "+2"
+    - M. Peterson makes 2-pt shot at rim
+  - - '4:45.0'
+    - F. Lopez misses 2-pt shot from 19 ft
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 12-16
+    - ''
+    - Defensive rebound by K. Clark
+  - - '4:32.0'
+    - ''
+    - ''
+    - 12-16
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '4:30.0'
+    - Defensive rebound by J. White
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:12.0'
+    - F. Lopez misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:10.0'
+    - T. Nesby enters the game for F. Lopez
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:08.0'
+    - C. Whitney misses 3-pt shot from 29 ft
+    - ''
+    - 12-16
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 12-16
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '4:00.0'
+    - ''
+    - ''
+    - 12-16
+    - ''
+    - Personal foul by J. White
+  - - '3:44.0'
+    - ''
+    - ''
+    - 12-18
+    - "+2"
+    - M. Jackson makes 2-pt shot from 9 ft
+  - - '3:26.0'
+    - J. White misses 2-pt shot at rim
+    - ''
+    - 12-18
+    - ''
+    - ''
+  - - '3:24.0'
+    - Offensive rebound by J. White
+    - ''
+    - 12-18
+    - ''
+    - ''
+  - - '3:23.0'
+    - J. White makes 2-pt shot at rim
+    - "+2"
+    - 14-18
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 14-20
+    - "+2"
+    - C. Oakley makes 2-pt shot from 17 ft (assist by V. Carter)
+  - - '2:41.0'
+    - R. Hamilton makes 2-pt shot from 8 ft
+    - "+2"
+    - 16-20
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Personal foul by T. Nesby
+  - - '2:22.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Official timeout
+  - - '2:22.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - C. Oakley misses free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Offensive rebound by Team
+  - - '2:22.0'
+    - ''
+    - ''
+    - 16-21
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '2:06.0'
+    - R. Hamilton misses 2-pt shot from 19 ft
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:04.0'
+    - Offensive rebound by R. Hamilton
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '1:44.0'
+    - T. Nesby misses 2-pt shot from 17 ft
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '1:35.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '1:33.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '1:13.0'
+    - ''
+    - ''
+    - 16-23
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '0:49.9'
+    - J. White makes 2-pt shot from 8 ft
+    - "+2"
+    - 18-23
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - M. Peterson misses 3-pt shot from 24 ft
+  - - '0:30.4'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '0:30.4'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Personal foul by J. Howard
+  - - '0:30.4'
+    - ''
+    - ''
+    - 18-24
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '0:30.4'
+    - ''
+    - ''
+    - 18-24
+    - ''
+    - A. Williams enters the game for M. Jackson
+  - - '0:30.4'
+    - ''
+    - ''
+    - 18-25
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '0:12.0'
+    - Turnover by C. Whitney (lost ball)
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '0:03.3'
+    - ''
+    - ''
+    - 18-25
+    - ''
+    - Shooting foul by T. Nesby
+  - - '0:03.3'
+    - ''
+    - ''
+    - 18-26
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '0:03.3'
+    - ''
+    - ''
+    - 18-27
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '0:01.2'
+    - Turnover by T. Nesby (out of bounds)
+    - ''
+    - 18-27
+    - ''
+    - ''
+  - - '0:01.2'
+    - ''
+    - ''
+    - 18-27
+    - ''
+    - Turnover by C. Oakley (inbound)
+  - - '0:00.9'
+    - Turnover by J. Howard (bad pass; steal by M. Peterson)
+    - ''
+    - 18-27
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 18-27
+    - ''
+    - Turnover by A. Williams (bad pass; steal by R. Hamilton)
+  - - '11:35.0'
+    - Turnover by J. Howard (lost ball; steal by C. Oakley)
+    - ''
+    - 18-27
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 18-29
+    - "+2"
+    - V. Carter makes 2-pt shot from 18 ft
+  - - '11:02.0'
+    - T. Nesby makes 2-pt shot at rim
+    - "+2"
+    - 20-29
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - M. Peterson misses 2-pt shot from 13 ft
+  - - '10:45.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - Offensive rebound by Team
+  - - '10:39.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - V. Carter misses 3-pt shot from 23 ft
+  - - '10:37.0'
+    - Defensive rebound by J. White
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '10:25.0'
+    - J. Howard misses 2-pt shot from 12 ft
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - Defensive rebound by K. Clark
+  - - '10:08.0'
+    - ''
+    - ''
+    - 20-31
+    - "+2"
+    - V. Carter makes 2-pt shot from 17 ft
+  - - '9:53.0'
+    - T. Nesby makes 2-pt shot from 20 ft
+    - "+2"
+    - 22-31
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 22-33
+    - "+2"
+    - V. Carter makes 2-pt shot from 18 ft (assist by A. Williams)
+  - - '9:11.0'
+    - J. White misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '9:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '9:10.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 22-33
+    - ''
+    - T. Murray enters the game for M. Peterson
+  - - '9:10.0'
+    - ''
+    - ''
+    - 22-33
+    - ''
+    - A. Davis enters the game for C. Oakley
+  - - '8:58.0'
+    - ''
+    - ''
+    - 22-33
+    - ''
+    - A. Williams misses 3-pt shot from 25 ft
+  - - '8:56.0'
+    - Defensive rebound by J. White
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '8:43.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '8:43.0'
+    - Official timeout
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '8:43.0'
+    - F. Lopez enters the game for R. Hamilton
+    - ''
+    - 22-33
+    - ''
+    - ''
+  - - '8:43.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 23-33
+    - ''
+    - ''
+  - - '8:43.0'
+    - J. Howard makes free throw 2 of 2
+    - "+1"
+    - 24-33
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 24-33
+    - ''
+    - Ill def tech foul by J. Howard
+  - - '8:24.0'
+    - ''
+    - ''
+    - 24-34
+    - "+1"
+    - V. Carter makes free throw technical
+  - - '8:15.0'
+    - ''
+    - ''
+    - 24-36
+    - "+2"
+    - T. Murray makes 2-pt shot from 6 ft
+  - - '8:00.0'
+    - J. White makes 2-pt shot at rim (assist by C. Whitney)
+    - "+2"
+    - 26-36
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - T. Murray misses 2-pt shot from 20 ft
+  - - '7:44.0'
+    - Defensive rebound by J. White
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '7:41.0'
+    - Turnover by C. Whitney (bad pass; steal by V. Carter)
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 26-38
+    - "+2"
+    - A. Williams makes 2-pt shot from 12 ft (assist by V. Carter)
+  - - '7:15.0'
+    - F. Lopez makes 2-pt shot at rim
+    - "+2"
+    - 28-38
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '6:56.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '6:55.0'
+    - Turnover by C. Whitney (traveling)
+    - ''
+    - 28-38
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - D. Curry enters the game for V. Carter
+  - - '6:50.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - A. Williams misses 2-pt shot from 15 ft
+  - - '6:47.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - Offensive rebound by T. Murray
+  - - '6:45.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - T. Murray misses 2-pt shot at rim (block by J. White)
+  - - '6:44.0'
+    - ''
+    - ''
+    - 28-38
+    - ''
+    - Offensive rebound by K. Clark
+  - - '6:42.0'
+    - ''
+    - ''
+    - 28-40
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '6:28.0'
+    - C. Whitney misses 2-pt shot from 19 ft
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:26.0'
+    - Offensive rebound by J. White
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:25.0'
+    - J. White misses 2-pt shot at rim
+    - ''
+    - 28-40
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 28-40
+    - ''
+    - Defensive rebound by T. Murray
+  - - '6:20.0'
+    - ''
+    - ''
+    - 28-43
+    - "+3"
+    - T. Murray makes 3-pt shot from 25 ft
+  - - '6:15.0'
+    - Washington full timeout
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '6:15.0'
+    - M. Smith enters the game for J. Howard
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '6:15.0'
+    - C. Booth enters the game for C. Whitney
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '6:15.0'
+    - R. Hamilton enters the game for J. White
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:57.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:57.0'
+    - M. Smith misses free throw 1 of 2
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 28-43
+    - ''
+    - M. Stewart enters the game for K. Clark
+  - - '5:57.0'
+    - M. Smith makes free throw 2 of 2
+    - "+1"
+    - 29-43
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 29-43
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '5:41.0'
+    - Defensive rebound by C. Booth
+    - ''
+    - 29-43
+    - ''
+    - ''
+  - - '5:35.0'
+    - R. Hamilton makes 2-pt shot from 16 ft (assist by C. Booth)
+    - "+2"
+    - 31-43
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 31-43
+    - ''
+    - Turnover by A. Davis (bad pass; steal by M. Smith)
+  - - '5:13.0'
+    - F. Lopez misses 2-pt shot at rim (block by A. Williams)
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '5:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '5:02.0'
+    - F. Lopez misses 2-pt shot at rim
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 31-43
+    - ''
+    - Defensive rebound by M. Stewart
+  - - '4:49.0'
+    - ''
+    - ''
+    - 31-45
+    - "+2"
+    - T. Murray makes 2-pt shot from 8 ft (assist by A. Williams)
+  - - '4:31.0'
+    - R. Hamilton misses 2-pt shot from 10 ft
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:29.0'
+    - Offensive rebound by C. Booth
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:28.0'
+    - C. Booth makes 2-pt shot at rim
+    - "+2"
+    - 33-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 33-45
+    - ''
+    - Personal foul by F. Lopez
+  - - '4:06.0'
+    - ''
+    - ''
+    - 33-47
+    - "+2"
+    - D. Curry makes 2-pt shot from 6 ft
+  - - '3:50.0'
+    - T. Nesby misses 2-pt shot at rim (block by T. Murray)
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Defensive rebound by M. Stewart
+  - - '3:43.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Offensive foul by T. Murray
+  - - '3:43.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Turnover by T. Murray (foul)
+  - - '3:25.0'
+    - Shooting foul by T. Murray
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '3:25.0'
+    - T. Nesby makes free throw 1 of 2
+    - "+1"
+    - 34-47
+    - ''
+    - ''
+  - - '3:25.0'
+    - T. Nesby makes free throw 2 of 2
+    - "+1"
+    - 35-47
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 35-47
+    - ''
+    - M. Stewart misses 2-pt shot from 5 ft
+  - - '3:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '2:50.0'
+    - Shooting foul by T. Murray
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '2:50.0'
+    - Official timeout
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 35-47
+    - ''
+    - C. Williamson enters the game for T. Murray
+  - - '2:50.0'
+    - T. Nesby makes free throw 1 of 2
+    - "+1"
+    - 36-47
+    - ''
+    - ''
+  - - '2:50.0'
+    - T. Nesby makes free throw 2 of 2
+    - "+1"
+    - 37-47
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 37-47
+    - ''
+    - D. Curry misses 2-pt shot at rim
+  - - '2:36.0'
+    - ''
+    - ''
+    - 37-47
+    - ''
+    - Offensive rebound by M. Stewart
+  - - '2:34.0'
+    - ''
+    - ''
+    - 37-49
+    - "+2"
+    - M. Stewart makes 2-pt shot at rim
+  - - '2:15.0'
+    - F. Lopez misses 2-pt shot from 7 ft
+    - ''
+    - 37-49
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 37-49
+    - ''
+    - Defensive rebound by A. Davis
+  - - '2:07.0'
+    - ''
+    - ''
+    - 37-49
+    - ''
+    - Personal foul by C. Booth
+  - - '2:07.0'
+    - J. Howard enters the game for T. Nesby
+    - ''
+    - 37-49
+    - ''
+    - ''
+  - - '2:07.0'
+    - J. White enters the game for C. Booth
+    - ''
+    - 37-49
+    - ''
+    - ''
+  - - '2:07.0'
+    - C. Whitney enters the game for F. Lopez
+    - ''
+    - 37-49
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 37-51
+    - "+2"
+    - D. Curry makes 2-pt shot from 22 ft (assist by M. Stewart)
+  - - '1:42.0'
+    - R. Hamilton misses 2-pt shot from 8 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by Team
+  - - '1:40.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Loose ball foul by J. White
+  - - '1:40.0'
+    - P. Jones enters the game for J. White
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - C. Williamson misses 2-pt shot at rim (block by J. Howard)
+  - - '1:25.0'
+    - Defensive rebound by P. Jones
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '1:12.0'
+    - R. Hamilton misses 2-pt shot from 19 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:55.9'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - D. Curry misses 3-pt shot from 25 ft
+  - - '0:52.9'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Offensive rebound by M. Stewart
+  - - '0:51.5'
+    - 'Jump ball: M. Stewart vs. R. Hamilton'
+  - - '0:51.5'
+    - Violation by R. Hamilton (jump ball)
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:47.9'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Turnover by D. Curry (bad pass; steal by P. Jones)
+  - - '0:40.9'
+    - C. Whitney misses 3-pt shot from 25 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:39.5'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:29.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Turnover by M. Stewart (lost ball)
+  - - '0:29.0'
+    - R. Hamilton misses 2-pt shot from 14 ft (block by D. Curry)
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:26.0'
+    - Offensive rebound by P. Jones
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:07.0'
+    - P. Jones misses 2-pt shot from 16 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:05.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:05.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Toronto 20 second timeout
+  - - '0:01.1'
+    - ''
+    - ''
+    - 37-53
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 37-53
+    - ''
+    - A. Davis misses 2-pt shot from 16 ft
+  - - '11:40.0'
+    - Defensive rebound by C. Whitney
+    - ''
+    - 37-53
+    - ''
+    - ''
+  - - '11:24.0'
+    - C. Whitney makes 3-pt shot from 25 ft (assist by J. Howard)
+    - "+3"
+    - 40-53
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 40-55
+    - "+2"
+    - V. Carter makes 2-pt shot from 20 ft (assist by M. Jackson)
+  - - '10:43.0'
+    - C. Whitney misses 3-pt shot from 26 ft
+    - ''
+    - 40-55
+    - ''
+    - ''
+  - - '10:42.0'
+    - Offensive rebound by J. White
+    - ''
+    - 40-55
+    - ''
+    - ''
+  - - '10:27.0'
+    - J. White makes 2-pt shot at rim
+    - "+2"
+    - 42-55
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - A. Davis misses 2-pt shot from 6 ft
+  - - '9:57.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 42-55
+    - ''
+    - ''
+  - - '9:44.0'
+    - J. Howard misses 2-pt shot from 13 ft
+    - ''
+    - 42-55
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '9:37.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - M. Jackson misses 2-pt shot from 8 ft
+  - - '9:34.0'
+    - Defensive rebound by J. White
+    - ''
+    - 42-55
+    - ''
+    - ''
+  - - '9:20.0'
+    - C. Whitney misses 3-pt shot from 25 ft
+    - ''
+    - 42-55
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '9:03.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '9:01.0'
+    - ''
+    - ''
+    - 42-55
+    - ''
+    - Offensive rebound by V. Carter
+  - - '8:58.0'
+    - ''
+    - ''
+    - 42-57
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '8:35.0'
+    - Turnover by F. Lopez (traveling)
+    - ''
+    - 42-57
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 42-57
+    - ''
+    - Turnover by C. Oakley (bad pass)
+  - - '8:08.0'
+    - J. Howard makes 2-pt shot from 11 ft (assist by C. Whitney)
+    - "+2"
+    - 44-57
+    - ''
+    - ''
+  - - '8:08.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 44-57
+    - ''
+    - ''
+  - - '8:08.0'
+    - J. Howard makes free throw 1 of 1
+    - "+1"
+    - 45-57
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 45-57
+    - ''
+    - Turnover by A. Davis (lost ball; steal by J. White)
+  - - '7:43.0'
+    - Turnover by R. Hamilton (bad pass; steal by V. Carter)
+    - ''
+    - 45-57
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 45-57
+    - ''
+    - Shooting foul by C. Whitney
+  - - '7:39.0'
+    - ''
+    - ''
+    - 45-58
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '7:39.0'
+    - ''
+    - ''
+    - 45-59
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '7:19.0'
+    - J. Howard misses 2-pt shot from 8 ft (block by C. Oakley)
+    - ''
+    - 45-59
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 45-59
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:13.0'
+    - ''
+    - ''
+    - 45-61
+    - "+2"
+    - M. Peterson makes 2-pt shot at rim (assist by V. Carter)
+  - - '6:51.0'
+    - Personal foul by M. Peterson
+    - ''
+    - 45-61
+    - ''
+    - ''
+  - - '6:47.0'
+    - C. Whitney misses 3-pt shot from 24 ft
+    - ''
+    - 45-61
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 45-61
+    - ''
+    - Defensive rebound by A. Davis
+  - - '6:38.0'
+    - ''
+    - ''
+    - 45-64
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '6:14.0'
+    - F. Lopez misses 2-pt shot at rim
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 45-64
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '6:06.0'
+    - ''
+    - ''
+    - 45-64
+    - ''
+    - Personal foul by J. Howard
+  - - '6:06.0'
+    - G. King enters the game for F. Lopez
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 45-64
+    - ''
+    - M. Jackson misses 2-pt shot from 9 ft
+  - - '5:54.0'
+    - Defensive rebound by J. White
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '5:50.0'
+    - J. Howard misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '5:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '5:50.0'
+    - Official timeout
+    - ''
+    - 45-64
+    - ''
+    - ''
+  - - '5:48.0'
+    - J. Howard makes 2-pt shot from 16 ft (assist by G. King)
+    - "+2"
+    - 47-64
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 47-67
+    - "+3"
+    - M. Peterson makes 3-pt shot from 23 ft (assist by M. Jackson)
+  - - '4:58.0'
+    - R. Hamilton makes 3-pt shot from 26 ft (assist by C. Whitney)
+    - "+3"
+    - 50-67
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 50-67
+    - ''
+    - C. Oakley misses 2-pt shot from 21 ft
+  - - '4:42.0'
+    - Defensive rebound by C. Whitney
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:30.0'
+    - C. Whitney misses 3-pt shot from 26 ft
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:29.0'
+    - Offensive rebound by G. King
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:25.0'
+    - Turnover by G. King (bad pass; steal by V. Carter)
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 50-69
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by M. Jackson)
+  - - '4:08.0'
+    - Washington full timeout
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '3:54.0'
+    - C. Whitney misses 2-pt shot from 19 ft
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '3:49.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by C. Whitney)
+  - - '3:40.0'
+    - Offensive foul by R. Hamilton
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '3:40.0'
+    - Turnover by R. Hamilton (foul)
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '3:24.0'
+    - Defensive rebound by J. White
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '3:20.0'
+    - R. Hamilton makes 2-pt shot at rim (assist by J. Howard)
+    - "+2"
+    - 52-69
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 52-71
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by V. Carter)
+  - - '2:31.0'
+    - J. Howard misses 2-pt shot from 11 ft
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - Offensive rebound by J. White
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - C. Booth enters the game for J. White
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - T. Nesby enters the game for R. Hamilton
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 52-71
+    - ''
+    - K. Clark enters the game for A. Davis
+  - - '2:29.0'
+    - Turnover by G. King (inbound)
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 52-71
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '2:13.0'
+    - Defensive rebound by G. King
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:05.0'
+    - Offensive foul by J. Howard
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:05.0'
+    - Turnover by J. Howard (foul)
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 52-73
+    - "+2"
+    - M. Peterson makes 2-pt shot from 18 ft
+  - - '1:51.0'
+    - ''
+    - ''
+    - 52-73
+    - ''
+    - Shooting foul by T. Nesby
+  - - '1:51.0'
+    - ''
+    - ''
+    - 52-74
+    - "+1"
+    - M. Peterson makes free throw 1 of 1
+  - - '1:38.0'
+    - G. King makes 2-pt shot from 16 ft (assist by T. Nesby)
+    - "+2"
+    - 54-74
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 54-74
+    - ''
+    - K. Clark misses 2-pt shot from 13 ft
+  - - '1:15.0'
+    - Defensive rebound by G. King
+    - ''
+    - 54-74
+    - ''
+    - ''
+  - - '1:06.0'
+    - C. Booth misses 2-pt shot from 17 ft
+    - ''
+    - 54-74
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-74
+    - ''
+    - ''
+  - - '1:03.0'
+    - C. Whitney makes 3-pt shot from 24 ft (assist by G. King)
+    - "+3"
+    - 57-74
+    - ''
+    - ''
+  - - '0:53.9'
+    - ''
+    - ''
+    - 57-74
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '0:51.9'
+    - Defensive rebound by Team
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:31.9'
+    - T. Nesby misses 2-pt shot from 10 ft
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:28.9'
+    - Offensive rebound by G. King
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:25.9'
+    - T. Nesby misses 3-pt shot from 24 ft
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:23.9'
+    - Offensive rebound by G. King
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:20.0'
+    - G. King misses 2-pt shot from 11 ft
+    - ''
+    - 57-74
+    - ''
+    - ''
+  - - '0:16.9'
+    - ''
+    - ''
+    - 57-74
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:02.9'
+    - ''
+    - ''
+    - 57-74
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by C. Booth)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 57-74
+    - ''
+    - Violation by C. Oakley (illegal defense)
+  - - '11:35.0'
+    - G. King makes 2-pt shot at rim (assist by J. Howard)
+    - "+2"
+    - 59-74
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 59-77
+    - "+3"
+    - M. Jackson makes 3-pt shot from 25 ft (assist by V. Carter)
+  - - '10:54.0'
+    - J. Howard misses 2-pt shot from 5 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Defensive rebound by T. Murray
+  - - '10:38.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Shooting foul by C. Whitney
+  - - '10:38.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - K. Clark misses free throw 1 of 2
+  - - '10:38.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Offensive rebound by Team
+  - - '10:38.0'
+    - ''
+    - ''
+    - 59-78
+    - "+1"
+    - K. Clark makes free throw 2 of 2
+  - - '10:20.0'
+    - Turnover by G. King (lost ball; steal by M. Jackson)
+    - ''
+    - 59-78
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 59-80
+    - "+2"
+    - C. Oakley makes 2-pt shot from 19 ft (assist by M. Jackson)
+  - - '9:50.0'
+    - C. Whitney makes 3-pt shot from 25 ft (assist by J. Howard)
+    - "+3"
+    - 62-80
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '9:32.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 62-80
+    - ''
+    - ''
+  - - '9:32.0'
+    - Turnover by J. Howard (out of bounds)
+    - ''
+    - 62-80
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - Turnover by T. Murray (bad pass)
+  - - '9:09.0'
+    - Turnover by J. Howard (bad pass; steal by V. Carter)
+    - ''
+    - 62-80
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 62-83
+    - "+3"
+    - T. Murray makes 3-pt shot from 24 ft (assist by V. Carter)
+  - - '8:50.0'
+    - Offensive foul by G. King
+    - ''
+    - 62-83
+    - ''
+    - ''
+  - - '8:50.0'
+    - Turnover by G. King (foul)
+    - ''
+    - 62-83
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Official timeout
+  - - '8:50.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - A. Williams enters the game for M. Jackson
+  - - '8:29.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - V. Carter misses 2-pt shot from 18 ft
+  - - '8:28.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Offensive rebound by K. Clark
+  - - '8:23.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Turnover by V. Carter (bad pass; steal by G. King)
+  - - '8:16.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Violation by A. Williams (kicked ball)
+  - - '8:08.0'
+    - Turnover by G. King (lost ball; steal by K. Clark)
+    - ''
+    - 62-83
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 62-85
+    - "+2"
+    - V. Carter makes 2-pt shot from 9 ft (assist by C. Oakley)
+  - - '7:32.0'
+    - G. King misses 2-pt shot from 19 ft
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '7:18.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - V. Carter misses 2-pt shot from 17 ft
+  - - '7:16.0'
+    - Defensive rebound by C. Booth
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '7:08.0'
+    - C. Whitney misses 3-pt shot from 24 ft
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - Defensive rebound by A. Williams
+  - - '7:00.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - Turnover by A. Williams (bad pass)
+  - - '7:00.0'
+    - R. Hamilton enters the game for G. King
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '6:42.0'
+    - C. Booth misses 2-pt shot from 8 ft
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - Defensive rebound by V. Carter
+  - - '6:19.0'
+    - ''
+    - ''
+    - 62-87
+    - "+2"
+    - K. Clark makes 2-pt shot at rim (assist by C. Oakley)
+  - - '6:01.0'
+    - J. Howard misses 2-pt shot from 6 ft
+    - ''
+    - 62-87
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 62-87
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:53.0'
+    - ''
+    - ''
+    - 62-89
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by C. Oakley)
+  - - '5:46.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 62-89
+    - ''
+    - ''
+  - - '5:46.0'
+    - Official timeout
+    - ''
+    - 62-89
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 62-89
+    - ''
+    - D. Curry enters the game for V. Carter
+  - - '5:46.0'
+    - L. Profit enters the game for C. Booth
+    - ''
+    - 62-89
+    - ''
+    - ''
+  - - '5:46.0'
+    - P. Jones enters the game for C. Whitney
+    - ''
+    - 62-89
+    - ''
+    - ''
+  - - '5:46.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 63-89
+    - ''
+    - ''
+  - - '5:46.0'
+    - J. Howard misses free throw 2 of 2
+    - ''
+    - 63-89
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 63-89
+    - ''
+    - Defensive rebound by K. Clark
+  - - '5:33.0'
+    - ''
+    - ''
+    - 63-91
+    - "+2"
+    - A. Williams makes 2-pt shot from 19 ft
+  - - '5:15.0'
+    - J. Howard misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 63-91
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 63-91
+    - ''
+    - Defensive rebound by K. Clark
+  - - '5:07.0'
+    - ''
+    - ''
+    - 63-93
+    - "+2"
+    - T. Murray makes 2-pt shot at rim (assist by A. Williams)
+  - - '4:49.0'
+    - T. Nesby makes 3-pt shot from 25 ft (assist by R. Hamilton)
+    - "+3"
+    - 66-93
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 66-93
+    - ''
+    - D. Curry misses 2-pt shot from 15 ft
+  - - '4:30.0'
+    - Defensive rebound by P. Jones
+    - ''
+    - 66-93
+    - ''
+    - ''
+  - - '4:25.0'
+    - R. Hamilton misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 66-93
+    - ''
+    - ''
+  - - '4:21.0'
+    - Offensive rebound by P. Jones
+    - ''
+    - 66-93
+    - ''
+    - ''
+  - - '4:20.0'
+    - P. Jones makes 2-pt shot from 19 ft
+    - "+2"
+    - 68-93
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 68-93
+    - ''
+    - Toronto 20 second timeout
+  - - '4:13.0'
+    - M. Smith enters the game for J. Howard
+    - ''
+    - 68-93
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 68-93
+    - ''
+    - C. Williamson enters the game for C. Oakley
+  - - '3:56.0'
+    - ''
+    - ''
+    - 68-95
+    - "+2"
+    - K. Clark makes 2-pt shot from 16 ft
+  - - '3:50.0'
+    - Personal foul by T. Murray
+    - ''
+    - 68-95
+    - ''
+    - ''
+  - - '3:41.0'
+    - L. Profit makes 2-pt shot at rim
+    - "+2"
+    - 70-95
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 70-97
+    - "+2"
+    - T. Murray makes 2-pt shot from 19 ft (assist by A. Williams)
+  - - '3:10.0'
+    - T. Nesby misses 3-pt shot from 25 ft
+    - ''
+    - 70-97
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 70-97
+    - ''
+    - Defensive rebound by Team
+  - - '2:57.0'
+    - ''
+    - ''
+    - 70-97
+    - ''
+    - Turnover by T. Murray (bad pass; steal by R. Hamilton)
+  - - '2:53.0'
+    - Turnover by R. Hamilton (bad pass; steal by T. Murray)
+    - ''
+    - 70-97
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-97
+    - ''
+    - Shooting foul by R. Hamilton
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-97
+    - ''
+    - Official timeout
+  - - '2:36.0'
+    - F. Lopez enters the game for R. Hamilton
+    - ''
+    - 70-97
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-98
+    - "+1"
+    - T. Murray makes free throw 1 of 2
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-98
+    - ''
+    - M. Stewart enters the game for K. Clark
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-99
+    - "+1"
+    - T. Murray makes free throw 2 of 2
+  - - '2:24.0'
+    - M. Smith misses 2-pt shot at rim (block by M. Stewart)
+    - ''
+    - 70-99
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 70-99
+    - ''
+    - Defensive rebound by T. Murray
+  - - '2:12.0'
+    - ''
+    - ''
+    - 70-99
+    - ''
+    - Offensive foul by C. Williamson
+  - - '2:12.0'
+    - ''
+    - ''
+    - 70-99
+    - ''
+    - Turnover by C. Williamson (foul)
+  - - '2:02.0'
+    - Turnover by P. Jones (bad pass; steal by D. Curry)
+    - ''
+    - 70-99
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 70-99
+    - ''
+    - M. Stewart misses 2-pt shot at rim
+  - - '1:42.0'
+    - Defensive rebound by P. Jones
+    - ''
+    - 70-99
+    - ''
+    - ''
+  - - '1:36.0'
+    - F. Lopez makes 2-pt shot at rim
+    - "+2"
+    - 72-99
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 72-99
+    - ''
+    - Turnover by C. Williamson (lost ball; steal by L. Profit)
+  - - '1:17.0'
+    - Turnover by L. Profit (bad pass; steal by M. Stewart)
+    - ''
+    - 72-99
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 72-99
+    - ''
+    - T. Murray misses 3-pt shot from 26 ft
+  - - '1:12.0'
+    - ''
+    - ''
+    - 72-99
+    - ''
+    - Offensive rebound by M. Stewart
+  - - '0:51.2'
+    - ''
+    - ''
+    - 72-99
+    - ''
+    - Shooting foul by M. Smith
+  - - '0:51.2'
+    - ''
+    - ''
+    - 72-100
+    - "+1"
+    - A. Williams makes free throw 1 of 2
+  - - '0:51.2'
+    - ''
+    - ''
+    - 72-101
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '0:39.8'
+    - Shooting foul by M. Stewart
+    - ''
+    - 72-101
+    - ''
+    - ''
+  - - '0:39.8'
+    - F. Lopez makes free throw 1 of 2
+    - "+1"
+    - 73-101
+    - ''
+    - ''
+  - - '0:39.8'
+    - F. Lopez makes free throw 2 of 2
+    - "+1"
+    - 74-101
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 74-101
+    - ''
+    - Turnover by C. Williamson (lost ball; steal by F. Lopez)
+  - - '0:32.1'
+    - F. Lopez makes 2-pt shot at rim
+    - "+2"
+    - 76-101
+    - ''
+    - ''
+  - - '0:32.1'
+    - Shooting foul by C. Williamson
+    - ''
+    - 76-101
+    - ''
+    - ''
+  - - '0:32.1'
+    - F. Lopez makes free throw 1 of 1
+    - "+1"
+    - 77-101
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 77-101
+    - ''
+    - D. Curry misses 3-pt shot from 25 ft
+  - - '0:22.8'
+    - Defensive rebound by P. Jones
+    - ''
+    - 77-101
+    - ''
+    - ''
+  - - '0:17.9'
+    - F. Lopez makes 2-pt shot at rim (assist by P. Jones)
+    - "+2"
+    - 79-101
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

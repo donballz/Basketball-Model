@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Geiger (On: +12&#9642;Off: -6&#9642;Net: +18)'
+    - |2-
+
+      +4
+    - 137/+4
+    - 110/
+    - 1/0
+    - 168/+1
+    - 80/
+    - 163/+3
+    - 39/
+    - 45/+5
+    - 70/
+    - 105/-3
+    - 41/
+    - 33/+2
+    - 'George Lynch (On: 0&#9642;Off: +6&#9642;Net: -6)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 19/-2
+    - 95/
+    - 135/-6
+    - 250/+12
+    - 249/-8
+    - 'Dikembe Mutombo (On: -1&#9642;Off: +7&#9642;Net: -8)'
+    - |2-
+
+      +4
+    - 247/+4
+    - 25/
+    - 224/-2
+    - 1/
+    - 198/+7
+    - 50/
+    - 240/-10
+    - 2/
+    - 4/0
+    - 3/
+    - 'Kevin Ollie (On: 0&#9642;Off: +6&#9642;Net: -6)'
+    - |2-
+
+      +4
+    - 247/+4
+    - 107/
+    - 144/-6
+    - 151/+3
+    - 85/
+    - 12/+1
+    - 71/
+    - 179/-2
+    - 'Eric Snow (On: +3&#9642;Off: +3&#9642;Net: 0)'
+    - |2-
+
+      +4
+    - 248/+4
+    - 197/
+    - 54/-2
+    - 172/+9
+    - 78/
+    - 249/-8
+    - 'Jumaine Jones (On: +3&#9642;Off: +3&#9642;Net: 0)'
+    - "\n"
+    - 142/
+    - 106/0
+    - 110/+4
+    - 63/
+    - 75/-3
+    - 164/
+    - 84/+9
+    - 69/-6
+    - 110/
+    - 33/-1
+    - 37/
+    - 'Rodney Buford (On: -3&#9642;Off: +9&#9642;Net: -12)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 195/0
+    - 229/
+    - 74/+3
+    - 70/-6
+    - 180/
+    - 'Pepe Sanchez (On: +16&#9642;Off: -10&#9642;Net: +26)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 103/+4
+    - 145/
+    - 0/+2
+    - 152/
+    - 84/+8
+    - 260/
+    - 2/0
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -9&#9642;Off: +3&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 249/
+    - 0/-2
+    - 199/-7
+    - 168/
+    - 132/+4
+    - 'Billy Owens (On: -9&#9642;Off: +3&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 19/+2
+    - 230/
+    - 199/-7
+    - 301/
+    - 'Joe Smith (On: -8&#9642;Off: +2&#9642;Net: -10)'
+    - |2-
+
+      -4
+    - 149/-4
+    - 219/
+    - 129/+8
+    - 1/
+    - 222/-11
+    - 192/
+    - 85/-1
+    - 'Jerry Stackhouse (On: -13&#9642;Off: +7&#9642;Net: -20)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 84/-4
+    - 112/
+    - 54/+2
+    - 165/-7
+    - 333/
+    - 'Ben Wallace (On: -9&#9642;Off: +3&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 248/-4
+    - 25/
+    - 226/0
+    - 204/-9
+    - 87/
+    - 208/+4
+    - 'Corliss Williamson (On: -2&#9642;Off: -4&#9642;Net: +2)'
+    - "\n"
+    - 155/
+    - 94/0
+    - 131/-7
+    - 322/
+    - 46/-5
+    - 241/+10
+    - 8/
+    - 'Mikki Moore (On: +2&#9642;Off: -8&#9642;Net: +10)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 117/-4
+    - 338/
+    - 43/-3
+    - 158/+9
+    - 92/
+    - 'Mateen Cleaves (On: -1&#9642;Off: -5&#9642;Net: +4)'
+    - "\n"
+    - 249/
+    - 249/+2
+    - 204/
+    - 46/-5
+    - 110/+4
+    - 131/
+    - 8/-2
+    - 'Dana Barros (On: +7&#9642;Off: -13&#9642;Net: +20)'
+    - "\n"
+    - 339/
+    - 106/+4
+    - 223/
+    - 81/-5
+    - 250/+8
+    - 'Kornel David (On: +12&#9642;Off: -18&#9642;Net: +30)'
+    - "\n"
+    - 381/
+    - 118/+9
+    - 223/
+    - 27/-1
+    - 35/+4
+    - 214/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

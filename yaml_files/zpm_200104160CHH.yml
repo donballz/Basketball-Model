@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dion Glover (On: -11&#9642;Off: -12&#9642;Net: +1)'
+    - |2-
+
+      -10
+    - 125/-10
+    - 97/
+    - 27/+3
+    - 89/+1
+    - 160/
+    - 199/-7
+    - 121/
+    - 178/+2
+    - 'Brevin Knight (On: -25&#9642;Off: +2&#9642;Net: -27)'
+    - |2-
+
+      -10
+    - 218/-10
+    - 124/
+    - 100/-8
+    - 57/
+    - 138/-7
+    - 361/
+    - 'Nazr Mohammed (On: -21&#9642;Off: -2&#9642;Net: -19)'
+    - |2-
+
+      -4
+    - 89/-4
+    - 302/
+    - 107/-11
+    - 137/-7
+    - 112/
+    - 104/+1
+    - 62/
+    - 83/0
+    - 'Jason Terry (On: -25&#9642;Off: +2&#9642;Net: -27)'
+    - |2-
+
+      -10
+    - 161/-10
+    - 89/
+    - 89/+1
+    - 60/
+    - 101/-9
+    - 137/-7
+    - 360/
+    - 'Lorenzen Wright (On: -15&#9642;Off: -8&#9642;Net: -7)'
+    - |2-
+
+      -10
+    - 125/-10
+    - 124/
+    - 137/+1
+    - 112/
+    - 137/-7
+    - 112/
+    - 104/+1
+    - 145/
+    - 'Alan Henderson (On: -6&#9642;Off: -17&#9642;Net: +11)'
+    - "\n"
+    - 93/
+    - 156/-3
+    - 199/
+    - 50/-3
+    - 142/
+    - 108/0
+    - 249/
+    - 'Cal Bowdler (On: +3&#9642;Off: -26&#9642;Net: +29)'
+    - "\n"
+    - 130/
+    - 120/+3
+    - 391/
+    - 108/0
+    - 110/
+    - 139/0
+    - 'DerMarr Johnson (On: -7&#9642;Off: -16&#9642;Net: +9)'
+    - "\n"
+    - 130/
+    - 119/+3
+    - 92/
+    - 157/-11
+    - 142/
+    - 108/0
+    - 249/+1
+    - 'Matt Maloney (On: 0&#9642;Off: -23&#9642;Net: +23)'
+    - "\n"
+    - 161/
+    - 88/+3
+    - 147/-1
+    - 52/
+    - 50/-3
+    - 141/
+    - 108/0
+    - 249/+1
+    - 'Hanno Mottola (On: -8&#9642;Off: -15&#9642;Net: +7)'
+    - "\n"
+    - 249/
+    - 192/-7
+    - 260/
+    - 46/0
+    - 63/-1
+    - 46/
+    - 51/0
+    - 89/
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: +28&#9642;Off: -5&#9642;Net: +33)'
+    - |2-
+
+      +10
+    - 170/+10
+    - 148/
+    - 182/+11
+    - 199/+7
+    - 300/
+    - 'Elden Campbell (On: +16&#9642;Off: +7&#9642;Net: +9)'
+    - |2-
+
+      +10
+    - 125/+10
+    - 124/
+    - 134/-1
+    - 115/
+    - 138/+7
+    - 362/
+    - 'Baron Davis (On: +25&#9642;Off: -2&#9642;Net: +27)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 68/
+    - 181/+11
+    - 249/+7
+    - 109/
+    - 51/0
+    - 90/
+    - 'Jamal Mashburn (On: +24&#9642;Off: -1&#9642;Net: +25)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 63/-1
+    - 72/
+    - 115/+11
+    - 250/+7
+    - 248/
+    - 'David Wesley (On: +23&#9642;Off: 0&#9642;Net: +23)'
+    - |2-
+
+      +10
+    - 218/+10
+    - 166/
+    - 115/+11
+    - 96/+1
+    - 153/
+    - 140/+1
+    - 109/
+    - 'Jamaal Magloire (On: +7&#9642;Off: +16&#9642;Net: -9)'
+    - "\n"
+    - 130/
+    - 119/-3
+    - 134/
+    - 114/+11
+    - 141/
+    - 107/0
+    - 104/-1
+    - 62/
+    - 84/0
+    - 'Derrick Coleman (On: -5&#9642;Off: +28&#9642;Net: -33)'
+    - "\n"
+    - 174/
+    - 75/-3
+    - 63/-1
+    - 390/
+    - 46/0
+    - 160/-1
+    - 89/
+    - 'Eddie Robinson (On: +1&#9642;Off: +22&#9642;Net: -21)'
+    - "\n"
+    - 222/
+    - 27/-3
+    - 134/-1
+    - 215/
+    - 150/+6
+    - 250/-1
+    - 'Hersey Hawkins (On: -3&#9642;Off: +26&#9642;Net: -29)'
+    - "\n"
+    - 250/
+    - 63/-1
+    - 584/
+    - 103/-2
+    - 'Scott Burrell (On: -1&#9642;Off: +24&#9642;Net: -25)'
+    - "\n"
+    - 318/
+    - 67/0
+    - 365/
+    - 104/-1
+    - 145/
+    - 'Otis Thorpe (On: 0&#9642;Off: +23&#9642;Net: -23)'
+    - "\n"
+    - 861/
+    - 141/0
+    - 'Eldridge Recasner (On: 0&#9642;Off: +23&#9642;Net: -23)'
+    - "\n"
+    - 918/
+    - 84/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

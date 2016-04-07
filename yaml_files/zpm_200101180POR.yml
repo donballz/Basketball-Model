@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: -15&#9642;Off: +4&#9642;Net: -19)'
+    - |2-
+
+      -11
+    - 192/-11
+    - 307/
+    - 0/-2
+    - 95/-5
+    - 279/
+    - 125/+3
+    - 'Brian Grant (On: -10&#9642;Off: -1&#9642;Net: -9)'
+    - |2-
+
+      -17
+    - 248/-17
+    - 99/+4
+    - 37/
+    - 105/+7
+    - 8/
+    - 77/-1
+    - 20/
+    - 102/-5
+    - 49/
+    - 172/+2
+    - 76/
+    - 'Tim Hardaway (On: -14&#9642;Off: +3&#9642;Net: -17)'
+    - |2-
+
+      -11
+    - 192/-11
+    - 159/
+    - 148/+3
+    - 161/-6
+    - 339/
+    - 'Eddie Jones (On: -8&#9642;Off: -3&#9642;Net: -5)'
+    - |2-
+
+      -17
+    - 249/-17
+    - 48/+4
+    - 100/
+    - 92/+9
+    - 8/
+    - 249/-7
+    - 123/+3
+    - 127/
+    - 'Anthony Mason (On: -17&#9642;Off: +6&#9642;Net: -23)'
+    - |2-
+
+      -13
+    - 207/-13
+    - 95/
+    - 198/+3
+    - 250/-7
+    - 249/
+    - 'Anthony Carter (On: +10&#9642;Off: -21&#9642;Net: +31)'
+    - "\n"
+    - 196/
+    - 53/-6
+    - 99/+4
+    - 50/
+    - 100/+7
+    - 170/
+    - 79/-1
+    - 249/+6
+    - 'Dan Majerle (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - "\n"
+    - 197/
+    - 53/-6
+    - 146/0
+    - 281/
+    - 72/+1
+    - 24/+3
+    - 224/
+    - 'Duane Causwell (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - "\n"
+    - 209/
+    - 40/-4
+    - 133/+2
+    - 116/
+    - 0/-2
+    - 82/
+    - 90/-7
+    - 252/
+    - 73/+4
+    - 'A.C. Green (On: +5&#9642;Off: -16&#9642;Net: +21)'
+    - "\n"
+    - 351/
+    - 45/-4
+    - 309/
+    - 44/+3
+    - 250/+6
+    - 'Eddie House (On: +3&#9642;Off: -14&#9642;Net: +17)'
+    - "\n"
+    - 778/
+    - 224/+3
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Stacey Augmon (On: +16&#9642;Off: -5&#9642;Net: +21)'
+    - |2-
+
+      +15
+    - 216/+15
+    - 84/
+    - 119/0
+    - 79/
+    - 160/+6
+    - 89/
+    - 91/-5
+    - 158/
+    - 'Arvydas Sabonis (On: +21&#9642;Off: -10&#9642;Net: +31)'
+    - |2-
+
+      +15
+    - 227/+15
+    - 231/
+    - 42/-1
+    - 250/+7
+    - 249/
+    - 'Damon Stoudamire (On: +18&#9642;Off: -7&#9642;Net: +25)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 48/-4
+    - 158/
+    - 42/-1
+    - 249/+7
+    - 4/0
+    - 89/
+    - 157/-1
+    - 'Rasheed Wallace (On: +19&#9642;Off: -8&#9642;Net: +27)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 48/-4
+    - 128/
+    - 72/-3
+    - 177/+6
+    - 165/
+    - 92/+3
+    - 65/
+    - 'Bonzi Wells (On: +16&#9642;Off: -5&#9642;Net: +21)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 48/-4
+    - 125/
+    - 75/-3
+    - 249/+7
+    - 94/
+    - 157/-1
+    - 'Steve Smith (On: -10&#9642;Off: +21&#9642;Net: -31)'
+    - "\n"
+    - 226/
+    - 23/+2
+    - 250/-7
+    - 186/
+    - 63/+1
+    - 250/-6
+    - 'Dale Davis (On: -8&#9642;Off: +19&#9642;Net: -27)'
+    - "\n"
+    - 227/
+    - 23/+2
+    - 174/-4
+    - 325/
+    - 250/-6
+    - 'Greg Anthony (On: -7&#9642;Off: +18&#9642;Net: -25)'
+    - "\n"
+    - 301/
+    - 148/-2
+    - 309/
+    - 82/-5
+    - 159/
+    - 'Shawn Kemp (On: -10&#9642;Off: +21&#9642;Net: -31)'
+    - "\n"
+    - 301/
+    - 147/-2
+    - 220/
+    - 79/+1
+    - 91/-5
+    - 98/
+    - 61/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

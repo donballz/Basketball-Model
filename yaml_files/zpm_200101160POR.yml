@@ -1,0 +1,205 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jim Jackson (On: -21&#9642;Off: +1&#9642;Net: -22)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 53/
+    - 188/+1
+    - 9/
+    - 249/-5
+    - 93/0
+    - 53/
+    - 76/-10
+    - 25/
+    - 'Andre Miller (On: -10&#9642;Off: -10&#9642;Net: 0)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 139/
+    - 110/+7
+    - 249/-5
+    - 30/0
+    - 101/
+    - 78/-5
+    - 40/
+    - 'Lamond Murray (On: -17&#9642;Off: -3&#9642;Net: -14)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 48/-2
+    - 68/
+    - 133/+4
+    - 234/-3
+    - 113/
+    - 111/-9
+    - 40/
+    - 'Robert Traylor (On: -20&#9642;Off: 0&#9642;Net: -20)'
+    - |2-
+
+      -4
+    - 131/-4
+    - 148/
+    - 34/-5
+    - 185/
+    - 210/-1
+    - 93/
+    - 117/-9
+    - 19/
+    - 58/-1
+    - 'Clarence Weatherspoon (On: -5&#9642;Off: -15&#9642;Net: +10)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 27/+2
+    - 40/
+    - 182/+4
+    - 249/-5
+    - 50/0
+    - 126/
+    - 10/+1
+    - 62/
+    - 'Chris Gatling (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - "\n"
+    - 136/
+    - 113/-3
+    - 249/+1
+    - 213/
+    - 37/-4
+    - 209/-9
+    - 40/
+    - 'Cedric Henderson (On: -4&#9642;Off: -16&#9642;Net: +12)'
+    - "\n"
+    - 249/
+    - 115/-3
+    - 375/
+    - 9/-2
+    - 140/-2
+    - 88/
+    - 21/+3
+    - 'Anthony Johnson (On: -10&#9642;Off: -10&#9642;Net: 0)'
+    - "\n"
+    - 250/
+    - 135/-6
+    - 398/
+    - 90/-4
+    - 92/
+    - 33/0
+    - 'Trajan Langdon (On: +2&#9642;Off: -22&#9642;Net: +24)'
+    - "\n"
+    - 500/
+    - 0/+2
+    - 466/
+    - 34/0
+    - 'Etdrick Bohannon (On: 0&#9642;Off: -20&#9642;Net: +20)'
+    - "\n"
+    - 968/
+    - 34/0
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Stacey Augmon (On: +10&#9642;Off: +10&#9642;Net: 0)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 250/
+    - 0/-2
+    - 250/+5
+    - 249/
+    - 'Arvydas Sabonis (On: +7&#9642;Off: +13&#9642;Net: -6)'
+    - |2-
+
+      +2
+    - 166/+2
+    - 334/
+    - 250/+5
+    - 250/
+    - 'Damon Stoudamire (On: +11&#9642;Off: +9&#9642;Net: +2)'
+    - |2-
+
+      +7
+    - 248/+7
+    - 182/
+    - 69/-1
+    - 250/+5
+    - 250/
+    - 'Rasheed Wallace (On: +8&#9642;Off: +12&#9642;Net: -4)'
+    - |2-
+
+      +7
+    - 248/+7
+    - 116/
+    - 110/-4
+    - 25/
+    - 249/+5
+    - 50/0
+    - 199/
+    - 'Bonzi Wells (On: +11&#9642;Off: +9&#9642;Net: +2)'
+    - |2-
+
+      +2
+    - 166/+2
+    - 84/
+    - 250/-1
+    - 184/+1
+    - 65/
+    - 249/+9
+    - 'Dale Davis (On: +18&#9642;Off: +2&#9642;Net: +16)'
+    - "\n"
+    - 172/
+    - 78/+5
+    - 113/+3
+    - 68/
+    - 60/+1
+    - 313/
+    - 193/+9
+    - 'Steve Smith (On: +17&#9642;Off: +3&#9642;Net: +14)'
+    - "\n"
+    - 172/
+    - 78/+5
+    - 250/-1
+    - 185/
+    - 64/+4
+    - 249/+9
+    - 'Greg Anthony (On: +9&#9642;Off: +11&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 178/0
+    - 322/
+    - 249/+9
+    - 'Shawn Kemp (On: +9&#9642;Off: +11&#9642;Net: -2)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 177/0
+    - 53/
+    - 19/0
+    - 249/
+    - 250/+9
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

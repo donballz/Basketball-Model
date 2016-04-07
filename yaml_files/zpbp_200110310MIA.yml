@@ -1,0 +1,3092 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Mourning vs. A. Davis (B. Grant gains possession)'
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - B. Grant misses 2-pt shot from 4 ft
+  - - '11:43.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:32.0'
+    - V. Carter misses 2-pt shot from 16 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:30.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by A. Mourning
+  - - '11:25.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - B. Grant makes 2-pt shot at rim (assist by A. Carter)
+  - - '11:12.0'
+    - Personal foul by K. Gill
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:59.0'
+    - Personal foul by A. Mourning
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:53.0'
+    - Offensive foul by V. Carter
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:53.0'
+    - Turnover by V. Carter (offensive foul)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - A. Mourning misses 2-pt shot from 20 ft
+  - - '10:36.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:28.0'
+    - V. Carter makes 2-pt shot at rim
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - K. Gill makes 2-pt shot from 19 ft (assist by A. Mourning)
+  - - '10:02.0'
+    - V. Carter misses 2-pt shot from 12 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by A. Mourning
+  - - '9:52.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - A. Carter makes 2-pt shot at rim
+  - - '9:41.0'
+    - Toronto 20 second timeout
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:31.0'
+    - A. Williams misses 2-pt shot from 6 ft
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:28.0'
+    - H. Olajuwon makes 2-pt shot at rim
+    - "+2"
+    - 4-6
+    - ''
+    - ''
+  - - '9:28.0'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Personal foul by V. Carter
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-7
+    - "+1"
+    - E. Jones makes free throw 1 of 2
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-8
+    - "+1"
+    - E. Jones makes free throw 2 of 2
+  - - '8:59.0'
+    - A. Williams makes 2-pt shot from 21 ft (assist by V. Carter)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '8:43.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Shooting foul by A. Davis
+  - - '8:43.0'
+    - ''
+    - ''
+    - 6-9
+    - "+1"
+    - A. Mourning makes free throw 1 of 2
+  - - '8:43.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - A. Mourning misses free throw 2 of 2
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - Offensive rebound by A. Mourning
+  - - '8:39.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - A. Mourning misses 2-pt shot from 8 ft
+  - - '8:36.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - Offensive rebound by A. Mourning
+  - - '8:35.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - A. Mourning misses 2-pt shot from 3 ft
+  - - '8:34.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - Offensive rebound by A. Mourning
+  - - '8:33.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - A. Mourning misses 2-pt shot at rim
+  - - '8:32.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - Offensive rebound by A. Mourning
+  - - '8:32.0'
+    - ''
+    - ''
+    - 6-11
+    - "+2"
+    - A. Mourning makes 2-pt shot at rim
+  - - '8:32.0'
+    - ''
+    - ''
+    - 6-11
+    - ''
+    - Shooting foul by H. Olajuwon
+  - - '8:32.0'
+    - ''
+    - ''
+    - 6-12
+    - "+1"
+    - A. Mourning makes free throw 1 of 1
+  - - '8:20.0'
+    - A. Davis makes 2-pt shot from 16 ft (assist by V. Carter)
+    - "+2"
+    - 8-12
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 8-14
+    - "+2"
+    - B. Grant makes 2-pt shot from 18 ft (assist by A. Carter)
+  - - '7:43.0'
+    - A. Williams misses 2-pt shot from 8 ft
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-14
+    - ''
+    - Defensive rebound by K. Gill
+  - - '7:34.0'
+    - ''
+    - ''
+    - 8-14
+    - ''
+    - A. Mourning misses 2-pt shot from 19 ft
+  - - '7:31.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:20.0'
+    - H. Olajuwon misses 2-pt shot from 18 ft
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:19.0'
+    - Loose ball foul by K. Gill
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:08.0'
+    - Shooting foul by B. Grant
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 8-14
+    - ''
+    - S. Mack enters the game for K. Gill
+  - - '7:08.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:08.0'
+    - Offensive rebound by Team
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '7:08.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 9-14
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 9-14
+    - ''
+    - B. Grant misses 2-pt shot at rim (block by H. Olajuwon)
+  - - '6:48.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 9-14
+    - ''
+    - ''
+  - - '6:44.0'
+    - Turnover by V. Carter (bad pass)
+    - ''
+    - 9-14
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 9-16
+    - "+2"
+    - B. Grant makes 2-pt shot from 18 ft (assist by A. Carter)
+  - - '6:17.0'
+    - Personal foul by S. Mack
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '6:17.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '6:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 9-16
+    - ''
+    - L. Ellis enters the game for A. Mourning
+  - - '6:17.0'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '6:16.0'
+    - ''
+    - ''
+    - 9-16
+    - ''
+    - Defensive rebound by B. Grant
+  - - '5:59.0'
+    - ''
+    - ''
+    - 9-16
+    - ''
+    - A. Carter misses 2-pt shot from 20 ft
+  - - '5:56.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '5:52.0'
+    - M. Peterson makes 2-pt shot from 18 ft
+    - "+2"
+    - 11-16
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 11-16
+    - ''
+    - B. Grant misses 2-pt shot from 6 ft
+  - - '5:41.0'
+    - Defensive rebound by Team
+    - ''
+    - 11-16
+    - ''
+    - ''
+  - - '5:41.0'
+    - Toronto full timeout
+    - ''
+    - 11-16
+    - ''
+    - ''
+  - - '5:26.0'
+    - H. Olajuwon makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 13-16
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 13-16
+    - ''
+    - Offensive foul by B. Grant
+  - - '5:04.0'
+    - ''
+    - ''
+    - 13-16
+    - ''
+    - Turnover by B. Grant (offensive foul)
+  - - '5:04.0'
+    - ''
+    - ''
+    - 13-16
+    - ''
+    - A. Mourning enters the game for B. Grant
+  - - '4:48.0'
+    - V. Carter makes 2-pt shot from 11 ft
+    - "+2"
+    - 15-16
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 15-18
+    - "+2"
+    - A. Mourning makes 2-pt shot at rim
+  - - '4:06.0'
+    - H. Olajuwon makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 17-18
+    - ''
+    - ''
+  - - '4:04.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 17-18
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 17-18
+    - ''
+    - E. Jones misses 2-pt shot from 18 ft
+  - - '3:49.0'
+    - Defensive rebound by Team
+    - ''
+    - 17-18
+    - ''
+    - ''
+  - - '3:37.0'
+    - M. Peterson makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 19-18
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 19-18
+    - ''
+    - A. Mourning misses 2-pt shot from 16 ft
+  - - '3:20.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 19-18
+    - ''
+    - ''
+  - - '3:08.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 19-18
+    - ''
+    - ''
+  - - '3:08.0'
+    - K. Clark enters the game for H. Olajuwon
+    - ''
+    - 19-18
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 19-18
+    - ''
+    - R. Strickland enters the game for A. Carter
+  - - '3:08.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 19-18
+    - ''
+    - ''
+  - - '3:08.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-18
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 19-18
+    - ''
+    - S. Marks enters the game for A. Mourning
+  - - '3:08.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 20-18
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Offensive foul by E. Jones
+  - - '3:00.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Turnover by E. Jones (offensive foul)
+  - - '2:48.0'
+    - Personal foul by S. Marks
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:48.0'
+    - Toronto full timeout
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:48.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:48.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-18
+    - ''
+    - ''
+  - - '2:48.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 21-18
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - E. Jones misses 2-pt shot from 19 ft
+  - - '2:26.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 21-18
+    - ''
+    - ''
+  - - '2:09.0'
+    - K. Clark misses 2-pt shot from 17 ft
+    - ''
+    - 21-18
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - Defensive rebound by R. Strickland
+  - - '1:52.0'
+    - ''
+    - ''
+    - 21-20
+    - "+2"
+    - L. Ellis makes 2-pt shot from 18 ft (assist by S. Marks)
+  - - '1:26.0'
+    - M. Peterson makes 2-pt shot from 12 ft
+    - "+2"
+    - 23-20
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 23-20
+    - ''
+    - R. Strickland misses 2-pt shot from 21 ft
+  - - '1:11.0'
+    - Defensive rebound by K. Clark
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - Personal foul by S. Marks
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - A. Davis misses free throw 1 of 2
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - Offensive rebound by Team
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - C. Childs enters the game for A. Williams
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 24-20
+    - ''
+    - ''
+  - - '0:49.1'
+    - ''
+    - ''
+    - 24-22
+    - "+2"
+    - E. Jones makes 2-pt shot from 14 ft
+  - - '0:25.1'
+    - V. Carter misses 3-pt shot from 26 ft
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '0:22.8'
+    - Offensive rebound by K. Clark
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '0:01.3'
+    - K. Clark misses 2-pt shot at rim (block by S. Marks)
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '0:01.0'
+    - Offensive rebound by K. Clark
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '0:00.6'
+    - K. Clark misses 2-pt shot from 3 ft (block by S. Marks)
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Defensive rebound by S. Marks
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - V. Carter misses 2-pt shot from 11 ft
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Defensive rebound by S. Marks
+  - - '11:45.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Loose ball foul by J. Williams
+  - - '11:33.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - E. Jones misses 2-pt shot from 21 ft
+  - - '11:31.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '11:30.0'
+    - ''
+    - ''
+    - 24-24
+    - "+2"
+    - S. Marks makes 2-pt shot at rim
+  - - '11:16.0'
+    - Personal foul by S. Marks
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 24-24
+    - ''
+    - A. Mourning enters the game for S. Marks
+  - - '11:08.0'
+    - V. Carter misses 3-pt shot from 26 ft
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '11:06.0'
+    - Offensive rebound by M. Peterson
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '11:04.0'
+    - M. Peterson misses 2-pt shot from 4 ft
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 24-24
+    - ''
+    - Defensive rebound by S. Mack
+  - - '10:59.0'
+    - ''
+    - ''
+    - 24-24
+    - ''
+    - Turnover by S. Mack (bad pass; steal by V. Carter)
+  - - '10:56.0'
+    - J. Williams makes 2-pt shot at rim (assist by V. Carter)
+    - "+2"
+    - 26-24
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 26-26
+    - "+2"
+    - A. Mourning makes 2-pt shot from 18 ft (assist by R. Strickland)
+  - - '10:27.0'
+    - Turnover by C. Childs (bad pass; steal by L. Ellis)
+    - ''
+    - 26-26
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 26-28
+    - "+2"
+    - A. Mourning makes 2-pt shot from 14 ft (assist by L. Ellis)
+  - - '10:09.0'
+    - Toronto full timeout
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '10:09.0'
+    - H. Olajuwon enters the game for J. Williams
+    - ''
+    - 26-28
+    - ''
+    - ''
+  - - '10:00.0'
+    - K. Clark makes 2-pt shot at rim
+    - "+2"
+    - 28-28
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 28-30
+    - "+2"
+    - E. Jones makes 2-pt shot at rim
+  - - '9:29.0'
+    - Offensive foul by K. Clark
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '9:29.0'
+    - Turnover by K. Clark (offensive foul)
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - K. Gill enters the game for E. Jones
+  - - '9:29.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - E. House enters the game for S. Mack
+  - - '9:29.0'
+    - A. Davis enters the game for K. Clark
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '9:29.0'
+    - A. Williams enters the game for V. Carter
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - A. Mourning misses 2-pt shot from 9 ft
+  - - '9:10.0'
+    - Defensive rebound by C. Childs
+    - ''
+    - 28-30
+    - ''
+    - ''
+  - - '9:04.0'
+    - C. Childs makes 2-pt shot at rim
+    - "+2"
+    - 30-30
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 30-32
+    - "+2"
+    - L. Ellis makes 2-pt shot from 19 ft (assist by R. Strickland)
+  - - '8:26.0'
+    - M. Peterson misses 2-pt shot from 13 ft
+    - ''
+    - 30-32
+    - ''
+    - ''
+  - - '8:23.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 30-32
+    - ''
+    - ''
+  - - '8:21.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 32-32
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 32-34
+    - "+2"
+    - R. Strickland makes 2-pt shot at rim
+  - - '8:06.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - Shooting foul by A. Davis
+  - - '8:06.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - R. Strickland misses free throw 1 of 1
+  - - '8:05.0'
+    - Defensive rebound by C. Childs
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:48.0'
+    - Personal foul by R. Strickland
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:41.0'
+    - A. Davis misses 2-pt shot at rim
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - Defensive rebound by K. Gill
+  - - '7:40.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - Loose ball foul by H. Olajuwon
+  - - '7:23.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - E. House misses 2-pt shot from 16 ft
+  - - '7:21.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:12.0'
+    - Personal foul by K. Gill
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - B. Grant enters the game for A. Mourning
+  - - '7:06.0'
+    - A. Williams misses 2-pt shot from 20 ft
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - Defensive rebound by K. Gill
+  - - '7:01.0'
+    - ''
+    - ''
+    - 32-36
+    - "+2"
+    - B. Grant makes 2-pt shot at rim (assist by K. Gill)
+  - - '6:38.0'
+    - V. Carter enters the game for M. Peterson
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '6:34.0'
+    - C. Childs makes 2-pt shot from 15 ft
+    - "+2"
+    - 34-36
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 34-36
+    - ''
+    - R. Strickland misses 2-pt shot at rim
+  - - '6:15.0'
+    - ''
+    - ''
+    - 34-36
+    - ''
+    - Offensive rebound by B. Grant
+  - - '6:13.0'
+    - ''
+    - ''
+    - 34-38
+    - "+2"
+    - B. Grant makes 2-pt shot at rim
+  - - '6:02.0'
+    - V. Carter makes 2-pt shot from 22 ft (assist by C. Childs)
+    - "+2"
+    - 36-38
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Miami full timeout
+  - - '5:55.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - E. Jones enters the game for K. Gill
+  - - '5:49.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - B. Grant misses 2-pt shot from 6 ft
+  - - '5:47.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 36-38
+    - ''
+    - ''
+  - - '5:33.0'
+    - V. Carter makes 2-pt shot from 6 ft (assist by C. Childs)
+    - "+2"
+    - 38-38
+    - ''
+    - ''
+  - - '5:33.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 38-38
+    - ''
+    - ''
+  - - '5:33.0'
+    - V. Carter makes free throw 1 of 1
+    - "+1"
+    - 39-38
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - E. Jones misses 2-pt shot from 17 ft
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Shooting foul by C. Childs
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - L. Ellis misses free throw 1 of 2
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Offensive rebound by Team
+  - - '5:16.0'
+    - ''
+    - ''
+    - 39-39
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '5:04.0'
+    - Personal foul by E. Jones
+    - ''
+    - 39-39
+    - ''
+    - ''
+  - - '5:04.0'
+    - V. Carter makes free throw 1 of 2
+    - "+1"
+    - 40-39
+    - ''
+    - ''
+  - - '5:04.0'
+    - V. Carter misses free throw 2 of 2
+    - ''
+    - 40-39
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 40-39
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '4:44.0'
+    - ''
+    - ''
+    - 40-39
+    - ''
+    - Personal foul by V. Carter
+  - - '4:44.0'
+    - ''
+    - ''
+    - 40-39
+    - ''
+    - A. Carter enters the game for R. Strickland
+  - - '4:44.0'
+    - ''
+    - ''
+    - 40-40
+    - "+1"
+    - B. Grant makes free throw 1 of 2
+  - - '4:44.0'
+    - ''
+    - ''
+    - 40-41
+    - "+1"
+    - B. Grant makes free throw 2 of 2
+  - - '4:28.0'
+    - H. Olajuwon misses 2-pt shot from 14 ft
+    - ''
+    - 40-41
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 40-41
+    - ''
+    - Defensive rebound by B. Grant
+  - - '4:24.0'
+    - ''
+    - ''
+    - 40-41
+    - ''
+    - Personal foul by A. Williams
+  - - '4:24.0'
+    - ''
+    - ''
+    - 40-42
+    - "+1"
+    - A. Carter makes free throw 1 of 2
+  - - '4:24.0'
+    - ''
+    - ''
+    - 40-43
+    - "+1"
+    - A. Carter makes free throw 2 of 2
+  - - '4:06.0'
+    - A. Davis misses 2-pt shot from 14 ft
+    - ''
+    - 40-43
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 40-43
+    - ''
+    - Defensive rebound by A. Carter
+  - - '3:55.0'
+    - ''
+    - ''
+    - 40-45
+    - "+2"
+    - B. Grant makes 2-pt shot from 16 ft (assist by A. Carter)
+  - - '3:36.0'
+    - A. Williams makes 2-pt shot at rim (assist by C. Childs)
+    - "+2"
+    - 42-45
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - Turnover by A. Carter (bad pass)
+  - - '3:31.0'
+    - K. Clark enters the game for H. Olajuwon
+    - ''
+    - 42-45
+    - ''
+    - ''
+  - - '3:17.0'
+    - A. Williams misses 3-pt shot from 25 ft
+    - ''
+    - 42-45
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - Defensive rebound by Team
+  - - '3:16.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - A. Mourning enters the game for L. Ellis
+  - - '3:05.0'
+    - ''
+    - ''
+    - 42-47
+    - "+2"
+    - A. Carter makes 2-pt shot from 19 ft
+  - - '2:51.0'
+    - A. Williams makes 2-pt shot from 19 ft (assist by C. Childs)
+    - "+2"
+    - 44-47
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - A. Carter misses 2-pt shot from 14 ft
+  - - '2:33.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '2:28.0'
+    - K. Clark makes 2-pt shot at rim (assist by C. Childs)
+    - "+2"
+    - 46-47
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - Defensive three seconds by A. Davis
+  - - '2:06.0'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - Official timeout
+  - - '2:06.0'
+    - M. Peterson enters the game for V. Carter
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 46-48
+    - "+1"
+    - E. Jones makes technical free throw
+  - - '2:06.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - L. Ellis enters the game for B. Grant
+  - - '1:56.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - Turnover by A. Carter (traveling)
+  - - '1:39.0'
+    - Personal foul by E. Jones
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '1:39.0'
+    - M. Peterson misses free throw 1 of 2
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '1:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - S. Mack enters the game for E. Jones
+  - - '1:39.0'
+    - M. Peterson makes free throw 2 of 2
+    - "+1"
+    - 47-48
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 47-48
+    - ''
+    - E. House misses 2-pt shot from 16 ft
+  - - '1:26.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 47-48
+    - ''
+    - ''
+  - - '1:25.0'
+    - Turnover by A. Davis (bad pass)
+    - ''
+    - 47-48
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 47-48
+    - ''
+    - Shooting foul by A. Davis
+  - - '1:15.0'
+    - ''
+    - ''
+    - 47-49
+    - "+1"
+    - A. Mourning makes free throw 1 of 2
+  - - '1:15.0'
+    - E. Montross enters the game for A. Davis
+    - ''
+    - 47-49
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 47-50
+    - "+1"
+    - A. Mourning makes free throw 2 of 2
+  - - '0:50.6'
+    - A. Williams misses 3-pt shot from 25 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '0:48.3'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '0:32.1'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Turnover by L. Ellis (bad pass; steal by A. Williams)
+  - - '0:28.6'
+    - Offensive foul by M. Peterson
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '0:28.6'
+    - Turnover by M. Peterson (offensive foul)
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '0:28.6'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Miami 20 second timeout
+  - - '0:04.6'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:00.2'
+    - C. Childs misses 3-pt shot from 56 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by K. Clark
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:41.0'
+    - Turnover by A. Davis (lost ball; steal by B. Grant)
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '11:34.0'
+    - ''
+    - ''
+    - 47-50
+    - ''
+    - E. Jones misses 2-pt shot from 20 ft
+  - - '11:32.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '11:12.0'
+    - A. Williams misses 2-pt shot from 17 ft
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '11:09.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 47-50
+    - ''
+    - ''
+  - - '11:08.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 49-50
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 49-50
+    - ''
+    - K. Gill misses 2-pt shot at rim
+  - - '10:48.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 49-50
+    - ''
+    - ''
+  - - '10:44.0'
+    - M. Peterson makes 2-pt shot from 16 ft (assist by A. Williams)
+    - "+2"
+    - 51-50
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 51-50
+    - ''
+    - K. Gill misses 2-pt shot from 18 ft
+  - - '10:23.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 51-50
+    - ''
+    - ''
+  - - '10:09.0'
+    - Shooting foul by E. Jones
+    - ''
+    - 51-50
+    - ''
+    - ''
+  - - '10:09.0'
+    - M. Peterson makes free throw 1 of 2
+    - "+1"
+    - 52-50
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - L. Ellis enters the game for E. Jones
+  - - '10:09.0'
+    - M. Peterson makes free throw 2 of 2
+    - "+1"
+    - 53-50
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 53-50
+    - ''
+    - Shooting foul by H. Olajuwon
+  - - '9:49.0'
+    - ''
+    - ''
+    - 53-51
+    - "+1"
+    - B. Grant makes free throw 1 of 2
+  - - '9:49.0'
+    - ''
+    - ''
+    - 53-52
+    - "+1"
+    - B. Grant makes free throw 2 of 2
+  - - '9:35.0'
+    - Turnover by A. Davis (bad pass)
+    - ''
+    - 53-52
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 53-54
+    - "+2"
+    - A. Carter makes 2-pt shot at rim
+  - - '9:04.0'
+    - A. Davis misses 2-pt shot from 17 ft
+    - ''
+    - 53-54
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 53-54
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '8:48.0'
+    - ''
+    - ''
+    - 53-54
+    - ''
+    - Turnover by A. Mourning (traveling)
+  - - '8:37.0'
+    - Shooting foul by K. Gill
+    - ''
+    - 53-54
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 53-54
+    - ''
+    - Technical foul by A. Carter
+  - - '8:37.0'
+    - V. Carter misses technical free throw
+    - ''
+    - 53-54
+    - ''
+    - ''
+  - - '8:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-54
+    - ''
+    - ''
+  - - '8:37.0'
+    - V. Carter makes free throw 1 of 2
+    - "+1"
+    - 54-54
+    - ''
+    - ''
+  - - '8:37.0'
+    - V. Carter makes free throw 2 of 2
+    - "+1"
+    - 55-54
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - K. Gill misses 2-pt shot from 22 ft
+  - - '8:19.0'
+    - Defensive rebound by Team
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '8:02.0'
+    - V. Carter misses 2-pt shot from 17 ft
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Defensive rebound by A. Mourning
+  - - '7:55.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Personal foul by M. Peterson
+  - - '7:40.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - A. Mourning misses 2-pt shot from 19 ft
+  - - '7:38.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '7:33.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Miami full timeout
+  - - '7:21.0'
+    - ''
+    - ''
+    - 55-54
+    - ''
+    - Personal foul by H. Olajuwon
+  - - '7:21.0'
+    - ''
+    - ''
+    - 55-55
+    - "+1"
+    - A. Mourning makes free throw 1 of 2
+  - - '7:21.0'
+    - ''
+    - ''
+    - 55-56
+    - "+1"
+    - A. Mourning makes free throw 2 of 2
+  - - '6:56.0'
+    - V. Carter misses 2-pt shot from 18 ft
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '6:54.0'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '6:51.0'
+    - M. Peterson misses 2-pt shot from 18 ft
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '6:48.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '6:47.0'
+    - V. Carter misses 2-pt shot at rim (block by A. Mourning)
+    - ''
+    - 55-56
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 55-56
+    - ''
+    - Defensive rebound by B. Grant
+  - - '6:41.0'
+    - ''
+    - ''
+    - 55-58
+    - "+2"
+    - B. Grant makes 2-pt shot at rim (assist by A. Carter)
+  - - '6:15.0'
+    - 'Jump ball: A. Mourning vs. H. Olajuwon (B. Grant gains possession)'
+  - - '6:15.0'
+    - H. Olajuwon misses 2-pt shot from 8 ft (block by A. Mourning)
+    - ''
+    - 55-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Defensive rebound by B. Grant
+  - - '6:01.0'
+    - ''
+    - ''
+    - 55-58
+    - ''
+    - Personal foul by A. Williams
+  - - '6:01.0'
+    - ''
+    - ''
+    - 55-59
+    - "+1"
+    - A. Carter makes free throw 1 of 2
+  - - '6:01.0'
+    - ''
+    - ''
+    - 55-59
+    - ''
+    - A. Carter misses free throw 2 of 2
+  - - '6:00.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '5:41.0'
+    - Personal foul by A. Carter
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '5:41.0'
+    - A. Williams makes free throw 1 of 2
+    - "+1"
+    - 56-59
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 56-59
+    - ''
+    - S. Marks enters the game for A. Mourning
+  - - '5:41.0'
+    - A. Williams misses free throw 2 of 2
+    - ''
+    - 56-59
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 56-59
+    - ''
+    - Defensive rebound by S. Marks
+  - - '5:39.0'
+    - ''
+    - ''
+    - 56-59
+    - ''
+    - Turnover by S. Marks (bad pass; steal by H. Olajuwon)
+  - - '5:39.0'
+    - Loose ball foul by B. Grant
+    - ''
+    - 56-59
+    - ''
+    - ''
+  - - '5:25.0'
+    - Turnover by V. Carter (lost ball)
+    - ''
+    - 56-59
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 56-59
+    - ''
+    - Turnover by L. Ellis (3 sec)
+  - - '5:09.0'
+    - K. Clark enters the game for H. Olajuwon
+    - ''
+    - 56-59
+    - ''
+    - ''
+  - - '4:57.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 56-59
+    - ''
+    - ''
+  - - '4:57.0'
+    - A. Williams makes free throw 1 of 2
+    - "+1"
+    - 57-59
+    - ''
+    - ''
+  - - '4:57.0'
+    - A. Williams misses free throw 2 of 2
+    - ''
+    - 57-59
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 57-59
+    - ''
+    - Defensive rebound by B. Grant
+  - - '4:36.0'
+    - ''
+    - ''
+    - 57-62
+    - "+3"
+    - L. Ellis makes 3-pt shot from 23 ft (assist by K. Gill)
+  - - '4:11.0'
+    - A. Davis misses 2-pt shot from 14 ft
+    - ''
+    - 57-62
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 57-62
+    - ''
+    - Defensive rebound by S. Marks
+  - - '3:44.0'
+    - ''
+    - ''
+    - 57-62
+    - ''
+    - L. Ellis misses 2-pt shot from 19 ft
+  - - '3:42.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 57-62
+    - ''
+    - ''
+  - - '3:33.0'
+    - A. Williams makes 2-pt shot from 18 ft
+    - "+2"
+    - 59-62
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 59-62
+    - ''
+    - B. Grant misses 2-pt shot from 16 ft
+  - - '3:08.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 59-62
+    - ''
+    - ''
+  - - '3:04.0'
+    - Shooting foul by A. Carter
+    - ''
+    - 59-62
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 59-62
+    - ''
+    - S. Mack enters the game for B. Grant
+  - - '3:04.0'
+    - K. Clark makes free throw 1 of 2
+    - "+1"
+    - 60-62
+    - ''
+    - ''
+  - - '3:04.0'
+    - K. Clark makes free throw 2 of 2
+    - "+1"
+    - 61-62
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 61-62
+    - ''
+    - Turnover by K. Gill (lost ball; steal by A. Williams)
+  - - '2:31.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 61-62
+    - ''
+    - ''
+  - - '2:31.0'
+    - Toronto full timeout
+    - ''
+    - 61-62
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 61-62
+    - ''
+    - A. Mourning enters the game for L. Ellis
+  - - '2:31.0'
+    - A. Williams makes free throw 1 of 2
+    - "+1"
+    - 62-62
+    - ''
+    - ''
+  - - '2:31.0'
+    - A. Williams misses free throw 2 of 2
+    - ''
+    - 62-62
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - Defensive rebound by A. Carter
+  - - '2:20.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - Offensive foul by A. Mourning
+  - - '2:20.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - Turnover by A. Mourning (offensive foul)
+  - - '2:07.0'
+    - V. Carter misses 2-pt shot at rim (block by S. Marks)
+    - ''
+    - 62-62
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - Defensive rebound by A. Mourning
+  - - '1:53.0'
+    - Flagrant foul type 1 by A. Mourning
+    - ''
+    - 62-62
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 62-62
+    - ''
+    - Turnover by A. Mourning (offensive foul)
+  - - '1:53.0'
+    - K. Clark makes flagrant free throw 1 of 2
+    - "+1"
+    - 63-62
+    - ''
+    - ''
+  - - '1:53.0'
+    - K. Clark makes flagrant free throw 2 of 2
+    - "+1"
+    - 64-62
+    - ''
+    - ''
+  - - '1:35.0'
+    - Turnover by A. Davis (traveling)
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 64-64
+    - "+2"
+    - A. Mourning makes 2-pt shot at rim (assist by A. Carter)
+  - - '1:25.0'
+    - ''
+    - ''
+    - 64-64
+    - ''
+    - Shooting foul by K. Clark
+  - - '1:25.0'
+    - ''
+    - ''
+    - 64-64
+    - ''
+    - R. Strickland enters the game for A. Carter
+  - - '1:25.0'
+    - ''
+    - ''
+    - 64-65
+    - "+1"
+    - A. Mourning makes free throw 1 of 1
+  - - '1:19.0'
+    - Personal foul by S. Mack
+    - ''
+    - 64-65
+    - ''
+    - ''
+  - - '1:19.0'
+    - M. Peterson makes free throw 1 of 2
+    - "+1"
+    - 65-65
+    - ''
+    - ''
+  - - '1:19.0'
+    - C. Childs enters the game for A. Williams
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '1:19.0'
+    - M. Peterson makes free throw 2 of 2
+    - "+1"
+    - 66-65
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 66-65
+    - ''
+    - Personal foul by A. Davis
+  - - '1:08.0'
+    - ''
+    - ''
+    - 66-65
+    - ''
+    - A. Mourning misses free throw 1 of 2
+  - - '1:08.0'
+    - ''
+    - ''
+    - 66-65
+    - ''
+    - Offensive rebound by Team
+  - - '1:08.0'
+    - ''
+    - ''
+    - 66-66
+    - "+1"
+    - A. Mourning makes free throw 2 of 2
+  - - '0:59.1'
+    - V. Carter misses 2-pt shot from 22 ft
+    - ''
+    - 66-66
+    - ''
+    - ''
+  - - '0:58.2'
+    - ''
+    - ''
+    - 66-66
+    - ''
+    - Defensive rebound by Team
+  - - '0:58.2'
+    - ''
+    - ''
+    - 66-66
+    - ''
+    - Loose ball foul by A. Davis
+  - - '0:58.2'
+    - E. Montross enters the game for A. Davis
+    - ''
+    - 66-66
+    - ''
+    - ''
+  - - '0:58.2'
+    - ''
+    - ''
+    - 66-67
+    - "+1"
+    - S. Marks makes free throw 1 of 2
+  - - '0:58.2'
+    - ''
+    - ''
+    - 66-68
+    - "+1"
+    - S. Marks makes free throw 2 of 2
+  - - '0:54.9'
+    - Turnover by C. Childs (bad pass)
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '0:33.5'
+    - ''
+    - ''
+    - 66-70
+    - "+2"
+    - A. Mourning makes 2-pt shot from 17 ft (assist by R. Strickland)
+  - - '0:20.6'
+    - V. Carter misses 3-pt shot from 24 ft
+    - ''
+    - 66-70
+    - ''
+    - ''
+  - - '0:18.4'
+    - ''
+    - ''
+    - 66-70
+    - ''
+    - Defensive rebound by S. Marks
+  - - '0:09.6'
+    - ''
+    - ''
+    - 66-70
+    - ''
+    - Personal foul by K. Clark
+  - - '0:09.6'
+    - ''
+    - ''
+    - 66-70
+    - ''
+    - A. Mourning misses free throw 1 of 2
+  - - '0:09.6'
+    - ''
+    - ''
+    - 66-70
+    - ''
+    - Offensive rebound by Team
+  - - '0:09.6'
+    - ''
+    - ''
+    - 66-71
+    - "+1"
+    - A. Mourning makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 66-71
+    - ''
+    - S. Mack misses 2-pt shot from 19 ft
+  - - '11:43.0'
+    - ''
+    - ''
+    - 66-71
+    - ''
+    - Offensive rebound by S. Marks
+  - - '11:26.0'
+    - ''
+    - ''
+    - 66-71
+    - ''
+    - Turnover by S. Marks (bad pass; steal by C. Childs)
+  - - '11:12.0'
+    - C. Childs makes 3-pt shot from 25 ft (assist by V. Carter)
+    - "+3"
+    - 69-71
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Personal foul by K. Clark
+  - - '10:57.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - E. Jones enters the game for S. Mack
+  - - '10:46.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - K. Gill misses 2-pt shot from 20 ft
+  - - '10:44.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Offensive rebound by K. Gill
+  - - '10:41.0'
+    - ''
+    - ''
+    - 69-73
+    - "+2"
+    - K. Gill makes 2-pt shot at rim
+  - - '10:36.0'
+    - Turnover by M. Peterson (lost ball)
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Personal foul by E. Montross
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Flagrant foul type 1 by E. Montross
+  - - '10:16.0'
+    - Technical foul by E. Montross
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - E. Jones misses technical free throw
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Offensive rebound by Team
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - A. Mourning misses flagrant free throw 1 of 2
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Offensive rebound by Team
+  - - '10:16.0'
+    - ''
+    - ''
+    - 69-74
+    - "+1"
+    - A. Mourning makes flagrant free throw 2 of 2
+  - - '10:09.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - E. Jones misses 2-pt shot at rim
+  - - '10:07.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - Offensive rebound by K. Gill
+  - - '10:02.0'
+    - ''
+    - ''
+    - 69-76
+    - "+2"
+    - E. Jones makes 2-pt shot from 18 ft (assist by R. Strickland)
+  - - '9:49.0'
+    - Toronto full timeout
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:49.0'
+    - A. Williams enters the game for V. Carter
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:36.0'
+    - M. Peterson misses 2-pt shot from 19 ft
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:35.0'
+    - H. Olajuwon enters the game for E. Montross
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:22.0'
+    - K. Clark misses 2-pt shot at rim (block by A. Mourning)
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Defensive rebound by K. Gill
+  - - '9:15.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Personal foul by K. Clark
+  - - '9:05.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - B. Grant enters the game for A. Mourning
+  - - '9:00.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - R. Strickland misses 2-pt shot from 17 ft
+  - - '8:58.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '8:50.0'
+    - C. Childs misses 2-pt shot at rim (block by S. Marks)
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Defensive rebound by E. Jones
+  - - '8:41.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Shooting foul by K. Clark
+  - - '8:41.0'
+    - A. Davis enters the game for K. Clark
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 69-77
+    - "+1"
+    - R. Strickland makes free throw 1 of 2
+  - - '8:41.0'
+    - ''
+    - ''
+    - 69-77
+    - ''
+    - R. Strickland misses free throw 2 of 2
+  - - '8:40.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 69-77
+    - ''
+    - ''
+  - - '8:24.0'
+    - H. Olajuwon misses 2-pt shot at rim
+    - ''
+    - 69-77
+    - ''
+    - ''
+  - - '8:21.0'
+    - Offensive rebound by M. Peterson
+    - ''
+    - 69-77
+    - ''
+    - ''
+  - - '8:21.0'
+    - M. Peterson makes 2-pt shot from 4 ft
+    - "+2"
+    - 71-77
+    - ''
+    - ''
+  - - '8:21.0'
+    - Shooting foul by K. Gill
+    - ''
+    - 71-77
+    - ''
+    - ''
+  - - '8:21.0'
+    - M. Peterson makes free throw 1 of 1
+    - "+1"
+    - 72-77
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 72-79
+    - "+2"
+    - E. Jones makes 2-pt shot from 22 ft (assist by R. Strickland)
+  - - '7:52.0'
+    - A. Williams makes 2-pt shot from 14 ft
+    - "+2"
+    - 74-79
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - R. Strickland misses 2-pt shot from 21 ft
+  - - '7:38.0'
+    - Defensive rebound by M. Peterson
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '7:34.0'
+    - Turnover by C. Childs (bad pass)
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - A. Carter enters the game for R. Strickland
+  - - '7:34.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - L. Ellis enters the game for K. Gill
+  - - '7:16.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - B. Grant misses 2-pt shot from 9 ft
+  - - '7:14.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - Offensive rebound by S. Marks
+  - - '7:06.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - Turnover by B. Grant (lost ball; steal by A. Williams)
+  - - '7:06.0'
+    - Loose ball foul by B. Grant
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 74-79
+    - ''
+    - A. Mourning enters the game for B. Grant
+  - - '7:06.0'
+    - V. Carter enters the game for C. Childs
+    - ''
+    - 74-79
+    - ''
+    - ''
+  - - '6:59.0'
+    - A. Williams makes 3-pt shot from 25 ft
+    - "+3"
+    - 77-79
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - L. Ellis misses 2-pt shot from 15 ft
+  - - '6:36.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:30.0'
+    - A. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:28.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:23.0'
+    - A. Davis misses 2-pt shot from 18 ft
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '6:16.0'
+    - ''
+    - ''
+    - 77-79
+    - ''
+    - Personal foul by H. Olajuwon
+  - - '6:16.0'
+    - ''
+    - ''
+    - 77-80
+    - "+1"
+    - A. Mourning makes free throw 1 of 2
+  - - '6:16.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - A. Mourning misses free throw 2 of 2
+  - - '6:15.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - Offensive rebound by A. Mourning
+  - - '6:13.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - Turnover by A. Mourning (bad pass)
+  - - '5:54.0'
+    - H. Olajuwon misses 2-pt shot from 13 ft
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:51.0'
+    - A. Davis misses 2-pt shot at rim
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:51.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - Defensive rebound by S. Marks
+  - - '5:39.0'
+    - ''
+    - ''
+    - 77-82
+    - "+2"
+    - A. Carter makes 2-pt shot from 8 ft
+  - - '5:30.0'
+    - Personal foul by L. Ellis
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - B. Grant enters the game for A. Mourning
+  - - '5:30.0'
+    - Official timeout
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '5:22.0'
+    - Turnover by V. Carter (bad pass; steal by S. Marks)
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 77-85
+    - "+3"
+    - E. Jones makes 3-pt shot from 25 ft (assist by L. Ellis)
+  - - '4:53.0'
+    - Shooting foul by S. Marks
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '4:53.0'
+    - M. Peterson misses free throw 1 of 2
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '4:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '4:53.0'
+    - M. Peterson makes free throw 2 of 2
+    - "+1"
+    - 78-85
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - B. Grant misses 2-pt shot from 19 ft
+  - - '4:40.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 78-85
+    - ''
+    - ''
+  - - '4:28.0'
+    - A. Williams misses 2-pt shot from 22 ft
+    - ''
+    - 78-85
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - Defensive rebound by B. Grant
+  - - '4:21.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - Shooting foul by A. Davis
+  - - '4:21.0'
+    - Technical foul by A. Davis
+    - ''
+    - 78-85
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - A. Davis ejected from game
+  - - '4:21.0'
+    - E. Montross enters the game for A. Davis
+    - ''
+    - 78-85
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 78-86
+    - "+1"
+    - E. Jones makes technical free throw
+  - - '4:21.0'
+    - ''
+    - ''
+    - 78-87
+    - "+1"
+    - S. Marks makes free throw 1 of 2
+  - - '4:21.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - S. Marks misses free throw 2 of 2
+  - - '4:20.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - Offensive rebound by A. Carter
+  - - '4:07.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - Offensive foul by S. Marks
+  - - '4:07.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - Turnover by S. Marks (offensive foul)
+  - - '4:07.0'
+    - M. Bradley enters the game for E. Montross
+    - ''
+    - 78-87
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - A. Mourning enters the game for S. Marks
+  - - '3:53.0'
+    - Turnover by V. Carter (dbl dribble)
+    - ''
+    - 78-87
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 78-87
+    - ''
+    - E. Jones misses 2-pt shot at rim
+  - - '3:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 78-87
+    - ''
+    - ''
+  - - '3:28.0'
+    - V. Carter makes 3-pt shot from 24 ft
+    - "+3"
+    - 81-87
+    - ''
+    - ''
+  - - '3:11.0'
+    - Violation by V. Carter (kicked ball)
+    - ''
+    - 81-87
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 81-89
+    - "+2"
+    - B. Grant makes 2-pt shot from 9 ft
+  - - '2:43.0'
+    - M. Peterson misses 2-pt shot at rim (block by A. Mourning)
+    - ''
+    - 81-89
+    - ''
+    - ''
+  - - '2:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-89
+    - ''
+    - ''
+  - - '2:42.0'
+    - Toronto full timeout
+    - ''
+    - 81-89
+    - ''
+    - ''
+  - - '2:35.0'
+    - A. Williams makes 2-pt shot from 22 ft (assist by M. Peterson)
+    - "+2"
+    - 83-89
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - E. Jones misses 2-pt shot from 16 ft
+  - - '2:10.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - Offensive rebound by E. Jones
+  - - '2:09.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - E. Jones misses 2-pt shot from 4 ft (block by H. Olajuwon)
+  - - '2:07.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 83-89
+    - ''
+    - ''
+  - - '2:02.0'
+    - M. Peterson makes 2-pt shot at rim
+    - "+2"
+    - 85-89
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 85-91
+    - "+2"
+    - A. Mourning makes 2-pt shot from 7 ft
+  - - '1:22.0'
+    - Turnover by H. Olajuwon (bad pass; steal by L. Ellis)
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Offensive foul by A. Mourning
+  - - '1:05.0'
+    - ''
+    - ''
+    - 85-91
+    - ''
+    - Turnover by A. Mourning (offensive foul)
+  - - '0:49.8'
+    - M. Peterson misses 2-pt shot at rim
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '0:47.8'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 85-91
+    - ''
+    - ''
+  - - '0:47.1'
+    - H. Olajuwon makes 2-pt shot from 7 ft
+    - "+2"
+    - 87-91
+    - ''
+    - ''
+  - - '0:47.1'
+    - Shooting foul by B. Grant
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:47.1'
+    - H. Olajuwon misses free throw 1 of 1
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:45.2'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:45.0'
+    - Personal foul by E. Jones
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:45.0'
+    - H. Olajuwon misses free throw 1 of 2
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:45.0'
+    - H. Olajuwon misses free throw 2 of 2
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:44.6'
+    - Offensive rebound by A. Williams
+    - ''
+    - 87-91
+    - ''
+    - ''
+  - - '0:39.1'
+    - V. Carter makes 3-pt shot from 25 ft (assist by A. Williams)
+    - "+3"
+    - 90-91
+    - ''
+    - ''
+  - - '0:23.3'
+    - ''
+    - ''
+    - 90-94
+    - "+3"
+    - E. Jones makes 3-pt shot from 24 ft (assist by A. Carter)
+  - - '0:23.3'
+    - Toronto full timeout
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '0:23.3'
+    - T. Murray enters the game for M. Bradley
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '0:13.3'
+    - V. Carter misses 2-pt shot from 9 ft (block by E. Jones)
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '0:13.1'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '0:11.1'
+    - H. Olajuwon misses 2-pt shot from 18 ft
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '0:09.7'
+    - ''
+    - ''
+    - 90-94
+    - ''
+    - Defensive rebound by A. Carter
+  - - '0:07.9'
+    - ''
+    - ''
+    - 90-94
+    - ''
+    - Personal foul by T. Murray
+  - - '0:07.9'
+    - ''
+    - ''
+    - 90-95
+    - "+1"
+    - E. Jones makes free throw 1 of 2
+  - - '0:07.9'
+    - ''
+    - ''
+    - 90-96
+    - "+1"
+    - E. Jones makes free throw 2 of 2
+  - - '0:07.9'
+    - Toronto full timeout
+    - ''
+    - 90-96
+    - ''
+    - ''
+  - - '0:04.4'
+    - Personal foul by E. Jones
+    - ''
+    - 90-96
+    - ''
+    - ''
+  - - '0:04.4'
+    - ''
+    - ''
+    - 90-96
+    - ''
+    - K. Gill enters the game for E. Jones
+  - - '0:04.4'
+    - V. Carter makes free throw 1 of 2
+    - "+1"
+    - 91-96
+    - ''
+    - ''
+  - - '0:04.4'
+    - V. Carter makes free throw 2 of 2
+    - "+1"
+    - 92-96
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 92-96
+    - ''
+    - Personal foul by A. Williams
+  - - '0:03.9'
+    - ''
+    - ''
+    - 92-96
+    - ''
+    - K. Gill misses free throw 1 of 2
+  - - '0:03.9'
+    - ''
+    - ''
+    - 92-96
+    - ''
+    - Offensive rebound by Team
+  - - '0:03.9'
+    - M. Bradley enters the game for T. Murray
+    - ''
+    - 92-96
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 92-97
+    - "+1"
+    - K. Gill makes free throw 2 of 2
+  - - '0:03.9'
+    - Toronto 20 second timeout
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:03.9'
+    - T. Murray enters the game for M. Bradley
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:02.2'
+    - A. Williams misses 3-pt shot from 23 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Defensive rebound by A. Mourning
+  - - '0:00.0'
+    - End of 4th quarter

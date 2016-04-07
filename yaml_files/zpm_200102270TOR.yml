@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Cedric Henderson (On: -7&#9642;Off: -5&#9642;Net: -2)'
+    - |2-
+
+      -2
+    - 133/-2
+    - 367/
+    - 100/-5
+    - 400/
+    - 'Jim Jackson (On: -21&#9642;Off: +9&#9642;Net: -30)'
+    - |2-
+
+      -3
+    - 220/-3
+    - 194/
+    - 86/-10
+    - 224/-6
+    - 207/
+    - 67/-2
+    - 'Chris Mihm (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - |2-
+
+      -3
+    - 200/-3
+    - 285/
+    - 14/-3
+    - 100/-5
+    - 400/
+    - 'Andre Miller (On: -23&#9642;Off: +11&#9642;Net: -34)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 164/
+    - 86/-10
+    - 250/-9
+    - 152/
+    - 96/-2
+    - 'Clarence Weatherspoon (On: -24&#9642;Off: +12&#9642;Net: -36)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 147/
+    - 102/-12
+    - 249/-9
+    - 132/
+    - 94/-1
+    - 24/
+    - 'Lamond Murray (On: +5&#9642;Off: -17&#9642;Net: +22)'
+    - "\n"
+    - 133/
+    - 116/0
+    - 157/+6
+    - 197/
+    - 145/-4
+    - 250/+3
+    - 'Chris Gatling (On: +10&#9642;Off: -22&#9642;Net: +32)'
+    - "\n"
+    - 204/
+    - 46/+1
+    - 145/+8
+    - 209/
+    - 144/-4
+    - 128/+5
+    - 121/
+    - 'Wesley Person (On: +4&#9642;Off: -16&#9642;Net: +20)'
+    - "\n"
+    - 220/
+    - 29/+1
+    - 159/+6
+    - 318/
+    - 21/-3
+    - 179/+5
+    - 36/
+    - 34/-5
+    - 'Bimbo Coles (On: +11&#9642;Off: -23&#9642;Net: +34)'
+    - "\n"
+    - 250/
+    - 160/+6
+    - 340/
+    - 148/+5
+    - 101/
+    - 'Robert Traylor (On: +7&#9642;Off: -19&#9642;Net: +26)'
+    - "\n"
+    - 250/
+    - 232/-1
+    - 267/
+    - 215/+8
+    - 35/
+    - 'Matt Harpring (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - "\n"
+    - 410/
+    - 90/-10
+    - 480/
+    - 20/-1
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +18&#9642;Off: -6&#9642;Net: +24)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 74/-5
+    - 119/
+    - 56/+10
+    - 249/+9
+    - 132/
+    - 118/+2
+    - 'Antonio Davis (On: +11&#9642;Off: +1&#9642;Net: +10)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 60/-5
+    - 97/
+    - 92/+10
+    - 249/+9
+    - 180/-5
+    - 70/
+    - 'Charles Oakley (On: +23&#9642;Off: -11&#9642;Net: +34)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 61/
+    - 188/+9
+    - 163/+5
+    - 291/
+    - 45/+7
+    - 'Morris Peterson (On: +23&#9642;Off: -11&#9642;Net: +34)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 157/
+    - 92/+10
+    - 249/+9
+    - 128/-5
+    - 82/
+    - 40/+7
+    - 'Alvin Williams (On: +27&#9642;Off: -15&#9642;Net: +42)'
+    - |2-
+
+      +3
+    - 220/+3
+    - 155/
+    - 124/+14
+    - 163/+5
+    - 283/
+    - 53/+5
+    - 'Chris Childs (On: -15&#9642;Off: +27&#9642;Net: -42)'
+    - "\n"
+    - 220/
+    - 29/-1
+    - 119/-10
+    - 297/
+    - 82/+4
+    - 195/-8
+    - 55/
+    - 'Keon Clark (On: -4&#9642;Off: +16&#9642;Net: -20)'
+    - "\n"
+    - 250/
+    - 157/-6
+    - 476/
+    - 117/+2
+    - 'Tracy Murray (On: -6&#9642;Off: +18&#9642;Net: -24)'
+    - "\n"
+    - 250/
+    - 157/-6
+    - 594/
+    - 'Dell Curry (On: -11&#9642;Off: +23&#9642;Net: -34)'
+    - "\n"
+    - 330/
+    - 111/-1
+    - 309/
+    - 209/-10
+    - 40/
+    - 'Jerome Williams (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 668/
+    - 82/+4
+    - 129/-5
+    - 121/
+    - 'Eric Montross (On: -5&#9642;Off: +17&#9642;Net: -22)'
+    - "\n"
+    - 937/
+    - 11/-5
+    - 53/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

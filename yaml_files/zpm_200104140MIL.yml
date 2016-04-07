@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: -14&#9642;Off: -12&#9642;Net: -2)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 46/+1
+    - 121/
+    - 82/+2
+    - 250/0
+    - 249/
+    - 'Antonio Davis (On: -18&#9642;Off: -8&#9642;Net: -10)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 131/
+    - 118/-2
+    - 250/0
+    - 46/+1
+    - 203/
+    - 'Charles Oakley (On: -20&#9642;Off: -6&#9642;Net: -14)'
+    - |2-
+
+      -14
+    - 175/-14
+    - 75/
+    - 250/-6
+    - 250/0
+    - 249/
+    - 'Morris Peterson (On: -21&#9642;Off: -5&#9642;Net: -16)'
+    - |2-
+
+      -13
+    - 151/-13
+    - 199/
+    - 64/-7
+    - 487/
+    - 98/-1
+    - 'Alvin Williams (On: -24&#9642;Off: -2&#9642;Net: -22)'
+    - |2-
+
+      -14
+    - 174/-14
+    - 128/
+    - 196/-7
+    - 183/-1
+    - 66/
+    - 148/-2
+    - 102/
+    - 'Jerome Williams (On: -5&#9642;Off: -21&#9642;Net: +16)'
+    - "\n"
+    - 154/
+    - 95/-4
+    - 99/-1
+    - 150/
+    - 196/0
+    - 304/
+    - 'Chris Childs (On: 0&#9642;Off: -26&#9642;Net: +26)'
+    - "\n"
+    - 180/
+    - 69/-3
+    - 110/-1
+    - 326/
+    - 63/+1
+    - 51/+3
+    - 198/
+    - 'Keon Clark (On: -9&#9642;Off: -17&#9642;Net: +8)'
+    - "\n"
+    - 181/
+    - 69/-3
+    - 130/-4
+    - 369/
+    - 148/-2
+    - 101/
+    - 'Dell Curry (On: -8&#9642;Off: -18&#9642;Net: +10)'
+    - "\n"
+    - 364/
+    - 135/-5
+    - 200/
+    - 50/0
+    - 250/-3
+    - 'Eric Montross (On: -4&#9642;Off: -22&#9642;Net: +18)'
+    - "\n"
+    - 803/
+    - 199/-4
+    - 'Tracy Murray (On: -6&#9642;Off: -20&#9642;Net: +14)'
+    - "\n"
+    - 807/
+    - 195/-6
+    - 'Michael Stewart (On: -1&#9642;Off: -25&#9642;Net: +24)'
+    - "\n"
+    - 905/
+    - 97/-1
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +14&#9642;Off: +12&#9642;Net: +2)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 67/-2
+    - 120/
+    - 62/-1
+    - 249/0
+    - 140/0
+    - 110/
+    - 'Sam Cassell (On: +20&#9642;Off: +6&#9642;Net: +14)'
+    - |2-
+
+      +12
+    - 197/+12
+    - 128/
+    - 174/+8
+    - 197/0
+    - 303/
+    - 'Mark Pope (On: +11&#9642;Off: +15&#9642;Net: -4)'
+    - |2-
+
+      +6
+    - 70/+6
+    - 196/
+    - 114/+2
+    - 361/
+    - 8/0
+    - 249/+3
+    - 'Glenn Robinson (On: +21&#9642;Off: +5&#9642;Net: +16)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 12/+2
+    - 119/
+    - 118/+2
+    - 237/0
+    - 262/
+    - 'Scott Williams (On: +21&#9642;Off: +5&#9642;Net: +16)'
+    - |2-
+
+      +13
+    - 186/+13
+    - 138/
+    - 109/+9
+    - 65/
+    - 68/-4
+    - 202/
+    - 119/+3
+    - 109/
+    - 'Ervin Johnson (On: +25&#9642;Off: +1&#9642;Net: +24)'
+    - "\n"
+    - 73/
+    - 176/+11
+    - 164/+8
+    - 22/
+    - 53/+1
+    - 79/
+    - 179/+4
+    - 78/+1
+    - 171/
+    - 'Darvin Ham (On: +1&#9642;Off: +25&#9642;Net: -24)'
+    - "\n"
+    - 192/
+    - 57/+4
+    - 67/-2
+    - 182/
+    - 249/0
+    - 20/-3
+    - 138/
+    - 91/+2
+    - 'Lindsey Hunter (On: +11&#9642;Off: +15&#9642;Net: -4)'
+    - "\n"
+    - 201/
+    - 48/+5
+    - 183/+7
+    - 57/
+    - 8/-2
+    - 199/
+    - 50/0
+    - 152/+1
+    - 97/
+    - 'Jerome Kersey (On: +1&#9642;Off: +25&#9642;Net: -24)'
+    - "\n"
+    - 417/
+    - 83/-2
+    - 395/
+    - 105/+3
+    - 'Rafer Alston (On: +2&#9642;Off: +24&#9642;Net: -22)'
+    - "\n"
+    - 837/
+    - 165/+2
+    - 'Joel Przybilla (On: +3&#9642;Off: +23&#9642;Net: -20)'
+    - "\n"
+    - 897/
+    - 105/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

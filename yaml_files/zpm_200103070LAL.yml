@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: -16&#9642;Off: +4&#9642;Net: -20)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 83/-7
+    - 105/
+    - 61/-3
+    - 249/-7
+    - 98/-7
+    - 152/
+    - 'Antonio Davis (On: -3&#9642;Off: -9&#9642;Net: +6)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 11/+2
+    - 120/
+    - 97/-1
+    - 21/
+    - 249/-7
+    - 39/-5
+    - 210/
+    - 'Charles Oakley (On: +13&#9642;Off: -25&#9642;Net: +38)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 40/-2
+    - 209/
+    - 184/+3
+    - 197/
+    - 48/+4
+    - 70/
+    - 'Morris Peterson (On: 0&#9642;Off: -12&#9642;Net: +12)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 62/-4
+    - 132/
+    - 55/-3
+    - 199/-1
+    - 300/
+    - 'Alvin Williams (On: 0&#9642;Off: -12&#9642;Net: +12)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 84/
+    - 165/-3
+    - 249/-7
+    - 10/0
+    - 91/
+    - 79/+2
+    - 69/
+    - 'Chris Childs (On: -10&#9642;Off: -2&#9642;Net: -8)'
+    - "\n"
+    - 250/
+    - 184/-7
+    - 329/
+    - 237/-3
+    - 'Keon Clark (On: -31&#9642;Off: +19&#9642;Net: -50)'
+    - "\n"
+    - 261/
+    - 238/-12
+    - 188/
+    - 61/-10
+    - 127/-9
+    - 123/
+    - 'Eric Montross (On: -5&#9642;Off: -7&#9642;Net: +2)'
+    - "\n"
+    - 291/
+    - 84/-4
+    - 103/
+    - 20/-3
+    - 430/
+    - 70/+2
+    - 'Jerome Williams (On: -1&#9642;Off: -11&#9642;Net: +10)'
+    - "\n"
+    - 318/
+    - 121/-3
+    - 355/
+    - 148/+2
+    - 57/
+    - 'Dell Curry (On: -13&#9642;Off: +1&#9642;Net: -14)'
+    - "\n"
+    - 705/
+    - 44/-6
+    - 98/-7
+    - 99/
+    - 53/0
+    - 'Tracy Murray (On: +4&#9642;Off: -16&#9642;Net: +20)'
+    - "\n"
+    - 854/
+    - 148/+4
+    - 'Michael Stewart (On: +2&#9642;Off: -14&#9642;Net: +16)'
+    - "\n"
+    - 937/
+    - 65/+2
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 131/
+    - 118/+4
+    - 250/+7
+    - 168/+6
+    - 81/
+    - 'Rick Fox (On: +7&#9642;Off: +5&#9642;Net: +2)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 116/+8
+    - 132/
+    - 1/0
+    - 250/+7
+    - 249/
+    - 'Horace Grant (On: +6&#9642;Off: +6&#9642;Net: 0)'
+    - |2-
+
+      -8
+    - 231/-8
+    - 269/
+    - 250/+7
+    - 119/+7
+    - 130/
+    - 'Shaquille O''Neal (On: +2&#9642;Off: +10&#9642;Net: -8)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 126/+6
+    - 68/
+    - 55/+3
+    - 199/+1
+    - 300/
+    - 'Brian Shaw (On: +16&#9642;Off: -4&#9642;Net: +20)'
+    - |2-
+
+      -6
+    - 195/-6
+    - 54/
+    - 126/+6
+    - 122/
+    - 1/0
+    - 249/+7
+    - 127/+9
+    - 122/
+    - 'Mike Penberthy (On: -8&#9642;Off: +20&#9642;Net: -28)'
+    - "\n"
+    - 198/
+    - 52/-2
+    - 632/
+    - 118/-6
+    - 'Robert Horry (On: +19&#9642;Off: -7&#9642;Net: +26)'
+    - "\n"
+    - 239/
+    - 11/0
+    - 250/+10
+    - 205/
+    - 44/+6
+    - 249/+3
+    - 'Tyronn Lue (On: +13&#9642;Off: -1&#9642;Net: +14)'
+    - "\n"
+    - 250/
+    - 246/+10
+    - 254/
+    - 250/+3
+    - 'Devean George (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 369/
+    - 127/+2
+    - 428/
+    - 76/-3
+    - 'Mark Madsen (On: -3&#9642;Off: +15&#9642;Net: -18)'
+    - "\n"
+    - 382/
+    - 58/+1
+    - 434/
+    - 126/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

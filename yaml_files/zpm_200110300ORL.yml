@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: -17&#9642;Off: -12&#9642;Net: -5)'
+    - |2-
+
+      -9
+    - 249/-9
+    - 85/+2
+    - 52/
+    - 53/-1
+    - 111/
+    - 71/-9
+    - 376/
+    - 'Antonio Davis (On: -31&#9642;Off: +2&#9642;Net: -33)'
+    - |2-
+
+      -12
+    - 159/-12
+    - 160/
+    - 61/+1
+    - 118/
+    - 249/-16
+    - 40/-4
+    - 210/
+    - 'Hakeem Olajuwon (On: -20&#9642;Off: -9&#9642;Net: -11)'
+    - |2-
+
+      -9
+    - 250/-9
+    - 137/
+    - 111/0
+    - 2/
+    - 101/-11
+    - 397/
+    - 'Morris Peterson (On: -28&#9642;Off: -1&#9642;Net: -27)'
+    - |2-
+
+      -11
+    - 237/-11
+    - 103/
+    - 159/-1
+    - 250/-16
+    - 250/
+    - 'Alvin Williams (On: -18&#9642;Off: -11&#9642;Net: -7)'
+    - |2-
+
+      -9
+    - 250/-9
+    - 164/
+    - 86/+3
+    - 207/-12
+    - 292/
+    - 'Keon Clark (On: +3&#9642;Off: -32&#9642;Net: +35)'
+    - "\n"
+    - 164/
+    - 86/+3
+    - 131/+1
+    - 221/
+    - 146/-5
+    - 104/+4
+    - 145/
+    - 'Jerome Williams (On: -6&#9642;Off: -23&#9642;Net: +17)'
+    - "\n"
+    - 242/
+    - 8/+2
+    - 250/+1
+    - 209/
+    - 41/-4
+    - 248/-5
+    - 'Chris Childs (On: -7&#9642;Off: -22&#9642;Net: +15)'
+    - "\n"
+    - 249/
+    - 159/-2
+    - 37/
+    - 53/+1
+    - 44/-4
+    - 78/
+    - 127/-3
+    - 74/+1
+    - 174/
+    - 'Eric Montross (On: -1&#9642;Off: -28&#9642;Net: +27)'
+    - "\n"
+    - 250/
+    - 67/0
+    - 478/
+    - 205/-1
+    - 'Tracy Murray (On: -5&#9642;Off: -24&#9642;Net: +19)'
+    - "\n"
+    - 752/
+    - 250/-5
+    - 'Carlos Arroyo (On: -6&#9642;Off: -23&#9642;Net: +17)'
+    - "\n"
+    - 833/
+    - 169/-6
+    - 'Michael Bradley (On: -9&#9642;Off: -20&#9642;Net: +11)'
+    - "\n"
+    - 858/
+    - 144/-9
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Darrell Armstrong (On: +25&#9642;Off: +4&#9642;Net: +21)'
+    - |2-
+
+      +11
+    - 237/+11
+    - 113/
+    - 149/+2
+    - 207/+12
+    - 293/
+    - 'Andrew DeClercq (On: +12&#9642;Off: +17&#9642;Net: -5)'
+    - |2-
+
+      +8
+    - 124/+8
+    - 247/
+    - 75/0
+    - 53/
+    - 51/+4
+    - 448/
+    - 'Horace Grant (On: +28&#9642;Off: +1&#9642;Net: +27)'
+    - |2-
+
+      +11
+    - 196/+11
+    - 145/
+    - 159/+1
+    - 250/+16
+    - 249/
+    - 'Grant Hill (On: +26&#9642;Off: +3&#9642;Net: +23)'
+    - |2-
+
+      +11
+    - 237/+11
+    - 43/
+    - 166/-1
+    - 53/
+    - 250/+16
+    - 249/
+    - 'Tracy McGrady (On: +31&#9642;Off: -2&#9642;Net: +33)'
+    - |2-
+
+      +9
+    - 249/+9
+    - 25/0
+    - 75/
+    - 149/+2
+    - 249/+16
+    - 40/+4
+    - 210/
+    - 'Patrick Ewing (On: +5&#9642;Off: +24&#9642;Net: -19)'
+    - "\n"
+    - 128/
+    - 121/+1
+    - 116/-1
+    - 276/
+    - 107/+2
+    - 169/+3
+    - 80/
+    - 'Pat Garrity (On: +3&#9642;Off: +26&#9642;Net: -23)'
+    - "\n"
+    - 202/
+    - 48/-2
+    - 85/-2
+    - 414/
+    - 250/+5
+    - 'Troy Hudson (On: +4&#9642;Off: +25&#9642;Net: -21)'
+    - "\n"
+    - 242/
+    - 8/-2
+    - 97/-3
+    - 361/
+    - 41/+4
+    - 249/+5
+    - 'Bo Outlaw (On: -5&#9642;Off: +34&#9642;Net: -39)'
+    - "\n"
+    - 241/
+    - 8/-2
+    - 97/-3
+    - 100/
+    - 45/-2
+    - 257/
+    - 184/+2
+    - 64/
+    - 'Don Reid (On: +13&#9642;Off: +16&#9642;Net: -3)'
+    - "\n"
+    - 447/
+    - 51/0
+    - 55/
+    - 84/+10
+    - 300/
+    - 61/+3
+    - 'Monty Williams (On: +1&#9642;Off: +28&#9642;Net: -27)'
+    - "\n"
+    - 797/
+    - 205/+1
+    - 'Steven Hunter (On: +2&#9642;Off: +27&#9642;Net: -25)'
+    - "\n"
+    - 928/
+    - 74/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

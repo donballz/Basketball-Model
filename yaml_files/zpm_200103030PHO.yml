@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Raef LaFrentz (On: -15&#9642;Off: 0&#9642;Net: -15)'
+    - |2-
+
+      -1
+    - 205/-1
+    - 215/
+    - 78/+2
+    - 180/-5
+    - 70/
+    - 196/-11
+    - 53/
+    - 'Voshon Lenard (On: -9&#9642;Off: -6&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 205/-1
+    - 294/
+    - 130/-4
+    - 119/
+    - 99/-4
+    - 151/
+    - 'Antonio McDyess (On: -1&#9642;Off: -14&#9642;Net: +13)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 167/+4
+    - 83/
+    - 82/-4
+    - 417/
+    - 'James Posey (On: -4&#9642;Off: -11&#9642;Net: +7)'
+    - |2-
+
+      -4
+    - 128/-4
+    - 874/
+    - 'Nick Van Exel (On: -24&#9642;Off: +9&#9642;Net: -33)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 77/+2
+    - 140/
+    - 31/-2
+    - 249/-14
+    - 68/
+    - 127/-9
+    - 55/
+    - 'Ryan Bowen (On: +2&#9642;Off: -17&#9642;Net: +19)'
+    - "\n"
+    - 129/
+    - 120/+3
+    - 82/
+    - 130/+6
+    - 37/
+    - 179/-5
+    - 173/
+    - 146/-2
+    - 'George McCloud (On: -10&#9642;Off: -5&#9642;Net: -5)'
+    - "\n"
+    - 210/
+    - 40/0
+    - 250/+6
+    - 132/
+    - 117/-10
+    - 249/-6
+    - 'Kevin Willis (On: -4&#9642;Off: -11&#9642;Net: +7)'
+    - "\n"
+    - 210/
+    - 40/0
+    - 250/+6
+    - 87/
+    - 163/-10
+    - 248/
+    - 'Robert Pack (On: -5&#9642;Off: -10&#9642;Net: +5)'
+    - "\n"
+    - 249/
+    - 249/+6
+    - 187/
+    - 62/-9
+    - 65/-2
+    - 79/
+    - 106/0
+    - 'Mark Strickland (On: -10&#9642;Off: -5&#9642;Net: -5)'
+    - "\n"
+    - 687/
+    - 62/-9
+    - 138/-6
+    - 61/
+    - 51/+5
+    - 'Terry Davis (On: +5&#9642;Off: -20&#9642;Net: +25)'
+    - "\n"
+    - 951/
+    - 51/+5
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: +12&#9642;Off: +3&#9642;Net: +9)'
+    - |2-
+
+      +1
+    - 205/+1
+    - 44/
+    - 77/-2
+    - 172/
+    - 208/+9
+    - 84/
+    - 22/+4
+    - 184/
+    - 'Tom Gugliotta (On: +21&#9642;Off: -6&#9642;Net: +27)'
+    - |2-
+
+      +1
+    - 229/+1
+    - 157/
+    - 14/-3
+    - 97/
+    - 130/+4
+    - 57/
+    - 62/+9
+    - 169/+10
+    - 80/
+    - 'Jason Kidd (On: +18&#9642;Off: -3&#9642;Net: +21)'
+    - |2-
+
+      +3
+    - 219/+3
+    - 112/
+    - 167/-4
+    - 249/+14
+    - 35/-2
+    - 33/
+    - 143/+7
+    - 38/
+    - 'Clifford Robinson (On: +17&#9642;Off: -2&#9642;Net: +19)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 137/
+    - 112/0
+    - 180/+5
+    - 97/
+    - 184/+11
+    - 38/
+    - 'Jake Tsakalidis (On: +1&#9642;Off: +14&#9642;Net: -13)'
+    - |2-
+
+      +1
+    - 205/+1
+    - 30/
+    - 14/0
+    - 55/-4
+    - 99/
+    - 68/0
+    - 27/
+    - 82/+4
+    - 415/
+    - 'Tony Delk (On: +5&#9642;Off: +10&#9642;Net: -5)'
+    - "\n"
+    - 210/
+    - 40/0
+    - 250/-6
+    - 212/
+    - 37/+5
+    - 249/+6
+    - 'Rodney Rogers (On: +10&#9642;Off: +5&#9642;Net: +5)'
+    - "\n"
+    - 210/
+    - 40/0
+    - 250/-6
+    - 87/
+    - 163/+10
+    - 248/+6
+    - 'Vinny Del Negro (On: -4&#9642;Off: +19&#9642;Net: -23)'
+    - "\n"
+    - 219/
+    - 30/-2
+    - 137/-6
+    - 245/
+    - 117/+10
+    - 27/-2
+    - 145/
+    - 76/-4
+    - 'Daniel Santiago (On: -2&#9642;Off: +17&#9642;Net: -19)'
+    - "\n"
+    - 312/
+    - 75/-2
+    - 88/
+    - 25/+3
+    - 466/
+    - 32/-3
+    - 'Elliot Perry (On: -3&#9642;Off: +18&#9642;Net: -21)'
+    - "\n"
+    - 969/
+    - 33/-3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

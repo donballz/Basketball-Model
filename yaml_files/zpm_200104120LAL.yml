@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: -25&#9642;Off: +8&#9642;Net: -33)'
+    - |2-
+
+      -17
+    - 232/-17
+    - 267/
+    - 250/-6
+    - 114/
+    - 47/-2
+    - 88/
+    - 'Kevin Garnett (On: -24&#9642;Off: +7&#9642;Net: -31)'
+    - |2-
+
+      -15
+    - 249/-15
+    - 47/+2
+    - 113/
+    - 89/0
+    - 221/-4
+    - 124/
+    - 65/-7
+    - 88/
+    - 'Dean Garrett (On: -8&#9642;Off: -9&#9642;Net: +1)'
+    - |2-
+
+      -8
+    - 50/-8
+    - 430/
+    - 19/+1
+    - 119/-1
+    - 381/
+    - 'Anthony Peeler (On: -16&#9642;Off: -1&#9642;Net: -15)'
+    - |2-
+
+      -10
+    - 165/-10
+    - 247/
+    - 87/0
+    - 188/0
+    - 158/
+    - 153/-6
+    - 'Wally Szczerbiak (On: -19&#9642;Off: +2&#9642;Net: -21)'
+    - |2-
+
+      -15
+    - 223/-15
+    - 139/
+    - 137/+3
+    - 171/-1
+    - 146/
+    - 123/-6
+    - 58/
+    - 'Reggie Slater (On: -10&#9642;Off: -7&#9642;Net: -3)'
+    - "\n"
+    - 50/
+    - 139/-4
+    - 430/
+    - 129/-5
+    - 172/
+    - 78/-1
+    - 'Felipe Lopez (On: -1&#9642;Off: -16&#9642;Net: +15)'
+    - "\n"
+    - 169/
+    - 80/-5
+    - 160/+8
+    - 280/
+    - 58/-6
+    - 91/+2
+    - 103/
+    - 55/0
+    - 'LaPhonso Ellis (On: +6&#9642;Off: -23&#9642;Net: +29)'
+    - "\n"
+    - 193/
+    - 56/-3
+    - 157/+8
+    - 319/
+    - 22/-2
+    - 67/+2
+    - 96/
+    - 86/+1
+    - 'Sam Mitchell (On: +2&#9642;Off: -19&#9642;Net: +21)'
+    - "\n"
+    - 228/
+    - 21/0
+    - 106/+5
+    - 322/
+    - 71/-5
+    - 91/+2
+    - 158/
+    - 'Chauncey Billups (On: +7&#9642;Off: -24&#9642;Net: +31)'
+    - "\n"
+    - 238/
+    - 12/+2
+    - 250/+8
+    - 250/
+    - 108/-3
+    - 140/
+    - 'Rasho Nesterovic (On: +2&#9642;Off: -19&#9642;Net: +21)'
+    - "\n"
+    - 300/
+    - 180/+5
+    - 269/
+    - 171/-3
+    - 79/
+    - 'William Avery (On: +1&#9642;Off: -18&#9642;Net: +19)'
+    - "\n"
+    - 916/
+    - 86/+1
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +20&#9642;Off: -3&#9642;Net: +23)'
+    - |2-
+
+      +15
+    - 249/+15
+    - 81/-4
+    - 81/
+    - 87/0
+    - 249/+6
+    - 108/+3
+    - 142/
+    - 'Derek Fisher (On: +17&#9642;Off: 0&#9642;Net: +17)'
+    - |2-
+
+      +15
+    - 250/+15
+    - 88/
+    - 162/-4
+    - 250/+6
+    - 249/
+    - 'Rick Fox (On: +20&#9642;Off: -3&#9642;Net: +23)'
+    - |2-
+
+      +15
+    - 250/+15
+    - 163/
+    - 87/0
+    - 250/+6
+    - 48/-1
+    - 200/
+    - 'Horace Grant (On: +19&#9642;Off: -2&#9642;Net: +21)'
+    - |2-
+
+      +15
+    - 250/+15
+    - 47/-2
+    - 116/
+    - 87/0
+    - 227/+6
+    - 271/
+    - 'Shaquille O''Neal (On: +14&#9642;Off: +3&#9642;Net: +11)'
+    - |2-
+
+      +15
+    - 223/+15
+    - 77/
+    - 199/-6
+    - 191/0
+    - 58/
+    - 174/+5
+    - 75/
+    - 'Mark Madsen (On: +3&#9642;Off: +14&#9642;Net: -11)'
+    - "\n"
+    - 228/
+    - 21/0
+    - 47/-2
+    - 398/
+    - 54/+6
+    - 175/
+    - 74/-1
+    - 'Devean George (On: -3&#9642;Off: +20&#9642;Net: -23)'
+    - "\n"
+    - 250/
+    - 161/-8
+    - 390/
+    - 199/+5
+    - 'Brian Shaw (On: -4&#9642;Off: +21&#9642;Net: -25)'
+    - "\n"
+    - 250/
+    - 161/-8
+    - 339/
+    - 250/+4
+    - 'Robert Horry (On: -1&#9642;Off: +18&#9642;Net: -19)'
+    - "\n"
+    - 299/
+    - 111/-6
+    - 321/
+    - 18/0
+    - 162/+5
+    - 87/
+    - 'Mike Penberthy (On: +1&#9642;Off: +16&#9642;Net: -15)'
+    - "\n"
+    - 866/
+    - 136/+1
+    - 'Stanislav Medvedenko (On: -1&#9642;Off: +18&#9642;Net: -19)'
+    - "\n"
+    - 916/
+    - 86/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

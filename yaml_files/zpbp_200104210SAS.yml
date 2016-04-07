@@ -1,0 +1,2538 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: D. Robinson vs. K. Garnett (A. Peeler gains possession)'
+  - - '11:47.0'
+    - K. Garnett misses 2-pt shot from 14 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by T. Porter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by K. Garnett)
+  - - '11:35.0'
+    - T. Brandon makes 2-pt shot from 15 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - T. Duncan makes 2-pt shot from 7 ft
+  - - '10:58.0'
+    - T. Brandon misses 2-pt shot from 15 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '10:51.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by D. Robinson (bad pass; steal by K. Garnett)
+  - - '10:46.0'
+    - A. Peeler misses 2-pt shot from 18 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '10:25.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - T. Duncan makes 2-pt shot from 1 ft (assist by D. Anderson)
+  - - '10:10.0'
+    - A. Peeler misses 2-pt shot from 1 ft (block by T. Duncan)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:06.0'
+    - Offensive rebound by D. Garrett
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:05.0'
+    - D. Garrett misses 2-pt shot from 3 ft (block by D. Robinson)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:02.0'
+    - Offensive rebound by A. Peeler
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:01.0'
+    - A. Peeler misses 2-pt shot from 16 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '9:56.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - T. Duncan makes 2-pt shot at rim (assist by T. Porter)
+  - - '9:49.0'
+    - Minnesota 20 second timeout
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:47.0'
+    - Personal foul by T. Porter
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:36.0'
+    - T. Brandon makes 2-pt shot from 20 ft (assist by K. Garnett)
+    - "+2"
+    - 4-6
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Shooting foul by D. Garrett
+  - - '9:24.0'
+    - ''
+    - ''
+    - 4-7
+    - "+1"
+    - D. Robinson makes free throw 1 of 2
+  - - '9:24.0'
+    - ''
+    - ''
+    - 4-8
+    - "+1"
+    - D. Robinson makes free throw 2 of 2
+  - - '9:11.0'
+    - T. Brandon misses 2-pt shot from 18 ft
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '9:01.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Turnover by D. Anderson (traveling)
+  - - '8:50.0'
+    - K. Garnett makes 2-pt shot from 6 ft (assist by T. Brandon)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - T. Porter misses 2-pt shot from 17 ft
+  - - '8:32.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '8:22.0'
+    - ''
+    - ''
+    - 6-10
+    - "+2"
+    - T. Duncan makes 2-pt shot from 16 ft
+  - - '8:03.0'
+    - K. Garnett makes 2-pt shot from 1 ft
+    - "+2"
+    - 8-10
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-12
+    - "+2"
+    - T. Duncan makes 2-pt shot from 11 ft
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - Shooting foul by K. Garnett
+  - - '7:41.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - T. Duncan misses free throw 1 of 1
+  - - '7:40.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 8-12
+    - ''
+    - ''
+  - - '7:24.0'
+    - D. Garrett makes 2-pt shot from 1 ft (assist by T. Brandon)
+    - "+2"
+    - 10-12
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - D. Anderson misses 2-pt shot from 2 ft
+  - - '7:10.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Offensive rebound by Team
+  - - '7:10.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Loose ball foul by D. Garrett
+  - - '7:10.0'
+    - R. Nesterovic enters the game for D. Garrett
+    - ''
+    - 10-12
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Turnover by D. Anderson (bad pass)
+  - - '6:48.0'
+    - R. Nesterovic makes 2-pt shot at rim (assist by T. Brandon)
+    - "+2"
+    - 12-12
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - San Antonio full timeout
+  - - '6:35.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Turnover by D. Anderson (bad pass)
+  - - '6:22.0'
+    - R. Nesterovic misses 2-pt shot from 7 ft (block by D. Robinson)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Defensive rebound by T. Porter
+  - - '6:13.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - D. Robinson misses 2-pt shot from 17 ft
+  - - '6:12.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:02.0'
+    - W. Szczerbiak misses 2-pt shot from 18 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Defensive rebound by Team
+  - - '5:47.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - D. Anderson misses 2-pt shot from 16 ft
+  - - '5:45.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:43.0'
+    - Turnover by T. Brandon (discontinued dribble)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - A. Johnson enters the game for T. Porter
+  - - '5:26.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - D. Robinson makes 2-pt shot from 4 ft
+  - - '5:16.0'
+    - K. Garnett makes 2-pt shot from 10 ft (assist by A. Peeler)
+    - "+2"
+    - 14-14
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Personal foul by R. Nesterovic
+  - - '4:53.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - A. Johnson misses 2-pt shot from 1 ft
+  - - '4:51.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:43.0'
+    - A. Peeler misses 2-pt shot from 12 ft
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Personal foul by R. Nesterovic
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - S. Elliott enters the game for D. Ferry
+  - - '4:34.0'
+    - R. Slater enters the game for R. Nesterovic
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - D. Robinson misses free throw 1 of 2
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Offensive rebound by Team
+  - - '4:34.0'
+    - ''
+    - ''
+    - 14-15
+    - "+1"
+    - D. Robinson makes free throw 2 of 2
+  - - '4:23.0'
+    - W. Szczerbiak makes 2-pt shot from 19 ft (assist by K. Garnett)
+    - "+2"
+    - 16-15
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 16-17
+    - "+2"
+    - T. Duncan makes 2-pt shot from 1 ft (assist by D. Robinson)
+  - - '4:07.0'
+    - ''
+    - ''
+    - 16-17
+    - ''
+    - Shooting foul by A. Peeler
+  - - '4:07.0'
+    - ''
+    - ''
+    - 16-17
+    - ''
+    - M. Rose enters the game for D. Robinson
+  - - '4:07.0'
+    - ''
+    - ''
+    - 16-18
+    - "+1"
+    - T. Duncan makes free throw 1 of 1
+  - - '3:57.0'
+    - K. Garnett misses 2-pt shot from 1 ft
+    - ''
+    - 16-18
+    - ''
+    - ''
+  - - '3:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 16-18
+    - ''
+    - ''
+  - - '3:43.0'
+    - W. Szczerbiak makes 2-pt shot from 15 ft (assist by T. Brandon)
+    - "+2"
+    - 18-18
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 18-18
+    - ''
+    - T. Duncan misses 2-pt shot from 9 ft (block by K. Garnett)
+  - - '3:22.0'
+    - ''
+    - ''
+    - 18-20
+    - "+2"
+    - T. Duncan makes 2-pt shot from 1 ft
+  - - '3:22.0'
+    - ''
+    - ''
+    - 18-20
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '3:03.0'
+    - Personal foul by S. Elliott
+    - ''
+    - 18-20
+    - ''
+    - ''
+  - - '2:52.0'
+    - W. Szczerbiak makes 2-pt shot from 13 ft (assist by K. Garnett)
+    - "+2"
+    - 20-20
+    - ''
+    - ''
+  - - '2:52.0'
+    - Shooting foul by A. Johnson
+    - ''
+    - 20-20
+    - ''
+    - ''
+  - - '2:52.0'
+    - Minnesota full timeout
+    - ''
+    - 20-20
+    - ''
+    - ''
+  - - '2:52.0'
+    - F. Lopez enters the game for A. Peeler
+    - ''
+    - 20-20
+    - ''
+    - ''
+  - - '2:52.0'
+    - W. Szczerbiak makes free throw 1 of 1
+    - "+1"
+    - 21-20
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 21-20
+    - ''
+    - Turnover by S. Elliott (bad pass)
+  - - '2:29.0'
+    - Offensive foul by R. Slater
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:29.0'
+    - Turnover by R. Slater (foul)
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:29.0'
+    - S. Mitchell enters the game for W. Szczerbiak
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 21-20
+    - ''
+    - Turnover by S. Elliott (lost ball; steal by R. Slater)
+  - - '2:04.0'
+    - K. Garnett misses 2-pt shot from 2 ft
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:03.0'
+    - Offensive rebound by F. Lopez
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:01.0'
+    - F. Lopez misses 2-pt shot from 15 ft
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 21-20
+    - ''
+    - Defensive rebound by A. Johnson
+  - - '1:46.0'
+    - ''
+    - ''
+    - 21-20
+    - ''
+    - Turnover by M. Rose (lost ball; steal by F. Lopez)
+  - - '1:34.0'
+    - Shooting foul by M. Rose
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '1:34.0'
+    - F. Lopez misses free throw 1 of 2
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '1:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '1:34.0'
+    - L. Ellis enters the game for K. Garnett
+    - ''
+    - 21-20
+    - ''
+    - ''
+  - - '1:34.0'
+    - F. Lopez makes free throw 2 of 2
+    - "+1"
+    - 22-20
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 22-22
+    - "+2"
+    - M. Rose makes 2-pt shot from 16 ft (assist by D. Anderson)
+  - - '0:58.1'
+    - T. Brandon misses 2-pt shot from 17 ft
+    - ''
+    - 22-22
+    - ''
+    - ''
+  - - '0:54.9'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Defensive rebound by D. Anderson
+  - - '0:50.5'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '0:48.4'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '0:48.4'
+    - ''
+    - ''
+    - 22-22
+    - ''
+    - Shooting foul by R. Slater
+  - - '0:48.4'
+    - ''
+    - ''
+    - 22-23
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '0:48.4'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - A. Daniels enters the game for D. Anderson
+  - - '0:48.4'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - T. Duncan misses free throw 2 of 2
+  - - '0:47.6'
+    - Defensive rebound by R. Slater
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '0:33.5'
+    - Shooting foul by S. Elliott
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '0:33.5'
+    - S. Mitchell makes free throw 1 of 2
+    - "+1"
+    - 23-23
+    - ''
+    - ''
+  - - '0:33.5'
+    - S. Mitchell makes free throw 2 of 2
+    - "+1"
+    - 24-23
+    - ''
+    - ''
+  - - '0:23.2'
+    - ''
+    - ''
+    - 24-25
+    - "+2"
+    - S. Elliott makes 2-pt shot at rim (assist by A. Daniels)
+  - - '0:00.0'
+    - F. Lopez misses 2-pt shot from 16 ft
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:00.0'
+    - R. Slater misses 2-pt shot from 1 ft
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by R. Slater
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:36.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - A. Daniels misses 2-pt shot from 11 ft
+  - - '11:34.0'
+    - Defensive rebound by F. Lopez
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '11:14.0'
+    - S. Mitchell misses 2-pt shot from 17 ft
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - Defensive rebound by A. Johnson
+  - - '10:56.0'
+    - ''
+    - ''
+    - 24-28
+    - "+3"
+    - S. Elliott makes 3-pt shot from 23 ft (assist by A. Johnson)
+  - - '10:42.0'
+    - F. Lopez misses 2-pt shot from 1 ft
+    - ''
+    - 24-28
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 24-28
+    - ''
+    - Defensive rebound by M. Rose
+  - - '10:20.0'
+    - ''
+    - ''
+    - 24-30
+    - "+2"
+    - A. Johnson makes 2-pt shot from 15 ft (assist by T. Duncan)
+  - - '10:13.0'
+    - Minnesota full timeout
+    - ''
+    - 24-30
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 24-30
+    - ''
+    - D. Robinson enters the game for T. Duncan
+  - - '10:13.0'
+    - A. Peeler enters the game for T. Brandon
+    - ''
+    - 24-30
+    - ''
+    - ''
+  - - '10:13.0'
+    - C. Billups enters the game for F. Lopez
+    - ''
+    - 24-30
+    - ''
+    - ''
+  - - '10:13.0'
+    - W. Szczerbiak enters the game for S. Mitchell
+    - ''
+    - 24-30
+    - ''
+    - ''
+  - - '10:04.0'
+    - Shooting foul by M. Rose
+    - ''
+    - 24-30
+    - ''
+    - ''
+  - - '10:04.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 25-30
+    - ''
+    - ''
+  - - '10:04.0'
+    - K. Garnett misses free throw 2 of 2
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Defensive rebound by M. Rose
+  - - '9:40.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - A. Johnson misses 2-pt shot from 18 ft
+  - - '9:39.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Offensive rebound by M. Rose
+  - - '9:30.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Personal foul by L. Ellis
+  - - '9:25.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Personal foul by L. Ellis
+  - - '9:11.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - A. Johnson misses 2-pt shot from 7 ft (block by L. Ellis)
+  - - '9:11.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Offensive rebound by Team
+  - - '9:11.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:58.0'
+    - K. Garnett makes 2-pt shot from 11 ft
+    - "+2"
+    - 27-30
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - D. Robinson misses 2-pt shot from 1 ft
+  - - '8:40.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '8:31.0'
+    - W. Szczerbiak misses 2-pt shot from 12 ft
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '8:29.0'
+    - Offensive rebound by Team
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - T. Duncan enters the game for M. Rose
+  - - '8:29.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - D. Anderson enters the game for A. Daniels
+  - - '8:21.0'
+    - L. Ellis misses 2-pt shot from 2 ft
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '8:00.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - A. Johnson misses 2-pt shot from 15 ft
+  - - '7:59.1'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '7:58.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - T. Duncan misses 2-pt shot from 1 ft
+  - - '7:51.0'
+    - A. Peeler misses 3-pt shot from 24 ft
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '7:33.0'
+    - ''
+    - ''
+    - 27-32
+    - "+2"
+    - D. Anderson makes 2-pt shot from 13 ft
+  - - '7:05.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - D. Ferry enters the game for S. Elliott
+  - - '6:52.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - D. Robinson misses 2-pt shot from 16 ft
+  - - '6:51.0'
+    - Defensive rebound by C. Billups
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '6:51.0'
+    - Personal foul by D. Robinson
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '6:38.0'
+    - A. Peeler misses 2-pt shot from 1 ft
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - Defensive rebound by Team
+  - - '6:16.0'
+    - ''
+    - ''
+    - 27-34
+    - "+2"
+    - D. Robinson makes 2-pt shot from 7 ft
+  - - '6:04.0'
+    - W. Szczerbiak misses 2-pt shot from 19 ft
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by L. Ellis
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '6:00.0'
+    - L. Ellis misses 2-pt shot from 3 ft
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Defensive rebound by Team
+  - - '6:00.0'
+    - R. Nesterovic enters the game for L. Ellis
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Personal foul by C. Billups
+  - - '5:46.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Official timeout
+  - - '5:46.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - T. Porter enters the game for A. Johnson
+  - - '5:46.0'
+    - T. Brandon enters the game for C. Billups
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Turnover by D. Robinson (lost ball; steal by A. Peeler)
+  - - '5:33.0'
+    - Personal foul by D. Ferry
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '5:17.0'
+    - A. Peeler misses 2-pt shot from 12 ft
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '5:00.0'
+    - ''
+    - ''
+    - 27-37
+    - "+3"
+    - D. Ferry makes 3-pt shot from 24 ft (assist by T. Duncan)
+  - - '4:39.0'
+    - K. Garnett misses 2-pt shot from 6 ft (block by T. Duncan)
+    - ''
+    - 27-37
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 27-37
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '4:33.0'
+    - ''
+    - ''
+    - 27-39
+    - "+2"
+    - T. Porter makes 2-pt shot from 1 ft (assist by D. Ferry)
+  - - '4:25.0'
+    - Minnesota full timeout
+    - ''
+    - 27-39
+    - ''
+    - ''
+  - - '4:17.0'
+    - K. Garnett misses 2-pt shot from 18 ft
+    - ''
+    - 27-39
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 27-39
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '3:59.0'
+    - ''
+    - ''
+    - 27-39
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '3:57.0'
+    - Defensive rebound by R. Nesterovic
+    - ''
+    - 27-39
+    - ''
+    - ''
+  - - '3:48.0'
+    - A. Peeler makes 3-pt shot from 23 ft (assist by K. Garnett)
+    - "+3"
+    - 30-39
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 30-39
+    - ''
+    - Shooting foul by T. Brandon
+  - - '3:33.0'
+    - ''
+    - ''
+    - 30-39
+    - ''
+    - T. Porter misses free throw 1 of 2
+  - - '3:33.0'
+    - ''
+    - ''
+    - 30-39
+    - ''
+    - Offensive rebound by Team
+  - - '3:33.0'
+    - ''
+    - ''
+    - 30-40
+    - "+1"
+    - T. Porter makes free throw 2 of 2
+  - - '3:21.0'
+    - K. Garnett makes 2-pt shot from 16 ft (assist by T. Brandon)
+    - "+2"
+    - 32-40
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 32-42
+    - "+2"
+    - T. Porter makes 2-pt shot from 8 ft
+  - - '2:43.0'
+    - W. Szczerbiak misses 2-pt shot from 16 ft
+    - ''
+    - 32-42
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 32-42
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '2:30.0'
+    - ''
+    - ''
+    - 32-44
+    - "+2"
+    - T. Duncan makes 2-pt shot from 7 ft (assist by D. Robinson)
+  - - '2:16.0'
+    - A. Peeler misses 2-pt shot from 21 ft
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:15.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:13.0'
+    - K. Garnett misses free throw 1 of 2
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:13.0'
+    - Offensive rebound by Team
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:13.0'
+    - K. Garnett misses free throw 2 of 2
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:13.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 32-44
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 32-44
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '1:54.0'
+    - ''
+    - ''
+    - 32-46
+    - "+2"
+    - T. Duncan makes 2-pt shot from 17 ft
+  - - '1:40.0'
+    - Shooting foul by D. Robinson
+    - ''
+    - 32-46
+    - ''
+    - ''
+  - - '1:40.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 33-46
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 33-46
+    - ''
+    - S. Walker enters the game for D. Robinson
+  - - '1:40.0'
+    - K. Garnett makes free throw 2 of 2
+    - "+1"
+    - 34-46
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 34-48
+    - "+2"
+    - T. Duncan makes 2-pt shot from 7 ft
+  - - '1:10.0'
+    - K. Garnett makes 2-pt shot from 7 ft
+    - "+2"
+    - 36-48
+    - ''
+    - ''
+  - - '1:10.0'
+    - Technical foul by K. Garnett
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 36-48
+    - ''
+    - D. Anderson misses free throw technical
+  - - '1:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '1:10.0'
+    - K. Garnett makes free throw 1 of 1
+    - "+1"
+    - 37-48
+    - ''
+    - ''
+  - - '1:10.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '0:51.2'
+    - ''
+    - ''
+    - 37-51
+    - "+3"
+    - D. Anderson makes 3-pt shot from 26 ft (assist by T. Duncan)
+  - - '0:41.1'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Violation by Team (illegal defense)
+  - - '0:37.1'
+    - T. Brandon misses 2-pt shot from 16 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:34.4'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by S. Walker
+  - - '0:34.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:25.7'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Turnover by D. Anderson (out of bounds)
+  - - '0:00.9'
+    - A. Peeler misses 2-pt shot from 12 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:00.6'
+    - Offensive rebound by Team
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:00.5'
+    - Turnover by Team (shot clock)
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '0:00.5'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - San Antonio 20 second timeout
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Turnover by T. Porter (bad pass)
+  - - '11:31.0'
+    - K. Garnett misses 2-pt shot from 19 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '11:15.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - D. Robinson misses 2-pt shot from 6 ft
+  - - '11:12.0'
+    - Defensive rebound by D. Garrett
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:55.0'
+    - A. Peeler misses 2-pt shot from 20 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:53.0'
+    - K. Garnett misses 2-pt shot from 6 ft
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:53.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - Defensive rebound by Team
+  - - '10:52.0'
+    - ''
+    - ''
+    - 37-51
+    - ''
+    - D. Ferry misses 3-pt shot from 25 ft
+  - - '10:30.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:27.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 37-51
+    - ''
+    - ''
+  - - '10:27.0'
+    - D. Garrett makes free throw 1 of 2
+    - "+1"
+    - 38-51
+    - ''
+    - ''
+  - - '10:27.0'
+    - D. Garrett makes free throw 2 of 2
+    - "+1"
+    - 39-51
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 39-51
+    - ''
+    - D. Anderson misses 2-pt shot from 18 ft
+  - - '10:12.0'
+    - Defensive rebound by D. Garrett
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '10:06.0'
+    - T. Brandon makes 2-pt shot at rim
+    - "+2"
+    - 41-51
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 41-51
+    - ''
+    - San Antonio full timeout
+  - - '9:47.0'
+    - ''
+    - ''
+    - 41-51
+    - ''
+    - Personal foul by A. Peeler
+  - - '9:40.0'
+    - ''
+    - ''
+    - 41-51
+    - ''
+    - D. Anderson misses 2-pt shot from 17 ft
+  - - '9:39.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 41-51
+    - ''
+    - ''
+  - - '9:18.0'
+    - A. Peeler makes 2-pt shot from 14 ft (assist by K. Garnett)
+    - "+2"
+    - 43-51
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 43-53
+    - "+2"
+    - T. Duncan makes 2-pt shot at rim (assist by D. Robinson)
+  - - '8:38.0'
+    - Shooting foul by D. Robinson
+    - ''
+    - 43-53
+    - ''
+    - ''
+  - - '8:38.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 44-53
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 44-53
+    - ''
+    - M. Rose enters the game for D. Robinson
+  - - '8:38.0'
+    - K. Garnett makes free throw 2 of 2
+    - "+1"
+    - 45-53
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 45-53
+    - ''
+    - Shooting foul by T. Brandon
+  - - '8:19.0'
+    - ''
+    - ''
+    - 45-54
+    - "+1"
+    - T. Porter makes free throw 1 of 2
+  - - '8:19.0'
+    - ''
+    - ''
+    - 45-55
+    - "+1"
+    - T. Porter makes free throw 2 of 2
+  - - '8:07.0'
+    - D. Garrett makes 2-pt shot from 17 ft
+    - "+2"
+    - 47-55
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 47-55
+    - ''
+    - T. Duncan misses 2-pt shot from 16 ft
+  - - '7:42.0'
+    - ''
+    - ''
+    - 47-55
+    - ''
+    - Offensive rebound by D. Ferry
+  - - '7:39.0'
+    - ''
+    - ''
+    - 47-55
+    - ''
+    - Turnover by Team (shot clock)
+  - - '7:20.0'
+    - A. Peeler misses 2-pt shot from 15 ft
+    - ''
+    - 47-55
+    - ''
+    - ''
+  - - '7:14.0'
+    - Offensive rebound by A. Peeler
+    - ''
+    - 47-55
+    - ''
+    - ''
+  - - '7:03.0'
+    - A. Peeler makes 2-pt shot from 18 ft (assist by K. Garnett)
+    - "+2"
+    - 49-55
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - T. Duncan misses 2-pt shot from 11 ft
+  - - '6:34.0'
+    - Defensive rebound by T. Brandon
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '6:20.0'
+    - A. Peeler misses 2-pt shot from 20 ft
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - Defensive rebound by M. Rose
+  - - '6:06.0'
+    - ''
+    - ''
+    - 49-55
+    - ''
+    - T. Duncan misses 2-pt shot from 6 ft (block by D. Garrett)
+  - - '6:03.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 49-55
+    - ''
+    - ''
+  - - '5:57.0'
+    - T. Brandon makes 2-pt shot at rim
+    - "+2"
+    - 51-55
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 51-55
+    - ''
+    - T. Duncan misses 2-pt shot from 19 ft
+  - - '5:33.0'
+    - Defensive rebound by T. Brandon
+    - ''
+    - 51-55
+    - ''
+    - ''
+  - - '5:28.0'
+    - A. Peeler makes 2-pt shot from 10 ft (assist by T. Brandon)
+    - "+2"
+    - 53-55
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 53-55
+    - ''
+    - San Antonio full timeout
+  - - '5:26.0'
+    - ''
+    - ''
+    - 53-55
+    - ''
+    - A. Daniels enters the game for D. Anderson
+  - - '5:07.0'
+    - ''
+    - ''
+    - 53-57
+    - "+2"
+    - A. Daniels makes 2-pt shot from 7 ft (assist by D. Ferry)
+  - - '4:46.0'
+    - A. Peeler misses 2-pt shot from 9 ft (block by T. Duncan)
+    - ''
+    - 53-57
+    - ''
+    - ''
+  - - '4:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-57
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 53-57
+    - ''
+    - A. Johnson enters the game for T. Porter
+  - - '4:43.0'
+    - D. Garrett makes 2-pt shot from 15 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 55-57
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Shooting foul by D. Garrett
+  - - '4:26.0'
+    - ''
+    - ''
+    - 55-58
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '4:26.0'
+    - ''
+    - ''
+    - 55-59
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '4:16.0'
+    - A. Peeler misses 2-pt shot from 1 ft
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 55-59
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '3:52.0'
+    - ''
+    - ''
+    - 55-59
+    - ''
+    - A. Daniels misses 3-pt shot from 25 ft
+  - - '3:50.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '3:41.0'
+    - K. Garnett makes 2-pt shot from 15 ft (assist by T. Brandon)
+    - "+2"
+    - 57-59
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 57-61
+    - "+2"
+    - A. Johnson makes 2-pt shot from 18 ft (assist by T. Duncan)
+  - - '2:58.0'
+    - Personal foul by M. Rose
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 57-61
+    - ''
+    - S. Elliott enters the game for D. Ferry
+  - - '2:42.0'
+    - A. Peeler misses 2-pt shot from 20 ft
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '2:40.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '2:38.0'
+    - D. Garrett misses 2-pt shot from 7 ft
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '2:36.0'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '2:16.0'
+    - A. Peeler makes 2-pt shot from 17 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 59-61
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 59-61
+    - ''
+    - Shooting foul by W. Szczerbiak
+  - - '1:51.0'
+    - ''
+    - ''
+    - 59-62
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '1:51.0'
+    - L. Ellis enters the game for K. Garnett
+    - ''
+    - 59-62
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 59-63
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '1:32.0'
+    - W. Szczerbiak makes 2-pt shot from 7 ft (assist by A. Peeler)
+    - "+2"
+    - 61-63
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - S. Elliott misses 3-pt shot from 23 ft
+  - - '1:06.0'
+    - Defensive rebound by A. Peeler
+    - ''
+    - 61-63
+    - ''
+    - ''
+  - - '0:49.0'
+    - Personal foul by M. Rose
+    - ''
+    - 61-63
+    - ''
+    - ''
+  - - '0:49.0'
+    - ''
+    - ''
+    - 61-63
+    - ''
+    - S. Walker enters the game for T. Duncan
+  - - '0:35.9'
+    - W. Szczerbiak makes 2-pt shot from 7 ft
+    - "+2"
+    - 63-63
+    - ''
+    - ''
+  - - '0:14.1'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - Turnover by S. Elliott (bad pass; steal by A. Peeler)
+  - - '0:10.3'
+    - Shooting foul by A. Johnson
+    - ''
+    - 63-63
+    - ''
+    - ''
+  - - '0:10.3'
+    - W. Szczerbiak makes free throw 1 of 2
+    - "+1"
+    - 64-63
+    - ''
+    - ''
+  - - '0:10.3'
+    - ''
+    - ''
+    - 64-63
+    - ''
+    - T. Duncan enters the game for S. Walker
+  - - '0:10.3'
+    - ''
+    - ''
+    - 64-63
+    - ''
+    - D. Robinson enters the game for M. Rose
+  - - '0:10.3'
+    - R. Nesterovic enters the game for D. Garrett
+    - ''
+    - 64-63
+    - ''
+    - ''
+  - - '0:10.3'
+    - W. Szczerbiak makes free throw 2 of 2
+    - "+1"
+    - 65-63
+    - ''
+    - ''
+  - - '0:01.1'
+    - ''
+    - ''
+    - 65-63
+    - ''
+    - A. Daniels misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 65-63
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:38.0'
+    - S. Mitchell misses 2-pt shot from 19 ft
+    - ''
+    - 65-63
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 65-63
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '11:16.0'
+    - ''
+    - ''
+    - 65-65
+    - "+2"
+    - A. Johnson makes 2-pt shot from 1 ft (assist by S. Elliott)
+  - - '10:53.0'
+    - K. Garnett misses 2-pt shot from 13 ft
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Defensive rebound by A. Daniels
+  - - '10:43.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Turnover by A. Daniels (lost ball; steal by T. Brandon)
+  - - '10:24.0'
+    - T. Brandon misses 2-pt shot from 13 ft
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Shooting foul by L. Ellis
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - D. Anderson enters the game for A. Daniels
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-66
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '10:01.0'
+    - ''
+    - ''
+    - 65-66
+    - ''
+    - T. Duncan misses free throw 2 of 2
+  - - '10:00.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 65-66
+    - ''
+    - ''
+  - - '9:45.0'
+    - A. Peeler misses 2-pt shot from 20 ft
+    - ''
+    - 65-66
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 65-66
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '9:21.0'
+    - ''
+    - ''
+    - 65-66
+    - ''
+    - D. Anderson misses 3-pt shot from 25 ft
+  - - '9:19.0'
+    - Defensive rebound by L. Ellis
+    - ''
+    - 65-66
+    - ''
+    - ''
+  - - '9:07.0'
+    - S. Mitchell makes 2-pt shot from 18 ft (assist by A. Peeler)
+    - "+2"
+    - 67-66
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 67-68
+    - "+2"
+    - T. Duncan makes 2-pt shot at rim (assist by A. Johnson)
+  - - '8:32.0'
+    - S. Mitchell misses 2-pt shot from 19 ft
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '8:31.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - Defensive rebound by A. Johnson
+  - - '8:24.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - D. Robinson misses 2-pt shot at rim
+  - - '8:22.0'
+    - Defensive rebound by A. Peeler
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '8:08.0'
+    - K. Garnett misses 2-pt shot from 17 ft
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '7:48.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - D. Anderson misses 2-pt shot at rim
+  - - '7:46.0'
+    - Defensive rebound by T. Brandon
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:44.0'
+    - Official timeout
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:44.0'
+    - W. Szczerbiak enters the game for A. Peeler
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:44.0'
+    - F. Lopez enters the game for S. Mitchell
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:44.0'
+    - D. Garrett enters the game for L. Ellis
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - D. Ferry enters the game for S. Elliott
+  - - '7:34.0'
+    - Turnover by K. Garnett (bad pass; steal by D. Robinson)
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '7:26.0'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - Turnover by T. Duncan (lost ball; steal by F. Lopez)
+  - - '7:21.0'
+    - T. Brandon makes 2-pt shot from 1 ft
+    - "+2"
+    - 69-68
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - A. Johnson misses 2-pt shot from 16 ft
+  - - '6:53.0'
+    - Defensive rebound by D. Garrett
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:45.0'
+    - T. Brandon misses 2-pt shot from 18 ft
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:43.0'
+    - Offensive rebound by F. Lopez
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:37.0'
+    - F. Lopez misses 2-pt shot from 1 ft (block by T. Duncan)
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Defensive rebound by D. Anderson
+  - - '6:32.0'
+    - ''
+    - ''
+    - 69-70
+    - "+2"
+    - D. Anderson makes 2-pt shot from 1 ft
+  - - '6:32.0'
+    - ''
+    - ''
+    - 69-70
+    - ''
+    - Shooting foul by T. Brandon
+  - - '6:32.0'
+    - ''
+    - ''
+    - 69-71
+    - "+1"
+    - D. Anderson makes free throw 1 of 1
+  - - '6:14.0'
+    - K. Garnett makes 2-pt shot from 7 ft
+    - "+2"
+    - 71-71
+    - ''
+    - ''
+  - - '6:14.0'
+    - Shooting foul by D. Robinson
+    - ''
+    - 71-71
+    - ''
+    - ''
+  - - '6:14.0'
+    - K. Garnett makes free throw 1 of 1
+    - "+1"
+    - 72-71
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 72-71
+    - ''
+    - Personal foul by T. Brandon
+  - - '5:58.0'
+    - ''
+    - ''
+    - 72-71
+    - ''
+    - San Antonio full timeout
+  - - '5:58.0'
+    - ''
+    - ''
+    - 72-71
+    - ''
+    - T. Porter enters the game for A. Johnson
+  - - '5:58.0'
+    - A. Peeler enters the game for F. Lopez
+    - ''
+    - 72-71
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 72-71
+    - ''
+    - D. Ferry misses 3-pt shot from 24 ft
+  - - '5:45.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 72-71
+    - ''
+    - ''
+  - - '5:32.0'
+    - T. Brandon makes 2-pt shot from 17 ft
+    - "+2"
+    - 74-71
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 74-71
+    - ''
+    - T. Duncan misses 2-pt shot from 7 ft
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-73
+    - "+2"
+    - D. Robinson makes 2-pt shot at rim
+  - - '5:06.0'
+    - ''
+    - ''
+    - 74-73
+    - ''
+    - Offensive rebound by D. Robinson
+  - - '4:53.0'
+    - T. Brandon makes 2-pt shot from 17 ft
+    - "+2"
+    - 76-73
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Offensive foul by T. Duncan
+  - - '4:33.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Turnover by T. Duncan (foul)
+  - - '4:33.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Violation by Team (delay of game)
+  - - '4:27.0'
+    - T. Brandon misses 3-pt shot from 26 ft
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '4:17.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Personal foul by K. Garnett
+  - - '4:11.0'
+    - ''
+    - ''
+    - 76-76
+    - "+3"
+    - D. Anderson makes 3-pt shot from 25 ft
+  - - '3:52.0'
+    - T. Brandon misses 3-pt shot from 23 ft
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '3:47.0'
+    - ''
+    - ''
+    - 76-78
+    - "+2"
+    - T. Porter makes 2-pt shot from 1 ft (assist by D. Ferry)
+  - - '3:38.0'
+    - Minnesota full timeout
+    - ''
+    - 76-78
+    - ''
+    - ''
+  - - '3:24.0'
+    - D. Garrett makes 2-pt shot from 16 ft (assist by T. Brandon)
+    - "+2"
+    - 78-78
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 78-78
+    - ''
+    - Shooting foul by A. Peeler
+  - - '3:15.0'
+    - ''
+    - ''
+    - 78-78
+    - ''
+    - D. Anderson misses free throw 1 of 2
+  - - '3:15.0'
+    - ''
+    - ''
+    - 78-78
+    - ''
+    - Offensive rebound by Team
+  - - '3:15.0'
+    - ''
+    - ''
+    - 78-79
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '2:57.0'
+    - Personal foul by D. Robinson
+    - ''
+    - 78-79
+    - ''
+    - ''
+  - - '2:40.0'
+    - T. Brandon misses 2-pt shot from 20 ft
+    - ''
+    - 78-79
+    - ''
+    - ''
+  - - '2:39.0'
+    - Offensive rebound by A. Peeler
+    - ''
+    - 78-79
+    - ''
+    - ''
+  - - '2:27.0'
+    - T. Brandon makes 2-pt shot from 14 ft
+    - "+2"
+    - 80-79
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 80-79
+    - ''
+    - Turnover by D. Robinson (lost ball; steal by K. Garnett)
+  - - '2:01.0'
+    - Minnesota 20 second timeout
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '1:51.0'
+    - Turnover by A. Peeler (lost ball; steal by T. Porter)
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 80-79
+    - ''
+    - D. Anderson misses 3-pt shot from 23 ft
+  - - '1:39.0'
+    - ''
+    - ''
+    - 80-81
+    - "+2"
+    - D. Robinson makes 2-pt shot from 2 ft
+  - - '1:39.0'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - Offensive rebound by D. Robinson
+  - - '1:18.0'
+    - D. Garrett misses 2-pt shot from 13 ft
+    - ''
+    - 80-81
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '0:56.0'
+    - ''
+    - ''
+    - 80-83
+    - "+2"
+    - T. Porter makes 2-pt shot from 19 ft (assist by D. Ferry)
+  - - '0:56.0'
+    - Minnesota full timeout
+    - ''
+    - 80-83
+    - ''
+    - ''
+  - - '0:37.1'
+    - D. Garrett misses 2-pt shot from 15 ft
+    - ''
+    - 80-83
+    - ''
+    - ''
+  - - '0:35.7'
+    - ''
+    - ''
+    - 80-83
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '0:12.7'
+    - ''
+    - ''
+    - 80-85
+    - "+2"
+    - T. Duncan makes 2-pt shot from 15 ft
+  - - '0:12.7'
+    - Minnesota full timeout
+    - ''
+    - 80-85
+    - ''
+    - ''
+  - - '0:12.7'
+    - S. Mitchell enters the game for D. Garrett
+    - ''
+    - 80-85
+    - ''
+    - ''
+  - - '0:12.7'
+    - ''
+    - ''
+    - 80-85
+    - ''
+    - A. Daniels enters the game for D. Ferry
+  - - '0:12.7'
+    - ''
+    - ''
+    - 80-85
+    - ''
+    - M. Rose enters the game for D. Robinson
+  - - '0:07.6'
+    - S. Mitchell misses 2-pt shot from 9 ft
+    - ''
+    - 80-85
+    - ''
+    - ''
+  - - '0:07.4'
+    - K. Garnett makes 2-pt shot from 1 ft
+    - "+2"
+    - 82-85
+    - ''
+    - ''
+  - - '0:07.4'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 82-85
+    - ''
+    - ''
+  - - '0:06.6'
+    - ''
+    - ''
+    - 82-85
+    - ''
+    - Personal foul by S. Mitchell
+  - - '0:06.6'
+    - ''
+    - ''
+    - 82-86
+    - "+1"
+    - A. Daniels makes free throw 1 of 2
+  - - '0:06.6'
+    - ''
+    - ''
+    - 82-87
+    - "+1"
+    - A. Daniels makes free throw 2 of 2
+  - - '0:05.4'
+    - Personal foul by D. Anderson
+    - ''
+    - 82-87
+    - ''
+    - ''
+  - - '0:04.5'
+    - Turnover by W. Szczerbiak (bad pass; steal by T. Duncan)
+    - ''
+    - 82-87
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

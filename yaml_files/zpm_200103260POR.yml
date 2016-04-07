@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      -11
+    - 170/-11
+    - 214/
+    - 115/-1
+    - 231/-3
+    - 112/
+    - 156/+10
+    - 'Lamar Odom (On: +2&#9642;Off: -10&#9642;Net: +12)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 37/+1
+    - 149/
+    - 63/+1
+    - 165/-4
+    - 178/
+    - 149/+10
+    - 6/
+    - 'Michael Olowokandi (On: -15&#9642;Off: +7&#9642;Net: -22)'
+    - |2-
+
+      -11
+    - 164/-11
+    - 221/
+    - 115/-1
+    - 231/-3
+    - 268/
+    - 'Cherokee Parks (On: -16&#9642;Off: +8&#9642;Net: -24)'
+    - |2-
+
+      -11
+    - 123/-11
+    - 377/
+    - 117/-5
+    - 383/
+    - 'Eric Piatkowski (On: -11&#9642;Off: +3&#9642;Net: -14)'
+    - |2-
+
+      -3
+    - 75/-3
+    - 425/
+    - 149/-8
+    - 351/
+    - 'Corey Maggette (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - "\n"
+    - 75/
+    - 174/-3
+    - 249/-2
+    - 154/
+    - 95/+2
+    - 90/-4
+    - 114/
+    - 45/+2
+    - 'Darius Miles (On: +8&#9642;Off: -16&#9642;Net: +24)'
+    - "\n"
+    - 127/
+    - 122/+5
+    - 250/-2
+    - 117/
+    - 132/-1
+    - 250/+6
+    - 'Sean Rooks (On: +5&#9642;Off: -13&#9642;Net: +18)'
+    - "\n"
+    - 170/
+    - 79/+5
+    - 131/-1
+    - 356/
+    - 11/-3
+    - 216/+4
+    - 34/
+    - 'Keyon Dooling (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - "\n"
+    - 174/
+    - 75/+5
+    - 131/-1
+    - 356/
+    - 11/-3
+    - 90/-4
+    - 154/
+    - 5/0
+    - 'Quentin Richardson (On: 0&#9642;Off: -8&#9642;Net: +8)'
+    - "\n"
+    - 291/
+    - 138/-4
+    - 240/
+    - 79/-2
+    - 199/+4
+    - 20/
+    - 30/+2
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Stacey Augmon (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      +10
+    - 210/+10
+    - 39/
+    - 0/0
+    - 250/
+    - 194/+4
+    - 305/
+    - 'Arvydas Sabonis (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      +11
+    - 171/+11
+    - 329/
+    - 232/+3
+    - 268/
+    - 'Damon Stoudamire (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 251/
+    - 184/+3
+    - 288/
+    - 27/-2
+    - 'Rasheed Wallace (On: +11&#9642;Off: -3&#9642;Net: +14)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 135/
+    - 115/+1
+    - 249/+6
+    - 17/+2
+    - 118/
+    - 114/-4
+    - 'Bonzi Wells (On: +11&#9642;Off: -3&#9642;Net: +14)'
+    - |2-
+
+      +10
+    - 210/+10
+    - 231/
+    - 57/+1
+    - 184/+3
+    - 231/
+    - 85/-3
+    - 'Dale Davis (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 174/
+    - 75/-5
+    - 131/+1
+    - 356/
+    - 11/+3
+    - 132/-2
+    - 118/
+    - 'Scottie Pippen (On: -6&#9642;Off: +14&#9642;Net: -20)'
+    - "\n"
+    - 214/
+    - 35/-4
+    - 250/+2
+    - 199/
+    - 50/+2
+    - 250/-6
+    - 'Steve Smith (On: -5&#9642;Off: +13&#9642;Net: -18)'
+    - "\n"
+    - 214/
+    - 35/-4
+    - 250/+2
+    - 190/
+    - 60/+3
+    - 249/-6
+    - 'Shawn Kemp (On: -5&#9642;Off: +13&#9642;Net: -18)'
+    - "\n"
+    - 250/
+    - 186/+1
+    - 335/
+    - 199/-6
+    - 29/
+    - 'Rod Strickland (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 250/
+    - 250/+2
+    - 190/
+    - 60/+3
+    - 159/-3
+    - 89/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

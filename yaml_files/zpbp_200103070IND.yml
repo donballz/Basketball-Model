@@ -1,0 +1,2464 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. M. Camby (M. Jackson gains possession)'
+  - - '11:50.0'
+    - L. Sprewell makes 2-pt shot from 2 ft (assist by M. Jackson)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - A. Harrington makes 2-pt shot from 9 ft (assist by T. Best)
+  - - '11:23.0'
+    - A. Houston misses 2-pt shot from 20 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '11:00.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - S. Perkins misses 3-pt shot from 25 ft
+  - - '10:58.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:54.0'
+    - M. Camby makes 2-pt shot from 3 ft (assist by L. Sprewell)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Shooting foul by K. Thomas
+  - - '10:40.0'
+    - ''
+    - ''
+    - 4-3
+    - "+1"
+    - T. Best makes free throw 1 of 2
+  - - '10:40.0'
+    - ''
+    - ''
+    - 4-4
+    - "+1"
+    - T. Best makes free throw 2 of 2
+  - - '10:19.0'
+    - L. Sprewell makes 2-pt shot from 21 ft
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Offensive foul by T. Best
+  - - '10:04.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Turnover by T. Best (foul)
+  - - '9:49.0'
+    - L. Sprewell misses 2-pt shot from 19 ft
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '9:31.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - S. Perkins misses 2-pt shot from 5 ft (block by M. Camby)
+  - - '9:29.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:18.0'
+    - K. Thomas misses 2-pt shot from 18 ft
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '9:03.0'
+    - ''
+    - ''
+    - 6-6
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 6 ft (assist by T. Best)
+  - - '8:47.0'
+    - A. Houston makes 2-pt shot from 17 ft (assist by M. Jackson)
+    - "+2"
+    - 8-6
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - J. O'Neal misses 2-pt shot from 7 ft (block by K. Thomas)
+  - - '8:25.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Offensive rebound by Team
+  - - '8:22.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - S. Perkins misses 2-pt shot from 5 ft
+  - - '8:20.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - A. Harrington misses 2-pt shot from 1 ft
+  - - '8:20.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '8:18.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 8-6
+    - ''
+    - ''
+  - - '8:10.0'
+    - K. Thomas makes 2-pt shot from 6 ft (assist by A. Houston)
+    - "+2"
+    - 10-6
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 10-8
+    - "+2"
+    - A. Harrington makes 2-pt shot from 15 ft (assist by T. Best)
+  - - '7:40.0'
+    - Personal foul by J. Rose
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '7:29.0'
+    - A. Houston makes 2-pt shot from 13 ft
+    - "+2"
+    - 12-8
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 12-10
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by J. Rose)
+  - - '6:51.0'
+    - A. Houston makes 2-pt shot from 11 ft (assist by M. Jackson)
+    - "+2"
+    - 14-10
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - T. Best misses 2-pt shot from 18 ft
+  - - '6:30.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '6:14.0'
+    - Turnover by L. Sprewell (lost ball)
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 14-12
+    - "+2"
+    - A. Harrington makes 2-pt shot from 13 ft (assist by T. Best)
+  - - '5:39.0'
+    - M. Camby misses 2-pt shot from 10 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '5:33.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Turnover by J. Rose (out of bounds)
+  - - '5:33.0'
+    - New York full timeout
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:19.0'
+    - M. Jackson misses 2-pt shot from 16 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '5:06.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - A. Harrington misses 2-pt shot from 11 ft
+  - - '5:04.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:46.0'
+    - M. Jackson misses 2-pt shot from 10 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:44.0'
+    - Offensive rebound by M. Jackson
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:33.0'
+    - A. Houston misses 3-pt shot from 25 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:31.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:21.0'
+    - L. Sprewell misses 2-pt shot from 4 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:19.0'
+    - Offensive rebound by M. Camby
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:04.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:04.0'
+    - A. Houston makes free throw 1 of 2
+    - "+1"
+    - 15-12
+    - ''
+    - ''
+  - - '4:04.0'
+    - A. Houston makes free throw 2 of 2
+    - "+1"
+    - 16-12
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-14
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 2 ft (assist by A. Harrington)
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-14
+    - ''
+    - Shooting foul by K. Thomas
+  - - '3:45.0'
+    - O. Harrington enters the game for K. Thomas
+    - ''
+    - 16-14
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-15
+    - "+1"
+    - J. O'Neal makes free throw 1 of 1
+  - - '3:26.0'
+    - Turnover by M. Camby (traveling)
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - J. O'Neal misses 2-pt shot from 3 ft
+  - - '3:05.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - New York full timeout
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - O. Harrington makes free throw 1 of 2
+    - "+1"
+    - 17-15
+    - ''
+    - ''
+  - - '2:59.0'
+    - O. Harrington makes free throw 2 of 2
+    - "+1"
+    - 18-15
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Personal foul by A. Houston
+  - - '2:48.0'
+    - G. Rice enters the game for A. Houston
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 18-17
+    - "+2"
+    - J. Rose makes 2-pt shot from 10 ft (assist by T. Best)
+  - - '2:19.0'
+    - L. Sprewell makes 3-pt shot from 25 ft (assist by G. Rice)
+    - "+3"
+    - 21-17
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - J. Rose misses 2-pt shot from 10 ft
+  - - '2:02.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:56.0'
+    - G. Rice misses 2-pt shot from 21 ft
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - Defensive rebound by J. Rose
+  - - '1:51.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - Turnover by T. Best (lost ball; steal by L. Sprewell)
+  - - '1:45.0'
+    - L. Sprewell makes 2-pt shot from 11 ft
+    - "+2"
+    - 23-17
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - J. O'Neal misses 2-pt shot from 2 ft
+  - - '1:24.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '1:18.0'
+    - L. Sprewell misses 2-pt shot from 14 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '1:17.0'
+    - Offensive rebound by G. Rice
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '1:13.0'
+    - M. Camby misses 2-pt shot from 9 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '0:56.6'
+    - ''
+    - ''
+    - 23-19
+    - "+2"
+    - J. Rose makes 2-pt shot from 18 ft (assist by A. Harrington)
+  - - '0:44.9'
+    - Turnover by L. Sprewell (bad pass; steal by S. Perkins)
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - Turnover by J. Rose (lost ball; steal by M. Jackson)
+  - - '0:29.9'
+    - M. Jackson misses 3-pt shot from 26 ft
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '0:27.4'
+    - Offensive rebound by Team
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '0:04.6'
+    - Turnover by M. Camby (out of bounds)
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '0:01.8'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - Personal foul by M. Jackson
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-22
+    - "+3"
+    - J. Rose makes 3-pt shot from 26 ft (assist by A. Harrington)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - T. Best misses 2-pt shot from 20 ft
+  - - '11:39.0'
+    - Defensive rebound by O. Harrington
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '11:18.0'
+    - O. Harrington misses 2-pt shot from 6 ft
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '11:00.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - J. O'Neal misses 2-pt shot from 17 ft
+  - - '10:59.0'
+    - Defensive rebound by C. Ward
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '10:53.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - A. Croshere enters the game for S. Perkins
+  - - '10:47.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 23-22
+    - ''
+    - D. McKey enters the game for A. Harrington
+  - - '10:40.0'
+    - Turnover by O. Harrington (traveling)
+    - ''
+    - 23-22
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 23-24
+    - "+2"
+    - T. Best makes 2-pt shot from 1 ft
+  - - '10:12.0'
+    - G. Rice misses 2-pt shot from 17 ft
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - Defensive rebound by D. McKey
+  - - '10:01.0'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - Personal foul by L. Sprewell
+  - - '9:52.0'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - Personal foul by A. Houston
+  - - '9:39.0'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - D. McKey misses 2-pt shot from 16 ft
+  - - '9:38.0'
+    - Defensive rebound by C. Ward
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '9:19.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '9:19.0'
+    - O. Harrington makes free throw 1 of 2
+    - "+1"
+    - 24-24
+    - ''
+    - ''
+  - - '9:19.0'
+    - K. Thomas enters the game for L. Sprewell
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '9:19.0'
+    - O. Harrington makes free throw 2 of 2
+    - "+1"
+    - 25-24
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 25-24
+    - ''
+    - J. Rose misses 2-pt shot from 14 ft
+  - - '9:07.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:00.0'
+    - Personal foul by J. Rose
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '8:53.0'
+    - A. Houston makes 2-pt shot from 13 ft
+    - "+2"
+    - 27-24
+    - ''
+    - ''
+  - - '8:28.0'
+    - ''
+    - ''
+    - 27-27
+    - "+3"
+    - T. Best makes 3-pt shot from 25 ft (assist by J. O'Neal)
+  - - '8:08.0'
+    - Turnover by K. Thomas (traveling)
+    - ''
+    - 27-27
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 27-27
+    - ''
+    - Official timeout
+  - - '7:48.0'
+    - ''
+    - ''
+    - 27-27
+    - ''
+    - J. Rose misses 2-pt shot from 6 ft
+  - - '7:45.0'
+    - Defensive rebound by A. Houston
+    - ''
+    - 27-27
+    - ''
+    - ''
+  - - '7:37.0'
+    - Turnover by A. Houston (bad pass; steal by J. O'Neal)
+    - ''
+    - 27-27
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 27-29
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 2 ft (assist by D. McKey)
+  - - '7:19.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - Shooting foul by O. Harrington
+  - - '7:19.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - J. Bender enters the game for T. Best
+  - - '7:19.0'
+    - M. Camby enters the game for O. Harrington
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - J. O'Neal misses free throw 1 of 1
+  - - '7:18.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '7:05.0'
+    - G. Rice misses 2-pt shot from 5 ft
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:53.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - A. Croshere misses 2-pt shot from 3 ft (block by M. Camby)
+  - - '6:53.0'
+    - 'Jump ball: A. Croshere vs. M. Camby (K. Thomas gains possession)'
+  - - '6:53.0'
+    - Defensive rebound by Team
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '6:39.0'
+    - G. Rice makes 2-pt shot from 17 ft (assist by C. Ward)
+    - "+2"
+    - 29-29
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - A. Croshere misses 3-pt shot from 24 ft
+  - - '6:14.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - Offensive rebound by A. Croshere
+  - - '6:11.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - J. Rose misses 3-pt shot from 25 ft
+  - - '6:08.0'
+    - Defensive rebound by Team
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '5:52.0'
+    - G. Rice misses 2-pt shot from 1 ft (block by J. O'Neal)
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - Defensive rebound by Team
+  - - '5:52.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - Indiana full timeout
+  - - '5:31.0'
+    - ''
+    - ''
+    - 29-31
+    - "+2"
+    - J. Rose makes 2-pt shot from 11 ft (assist by J. O'Neal)
+  - - '5:14.0'
+    - C. Ward makes 3-pt shot from 26 ft
+    - "+3"
+    - 32-31
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - D. McKey misses 2-pt shot from 8 ft
+  - - '4:53.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 32-31
+    - ''
+    - ''
+  - - '4:43.0'
+    - M. Camby makes 2-pt shot from 1 ft (assist by C. Ward)
+    - "+2"
+    - 34-31
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Personal foul by C. Ward
+  - - '4:15.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Personal foul by K. Thomas
+  - - '4:15.0'
+    - ''
+    - ''
+    - 34-32
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '4:15.0'
+    - L. Sprewell enters the game for K. Thomas
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - J. Foster enters the game for A. Croshere
+  - - '4:15.0'
+    - ''
+    - ''
+    - 34-33
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '4:00.0'
+    - Turnover by C. Ward (bad pass)
+    - ''
+    - 34-33
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - Shooting foul by C. Ward
+  - - '3:46.0'
+    - ''
+    - ''
+    - 34-34
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '3:46.0'
+    - ''
+    - ''
+    - 34-34
+    - ''
+    - Indiana full timeout
+  - - '3:46.0'
+    - M. Jackson enters the game for C. Ward
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 34-35
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '3:34.0'
+    - Shooting foul by J. Bender
+    - ''
+    - 34-35
+    - ''
+    - ''
+  - - '3:34.0'
+    - M. Camby misses free throw 1 of 2
+    - ''
+    - 34-35
+    - ''
+    - ''
+  - - '3:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-35
+    - ''
+    - ''
+  - - '3:34.0'
+    - M. Camby makes free throw 2 of 2
+    - "+1"
+    - 35-35
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 35-35
+    - ''
+    - Shooting foul by M. Jackson
+  - - '3:19.0'
+    - ''
+    - ''
+    - 35-36
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '3:19.0'
+    - ''
+    - ''
+    - 35-37
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '3:03.0'
+    - L. Sprewell makes 2-pt shot from 22 ft
+    - "+2"
+    - 37-37
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 37-39
+    - "+2"
+    - J. Bender makes 2-pt shot from 13 ft (assist by J. Rose)
+  - - '2:35.0'
+    - L. Sprewell misses 2-pt shot from 21 ft
+    - ''
+    - 37-39
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 37-39
+    - ''
+    - Defensive rebound by J. Rose
+  - - '2:26.0'
+    - ''
+    - ''
+    - 37-39
+    - ''
+    - J. O'Neal misses 2-pt shot from 16 ft
+  - - '2:23.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 37-39
+    - ''
+    - ''
+  - - '2:18.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 37-39
+    - ''
+    - ''
+  - - '2:18.0'
+    - L. Sprewell makes free throw 1 of 2
+    - "+1"
+    - 38-39
+    - ''
+    - ''
+  - - '2:18.0'
+    - L. Sprewell makes free throw 2 of 2
+    - "+1"
+    - 39-39
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 39-41
+    - "+2"
+    - J. Bender makes 2-pt shot from 16 ft (assist by J. Rose)
+  - - '1:48.0'
+    - Shooting foul by J. Bender
+    - ''
+    - 39-41
+    - ''
+    - ''
+  - - '1:48.0'
+    - G. Rice makes free throw 1 of 2
+    - "+1"
+    - 40-41
+    - ''
+    - ''
+  - - '1:48.0'
+    - G. Rice makes free throw 2 of 2
+    - "+1"
+    - 41-41
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 41-41
+    - ''
+    - J. Foster misses 2-pt shot from 12 ft
+  - - '1:28.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 41-41
+    - ''
+    - ''
+  - - '1:20.0'
+    - L. Sprewell misses 3-pt shot from 27 ft
+    - ''
+    - 41-41
+    - ''
+    - ''
+  - - '1:18.0'
+    - Offensive rebound by M. Camby
+    - ''
+    - 41-41
+    - ''
+    - ''
+  - - '1:16.0'
+    - G. Rice misses 2-pt shot from 19 ft
+    - ''
+    - 41-41
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 41-41
+    - ''
+    - Defensive rebound by D. McKey
+  - - '0:54.8'
+    - ''
+    - ''
+    - 41-43
+    - "+2"
+    - J. Rose makes 2-pt shot from 16 ft (assist by J. Foster)
+  - - '0:50.4'
+    - New York 20 second timeout
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:50.4'
+    - O. Harrington enters the game for A. Houston
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:39.9'
+    - M. Camby misses 2-pt shot from 4 ft
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:37.4'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Defensive rebound by J. Bender
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Shooting foul by O. Harrington
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-44
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '0:20.6'
+    - A. Houston enters the game for O. Harrington
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-44
+    - ''
+    - T. Best enters the game for J. Rose
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-45
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '0:01.9'
+    - A. Houston misses 3-pt shot from 25 ft
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by G. Rice
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - A. Harrington misses 2-pt shot from 10 ft (block by A. Houston)
+  - - '11:43.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '11:38.0'
+    - A. Houston misses 2-pt shot from 3 ft (block by J. O'Neal)
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '11:37.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '11:37.0'
+    - K. Thomas makes 2-pt shot from 1 ft
+    - "+2"
+    - 43-45
+    - ''
+    - ''
+  - - '11:37.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 43-45
+    - ''
+    - ''
+  - - '11:37.0'
+    - K. Thomas makes free throw 1 of 1
+    - "+1"
+    - 44-45
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - A. Harrington misses 2-pt shot from 9 ft
+  - - '11:21.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 44-45
+    - ''
+    - ''
+  - - '11:15.0'
+    - A. Houston misses 3-pt shot from 25 ft
+    - ''
+    - 44-45
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '11:01.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - J. O'Neal misses 2-pt shot from 11 ft (block by M. Camby)
+  - - '11:01.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - Offensive rebound by Team
+  - - '10:59.0'
+    - ''
+    - ''
+    - 44-47
+    - "+2"
+    - J. Rose makes 2-pt shot from 18 ft (assist by A. Harrington)
+  - - '10:38.0'
+    - A. Houston misses 2-pt shot from 20 ft
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '10:18.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - A. Harrington misses 2-pt shot from 11 ft
+  - - '10:15.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '10:11.0'
+    - ''
+    - ''
+    - 44-50
+    - "+3"
+    - S. Perkins makes 3-pt shot from 25 ft (assist by J. Rose)
+  - - '9:47.0'
+    - K. Thomas makes 2-pt shot from 6 ft (assist by M. Jackson)
+    - "+2"
+    - 46-50
+    - ''
+    - ''
+  - - '9:47.0'
+    - Shooting foul by T. Best
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 46-50
+    - ''
+    - Violation by Team (delay of game)
+  - - '9:47.0'
+    - K. Thomas misses free throw 1 of 1
+    - ''
+    - 46-50
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 46-50
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '9:28.0'
+    - ''
+    - ''
+    - 46-53
+    - "+3"
+    - S. Perkins makes 3-pt shot from 24 ft (assist by T. Best)
+  - - '9:09.0'
+    - K. Thomas makes 2-pt shot from 10 ft
+    - "+2"
+    - 48-53
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 48-53
+    - ''
+    - S. Perkins misses 3-pt shot from 22 ft
+  - - '8:51.0'
+    - ''
+    - ''
+    - 48-53
+    - ''
+    - Offensive rebound by S. Perkins
+  - - '8:48.0'
+    - ''
+    - ''
+    - 48-55
+    - "+2"
+    - A. Harrington makes 2-pt shot from 2 ft (assist by J. O'Neal)
+  - - '8:45.0'
+    - New York full timeout
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '8:28.0'
+    - L. Sprewell makes 2-pt shot from 18 ft (assist by M. Jackson)
+    - "+2"
+    - 50-55
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - Personal foul by L. Sprewell
+  - - '8:09.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 50-55
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - A. Harrington misses 2-pt shot from 21 ft
+  - - '7:54.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '7:52.0'
+    - ''
+    - ''
+    - 50-57
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 2 ft
+  - - '7:30.0'
+    - L. Sprewell makes 2-pt shot from 16 ft
+    - "+2"
+    - 52-57
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - T. Best misses 3-pt shot from 24 ft
+  - - '7:12.0'
+    - Defensive rebound by A. Houston
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '6:59.0'
+    - K. Thomas misses 2-pt shot from 5 ft (block by J. O'Neal)
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:33.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Turnover by A. Harrington (lost ball; steal by A. Houston)
+  - - '6:19.0'
+    - M. Camby misses 2-pt shot from 16 ft
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '6:10.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Personal foul by L. Sprewell
+  - - '6:10.0'
+    - Double technical foul by S. Perkins and L. Sprewell
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Personal foul by L. Sprewell
+  - - '6:01.0'
+    - G. Rice enters the game for L. Sprewell
+    - ''
+    - 52-57
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 52-57
+    - ''
+    - Shooting foul by M. Camby
+  - - '5:53.0'
+    - ''
+    - ''
+    - 52-58
+    - "+1"
+    - T. Best makes free throw 1 of 2
+  - - '5:53.0'
+    - ''
+    - ''
+    - 52-59
+    - "+1"
+    - T. Best makes free throw 2 of 2
+  - - '5:40.0'
+    - A. Houston misses 2-pt shot from 3 ft (block by J. O'Neal)
+    - ''
+    - 52-59
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 52-59
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '5:24.0'
+    - ''
+    - ''
+    - 52-61
+    - "+2"
+    - J. Rose makes 2-pt shot from 12 ft
+  - - '5:05.0'
+    - G. Rice makes 3-pt shot from 24 ft (assist by M. Jackson)
+    - "+3"
+    - 55-61
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - T. Best misses 2-pt shot from 4 ft
+  - - '4:49.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:43.0'
+    - G. Rice misses 3-pt shot from 25 ft
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:42.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:42.0'
+    - Loose ball foul by A. Harrington
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:33.0'
+    - A. Houston misses 2-pt shot from 3 ft
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '4:09.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - A. Harrington misses 2-pt shot from 6 ft
+  - - '4:07.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:02.0'
+    - K. Thomas misses 2-pt shot from 3 ft (block by J. Rose)
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - Defensive rebound by Team
+  - - '3:40.0'
+    - ''
+    - ''
+    - 55-63
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 10 ft
+  - - '3:19.0'
+    - A. Houston misses 2-pt shot from 20 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '3:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '3:08.0'
+    - G. Rice misses 2-pt shot from 3 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '3:04.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Indiana full timeout
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Personal foul by M. Camby
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - S. Perkins misses free throw 1 of 2
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Offensive rebound by Team
+  - - '2:53.0'
+    - ''
+    - ''
+    - 55-64
+    - "+1"
+    - S. Perkins makes free throw 2 of 2
+  - - '2:41.0'
+    - A. Houston makes 2-pt shot from 17 ft (assist by M. Jackson)
+    - "+2"
+    - 57-64
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - J. Rose misses 2-pt shot from 12 ft (block by A. Houston)
+  - - '2:15.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:08.0'
+    - G. Rice misses 2-pt shot from 20 ft
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Defensive rebound by J. Rose
+  - - '1:52.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Personal foul by M. Jackson
+  - - '1:52.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - A. Harrington misses free throw 1 of 2
+  - - '1:52.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Offensive rebound by Team
+  - - '1:52.0'
+    - C. Ward enters the game for M. Jackson
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - A. Harrington misses free throw 2 of 2
+  - - '1:52.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '1:38.0'
+    - A. Houston misses 2-pt shot from 3 ft (block by J. O'Neal)
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '1:28.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - S. Perkins misses 2-pt shot from 16 ft
+  - - '1:27.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '1:07.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - S. Perkins misses 2-pt shot from 8 ft
+  - - '1:05.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '0:54.9'
+    - K. Thomas misses 2-pt shot from 6 ft
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '0:28.9'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - T. Best misses 2-pt shot from 15 ft
+  - - '0:26.0'
+    - Defensive rebound by Team
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '0:02.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - Turnover by A. Harrington (bad pass; steal by M. Camby)
+  - - '0:00.8'
+    - Personal foul by J. O'Neal
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - Turnover by C. Ward (lost ball; steal by S. Perkins)
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 57-64
+    - ''
+    - J. Rose misses 2-pt shot from 20 ft
+  - - '11:19.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '11:10.0'
+    - L. Sprewell misses 2-pt shot from 18 ft
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '11:07.0'
+    - 'Jump ball: J. Foster vs. O. Harrington (C. Ward gains possession)'
+  - - '11:07.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-64
+    - ''
+    - ''
+  - - '11:03.0'
+    - L. Sprewell makes 2-pt shot from 20 ft (assist by C. Ward)
+    - "+2"
+    - 59-64
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - J. Bender misses 2-pt shot from 16 ft
+  - - '10:45.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '10:34.0'
+    - Turnover by O. Harrington (lost ball; steal by J. Foster)
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - T. Best misses 2-pt shot from 20 ft
+  - - '10:22.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Offensive rebound by S. Perkins
+  - - '10:18.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Shooting foul by O. Harrington
+  - - '10:18.0'
+    - ''
+    - ''
+    - 59-65
+    - "+1"
+    - J. Bender makes free throw 1 of 2
+  - - '10:18.0'
+    - ''
+    - ''
+    - 59-66
+    - "+1"
+    - J. Bender makes free throw 2 of 2
+  - - '10:06.0'
+    - Turnover by C. Ward (lost ball; steal by T. Best)
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - T. Best misses 2-pt shot from 1 ft (block by M. Camby)
+  - - '9:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '9:59.0'
+    - Double technical foul by T. Best and O. Harrington
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '9:43.0'
+    - Shooting foul by J. Rose
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '9:43.0'
+    - G. Rice makes free throw 1 of 2
+    - "+1"
+    - 60-66
+    - ''
+    - ''
+  - - '9:43.0'
+    - G. Rice makes free throw 2 of 2
+    - "+1"
+    - 61-66
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 61-69
+    - "+3"
+    - S. Perkins makes 3-pt shot from 23 ft (assist by J. Rose)
+  - - '9:03.0'
+    - L. Sprewell makes 2-pt shot from 21 ft (assist by C. Ward)
+    - "+2"
+    - 63-69
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 63-69
+    - ''
+    - T. Best misses 2-pt shot from 18 ft
+  - - '8:40.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '8:38.0'
+    - M. Camby makes 2-pt shot from 2 ft
+    - "+2"
+    - 65-69
+    - ''
+    - ''
+  - - '8:38.0'
+    - Shooting foul by J. Rose
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '8:38.0'
+    - Official timeout
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - A. Harrington enters the game for T. Best
+  - - '8:38.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - J. O'Neal enters the game for J. Foster
+  - - '8:38.0'
+    - M. Camby misses free throw 1 of 1
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '8:20.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - J. Bender misses 2-pt shot from 10 ft
+  - - '8:18.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 65-69
+    - ''
+    - ''
+  - - '8:09.0'
+    - O. Harrington makes 2-pt shot from 4 ft (assist by C. Ward)
+    - "+2"
+    - 67-69
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Personal foul by C. Ward
+  - - '7:38.0'
+    - ''
+    - ''
+    - 67-69
+    - ''
+    - Turnover by Team (shot clock)
+  - - '7:21.0'
+    - G. Rice makes 2-pt shot from 18 ft (assist by M. Camby)
+    - "+2"
+    - 69-69
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 69-69
+    - ''
+    - Turnover by J. Bender (bad pass; steal by M. Camby)
+  - - '6:50.0'
+    - L. Sprewell misses 2-pt shot from 16 ft
+    - ''
+    - 69-69
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 69-69
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:33.0'
+    - ''
+    - ''
+    - 69-71
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 4 ft (assist by J. Bender)
+  - - '6:07.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - T. Best enters the game for J. Bender
+  - - '5:56.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - T. Best misses 2-pt shot from 22 ft
+  - - '5:53.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '5:39.0'
+    - New York full timeout
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '5:29.0'
+    - L. Sprewell misses 2-pt shot from 4 ft (block by J. O'Neal)
+    - ''
+    - 69-71
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 69-71
+    - ''
+    - Defensive rebound by T. Best
+  - - '5:12.0'
+    - ''
+    - ''
+    - 69-73
+    - "+2"
+    - A. Harrington makes 2-pt shot from 16 ft (assist by S. Perkins)
+  - - '4:53.0'
+    - O. Harrington misses 2-pt shot from 6 ft
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '4:43.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Offensive foul by S. Perkins
+  - - '4:43.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Turnover by S. Perkins (foul)
+  - - '4:43.0'
+    - K. Thomas enters the game for O. Harrington
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '4:32.0'
+    - L. Sprewell misses 2-pt shot from 19 ft
+    - ''
+    - 69-73
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Defensive rebound by J. Rose
+  - - '4:11.0'
+    - ''
+    - ''
+    - 69-73
+    - ''
+    - Shooting foul by L. Sprewell
+  - - '4:11.0'
+    - ''
+    - ''
+    - 69-74
+    - "+1"
+    - A. Harrington makes free throw 1 of 2
+  - - '4:11.0'
+    - A. Houston enters the game for L. Sprewell
+    - ''
+    - 69-74
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 69-74
+    - ''
+    - Indiana full timeout
+  - - '4:11.0'
+    - ''
+    - ''
+    - 69-75
+    - "+1"
+    - A. Harrington makes free throw 2 of 2
+  - - '3:55.0'
+    - G. Rice misses 2-pt shot from 3 ft (block by J. O'Neal)
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '3:35.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Turnover by J. Rose (bad pass)
+  - - '3:20.0'
+    - A. Houston misses 2-pt shot from 19 ft
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '2:56.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Personal foul by C. Ward
+  - - '2:56.0'
+    - L. Sprewell enters the game for K. Thomas
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '2:56.0'
+    - M. Jackson enters the game for C. Ward
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - A. Harrington misses 2-pt shot from 6 ft
+  - - '2:43.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '2:31.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - T. Best misses 2-pt shot from 4 ft (block by M. Camby)
+  - - '2:29.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '2:18.0'
+    - L. Sprewell makes 3-pt shot from 24 ft (assist by A. Houston)
+    - "+3"
+    - 72-75
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 72-75
+    - ''
+    - J. Rose misses 2-pt shot from 17 ft (block by L. Sprewell)
+  - - '1:50.0'
+    - ''
+    - ''
+    - 72-75
+    - ''
+    - Offensive rebound by Team
+  - - '1:50.0'
+    - ''
+    - ''
+    - 72-75
+    - ''
+    - Turnover by Team (shot clock)
+  - - '1:50.0'
+    - ''
+    - ''
+    - 72-75
+    - ''
+    - J. Foster enters the game for S. Perkins
+  - - '1:50.0'
+    - ''
+    - ''
+    - 72-75
+    - ''
+    - D. McKey enters the game for T. Best
+  - - '1:32.0'
+    - G. Rice makes 3-pt shot from 26 ft (assist by M. Camby)
+    - "+3"
+    - 75-75
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Indiana full timeout
+  - - '1:32.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - T. Best enters the game for D. McKey
+  - - '1:32.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - S. Perkins enters the game for J. Foster
+  - - '1:32.0'
+    - K. Thomas enters the game for A. Houston
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Personal foul by K. Thomas
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - J. O'Neal misses free throw 1 of 2
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Offensive rebound by Team
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - D. McKey enters the game for T. Best
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - J. Foster enters the game for S. Perkins
+  - - '1:14.0'
+    - A. Houston enters the game for K. Thomas
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - J. O'Neal misses free throw 2 of 2
+  - - '1:14.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '1:04.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '1:04.0'
+    - New York full timeout
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '0:55.9'
+    - L. Sprewell misses 2-pt shot from 23 ft
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '0:53.6'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Defensive rebound by D. McKey
+  - - '0:52.4'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Indiana 20 second timeout
+  - - '0:52.4'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - S. Perkins enters the game for J. Foster
+  - - '0:52.4'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - T. Best enters the game for D. McKey
+  - - '0:52.4'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Indiana 20 second timeout
+  - - '0:52.4'
+    - K. Thomas enters the game for A. Houston
+    - ''
+    - 75-75
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 75-75
+    - ''
+    - Turnover by J. Rose (lost ball; steal by M. Jackson)
+  - - '0:14.0'
+    - L. Sprewell makes 2-pt shot from 14 ft
+    - "+2"
+    - 77-75
+    - ''
+    - ''
+  - - '0:14.0'
+    - ''
+    - ''
+    - 77-75
+    - ''
+    - Indiana full timeout
+  - - '0:04.9'
+    - ''
+    - ''
+    - 77-75
+    - ''
+    - T. Best misses 2-pt shot from 19 ft
+  - - '0:03.3'
+    - Defensive rebound by G. Rice
+    - ''
+    - 77-75
+    - ''
+    - ''
+  - - '0:03.1'
+    - Personal foul by J. Rose
+    - ''
+    - 77-75
+    - ''
+    - ''
+  - - '0:03.1'
+    - G. Rice makes free throw 1 of 2
+    - "+1"
+    - 78-75
+    - ''
+    - ''
+  - - '0:03.1'
+    - G. Rice makes free throw 2 of 2
+    - "+1"
+    - 79-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - J. Rose misses 3-pt shot from 26 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,210 @@
+---
+- name: Plus-Minus
+  data:
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - |2-
+
+      +1
+    - 150/+1
+    - 152/
+    - 197/-4
+    - 132/-5
+    - 48/
+    - 69/+10
+    - 249/0
+    - 'Jason Caffey (On: -9&#9642;Off: +16&#9642;Net: -25)'
+    - |2-
+
+      +5
+    - 206/+5
+    - 231/
+    - 62/-4
+    - 177/-10
+    - 323/
+    - 'Sam Cassell (On: +5&#9642;Off: +2&#9642;Net: +3)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 49/+1
+    - 108/
+    - 92/-8
+    - 249/0
+    - 37/-2
+    - 85/
+    - 127/+4
+    - 'Glenn Robinson (On: -7&#9642;Off: +14&#9642;Net: -21)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 73/+1
+    - 74/
+    - 102/-10
+    - 177/-10
+    - 117/
+    - 205/+2
+    - 'Scott Williams (On: -4&#9642;Off: +11&#9642;Net: -15)'
+    - |2-
+
+      +1
+    - 150/+1
+    - 173/
+    - 108/0
+    - 68/
+    - 132/-5
+    - 367/
+    - 'Lindsey Hunter (On: +17&#9642;Off: -10&#9642;Net: +27)'
+    - "\n"
+    - 157/
+    - 92/+9
+    - 151/+5
+    - 234/
+    - 113/+5
+    - 122/-4
+    - 51/
+    - 48/+2
+    - 27/
+    - 'Ervin Johnson (On: +11&#9642;Off: -4&#9642;Net: +15)'
+    - "\n"
+    - 157/
+    - 92/+9
+    - 250/-3
+    - 137/
+    - 113/+5
+    - 249/0
+    - 'Tim Thomas (On: +20&#9642;Off: -13&#9642;Net: +33)'
+    - "\n"
+    - 210/
+    - 39/+5
+    - 141/+7
+    - 289/
+    - 68/+10
+    - 169/-3
+    - 61/
+    - 19/+1
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: -3&#9642;Off: -4&#9642;Net: +1)'
+    - |2-
+
+      -5
+    - 205/-5
+    - 44/
+    - 249/+3
+    - 153/+6
+    - 66/
+    - 30/-7
+    - 178/+1
+    - 52/
+    - 18/-1
+    - 'Allen Iverson (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      -10
+    - 250/-10
+    - 96/
+    - 154/+9
+    - 250/0
+    - 249/0
+    - 'George Lynch (On: -16&#9642;Off: +9&#9642;Net: -25)'
+    - |2-
+
+      -10
+    - 245/-10
+    - 60/
+    - 48/-7
+    - 143/
+    - 112/0
+    - 46/
+    - 56/+1
+    - 156/
+    - 26/0
+    - 31/
+    - 52/0
+    - 17/
+    - 'Dikembe Mutombo (On: +7&#9642;Off: -14&#9642;Net: +21)'
+    - |2-
+
+      -10
+    - 247/-10
+    - 99/
+    - 153/+9
+    - 198/+9
+    - 95/
+    - 179/-1
+    - 26/
+    - 'Eric Snow (On: +9&#9642;Off: -16&#9642;Net: +25)'
+    - |2-
+
+      -5
+    - 205/-5
+    - 152/
+    - 140/+11
+    - 176/+10
+    - 38/
+    - 34/-7
+    - 122/+4
+    - 32/
+    - 96/-4
+    - 'Matt Geiger (On: -18&#9642;Off: +11&#9642;Net: -29)'
+    - "\n"
+    - 210/
+    - 39/-5
+    - 93/-6
+    - 354/
+    - 51/-9
+    - 37/+2
+    - 213/
+    - 'Aaron McKie (On: +3&#9642;Off: -10&#9642;Net: +13)'
+    - "\n"
+    - 210/
+    - 39/-5
+    - 249/+3
+    - 118/
+    - 97/+7
+    - 78/
+    - 206/-2
+    - 'Rodney Buford (On: -4&#9642;Off: -3&#9642;Net: -1)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 94/-6
+    - 405/
+    - 37/+2
+    - 212/
+    - 'Jumaine Jones (On: -8&#9642;Off: +1&#9642;Net: -9)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 53/-1
+    - 415/
+    - 30/-7
+    - 250/
+    - 'Kevin Ollie (On: -4&#9642;Off: -3&#9642;Net: -1)'
+    - "\n"
+    - 681/
+    - 33/-3
+    - 270/
+    - 16/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,2594 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Olowokandi vs. A. Foyle (B. Sura gains possession)'
+  - - '11:41.0'
+    - Personal foul by M. Olowokandi
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - M. Blaylock misses 2-pt shot from 12 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:30.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '11:15.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - C. Maggette makes 2-pt shot from 21 ft (assist by M. Olowokandi)
+  - - '10:47.0'
+    - Turnover by B. Sura (bad pass)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - J. McInnis misses 2-pt shot from 5 ft (block by A. Foyle)
+  - - '10:34.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Offensive rebound by Team
+  - - '10:33.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - C. Parks misses 2-pt shot from 18 ft
+  - - '10:30.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:25.0'
+    - M. Blaylock makes 3-pt shot from 24 ft (assist by B. Sura)
+    - "+3"
+    - 3-2
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 3-4
+    - "+2"
+    - C. Maggette makes 2-pt shot from 17 ft
+  - - '9:58.0'
+    - M. Blaylock misses 3-pt shot from 25 ft
+    - ''
+    - 3-4
+    - ''
+    - ''
+  - - '9:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 3-4
+    - ''
+    - ''
+  - - '9:49.0'
+    - Turnover by A. Jamison (lost ball; steal by C. Maggette)
+    - ''
+    - 3-4
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - Shooting foul by A. Foyle
+  - - '9:43.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - M. Olowokandi misses free throw 1 of 2
+  - - '9:43.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - Offensive rebound by Team
+  - - '9:43.0'
+    - ''
+    - ''
+    - 3-5
+    - "+1"
+    - M. Olowokandi makes free throw 2 of 2
+  - - '9:24.0'
+    - A. Jamison misses 2-pt shot from 13 ft
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '9:22.0'
+    - C. Porter misses 2-pt shot at rim
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '9:22.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '9:07.0'
+    - ''
+    - ''
+    - 3-7
+    - "+2"
+    - C. Parks makes 2-pt shot at rim (assist by M. Olowokandi)
+  - - '9:01.0'
+    - Golden State full timeout
+    - ''
+    - 3-7
+    - ''
+    - ''
+  - - '8:56.0'
+    - C. Porter makes 2-pt shot from 16 ft (assist by A. Foyle)
+    - "+2"
+    - 5-7
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Turnover by M. Olowokandi (bad pass; steal by A. Foyle)
+  - - '8:31.0'
+    - B. Sura makes 3-pt shot from 26 ft
+    - "+3"
+    - 8-7
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - E. Piatkowski misses 2-pt shot from 18 ft
+  - - '8:14.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:04.0'
+    - A. Jamison misses 2-pt shot from 10 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '7:46.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - C. Maggette misses 2-pt shot from 14 ft
+  - - '7:45.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '7:33.0'
+    - A. Jamison misses 2-pt shot from 15 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - Defensive rebound by C. Parks
+  - - '7:25.0'
+    - ''
+    - ''
+    - 8-9
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim (assist by J. McInnis)
+  - - '7:08.0'
+    - Personal foul by E. Piatkowski
+    - ''
+    - 8-9
+    - ''
+    - ''
+  - - '7:01.0'
+    - C. Porter makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 10-9
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 10-11
+    - "+2"
+    - C. Parks makes 2-pt shot at rim (assist by J. McInnis)
+  - - '6:28.0'
+    - Turnover by B. Sura (bad pass)
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - J. McInnis misses 3-pt shot from 27 ft
+  - - '6:09.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:03.0'
+    - C. Porter misses 2-pt shot from 5 ft (block by M. Olowokandi)
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '5:59.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '5:57.0'
+    - A. Jamison misses 2-pt shot from 19 ft
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Defensive rebound by C. Parks
+  - - '5:48.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - E. Piatkowski misses 3-pt shot from 25 ft
+  - - '5:44.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Offensive rebound by M. Olowokandi
+  - - '5:41.0'
+    - ''
+    - ''
+    - 10-13
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 15 ft (assist by J. McInnis)
+  - - '5:26.0'
+    - C. Porter misses 2-pt shot at rim
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by C. Parks
+  - - '5:19.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - J. McInnis makes 2-pt shot at rim
+  - - '5:05.0'
+    - M. Blaylock misses 2-pt shot from 12 ft
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '5:01.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '4:59.0'
+    - B. Sura misses 3-pt shot from 28 ft
+    - ''
+    - 10-15
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - Defensive rebound by C. Parks
+  - - '4:55.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - Shooting foul by C. Porter
+  - - '4:55.0'
+    - ''
+    - ''
+    - 10-15
+    - ''
+    - D. Miles enters the game for C. Parks
+  - - '4:55.0'
+    - ''
+    - ''
+    - 10-16
+    - "+1"
+    - E. Piatkowski makes free throw 1 of 2
+  - - '4:55.0'
+    - V. Cummings enters the game for M. Blaylock
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '4:55.0'
+    - E. Dampier enters the game for A. Foyle
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 10-17
+    - "+1"
+    - E. Piatkowski makes free throw 2 of 2
+  - - '4:42.0'
+    - C. Porter misses 2-pt shot from 13 ft
+    - ''
+    - 10-17
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 10-17
+    - ''
+    - Defensive rebound by D. Miles
+  - - '4:21.0'
+    - ''
+    - ''
+    - 10-17
+    - ''
+    - E. Piatkowski misses 3-pt shot from 26 ft
+  - - '4:19.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 10-17
+    - ''
+    - ''
+  - - '4:11.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 10-17
+    - ''
+    - ''
+  - - '4:11.0'
+    - B. Sura makes free throw 1 of 2
+    - "+1"
+    - 11-17
+    - ''
+    - ''
+  - - '4:11.0'
+    - B. Sura makes free throw 2 of 2
+    - "+1"
+    - 12-17
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 12-20
+    - "+3"
+    - C. Maggette makes 3-pt shot from 24 ft (assist by E. Piatkowski)
+  - - '3:41.0'
+    - V. Cummings misses 2-pt shot from 14 ft
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '3:36.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - E. Piatkowski misses 3-pt shot from 25 ft
+  - - '3:35.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - Offensive rebound by M. Olowokandi
+  - - '3:32.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - E. Piatkowski misses 2-pt shot from 6 ft
+  - - '3:29.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - C. Maggette misses 2-pt shot at rim
+  - - '3:29.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - Offensive rebound by C. Maggette
+  - - '3:27.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '3:24.0'
+    - C. Porter misses 2-pt shot at rim (block by M. Olowokandi)
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '3:23.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '3:22.0'
+    - A. Jamison misses 2-pt shot at rim
+    - ''
+    - 12-20
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '3:04.0'
+    - ''
+    - ''
+    - 12-22
+    - "+2"
+    - D. Miles makes 2-pt shot from 16 ft
+  - - '2:57.0'
+    - Golden State 20 second timeout
+    - ''
+    - 12-22
+    - ''
+    - ''
+  - - '2:57.0'
+    - Golden State full timeout
+    - ''
+    - 12-22
+    - ''
+    - ''
+  - - '2:46.0'
+    - Turnover by E. Dampier (lost ball; steal by M. Olowokandi)
+    - ''
+    - 12-22
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 12-24
+    - "+2"
+    - M. Olowokandi makes 2-pt shot from 7 ft
+  - - '2:07.0'
+    - A. Jamison makes 2-pt shot from 10 ft (assist by E. Dampier)
+    - "+2"
+    - 14-24
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 14-24
+    - ''
+    - Personal foul by E. Dampier
+  - - '2:01.0'
+    - M. Blaylock enters the game for V. Cummings
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '2:01.0'
+    - A. Keefe enters the game for C. Porter
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 14-24
+    - ''
+    - D. Miles misses 2-pt shot from 18 ft
+  - - '1:49.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '1:36.0'
+    - A. Keefe makes 2-pt shot from 16 ft (assist by M. Blaylock)
+    - "+2"
+    - 16-24
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 16-26
+    - "+2"
+    - J. McInnis makes 2-pt shot from 5 ft (assist by C. Maggette)
+  - - '1:04.0'
+    - A. Jamison makes 2-pt shot from 6 ft (assist by B. Sura)
+    - "+2"
+    - 18-26
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 18-26
+    - ''
+    - Turnover by M. Olowokandi (lost ball; steal by M. Blaylock)
+  - - '0:40.6'
+    - A. Jamison misses 2-pt shot at rim (block by D. Miles)
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '0:36.3'
+    - ''
+    - ''
+    - 18-26
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '0:33.1'
+    - ''
+    - ''
+    - 18-29
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 27 ft (assist by J. McInnis)
+  - - '0:20.6'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '0:12.4'
+    - A. Keefe misses 2-pt shot from 7 ft
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:08.0'
+    - E. Dampier misses 2-pt shot at rim
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:08.0'
+    - Offensive rebound by E. Dampier
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:05.8'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '0:01.4'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - Turnover by J. McInnis (lost ball; steal by M. Blaylock)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - S. Rooks misses 2-pt shot from 17 ft
+  - - '11:42.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - Violation by Team (illegal defense)
+  - - '11:14.0'
+    - E. Dampier misses 2-pt shot from 11 ft
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 18-29
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '11:06.0'
+    - ''
+    - ''
+    - 18-32
+    - "+3"
+    - C. Maggette makes 3-pt shot from 27 ft (assist by J. McInnis)
+  - - '10:49.0'
+    - M. Blaylock makes 2-pt shot from 16 ft (assist by A. Keefe)
+    - "+2"
+    - 20-32
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 20-32
+    - ''
+    - J. McInnis misses 2-pt shot from 18 ft
+  - - '10:35.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:30.0'
+    - Personal foul by E. Piatkowski
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 20-32
+    - ''
+    - K. Dooling enters the game for E. Piatkowski
+  - - '10:20.0'
+    - Turnover by M. Blaylock (lost ball; steal by D. Miles)
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 20-32
+    - ''
+    - Turnover by D. Miles (lost ball; steal by M. Blaylock)
+  - - '10:10.0'
+    - Shooting foul by C. Maggette
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:10.0'
+    - E. Dampier makes free throw 1 of 2
+    - "+1"
+    - 21-32
+    - ''
+    - ''
+  - - '10:10.0'
+    - A. Foyle enters the game for A. Jamison
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '10:10.0'
+    - E. Dampier misses free throw 2 of 2
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '9:47.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - K. Dooling misses 2-pt shot from 19 ft
+  - - '9:43.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '9:33.0'
+    - A. Foyle makes 2-pt shot from 5 ft (assist by M. Blaylock)
+    - "+2"
+    - 23-32
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 23-32
+    - ''
+    - Shooting foul by B. Sura
+  - - '9:18.0'
+    - ''
+    - ''
+    - 23-33
+    - "+1"
+    - C. Maggette makes free throw 1 of 2
+  - - '9:18.0'
+    - ''
+    - ''
+    - 23-34
+    - "+1"
+    - C. Maggette makes free throw 2 of 2
+  - - '9:05.0'
+    - Shooting foul by S. Rooks
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '9:05.0'
+    - E. Dampier misses free throw 1 of 2
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '9:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '9:05.0'
+    - C. Porter enters the game for B. Sura
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '9:05.0'
+    - E. Dampier misses free throw 2 of 2
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '9:04.0'
+    - Offensive rebound by A. Keefe
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '8:56.0'
+    - Personal foul by D. Miles
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '8:56.0'
+    - Official timeout
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '8:39.0'
+    - M. Blaylock misses 2-pt shot from 21 ft
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 23-34
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '8:35.0'
+    - ''
+    - ''
+    - 23-36
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by J. McInnis)
+  - - '8:35.0'
+    - ''
+    - ''
+    - 23-36
+    - ''
+    - Shooting foul by C. Porter
+  - - '8:35.0'
+    - ''
+    - ''
+    - 23-37
+    - "+1"
+    - D. Miles makes free throw 1 of 1
+  - - '8:16.0'
+    - A. Foyle makes 2-pt shot from 9 ft (assist by C. Porter)
+    - "+2"
+    - 25-37
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 25-37
+    - ''
+    - Personal foul by C. Porter
+  - - '7:58.0'
+    - B. Sura enters the game for C. Porter
+    - ''
+    - 25-37
+    - ''
+    - ''
+  - - '7:58.0'
+    - V. Cummings enters the game for M. Blaylock
+    - ''
+    - 25-37
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 25-39
+    - "+2"
+    - D. Miles makes 2-pt shot from 11 ft (assist by J. McInnis)
+  - - '7:38.0'
+    - A. Foyle misses 2-pt shot at rim
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 25-39
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '7:19.0'
+    - ''
+    - ''
+    - 25-41
+    - "+2"
+    - K. Dooling makes 2-pt shot at rim
+  - - '7:07.0'
+    - Ill def tech foul by Team
+    - ''
+    - 25-41
+    - ''
+    - ''
+  - - '7:07.0'
+    - B. Sura makes free throw technical
+    - "+1"
+    - 26-41
+    - ''
+    - ''
+  - - '7:07.0'
+    - A. Jamison enters the game for E. Dampier
+    - ''
+    - 26-41
+    - ''
+    - ''
+  - - '7:00.0'
+    - B. Sura misses 2-pt shot at rim
+    - ''
+    - 26-41
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 26-41
+    - ''
+    - Defensive rebound by D. Miles
+  - - '6:56.0'
+    - Technical foul by B. Sura
+    - ''
+    - 26-41
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 26-42
+    - "+1"
+    - J. McInnis makes free throw technical
+  - - '6:48.0'
+    - ''
+    - ''
+    - 26-44
+    - "+2"
+    - K. Dooling makes 2-pt shot from 17 ft (assist by D. Miles)
+  - - '6:33.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 26-44
+    - ''
+    - ''
+  - - '6:33.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 27-44
+    - ''
+    - ''
+  - - '6:33.0'
+    - A. Jamison misses free throw 2 of 2
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 27-44
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '6:12.0'
+    - ''
+    - ''
+    - 27-47
+    - "+3"
+    - J. McInnis makes 3-pt shot from 28 ft (assist by C. Maggette)
+  - - '5:55.0'
+    - Offensive foul by A. Foyle
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '5:55.0'
+    - Turnover by A. Foyle (foul)
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 27-47
+    - ''
+    - LA Clippers full timeout
+  - - '5:55.0'
+    - ''
+    - ''
+    - 27-47
+    - ''
+    - M. Olowokandi enters the game for S. Rooks
+  - - '5:55.0'
+    - C. Blount enters the game for A. Keefe
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 27-47
+    - ''
+    - M. Olowokandi misses 2-pt shot from 11 ft
+  - - '5:36.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '5:21.0'
+    - Turnover by A. Jamison (lost ball; steal by J. McInnis)
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 27-49
+    - "+2"
+    - K. Dooling makes 2-pt shot at rim
+  - - '4:57.0'
+    - Turnover by V. Cummings (lost ball; steal by D. Miles)
+    - ''
+    - 27-49
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 27-51
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '4:55.0'
+    - ''
+    - ''
+    - 27-51
+    - ''
+    - Shooting foul by C. Blount
+  - - '4:55.0'
+    - ''
+    - ''
+    - 27-51
+    - ''
+    - D. Miles misses free throw 1 of 1
+  - - '4:54.0'
+    - ''
+    - ''
+    - 27-51
+    - ''
+    - Offensive rebound by M. Olowokandi
+  - - '4:35.0'
+    - ''
+    - ''
+    - 27-51
+    - ''
+    - Turnover by M. Olowokandi (bad pass)
+  - - '4:21.0'
+    - B. Sura misses 2-pt shot from 8 ft (block by M. Olowokandi)
+    - ''
+    - 27-51
+    - ''
+    - ''
+  - - '4:19.0'
+    - Offensive rebound by B. Sura
+    - ''
+    - 27-51
+    - ''
+    - ''
+  - - '4:18.0'
+    - B. Sura misses 2-pt shot at rim
+    - ''
+    - 27-51
+    - ''
+    - ''
+  - - '4:17.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 27-51
+    - ''
+    - ''
+  - - '4:16.0'
+    - A. Foyle makes 2-pt shot from 6 ft
+    - "+2"
+    - 29-51
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 29-51
+    - ''
+    - C. Maggette misses 2-pt shot from 13 ft
+  - - '3:51.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 29-51
+    - ''
+    - ''
+  - - '3:42.0'
+    - Turnover by V. Cummings (bad pass; steal by K. Dooling)
+    - ''
+    - 29-51
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 29-51
+    - ''
+    - Clear path foul by A. Jamison
+  - - '3:41.0'
+    - ''
+    - ''
+    - 29-52
+    - "+1"
+    - K. Dooling makes free throw flagrant 1 of 2
+  - - '3:29.0'
+    - ''
+    - ''
+    - 29-52
+    - ''
+    - M. Olowokandi misses 2-pt shot from 7 ft
+  - - '3:27.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '3:05.0'
+    - A. Jamison misses 2-pt shot from 15 ft
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '3:03.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '3:00.0'
+    - A. Jamison makes 2-pt shot at rim (assist by A. Foyle)
+    - "+2"
+    - 31-52
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 31-52
+    - ''
+    - J. McInnis misses 2-pt shot from 5 ft (block by V. Cummings)
+  - - '2:35.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 31-52
+    - ''
+    - ''
+  - - '2:32.0'
+    - B. Sura makes 2-pt shot at rim (assist by C. Blount)
+    - "+2"
+    - 33-52
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 33-52
+    - ''
+    - LA Clippers full timeout
+  - - '2:22.0'
+    - ''
+    - ''
+    - 33-52
+    - ''
+    - E. Piatkowski enters the game for C. Maggette
+  - - '2:06.0'
+    - ''
+    - ''
+    - 33-52
+    - ''
+    - E. Piatkowski misses 2-pt shot from 19 ft
+  - - '2:04.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 33-52
+    - ''
+    - ''
+  - - '1:50.0'
+    - C. Blount makes 2-pt shot from 10 ft (assist by V. Cummings)
+    - "+2"
+    - 35-52
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 35-52
+    - ''
+    - Turnover by E. Piatkowski (bad pass)
+  - - '1:11.0'
+    - A. Foyle misses 2-pt shot from 9 ft
+    - ''
+    - 35-52
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 35-52
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '0:52.9'
+    - ''
+    - ''
+    - 35-55
+    - "+3"
+    - J. McInnis makes 3-pt shot from 26 ft (assist by K. Dooling)
+  - - '0:39.4'
+    - Shooting foul by E. Piatkowski
+    - ''
+    - 35-55
+    - ''
+    - ''
+  - - '0:39.4'
+    - ''
+    - ''
+    - 35-55
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '0:39.4'
+    - ''
+    - ''
+    - 35-55
+    - ''
+    - C. Maggette enters the game for E. Piatkowski
+  - - '0:39.4'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 36-55
+    - ''
+    - ''
+  - - '0:39.4'
+    - A. Jamison misses free throw 2 of 2
+    - ''
+    - 36-55
+    - ''
+    - ''
+  - - '0:37.7'
+    - ''
+    - ''
+    - 36-55
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '0:35.6'
+    - ''
+    - ''
+    - 36-55
+    - ''
+    - Personal foul by V. Cummings
+  - - '0:35.6'
+    - ''
+    - ''
+    - 36-56
+    - "+1"
+    - C. Maggette makes free throw 1 of 2
+  - - '0:35.6'
+    - ''
+    - ''
+    - 36-57
+    - "+1"
+    - C. Maggette makes free throw 2 of 2
+  - - '0:25.6'
+    - V. Cummings misses 2-pt shot from 10 ft
+    - ''
+    - 36-57
+    - ''
+    - ''
+  - - '0:23.4'
+    - Offensive rebound by Team
+    - ''
+    - 36-57
+    - ''
+    - ''
+  - - '0:03.7'
+    - A. Foyle makes 2-pt shot at rim (assist by V. Cummings)
+    - "+2"
+    - 38-57
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 38-57
+    - ''
+    - Personal foul by B. Sura
+  - - '0:01.4'
+    - ''
+    - ''
+    - 38-57
+    - ''
+    - J. McInnis misses free throw 1 of 2
+  - - '0:01.4'
+    - ''
+    - ''
+    - 38-57
+    - ''
+    - Offensive rebound by Team
+  - - '0:01.4'
+    - ''
+    - ''
+    - 38-58
+    - "+1"
+    - J. McInnis makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 38-60
+    - "+2"
+    - C. Parks makes 2-pt shot from 15 ft (assist by M. Olowokandi)
+  - - '11:21.0'
+    - A. Foyle misses 2-pt shot from 7 ft
+    - ''
+    - 38-60
+    - ''
+    - ''
+  - - '11:19.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 38-60
+    - ''
+    - ''
+  - - '11:18.0'
+    - A. Jamison misses 2-pt shot at rim
+    - ''
+    - 38-60
+    - ''
+    - ''
+  - - '11:14.0'
+    - A. Foyle makes 2-pt shot from 3 ft
+    - "+2"
+    - 40-60
+    - ''
+    - ''
+  - - '11:14.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 40-60
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 40-62
+    - "+2"
+    - J. McInnis makes 2-pt shot from 16 ft (assist by M. Olowokandi)
+  - - '10:36.0'
+    - M. Blaylock misses 3-pt shot from 26 ft
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '10:19.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - Personal foul by A. Jamison
+  - - '10:06.0'
+    - 'Jump ball: J. McInnis vs. M. Blaylock (M. Olowokandi gains possession)'
+  - - '9:53.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - J. McInnis misses 2-pt shot from 7 ft
+  - - '9:52.0'
+    - Defensive rebound by Team
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:52.0'
+    - Loose ball foul by C. Parks
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:31.0'
+    - A. Jamison misses 2-pt shot from 16 ft
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '9:12.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - C. Parks misses 2-pt shot from 7 ft
+  - - '9:09.0'
+    - Defensive rebound by M. Blaylock
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:03.0'
+    - C. Porter misses 2-pt shot from 12 ft
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:01.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:01.0'
+    - Shooting foul by C. Maggette
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:01.0'
+    - A. Jamison misses free throw 1 of 2
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '9:01.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 41-62
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 41-62
+    - ''
+    - M. Olowokandi misses 2-pt shot from 7 ft (block by A. Foyle)
+  - - '8:39.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 41-62
+    - ''
+    - ''
+  - - '8:34.0'
+    - A. Jamison makes 2-pt shot from 19 ft (assist by B. Sura)
+    - "+2"
+    - 43-62
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 43-62
+    - ''
+    - Offensive foul by C. Maggette
+  - - '8:17.0'
+    - ''
+    - ''
+    - 43-62
+    - ''
+    - Turnover by C. Maggette (foul)
+  - - '8:01.0'
+    - Shooting foul by C. Parks
+    - ''
+    - 43-62
+    - ''
+    - ''
+  - - '8:01.0'
+    - C. Porter makes free throw 1 of 2
+    - "+1"
+    - 44-62
+    - ''
+    - ''
+  - - '8:01.0'
+    - C. Porter misses free throw 2 of 2
+    - ''
+    - 44-62
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 44-62
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '7:44.0'
+    - ''
+    - ''
+    - 44-64
+    - "+2"
+    - C. Parks makes 2-pt shot from 6 ft (assist by J. McInnis)
+  - - '7:26.0'
+    - C. Porter makes 2-pt shot from 16 ft (assist by B. Sura)
+    - "+2"
+    - 46-64
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 46-66
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 11 ft (assist by J. McInnis)
+  - - '6:56.0'
+    - A. Jamison makes 2-pt shot from 5 ft
+    - "+2"
+    - 48-66
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 48-66
+    - ''
+    - J. McInnis misses 2-pt shot from 9 ft
+  - - '6:32.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 48-66
+    - ''
+    - ''
+  - - '6:25.0'
+    - C. Porter misses 2-pt shot from 8 ft (block by E. Piatkowski)
+    - ''
+    - 48-66
+    - ''
+    - ''
+  - - '6:22.0'
+    - Offensive rebound by M. Blaylock
+    - ''
+    - 48-66
+    - ''
+    - ''
+  - - '6:20.0'
+    - A. Jamison misses 2-pt shot from 6 ft
+    - ''
+    - 48-66
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 48-66
+    - ''
+    - Defensive rebound by C. Parks
+  - - '6:15.0'
+    - ''
+    - ''
+    - 48-68
+    - "+2"
+    - J. McInnis makes 2-pt shot at rim
+  - - '6:02.0'
+    - A. Jamison misses 2-pt shot from 10 ft
+    - ''
+    - 48-68
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '5:47.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - C. Parks misses 2-pt shot from 8 ft (block by A. Foyle)
+  - - '5:43.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 48-68
+    - ''
+    - ''
+  - - '5:37.0'
+    - C. Porter misses 2-pt shot from 15 ft
+    - ''
+    - 48-68
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '5:27.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - LA Clippers full timeout
+  - - '5:27.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - D. Miles enters the game for C. Parks
+  - - '5:27.0'
+    - V. Cummings enters the game for M. Blaylock
+    - ''
+    - 48-68
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 48-68
+    - ''
+    - Turnover by M. Olowokandi (discontinued dribble)
+  - - '5:01.0'
+    - C. Porter makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 50-68
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 50-68
+    - ''
+    - C. Maggette misses 2-pt shot from 18 ft
+  - - '4:44.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:27.0'
+    - Personal foul by D. Miles
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:20.0'
+    - A. Jamison misses 2-pt shot from 5 ft
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:16.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:14.0'
+    - A. Jamison misses 2-pt shot at rim
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:13.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:02.0'
+    - C. Porter misses 2-pt shot from 4 ft
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '4:00.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '3:59.0'
+    - A. Foyle misses 2-pt shot at rim
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 50-68
+    - ''
+    - Defensive rebound by D. Miles
+  - - '3:44.0'
+    - ''
+    - ''
+    - 50-68
+    - ''
+    - D. Miles misses 2-pt shot from 4 ft
+  - - '3:44.0'
+    - Defensive rebound by Team
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '3:30.0'
+    - B. Sura misses 3-pt shot from 26 ft
+    - ''
+    - 50-68
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 50-68
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '3:17.0'
+    - ''
+    - ''
+    - 50-71
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 28 ft (assist by J. McInnis)
+  - - '2:59.0'
+    - A. Jamison makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 52-71
+    - ''
+    - ''
+  - - '2:59.0'
+    - Shooting foul by C. Maggette
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:59.0'
+    - Golden State full timeout
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '2:59.0'
+    - A. Jamison makes free throw 1 of 1
+    - "+1"
+    - 53-71
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 53-73
+    - "+2"
+    - C. Maggette makes 2-pt shot from 9 ft
+  - - '2:16.0'
+    - B. Sura misses 2-pt shot at rim
+    - ''
+    - 53-73
+    - ''
+    - ''
+  - - '2:11.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '2:09.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - E. Piatkowski misses 2-pt shot at rim
+  - - '2:06.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 53-73
+    - ''
+    - ''
+  - - '2:01.0'
+    - A. Foyle misses 2-pt shot at rim (block by M. Olowokandi)
+    - ''
+    - 53-73
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '1:52.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - Shooting foul by A. Foyle
+  - - '1:52.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - K. Dooling enters the game for C. Maggette
+  - - '1:52.0'
+    - ''
+    - ''
+    - 53-74
+    - "+1"
+    - D. Miles makes free throw 1 of 2
+  - - '1:52.0'
+    - ''
+    - ''
+    - 53-75
+    - "+1"
+    - D. Miles makes free throw 2 of 2
+  - - '1:34.0'
+    - A. Foyle makes 2-pt shot from 6 ft
+    - "+2"
+    - 55-75
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Turnover by D. Miles (traveling)
+  - - '1:05.0'
+    - A. Foyle misses 2-pt shot from 4 ft (block by D. Miles)
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '1:01.0'
+    - ''
+    - ''
+    - 55-75
+    - ''
+    - Shooting foul by V. Cummings
+  - - '1:01.0'
+    - ''
+    - ''
+    - 55-76
+    - "+1"
+    - K. Dooling makes free throw 1 of 2
+  - - '1:01.0'
+    - ''
+    - ''
+    - 55-76
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '1:01.0'
+    - ''
+    - ''
+    - 55-76
+    - ''
+    - LA Clippers full timeout
+  - - '1:01.0'
+    - ''
+    - ''
+    - 55-77
+    - "+1"
+    - K. Dooling makes free throw 2 of 2
+  - - '0:43.5'
+    - A. Jamison makes 2-pt shot from 16 ft (assist by B. Sura)
+    - "+2"
+    - 57-77
+    - ''
+    - ''
+  - - '0:23.7'
+    - ''
+    - ''
+    - 57-77
+    - ''
+    - E. Piatkowski misses 2-pt shot from 16 ft
+  - - '0:18.1'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 57-77
+    - ''
+    - ''
+  - - '0:03.1'
+    - V. Cummings misses 3-pt shot from 26 ft
+    - ''
+    - 57-77
+    - ''
+    - ''
+  - - '0:00.1'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 57-77
+    - ''
+    - ''
+  - - '0:00.1'
+    - A. Foyle makes 2-pt shot at rim
+    - "+2"
+    - 59-77
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:40.0'
+    - A. Keefe misses 2-pt shot from 14 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '11:21.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - S. Rooks misses 2-pt shot from 15 ft
+  - - '11:19.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '11:10.0'
+    - A. Jamison misses 2-pt shot from 18 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '11:08.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '11:04.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '10:59.0'
+    - V. Cummings misses 2-pt shot from 12 ft
+    - ''
+    - 59-77
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 59-77
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '10:34.0'
+    - ''
+    - ''
+    - 59-80
+    - "+3"
+    - J. McInnis makes 3-pt shot from 26 ft (assist by S. Rooks)
+  - - '10:15.0'
+    - A. Keefe misses 2-pt shot from 22 ft
+    - ''
+    - 59-80
+    - ''
+    - ''
+  - - '10:12.0'
+    - Offensive rebound by E. Dampier
+    - ''
+    - 59-80
+    - ''
+    - ''
+  - - '10:09.0'
+    - Turnover by A. Keefe (lost ball; steal by K. Dooling)
+    - ''
+    - 59-80
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 59-80
+    - ''
+    - Turnover by K. Dooling (lost ball; steal by A. Jamison)
+  - - '9:41.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 61-80
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 61-82
+    - "+2"
+    - J. McInnis makes 2-pt shot from 1 ft
+  - - '9:13.0'
+    - V. Cummings misses 2-pt shot from 12 ft
+    - ''
+    - 61-82
+    - ''
+    - ''
+  - - '9:12.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 61-82
+    - ''
+    - ''
+  - - '9:10.0'
+    - A. Jamison makes 2-pt shot from 4 ft
+    - "+2"
+    - 63-82
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 63-84
+    - "+2"
+    - K. Dooling makes 2-pt shot from 21 ft
+  - - '8:41.0'
+    - Official timeout
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - C. Maggette enters the game for J. McInnis
+  - - '8:28.0'
+    - E. Dampier misses 2-pt shot from 10 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '8:13.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - S. Rooks misses 2-pt shot from 16 ft
+  - - '8:10.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '8:05.0'
+    - V. Cummings misses 2-pt shot from 18 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '8:03.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '8:02.0'
+    - A. Jamison misses 2-pt shot from 6 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Defensive rebound by K. Dooling
+  - - '7:56.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Turnover by K. Dooling (discontinued dribble)
+  - - '7:46.0'
+    - A. Jamison misses 2-pt shot from 16 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '7:28.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - S. Rooks misses 2-pt shot at rim
+  - - '7:26.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '7:23.0'
+    - A. Jamison misses 2-pt shot from 19 ft
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '7:14.0'
+    - ''
+    - ''
+    - 63-84
+    - ''
+    - Shooting foul by V. Cummings
+  - - '7:14.0'
+    - C. Blount enters the game for A. Jamison
+    - ''
+    - 63-84
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 63-85
+    - "+1"
+    - E. Piatkowski makes free throw 1 of 2
+  - - '7:14.0'
+    - ''
+    - ''
+    - 63-86
+    - "+1"
+    - E. Piatkowski makes free throw 2 of 2
+  - - '6:57.0'
+    - Shooting foul by S. Rooks
+    - ''
+    - 63-86
+    - ''
+    - ''
+  - - '6:57.0'
+    - B. Sura misses free throw 1 of 2
+    - ''
+    - 63-86
+    - ''
+    - ''
+  - - '6:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-86
+    - ''
+    - ''
+  - - '6:57.0'
+    - B. Sura makes free throw 2 of 2
+    - "+1"
+    - 64-86
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Turnover by K. Dooling (bad pass; steal by C. Blount)
+  - - '6:36.0'
+    - Turnover by B. Sura (lost ball)
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '6:36.0'
+    - C. Porter enters the game for B. Sura
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '6:36.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Shooting foul by C. Blount
+  - - '6:26.0'
+    - ''
+    - ''
+    - 64-87
+    - "+1"
+    - K. Dooling makes free throw 1 of 2
+  - - '6:26.0'
+    - ''
+    - ''
+    - 64-88
+    - "+1"
+    - K. Dooling makes free throw 2 of 2
+  - - '6:04.0'
+    - E. Dampier misses 2-pt shot from 6 ft (block by S. Rooks)
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '6:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '6:01.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - B. Skinner enters the game for S. Rooks
+  - - '5:45.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Offensive foul by C. Maggette
+  - - '5:45.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Turnover by C. Maggette (foul)
+  - - '5:45.0'
+    - Golden State full timeout
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '5:30.0'
+    - C. Blount misses 2-pt shot from 8 ft
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '5:29.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '5:27.0'
+    - C. Blount misses 2-pt shot from 7 ft (block by D. Miles)
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '5:20.0'
+    - ''
+    - ''
+    - 64-90
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by K. Dooling)
+  - - '5:07.0'
+    - A. Keefe makes 2-pt shot at rim (assist by C. Blount)
+    - "+2"
+    - 66-90
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 66-90
+    - ''
+    - K. Dooling misses 2-pt shot from 17 ft
+  - - '4:36.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 66-90
+    - ''
+    - ''
+  - - '4:24.0'
+    - C. Blount misses 2-pt shot from 10 ft (block by C. Maggette)
+    - ''
+    - 66-90
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 66-90
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '4:20.0'
+    - ''
+    - ''
+    - 66-90
+    - ''
+    - Turnover by D. Miles (lost ball)
+  - - '4:20.0'
+    - ''
+    - ''
+    - 66-90
+    - ''
+    - J. McInnis enters the game for E. Piatkowski
+  - - '4:13.0'
+    - C. Blount makes 2-pt shot from 14 ft (assist by V. Cummings)
+    - "+2"
+    - 68-90
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Offensive foul by B. Skinner
+  - - '3:56.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Turnover by B. Skinner (foul)
+  - - '3:56.0'
+    - ''
+    - ''
+    - 68-90
+    - ''
+    - Violation by Team (delay of game)
+  - - '3:41.0'
+    - C. Blount makes 2-pt shot at rim (assist by A. Keefe)
+    - "+2"
+    - 70-90
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 70-90
+    - ''
+    - D. Miles misses 2-pt shot from 9 ft
+  - - '3:21.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 70-90
+    - ''
+    - ''
+  - - '3:18.0'
+    - C. Porter misses 2-pt shot at rim (block by D. Miles)
+    - ''
+    - 70-90
+    - ''
+    - ''
+  - - '3:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 70-90
+    - ''
+    - ''
+  - - '3:09.0'
+    - C. Porter misses 2-pt shot from 13 ft
+    - ''
+    - 70-90
+    - ''
+    - ''
+  - - '3:07.0'
+    - C. Blount makes 2-pt shot at rim
+    - "+2"
+    - 72-90
+    - ''
+    - ''
+  - - '3:07.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 72-90
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 72-92
+    - "+2"
+    - B. Skinner makes 2-pt shot from 6 ft (assist by J. McInnis)
+  - - '2:31.0'
+    - E. Dampier misses 2-pt shot from 12 ft
+    - ''
+    - 72-92
+    - ''
+    - ''
+  - - '2:28.0'
+    - Offensive rebound by A. Keefe
+    - ''
+    - 72-92
+    - ''
+    - ''
+  - - '2:26.0'
+    - A. Keefe makes 2-pt shot at rim
+    - "+2"
+    - 74-92
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - Offensive foul by K. Dooling
+  - - '2:19.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - Turnover by K. Dooling (foul)
+  - - '2:19.0'
+    - Golden State full timeout
+    - ''
+    - 74-92
+    - ''
+    - ''
+  - - '1:57.0'
+    - C. Blount misses 2-pt shot from 15 ft
+    - ''
+    - 74-92
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '1:44.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - C. Maggette misses 2-pt shot at rim (block by C. Blount)
+  - - '1:41.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 74-92
+    - ''
+    - ''
+  - - '1:35.0'
+    - C. Porter misses 2-pt shot from 4 ft (block by C. Maggette)
+    - ''
+    - 74-92
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '1:17.0'
+    - ''
+    - ''
+    - 74-92
+    - ''
+    - B. Skinner misses 2-pt shot from 17 ft
+  - - '1:15.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 74-92
+    - ''
+    - ''
+  - - '1:10.0'
+    - C. Porter makes 2-pt shot at rim
+    - "+2"
+    - 76-92
+    - ''
+    - ''
+  - - '0:48.6'
+    - ''
+    - ''
+    - 76-94
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim
+  - - '0:38.6'
+    - V. Cummings misses 3-pt shot from 28 ft
+    - ''
+    - 76-94
+    - ''
+    - ''
+  - - '0:34.2'
+    - ''
+    - ''
+    - 76-94
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '0:15.8'
+    - ''
+    - ''
+    - 76-94
+    - ''
+    - J. McInnis misses 3-pt shot from 26 ft
+  - - '0:14.5'
+    - Defensive rebound by Team
+    - ''
+    - 76-94
+    - ''
+    - ''
+  - - '0:02.2'
+    - C. Blount misses 3-pt shot from 27 ft
+    - ''
+    - 76-94
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 76-94
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '0:00.0'
+    - End of 4th quarter

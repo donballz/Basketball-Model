@@ -1,0 +1,226 @@
+---
+- name: Plus-Minus
+  data:
+  - - Boston Celtics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kenny Anderson (On: +1&#9642;Off: -2&#9642;Net: +3)'
+    - |2-
+
+      +2
+    - 136/+2
+    - 111/
+    - 1/+2
+    - 129/+2
+    - 119/
+    - 142/-6
+    - 107/
+    - 161/+3
+    - 63/
+    - 19/-2
+    - 5/
+    - 'Mark Blount (On: +8&#9642;Off: -9&#9642;Net: +17)'
+    - |2-
+
+      +2
+    - 136/+2
+    - 158/
+    - 84/+2
+    - 75/
+    - 45/+5
+    - 107/-3
+    - 111/
+    - 30/+1
+    - 51/+1
+    - 197/
+    - 'Paul Pierce (On: -5&#9642;Off: +4&#9642;Net: -9)'
+    - |2-
+
+      +2
+    - 136/+2
+    - 18/
+    - 94/+1
+    - 127/+2
+    - 121/
+    - 163/-7
+    - 31/
+    - 45/0
+    - 8/
+    - 181/+3
+    - 23/
+    - 21/-6
+    - 23/
+    - 'Bryant Stith (On: -4&#9642;Off: +3&#9642;Net: -7)'
+    - |2-
+
+      -2
+    - 149/-2
+    - 30/
+    - 69/+1
+    - 62/
+    - 186/+8
+    - 126/-6
+    - 41/
+    - 81/+5
+    - 63/0
+    - 70/
+    - 116/-10
+    - 'Antoine Walker (On: -2&#9642;Off: +1&#9642;Net: -3)'
+    - |2-
+
+      -2
+    - 176/-2
+    - 72/
+    - 1/+2
+    - 0/
+    - 201/+4
+    - 48/
+    - 191/-2
+    - 58/
+    - 248/-7
+    - 'Milt Palacio (On: -5&#9642;Off: +4&#9642;Net: -9)'
+    - "\n"
+    - 141/
+    - 53/-8
+    - 183/
+    - 119/+7
+    - 146/
+    - 103/+4
+    - 166/
+    - 53/-8
+    - 25/
+    - 5/0
+    - 'Vitaly Potapenko (On: -9&#9642;Off: +8&#9642;Net: -17)'
+    - "\n"
+    - 141/
+    - 108/-3
+    - 41/0
+    - 92/
+    - 113/+4
+    - 111/
+    - 105/0
+    - 100/
+    - 181/-10
+    - 2/
+    - 'Eric Williams (On: +5&#9642;Off: -6&#9642;Net: +11)'
+    - "\n"
+    - 140/
+    - 100/-5
+    - 7/
+    - 59/+1
+    - 74/
+    - 114/+7
+    - 131/
+    - 116/+4
+    - 53/
+    - 73/+2
+    - 60/
+    - 13/-4
+    - 33/
+    - 17/0
+    - 'Randy Brown (On: +3&#9642;Off: -4&#9642;Net: +7)'
+    - "\n"
+    - 199/
+    - 44/+3
+    - 758/
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +6&#9642;Off: -5&#9642;Net: +11)'
+    - |2-
+
+      +6
+    - 195/+6
+    - 54/
+    - 250/-9
+    - 192/+2
+    - 58/
+    - 249/+7
+    - 'Mike Bibby (On: +6&#9642;Off: -5&#9642;Net: +11)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 101/
+    - 149/-4
+    - 250/+2
+    - 249/+7
+    - 'Michael Dickerson (On: +2&#9642;Off: -1&#9642;Net: +3)'
+    - |2-
+
+      -2
+    - 137/-2
+    - 158/
+    - 202/-6
+    - 2/
+    - 191/+2
+    - 111/
+    - 196/+8
+    - 'Grant Long (On: +8&#9642;Off: -7&#9642;Net: +15)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 194/
+    - 56/-5
+    - 250/+2
+    - 167/
+    - 81/+10
+    - 'Bryant Reeves (On: +11&#9642;Off: -10&#9642;Net: +21)'
+    - |2-
+
+      +3
+    - 234/+3
+    - 117/
+    - 149/-4
+    - 238/+2
+    - 145/
+    - 115/+10
+    - 'Erick Strickland (On: -3&#9642;Off: +4&#9642;Net: -7)'
+    - "\n"
+    - 141/
+    - 108/+3
+    - 42/0
+    - 404/
+    - 53/0
+    - 162/-3
+    - 87/
+    - 'Stromile Swift (On: -10&#9642;Off: +11&#9642;Net: -21)'
+    - "\n"
+    - 198/
+    - 51/-5
+    - 189/-4
+    - 257/
+    - 53/0
+    - 51/-1
+    - 198/
+    - 'Tony Massenburg (On: -10&#9642;Off: +11&#9642;Net: -21)'
+    - "\n"
+    - 235/
+    - 14/-2
+    - 97/-5
+    - 402/
+    - 126/-3
+    - 124/
+    - 'Mahmoud Abdul-Rauf (On: -5&#9642;Off: +6&#9642;Net: -11)'
+    - "\n"
+    - 250/
+    - 97/-5
+    - 654/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

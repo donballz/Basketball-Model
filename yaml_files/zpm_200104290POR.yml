@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +16&#9642;Off: -3&#9642;Net: +19)'
+    - |2-
+
+      -2
+    - 180/-2
+    - 69/
+    - 235/+8
+    - 14/
+    - 249/0
+    - 221/+8
+    - 29/
+    - 'Derek Fisher (On: +12&#9642;Off: +1&#9642;Net: +11)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 132/
+    - 24/+5
+    - 42/
+    - 52/+4
+    - 249/0
+    - 249/+6
+    - 'Rick Fox (On: +6&#9642;Off: +7&#9642;Net: -1)'
+    - |2-
+
+      -3
+    - 139/-3
+    - 110/
+    - 248/+8
+    - 1/
+    - 181/-1
+    - 201/
+    - 88/+2
+    - 28/
+    - 'Horace Grant (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 250/
+    - 250/0
+    - 250/
+    - 'Shaquille O''Neal (On: +16&#9642;Off: -3&#9642;Net: +19)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 248/+10
+    - 1/
+    - 201/+1
+    - 48/
+    - 221/+8
+    - 29/
+    - 'Brian Shaw (On: +3&#9642;Off: +10&#9642;Net: -7)'
+    - "\n"
+    - 146/
+    - 102/0
+    - 155/
+    - 33/0
+    - 46/
+    - 12/0
+    - 1/
+    - 0/0
+    - 204/
+    - 44/-1
+    - 126/+6
+    - 97/
+    - 25/-2
+    - 'Devean George (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - "\n"
+    - 185/
+    - 65/-1
+    - 249/
+    - 0/0
+    - 474/
+    - 25/-2
+    - 'Robert Horry (On: +17&#9642;Off: -4&#9642;Net: +21)'
+    - "\n"
+    - 250/
+    - 250/+10
+    - 189/
+    - 61/+1
+    - 249/+6
+    - 'Tyronn Lue (On: +3&#9642;Off: +10&#9642;Net: -7)'
+    - "\n"
+    - 250/
+    - 127/+1
+    - 121/
+    - 1/+2
+    - 500/
+    - 'Mark Madsen (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 977/
+    - 25/-2
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: -10&#9642;Off: -3&#9642;Net: -7)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 65/0
+    - 66/
+    - 117/-9
+    - 1/
+    - 78/+2
+    - 171/
+    - 249/-6
+    - 'Arvydas Sabonis (On: -11&#9642;Off: -2&#9642;Net: -9)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 66/
+    - 182/-8
+    - 1/
+    - 168/+2
+    - 81/
+    - 220/-8
+    - 29/
+    - 'Steve Smith (On: -10&#9642;Off: -3&#9642;Net: -7)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 66/
+    - 184/-10
+    - 250/0
+    - 53/
+    - 195/-3
+    - 'Damon Stoudamire (On: -1&#9642;Off: -12&#9642;Net: +11)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 0/
+    - 127/-1
+    - 48/
+    - 74/-2
+    - 216/+2
+    - 33/
+    - 249/-6
+    - 'Rasheed Wallace (On: -8&#9642;Off: -5&#9642;Net: -3)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 127/-1
+    - 29/
+    - 93/-4
+    - 250/0
+    - 249/-6
+    - 'Antonio Harvey (On: -5&#9642;Off: -8&#9642;Net: +3)'
+    - "\n"
+    - 249/
+    - 0/-3
+    - 65/0
+    - 356/
+    - 77/-2
+    - 251/
+    - 'Greg Anthony (On: -11&#9642;Off: -2&#9642;Net: -9)'
+    - "\n"
+    - 249/
+    - 156/-6
+    - 93/
+    - 0/0
+    - 220/
+    - 29/-2
+    - 52/-3
+    - 197/
+    - 'Detlef Schrempf (On: -7&#9642;Off: -6&#9642;Net: -1)'
+    - "\n"
+    - 381/
+    - 39/-7
+    - 162/
+    - 166/-2
+    - 225/
+    - 25/+2
+    - 'Will Perdue (On: -2&#9642;Off: -11&#9642;Net: +9)'
+    - "\n"
+    - 499/
+    - 1/-2
+    - 501/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

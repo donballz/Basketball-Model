@@ -1,0 +1,229 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: +1&#9642;Off: -16&#9642;Net: +17)'
+    - |2-
+
+      -6
+    - 95/-6
+    - 173/
+    - 231/+8
+    - 214/0
+    - 144/
+    - 100/-1
+    - 40/
+    - 'Lamar Odom (On: -17&#9642;Off: +2&#9642;Net: -19)'
+    - |2-
+
+      -18
+    - 249/-18
+    - 63/0
+    - 186/
+    - 223/+2
+    - 106/
+    - 130/-1
+    - 40/
+    - 'Michael Olowokandi (On: -7&#9642;Off: -8&#9642;Net: +1)'
+    - |2-
+
+      -14
+    - 150/-14
+    - 193/
+    - 156/+7
+    - 167/0
+    - 191/
+    - 141/0
+    - 'Cherokee Parks (On: -9&#9642;Off: -6&#9642;Net: -3)'
+    - |2-
+
+      -11
+    - 120/-11
+    - 380/
+    - 120/+2
+    - 380/
+    - 'Eric Piatkowski (On: -12&#9642;Off: -3&#9642;Net: -9)'
+    - |2-
+
+      -14
+    - 150/-14
+    - 193/
+    - 156/+7
+    - 250/-1
+    - 35/-4
+    - 214/
+    - 'Keyon Dooling (On: -16&#9642;Off: +1&#9642;Net: -17)'
+    - "\n"
+    - 100/
+    - 149/-12
+    - 17/0
+    - 451/
+    - 30/-1
+    - 104/-4
+    - 107/
+    - 38/+1
+    - 'Darius Miles (On: -6&#9642;Off: -9&#9642;Net: +3)'
+    - "\n"
+    - 124/
+    - 125/-7
+    - 249/+8
+    - 120/
+    - 129/-3
+    - 73/-4
+    - 36/
+    - 140/0
+    - 'Quentin Richardson (On: -3&#9642;Off: -12&#9642;Net: +9)'
+    - "\n"
+    - 152/
+    - 98/-4
+    - 85/+1
+    - 454/
+    - 210/0
+    - 'Sean Rooks (On: -8&#9642;Off: -7&#9642;Net: -1)'
+    - "\n"
+    - 151/
+    - 98/-4
+    - 85/+1
+    - 332/
+    - 82/-1
+    - 104/-4
+    - 145/
+    - 'Corey Maggette (On: +2&#9642;Off: -17&#9642;Net: +19)'
+    - "\n"
+    - 317/
+    - 181/+8
+    - 228/
+    - 21/-3
+    - 104/-4
+    - 107/
+    - 39/+1
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +10&#9642;Off: +5&#9642;Net: +5)'
+    - |2-
+
+      +19
+    - 190/+19
+    - 127/
+    - 181/-8
+    - 219/0
+    - 117/
+    - 122/-1
+    - 41/
+    - 'Allen Iverson (On: +16&#9642;Off: -1&#9642;Net: +17)'
+    - |2-
+
+      +18
+    - 249/+18
+    - 63/0
+    - 41/
+    - 145/-8
+    - 249/+1
+    - 209/+5
+    - 41/
+    - 'George Lynch (On: +16&#9642;Off: -1&#9642;Net: +17)'
+    - |2-
+
+      +18
+    - 249/+18
+    - 63/0
+    - 157/
+    - 28/-1
+    - 1/
+    - 222/-2
+    - 106/
+    - 123/+1
+    - 46/
+    - 'Nazr Mohammed (On: +6&#9642;Off: +9&#9642;Net: -3)'
+    - |2-
+
+      +14
+    - 150/+14
+    - 86/
+    - 11/-1
+    - 95/
+    - 86/-5
+    - 70/
+    - 95/-2
+    - 403/
+    - 'Eric Snow (On: +15&#9642;Off: 0&#9642;Net: +15)'
+    - |2-
+
+      +14
+    - 149/+14
+    - 167/
+    - 181/-8
+    - 143/-2
+    - 85/
+    - 21/+3
+    - 104/+4
+    - 32/
+    - 72/+4
+    - 40/
+    - 'Todd MacCulloch (On: +11&#9642;Off: +4&#9642;Net: +7)'
+    - "\n"
+    - 151/
+    - 79/+5
+    - 368/
+    - 42/0
+    - 79/
+    - 27/+1
+    - 87/+6
+    - 124/
+    - 38/-1
+    - 'Aaron McKie (On: +4&#9642;Off: +11&#9642;Net: -7)'
+    - "\n"
+    - 151/
+    - 98/+4
+    - 220/-7
+    - 176/
+    - 103/+3
+    - 73/+4
+    - 36/
+    - 139/0
+    - 'Toni Kukoc (On: 0&#9642;Off: +15&#9642;Net: -15)'
+    - "\n"
+    - 197/
+    - 52/-1
+    - 85/-1
+    - 96/
+    - 68/-2
+    - 146/
+    - 103/+3
+    - 132/+1
+    - 116/
+    - 'Jumaine Jones (On: -1&#9642;Off: +16&#9642;Net: -17)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 97/0
+    - 614/
+    - 38/-1
+    - 'Rodney Buford (On: -1&#9642;Off: +16&#9642;Net: -17)'
+    - "\n"
+    - 962/
+    - 40/-1
+    - 'Kevin Ollie (On: -1&#9642;Off: +16&#9642;Net: -17)'
+    - "\n"
+    - 964/
+    - 38/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

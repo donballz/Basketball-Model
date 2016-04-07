@@ -1,0 +1,2424 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: P. Ewing vs. M. Olowokandi (G. Payton gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - R. Lewis misses 2-pt shot from 6 ft (block by L. Odom)
+  - - '11:40.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by E. Davis
+  - - '11:37.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - J. McCoy makes 2-pt shot at rim (assist by E. Davis)
+  - - '11:12.0'
+    - J. McInnis misses 2-pt shot from 16 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '11:04.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - R. Lewis misses 3-pt shot from 25 ft
+  - - '11:02.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:52.0'
+    - E. Piatkowski makes 2-pt shot from 19 ft
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - G. Payton makes 2-pt shot from 21 ft (assist by R. Lewis)
+  - - '10:08.0'
+    - M. Olowokandi makes 2-pt shot from 9 ft (assist by L. Odom)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 4-7
+    - "+3"
+    - G. Payton makes 3-pt shot from 27 ft (assist by R. Lewis)
+  - - '9:17.0'
+    - L. Odom makes 2-pt shot from 8 ft
+    - "+2"
+    - 6-7
+    - ''
+    - ''
+  - - '9:02.0'
+    - Violation by E. Piatkowski (kicked ball)
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 6-10
+    - "+3"
+    - E. Davis makes 3-pt shot from 23 ft (assist by R. Lewis)
+  - - '8:32.0'
+    - M. Olowokandi makes 2-pt shot from 5 ft (assist by L. Odom)
+    - "+2"
+    - 8-10
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 8-12
+    - "+2"
+    - E. Davis makes 2-pt shot from 18 ft (assist by R. Lewis)
+  - - '7:56.0'
+    - Personal foul by E. Davis
+    - ''
+    - 8-12
+    - ''
+    - ''
+  - - '7:47.0'
+    - C. Parks misses 2-pt shot from 20 ft
+    - ''
+    - 8-12
+    - ''
+    - ''
+  - - '7:44.0'
+    - Offensive rebound by M. Olowokandi
+    - ''
+    - 8-12
+    - ''
+    - ''
+  - - '7:33.0'
+    - J. McInnis makes 2-pt shot from 14 ft (assist by E. Piatkowski)
+    - "+2"
+    - 10-12
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - J. McCoy misses 2-pt shot from 6 ft
+  - - '7:16.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Offensive rebound by G. Payton
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-14
+    - "+2"
+    - J. McCoy makes 2-pt shot at rim (assist by G. Payton)
+  - - '6:47.0'
+    - L. Odom misses 2-pt shot from 9 ft (block by J. McCoy)
+    - ''
+    - 10-14
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 10-14
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '6:40.0'
+    - ''
+    - ''
+    - 10-14
+    - ''
+    - G. Payton misses 2-pt shot from 13 ft
+  - - '6:38.0'
+    - Defensive rebound by L. Odom
+    - ''
+    - 10-14
+    - ''
+    - ''
+  - - '6:25.0'
+    - M. Olowokandi makes 2-pt shot from 9 ft
+    - "+2"
+    - 12-14
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - G. Payton misses 2-pt shot from 7 ft
+  - - '6:07.0'
+    - Defensive rebound by J. McInnis
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '6:02.0'
+    - E. Piatkowski makes 2-pt shot at rim (assist by J. McInnis)
+    - "+2"
+    - 14-14
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - P. Ewing makes 2-pt shot from 4 ft
+  - - '5:24.0'
+    - J. McInnis misses 2-pt shot from 13 ft
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 14-16
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '5:15.0'
+    - ''
+    - ''
+    - 14-16
+    - ''
+    - Personal foul by J. McInnis
+  - - '5:15.0'
+    - ''
+    - ''
+    - 14-16
+    - ''
+    - Seattle full timeout
+  - - '5:04.0'
+    - ''
+    - ''
+    - 14-16
+    - ''
+    - P. Ewing misses 2-pt shot from 5 ft
+  - - '5:01.0'
+    - Defensive rebound by E. Piatkowski
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '4:47.0'
+    - M. Olowokandi makes 2-pt shot at rim (assist by L. Odom)
+    - "+2"
+    - 16-16
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Violation by P. Ewing (def goaltending)
+  - - '4:35.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - E. Davis misses 3-pt shot from 26 ft
+  - - '4:34.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - R. Lewis misses 2-pt shot at rim
+  - - '4:34.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Offensive rebound by R. Lewis
+  - - '4:30.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '4:22.0'
+    - L. Odom misses 3-pt shot from 25 ft
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '4:10.0'
+    - ''
+    - ''
+    - 16-19
+    - "+3"
+    - R. Lewis makes 3-pt shot from 25 ft (assist by G. Payton)
+  - - '3:54.0'
+    - Turnover by L. Odom (bad pass; steal by P. Ewing)
+    - ''
+    - 16-19
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 16-21
+    - "+2"
+    - R. Lewis makes 2-pt shot at rim (assist by E. Davis)
+  - - '3:50.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Shooting foul by L. Odom
+  - - '3:50.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - R. Lewis misses free throw 1 of 1
+  - - '3:49.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '3:37.0'
+    - E. Piatkowski misses 3-pt shot from 25 ft
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '3:26.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - G. Payton misses 2-pt shot from 18 ft
+  - - '3:25.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Offensive rebound by E. Davis
+  - - '3:13.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Shooting foul by L. Odom
+  - - '3:13.0'
+    - D. Miles enters the game for C. Parks
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 16-22
+    - "+1"
+    - P. Ewing makes free throw 1 of 2
+  - - '3:13.0'
+    - C. Maggette enters the game for L. Odom
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 16-23
+    - "+1"
+    - P. Ewing makes free throw 2 of 2
+  - - '2:57.0'
+    - M. Olowokandi makes 2-pt shot from 11 ft (assist by J. McInnis)
+    - "+2"
+    - 18-23
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - P. Ewing misses 2-pt shot from 11 ft
+  - - '2:40.0'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:33.0'
+    - J. McInnis misses 2-pt shot from 13 ft (block by G. Payton)
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '2:27.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - E. Davis misses 2-pt shot from 5 ft
+  - - '2:25.0'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:22.0'
+    - M. Olowokandi makes 2-pt shot at rim (assist by C. Maggette)
+    - "+2"
+    - 20-23
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - G. Payton misses 2-pt shot from 2 ft
+  - - '2:09.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - Offensive rebound by G. Payton
+  - - '2:07.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - G. Payton misses 2-pt shot from 4 ft
+  - - '2:05.0'
+    - Defensive rebound by J. McInnis
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '2:03.0'
+    - Shooting foul by E. Davis
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '2:03.0'
+    - LA Clippers full timeout
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - V. Baker enters the game for J. McCoy
+  - - '2:03.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - B. Barry enters the game for P. Ewing
+  - - '2:03.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - R. Patterson enters the game for E. Davis
+  - - '2:03.0'
+    - E. Piatkowski makes free throw 1 of 2
+    - "+1"
+    - 21-23
+    - ''
+    - ''
+  - - '2:03.0'
+    - E. Piatkowski makes free throw 2 of 2
+    - "+1"
+    - 22-23
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 22-25
+    - "+2"
+    - R. Lewis makes 2-pt shot from 14 ft (assist by B. Barry)
+  - - '1:44.0'
+    - C. Maggette makes 2-pt shot at rim
+    - "+2"
+    - 24-25
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 24-27
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim (assist by G. Payton)
+  - - '1:02.0'
+    - C. Maggette misses 2-pt shot from 17 ft
+    - ''
+    - 24-27
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 24-27
+    - ''
+    - Defensive rebound by V. Baker
+  - - '0:53.7'
+    - ''
+    - ''
+    - 24-29
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim (assist by B. Barry)
+  - - '0:36.2'
+    - E. Piatkowski misses 3-pt shot from 27 ft
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '0:34.0'
+    - Offensive rebound by C. Maggette
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '0:30.4'
+    - Shooting foul by R. Patterson
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '0:30.4'
+    - ''
+    - ''
+    - 24-29
+    - ''
+    - D. Mason enters the game for R. Lewis
+  - - '0:30.4'
+    - C. Maggette misses free throw 1 of 2
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '0:30.4'
+    - Offensive rebound by Team
+    - ''
+    - 24-29
+    - ''
+    - ''
+  - - '0:30.4'
+    - C. Maggette makes free throw 2 of 2
+    - "+1"
+    - 25-29
+    - ''
+    - ''
+  - - '0:11.8'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - G. Payton misses 2-pt shot from 5 ft
+  - - '0:11.5'
+    - ''
+    - ''
+    - 25-31
+    - "+2"
+    - V. Baker makes 2-pt shot from 3 ft
+  - - '0:11.5'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Offensive rebound by V. Baker
+  - - '0:01.6'
+    - J. McInnis misses 3-pt shot from 27 ft
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Defensive rebound by D. Mason
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - C. Maggette misses 2-pt shot from 6 ft (block by V. Baker)
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Defensive rebound by D. Mason
+  - - '11:26.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - G. Payton misses 3-pt shot from 24 ft
+  - - '11:24.0'
+    - Defensive rebound by D. Miles
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '11:05.0'
+    - C. Maggette misses 3-pt shot from 25 ft
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Defensive rebound by B. Barry
+  - - '10:58.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - B. Barry misses 2-pt shot from 4 ft
+  - - '10:55.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '10:40.0'
+    - J. McInnis misses 3-pt shot from 26 ft
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Defensive rebound by B. Barry
+  - - '10:20.0'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - B. Barry misses 2-pt shot from 18 ft
+  - - '10:18.0'
+    - Defensive rebound by E. Piatkowski
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '10:16.0'
+    - Turnover by E. Piatkowski (bad pass; steal by G. Payton)
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 25-33
+    - "+2"
+    - G. Payton makes 2-pt shot from 3 ft
+  - - '10:05.0'
+    - Shooting foul by V. Baker
+    - ''
+    - 25-33
+    - ''
+    - ''
+  - - '10:05.0'
+    - K. Dooling enters the game for J. McInnis
+    - ''
+    - 25-33
+    - ''
+    - ''
+  - - '10:05.0'
+    - C. Maggette makes free throw 1 of 2
+    - "+1"
+    - 26-33
+    - ''
+    - ''
+  - - '10:05.0'
+    - C. Maggette misses free throw 2 of 2
+    - ''
+    - 26-33
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - Defensive rebound by D. Mason
+  - - '9:41.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - R. Patterson misses 2-pt shot from 18 ft
+  - - '9:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 26-33
+    - ''
+    - ''
+  - - '9:28.0'
+    - E. Piatkowski misses 3-pt shot from 25 ft
+    - ''
+    - 26-33
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - Defensive rebound by Team
+  - - '9:28.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - E. Davis enters the game for G. Payton
+  - - '9:10.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - D. Mason misses 2-pt shot from 4 ft (block by M. Olowokandi)
+  - - '9:07.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 26-33
+    - ''
+    - ''
+  - - '8:55.0'
+    - D. Miles misses 2-pt shot from 7 ft
+    - ''
+    - 26-33
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - Defensive rebound by D. Mason
+  - - '8:45.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - Shooting foul by E. Piatkowski
+  - - '8:45.0'
+    - ''
+    - ''
+    - 26-33
+    - ''
+    - Official timeout
+  - - '8:45.0'
+    - ''
+    - ''
+    - 26-34
+    - "+1"
+    - V. Baker makes free throw 1 of 2
+  - - '8:45.0'
+    - ''
+    - ''
+    - 26-34
+    - ''
+    - V. Baker misses free throw 2 of 2
+  - - '8:45.0'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '8:24.0'
+    - C. Maggette misses 3-pt shot from 24 ft
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 26-34
+    - ''
+    - Defensive rebound by B. Barry
+  - - '8:11.0'
+    - ''
+    - ''
+    - 26-34
+    - ''
+    - V. Baker misses 2-pt shot from 18 ft
+  - - '8:09.0'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '7:54.0'
+    - Turnover by M. Olowokandi (traveling)
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '7:54.0'
+    - Q. Richardson enters the game for E. Piatkowski
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '7:54.0'
+    - S. Rooks enters the game for M. Olowokandi
+    - ''
+    - 26-34
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 26-36
+    - "+2"
+    - V. Baker makes 2-pt shot from 4 ft (assist by E. Davis)
+  - - '7:26.0'
+    - Shooting foul by D. Mason
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '7:26.0'
+    - C. Maggette makes free throw 1 of 2
+    - "+1"
+    - 27-36
+    - ''
+    - ''
+  - - '7:26.0'
+    - C. Maggette makes free throw 2 of 2
+    - "+1"
+    - 28-36
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Shooting foul by C. Maggette
+  - - '7:14.0'
+    - L. Odom enters the game for C. Maggette
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 28-37
+    - "+1"
+    - D. Mason makes free throw 1 of 2
+  - - '7:14.0'
+    - ''
+    - ''
+    - 28-38
+    - "+1"
+    - D. Mason makes free throw 2 of 2
+  - - '6:53.0'
+    - S. Rooks makes 2-pt shot from 20 ft (assist by K. Dooling)
+    - "+2"
+    - 30-38
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 30-38
+    - ''
+    - D. Mason misses 2-pt shot from 6 ft
+  - - '6:43.0'
+    - Defensive rebound by S. Rooks
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:37.0'
+    - Turnover by Q. Richardson (bad pass; steal by B. Barry)
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 30-38
+    - ''
+    - Turnover by B. Barry (bad pass; steal by K. Dooling)
+  - - '6:22.0'
+    - Q. Richardson misses 3-pt shot from 23 ft
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:20.0'
+    - Offensive rebound by D. Miles
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:18.0'
+    - D. Miles misses 2-pt shot from 8 ft
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:16.0'
+    - Offensive rebound by D. Miles
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '6:15.0'
+    - D. Miles makes 2-pt shot at rim
+    - "+2"
+    - 32-38
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 32-41
+    - "+3"
+    - B. Barry makes 3-pt shot from 26 ft (assist by D. Mason)
+  - - '5:32.0'
+    - Q. Richardson misses 2-pt shot from 7 ft
+    - ''
+    - 32-41
+    - ''
+    - ''
+  - - '5:30.0'
+    - Offensive rebound by Q. Richardson
+    - ''
+    - 32-41
+    - ''
+    - ''
+  - - '5:28.0'
+    - Q. Richardson misses 2-pt shot from 5 ft (block by V. Baker)
+    - ''
+    - 32-41
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - Defensive rebound by D. Mason
+  - - '5:22.0'
+    - ''
+    - ''
+    - 32-43
+    - "+2"
+    - E. Davis makes 2-pt shot from 7 ft
+  - - '4:59.0'
+    - Personal foul by D. Mason
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '4:59.0'
+    - LA Clippers full timeout
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - R. Lewis enters the game for D. Mason
+  - - '4:45.0'
+    - K. Dooling makes 3-pt shot from 24 ft (assist by Q. Richardson)
+    - "+3"
+    - 35-43
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 35-43
+    - ''
+    - R. Lewis misses 3-pt shot from 26 ft
+  - - '4:18.0'
+    - Defensive rebound by D. Miles
+    - ''
+    - 35-43
+    - ''
+    - ''
+  - - '4:02.0'
+    - K. Dooling makes 2-pt shot from 21 ft
+    - "+2"
+    - 37-43
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 37-43
+    - ''
+    - G. Payton enters the game for B. Barry
+  - - '3:41.0'
+    - ''
+    - ''
+    - 37-43
+    - ''
+    - V. Baker misses 2-pt shot from 17 ft
+  - - '3:38.0'
+    - Defensive rebound by K. Dooling
+    - ''
+    - 37-43
+    - ''
+    - ''
+  - - '3:24.0'
+    - Turnover by D. Miles (lost ball; steal by E. Davis)
+    - ''
+    - 37-43
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 37-43
+    - ''
+    - R. Patterson misses 2-pt shot from 3 ft
+  - - '3:16.0'
+    - ''
+    - ''
+    - 37-43
+    - ''
+    - Offensive rebound by V. Baker
+  - - '3:15.0'
+    - ''
+    - ''
+    - 37-43
+    - ''
+    - Shooting foul by D. Miles
+  - - '3:15.0'
+    - ''
+    - ''
+    - 37-44
+    - "+1"
+    - V. Baker makes free throw 1 of 2
+  - - '3:15.0'
+    - ''
+    - ''
+    - 37-45
+    - "+1"
+    - V. Baker makes free throw 2 of 2
+  - - '3:03.0'
+    - D. Miles makes 2-pt shot at rim (assist by S. Rooks)
+    - "+2"
+    - 39-45
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 39-45
+    - ''
+    - R. Lewis misses 3-pt shot from 26 ft
+  - - '2:43.0'
+    - Defensive rebound by K. Dooling
+    - ''
+    - 39-45
+    - ''
+    - ''
+  - - '2:37.0'
+    - K. Dooling makes 2-pt shot from 6 ft
+    - "+2"
+    - 41-45
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - Turnover by E. Davis (lost ball; steal by S. Rooks)
+  - - '2:17.0'
+    - D. Miles misses 2-pt shot from 6 ft
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '2:14.0'
+    - Offensive rebound by L. Odom
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '2:13.0'
+    - L. Odom misses 2-pt shot at rim
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '2:13.0'
+    - Offensive rebound by Q. Richardson
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '2:12.0'
+    - Q. Richardson makes 2-pt shot at rim
+    - "+2"
+    - 43-45
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - Seattle 20 second timeout
+  - - '2:12.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - Seattle full timeout
+  - - '1:49.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - R. Patterson misses 2-pt shot at rim (block by S. Rooks)
+  - - '1:48.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - Offensive rebound by Team
+  - - '1:47.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - Turnover by Team (shot clock)
+  - - '1:33.0'
+    - Turnover by Q. Richardson (lost ball; steal by G. Payton)
+    - ''
+    - 43-45
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - Turnover by R. Patterson (lost ball; steal by L. Odom)
+  - - '1:21.0'
+    - Shooting foul by R. Patterson
+    - ''
+    - 43-45
+    - ''
+    - ''
+  - - '1:21.0'
+    - Q. Richardson makes free throw 1 of 2
+    - "+1"
+    - 44-45
+    - ''
+    - ''
+  - - '1:21.0'
+    - Q. Richardson makes free throw 2 of 2
+    - "+1"
+    - 45-45
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 45-47
+    - "+2"
+    - G. Payton makes 2-pt shot from 18 ft
+  - - '0:48.2'
+    - Personal foul by G. Payton
+    - ''
+    - 45-47
+    - ''
+    - ''
+  - - '0:48.2'
+    - D. Miles misses free throw 1 of 2
+    - ''
+    - 45-47
+    - ''
+    - ''
+  - - '0:48.2'
+    - Offensive rebound by Team
+    - ''
+    - 45-47
+    - ''
+    - ''
+  - - '0:48.2'
+    - C. Maggette enters the game for L. Odom
+    - ''
+    - 45-47
+    - ''
+    - ''
+  - - '0:48.2'
+    - ''
+    - ''
+    - 45-47
+    - ''
+    - B. Barry enters the game for R. Patterson
+  - - '0:48.2'
+    - D. Miles makes free throw 2 of 2
+    - "+1"
+    - 46-47
+    - ''
+    - ''
+  - - '0:33.7'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - V. Baker misses 2-pt shot from 15 ft
+  - - '0:31.6'
+    - Defensive rebound by Q. Richardson
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '0:09.9'
+    - S. Rooks misses 2-pt shot from 20 ft
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '0:07.8'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '0:01.2'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - E. Davis misses 3-pt shot from 24 ft
+  - - '0:00.4'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:44.0'
+    - M. Olowokandi misses 2-pt shot from 5 ft (block by J. McCoy)
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by M. Olowokandi
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '11:38.0'
+    - E. Piatkowski makes 3-pt shot from 25 ft (assist by J. McInnis)
+    - "+3"
+    - 49-47
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - P. Ewing misses 2-pt shot from 6 ft
+  - - '11:19.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '11:00.0'
+    - M. Olowokandi misses 2-pt shot from 14 ft
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '10:44.0'
+    - ''
+    - ''
+    - 49-49
+    - "+2"
+    - J. McCoy makes 2-pt shot from 7 ft (assist by E. Davis)
+  - - '10:21.0'
+    - Turnover by L. Odom (bad pass; steal by P. Ewing)
+    - ''
+    - 49-49
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 49-51
+    - "+2"
+    - R. Lewis makes 2-pt shot at rim (assist by E. Davis)
+  - - '9:55.0'
+    - M. Olowokandi makes 2-pt shot from 11 ft
+    - "+2"
+    - 51-51
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 51-51
+    - ''
+    - P. Ewing misses 2-pt shot from 6 ft (block by M. Olowokandi)
+  - - '9:36.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 51-51
+    - ''
+    - ''
+  - - '9:30.0'
+    - J. McInnis makes 2-pt shot from 10 ft (assist by E. Piatkowski)
+    - "+2"
+    - 53-51
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - R. Lewis misses 2-pt shot from 2 ft (block by C. Parks)
+  - - '9:05.0'
+    - Defensive rebound by L. Odom
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '9:01.0'
+    - L. Odom makes 2-pt shot at rim
+    - "+2"
+    - 55-51
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - Offensive foul by J. McCoy
+  - - '8:44.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - Turnover by J. McCoy (foul)
+  - - '8:27.0'
+    - Shooting foul by J. McCoy
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '8:27.0'
+    - E. Piatkowski makes free throw 1 of 2
+    - "+1"
+    - 56-51
+    - ''
+    - ''
+  - - '8:27.0'
+    - E. Piatkowski misses free throw 2 of 2
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Defensive rebound by P. Ewing
+  - - '8:13.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Turnover by J. McCoy (traveling)
+  - - '8:13.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Violation by Team (delay of game)
+  - - '8:04.0'
+    - Turnover by C. Parks (bad pass; steal by G. Payton)
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Personal foul by C. Parks
+  - - '7:42.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - E. Davis misses 3-pt shot from 26 ft
+  - - '7:41.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:27.0'
+    - Turnover by M. Olowokandi (bad pass; steal by E. Davis)
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 56-54
+    - "+3"
+    - G. Payton makes 3-pt shot from 27 ft (assist by R. Lewis)
+  - - '6:39.0'
+    - J. McInnis misses 2-pt shot from 18 ft
+    - ''
+    - 56-54
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 56-54
+    - ''
+    - Defensive rebound by J. McCoy
+  - - '6:26.0'
+    - ''
+    - ''
+    - 56-57
+    - "+3"
+    - G. Payton makes 3-pt shot from 24 ft
+  - - '5:58.0'
+    - E. Piatkowski makes 3-pt shot from 23 ft (assist by L. Odom)
+    - "+3"
+    - 59-57
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Personal foul by C. Parks
+  - - '5:45.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Seattle full timeout
+  - - '5:39.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Turnover by P. Ewing (bad pass)
+  - - '5:24.0'
+    - Turnover by E. Piatkowski (bad pass)
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - P. Ewing misses 2-pt shot from 6 ft
+  - - '5:05.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - R. Lewis misses 2-pt shot at rim
+  - - '5:05.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Offensive rebound by R. Lewis
+  - - '5:02.0'
+    - Defensive rebound by C. Parks
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '4:57.0'
+    - E. Piatkowski misses 3-pt shot from 24 ft
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '4:55.0'
+    - Offensive rebound by C. Parks
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '4:52.0'
+    - J. McInnis makes 2-pt shot from 8 ft (assist by M. Olowokandi)
+    - "+2"
+    - 61-57
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - Personal foul by C. Parks
+  - - '4:37.0'
+    - D. Miles enters the game for C. Parks
+    - ''
+    - 61-57
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - V. Baker enters the game for J. McCoy
+  - - '4:37.0'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - R. Patterson enters the game for P. Ewing
+  - - '4:24.0'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - E. Davis misses 3-pt shot from 24 ft
+  - - '4:22.0'
+    - ''
+    - ''
+    - 61-57
+    - ''
+    - Offensive rebound by G. Payton
+  - - '4:10.0'
+    - ''
+    - ''
+    - 61-60
+    - "+3"
+    - G. Payton makes 3-pt shot from 26 ft (assist by R. Patterson)
+  - - '3:43.0'
+    - J. McInnis misses 3-pt shot from 26 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Defensive rebound by G. Payton
+  - - '3:38.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Turnover by G. Payton (lost ball; steal by J. McInnis)
+  - - '3:37.0'
+    - Personal foul by G. Payton
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '3:23.0'
+    - D. Miles makes 2-pt shot from 17 ft
+    - "+2"
+    - 63-60
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - V. Baker misses 2-pt shot from 10 ft
+  - - '3:00.0'
+    - Defensive rebound by E. Piatkowski
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '2:50.0'
+    - M. Olowokandi misses 2-pt shot from 14 ft
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - Defensive rebound by V. Baker
+  - - '2:41.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - G. Payton misses 2-pt shot from 7 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - Offensive rebound by Team
+  - - '2:40.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - Seattle full timeout
+  - - '2:24.0'
+    - ''
+    - ''
+    - 63-63
+    - "+3"
+    - R. Lewis makes 3-pt shot from 25 ft (assist by R. Patterson)
+  - - '2:06.0'
+    - E. Piatkowski misses 2-pt shot from 20 ft
+    - ''
+    - 63-63
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - Defensive rebound by E. Davis
+  - - '1:55.0'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - R. Patterson misses 2-pt shot from 6 ft (block by M. Olowokandi)
+  - - '1:52.0'
+    - Defensive rebound by L. Odom
+    - ''
+    - 63-63
+    - ''
+    - ''
+  - - '1:49.0'
+    - L. Odom makes 2-pt shot at rim
+    - "+2"
+    - 65-63
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 65-65
+    - "+2"
+    - V. Baker makes 2-pt shot from 6 ft (assist by G. Payton)
+  - - '1:10.0'
+    - J. McInnis misses 2-pt shot from 14 ft
+    - ''
+    - 65-65
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 65-65
+    - ''
+    - Defensive rebound by E. Davis
+  - - '0:59.9'
+    - ''
+    - ''
+    - 65-68
+    - "+3"
+    - G. Payton makes 3-pt shot from 24 ft (assist by R. Patterson)
+  - - '0:47.6'
+    - Turnover by J. McInnis (bad pass; steal by E. Davis)
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '0:42.3'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Turnover by G. Payton (bad pass; steal by E. Piatkowski)
+  - - '0:22.6'
+    - E. Piatkowski makes 2-pt shot from 18 ft (assist by L. Odom)
+    - "+2"
+    - 67-68
+    - ''
+    - ''
+  - - '0:02.4'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - G. Payton misses 2-pt shot from 12 ft
+  - - '0:02.1'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '0:01.5'
+    - ''
+    - ''
+    - 67-68
+    - ''
+    - R. Patterson misses 2-pt shot at rim
+  - - '0:01.0'
+    - Defensive rebound by M. Olowokandi
+    - ''
+    - 67-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 67-70
+    - "+2"
+    - E. Davis makes 2-pt shot from 12 ft
+  - - '11:30.0'
+    - J. McInnis misses 2-pt shot from 18 ft
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 67-70
+    - ''
+    - Defensive rebound by R. Patterson
+  - - '11:16.0'
+    - ''
+    - ''
+    - 67-70
+    - ''
+    - V. Baker misses 2-pt shot from 8 ft
+  - - '11:12.0'
+    - Defensive rebound by J. McInnis
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '11:08.0'
+    - Personal foul by E. Davis
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '11:08.0'
+    - C. Maggette enters the game for E. Piatkowski
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '10:58.0'
+    - Offensive foul by D. Miles
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '10:58.0'
+    - Turnover by D. Miles (foul)
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 67-73
+    - "+3"
+    - D. Mason makes 3-pt shot from 24 ft (assist by E. Davis)
+  - - '10:36.0'
+    - LA Clippers full timeout
+    - ''
+    - 67-73
+    - ''
+    - ''
+  - - '10:17.0'
+    - C. Maggette makes 2-pt shot from 5 ft (assist by D. Miles)
+    - "+2"
+    - 69-73
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 69-75
+    - "+2"
+    - D. Mason makes 2-pt shot at rim (assist by R. Patterson)
+  - - '9:56.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Shooting foul by M. Olowokandi
+  - - '9:56.0'
+    - S. Rooks enters the game for M. Olowokandi
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '9:56.0'
+    - K. Dooling enters the game for J. McInnis
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 69-76
+    - "+1"
+    - D. Mason makes free throw 1 of 1
+  - - '9:48.0'
+    - Turnover by K. Dooling (lost ball; steal by E. Davis)
+    - ''
+    - 69-76
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 69-76
+    - ''
+    - Personal foul by S. Rooks
+  - - '9:32.0'
+    - ''
+    - ''
+    - 69-78
+    - "+2"
+    - B. Barry makes 2-pt shot from 21 ft (assist by R. Patterson)
+  - - '9:10.0'
+    - Turnover by C. Maggette (lost ball; steal by B. Barry)
+    - ''
+    - 69-78
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 69-78
+    - ''
+    - Turnover by E. Davis (bad pass; steal by S. Rooks)
+  - - '8:48.0'
+    - K. Dooling makes 2-pt shot from 17 ft (assist by D. Miles)
+    - "+2"
+    - 71-78
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 71-78
+    - ''
+    - R. Patterson misses 2-pt shot from 14 ft
+  - - '8:28.0'
+    - Defensive rebound by K. Dooling
+    - ''
+    - 71-78
+    - ''
+    - ''
+  - - '8:11.0'
+    - Shooting foul by V. Baker
+    - ''
+    - 71-78
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 71-78
+    - ''
+    - G. Payton enters the game for E. Davis
+  - - '8:11.0'
+    - L. Odom makes free throw 1 of 2
+    - "+1"
+    - 72-78
+    - ''
+    - ''
+  - - '8:11.0'
+    - L. Odom misses free throw 2 of 2
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '8:11.0'
+    - Offensive rebound by L. Odom
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '8:00.0'
+    - C. Maggette misses 2-pt shot from 1 ft
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Defensive rebound by G. Payton
+  - - '7:55.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Turnover by G. Payton (double dribble)
+  - - '7:55.0'
+    - Q. Richardson enters the game for L. Odom
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '7:45.0'
+    - Shooting foul by G. Payton
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '7:45.0'
+    - C. Maggette makes free throw 1 of 2
+    - "+1"
+    - 73-78
+    - ''
+    - ''
+  - - '7:45.0'
+    - C. Maggette makes free throw 2 of 2
+    - "+1"
+    - 74-78
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 74-78
+    - ''
+    - D. Mason misses 3-pt shot from 25 ft
+  - - '7:24.0'
+    - Defensive rebound by S. Rooks
+    - ''
+    - 74-78
+    - ''
+    - ''
+  - - '7:15.0'
+    - C. Maggette makes 2-pt shot at rim (assist by S. Rooks)
+    - "+2"
+    - 76-78
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 76-78
+    - ''
+    - Seattle full timeout
+  - - '7:01.0'
+    - ''
+    - ''
+    - 76-78
+    - ''
+    - Shooting foul by D. Miles
+  - - '7:01.0'
+    - ''
+    - ''
+    - 76-79
+    - "+1"
+    - R. Patterson makes free throw 1 of 2
+  - - '7:01.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - R. Patterson misses free throw 2 of 2
+  - - '7:01.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '6:59.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - Turnover by R. Patterson (lost ball; steal by K. Dooling)
+  - - '6:47.0'
+    - Turnover by S. Rooks (bad pass)
+    - ''
+    - 76-79
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - Personal foul by Q. Richardson
+  - - '6:25.0'
+    - ''
+    - ''
+    - 76-79
+    - ''
+    - Shooting foul by K. Dooling
+  - - '6:25.0'
+    - ''
+    - ''
+    - 76-80
+    - "+1"
+    - G. Payton makes free throw 1 of 2
+  - - '6:25.0'
+    - ''
+    - ''
+    - 76-81
+    - "+1"
+    - G. Payton makes free throw 2 of 2
+  - - '6:07.0'
+    - C. Maggette misses 2-pt shot from 7 ft (block by V. Baker)
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '6:05.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - Defensive rebound by Team
+  - - '5:56.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - G. Payton misses 2-pt shot from 15 ft
+  - - '5:54.0'
+    - Defensive rebound by C. Maggette
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:34.0'
+    - Turnover by C. Maggette (bad pass; steal by D. Mason)
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - B. Barry misses 2-pt shot from 6 ft
+  - - '5:18.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - Offensive rebound by Team
+  - - '5:18.0'
+    - J. McInnis enters the game for K. Dooling
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:18.0'
+    - L. Odom enters the game for Q. Richardson
+    - ''
+    - 76-81
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 76-81
+    - ''
+    - R. Lewis enters the game for R. Patterson
+  - - '5:16.0'
+    - ''
+    - ''
+    - 76-83
+    - "+2"
+    - D. Mason makes 2-pt shot from 18 ft (assist by R. Lewis)
+  - - '4:53.0'
+    - C. Maggette misses 2-pt shot from 17 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by R. Lewis
+  - - '4:40.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - G. Payton misses 2-pt shot from 9 ft
+  - - '4:38.0'
+    - Defensive rebound by S. Rooks
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:21.0'
+    - S. Rooks misses 2-pt shot from 17 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by D. Mason
+  - - '4:15.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - R. Lewis misses 2-pt shot at rim (block by S. Rooks)
+  - - '4:10.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Offensive rebound by D. Mason
+  - - '3:57.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Turnover by B. Barry (lost ball)
+  - - '3:57.0'
+    - E. Piatkowski enters the game for C. Maggette
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:41.0'
+    - D. Miles makes 2-pt shot from 7 ft (assist by S. Rooks)
+    - "+2"
+    - 78-83
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 78-83
+    - ''
+    - B. Barry misses 3-pt shot from 26 ft
+  - - '3:18.0'
+    - Defensive rebound by E. Piatkowski
+    - ''
+    - 78-83
+    - ''
+    - ''
+  - - '3:08.0'
+    - S. Rooks misses 2-pt shot from 18 ft
+    - ''
+    - 78-83
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 78-83
+    - ''
+    - Defensive rebound by B. Barry
+  - - '3:01.0'
+    - ''
+    - ''
+    - 78-83
+    - ''
+    - B. Barry misses 2-pt shot from 5 ft (block by S. Rooks)
+  - - '2:59.0'
+    - Defensive rebound by L. Odom
+    - ''
+    - 78-83
+    - ''
+    - ''
+  - - '2:54.0'
+    - Turnover by D. Miles (lost ball; steal by G. Payton)
+    - ''
+    - 78-83
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 78-85
+    - "+2"
+    - G. Payton makes 2-pt shot at rim (assist by V. Baker)
+  - - '2:41.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - Shooting foul by J. McInnis
+  - - '2:41.0'
+    - ''
+    - ''
+    - 78-85
+    - ''
+    - Official timeout
+  - - '2:41.0'
+    - ''
+    - ''
+    - 78-86
+    - "+1"
+    - G. Payton makes free throw 1 of 1
+  - - '2:21.0'
+    - D. Miles misses 2-pt shot from 3 ft
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '2:18.0'
+    - D. Miles makes 2-pt shot at rim
+    - "+2"
+    - 80-86
+    - ''
+    - ''
+  - - '2:18.0'
+    - Offensive rebound by D. Miles
+    - ''
+    - 80-86
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 80-88
+    - "+2"
+    - V. Baker makes 2-pt shot at rim (assist by G. Payton)
+  - - '1:51.0'
+    - J. McInnis misses 3-pt shot from 26 ft
+    - ''
+    - 80-88
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 80-88
+    - ''
+    - Defensive rebound by V. Baker
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-88
+    - ''
+    - Personal foul by L. Odom
+  - - '1:36.0'
+    - M. Olowokandi enters the game for S. Rooks
+    - ''
+    - 80-88
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-88
+    - ''
+    - R. Patterson enters the game for D. Mason
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-89
+    - "+1"
+    - G. Payton makes free throw 1 of 2
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-90
+    - "+1"
+    - G. Payton makes free throw 2 of 2
+  - - '1:29.0'
+    - Personal foul by B. Barry
+    - ''
+    - 80-90
+    - ''
+    - ''
+  - - '1:20.0'
+    - M. Olowokandi makes 2-pt shot from 11 ft (assist by J. McInnis)
+    - "+2"
+    - 82-90
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 82-92
+    - "+2"
+    - R. Patterson makes 2-pt shot at rim
+  - - '0:55.7'
+    - Personal foul by R. Lewis
+    - ''
+    - 82-92
+    - ''
+    - ''
+  - - '0:55.7'
+    - D. Miles misses free throw 1 of 2
+    - ''
+    - 82-92
+    - ''
+    - ''
+  - - '0:55.7'
+    - Offensive rebound by Team
+    - ''
+    - 82-92
+    - ''
+    - ''
+  - - '0:55.7'
+    - D. Miles misses free throw 2 of 2
+    - ''
+    - 82-92
+    - ''
+    - ''
+  - - '0:54.9'
+    - ''
+    - ''
+    - 82-92
+    - ''
+    - Defensive rebound by V. Baker
+  - - '0:34.3'
+    - ''
+    - ''
+    - 82-94
+    - "+2"
+    - V. Baker makes 2-pt shot from 18 ft (assist by B. Barry)
+  - - '0:27.0'
+    - D. Miles makes 2-pt shot at rim
+    - "+2"
+    - 84-94
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - B. Barry misses 3-pt shot from 25 ft
+  - - '0:01.0'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - Offensive rebound by R. Patterson
+  - - '0:00.0'
+    - End of 4th quarter

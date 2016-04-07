@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +13&#9642;Off: -9&#9642;Net: +22)'
+    - |2-
+
+      +2
+    - 187/+2
+    - 61/
+    - 184/+4
+    - 65/
+    - 249/+9
+    - 44/+1
+    - 115/
+    - 88/-3
+    - 2/
+    - 'Allen Iverson (On: +3&#9642;Off: +1&#9642;Net: +2)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 66/+2
+    - 68/
+    - 115/-2
+    - 250/+9
+    - 249/-10
+    - 'George Lynch (On: +9&#9642;Off: -5&#9642;Net: +14)'
+    - |2-
+
+      +4
+    - 248/+4
+    - 128/
+    - 120/-2
+    - 226/+15
+    - 74/
+    - 100/-8
+    - 67/
+    - 12/-2
+    - 10/
+    - 9/+2
+    - 'Aaron McKie (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 70/
+    - 179/-1
+    - 235/+11
+    - 136/
+    - 128/-7
+    - 'Theo Ratliff (On: +2&#9642;Off: +2&#9642;Net: 0)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 66/+2
+    - 68/
+    - 98/-1
+    - 16/
+    - 249/+9
+    - 65/
+    - 185/-12
+    - 'Toni Kukoc (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - "\n"
+    - 189/
+    - 60/+2
+    - 122/+3
+    - 66/
+    - 61/-3
+    - 230/
+    - 19/-6
+    - 120/-3
+    - 128/
+    - 'Kevin Ollie (On: -9&#9642;Off: +13&#9642;Net: -22)'
+    - "\n"
+    - 249/
+    - 129/+3
+    - 120/
+    - 0/0
+    - 239/
+    - 10/-2
+    - 214/-10
+    - 34/
+    - 0/0
+    - 'Todd MacCulloch (On: +2&#9642;Off: +2&#9642;Net: 0)'
+    - "\n"
+    - 320/
+    - 59/+1
+    - 107/
+    - 13/-1
+    - 250/
+    - 57/+2
+    - 191/
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Calvin Booth (On: -6&#9642;Off: +2&#9642;Net: -8)'
+    - |2-
+
+      -4
+    - 239/-4
+    - 199/
+    - 62/+3
+    - 108/-5
+    - 391/
+    - 'Juwan Howard (On: -7&#9642;Off: +3&#9642;Net: -10)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 129/
+    - 104/+1
+    - 16/
+    - 227/-15
+    - 74/
+    - 198/+11
+    - 'Felipe Lopez (On: -6&#9642;Off: +2&#9642;Net: -8)'
+    - |2-
+
+      -3
+    - 160/-3
+    - 88/
+    - 42/-2
+    - 159/
+    - 47/+3
+    - 107/-5
+    - 132/
+    - 10/+2
+    - 44/-1
+    - 205/
+    - 'Tyrone Nesby (On: +4&#9642;Off: -8&#9642;Net: +12)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 202/
+    - 47/+3
+    - 108/-5
+    - 217/
+    - 174/+10
+    - 'Chris Whitney (On: -1&#9642;Off: -3&#9642;Net: +2)'
+    - |2-
+
+      -3
+    - 161/-3
+    - 132/
+    - 206/+1
+    - 250/-9
+    - 250/+10
+    - 'Richard Hamilton (On: 0&#9642;Off: -4&#9642;Net: +4)'
+    - "\n"
+    - 162/
+    - 87/-1
+    - 202/-4
+    - 156/
+    - 127/-6
+    - 66/
+    - 197/+11
+    - 'Gerard King (On: +3&#9642;Off: -7&#9642;Net: +10)'
+    - "\n"
+    - 162/
+    - 87/-1
+    - 129/-3
+    - 107/
+    - 13/+1
+    - 230/
+    - 19/+6
+    - 73/0
+    - 175/
+    - 'Obinna Ekezie (On: -9&#9642;Off: +5&#9642;Net: -14)'
+    - "\n"
+    - 246/
+    - 3/0
+    - 122/-3
+    - 236/
+    - 127/-6
+    - 264/
+    - 'Michael Smith (On: +2&#9642;Off: -6&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 185/-4
+    - 174/
+    - 141/-4
+    - 249/+10
+    - 'Popeye Jones (On: -1&#9642;Off: -3&#9642;Net: +2)'
+    - "\n"
+    - 385/
+    - 68/-1
+    - 548/
+    - 'Jahidi White (On: +1&#9642;Off: -5&#9642;Net: +6)'
+    - "\n"
+    - 740/
+    - 10/+2
+    - 44/-1
+    - 206/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

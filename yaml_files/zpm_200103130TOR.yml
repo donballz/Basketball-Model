@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +2&#9642;Off: +2&#9642;Net: 0)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 79/+3
+    - 97/
+    - 73/+4
+    - 250/+9
+    - 249/-15
+    - 'Jason Caffey (On: -12&#9642;Off: +16&#9642;Net: -28)'
+    - |2-
+
+      -1
+    - 190/-1
+    - 200/
+    - 31/-6
+    - 78/
+    - 63/-5
+    - 436/
+    - 'Sam Cassell (On: 0&#9642;Off: +4&#9642;Net: -4)'
+    - |2-
+
+      0
+    - 206/0
+    - 128/
+    - 165/+6
+    - 205/+8
+    - 30/
+    - 15/+1
+    - 248/-15
+    - 'Mark Pope (On: +4&#9642;Off: 0&#9642;Net: +4)'
+    - |2-
+
+      +1
+    - 173/+1
+    - 326/
+    - 161/+4
+    - 332/
+    - 7/-1
+    - 'Glenn Robinson (On: +3&#9642;Off: +1&#9642;Net: +2)'
+    - |2-
+
+      0
+    - 205/0
+    - 152/
+    - 141/-2
+    - 217/+6
+    - 123/
+    - 145/-3
+    - 1/
+    - 4/+1
+    - 7/
+    - 'Tim Thomas (On: +5&#9642;Off: -1&#9642;Net: +6)'
+    - "\n"
+    - 175/
+    - 74/0
+    - 104/+11
+    - 72/
+    - 73/+4
+    - 164/
+    - 85/+5
+    - 249/-15
+    - 'Ervin Johnson (On: +24&#9642;Off: -20&#9642;Net: +44)'
+    - "\n"
+    - 193/
+    - 56/+2
+    - 137/+11
+    - 56/
+    - 6/-2
+    - 117/
+    - 138/+13
+    - 293/
+    - 'Darvin Ham (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - "\n"
+    - 211/
+    - 38/+1
+    - 188/+3
+    - 281/
+    - 29/+3
+    - 86/-10
+    - 157/
+    - 4/-2
+    - 1/
+    - "-1/0"
+    - 'Lindsey Hunter (On: +6&#9642;Off: -2&#9642;Net: +8)'
+    - "\n"
+    - 211/
+    - 38/+1
+    - 171/+5
+    - 288/
+    - 20/0
+    - 270/
+    - 'Scott Williams (On: -5&#9642;Off: +9&#9642;Net: -14)'
+    - "\n"
+    - 455/
+    - 44/+8
+    - 209/
+    - 40/+1
+    - 243/-14
+    - 7/
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: -23&#9642;Off: +19&#9642;Net: -42)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 104/-11
+    - 78/
+    - 68/-4
+    - 249/-9
+    - 169/
+    - 80/+2
+    - 'Antonio Davis (On: -7&#9642;Off: +3&#9642;Net: -10)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 60/-3
+    - 91/
+    - 68/+5
+    - 29/
+    - 205/-8
+    - 295/
+    - 'Charles Oakley (On: -18&#9642;Off: +14&#9642;Net: -32)'
+    - |2-
+
+      -3
+    - 224/-3
+    - 87/
+    - 189/-6
+    - 250/-9
+    - 249/
+    - 'Morris Peterson (On: -11&#9642;Off: +7&#9642;Net: -18)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 29/-2
+    - 221/
+    - 205/-8
+    - 294/
+    - 'Alvin Williams (On: -7&#9642;Off: +3&#9642;Net: -10)'
+    - |2-
+
+      -3
+    - 220/-3
+    - 137/
+    - 141/+2
+    - 205/-8
+    - 290/
+    - 1/+2
+    - 1/
+    - 1/0
+    - 'Chris Childs (On: +7&#9642;Off: -11&#9642;Net: +18)'
+    - "\n"
+    - 224/
+    - 26/+2
+    - 250/-9
+    - 209/
+    - 40/-1
+    - 249/+15
+    - 'Keon Clark (On: 0&#9642;Off: -4&#9642;Net: +4)'
+    - "\n"
+    - 225/
+    - 23/+2
+    - 146/-8
+    - 77/
+    - 26/-6
+    - 208/
+    - 40/-1
+    - 242/+14
+    - 5/
+    - 2/-1
+    - 'Jerome Williams (On: +10&#9642;Off: -14&#9642;Net: +24)'
+    - "\n"
+    - 279/
+    - 148/-3
+    - 322/
+    - 243/+14
+    - 7/
+    - 'Dell Curry (On: +14&#9642;Off: -18&#9642;Net: +32)'
+    - "\n"
+    - 708/
+    - 40/-1
+    - 165/+13
+    - 81/
+    - 1/+2
+    - 3/
+    - 'Tracy Murray (On: +15&#9642;Off: -19&#9642;Net: +34)'
+    - "\n"
+    - 752/
+    - 250/+15
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

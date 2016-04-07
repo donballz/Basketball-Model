@@ -1,0 +1,2288 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: T. Massenburg vs. M. Camby (M. Jackson gains possession)'
+  - - '11:47.0'
+    - A. Houston misses 2-pt shot from 15 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '11:27.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Dickerson misses 3-pt shot from 27 ft
+  - - '11:26.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:18.0'
+    - Turnover by L. Johnson (bad pass; steal by M. Dickerson)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 13 ft (assist by S. Abdur-Rahim)
+  - - '10:48.0'
+    - M. Camby misses 2-pt shot from 10 ft (block by B. Reeves)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by Team
+  - - '10:33.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - T. Massenburg misses 2-pt shot from 12 ft
+  - - '10:30.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:15.0'
+    - M. Camby misses 2-pt shot from 11 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '10:06.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - M. Bibby makes 2-pt shot from 18 ft
+  - - '9:50.0'
+    - Personal foul by T. Massenburg
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:39.0'
+    - L. Sprewell misses 2-pt shot from 6 ft (block by M. Dickerson)
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '9:27.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - T. Massenburg misses 2-pt shot from 14 ft
+  - - '9:25.0'
+    - Defensive rebound by L. Johnson
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:17.0'
+    - A. Houston misses 3-pt shot from 26 ft
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '9:09.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by M. Camby)
+  - - '9:05.0'
+    - L. Sprewell makes 2-pt shot from 4 ft (assist by M. Jackson)
+    - "+2"
+    - 2-4
+    - ''
+    - ''
+  - - '8:43.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - T. Massenburg misses 2-pt shot from 5 ft
+  - - '8:42.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Offensive rebound by Team
+  - - '8:32.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - T. Massenburg misses 2-pt shot from 8 ft
+  - - '8:30.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '8:16.0'
+    - M. Jackson makes 2-pt shot from 21 ft (assist by L. Sprewell)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - S. Abdur-Rahim misses 3-pt shot from 24 ft
+  - - '7:52.0'
+    - Defensive rebound by A. Houston
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '7:45.0'
+    - Turnover by L. Sprewell (out of bounds)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 10 ft
+  - - '7:08.0'
+    - A. Houston misses 2-pt shot from 17 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '6:57.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - B. Reeves misses 2-pt shot from 17 ft
+  - - '6:55.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '6:50.0'
+    - Shooting foul by B. Reeves
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '6:50.0'
+    - M. Camby misses free throw 1 of 2
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '6:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '6:50.0'
+    - M. Camby makes free throw 2 of 2
+    - "+1"
+    - 5-6
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 5-8
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 18 ft (assist by M. Bibby)
+  - - '6:24.0'
+    - Turnover by L. Johnson (lost ball)
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 5-10
+    - "+2"
+    - B. Reeves makes 2-pt shot from 15 ft (assist by M. Dickerson)
+  - - '5:44.0'
+    - M. Camby makes 2-pt shot from 3 ft (assist by L. Johnson)
+    - "+2"
+    - 7-10
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - Vancouver full timeout
+  - - '5:18.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - M. Dickerson misses 2-pt shot from 14 ft
+  - - '5:15.0'
+    - ''
+    - ''
+    - 7-12
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 2 ft
+  - - '5:15.0'
+    - ''
+    - ''
+    - 7-12
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '4:56.0'
+    - L. Sprewell misses 2-pt shot from 3 ft
+    - ''
+    - 7-12
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 7-12
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '4:46.0'
+    - ''
+    - ''
+    - 7-14
+    - "+2"
+    - M. Bibby makes 2-pt shot from 16 ft
+  - - '4:23.0'
+    - M. Jackson makes 2-pt shot from 4 ft
+    - "+2"
+    - 9-14
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 9-16
+    - "+2"
+    - M. Bibby makes 2-pt shot from 18 ft (assist by M. Dickerson)
+  - - '3:49.0'
+    - Personal foul by M. Bibby
+    - ''
+    - 9-16
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 9-16
+    - ''
+    - S. Swift enters the game for T. Massenburg
+  - - '3:39.0'
+    - M. Jackson makes 2-pt shot from 9 ft
+    - "+2"
+    - 11-16
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 11-18
+    - "+2"
+    - B. Reeves makes 2-pt shot from 17 ft (assist by S. Abdur-Rahim)
+  - - '3:16.0'
+    - New York full timeout
+    - ''
+    - 11-18
+    - ''
+    - ''
+  - - '3:16.0'
+    - K. Thomas enters the game for L. Johnson
+    - ''
+    - 11-18
+    - ''
+    - ''
+  - - '3:16.0'
+    - G. Rice enters the game for A. Houston
+    - ''
+    - 11-18
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 11-18
+    - ''
+    - D. Jones enters the game for M. Dickerson
+  - - '3:10.0'
+    - Offensive foul by K. Thomas
+    - ''
+    - 11-18
+    - ''
+    - ''
+  - - '3:10.0'
+    - Turnover by K. Thomas (foul)
+    - ''
+    - 11-18
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 11-20
+    - "+2"
+    - B. Reeves makes 2-pt shot from 17 ft (assist by M. Bibby)
+  - - '2:34.0'
+    - L. Sprewell makes 2-pt shot from 14 ft (assist by M. Jackson)
+    - "+2"
+    - 13-20
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 13-22
+    - "+2"
+    - S. Swift makes 2-pt shot from 16 ft (assist by M. Bibby)
+  - - '1:54.0'
+    - M. Jackson misses 3-pt shot from 25 ft
+    - ''
+    - 13-22
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 13-22
+    - ''
+    - Defensive rebound by S. Swift
+  - - '1:31.0'
+    - ''
+    - ''
+    - 13-22
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '1:31.0'
+    - Defensive rebound by Team
+    - ''
+    - 13-22
+    - ''
+    - ''
+  - - '1:15.0'
+    - K. Thomas misses 2-pt shot from 13 ft (block by B. Reeves)
+    - ''
+    - 13-22
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 13-22
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '1:03.0'
+    - ''
+    - ''
+    - 13-24
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 12 ft
+  - - '0:46.9'
+    - M. Camby misses 2-pt shot from 4 ft
+    - ''
+    - 13-24
+    - ''
+    - ''
+  - - '0:45.4'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Defensive rebound by S. Swift
+  - - '0:32.9'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - B. Reeves misses 2-pt shot from 17 ft
+  - - '0:30.7'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 13-24
+    - ''
+    - ''
+  - - '0:16.9'
+    - K. Thomas misses 2-pt shot from 14 ft
+    - ''
+    - 13-24
+    - ''
+    - ''
+  - - '0:13.9'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '0:00.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - B. Reeves misses 3-pt shot from 26 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 13-27
+    - "+3"
+    - D. Jones makes 3-pt shot from 25 ft (assist by S. Abdur-Rahim)
+  - - '11:17.0'
+    - G. Rice misses 3-pt shot from 23 ft
+    - ''
+    - 13-27
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 13-27
+    - ''
+    - Defensive rebound by D. Jones
+  - - '11:02.0'
+    - ''
+    - ''
+    - 13-27
+    - ''
+    - Turnover by T. Massenburg (lost ball; steal by K. Thomas)
+  - - '10:46.0'
+    - M. Camby makes 2-pt shot from 3 ft (assist by G. Rice)
+    - "+2"
+    - 15-27
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 15-27
+    - ''
+    - Shooting foul by M. Camby
+  - - '10:24.0'
+    - ''
+    - ''
+    - 15-28
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '10:24.0'
+    - ''
+    - ''
+    - 15-29
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '10:08.0'
+    - K. Thomas makes 2-pt shot from 11 ft
+    - "+2"
+    - 17-29
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 17-29
+    - ''
+    - M. Dickerson misses 2-pt shot from 4 ft (block by M. Camby)
+  - - '9:50.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 17-29
+    - ''
+    - ''
+  - - '9:44.0'
+    - L. Sprewell makes 2-pt shot from 20 ft (assist by C. Ward)
+    - "+2"
+    - 19-29
+    - ''
+    - ''
+  - - '9:21.0'
+    - ''
+    - ''
+    - 19-29
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 18 ft
+  - - '9:16.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 19-29
+    - ''
+    - ''
+  - - '8:59.0'
+    - M. Camby makes 2-pt shot from 16 ft (assist by G. Rice)
+    - "+2"
+    - 21-29
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Vancouver full timeout
+  - - '8:37.0'
+    - ''
+    - ''
+    - 21-31
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 18 ft
+  - - '8:13.0'
+    - G. Rice misses 2-pt shot from 7 ft
+    - ''
+    - 21-31
+    - ''
+    - ''
+  - - '8:11.0'
+    - Offensive rebound by C. Ward
+    - ''
+    - 21-31
+    - ''
+    - ''
+  - - '8:06.0'
+    - C. Ward makes 2-pt shot from 4 ft (assist by K. Thomas)
+    - "+2"
+    - 23-31
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 23-33
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 19 ft (assist by D. Jones)
+  - - '7:29.0'
+    - K. Thomas misses 2-pt shot from 8 ft (block by S. Swift)
+    - ''
+    - 23-33
+    - ''
+    - ''
+  - - '7:26.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '7:20.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - D. Jones misses 3-pt shot from 26 ft
+  - - '7:18.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 23-33
+    - ''
+    - ''
+  - - '7:09.0'
+    - L. Sprewell misses 2-pt shot from 16 ft
+    - ''
+    - 23-33
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '6:58.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - Personal foul by G. Rice
+  - - '6:58.0'
+    - L. Johnson enters the game for L. Sprewell
+    - ''
+    - 23-33
+    - ''
+    - ''
+  - - '6:58.0'
+    - A. Houston enters the game for M. Camby
+    - ''
+    - 23-33
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - Shooting foul by L. Johnson
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-34
+    - "+1"
+    - M. Dickerson makes free throw 1 of 2
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-34
+    - ''
+    - B. Reeves enters the game for T. Massenburg
+  - - '6:48.0'
+    - ''
+    - ''
+    - 23-35
+    - "+1"
+    - M. Dickerson makes free throw 2 of 2
+  - - '6:36.0'
+    - K. Thomas makes 2-pt shot from 7 ft (assist by C. Ward)
+    - "+2"
+    - 25-35
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Turnover by M. Bibby (lost ball; steal by C. Ward)
+  - - '6:19.0'
+    - G. Rice misses 3-pt shot from 24 ft
+    - ''
+    - 25-35
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '6:02.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - S. Swift misses 2-pt shot from 9 ft
+  - - '6:02.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Offensive rebound by Team
+  - - '6:02.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Loose ball foul by A. Houston
+  - - '5:42.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball)
+  - - '5:42.0'
+    - Official timeout
+    - ''
+    - 25-35
+    - ''
+    - ''
+  - - '5:33.0'
+    - A. Houston makes 2-pt shot from 20 ft (assist by C. Ward)
+    - "+2"
+    - 27-35
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 27-37
+    - "+2"
+    - M. Bibby makes 2-pt shot from 20 ft (assist by M. Dickerson)
+  - - '5:02.0'
+    - A. Houston makes 2-pt shot from 21 ft (assist by C. Ward)
+    - "+2"
+    - 29-37
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 29-37
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 4 ft
+  - - '4:40.0'
+    - ''
+    - ''
+    - 29-39
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 4 ft
+  - - '4:40.0'
+    - ''
+    - ''
+    - 29-39
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '4:33.0'
+    - New York full timeout
+    - ''
+    - 29-39
+    - ''
+    - ''
+  - - '4:18.0'
+    - L. Johnson misses 2-pt shot from 6 ft
+    - ''
+    - 29-39
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 29-39
+    - ''
+    - Defensive rebound by S. Swift
+  - - '3:58.0'
+    - ''
+    - ''
+    - 29-42
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 25 ft (assist by M. Bibby)
+  - - '3:38.0'
+    - A. Houston makes 2-pt shot from 13 ft (assist by C. Ward)
+    - "+2"
+    - 31-42
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 31-42
+    - ''
+    - S. Swift misses 2-pt shot from 6 ft
+  - - '3:22.0'
+    - Defensive rebound by L. Johnson
+    - ''
+    - 31-42
+    - ''
+    - ''
+  - - '3:16.0'
+    - L. Johnson makes 2-pt shot from 3 ft
+    - "+2"
+    - 33-42
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 33-44
+    - "+2"
+    - B. Reeves makes 2-pt shot from 15 ft (assist by M. Bibby)
+  - - '2:44.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Violation by Team (illegal defense)
+  - - '2:44.0'
+    - M. Camby enters the game for G. Rice
+    - ''
+    - 33-44
+    - ''
+    - ''
+  - - '2:44.0'
+    - L. Sprewell enters the game for C. Ward
+    - ''
+    - 33-44
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - T. Massenburg enters the game for S. Swift
+  - - '2:31.0'
+    - K. Thomas makes 2-pt shot from 13 ft (assist by L. Johnson)
+    - "+2"
+    - 35-44
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 35-46
+    - "+2"
+    - B. Reeves makes 2-pt shot from 7 ft (assist by M. Bibby)
+  - - '2:09.0'
+    - New York 20 second timeout
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '2:01.0'
+    - A. Houston misses 2-pt shot from 19 ft
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 35-46
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '1:46.0'
+    - ''
+    - ''
+    - 35-46
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '1:45.0'
+    - Defensive rebound by L. Johnson
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '1:35.0'
+    - Offensive foul by L. Johnson
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '1:35.0'
+    - Turnover by L. Johnson (foul)
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '1:35.0'
+    - G. Rice enters the game for L. Johnson
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 35-48
+    - "+2"
+    - M. Bibby makes 2-pt shot from 19 ft
+  - - '1:10.0'
+    - L. Sprewell misses 2-pt shot from 10 ft
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '0:57.9'
+    - ''
+    - ''
+    - 35-50
+    - "+2"
+    - B. Reeves makes 2-pt shot from 1 ft (assist by T. Massenburg)
+  - - '0:37.2'
+    - L. Sprewell makes 2-pt shot from 10 ft
+    - "+2"
+    - 37-50
+    - ''
+    - ''
+  - - '0:16.3'
+    - ''
+    - ''
+    - 37-52
+    - "+2"
+    - M. Bibby makes 2-pt shot from 21 ft
+  - - '0:02.9'
+    - L. Sprewell misses 2-pt shot from 17 ft
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 37-52
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '0:00.0'
+    - ''
+    - ''
+    - 37-52
+    - ''
+    - M. Dickerson misses 3-pt shot from 38 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 37-52
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 37-54
+    - "+2"
+    - M. Bibby makes 2-pt shot from 14 ft (assist by S. Abdur-Rahim)
+  - - '11:30.0'
+    - A. Houston makes 2-pt shot from 15 ft (assist by M. Jackson)
+    - "+2"
+    - 39-54
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 39-56
+    - "+2"
+    - T. Massenburg makes 2-pt shot from 8 ft (assist by M. Dickerson)
+  - - '10:46.0'
+    - L. Johnson misses 3-pt shot from 23 ft
+    - ''
+    - 39-56
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 39-56
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '10:29.0'
+    - ''
+    - ''
+    - 39-58
+    - "+2"
+    - B. Reeves makes 2-pt shot from 18 ft (assist by M. Bibby)
+  - - '10:27.0'
+    - New York full timeout
+    - ''
+    - 39-58
+    - ''
+    - ''
+  - - '10:07.0'
+    - L. Sprewell misses 2-pt shot from 22 ft
+    - ''
+    - 39-58
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 39-58
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '9:52.0'
+    - ''
+    - ''
+    - 39-60
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 11 ft
+  - - '9:32.0'
+    - L. Johnson misses 2-pt shot from 12 ft
+    - ''
+    - 39-60
+    - ''
+    - ''
+  - - '9:30.0'
+    - ''
+    - ''
+    - 39-60
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '9:25.0'
+    - ''
+    - ''
+    - 39-60
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 18 ft
+  - - '9:23.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 39-60
+    - ''
+    - ''
+  - - '9:17.0'
+    - L. Sprewell misses 2-pt shot from 6 ft (block by T. Massenburg)
+    - ''
+    - 39-60
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 39-60
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '9:04.0'
+    - ''
+    - ''
+    - 39-60
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '9:03.0'
+    - ''
+    - ''
+    - 39-62
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 3 ft
+  - - '9:03.0'
+    - ''
+    - ''
+    - 39-62
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '9:03.0'
+    - ''
+    - ''
+    - 39-62
+    - ''
+    - Shooting foul by L. Johnson
+  - - '9:03.0'
+    - ''
+    - ''
+    - 39-63
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 1
+  - - '8:45.0'
+    - M. Jackson makes 2-pt shot from 8 ft
+    - "+2"
+    - 41-63
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 41-63
+    - ''
+    - M. Dickerson misses 2-pt shot from 20 ft
+  - - '8:30.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 41-63
+    - ''
+    - ''
+  - - '8:28.0'
+    - L. Sprewell misses 2-pt shot from 2 ft
+    - ''
+    - 41-63
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 41-63
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '8:17.0'
+    - ''
+    - ''
+    - 41-65
+    - "+2"
+    - M. Bibby makes 2-pt shot from 19 ft
+  - - '7:57.0'
+    - A. Houston misses 2-pt shot from 16 ft
+    - ''
+    - 41-65
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 41-65
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '7:39.0'
+    - ''
+    - ''
+    - 41-67
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 13 ft (assist by M. Dickerson)
+  - - '7:38.0'
+    - New York full timeout
+    - ''
+    - 41-67
+    - ''
+    - ''
+  - - '7:25.0'
+    - M. Jackson makes 2-pt shot from 8 ft
+    - "+2"
+    - 43-67
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - Turnover by T. Massenburg (3 second)
+  - - '6:46.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '6:34.0'
+    - Turnover by M. Camby (out of bounds)
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - B. Reeves misses 2-pt shot from 12 ft
+  - - '6:21.0'
+    - Defensive rebound by M. Camby
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '6:15.0'
+    - Turnover by M. Jackson (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - Personal foul by L. Sprewell
+  - - '6:05.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - M. Dickerson misses 2-pt shot from 16 ft
+  - - '6:05.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - Offensive rebound by Team
+  - - '5:46.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '5:44.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '5:30.0'
+    - L. Johnson misses 2-pt shot from 7 ft
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '5:29.0'
+    - Offensive rebound by L. Sprewell
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '5:28.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '5:22.0'
+    - A. Houston misses 3-pt shot from 25 ft
+    - ''
+    - 43-67
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '5:11.0'
+    - ''
+    - ''
+    - 43-67
+    - ''
+    - Shooting foul by L. Johnson
+  - - '5:11.0'
+    - ''
+    - ''
+    - 43-68
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '5:11.0'
+    - K. Thomas enters the game for L. Johnson
+    - ''
+    - 43-68
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 43-68
+    - ''
+    - D. Jones enters the game for M. Dickerson
+  - - '5:11.0'
+    - ''
+    - ''
+    - 43-69
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '4:55.0'
+    - Turnover by M. Camby (out of bounds)
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '4:38.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '4:33.0'
+    - New York full timeout
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '4:31.0'
+    - Personal foul by T. Massenburg
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '4:20.0'
+    - M. Jackson misses 2-pt shot from 10 ft
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '4:02.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - B. Reeves misses 2-pt shot from 17 ft
+  - - '4:00.0'
+    - Defensive rebound by L. Sprewell
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:52.0'
+    - K. Thomas misses 2-pt shot from 12 ft
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '3:30.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - D. Jones misses 3-pt shot from 24 ft
+  - - '3:28.0'
+    - Defensive rebound by M. Jackson
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:11.0'
+    - A. Houston misses 3-pt shot from 25 ft
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:09.0'
+    - Offensive rebound by L. Sprewell
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:04.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:04.0'
+    - C. Ward enters the game for M. Jackson
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - S. Swift enters the game for T. Massenburg
+  - - '2:58.0'
+    - L. Sprewell misses 2-pt shot from 8 ft
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '2:47.0'
+    - ''
+    - ''
+    - 43-69
+    - ''
+    - M. Bibby misses 3-pt shot from 27 ft
+  - - '2:45.0'
+    - Defensive rebound by A. Houston
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - New York 20 second timeout
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - G. Rice enters the game for M. Camby
+    - ''
+    - 43-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - A. Houston makes free throw 1 of 2
+    - "+1"
+    - 44-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - A. Houston makes free throw 2 of 2
+    - "+1"
+    - 45-69
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 45-71
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by B. Reeves)
+  - - '2:22.0'
+    - ''
+    - ''
+    - 45-71
+    - ''
+    - Shooting foul by A. Houston
+  - - '2:22.0'
+    - ''
+    - ''
+    - 45-72
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 1
+  - - '2:11.0'
+    - K. Thomas makes 2-pt shot from 3 ft (assist by L. Sprewell)
+    - "+2"
+    - 47-72
+    - ''
+    - ''
+  - - '1:48.0'
+    - ''
+    - ''
+    - 47-75
+    - "+3"
+    - D. Jones makes 3-pt shot from 26 ft (assist by M. Bibby)
+  - - '1:28.0'
+    - A. Houston makes 2-pt shot from 9 ft
+    - "+2"
+    - 49-75
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - Shooting foul by L. Sprewell
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - M. Dickerson enters the game for M. Bibby
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - S. Swift misses free throw 1 of 2
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - Offensive rebound by Team
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - G. Long enters the game for S. Abdur-Rahim
+  - - '1:22.0'
+    - ''
+    - ''
+    - 49-76
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '1:12.0'
+    - K. Thomas misses 2-pt shot from 19 ft
+    - ''
+    - 49-76
+    - ''
+    - ''
+  - - '1:10.0'
+    - Offensive rebound by G. Rice
+    - ''
+    - 49-76
+    - ''
+    - ''
+  - - '1:08.0'
+    - G. Rice misses 2-pt shot from 16 ft (block by S. Swift)
+    - ''
+    - 49-76
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 49-76
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '0:45.1'
+    - ''
+    - ''
+    - 49-76
+    - ''
+    - Shooting foul by K. Thomas
+  - - '0:45.1'
+    - ''
+    - ''
+    - 49-77
+    - "+1"
+    - M. Dickerson makes free throw 1 of 2
+  - - '0:45.1'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - T. Massenburg enters the game for B. Reeves
+  - - '0:45.1'
+    - ''
+    - ''
+    - 49-78
+    - "+1"
+    - M. Dickerson makes free throw 2 of 2
+  - - '0:36.9'
+    - Personal foul by D. Jones
+    - ''
+    - 49-78
+    - ''
+    - ''
+  - - '0:36.9'
+    - C. Ward misses free throw 1 of 2
+    - ''
+    - 49-78
+    - ''
+    - ''
+  - - '0:36.9'
+    - Offensive rebound by Team
+    - ''
+    - 49-78
+    - ''
+    - ''
+  - - '0:36.9'
+    - C. Ward makes free throw 2 of 2
+    - "+1"
+    - 50-78
+    - ''
+    - ''
+  - - '0:16.9'
+    - ''
+    - ''
+    - 50-78
+    - ''
+    - M. Dickerson misses 2-pt shot from 14 ft (block by C. Ward)
+  - - '0:14.9'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 50-78
+    - ''
+    - ''
+  - - '0:02.9'
+    - L. Sprewell misses 2-pt shot from 2 ft
+    - ''
+    - 50-78
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 50-78
+    - ''
+    - Defensive rebound by G. Long
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - G. Rice makes 2-pt shot from 18 ft (assist by C. Ward)
+    - "+2"
+    - 52-78
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 52-78
+    - ''
+    - G. Long misses 2-pt shot from 20 ft
+  - - '11:16.0'
+    - Defensive rebound by L. Postell
+    - ''
+    - 52-78
+    - ''
+    - ''
+  - - '11:10.0'
+    - Offensive foul by T. Knight
+    - ''
+    - 52-78
+    - ''
+    - ''
+  - - '11:10.0'
+    - Turnover by T. Knight (foul)
+    - ''
+    - 52-78
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 52-78
+    - ''
+    - S. Swift misses 2-pt shot from 14 ft
+  - - '10:43.0'
+    - Defensive rebound by G. Rice
+    - ''
+    - 52-78
+    - ''
+    - ''
+  - - '10:27.0'
+    - C. Ward makes 2-pt shot from 21 ft (assist by O. Harrington)
+    - "+2"
+    - 54-78
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 54-80
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 18 ft (assist by G. Long)
+  - - '9:46.0'
+    - Personal foul by T. Massenburg
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 54-80
+    - ''
+    - S. Abdur-Rahim enters the game for G. Long
+  - - '9:39.0'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '9:28.0'
+    - G. Rice misses 2-pt shot from 21 ft
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 54-80
+    - ''
+    - Defensive rebound by Team
+  - - '9:07.0'
+    - ''
+    - ''
+    - 54-80
+    - ''
+    - D. Jones misses 2-pt shot from 7 ft
+  - - '9:05.0'
+    - Defensive rebound by T. Knight
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '8:57.0'
+    - Ill def tech foul by Team
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '8:57.0'
+    - Official timeout
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 54-80
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '8:57.0'
+    - F. Spencer enters the game for G. Rice
+    - ''
+    - 54-80
+    - ''
+    - ''
+  - - '8:57.0'
+    - C. Ward makes free throw technical
+    - "+1"
+    - 55-80
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 55-80
+    - ''
+    - Violation by M. Bibby (kicked ball)
+  - - '8:46.0'
+    - L. Postell misses 2-pt shot from 14 ft
+    - ''
+    - 55-80
+    - ''
+    - ''
+  - - '8:43.0'
+    - Offensive rebound by O. Harrington
+    - ''
+    - 55-80
+    - ''
+    - ''
+  - - '8:38.0'
+    - T. Knight makes 2-pt shot from 17 ft (assist by C. Ward)
+    - "+2"
+    - 57-80
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 57-80
+    - ''
+    - M. Dickerson misses 2-pt shot from 17 ft
+  - - '8:13.0'
+    - Defensive rebound by O. Harrington
+    - ''
+    - 57-80
+    - ''
+    - ''
+  - - '8:05.0'
+    - C. Ward makes 3-pt shot from 25 ft
+    - "+3"
+    - 60-80
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 60-80
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 20 ft
+  - - '7:46.0'
+    - Defensive rebound by C. Ward
+    - ''
+    - 60-80
+    - ''
+    - ''
+  - - '7:36.0'
+    - C. Ward makes 2-pt shot from 20 ft
+    - "+2"
+    - 62-80
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - Vancouver full timeout
+  - - '7:35.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - B. Reeves enters the game for S. Swift
+  - - '7:32.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - Turnover by M. Bibby (lost ball; steal by O. Harrington)
+  - - '7:23.0'
+    - O. Harrington misses 2-pt shot from 8 ft
+    - ''
+    - 62-80
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '7:22.0'
+    - ''
+    - ''
+    - 62-80
+    - ''
+    - Loose ball foul by F. Spencer
+  - - '7:00.0'
+    - ''
+    - ''
+    - 62-82
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 18 ft (assist by M. Dickerson)
+  - - '6:34.0'
+    - T. Knight misses 2-pt shot from 18 ft
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '6:15.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - Personal foul by O. Harrington
+  - - '6:08.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - B. Reeves misses 2-pt shot from 18 ft
+  - - '6:06.0'
+    - Defensive rebound by C. Ward
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:57.0'
+    - L. Postell misses 2-pt shot from 17 ft
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:57.0'
+    - Offensive rebound by O. Harrington
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:57.0'
+    - Loose ball foul by T. Massenburg
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:51.0'
+    - L. Postell misses 2-pt shot from 4 ft
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '5:34.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - S. Abdur-Rahim misses 3-pt shot from 24 ft
+  - - '5:32.0'
+    - Defensive rebound by F. Spencer
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:18.0'
+    - O. Harrington misses 2-pt shot from 13 ft
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '4:54.0'
+    - ''
+    - ''
+    - 62-82
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '4:53.0'
+    - Defensive rebound by C. Ward
+    - ''
+    - 62-82
+    - ''
+    - ''
+  - - '4:51.0'
+    - L. Postell makes 2-pt shot from 1 ft (assist by C. Ward)
+    - "+2"
+    - 64-82
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 64-82
+    - ''
+    - M. Bibby misses 2-pt shot from 21 ft
+  - - '4:31.0'
+    - Defensive rebound by Team
+    - ''
+    - 64-82
+    - ''
+    - ''
+  - - '4:31.0'
+    - Loose ball foul by B. Reeves
+    - ''
+    - 64-82
+    - ''
+    - ''
+  - - '4:12.0'
+    - F. Spencer misses 2-pt shot from 6 ft
+    - ''
+    - 64-82
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 64-82
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '3:49.0'
+    - ''
+    - ''
+    - 64-82
+    - ''
+    - B. Reeves misses 2-pt shot from 18 ft
+  - - '3:46.0'
+    - Defensive rebound by T. Knight
+    - ''
+    - 64-82
+    - ''
+    - ''
+  - - '3:44.0'
+    - Turnover by C. Ward (bad pass)
+    - ''
+    - 64-82
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 64-82
+    - ''
+    - Shooting foul by C. Ward
+  - - '3:32.0'
+    - ''
+    - ''
+    - 64-82
+    - ''
+    - Vancouver full timeout
+  - - '3:32.0'
+    - ''
+    - ''
+    - 64-83
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '3:32.0'
+    - ''
+    - ''
+    - 64-84
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '3:14.0'
+    - T. Knight misses 2-pt shot from 18 ft
+    - ''
+    - 64-84
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 64-84
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '2:54.0'
+    - ''
+    - ''
+    - 64-86
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 17 ft (assist by M. Dickerson)
+  - - '2:32.0'
+    - O. Harrington misses 2-pt shot from 15 ft
+    - ''
+    - 64-86
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 64-86
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '2:09.0'
+    - ''
+    - ''
+    - 64-88
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 19 ft
+  - - '1:51.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - K. Edwards enters the game for S. Abdur-Rahim
+  - - '1:51.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - S. Swift enters the game for T. Massenburg
+  - - '1:51.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - D. Jones enters the game for B. Reeves
+  - - '1:51.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - G. Long enters the game for M. Bibby
+  - - '1:51.0'
+    - T. Knight misses free throw 1 of 2
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:51.0'
+    - T. Knight misses free throw 2 of 2
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - Defensive rebound by G. Long
+  - - '1:32.0'
+    - ''
+    - ''
+    - 64-88
+    - ''
+    - G. Long misses 2-pt shot from 5 ft
+  - - '1:30.0'
+    - Defensive rebound by T. Knight
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:26.0'
+    - Personal foul by K. Edwards
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:26.0'
+    - O. Harrington misses free throw 1 of 2
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:26.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-88
+    - ''
+    - ''
+  - - '1:26.0'
+    - O. Harrington makes free throw 2 of 2
+    - "+1"
+    - 65-88
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Personal foul by O. Harrington
+  - - '1:08.0'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Turnover by G. Long (bad pass)
+  - - '0:50.4'
+    - L. Postell misses 2-pt shot from 21 ft
+    - ''
+    - 65-88
+    - ''
+    - ''
+  - - '0:50.4'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Defensive rebound by Team
+  - - '0:49.6'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Double personal foul by K. Edwards and O. Harrington
+  - - '0:49.6'
+    - 'Jump ball: S. Swift vs. O. Harrington'
+  - - '0:49.6'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Loose ball foul by O. Harrington
+  - - '0:49.6'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - S. Swift misses free throw 1 of 2
+  - - '0:49.6'
+    - ''
+    - ''
+    - 65-88
+    - ''
+    - Offensive rebound by Team
+  - - '0:49.6'
+    - ''
+    - ''
+    - 65-89
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '0:40.9'
+    - C. Ward makes 2-pt shot from 4 ft
+    - "+2"
+    - 67-89
+    - ''
+    - ''
+  - - '0:28.9'
+    - ''
+    - ''
+    - 67-89
+    - ''
+    - K. Edwards misses 2-pt shot from 21 ft
+  - - '0:27.0'
+    - Defensive rebound by F. Spencer
+    - ''
+    - 67-89
+    - ''
+    - ''
+  - - '0:27.0'
+    - Loose ball foul by S. Swift
+    - ''
+    - 67-89
+    - ''
+    - ''
+  - - '0:27.0'
+    - F. Spencer makes free throw 1 of 2
+    - "+1"
+    - 68-89
+    - ''
+    - ''
+  - - '0:27.0'
+    - F. Spencer misses free throw 2 of 2
+    - ''
+    - 68-89
+    - ''
+    - ''
+  - - '0:26.8'
+    - ''
+    - ''
+    - 68-89
+    - ''
+    - Defensive rebound by S. Swift
+  - - '0:03.9'
+    - ''
+    - ''
+    - 68-89
+    - ''
+    - G. Long misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - Defensive rebound by O. Harrington
+    - ''
+    - 68-89
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

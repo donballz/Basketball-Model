@@ -1,0 +1,2742 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Smith vs. C. Mihm (W. Person gains possession)'
+  - - '11:51.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Violation by Team (illegal defense)
+  - - '11:35.0'
+    - A. Miller misses 2-pt shot from 1 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:32.0'
+    - Offensive rebound by C. Mihm
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - C. Mihm makes 2-pt shot from 1 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - C. Laettner makes 2-pt shot from 15 ft
+  - - '11:02.0'
+    - Turnover by C. Mihm (out of bounds)
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by R. Hamilton (illegal pick)
+  - - '10:39.0'
+    - W. Person misses 2-pt shot from 20 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by M. Smith
+  - - '10:33.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - C. Laettner makes 2-pt shot from 2 ft (assist by L. Profit)
+  - - '10:21.0'
+    - M. Harpring misses 2-pt shot from 10 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:19.0'
+    - Offensive rebound by C. Mihm
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:17.0'
+    - C. Mihm makes 2-pt shot at rim
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - M. Smith misses 2-pt shot from 4 ft
+  - - '10:09.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Offensive rebound by M. Smith
+  - - '10:09.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - M. Smith makes 2-pt shot from 2 ft
+  - - '10:09.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Shooting foul by A. Miller
+  - - '10:09.0'
+    - ''
+    - ''
+    - 4-7
+    - "+1"
+    - M. Smith makes free throw 1 of 1
+  - - '9:56.0'
+    - Shooting foul by R. Hamilton
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '9:56.0'
+    - M. Harpring makes free throw 1 of 2
+    - "+1"
+    - 5-7
+    - ''
+    - ''
+  - - '9:56.0'
+    - M. Harpring misses free throw 2 of 2
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '9:36.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - R. Hamilton misses 2-pt shot from 13 ft
+  - - '9:34.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Offensive rebound by C. Laettner
+  - - '9:33.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Shooting foul by C. Weatherspoon
+  - - '9:33.0'
+    - ''
+    - ''
+    - 5-8
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '9:33.0'
+    - ''
+    - ''
+    - 5-9
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '9:17.0'
+    - W. Person misses 2-pt shot from 4 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Defensive rebound by M. Smith
+  - - '9:11.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '9:09.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Offensive rebound by C. Alexander
+  - - '9:04.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - C. Laettner misses 2-pt shot from 2 ft
+  - - '9:02.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:57.0'
+    - L. Murray enters the game for M. Harpring
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:47.0'
+    - Turnover by A. Miller (bad pass; steal by C. Laettner)
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - C. Laettner misses 2-pt shot from 20 ft
+  - - '8:33.0'
+    - Defensive rebound by A. Miller
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:27.0'
+    - A. Miller misses 2-pt shot from 13 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:25.0'
+    - Offensive rebound by C. Weatherspoon
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:22.0'
+    - W. Person misses 2-pt shot from 18 ft
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - Defensive rebound by M. Smith
+  - - '8:16.0'
+    - ''
+    - ''
+    - 5-11
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 2 ft (assist by M. Smith)
+  - - '7:58.0'
+    - C. Weatherspoon makes 2-pt shot from 1 ft (assist by A. Miller)
+    - "+2"
+    - 7-11
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 7-11
+    - ''
+    - R. Hamilton misses 2-pt shot from 6 ft
+  - - '7:34.0'
+    - Defensive rebound by Team
+    - ''
+    - 7-11
+    - ''
+    - ''
+  - - '7:25.0'
+    - Personal foul by M. Smith
+    - ''
+    - 7-11
+    - ''
+    - ''
+  - - '7:21.0'
+    - A. Miller makes 2-pt shot at rim
+    - "+2"
+    - 9-11
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - Personal foul by L. Murray
+  - - '7:07.0'
+    - ''
+    - ''
+    - 9-13
+    - "+2"
+    - C. Alexander makes 2-pt shot from 20 ft (assist by L. Profit)
+  - - '6:49.0'
+    - C. Weatherspoon makes 2-pt shot from 4 ft (assist by A. Miller)
+    - "+2"
+    - 11-13
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 11-13
+    - ''
+    - C. Alexander misses 2-pt shot from 18 ft
+  - - '6:28.0'
+    - Defensive rebound by W. Person
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '6:26.0'
+    - A. Miller makes 2-pt shot at rim
+    - "+2"
+    - 13-13
+    - ''
+    - ''
+  - - '6:26.0'
+    - Shooting foul by L. Profit
+    - ''
+    - 13-13
+    - ''
+    - ''
+  - - '6:26.0'
+    - A. Miller misses free throw 1 of 1
+    - ''
+    - 13-13
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 13-13
+    - ''
+    - Defensive rebound by L. Profit
+  - - '6:01.0'
+    - ''
+    - ''
+    - 13-15
+    - "+2"
+    - C. Laettner makes 2-pt shot from 17 ft (assist by L. Profit)
+  - - '5:42.0'
+    - L. Murray makes 3-pt shot from 25 ft (assist by A. Miller)
+    - "+3"
+    - 16-15
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - R. Hamilton misses 2-pt shot from 8 ft
+  - - '5:24.0'
+    - Defensive rebound by C. Mihm
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '5:12.0'
+    - A. Miller makes 2-pt shot from 23 ft
+    - "+2"
+    - 18-15
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Shooting foul by A. Miller
+  - - '5:04.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Washington full timeout
+  - - '5:04.0'
+    - B. Coles enters the game for A. Miller
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 18-16
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '5:04.0'
+    - ''
+    - ''
+    - 18-17
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '4:43.0'
+    - L. Murray misses 2-pt shot from 20 ft
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '4:42.0'
+    - Offensive rebound by L. Murray
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '4:35.0'
+    - L. Murray misses 2-pt shot from 18 ft
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '4:34.0'
+    - Offensive rebound by W. Person
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '4:32.0'
+    - W. Person makes 2-pt shot from 8 ft
+    - "+2"
+    - 20-17
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - L. Profit misses 2-pt shot from 6 ft (block by C. Mihm)
+  - - '4:02.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - Offensive rebound by C. Laettner
+  - - '4:02.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - C. Laettner misses 2-pt shot from 1 ft
+  - - '4:02.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - Offensive rebound by Team
+  - - '4:02.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - D. Vanterpool enters the game for L. Profit
+  - - '3:49.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - D. Vanterpool misses 2-pt shot from 19 ft
+  - - '3:47.0'
+    - Defensive rebound by W. Person
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '3:42.0'
+    - Turnover by W. Person (traveling)
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - C. Laettner misses 2-pt shot from 17 ft
+  - - '3:28.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '3:18.0'
+    - B. Coles makes 2-pt shot from 19 ft
+    - "+2"
+    - 22-17
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - Personal foul by W. Person
+  - - '3:11.0'
+    - ''
+    - ''
+    - 22-18
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '3:11.0'
+    - ''
+    - ''
+    - 22-19
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '3:10.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - P. Jones enters the game for M. Smith
+  - - '2:58.0'
+    - B. Coles misses 2-pt shot from 20 ft
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '2:56.0'
+    - Offensive rebound by L. Murray
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '2:55.0'
+    - L. Murray makes 2-pt shot from 2 ft
+    - "+2"
+    - 24-19
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 24-19
+    - ''
+    - C. Alexander misses 2-pt shot from 1 ft
+  - - '2:41.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '2:35.0'
+    - Turnover by L. Murray (bad pass; steal by R. Hamilton)
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 24-21
+    - "+2"
+    - C. Alexander makes 2-pt shot from 1 ft (assist by R. Hamilton)
+  - - '2:11.0'
+    - C. Mihm misses 2-pt shot from 7 ft
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '2:10.0'
+    - Offensive rebound by C. Weatherspoon
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '2:08.0'
+    - Turnover by C. Weatherspoon (lost ball; steal by D. Vanterpool)
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - Personal foul by B. Coles
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - Washington full timeout
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - D. Vanterpool misses free throw 1 of 2
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - Offensive rebound by Team
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - T. Nesby enters the game for C. Alexander
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - L. Vaught enters the game for C. Laettner
+  - - '2:04.0'
+    - ''
+    - ''
+    - 24-22
+    - "+1"
+    - D. Vanterpool makes free throw 2 of 2
+  - - '1:43.0'
+    - B. Coles misses 2-pt shot from 18 ft
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - Defensive rebound by P. Jones
+  - - '1:32.0'
+    - ''
+    - ''
+    - 24-22
+    - ''
+    - L. Vaught misses 2-pt shot from 15 ft
+  - - '1:30.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '1:20.0'
+    - Turnover by L. Murray (bad pass; steal by L. Vaught)
+    - ''
+    - 24-22
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 24-24
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 18 ft (assist by T. Nesby)
+  - - '0:43.0'
+    - Offensive foul by C. Mihm
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '0:43.0'
+    - Turnover by C. Mihm (foul)
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '0:43.0'
+    - C. Gatling enters the game for C. Mihm
+    - ''
+    - 24-24
+    - ''
+    - ''
+  - - '0:32.9'
+    - ''
+    - ''
+    - 24-26
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 2 ft
+  - - '0:19.9'
+    - W. Person misses 2-pt shot from 3 ft
+    - ''
+    - 24-26
+    - ''
+    - ''
+  - - '0:17.9'
+    - ''
+    - ''
+    - 24-26
+    - ''
+    - Defensive rebound by P. Jones
+  - - '0:00.9'
+    - ''
+    - ''
+    - 24-26
+    - ''
+    - D. Vanterpool misses 2-pt shot from 17 ft
+  - - '0:00.0'
+    - Defensive rebound by W. Person
+    - ''
+    - 24-26
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:36.0'
+    - ''
+    - ''
+    - 24-26
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '11:34.0'
+    - ''
+    - ''
+    - 24-26
+    - ''
+    - Offensive rebound by L. Vaught
+  - - '11:33.0'
+    - ''
+    - ''
+    - 24-28
+    - "+2"
+    - L. Vaught makes 2-pt shot from 4 ft
+  - - '11:15.0'
+    - C. Gatling makes 2-pt shot from 15 ft (assist by A. Miller)
+    - "+2"
+    - 26-28
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 26-30
+    - "+2"
+    - L. Vaught makes 2-pt shot from 16 ft (assist by D. Vanterpool)
+  - - '10:37.0'
+    - R. Traylor makes 2-pt shot from 1 ft (assist by T. Langdon)
+    - "+2"
+    - 28-30
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - Personal foul by T. Langdon
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - R. Hamilton misses 2-pt shot from 4 ft
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - Offensive rebound by P. Jones
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-30
+    - ''
+    - Shooting foul by T. Langdon
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-31
+    - "+1"
+    - P. Jones makes free throw 1 of 2
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - L. Profit enters the game for R. Hamilton
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-31
+    - ''
+    - C. Alexander enters the game for D. Vanterpool
+  - - '10:24.0'
+    - ''
+    - ''
+    - 28-32
+    - "+1"
+    - P. Jones makes free throw 2 of 2
+  - - '10:05.0'
+    - L. Murray makes 2-pt shot from 15 ft (assist by R. Traylor)
+    - "+2"
+    - 30-32
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 30-34
+    - "+2"
+    - C. Alexander makes 2-pt shot from 18 ft (assist by L. Profit)
+  - - '9:39.0'
+    - Turnover by L. Murray (bad pass; steal by T. Nesby)
+    - ''
+    - 30-34
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 30-34
+    - ''
+    - P. Jones misses 2-pt shot from 5 ft
+  - - '9:28.0'
+    - Defensive rebound by L. Murray
+    - ''
+    - 30-34
+    - ''
+    - ''
+  - - '9:22.0'
+    - Shooting foul by T. Nesby
+    - ''
+    - 30-34
+    - ''
+    - ''
+  - - '9:22.0'
+    - L. Murray misses free throw 1 of 2
+    - ''
+    - 30-34
+    - ''
+    - ''
+  - - '9:22.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-34
+    - ''
+    - ''
+  - - '9:22.0'
+    - L. Murray makes free throw 2 of 2
+    - "+1"
+    - 31-34
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 31-36
+    - "+2"
+    - C. Alexander makes 2-pt shot from 9 ft
+  - - '8:52.0'
+    - L. Murray makes 2-pt shot from 17 ft
+    - "+2"
+    - 33-36
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - C. Alexander misses 2-pt shot from 15 ft
+  - - '8:37.0'
+    - Defensive rebound by C. Gatling
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '8:23.0'
+    - R. Traylor misses 2-pt shot from 14 ft
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '8:16.0'
+    - ''
+    - ''
+    - 33-38
+    - "+2"
+    - C. Alexander makes 2-pt shot from 2 ft
+  - - '7:55.0'
+    - L. Murray misses 2-pt shot from 19 ft
+    - ''
+    - 33-38
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - Defensive rebound by Team
+  - - '7:53.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - Official timeout
+  - - '7:40.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - Turnover by L. Profit (bad pass)
+  - - '7:23.0'
+    - Turnover by C. Gatling (lost ball; steal by T. Nesby)
+    - ''
+    - 33-38
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - T. Nesby misses 2-pt shot from 11 ft
+  - - '7:13.0'
+    - Defensive rebound by A. Miller
+    - ''
+    - 33-38
+    - ''
+    - ''
+  - - '7:10.0'
+    - Turnover by T. Langdon (bad pass)
+    - ''
+    - 33-38
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - C. Laettner enters the game for P. Jones
+  - - '7:10.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - M. Smith enters the game for L. Vaught
+  - - '6:49.0'
+    - ''
+    - ''
+    - 33-38
+    - ''
+    - C. Alexander misses 2-pt shot from 5 ft (block by R. Traylor)
+  - - '6:47.0'
+    - Defensive rebound by L. Murray
+    - ''
+    - 33-38
+    - ''
+    - ''
+  - - '6:44.0'
+    - A. Miller makes 2-pt shot from 1 ft (assist by L. Murray)
+    - "+2"
+    - 35-38
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Washington full timeout
+  - - '6:21.0'
+    - ''
+    - ''
+    - 35-40
+    - "+2"
+    - T. Nesby makes 2-pt shot from 12 ft (assist by C. Alexander)
+  - - '6:06.0'
+    - C. Gatling misses 2-pt shot from 17 ft
+    - ''
+    - 35-40
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by R. Traylor
+    - ''
+    - 35-40
+    - ''
+    - ''
+  - - '6:01.0'
+    - R. Traylor makes 2-pt shot from 8 ft
+    - "+2"
+    - 37-40
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 37-42
+    - "+2"
+    - L. Profit makes 2-pt shot from 20 ft
+  - - '5:21.0'
+    - T. Langdon makes 3-pt shot from 24 ft (assist by A. Miller)
+    - "+3"
+    - 40-42
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 40-42
+    - ''
+    - Shooting foul by R. Traylor
+  - - '5:13.0'
+    - M. Harpring enters the game for T. Langdon
+    - ''
+    - 40-42
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 40-43
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '5:13.0'
+    - ''
+    - ''
+    - 40-44
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '5:03.0'
+    - C. Gatling misses 2-pt shot from 21 ft
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - Defensive rebound by T. Nesby
+  - - '4:41.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - Turnover by L. Profit (bad pass; steal by A. Miller)
+  - - '4:35.0'
+    - A. Miller misses 2-pt shot from 2 ft
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '4:34.0'
+    - Offensive rebound by R. Traylor
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '4:32.0'
+    - R. Traylor makes 2-pt shot from 1 ft
+    - "+2"
+    - 42-44
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - C. Alexander misses 2-pt shot from 5 ft (block by R. Traylor)
+  - - '4:20.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Offensive rebound by Team
+  - - '4:20.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - R. Hamilton enters the game for T. Nesby
+  - - '4:20.0'
+    - C. Weatherspoon enters the game for C. Gatling
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 42-46
+    - "+2"
+    - C. Laettner makes 2-pt shot from 17 ft (assist by R. Hamilton)
+  - - '3:47.0'
+    - A. Miller makes 2-pt shot from 6 ft
+    - "+2"
+    - 44-46
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 44-48
+    - "+2"
+    - C. Alexander makes 2-pt shot from 20 ft (assist by R. Hamilton)
+  - - '3:29.0'
+    - L. Murray misses 2-pt shot from 2 ft
+    - ''
+    - 44-48
+    - ''
+    - ''
+  - - '3:29.0'
+    - Offensive rebound by R. Traylor
+    - ''
+    - 44-48
+    - ''
+    - ''
+  - - '3:29.0'
+    - R. Traylor makes 2-pt shot from 1 ft
+    - "+2"
+    - 46-48
+    - ''
+    - ''
+  - - '3:29.0'
+    - Shooting foul by M. Smith
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '3:29.0'
+    - R. Traylor makes free throw 1 of 1
+    - "+1"
+    - 47-48
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 47-48
+    - ''
+    - C. Alexander misses 2-pt shot from 17 ft
+  - - '3:10.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 47-48
+    - ''
+    - ''
+  - - '3:02.0'
+    - R. Traylor misses 2-pt shot from 5 ft
+    - ''
+    - 47-48
+    - ''
+    - ''
+  - - '3:00.0'
+    - Offensive rebound by C. Weatherspoon
+    - ''
+    - 47-48
+    - ''
+    - ''
+  - - '2:59.0'
+    - C. Weatherspoon makes 2-pt shot from 1 ft
+    - "+2"
+    - 49-48
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - Personal foul by M. Harpring
+  - - '2:38.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - Washington full timeout
+  - - '2:38.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - P. Jones enters the game for M. Smith
+  - - '2:22.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - R. Hamilton misses 2-pt shot from 10 ft
+  - - '2:20.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 49-48
+    - ''
+    - ''
+  - - '2:15.0'
+    - A. Miller misses 2-pt shot from 8 ft
+    - ''
+    - 49-48
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '2:01.0'
+    - ''
+    - ''
+    - 49-48
+    - ''
+    - R. Hamilton misses 2-pt shot from 6 ft (block by R. Traylor)
+  - - '1:58.0'
+    - Defensive rebound by L. Murray
+    - ''
+    - 49-48
+    - ''
+    - ''
+  - - '1:54.0'
+    - Turnover by R. Traylor (lost ball)
+    - ''
+    - 49-48
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 49-50
+    - "+2"
+    - C. Laettner makes 2-pt shot from 15 ft
+  - - '1:15.0'
+    - L. Murray misses 2-pt shot from 19 ft
+    - ''
+    - 49-50
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 49-50
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '1:06.0'
+    - ''
+    - ''
+    - 49-52
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 1 ft
+  - - '0:47.7'
+    - A. Johnson enters the game for A. Miller
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '0:39.9'
+    - C. Weatherspoon misses 2-pt shot from 4 ft
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '0:38.4'
+    - Offensive rebound by R. Traylor
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '0:38.4'
+    - Shooting foul by P. Jones
+    - ''
+    - 49-52
+    - ''
+    - ''
+  - - '0:38.4'
+    - R. Traylor makes free throw 1 of 2
+    - "+1"
+    - 50-52
+    - ''
+    - ''
+  - - '0:38.4'
+    - R. Traylor misses free throw 2 of 2
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - Defensive rebound by P. Jones
+  - - '0:29.9'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - C. Alexander misses 3-pt shot from 26 ft
+  - - '0:26.9'
+    - Defensive rebound by R. Traylor
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '0:25.9'
+    - Turnover by R. Traylor (lost ball; steal by R. Hamilton)
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '0:24.4'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - Offensive foul by P. Jones
+  - - '0:24.4'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - Turnover by P. Jones (foul)
+  - - '0:24.4'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - Violation by Team (delay of game)
+  - - '0:24.4'
+    - Cleveland 20 second timeout
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '0:24.4'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - L. Vaught enters the game for P. Jones
+  - - '0:24.4'
+    - T. Langdon enters the game for M. Harpring
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '0:03.6'
+    - C. Weatherspoon makes 2-pt shot from 2 ft (assist by R. Traylor)
+    - "+2"
+    - 52-52
+    - ''
+    - ''
+  - - '0:00.7'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - L. Profit misses 3-pt shot from 30 ft (block by A. Johnson)
+  - - '0:00.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - R. Hamilton misses 2-pt shot from 18 ft
+  - - '11:41.0'
+    - Defensive rebound by C. Weatherspoon
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '11:27.0'
+    - Turnover by C. Mihm (traveling)
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Personal foul by M. Harpring
+  - - '11:04.0'
+    - ''
+    - ''
+    - 52-54
+    - "+2"
+    - C. Alexander makes 2-pt shot from 20 ft (assist by L. Profit)
+  - - '10:49.0'
+    - Personal foul by C. Laettner
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '10:42.0'
+    - W. Person makes 2-pt shot from 6 ft (assist by A. Miller)
+    - "+2"
+    - 54-54
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 54-54
+    - ''
+    - Turnover by C. Laettner (lost ball; steal by M. Harpring)
+  - - '10:10.0'
+    - Shooting foul by C. Alexander
+    - ''
+    - 54-54
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 54-54
+    - ''
+    - Technical foul by Team
+  - - '10:10.0'
+    - A. Miller makes free throw technical
+    - "+1"
+    - 55-54
+    - ''
+    - ''
+  - - '10:10.0'
+    - W. Person misses free throw 1 of 2
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '10:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '10:10.0'
+    - W. Person makes free throw 2 of 2
+    - "+1"
+    - 56-54
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 56-54
+    - ''
+    - Shooting foul by M. Harpring
+  - - '9:52.0'
+    - ''
+    - ''
+    - 56-55
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '9:52.0'
+    - ''
+    - ''
+    - 56-56
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '9:35.0'
+    - C. Mihm misses 2-pt shot from 6 ft
+    - ''
+    - 56-56
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '9:31.0'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - Turnover by L. Profit (bad pass)
+  - - '9:15.0'
+    - C. Mihm makes 2-pt shot at rim (assist by A. Miller)
+    - "+2"
+    - 58-56
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 58-58
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 15 ft
+  - - '8:34.0'
+    - M. Harpring misses 2-pt shot from 17 ft
+    - ''
+    - 58-58
+    - ''
+    - ''
+  - - '8:32.0'
+    - Offensive rebound by C. Weatherspoon
+    - ''
+    - 58-58
+    - ''
+    - ''
+  - - '8:12.0'
+    - C. Mihm makes 2-pt shot from 16 ft (assist by A. Miller)
+    - "+2"
+    - 60-58
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Turnover by L. Profit (3 second)
+  - - '7:44.0'
+    - A. Miller makes 2-pt shot from 2 ft
+    - "+2"
+    - 62-58
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by W. Person)
+  - - '7:19.0'
+    - C. Weatherspoon misses 2-pt shot from 2 ft
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:18.0'
+    - Offensive rebound by C. Weatherspoon
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:18.0'
+    - Personal foul by M. Smith
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:18.0'
+    - Double technical foul by R. Hamilton and M. Harpring
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:11.0'
+    - A. Miller makes 2-pt shot from 14 ft
+    - "+2"
+    - 64-58
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Washington full timeout
+  - - '6:44.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - R. Hamilton misses 2-pt shot from 13 ft (block by M. Harpring)
+  - - '6:44.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Offensive rebound by Team
+  - - '6:44.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Turnover by Team (shot clock)
+  - - '6:32.0'
+    - Turnover by A. Miller (bad pass)
+    - ''
+    - 64-58
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - P. Jones enters the game for M. Smith
+  - - '6:14.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - C. Alexander misses 3-pt shot from 25 ft
+  - - '6:12.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '6:10.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - R. Hamilton misses 2-pt shot from 4 ft
+  - - '6:08.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '6:07.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - R. Hamilton misses 2-pt shot from 7 ft
+  - - '6:05.0'
+    - Defensive rebound by C. Mihm
+    - ''
+    - 64-58
+    - ''
+    - ''
+  - - '5:56.0'
+    - A. Miller makes 2-pt shot from 2 ft
+    - "+2"
+    - 66-58
+    - ''
+    - ''
+  - - '5:37.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 66-58
+    - ''
+    - D. Vanterpool enters the game for R. Hamilton
+  - - '5:28.0'
+    - ''
+    - ''
+    - 66-58
+    - ''
+    - Turnover by L. Profit (out of bounds)
+  - - '5:14.0'
+    - Ill def tech foul by Team
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '5:14.0'
+    - A. Miller misses free throw technical
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '5:14.0'
+    - Offensive rebound by Team
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 66-58
+    - ''
+    - T. Nesby enters the game for L. Profit
+  - - '5:04.0'
+    - C. Mihm misses 2-pt shot from 21 ft
+    - ''
+    - 66-58
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 66-58
+    - ''
+    - Defensive rebound by P. Jones
+  - - '4:45.0'
+    - ''
+    - ''
+    - 66-60
+    - "+2"
+    - T. Nesby makes 2-pt shot from 13 ft
+  - - '4:30.0'
+    - W. Person misses 2-pt shot from 20 ft
+    - ''
+    - 66-60
+    - ''
+    - ''
+  - - '4:28.0'
+    - ''
+    - ''
+    - 66-60
+    - ''
+    - Defensive rebound by T. Nesby
+  - - '4:24.0'
+    - ''
+    - ''
+    - 66-60
+    - ''
+    - Turnover by D. Vanterpool (bad pass; steal by C. Weatherspoon)
+  - - '4:20.0'
+    - Shooting foul by T. Nesby
+    - ''
+    - 66-60
+    - ''
+    - ''
+  - - '4:20.0'
+    - A. Miller makes free throw 1 of 2
+    - "+1"
+    - 67-60
+    - ''
+    - ''
+  - - '4:20.0'
+    - Cleveland full timeout
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '4:20.0'
+    - A. Miller makes free throw 2 of 2
+    - "+1"
+    - 68-60
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 68-60
+    - ''
+    - D. Vanterpool misses 2-pt shot from 6 ft
+  - - '3:58.0'
+    - Defensive rebound by C. Mihm
+    - ''
+    - 68-60
+    - ''
+    - ''
+  - - '3:44.0'
+    - Personal foul by P. Jones
+    - ''
+    - 68-60
+    - ''
+    - ''
+  - - '3:44.0'
+    - C. Weatherspoon makes free throw 1 of 2
+    - "+1"
+    - 69-60
+    - ''
+    - ''
+  - - '3:44.0'
+    - C. Weatherspoon makes free throw 2 of 2
+    - "+1"
+    - 70-60
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - Turnover by C. Laettner (lost ball)
+  - - '3:16.0'
+    - C. Weatherspoon makes 2-pt shot from 10 ft
+    - "+2"
+    - 72-60
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 72-60
+    - ''
+    - Personal foul by W. Person
+  - - '2:51.0'
+    - ''
+    - ''
+    - 72-62
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 20 ft (assist by C. Alexander)
+  - - '2:29.0'
+    - A. Miller misses 2-pt shot from 11 ft
+    - ''
+    - 72-62
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Defensive rebound by T. Nesby
+  - - '2:19.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - Turnover by D. Vanterpool (bad pass; steal by A. Miller)
+  - - '2:17.0'
+    - Shooting foul by T. Nesby
+    - ''
+    - 72-62
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 72-62
+    - ''
+    - L. Vaught enters the game for C. Laettner
+  - - '2:17.0'
+    - W. Person makes free throw 1 of 2
+    - "+1"
+    - 73-62
+    - ''
+    - ''
+  - - '2:17.0'
+    - L. Murray enters the game for M. Harpring
+    - ''
+    - 73-62
+    - ''
+    - ''
+  - - '2:17.0'
+    - W. Person misses free throw 2 of 2
+    - ''
+    - 73-62
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 73-62
+    - ''
+    - Defensive rebound by L. Vaught
+  - - '2:05.0'
+    - ''
+    - ''
+    - 73-64
+    - "+2"
+    - P. Jones makes 2-pt shot from 20 ft (assist by D. Vanterpool)
+  - - '1:52.0'
+    - Personal foul by L. Vaught
+    - ''
+    - 73-64
+    - ''
+    - ''
+  - - '1:52.0'
+    - C. Weatherspoon makes free throw 1 of 2
+    - "+1"
+    - 74-64
+    - ''
+    - ''
+  - - '1:52.0'
+    - R. Traylor enters the game for C. Mihm
+    - ''
+    - 74-64
+    - ''
+    - ''
+  - - '1:52.0'
+    - C. Weatherspoon makes free throw 2 of 2
+    - "+1"
+    - 75-64
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 75-66
+    - "+2"
+    - C. Alexander makes 2-pt shot from 20 ft (assist by D. Vanterpool)
+  - - '1:24.0'
+    - Personal foul by P. Jones
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 75-66
+    - ''
+    - Technical foul by P. Jones
+  - - '1:24.0'
+    - A. Miller makes free throw technical
+    - "+1"
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Technical foul by T. Nesby
+  - - '1:24.0'
+    - A. Miller misses free throw technical
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - C. Weatherspoon misses free throw 1 of 2
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - A. Johnson enters the game for A. Miller
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - C. Laettner enters the game for P. Jones
+  - - '1:24.0'
+    - C. Weatherspoon makes free throw 2 of 2
+    - "+1"
+    - 77-66
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 77-68
+    - "+2"
+    - C. Alexander makes 2-pt shot from 18 ft
+  - - '0:47.2'
+    - A. Johnson makes 2-pt shot at rim (assist by R. Traylor)
+    - "+2"
+    - 79-68
+    - ''
+    - ''
+  - - '0:38.9'
+    - ''
+    - ''
+    - 79-68
+    - ''
+    - C. Alexander misses 2-pt shot from 10 ft
+  - - '0:36.9'
+    - Defensive rebound by R. Traylor
+    - ''
+    - 79-68
+    - ''
+    - ''
+  - - '0:32.4'
+    - W. Person makes 2-pt shot from 20 ft (assist by A. Johnson)
+    - "+2"
+    - 81-68
+    - ''
+    - ''
+  - - '0:15.5'
+    - ''
+    - ''
+    - 81-70
+    - "+2"
+    - C. Laettner makes 2-pt shot from 18 ft (assist by C. Alexander)
+  - - '0:00.9'
+    - A. Johnson misses 2-pt shot from 4 ft
+    - ''
+    - 81-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by A. Johnson
+    - ''
+    - 81-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - T. Langdon misses 2-pt shot from 15 ft
+    - ''
+    - 81-70
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 81-70
+    - ''
+    - Defensive rebound by T. Nesby
+  - - '11:41.0'
+    - ''
+    - ''
+    - 81-72
+    - "+2"
+    - L. Vaught makes 2-pt shot from 1 ft (assist by D. Vanterpool)
+  - - '11:26.0'
+    - A. Johnson misses 2-pt shot from 9 ft (block by D. Vanterpool)
+    - ''
+    - 81-72
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 81-72
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '11:21.0'
+    - ''
+    - ''
+    - 81-72
+    - ''
+    - Offensive foul by R. Hamilton
+  - - '11:21.0'
+    - ''
+    - ''
+    - 81-72
+    - ''
+    - Turnover by R. Hamilton (foul)
+  - - '11:21.0'
+    - C. Gatling enters the game for C. Weatherspoon
+    - ''
+    - 81-72
+    - ''
+    - ''
+  - - '10:56.0'
+    - C. Gatling makes 2-pt shot from 20 ft (assist by L. Murray)
+    - "+2"
+    - 83-72
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Shooting foul by L. Murray
+  - - '10:40.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - C. Laettner misses free throw 1 of 2
+  - - '10:40.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Offensive rebound by Team
+  - - '10:40.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - C. Laettner misses free throw 2 of 2
+  - - '10:39.0'
+    - Defensive rebound by C. Gatling
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '10:21.0'
+    - Turnover by C. Gatling (bad pass; steal by C. Laettner)
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - T. Nesby misses 2-pt shot from 20 ft
+  - - '10:10.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '10:08.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - R. Hamilton misses 2-pt shot from 10 ft (block by R. Traylor)
+  - - '10:06.0'
+    - Defensive rebound by A. Johnson
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '10:04.0'
+    - Turnover by T. Langdon (lost ball)
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Technical foul by R. Hamilton
+  - - '10:04.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - R. Hamilton ejected from game
+  - - '10:04.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - C. Alexander enters the game for R. Hamilton
+  - - '10:04.0'
+    - T. Langdon misses free throw technical
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Offensive rebound by Team
+  - - '9:45.0'
+    - ''
+    - ''
+    - 83-72
+    - ''
+    - Turnover by L. Vaught (lost ball; steal by R. Traylor)
+  - - '9:41.0'
+    - T. Langdon misses 2-pt shot from 2 ft (block by D. Vanterpool)
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '9:39.0'
+    - Offensive rebound by R. Traylor
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '9:39.0'
+    - Offensive foul by R. Traylor
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '9:39.0'
+    - Turnover by R. Traylor (foul)
+    - ''
+    - 83-72
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 83-74
+    - "+2"
+    - C. Alexander makes 2-pt shot from 19 ft
+  - - '8:56.0'
+    - C. Gatling makes 2-pt shot from 5 ft
+    - "+2"
+    - 85-74
+    - ''
+    - ''
+  - - '8:56.0'
+    - Shooting foul by L. Vaught
+    - ''
+    - 85-74
+    - ''
+    - ''
+  - - '8:56.0'
+    - Official timeout
+    - ''
+    - 85-74
+    - ''
+    - ''
+  - - '8:56.0'
+    - C. Gatling makes free throw 1 of 1
+    - "+1"
+    - 86-74
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 86-74
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:15.0'
+    - L. Murray misses 3-pt shot from 23 ft
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 86-74
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '8:00.0'
+    - ''
+    - ''
+    - 86-74
+    - ''
+    - D. Vanterpool misses 2-pt shot from 2 ft (block by R. Traylor)
+  - - '7:58.0'
+    - Defensive rebound by T. Langdon
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '7:42.0'
+    - C. Gatling misses 2-pt shot from 4 ft (block by C. Alexander)
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '7:42.0'
+    - Offensive rebound by Team
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '7:27.0'
+    - L. Murray makes 2-pt shot from 15 ft (assist by A. Johnson)
+    - "+2"
+    - 88-74
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 88-74
+    - ''
+    - Shooting foul by C. Gatling
+  - - '7:11.0'
+    - ''
+    - ''
+    - 88-75
+    - "+1"
+    - D. Vanterpool makes free throw 1 of 2
+  - - '7:11.0'
+    - ''
+    - ''
+    - 88-76
+    - "+1"
+    - D. Vanterpool makes free throw 2 of 2
+  - - '6:59.0'
+    - A. Johnson makes 2-pt shot from 1 ft
+    - "+2"
+    - 90-76
+    - ''
+    - ''
+  - - '6:59.0'
+    - Shooting foul by T. Nesby
+    - ''
+    - 90-76
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 90-76
+    - ''
+    - L. Profit enters the game for D. Vanterpool
+  - - '6:59.0'
+    - A. Johnson makes free throw 1 of 1
+    - "+1"
+    - 91-76
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 91-76
+    - ''
+    - M. Smith enters the game for L. Vaught
+  - - '6:40.0'
+    - ''
+    - ''
+    - 91-78
+    - "+2"
+    - C. Alexander makes 2-pt shot from 20 ft (assist by L. Profit)
+  - - '6:20.0'
+    - R. Traylor makes 2-pt shot from 2 ft (assist by A. Johnson)
+    - "+2"
+    - 93-78
+    - ''
+    - ''
+  - - '6:20.0'
+    - Shooting foul by M. Smith
+    - ''
+    - 93-78
+    - ''
+    - ''
+  - - '6:20.0'
+    - R. Traylor misses free throw 1 of 1
+    - ''
+    - 93-78
+    - ''
+    - ''
+  - - '6:18.0'
+    - Offensive rebound by C. Gatling
+    - ''
+    - 93-78
+    - ''
+    - ''
+  - - '6:16.0'
+    - C. Gatling makes 2-pt shot from 2 ft
+    - "+2"
+    - 95-78
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 95-78
+    - ''
+    - Personal foul by C. Gatling
+  - - '5:56.0'
+    - ''
+    - ''
+    - 95-78
+    - ''
+    - Shooting foul by L. Murray
+  - - '5:56.0'
+    - ''
+    - ''
+    - 95-78
+    - ''
+    - Washington full timeout
+  - - '5:56.0'
+    - ''
+    - ''
+    - 95-79
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '5:56.0'
+    - ''
+    - ''
+    - 95-80
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '5:36.0'
+    - C. Gatling misses 2-pt shot from 7 ft (block by C. Laettner)
+    - ''
+    - 95-80
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 95-80
+    - ''
+    - Defensive rebound by L. Profit
+  - - '5:21.0'
+    - ''
+    - ''
+    - 95-80
+    - ''
+    - Shooting foul by R. Traylor
+  - - '5:21.0'
+    - ''
+    - ''
+    - 95-81
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '5:21.0'
+    - ''
+    - ''
+    - 95-81
+    - ''
+    - M. Smith enters the game for T. Nesby
+  - - '5:21.0'
+    - ''
+    - ''
+    - 95-82
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '5:19.0'
+    - Personal foul by L. Profit
+    - ''
+    - 95-82
+    - ''
+    - ''
+  - - '5:15.0'
+    - R. Traylor makes 2-pt shot from 1 ft (assist by L. Murray)
+    - "+2"
+    - 97-82
+    - ''
+    - ''
+  - - '5:15.0'
+    - Shooting foul by C. Laettner
+    - ''
+    - 97-82
+    - ''
+    - ''
+  - - '5:15.0'
+    - R. Traylor makes free throw 1 of 1
+    - "+1"
+    - 98-82
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 98-84
+    - "+2"
+    - C. Alexander makes 2-pt shot from 17 ft
+  - - '4:49.0'
+    - C. Gatling makes 2-pt shot from 4 ft (assist by A. Johnson)
+    - "+2"
+    - 100-84
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 100-84
+    - ''
+    - Personal foul by A. Johnson
+  - - '4:42.0'
+    - ''
+    - ''
+    - 100-85
+    - "+1"
+    - L. Profit makes free throw 1 of 2
+  - - '4:42.0'
+    - ''
+    - ''
+    - 100-86
+    - "+1"
+    - L. Profit makes free throw 2 of 2
+  - - '4:37.0'
+    - R. Traylor makes 2-pt shot from 2 ft (assist by T. Langdon)
+    - "+2"
+    - 102-86
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 102-86
+    - ''
+    - Washington full timeout
+  - - '4:26.0'
+    - ''
+    - ''
+    - 102-86
+    - ''
+    - Turnover by L. Profit (bad pass)
+  - - '4:11.0'
+    - C. Gatling makes 2-pt shot from 19 ft (assist by A. Johnson)
+    - "+2"
+    - 104-86
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 104-86
+    - ''
+    - L. Profit misses 2-pt shot from 3 ft (block by R. Traylor)
+  - - '3:58.0'
+    - Defensive rebound by R. Traylor
+    - ''
+    - 104-86
+    - ''
+    - ''
+  - - '3:54.0'
+    - T. Langdon misses 3-pt shot from 25 ft
+    - ''
+    - 104-86
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 104-86
+    - ''
+    - Defensive rebound by M. Smith
+  - - '3:43.0'
+    - ''
+    - ''
+    - 104-88
+    - "+2"
+    - C. Laettner makes 2-pt shot from 1 ft (assist by C. Alexander)
+  - - '3:22.0'
+    - T. Langdon misses 3-pt shot from 27 ft
+    - ''
+    - 104-88
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 104-88
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '3:13.0'
+    - ''
+    - ''
+    - 104-88
+    - ''
+    - Shooting foul by R. Traylor
+  - - '3:13.0'
+    - ''
+    - ''
+    - 104-89
+    - "+1"
+    - C. Laettner makes free throw 1 of 2
+  - - '3:13.0'
+    - ''
+    - ''
+    - 104-89
+    - ''
+    - D. Vanterpool enters the game for L. Profit
+  - - '3:13.0'
+    - ''
+    - ''
+    - 104-90
+    - "+1"
+    - C. Laettner makes free throw 2 of 2
+  - - '3:01.0'
+    - C. Gatling misses 2-pt shot from 20 ft
+    - ''
+    - 104-90
+    - ''
+    - ''
+  - - '3:00.0'
+    - Offensive rebound by L. Murray
+    - ''
+    - 104-90
+    - ''
+    - ''
+  - - '2:57.0'
+    - Turnover by L. Murray (lost ball; steal by D. Vanterpool)
+    - ''
+    - 104-90
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 104-92
+    - "+2"
+    - C. Alexander makes 2-pt shot from 18 ft
+  - - '2:32.0'
+    - A. Johnson misses 2-pt shot from 17 ft
+    - ''
+    - 104-92
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 104-92
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '2:23.0'
+    - ''
+    - ''
+    - 104-92
+    - ''
+    - C. Alexander misses 3-pt shot from 24 ft
+  - - '2:21.0'
+    - ''
+    - ''
+    - 104-92
+    - ''
+    - Offensive rebound by D. Vanterpool
+  - - '2:19.0'
+    - ''
+    - ''
+    - 104-94
+    - "+2"
+    - C. Laettner makes 2-pt shot from 1 ft (assist by D. Vanterpool)
+  - - '2:15.0'
+    - Cleveland full timeout
+    - ''
+    - 104-94
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 104-94
+    - ''
+    - L. Vaught enters the game for C. Laettner
+  - - '2:15.0'
+    - ''
+    - ''
+    - 104-94
+    - ''
+    - L. Profit enters the game for M. Smith
+  - - '1:50.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 104-94
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 104-94
+    - ''
+    - Shooting foul by R. Traylor
+  - - '1:37.0'
+    - ''
+    - ''
+    - 104-95
+    - "+1"
+    - C. Alexander makes free throw 1 of 2
+  - - '1:37.0'
+    - ''
+    - ''
+    - 104-96
+    - "+1"
+    - C. Alexander makes free throw 2 of 2
+  - - '1:17.0'
+    - C. Gatling misses 2-pt shot from 16 ft
+    - ''
+    - 104-96
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 104-96
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '1:10.0'
+    - ''
+    - ''
+    - 104-98
+    - "+2"
+    - C. Alexander makes 2-pt shot from 16 ft
+  - - '1:08.0'
+    - Personal foul by C. Alexander
+    - ''
+    - 104-98
+    - ''
+    - ''
+  - - '1:08.0'
+    - T. Langdon makes free throw 1 of 2
+    - "+1"
+    - 105-98
+    - ''
+    - ''
+  - - '1:08.0'
+    - T. Langdon makes free throw 2 of 2
+    - "+1"
+    - 106-98
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 106-98
+    - ''
+    - L. Profit misses 3-pt shot from 24 ft
+  - - '0:49.1'
+    - Defensive rebound by Team
+    - ''
+    - 106-98
+    - ''
+    - ''
+  - - '0:26.9'
+    - A. Johnson misses 2-pt shot from 13 ft
+    - ''
+    - 106-98
+    - ''
+    - ''
+  - - '0:24.6'
+    - ''
+    - ''
+    - 106-98
+    - ''
+    - Defensive rebound by M. Smith
+  - - '0:12.9'
+    - ''
+    - ''
+    - 106-98
+    - ''
+    - C. Alexander misses 3-pt shot from 27 ft
+  - - '0:11.4'
+    - Defensive rebound by R. Traylor
+    - ''
+    - 106-98
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

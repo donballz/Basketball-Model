@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -18&#9642;Off: +7&#9642;Net: -25)'
+    - |2-
+
+      -14
+    - 250/-14
+    - 210/
+    - 40/+6
+    - 86/-10
+    - 413/
+    - 'Michael Curry (On: -20&#9642;Off: +9&#9642;Net: -29)'
+    - |2-
+
+      -10
+    - 214/-10
+    - 286/
+    - 86/-10
+    - 414/
+    - 'Joe Smith (On: -18&#9642;Off: +7&#9642;Net: -25)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 80/
+    - 169/+6
+    - 128/-12
+    - 73/
+    - 48/+2
+    - 228/0
+    - 21/
+    - 'Jerry Stackhouse (On: -21&#9642;Off: +10&#9642;Net: -31)'
+    - |2-
+
+      -14
+    - 250/-14
+    - 197/
+    - 53/+6
+    - 250/-13
+    - 249/0
+    - 'Ben Wallace (On: -24&#9642;Off: +13&#9642;Net: -37)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 76/+10
+    - 99/
+    - 40/0
+    - 34/
+    - 198/-15
+    - 184/
+    - 84/-5
+    - 31/
+    - 'Billy Owens (On: +8&#9642;Off: -19&#9642;Net: +27)'
+    - "\n"
+    - 220/
+    - 30/-4
+    - 189/+10
+    - 310/
+    - 130/+2
+    - 119/
+    - 'Mateen Cleaves (On: +3&#9642;Off: -14&#9642;Net: +17)'
+    - "\n"
+    - 250/
+    - 202/+10
+    - 139/
+    - 107/-5
+    - 218/
+    - 82/-2
+    - 'Mikki Moore (On: +15&#9642;Off: -26&#9642;Net: +41)'
+    - "\n"
+    - 249/
+    - 168/+14
+    - 52/
+    - 30/+2
+    - 132/
+    - 117/-1
+    - 234/
+    - 14/0
+    - 'Corliss Williamson (On: +13&#9642;Off: -24&#9642;Net: +37)'
+    - "\n"
+    - 250/
+    - 250/+16
+    - 91/
+    - 159/-3
+    - 249/0
+    - 'Dana Barros (On: +7&#9642;Off: -18&#9642;Net: +25)'
+    - "\n"
+    - 701/
+    - 48/+2
+    - 162/+2
+    - 60/
+    - 28/+3
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +29&#9642;Off: -18&#9642;Net: +47)'
+    - |2-
+
+      +14
+    - 250/+14
+    - 96/
+    - 153/-3
+    - 250/+13
+    - 112/
+    - 137/+5
+    - 'Kevin Garnett (On: +17&#9642;Off: -6&#9642;Net: +23)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 71/-10
+    - 105/
+    - 74/-2
+    - 198/+15
+    - 51/
+    - 249/0
+    - 'Anthony Peeler (On: +28&#9642;Off: -17&#9642;Net: +45)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 29/-4
+    - 137/
+    - 83/-2
+    - 170/+16
+    - 183/
+    - 117/+4
+    - 28/
+    - 'Reggie Slater (On: +11&#9642;Off: 0&#9642;Net: +11)'
+    - |2-
+
+      +4
+    - 152/+4
+    - 242/
+    - 22/-4
+    - 81/
+    - 86/+10
+    - 275/
+    - 13/+1
+    - 125/
+    - 'Wally Szczerbiak (On: +17&#9642;Off: -6&#9642;Net: +23)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 32/
+    - 217/-12
+    - 249/+13
+    - 52/-1
+    - 73/
+    - 125/+3
+    - 'Rasho Nesterovic (On: 0&#9642;Off: +11&#9642;Net: -11)'
+    - "\n"
+    - 159/
+    - 91/+10
+    - 141/-10
+    - 609/
+    - 'Chauncey Billups (On: -19&#9642;Off: +30&#9642;Net: -49)'
+    - "\n"
+    - 250/
+    - 90/-13
+    - 334/
+    - 75/-3
+    - 101/-3
+    - 148/
+    - 'Sam Mitchell (On: -16&#9642;Off: +27&#9642;Net: -43)'
+    - "\n"
+    - 250/
+    - 162/-14
+    - 395/
+    - 62/-2
+    - 130/
+    - 'LaPhonso Ellis (On: -9&#9642;Off: +20&#9642;Net: -29)'
+    - "\n"
+    - 326/
+    - 173/-6
+    - 201/
+    - 48/-2
+    - 108/-5
+    - 17/
+    - 124/+4
+    - 'Dean Garrett (On: +3&#9642;Off: +8&#9642;Net: -5)'
+    - "\n"
+    - 592/
+    - 159/+3
+    - 250/
+    - 'William Avery (On: -5&#9642;Off: +16&#9642;Net: -21)'
+    - "\n"
+    - 751/
+    - 109/-5
+    - 141/
+    - 'Felipe Lopez (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - "\n"
+    - 978/
+    - 24/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

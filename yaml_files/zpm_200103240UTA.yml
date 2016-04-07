@@ -1,0 +1,214 @@
+---
+- name: Plus-Minus
+  data:
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Courtney Alexander (On: -12&#9642;Off: -14&#9642;Net: +2)'
+    - |2-
+
+      -10
+    - 111/-10
+    - 138/
+    - 123/-1
+    - 126/
+    - 249/0
+    - 51/-1
+    - 199/
+    - 'Hubert Davis (On: -23&#9642;Off: -3&#9642;Net: -20)'
+    - |2-
+
+      -23
+    - 217/-23
+    - 785/
+    - 'Richard Hamilton (On: -11&#9642;Off: -15&#9642;Net: +4)'
+    - |2-
+
+      -15
+    - 129/-15
+    - 103/
+    - 17/-2
+    - 158/+3
+    - 91/
+    - 249/0
+    - 107/
+    - 102/+3
+    - 39/
+    - 'Christian Laettner (On: -19&#9642;Off: -7&#9642;Net: -12)'
+    - |2-
+
+      -15
+    - 130/-15
+    - 120/
+    - 95/-2
+    - 154/
+    - 237/-2
+    - 262/
+    - 'Jahidi White (On: -25&#9642;Off: -1&#9642;Net: -24)'
+    - |2-
+
+      -23
+    - 216/-23
+    - 132/
+    - 151/0
+    - 237/-2
+    - 263/
+    - 'Mike Smith (On: -14&#9642;Off: -12&#9642;Net: -2)'
+    - "\n"
+    - 111/
+    - 138/-18
+    - 98/
+    - 151/0
+    - 250/
+    - 250/+4
+    - 'Popeye Jones (On: -7&#9642;Off: -19&#9642;Net: +12)'
+    - "\n"
+    - 131/
+    - 119/-13
+    - 98/
+    - 151/0
+    - 237/
+    - 12/+2
+    - 249/+4
+    - 'David Vanterpool (On: -13&#9642;Off: -13&#9642;Net: 0)'
+    - "\n"
+    - 130/
+    - 97/-11
+    - 182/
+    - 23/-3
+    - 65/
+    - 249/0
+    - 100/-4
+    - 113/
+    - 36/+5
+    - 'Laron Profit (On: -3&#9642;Off: -23&#9642;Net: +20)'
+    - "\n"
+    - 218/
+    - 31/-5
+    - 95/-2
+    - 34/
+    - 120/-1
+    - 304/
+    - 195/+5
+    - 'Loy Vaught (On: -3&#9642;Off: -23&#9642;Net: +20)'
+    - "\n"
+    - 218/
+    - 31/-5
+    - 95/-2
+    - 93/
+    - 61/-2
+    - 237/
+    - 12/+2
+    - 249/+4
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +30&#9642;Off: -4&#9642;Net: +34)'
+    - |2-
+
+      +23
+    - 216/+23
+    - 284/
+    - 157/+7
+    - 343/
+    - 'Donyell Marshall (On: +19&#9642;Off: +7&#9642;Net: +12)'
+    - |2-
+
+      +18
+    - 159/+18
+    - 341/
+    - 203/+1
+    - 297/
+    - 'Olden Polynice (On: +29&#9642;Off: -3&#9642;Net: +32)'
+    - |2-
+
+      +28
+    - 250/+28
+    - 250/
+    - 183/+1
+    - 317/
+    - 'John Starks (On: +26&#9642;Off: 0&#9642;Net: +26)'
+    - |2-
+
+      +26
+    - 243/+26
+    - 257/
+    - 250/0
+    - 250/
+    - 'John Stockton (On: +23&#9642;Off: +3&#9642;Net: +20)'
+    - |2-
+
+      +15
+    - 130/+15
+    - 370/
+    - 85/+8
+    - 415/
+    - 'Jacque Vaughn (On: +3&#9642;Off: +23&#9642;Net: -20)'
+    - "\n"
+    - 131/
+    - 119/+13
+    - 250/+2
+    - 86/
+    - 164/-8
+    - 248/-4
+    - 'Bryon Russell (On: +11&#9642;Off: +15&#9642;Net: -4)'
+    - "\n"
+    - 163/
+    - 86/+10
+    - 95/+2
+    - 359/
+    - 44/-1
+    - 23/0
+    - 227/
+    - 'Danny Manning (On: +1&#9642;Off: +25&#9642;Net: -24)'
+    - "\n"
+    - 218/
+    - 31/+5
+    - 95/+2
+    - 316/
+    - 88/-7
+    - 51/+1
+    - 198/
+    - 'David Benoit (On: -1&#9642;Off: +27&#9642;Net: -28)'
+    - "\n"
+    - 249/
+    - 1/+2
+    - 250/+2
+    - 305/
+    - 194/-5
+    - 'Greg Ostertag (On: -3&#9642;Off: +29&#9642;Net: -32)'
+    - "\n"
+    - 250/
+    - 250/+2
+    - 190/
+    - 59/-1
+    - 250/-4
+    - 'John Crotty (On: -4&#9642;Off: +30&#9642;Net: -34)'
+    - "\n"
+    - 349/
+    - 151/0
+    - 250/
+    - 250/-4
+    - 'Scott Padgett (On: -4&#9642;Off: +30&#9642;Net: -34)'
+    - "\n"
+    - 349/
+    - 151/0
+    - 282/
+    - 218/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

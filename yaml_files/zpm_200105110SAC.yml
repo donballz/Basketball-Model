@@ -1,0 +1,225 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +28&#9642;Off: -6&#9642;Net: +34)'
+    - |2-
+
+      +10
+    - 185/+10
+    - 64/
+    - 163/+5
+    - 85/
+    - 1/0
+    - 243/+2
+    - 6/
+    - 213/+11
+    - 35/
+    - 'Derek Fisher (On: +18&#9642;Off: +4&#9642;Net: +14)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 98/+1
+    - 97/
+    - 54/-4
+    - 243/+2
+    - 66/
+    - 152/+9
+    - 37/
+    - 'Rick Fox (On: +18&#9642;Off: +4&#9642;Net: +14)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 105/
+    - 144/-2
+    - 249/+2
+    - 58/+2
+    - 37/
+    - 99/+6
+    - 55/
+    - 'Horace Grant (On: +19&#9642;Off: +3&#9642;Net: +16)'
+    - |2-
+
+      +12
+    - 193/+12
+    - 80/
+    - 223/-1
+    - 2/
+    - 229/+2
+    - 114/
+    - 99/+6
+    - 56/
+    - 'Shaquille O''Neal (On: +17&#9642;Off: +5&#9642;Net: +12)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 47/-2
+    - 58/
+    - 10/0
+    - 134/
+    - 249/+2
+    - 164/+7
+    - 85/
+    - 'Brian Shaw (On: +2&#9642;Off: +20&#9642;Net: -18)'
+    - "\n"
+    - 190/
+    - 59/0
+    - 249/-1
+    - 244/
+    - 5/0
+    - 94/+3
+    - 123/
+    - 32/0
+    - 'Robert Horry (On: +2&#9642;Off: +20&#9642;Net: -18)'
+    - "\n"
+    - 193/
+    - 55/-2
+    - 18/0
+    - 34/
+    - 46/+3
+    - 24/
+    - 126/-2
+    - 235/
+    - 13/0
+    - 94/+3
+    - 123/
+    - 31/0
+    - 'Tyronn Lue (On: 0&#9642;Off: +22&#9642;Net: -22)'
+    - "\n"
+    - 417/
+    - 24/-2
+    - 302/
+    - 5/0
+    - 199/
+    - 51/+2
+    - 'Mark Madsen (On: +4&#9642;Off: +18&#9642;Net: -14)'
+    - "\n"
+    - 923/
+    - 79/+4
+    - 'Devean George (On: +2&#9642;Off: +20&#9642;Net: -18)'
+    - "\n"
+    - 951/
+    - 51/+2
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: -16&#9642;Off: -6&#9642;Net: -10)'
+    - |2-
+
+      -12
+    - 147/-12
+    - 102/
+    - 249/+1
+    - 140/+1
+    - 131/
+    - 172/-6
+    - 56/
+    - 'Vlade Divac (On: -5&#9642;Off: -17&#9642;Net: +12)'
+    - |2-
+
+      -10
+    - 185/-10
+    - 8/
+    - 56/+2
+    - 151/
+    - 95/+6
+    - 2/
+    - 140/+1
+    - 134/
+    - 139/-4
+    - 84/
+    - 'Peja Stojakovic (On: -12&#9642;Off: -10&#9642;Net: -2)'
+    - |2-
+
+      -10
+    - 249/-10
+    - 151/
+    - 98/+6
+    - 249/-2
+    - 95/
+    - 99/-6
+    - 56/
+    - 'Chris Webber (On: -22&#9642;Off: 0&#9642;Net: -22)'
+    - |2-
+
+      -12
+    - 190/-12
+    - 59/
+    - 250/+1
+    - 250/-2
+    - 194/-9
+    - 55/
+    - 'Jason Williams (On: -3&#9642;Off: -19&#9642;Net: +16)'
+    - |2-
+
+      -10
+    - 186/-10
+    - 216/
+    - 98/+6
+    - 140/+1
+    - 359/
+    - 'Bobby Jackson (On: -11&#9642;Off: -11&#9642;Net: 0)'
+    - "\n"
+    - 150/
+    - 98/+2
+    - 148/-5
+    - 100/
+    - 1/0
+    - 147/
+    - 101/-3
+    - 16/-3
+    - 182/
+    - 51/-2
+    - 'Scot Pollard (On: -11&#9642;Off: -11&#9642;Net: 0)'
+    - "\n"
+    - 190/
+    - 59/0
+    - 149/-5
+    - 248/
+    - 102/-3
+    - 21/-3
+    - 228/
+    - 'Hedo Turkoglu (On: -15&#9642;Off: -7&#9642;Net: -8)'
+    - "\n"
+    - 190/
+    - 59/0
+    - 148/-5
+    - 248/
+    - 102/-3
+    - 94/-3
+    - 76/
+    - 79/-4
+    - 'Jon Barry (On: -11&#9642;Off: -11&#9642;Net: 0)'
+    - "\n"
+    - 752/
+    - 250/-11
+    - 'Lawrence Funderburke (On: -2&#9642;Off: -20&#9642;Net: +18)'
+    - "\n"
+    - 951/
+    - 51/-2
+    - 'Darrick Martin (On: -2&#9642;Off: -20&#9642;Net: +18)'
+    - "\n"
+    - 951/
+    - 51/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

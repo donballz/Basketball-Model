@@ -1,0 +1,225 @@
+---
+- name: Plus-Minus
+  data:
+  - - Chicago Bulls
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Elton Brand (On: 0&#9642;Off: -11&#9642;Net: +11)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 104/0
+    - 66/
+    - 80/+2
+    - 172/+5
+    - 78/
+    - 248/-8
+    - 'Bryce Drew (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 211/-1
+    - 153/
+    - 135/-3
+    - 249/+1
+    - 75/-6
+    - 62/
+    - 112/+2
+    - 'Fred Hoiberg (On: -1&#9642;Off: -10&#9642;Net: +9)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 91/0
+    - 56/
+    - 101/-2
+    - 232/+4
+    - 98/
+    - 139/-4
+    - 30/
+    - 'Ron Mercer (On: -6&#9642;Off: -5&#9642;Net: -1)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 108/-2
+    - 73/
+    - 69/+4
+    - 249/+1
+    - 130/-10
+    - 119/
+    - 'Michael Ruffin (On: +8&#9642;Off: -19&#9642;Net: +27)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 91/0
+    - 89/
+    - 69/+4
+    - 249/+1
+    - 136/
+    - 114/+2
+    - 'Khalid El-Amin (On: -14&#9642;Off: +3&#9642;Net: -17)'
+    - "\n"
+    - 217/
+    - 32/+2
+    - 143/-3
+    - 343/
+    - 12/-3
+    - 215/-10
+    - 35/
+    - 'Corey Benjamin (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - "\n"
+    - 347/
+    - 80/-9
+    - 551/
+    - 22/+2
+    - 'Brad Miller (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - "\n"
+    - 347/
+    - 71/-7
+    - 583/
+    - 'Marcus Fizer (On: -23&#9642;Off: +12&#9642;Net: -35)'
+    - "\n"
+    - 357/
+    - 68/-9
+    - 247/
+    - 76/-4
+    - 137/-10
+    - 113/
+    - 'Jamal Crawford (On: +2&#9642;Off: -13&#9642;Net: +15)'
+    - "\n"
+    - 972/
+    - 30/+2
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +6&#9642;Off: +5&#9642;Net: +1)'
+    - |2-
+
+      +1
+    - 210/+1
+    - 186/
+    - 28/+6
+    - 73/
+    - 49/+1
+    - 60/
+    - 106/+1
+    - 168/
+    - 39/-3
+    - 75/
+    - 'Allen Iverson (On: +13&#9642;Off: -2&#9642;Net: +15)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 250/+5
+    - 250/-1
+    - 215/+10
+    - 34/
+    - 'George Lynch (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 91/0
+    - 158/
+    - 242/-3
+    - 48/
+    - 181/+8
+    - 28/
+    - 'Aaron McKie (On: +9&#9642;Off: +2&#9642;Net: +7)'
+    - |2-
+
+      -1
+    - 248/-1
+    - 91/0
+    - 71/
+    - 86/-1
+    - 171/-5
+    - 76/
+    - 1/+2
+    - 129/+10
+    - 35/
+    - 54/+4
+    - 31/
+    - 'Theo Ratliff (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 248/-1
+    - 91/0
+    - 89/
+    - 68/-4
+    - 171/-5
+    - 49/
+    - 29/+1
+    - 129/+10
+    - 51/
+    - 40/+3
+    - 28/
+    - 'Kevin Ollie (On: +15&#9642;Off: -4&#9642;Net: +19)'
+    - "\n"
+    - 217/
+    - 32/-2
+    - 161/+6
+    - 260/
+    - 76/+4
+    - 160/+6
+    - 25/
+    - 30/+3
+    - 6/
+    - 27/-2
+    - 'Rodney Buford (On: 0&#9642;Off: +11&#9642;Net: -11)'
+    - "\n"
+    - 346/
+    - 153/+5
+    - 385/
+    - 45/-3
+    - 39/
+    - 30/-2
+    - 'Toni Kukoc (On: +11&#9642;Off: 0&#9642;Net: +11)'
+    - "\n"
+    - 346/
+    - 153/+5
+    - 174/
+    - 76/+4
+    - 37/+2
+    - 212/
+    - 'Todd MacCulloch (On: -1&#9642;Off: +12&#9642;Net: -13)'
+    - "\n"
+    - 346/
+    - 47/+3
+    - 163/
+    - 47/-4
+    - 396/
+    - 'Pepe Sanchez (On: -2&#9642;Off: +13&#9642;Net: -15)'
+    - "\n"
+    - 972/
+    - 30/-2
+    - 'Jumaine Jones (On: -2&#9642;Off: +13&#9642;Net: -15)'
+    - "\n"
+    - 979/
+    - 23/-2
+    - 'Nazr Mohammed (On: -2&#9642;Off: +13&#9642;Net: -15)'
+    - "\n"
+    - 979/
+    - 23/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

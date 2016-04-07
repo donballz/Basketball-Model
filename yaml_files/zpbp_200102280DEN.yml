@@ -1,0 +1,2666 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - 'Jump ball: A. McDyess vs. S. O''Neal (R. Fox gains possession)'
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '11:43.0'
+    - B. Shaw misses 3-pt shot from 26 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by Team
+  - - '11:27.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - R. LaFrentz misses 3-pt shot from 23 ft
+  - - '11:25.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:18.0'
+    - K. Bryant makes 2-pt shot from 16 ft (assist by B. Shaw)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - A. McDyess makes 2-pt shot from 15 ft (assist by N. Van Exel)
+  - - '10:44.0'
+    - R. Fox misses 2-pt shot from 19 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:36.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '10:17.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - J. Posey misses 2-pt shot from 9 ft
+  - - '10:14.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:06.0'
+    - Personal foul by J. Posey
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '9:56.0'
+    - H. Grant makes 2-pt shot from 21 ft (assist by B. Shaw)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - V. Lenard misses 2-pt shot from 19 ft
+  - - '9:41.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by V. Lenard
+  - - '9:32.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - A. McDyess makes 2-pt shot from 19 ft (assist by N. Van Exel)
+  - - '9:11.0'
+    - Turnover by B. Shaw (bad pass; steal by N. Van Exel)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:07.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - J. Posey makes 2-pt shot at rim
+  - - '8:52.0'
+    - Shooting foul by V. Lenard
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:52.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:52.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '8:34.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Shooting foul by R. Fox
+  - - '8:34.0'
+    - ''
+    - ''
+    - 4-7
+    - "+1"
+    - R. LaFrentz makes free throw 1 of 2
+  - - '8:34.0'
+    - ''
+    - ''
+    - 4-8
+    - "+1"
+    - R. LaFrentz makes free throw 2 of 2
+  - - '8:15.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Personal foul by K. Bryant
+  - - '7:57.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - R. LaFrentz misses 3-pt shot from 26 ft
+  - - '7:55.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:49.0'
+    - H. Grant misses 2-pt shot from 18 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:46.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:44.0'
+    - H. Grant makes 2-pt shot at rim
+    - "+2"
+    - 8-8
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - V. Lenard makes 2-pt shot from 17 ft
+  - - '7:14.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Violation by R. LaFrentz (def goaltending)
+  - - '6:57.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - V. Lenard misses 3-pt shot from 25 ft
+  - - '6:54.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '6:50.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - A. McDyess misses 2-pt shot from 21 ft
+  - - '6:48.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:36.0'
+    - S. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:34.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:32.0'
+    - K. Bryant misses 2-pt shot from 21 ft
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '6:23.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - J. Posey misses 3-pt shot from 23 ft
+  - - '6:17.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:06.0'
+    - H. Grant misses 2-pt shot at rim
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - H. Grant misses 2-pt shot at rim
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 11-10
+    - ''
+    - ''
+  - - '6:03.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 11-10
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '5:41.0'
+    - ''
+    - ''
+    - 11-13
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 26 ft (assist by A. McDyess)
+  - - '5:24.0'
+    - Personal foul by J. Posey
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '5:24.0'
+    - LA Lakers full timeout
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 11-13
+    - ''
+    - G. McCloud enters the game for J. Posey
+  - - '5:16.0'
+    - B. Shaw misses 2-pt shot from 20 ft
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 11-13
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '5:00.0'
+    - ''
+    - ''
+    - 11-15
+    - "+2"
+    - R. LaFrentz makes 2-pt shot from 21 ft (assist by N. Van Exel)
+  - - '4:47.0'
+    - S. O'Neal makes 2-pt shot from 7 ft (assist by B. Shaw)
+    - "+2"
+    - 13-15
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 13-15
+    - ''
+    - Offensive foul by A. McDyess
+  - - '4:27.0'
+    - ''
+    - ''
+    - 13-15
+    - ''
+    - Turnover by A. McDyess (foul)
+  - - '4:16.0'
+    - H. Grant makes 2-pt shot from 22 ft (assist by K. Bryant)
+    - "+2"
+    - 15-15
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 15-15
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by B. Shaw)
+  - - '3:53.0'
+    - K. Bryant makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 17-17
+    - "+2"
+    - V. Lenard makes 2-pt shot from 20 ft (assist by G. McCloud)
+  - - '3:24.0'
+    - B. Shaw makes 2-pt shot at rim (assist by S. O'Neal)
+    - "+2"
+    - 19-17
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Violation by R. LaFrentz (def goaltending)
+  - - '3:11.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - N. Van Exel misses 2-pt shot from 8 ft
+  - - '3:09.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:53.0'
+    - H. Grant misses 2-pt shot from 12 ft (block by R. LaFrentz)
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:51.0'
+    - LA Lakers full timeout
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - K. Willis enters the game for R. LaFrentz
+  - - '2:51.0'
+    - M. Penberthy enters the game for B. Shaw
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:46.0'
+    - K. Bryant makes 2-pt shot from 20 ft
+    - "+2"
+    - 21-17
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 21-19
+    - "+2"
+    - V. Lenard makes 2-pt shot at rim
+  - - '2:09.0'
+    - M. Penberthy makes 2-pt shot at rim
+    - "+2"
+    - 23-19
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 23-21
+    - "+2"
+    - A. McDyess makes 2-pt shot from 8 ft (assist by K. Willis)
+  - - '1:28.0'
+    - R. Fox misses 2-pt shot from 7 ft (block by A. McDyess)
+    - ''
+    - 23-21
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 23-21
+    - ''
+    - Defensive rebound by V. Lenard
+  - - '1:22.0'
+    - ''
+    - ''
+    - 23-23
+    - "+2"
+    - K. Willis makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '1:07.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '1:05.0'
+    - H. Grant makes 2-pt shot at rim
+    - "+2"
+    - 25-23
+    - ''
+    - ''
+  - - '1:05.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 25-23
+    - ''
+    - ''
+  - - '0:42.9'
+    - ''
+    - ''
+    - 25-23
+    - ''
+    - N. Van Exel misses 3-pt shot from 26 ft
+  - - '0:40.5'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 25-23
+    - ''
+    - ''
+  - - '0:28.4'
+    - H. Grant makes 2-pt shot from 16 ft (assist by K. Bryant)
+    - "+2"
+    - 27-23
+    - ''
+    - ''
+  - - '0:07.9'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - N. Van Exel misses 2-pt shot from 6 ft
+  - - '0:05.9'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - A. McDyess misses 2-pt shot at rim
+  - - '0:05.9'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '0:04.4'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Offensive rebound by N. Van Exel
+  - - '0:00.9'
+    - ''
+    - ''
+    - 27-25
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - G. McCloud misses 3-pt shot from 25 ft
+  - - '11:45.0'
+    - Defensive rebound by M. Madsen
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '11:36.0'
+    - R. Horry misses 2-pt shot at rim
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '11:33.0'
+    - Offensive rebound by R. Horry
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '11:31.0'
+    - R. Horry misses 2-pt shot from 16 ft
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '11:26.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - Turnover by R. Pack (bad pass)
+  - - '11:15.0'
+    - I. Rider makes 2-pt shot from 20 ft (assist by R. Fox)
+    - "+2"
+    - 29-25
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - Personal foul by I. Rider
+  - - '10:52.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - Shooting foul by R. Fox
+  - - '10:52.0'
+    - ''
+    - ''
+    - 29-26
+    - "+1"
+    - G. McCloud makes free throw 1 of 2
+  - - '10:52.0'
+    - K. Bryant enters the game for R. Fox
+    - ''
+    - 29-26
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 29-27
+    - "+1"
+    - G. McCloud makes free throw 2 of 2
+  - - '10:40.0'
+    - M. Penberthy misses 3-pt shot from 27 ft
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '10:38.0'
+    - Offensive rebound by M. Madsen
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '10:36.0'
+    - Personal foul by K. Willis
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '10:20.0'
+    - R. Horry misses 2-pt shot at rim
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 29-27
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '10:13.0'
+    - ''
+    - ''
+    - 29-27
+    - ''
+    - Turnover by R. LaFrentz (bad pass; steal by M. Madsen)
+  - - '10:11.0'
+    - M. Madsen misses 2-pt shot from 5 ft (block by R. LaFrentz)
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 29-27
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '10:07.0'
+    - ''
+    - ''
+    - 29-29
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 20 ft
+  - - '9:52.0'
+    - Turnover by K. Bryant (traveling)
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 29-31
+    - "+2"
+    - R. Pack makes 2-pt shot from 20 ft
+  - - '9:22.0'
+    - I. Rider makes 2-pt shot from 7 ft (assist by M. Penberthy)
+    - "+2"
+    - 31-31
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 31-31
+    - ''
+    - K. Willis misses 2-pt shot from 17 ft
+  - - '9:01.0'
+    - Defensive rebound by I. Rider
+    - ''
+    - 31-31
+    - ''
+    - ''
+  - - '8:43.0'
+    - M. Penberthy makes 2-pt shot from 23 ft (assist by K. Bryant)
+    - "+2"
+    - 33-31
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 33-33
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim
+  - - '7:49.0'
+    - I. Rider makes 2-pt shot from 18 ft
+    - "+2"
+    - 35-33
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 35-35
+    - "+2"
+    - K. Willis makes 2-pt shot from 9 ft (assist by G. McCloud)
+  - - '7:20.0'
+    - Turnover by K. Bryant (lost ball; steal by R. Pack)
+    - ''
+    - 35-35
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 35-37
+    - "+2"
+    - R. Pack makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '6:58.0'
+    - Turnover by M. Penberthy (bad pass; steal by R. LaFrentz)
+    - ''
+    - 35-37
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 35-40
+    - "+3"
+    - G. McCloud makes 3-pt shot from 25 ft (assist by N. Van Exel)
+  - - '6:29.0'
+    - M. Penberthy makes 3-pt shot from 25 ft (assist by K. Bryant)
+    - "+3"
+    - 38-40
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - Shooting foul by R. Horry
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - Official timeout
+  - - '6:11.0'
+    - S. O'Neal enters the game for M. Madsen
+    - ''
+    - 38-40
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - N. Van Exel misses free throw 1 of 2
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - Offensive rebound by Team
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-41
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '6:01.0'
+    - Turnover by R. Horry (bad pass; steal by R. Pack)
+    - ''
+    - 38-41
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 38-43
+    - "+2"
+    - R. Pack makes 2-pt shot at rim
+  - - '5:41.0'
+    - R. Horry misses 3-pt shot from 23 ft
+    - ''
+    - 38-43
+    - ''
+    - ''
+  - - '5:37.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 38-43
+    - ''
+    - ''
+  - - '5:36.0'
+    - K. Bryant misses 2-pt shot from 3 ft (block by R. LaFrentz)
+    - ''
+    - 38-43
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 38-43
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '5:32.0'
+    - ''
+    - ''
+    - 38-43
+    - ''
+    - N. Van Exel misses 3-pt shot from 25 ft
+  - - '5:30.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 38-43
+    - ''
+    - ''
+  - - '5:19.0'
+    - K. Bryant misses 2-pt shot from 8 ft
+    - ''
+    - 38-43
+    - ''
+    - ''
+  - - '5:17.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 40-43
+    - ''
+    - ''
+  - - '5:17.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 40-43
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 40-43
+    - ''
+    - G. McCloud misses 2-pt shot from 21 ft
+  - - '4:50.0'
+    - Defensive rebound by I. Rider
+    - ''
+    - 40-43
+    - ''
+    - ''
+  - - '4:39.0'
+    - K. Bryant makes 2-pt shot from 10 ft (assist by I. Rider)
+    - "+2"
+    - 42-43
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-45
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim (assist by G. McCloud)
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - Shooting foul by I. Rider
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - Denver full timeout
+  - - '4:19.0'
+    - H. Grant enters the game for R. Horry
+    - ''
+    - 42-45
+    - ''
+    - ''
+  - - '4:19.0'
+    - B. Shaw enters the game for I. Rider
+    - ''
+    - 42-45
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - V. Lenard enters the game for R. Pack
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-45
+    - ''
+    - A. McDyess enters the game for K. Willis
+  - - '4:19.0'
+    - ''
+    - ''
+    - 42-46
+    - "+1"
+    - R. LaFrentz makes free throw 1 of 1
+  - - '4:04.0'
+    - K. Bryant makes 2-pt shot from 20 ft (assist by M. Penberthy)
+    - "+2"
+    - 44-46
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 44-46
+    - ''
+    - Shooting foul by M. Penberthy
+  - - '3:49.0'
+    - ''
+    - ''
+    - 44-46
+    - ''
+    - G. McCloud misses free throw 1 of 2
+  - - '3:49.0'
+    - ''
+    - ''
+    - 44-46
+    - ''
+    - Offensive rebound by Team
+  - - '3:49.0'
+    - R. Fox enters the game for M. Penberthy
+    - ''
+    - 44-46
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 44-47
+    - "+1"
+    - G. McCloud makes free throw 2 of 2
+  - - '3:30.0'
+    - R. Fox misses 2-pt shot from 21 ft
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Defensive rebound by V. Lenard
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Personal foul by K. Bryant
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - T. Abdul-Wahad enters the game for G. McCloud
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - V. Lenard misses free throw 1 of 2
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - Offensive rebound by Team
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-47
+    - ''
+    - V. Lenard misses free throw 2 of 2
+  - - '3:27.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '3:14.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '3:14.0'
+    - R. Fox makes free throw 1 of 2
+    - "+1"
+    - 45-47
+    - ''
+    - ''
+  - - '3:14.0'
+    - R. Fox makes free throw 2 of 2
+    - "+1"
+    - 46-47
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - R. LaFrentz misses 2-pt shot from 17 ft
+  - - '2:54.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '2:46.0'
+    - H. Grant makes 2-pt shot at rim (assist by S. O'Neal)
+    - "+2"
+    - 48-47
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 48-47
+    - ''
+    - V. Lenard misses 3-pt shot from 23 ft
+  - - '2:20.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 48-47
+    - ''
+    - ''
+  - - '2:16.0'
+    - K. Bryant makes 2-pt shot from 21 ft (assist by B. Shaw)
+    - "+2"
+    - 50-47
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 50-47
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by S. O'Neal)
+  - - '1:46.0'
+    - LA Lakers full timeout
+    - ''
+    - 50-47
+    - ''
+    - ''
+  - - '1:38.0'
+    - K. Bryant misses 2-pt shot from 19 ft
+    - ''
+    - 50-47
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 50-47
+    - ''
+    - Defensive rebound by T. Abdul-Wahad
+  - - '1:32.0'
+    - ''
+    - ''
+    - 50-49
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '1:17.0'
+    - K. Bryant makes 3-pt shot from 25 ft (assist by S. O'Neal)
+    - "+3"
+    - 53-49
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - A. McDyess misses 2-pt shot from 18 ft
+  - - '0:47.9'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '0:42.9'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 55-49
+    - ''
+    - ''
+  - - '0:25.9'
+    - ''
+    - ''
+    - 55-49
+    - ''
+    - N. Van Exel misses 2-pt shot from 17 ft
+  - - '0:23.6'
+    - ''
+    - ''
+    - 55-49
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '0:22.5'
+    - ''
+    - ''
+    - 55-49
+    - ''
+    - Shooting foul by B. Shaw
+  - - '0:22.5'
+    - ''
+    - ''
+    - 55-50
+    - "+1"
+    - A. McDyess makes free throw 1 of 2
+  - - '0:22.5'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - R. Pack enters the game for N. Van Exel
+  - - '0:22.5'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - K. Willis enters the game for R. LaFrentz
+  - - '0:22.5'
+    - ''
+    - ''
+    - 55-51
+    - "+1"
+    - A. McDyess makes free throw 2 of 2
+  - - '0:10.9'
+    - S. O'Neal misses 2-pt shot from 8 ft (block by A. McDyess)
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '0:05.9'
+    - Offensive rebound by H. Grant
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '0:05.6'
+    - H. Grant misses 2-pt shot from 6 ft (block by K. Willis)
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '0:05.6'
+    - Offensive rebound by Team
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '0:05.6'
+    - LA Lakers 20 second timeout
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '0:03.4'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 57-51
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - R. Pack misses 2-pt shot from 5 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 57-53
+    - "+2"
+    - A. McDyess makes 2-pt shot from 17 ft (assist by N. Van Exel)
+  - - '11:22.0'
+    - H. Grant misses 2-pt shot from 6 ft
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '11:19.0'
+    - H. Grant makes 2-pt shot from 6 ft
+    - "+2"
+    - 59-53
+    - ''
+    - ''
+  - - '11:19.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - J. Posey misses 2-pt shot from 22 ft
+  - - '10:47.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '10:36.0'
+    - K. Bryant makes 2-pt shot from 17 ft
+    - "+2"
+    - 61-53
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 61-53
+    - ''
+    - R. LaFrentz misses 3-pt shot from 25 ft
+  - - '10:16.0'
+    - ''
+    - ''
+    - 61-53
+    - ''
+    - Offensive rebound by A. McDyess
+  - - '10:05.0'
+    - ''
+    - ''
+    - 61-53
+    - ''
+    - V. Lenard misses 3-pt shot from 24 ft
+  - - '10:02.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 61-53
+    - ''
+    - ''
+  - - '10:00.0'
+    - Personal foul by N. Van Exel
+    - ''
+    - 61-53
+    - ''
+    - ''
+  - - '10:00.0'
+    - LA Lakers 20 second timeout
+    - ''
+    - 61-53
+    - ''
+    - ''
+  - - '9:52.0'
+    - H. Grant misses 2-pt shot from 20 ft
+    - ''
+    - 61-53
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 61-53
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '9:38.0'
+    - ''
+    - ''
+    - 61-55
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 16 ft (assist by V. Lenard)
+  - - '9:13.0'
+    - S. O'Neal makes 2-pt shot from 6 ft (assist by K. Bryant)
+    - "+2"
+    - 63-55
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 63-55
+    - ''
+    - N. Van Exel misses 2-pt shot from 19 ft
+  - - '8:50.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 63-55
+    - ''
+    - ''
+  - - '8:50.0'
+    - Personal foul by A. McDyess
+    - ''
+    - 63-55
+    - ''
+    - ''
+  - - '8:32.0'
+    - R. Fox makes 2-pt shot at rim (assist by S. O'Neal)
+    - "+2"
+    - 65-55
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 65-55
+    - ''
+    - Turnover by Team (10 second)
+  - - '7:54.0'
+    - H. Grant misses 2-pt shot from 3 ft (block by R. LaFrentz)
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '7:51.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '7:43.0'
+    - B. Shaw misses 2-pt shot from 7 ft
+    - ''
+    - 65-55
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 65-55
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '7:35.0'
+    - ''
+    - ''
+    - 65-58
+    - "+3"
+    - V. Lenard makes 3-pt shot from 23 ft (assist by N. Van Exel)
+  - - '7:32.0'
+    - LA Lakers full timeout
+    - ''
+    - 65-58
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 65-58
+    - ''
+    - G. McCloud enters the game for J. Posey
+  - - '7:23.0'
+    - K. Bryant misses 2-pt shot from 15 ft
+    - ''
+    - 65-58
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 65-58
+    - ''
+    - Defensive rebound by V. Lenard
+  - - '7:11.0'
+    - ''
+    - ''
+    - 65-61
+    - "+3"
+    - V. Lenard makes 3-pt shot from 23 ft (assist by N. Van Exel)
+  - - '6:44.0'
+    - K. Bryant makes 3-pt shot from 25 ft (assist by B. Shaw)
+    - "+3"
+    - 68-61
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 68-61
+    - ''
+    - V. Lenard misses 2-pt shot from 15 ft (block by K. Bryant)
+  - - '6:21.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 68-61
+    - ''
+    - ''
+  - - '6:11.0'
+    - Shooting foul by G. McCloud
+    - ''
+    - 68-61
+    - ''
+    - ''
+  - - '6:11.0'
+    - R. Fox makes free throw 1 of 2
+    - "+1"
+    - 69-61
+    - ''
+    - ''
+  - - '6:11.0'
+    - R. Fox makes free throw 2 of 2
+    - "+1"
+    - 70-61
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 70-63
+    - "+2"
+    - G. McCloud makes 2-pt shot from 7 ft (assist by V. Lenard)
+  - - '5:38.0'
+    - R. Fox misses 2-pt shot from 10 ft
+    - ''
+    - 70-63
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 70-63
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '5:20.0'
+    - ''
+    - ''
+    - 70-63
+    - ''
+    - N. Van Exel misses 2-pt shot from 15 ft
+  - - '5:18.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 70-63
+    - ''
+    - ''
+  - - '5:12.0'
+    - K. Bryant makes 2-pt shot from 22 ft
+    - "+2"
+    - 72-63
+    - ''
+    - ''
+  - - '4:53.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - N. Van Exel misses 2-pt shot at rim (block by S. O'Neal)
+  - - '4:49.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '4:35.0'
+    - S. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '4:33.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '4:30.0'
+    - H. Grant misses 2-pt shot from 6 ft (block by R. LaFrentz)
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '4:19.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - A. McDyess misses 2-pt shot at rim
+  - - '4:12.0'
+    - ''
+    - ''
+    - 72-65
+    - "+2"
+    - G. McCloud makes 2-pt shot at rim
+  - - '4:12.0'
+    - ''
+    - ''
+    - 72-65
+    - ''
+    - Offensive rebound by G. McCloud
+  - - '4:06.0'
+    - Personal foul by N. Van Exel
+    - ''
+    - 72-65
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 72-65
+    - ''
+    - K. Willis enters the game for R. LaFrentz
+  - - '3:57.0'
+    - K. Bryant makes 2-pt shot from 20 ft (assist by B. Shaw)
+    - "+2"
+    - 74-65
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Personal foul by H. Grant
+  - - '3:34.0'
+    - ''
+    - ''
+    - 74-67
+    - "+2"
+    - K. Willis makes 2-pt shot from 16 ft (assist by N. Van Exel)
+  - - '3:19.0'
+    - Personal foul by K. Willis
+    - ''
+    - 74-67
+    - ''
+    - ''
+  - - '3:19.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 74-67
+    - ''
+    - ''
+  - - '3:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-67
+    - ''
+    - ''
+  - - '3:19.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 74-67
+    - ''
+    - ''
+  - - '3:17.0'
+    - Offensive rebound by B. Shaw
+    - ''
+    - 74-67
+    - ''
+    - ''
+  - - '3:12.0'
+    - S. O'Neal makes 2-pt shot from 6 ft (assist by R. Fox)
+    - "+2"
+    - 76-67
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - R. Pack enters the game for V. Lenard
+  - - '3:01.0'
+    - M. Penberthy enters the game for B. Shaw
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 76-69
+    - "+2"
+    - A. McDyess makes 2-pt shot from 16 ft (assist by R. Pack)
+  - - '2:29.0'
+    - K. Bryant misses 2-pt shot from 6 ft
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '2:20.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - N. Van Exel misses 2-pt shot at rim
+  - - '2:15.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '2:08.0'
+    - K. Bryant makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 78-69
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 78-69
+    - ''
+    - Personal foul by H. Grant
+  - - '1:52.0'
+    - ''
+    - ''
+    - 78-69
+    - ''
+    - Denver full timeout
+  - - '1:52.0'
+    - I. Rider enters the game for M. Penberthy
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:52.0'
+    - R. Horry enters the game for H. Grant
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 78-69
+    - ''
+    - G. McCloud misses 2-pt shot from 21 ft
+  - - '1:38.0'
+    - Defensive rebound by I. Rider
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:22.0'
+    - Turnover by I. Rider (lost ball)
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:22.0'
+    - M. Penberthy enters the game for K. Bryant
+    - ''
+    - 78-69
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 78-71
+    - "+2"
+    - K. Willis makes 2-pt shot from 19 ft (assist by R. Pack)
+  - - '0:50.9'
+    - R. Fox misses 3-pt shot from 26 ft
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '0:48.6'
+    - Offensive rebound by I. Rider
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '0:45.9'
+    - I. Rider misses 2-pt shot from 10 ft
+    - ''
+    - 78-71
+    - ''
+    - ''
+  - - '0:43.9'
+    - ''
+    - ''
+    - 78-71
+    - ''
+    - Defensive rebound by R. Pack
+  - - '0:34.9'
+    - ''
+    - ''
+    - 78-71
+    - ''
+    - K. Willis misses 2-pt shot from 16 ft
+  - - '0:31.8'
+    - ''
+    - ''
+    - 78-71
+    - ''
+    - Offensive rebound by G. McCloud
+  - - '0:25.9'
+    - ''
+    - ''
+    - 78-73
+    - "+2"
+    - K. Willis makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '0:17.1'
+    - Personal foul by K. Willis
+    - ''
+    - 78-73
+    - ''
+    - ''
+  - - '0:17.1'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 78-73
+    - ''
+    - ''
+  - - '0:17.1'
+    - Offensive rebound by Team
+    - ''
+    - 78-73
+    - ''
+    - ''
+  - - '0:17.1'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 79-73
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - Shooting foul by I. Rider
+  - - '0:02.9'
+    - ''
+    - ''
+    - 79-74
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '0:02.9'
+    - K. Bryant enters the game for S. O'Neal
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 79-74
+    - ''
+    - R. LaFrentz enters the game for G. McCloud
+  - - '0:02.9'
+    - ''
+    - ''
+    - 79-75
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '0:00.0'
+    - R. Fox misses 3-pt shot from 30 ft
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - Personal foul by G. McCloud
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '11:36.0'
+    - K. Bryant misses 2-pt shot from 22 ft
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '11:32.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Defensive rebound by R. Pack
+  - - '11:30.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - R. Pack misses 2-pt shot from 17 ft
+  - - '11:29.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '11:29.0'
+    - Shooting foul by N. Van Exel
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '11:29.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 80-75
+    - ''
+    - ''
+  - - '11:29.0'
+    - K. Bryant misses free throw 2 of 2
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '11:09.0'
+    - ''
+    - ''
+    - 80-77
+    - "+2"
+    - R. LaFrentz makes 2-pt shot from 7 ft
+  - - '10:53.0'
+    - I. Rider misses 2-pt shot from 20 ft (block by G. McCloud)
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '10:51.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '10:36.0'
+    - Turnover by K. Bryant (lost ball; steal by R. Pack)
+    - ''
+    - 80-77
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 80-79
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim (assist by R. Pack)
+  - - '10:15.0'
+    - M. Penberthy misses 2-pt shot from 22 ft
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 80-79
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '9:58.0'
+    - ''
+    - ''
+    - 80-79
+    - ''
+    - G. McCloud misses 3-pt shot from 25 ft
+  - - '9:56.0'
+    - Defensive rebound by M. Penberthy
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:34.0'
+    - R. Horry misses 3-pt shot from 26 ft
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:32.0'
+    - Offensive rebound by I. Rider
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:32.0'
+    - Personal foul by R. Pack
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:32.0'
+    - S. O'Neal enters the game for R. Horry
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:23.0'
+    - K. Bryant misses 2-pt shot from 21 ft
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:21.0'
+    - K. Bryant misses 2-pt shot from 2 ft (block by A. McDyess)
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 80-79
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '9:11.0'
+    - ''
+    - ''
+    - 80-81
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim (assist by R. Pack)
+  - - '9:06.0'
+    - Turnover by K. Bryant (out of bounds)
+    - ''
+    - 80-81
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - A. McDyess misses 2-pt shot from 8 ft
+  - - '8:45.0'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim
+  - - '8:45.0'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '8:43.0'
+    - Defensive rebound by I. Rider
+    - ''
+    - 80-81
+    - ''
+    - ''
+  - - '8:39.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by I. Rider)
+    - "+2"
+    - 82-81
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 82-81
+    - ''
+    - Personal foul by M. Madsen
+  - - '8:15.0'
+    - ''
+    - ''
+    - 82-81
+    - ''
+    - Official timeout
+  - - '8:15.0'
+    - ''
+    - ''
+    - 82-81
+    - ''
+    - K. Willis enters the game for R. LaFrentz
+  - - '8:15.0'
+    - B. Shaw enters the game for I. Rider
+    - ''
+    - 82-81
+    - ''
+    - ''
+  - - '8:15.0'
+    - H. Grant enters the game for M. Madsen
+    - ''
+    - 82-81
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 82-83
+    - "+2"
+    - G. McCloud makes 2-pt shot from 19 ft
+  - - '7:47.0'
+    - S. O'Neal misses 2-pt shot from 5 ft
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '7:44.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Denver full timeout
+  - - '7:26.0'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - K. Willis misses 2-pt shot from 20 ft
+  - - '7:26.0'
+    - Defensive rebound by Team
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '7:26.0'
+    - Loose ball foul by G. McCloud
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '7:13.0'
+    - Shooting foul by K. Willis
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '7:13.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 83-83
+    - ''
+    - ''
+  - - '7:13.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 84-83
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 84-83
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '7:04.0'
+    - ''
+    - ''
+    - 84-84
+    - "+1"
+    - R. Pack makes free throw 1 of 2
+  - - '7:04.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - R. Pack misses free throw 2 of 2
+  - - '7:03.0'
+    - Defensive rebound by M. Penberthy
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '6:43.0'
+    - K. Bryant makes 2-pt shot from 21 ft
+    - "+2"
+    - 86-84
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 86-86
+    - "+2"
+    - A. McDyess makes 2-pt shot from 16 ft (assist by G. McCloud)
+  - - '6:00.0'
+    - Turnover by K. Bryant (bad pass; steal by K. Willis)
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 86-86
+    - ''
+    - N. Van Exel misses 2-pt shot at rim
+  - - '5:50.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '5:47.0'
+    - Personal foul by R. Pack
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '5:47.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 87-86
+    - ''
+    - ''
+  - - '5:47.0'
+    - R. Fox enters the game for M. Penberthy
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - R. LaFrentz enters the game for K. Willis
+  - - '5:47.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '5:31.0'
+    - ''
+    - ''
+    - 87-88
+    - "+2"
+    - R. LaFrentz makes 2-pt shot from 21 ft (assist by R. Pack)
+  - - '5:11.0'
+    - K. Bryant makes 2-pt shot from 22 ft (assist by R. Fox)
+    - "+2"
+    - 89-88
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 89-88
+    - ''
+    - R. LaFrentz misses 2-pt shot from 21 ft
+  - - '4:48.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 89-88
+    - ''
+    - ''
+  - - '4:32.0'
+    - B. Shaw misses 3-pt shot from 25 ft
+    - ''
+    - 89-88
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 89-88
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '4:19.0'
+    - ''
+    - ''
+    - 89-90
+    - "+2"
+    - R. Pack makes 2-pt shot at rim
+  - - '4:01.0'
+    - B. Shaw misses 3-pt shot from 26 ft
+    - ''
+    - 89-90
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 89-90
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '3:42.0'
+    - ''
+    - ''
+    - 89-90
+    - ''
+    - Turnover by A. McDyess (bad pass; steal by K. Bryant)
+  - - '3:42.0'
+    - Personal foul by N. Van Exel
+    - ''
+    - 89-90
+    - ''
+    - ''
+  - - '3:42.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 90-90
+    - ''
+    - ''
+  - - '3:42.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 91-90
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 91-92
+    - "+2"
+    - R. LaFrentz makes 2-pt shot at rim (assist by R. Pack)
+  - - '3:03.0'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 91-92
+    - ''
+    - ''
+  - - '2:59.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 91-92
+    - ''
+    - ''
+  - - '2:55.0'
+    - Turnover by R. Fox (bad pass; steal by A. McDyess)
+    - ''
+    - 91-92
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 91-92
+    - ''
+    - Personal foul by S. O'Neal
+  - - '2:55.0'
+    - ''
+    - ''
+    - 91-92
+    - ''
+    - Denver full timeout
+  - - '2:44.0'
+    - ''
+    - ''
+    - 91-92
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim (block by S. O'Neal)
+  - - '2:42.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 91-92
+    - ''
+    - ''
+  - - '2:40.0'
+    - Shooting foul by N. Van Exel
+    - ''
+    - 91-92
+    - ''
+    - ''
+  - - '2:40.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 92-92
+    - ''
+    - ''
+  - - '2:40.0'
+    - K. Bryant misses free throw 2 of 2
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '2:19.0'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Shooting foul by K. Bryant
+  - - '2:19.0'
+    - ''
+    - ''
+    - 92-93
+    - "+1"
+    - R. Pack makes free throw 1 of 2
+  - - '2:19.0'
+    - ''
+    - ''
+    - 92-94
+    - "+1"
+    - R. Pack makes free throw 2 of 2
+  - - '2:07.0'
+    - Personal foul by A. McDyess
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '2:07.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 93-94
+    - ''
+    - ''
+  - - '2:07.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 94-94
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Personal foul by S. O'Neal
+  - - '1:46.0'
+    - ''
+    - ''
+    - 94-95
+    - "+1"
+    - R. LaFrentz makes free throw 1 of 2
+  - - '1:46.0'
+    - ''
+    - ''
+    - 94-96
+    - "+1"
+    - R. LaFrentz makes free throw 2 of 2
+  - - '1:28.0'
+    - K. Bryant makes 2-pt shot from 17 ft (assist by R. Fox)
+    - "+2"
+    - 96-96
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim (block by S. O'Neal)
+  - - '1:05.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 96-96
+    - ''
+    - ''
+  - - '0:58.9'
+    - S. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 96-96
+    - ''
+    - ''
+  - - '0:57.4'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Defensive rebound by A. McDyess
+  - - '0:37.9'
+    - ''
+    - ''
+    - 96-99
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 26 ft (assist by R. LaFrentz)
+  - - '0:36.9'
+    - LA Lakers full timeout
+    - ''
+    - 96-99
+    - ''
+    - ''
+  - - '0:31.9'
+    - K. Bryant misses 3-pt shot from 27 ft
+    - ''
+    - 96-99
+    - ''
+    - ''
+  - - '0:29.6'
+    - ''
+    - ''
+    - 96-99
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '0:29.6'
+    - ''
+    - ''
+    - 96-99
+    - ''
+    - Personal foul by R. Fox
+  - - '0:29.6'
+    - ''
+    - ''
+    - 96-100
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '0:29.6'
+    - ''
+    - ''
+    - 96-101
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '0:29.6'
+    - LA Lakers full timeout
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.6'
+    - M. Penberthy enters the game for B. Shaw
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - Personal foul by A. McDyess
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - Offensive rebound by Team
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - B. Shaw enters the game for M. Penberthy
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - 'Jump ball: A. McDyess vs. S. O''Neal (B. Shaw gains possession)'
+  - - '0:29.1'
+    - Violation by K. Bryant (lane)
+    - ''
+    - 96-101
+    - ''
+    - ''
+  - - '0:29.1'
+    - ''
+    - ''
+    - 96-101
+    - ''
+    - Violation by R. Pack (lane)
+  - - '0:24.4'
+    - R. Fox makes 2-pt shot from 21 ft (assist by B. Shaw)
+    - "+2"
+    - 98-101
+    - ''
+    - ''
+  - - '0:24.0'
+    - ''
+    - ''
+    - 98-101
+    - ''
+    - Personal foul by B. Shaw
+  - - '0:24.0'
+    - ''
+    - ''
+    - 98-102
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '0:24.0'
+    - ''
+    - ''
+    - 98-103
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '0:16.9'
+    - B. Shaw makes 3-pt shot from 26 ft
+    - "+3"
+    - 101-103
+    - ''
+    - ''
+  - - '0:13.6'
+    - ''
+    - ''
+    - 101-103
+    - ''
+    - Personal foul by H. Grant
+  - - '0:13.6'
+    - ''
+    - ''
+    - 101-104
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '0:13.6'
+    - ''
+    - ''
+    - 101-105
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '0:07.9'
+    - B. Shaw misses 3-pt shot from 25 ft
+    - ''
+    - 101-105
+    - ''
+    - ''
+  - - '0:06.1'
+    - Offensive rebound by Team
+    - ''
+    - 101-105
+    - ''
+    - ''
+  - - '0:03.9'
+    - K. Bryant misses 3-pt shot from 26 ft (block by G. McCloud)
+    - ''
+    - 101-105
+    - ''
+    - ''
+  - - '0:03.5'
+    - ''
+    - ''
+    - 101-105
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '0:03.5'
+    - ''
+    - ''
+    - 101-105
+    - ''
+    - Personal foul by B. Shaw
+  - - '0:03.5'
+    - ''
+    - ''
+    - 101-106
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '0:03.5'
+    - ''
+    - ''
+    - 101-107
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '0:00.0'
+    - K. Bryant misses 3-pt shot from 43 ft
+    - ''
+    - 101-107
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 101-107
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

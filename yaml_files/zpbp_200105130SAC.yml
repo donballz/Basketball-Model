@@ -1,0 +1,2854 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: V. Divac vs. S. O''Neal (P. Stojakovic gains possession)'
+  - - '11:50.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. Williams misses 3-pt shot from 25 ft
+  - - '11:49.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:32.0'
+    - D. Fisher misses 2-pt shot from 20 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by V. Divac
+  - - '11:19.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Webber misses 2-pt shot from 20 ft
+  - - '11:18.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:58.0'
+    - K. Bryant misses 2-pt shot from 11 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:56.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - K. Bryant makes 2-pt shot from 6 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Shooting foul by K. Bryant
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-1
+    - "+1"
+    - D. Christie makes free throw 1 of 3
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-2
+    - "+1"
+    - D. Christie makes free throw 2 of 3
+  - - '10:35.0'
+    - ''
+    - ''
+    - 2-3
+    - "+1"
+    - D. Christie makes free throw 3 of 3
+  - - '10:13.0'
+    - D. Fisher makes 2-pt shot from 22 ft (assist by K. Bryant)
+    - "+2"
+    - 4-3
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - P. Stojakovic misses 2-pt shot from 18 ft
+  - - '9:56.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '9:49.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 6-3
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 6-3
+    - ''
+    - V. Divac misses 2-pt shot from 19 ft
+  - - '9:29.0'
+    - Defensive rebound by D. Fisher
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '9:23.0'
+    - D. Fisher makes 2-pt shot from 20 ft
+    - "+2"
+    - 8-3
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 8-3
+    - ''
+    - Turnover by C. Webber (lost ball; steal by K. Bryant)
+  - - '8:57.0'
+    - K. Bryant makes 2-pt shot from 10 ft
+    - "+2"
+    - 10-3
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 10-3
+    - ''
+    - D. Christie misses 2-pt shot from 15 ft
+  - - '8:46.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 10-3
+    - ''
+    - ''
+  - - '8:31.0'
+    - Turnover by S. O'Neal (lost ball; steal by D. Christie)
+    - ''
+    - 10-3
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 10-5
+    - "+2"
+    - D. Christie makes 2-pt shot at rim (assist by J. Williams)
+  - - '8:11.0'
+    - Turnover by S. O'Neal (3 second)
+    - ''
+    - 10-5
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - D. Christie misses 2-pt shot from 19 ft
+  - - '7:57.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - Offensive rebound by V. Divac
+  - - '7:54.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - V. Divac misses 2-pt shot from 3 ft
+  - - '7:53.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - Offensive rebound by C. Webber
+  - - '7:48.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - Turnover by C. Webber (lost ball; steal by D. Fisher)
+  - - '7:46.0'
+    - Shooting foul by P. Stojakovic
+    - ''
+    - 10-5
+    - ''
+    - ''
+  - - '7:46.0'
+    - D. Fisher makes free throw 1 of 2
+    - "+1"
+    - 11-5
+    - ''
+    - ''
+  - - '7:46.0'
+    - D. Fisher makes free throw 2 of 2
+    - "+1"
+    - 12-5
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 12-7
+    - "+2"
+    - D. Christie makes 2-pt shot from 18 ft
+  - - '7:13.0'
+    - H. Grant misses 2-pt shot from 21 ft
+    - ''
+    - 12-7
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - Defensive rebound by D. Christie
+  - - '7:01.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - Shooting foul by H. Grant
+  - - '7:01.0'
+    - ''
+    - ''
+    - 12-8
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '7:01.0'
+    - ''
+    - ''
+    - 12-9
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '6:41.0'
+    - D. Fisher misses 2-pt shot from 22 ft
+    - ''
+    - 12-9
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 12-9
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '6:31.0'
+    - ''
+    - ''
+    - 12-9
+    - ''
+    - C. Webber misses 2-pt shot from 17 ft
+  - - '6:28.0'
+    - ''
+    - ''
+    - 12-9
+    - ''
+    - Offensive rebound by C. Webber
+  - - '6:24.0'
+    - ''
+    - ''
+    - 12-12
+    - "+3"
+    - J. Williams makes 3-pt shot from 25 ft (assist by C. Webber)
+  - - '6:10.0'
+    - Offensive foul by S. O'Neal
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:10.0'
+    - Turnover by S. O'Neal (foul)
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - C. Webber misses 2-pt shot from 6 ft (block by K. Bryant)
+  - - '5:54.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Offensive rebound by D. Christie
+  - - '5:50.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - C. Webber misses 2-pt shot from 5 ft
+  - - '5:48.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:44.0'
+    - Personal foul by D. Christie
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:44.0'
+    - LA Lakers full timeout
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:33.0'
+    - S. O'Neal misses 2-pt shot from 5 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '5:22.0'
+    - K. Bryant makes 2-pt shot from 19 ft
+    - "+2"
+    - 14-12
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - J. Williams misses 3-pt shot from 25 ft
+  - - '5:05.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '4:55.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 16-12
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-14
+    - "+2"
+    - C. Webber makes 2-pt shot from 16 ft (assist by D. Christie)
+  - - '4:20.0'
+    - D. Fisher makes 2-pt shot at rim
+    - "+2"
+    - 18-14
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 18-14
+    - ''
+    - D. Christie misses 2-pt shot from 18 ft
+  - - '4:03.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - Shooting foul by V. Divac
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 19-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 20-14
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 20-14
+    - ''
+    - Turnover by J. Williams (traveling)
+  - - '3:17.0'
+    - S. O'Neal misses 2-pt shot from 6 ft
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:15.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:15.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 22-14
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 22-16
+    - "+2"
+    - C. Webber makes 2-pt shot from 19 ft (assist by D. Christie)
+  - - '2:45.0'
+    - H. Grant misses 2-pt shot from 5 ft
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '2:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '2:43.0'
+    - LA Lakers full timeout
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '2:37.0'
+    - K. Bryant misses 2-pt shot from 18 ft
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Defensive rebound by J. Williams
+  - - '2:29.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '2:27.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '2:17.0'
+    - R. Fox makes 2-pt shot from 12 ft
+    - "+2"
+    - 24-16
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Personal foul by R. Fox
+  - - '1:56.0'
+    - ''
+    - ''
+    - 24-18
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by C. Webber)
+  - - '1:43.0'
+    - Turnover by H. Grant (bad pass; steal by V. Divac)
+    - ''
+    - 24-18
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - Personal foul by R. Fox
+  - - '1:34.0'
+    - B. Shaw enters the game for R. Fox
+    - ''
+    - 24-18
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - C. Webber misses 2-pt shot from 5 ft
+  - - '1:25.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - Offensive rebound by V. Divac
+  - - '1:23.0'
+    - ''
+    - ''
+    - 24-20
+    - "+2"
+    - V. Divac makes 2-pt shot from 6 ft
+  - - '1:04.0'
+    - H. Grant misses 2-pt shot from 8 ft
+    - ''
+    - 24-20
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '0:56.2'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - Turnover by J. Williams (no)
+  - - '0:44.9'
+    - Turnover by K. Bryant (lost ball; steal by J. Williams)
+    - ''
+    - 24-20
+    - ''
+    - ''
+  - - '0:39.8'
+    - ''
+    - ''
+    - 24-22
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by J. Williams)
+  - - '0:30.2'
+    - D. Fisher makes 2-pt shot from 21 ft
+    - "+2"
+    - 26-22
+    - ''
+    - ''
+  - - '0:25.1'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Offensive foul by C. Webber
+  - - '0:25.1'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Turnover by C. Webber (foul)
+  - - '0:25.1'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Technical foul by C. Webber
+  - - '0:25.1'
+    - K. Bryant makes free throw technical
+    - "+1"
+    - 27-22
+    - ''
+    - ''
+  - - '0:25.1'
+    - R. Fox enters the game for S. O'Neal
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:25.1'
+    - R. Horry enters the game for H. Grant
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:25.1'
+    - ''
+    - ''
+    - 27-22
+    - ''
+    - B. Jackson enters the game for V. Divac
+  - - '0:02.9'
+    - B. Shaw misses 3-pt shot from 23 ft
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:01.4'
+    - K. Bryant misses 2-pt shot at rim
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:01.4'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:01.1'
+    - Offensive rebound by Team
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:01.1'
+    - Turnover by Team (shot clock)
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 27-22
+    - ''
+    - Turnover by J. Williams (bad pass; steal by R. Horry)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:44.0'
+    - Personal foul by S. Pollard
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '11:37.0'
+    - S. O'Neal makes 2-pt shot from 9 ft (assist by B. Shaw)
+    - "+2"
+    - 29-22
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 29-25
+    - "+3"
+    - P. Stojakovic makes 3-pt shot from 25 ft
+  - - '11:04.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 31-25
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - P. Stojakovic misses 2-pt shot from 9 ft
+  - - '10:50.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Offensive rebound by C. Webber
+  - - '10:50.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '10:50.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - C. Webber misses free throw 1 of 2
+  - - '10:50.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Offensive rebound by Team
+  - - '10:50.0'
+    - ''
+    - ''
+    - 31-26
+    - "+1"
+    - C. Webber makes free throw 2 of 2
+  - - '10:30.0'
+    - Turnover by R. Horry (bad pass)
+    - ''
+    - 31-26
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 31-28
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by C. Webber)
+  - - '10:08.0'
+    - S. O'Neal makes 2-pt shot from 9 ft (assist by K. Bryant)
+    - "+2"
+    - 33-28
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - C. Webber misses 2-pt shot from 17 ft
+  - - '9:53.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - Offensive rebound by P. Stojakovic
+  - - '9:49.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - P. Stojakovic misses 2-pt shot from 9 ft
+  - - '9:47.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - Offensive rebound by C. Webber
+  - - '9:45.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - C. Webber misses 2-pt shot from 3 ft
+  - - '9:44.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - Offensive rebound by P. Stojakovic
+  - - '9:43.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - P. Stojakovic misses 2-pt shot from 5 ft (block by S. O'Neal)
+  - - '9:42.0'
+    - ''
+    - ''
+    - 33-28
+    - ''
+    - Offensive rebound by C. Webber
+  - - '9:41.0'
+    - ''
+    - ''
+    - 33-30
+    - "+2"
+    - C. Webber makes 2-pt shot from 5 ft
+  - - '9:30.0'
+    - Shooting foul by S. Pollard
+    - ''
+    - 33-30
+    - ''
+    - ''
+  - - '9:30.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 33-30
+    - ''
+    - ''
+  - - '9:30.0'
+    - Offensive rebound by Team
+    - ''
+    - 33-30
+    - ''
+    - ''
+  - - '9:30.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 34-30
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 34-30
+    - ''
+    - Turnover by P. Stojakovic (lost ball)
+  - - '9:10.0'
+    - Turnover by D. Fisher (bad pass; steal by D. Christie)
+    - ''
+    - 34-30
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 34-30
+    - ''
+    - Shooting foul by B. Shaw
+  - - '9:04.0'
+    - ''
+    - ''
+    - 34-31
+    - "+1"
+    - B. Jackson makes free throw 1 of 2
+  - - '9:04.0'
+    - R. Fox enters the game for B. Shaw
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - B. Jackson misses free throw 2 of 2
+  - - '9:04.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '8:42.0'
+    - K. Bryant misses 2-pt shot from 5 ft
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Defensive rebound by C. Webber
+  - - '8:39.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Turnover by P. Stojakovic (bad pass; steal by R. Horry)
+  - - '8:19.0'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 34-31
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Defensive rebound by S. Pollard
+  - - '8:11.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - B. Jackson misses 2-pt shot from 6 ft (block by S. O'Neal)
+  - - '8:10.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Offensive rebound by Team
+  - - '8:10.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Official timeout
+  - - '8:10.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - H. Turkoglu enters the game for P. Stojakovic
+  - - '8:04.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - C. Webber misses 2-pt shot from 13 ft
+  - - '8:03.0'
+    - ''
+    - ''
+    - 34-31
+    - ''
+    - Offensive rebound by H. Turkoglu
+  - - '7:49.0'
+    - ''
+    - ''
+    - 34-34
+    - "+3"
+    - D. Christie makes 3-pt shot from 25 ft
+  - - '7:30.0'
+    - Personal foul by B. Jackson
+    - ''
+    - 34-34
+    - ''
+    - ''
+  - - '7:21.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 36-34
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Violation by D. Christie (def goaltending)
+  - - '7:05.0'
+    - ''
+    - ''
+    - 36-36
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 19 ft
+  - - '6:46.0'
+    - Turnover by R. Fox (lost ball; steal by H. Turkoglu)
+    - ''
+    - 36-36
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 36-39
+    - "+3"
+    - B. Jackson makes 3-pt shot from 23 ft (assist by C. Webber)
+  - - '6:18.0'
+    - D. Fisher makes 3-pt shot from 24 ft (assist by R. Fox)
+    - "+3"
+    - 39-39
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 39-39
+    - ''
+    - B. Jackson misses 3-pt shot from 23 ft
+  - - '6:05.0'
+    - Defensive rebound by D. Fisher
+    - ''
+    - 39-39
+    - ''
+    - ''
+  - - '5:43.0'
+    - S. O'Neal makes 2-pt shot from 7 ft
+    - "+2"
+    - 41-39
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - Violation by C. Webber (def goaltending)
+  - - '5:27.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - Offensive foul by C. Webber
+  - - '5:27.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - Turnover by C. Webber (foul)
+  - - '5:27.0'
+    - LA Lakers full timeout
+    - ''
+    - 41-39
+    - ''
+    - ''
+  - - '5:27.0'
+    - B. Shaw enters the game for D. Fisher
+    - ''
+    - 41-39
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - V. Divac enters the game for S. Pollard
+  - - '5:16.0'
+    - K. Bryant makes 2-pt shot from 12 ft (assist by R. Horry)
+    - "+2"
+    - 43-39
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '4:56.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 43-39
+    - ''
+    - ''
+  - - '4:32.0'
+    - R. Horry makes 3-pt shot from 23 ft (assist by B. Shaw)
+    - "+3"
+    - 46-39
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 46-39
+    - ''
+    - C. Webber misses 2-pt shot from 7 ft
+  - - '4:11.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 46-39
+    - ''
+    - ''
+  - - '4:10.0'
+    - Turnover by S. O'Neal (out of bounds)
+    - ''
+    - 46-39
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 46-39
+    - ''
+    - P. Stojakovic enters the game for D. Christie
+  - - '4:05.0'
+    - ''
+    - ''
+    - 46-41
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 17 ft (assist by C. Webber)
+  - - '3:42.0'
+    - Turnover by R. Horry (bad pass)
+    - ''
+    - 46-41
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 46-44
+    - "+3"
+    - H. Turkoglu makes 3-pt shot from 25 ft (assist by B. Jackson)
+  - - '3:11.0'
+    - B. Shaw misses 2-pt shot from 21 ft
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Defensive rebound by H. Turkoglu
+  - - '2:52.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Shooting foul by B. Shaw
+  - - '2:52.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Sacramento full timeout
+  - - '2:52.0'
+    - H. Grant enters the game for B. Shaw
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '2:52.0'
+    - D. Fisher enters the game for R. Horry
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 46-45
+    - "+1"
+    - C. Webber makes free throw 1 of 2
+  - - '2:52.0'
+    - ''
+    - ''
+    - 46-46
+    - "+1"
+    - C. Webber makes free throw 2 of 2
+  - - '2:33.0'
+    - Shooting foul by B. Jackson
+    - ''
+    - 46-46
+    - ''
+    - ''
+  - - '2:33.0'
+    - D. Fisher makes free throw 1 of 2
+    - "+1"
+    - 47-46
+    - ''
+    - ''
+  - - '2:33.0'
+    - D. Fisher makes free throw 2 of 2
+    - "+1"
+    - 48-46
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - B. Jackson misses 2-pt shot from 17 ft
+  - - '2:18.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Offensive rebound by C. Webber
+  - - '2:06.0'
+    - ''
+    - ''
+    - 48-48
+    - "+2"
+    - P. Stojakovic makes 2-pt shot from 18 ft
+  - - '1:55.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - Violation by B. Jackson (illegal defense)
+  - - '1:55.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - D. Christie enters the game for B. Jackson
+  - - '1:50.0'
+    - R. Fox misses 2-pt shot from 12 ft
+    - ''
+    - 48-48
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - Defensive rebound by H. Turkoglu
+  - - '1:43.0'
+    - ''
+    - ''
+    - 48-50
+    - "+2"
+    - V. Divac makes 2-pt shot at rim (assist by H. Turkoglu)
+  - - '1:22.0'
+    - Offensive foul by S. O'Neal
+    - ''
+    - 48-50
+    - ''
+    - ''
+  - - '1:22.0'
+    - Turnover by S. O'Neal (foul)
+    - ''
+    - 48-50
+    - ''
+    - ''
+  - - '1:22.0'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 48-50
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 48-52
+    - "+2"
+    - C. Webber makes 2-pt shot at rim (assist by V. Divac)
+  - - '0:50.2'
+    - Turnover by K. Bryant (lost ball)
+    - ''
+    - 48-52
+    - ''
+    - ''
+  - - '0:50.2'
+    - Double technical foul by V. Divac and K. Bryant
+    - ''
+    - 48-52
+    - ''
+    - ''
+  - - '0:50.2'
+    - 'Jump ball: V. Divac vs. K. Bryant (C. Webber gains possession)'
+  - - '0:45.5'
+    - ''
+    - ''
+    - 48-54
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by C. Webber)
+  - - '0:45.5'
+    - Violation by R. Fox (def goaltending)
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '0:35.9'
+    - Shooting foul by V. Divac
+    - ''
+    - 48-54
+    - ''
+    - ''
+  - - '0:35.9'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 49-54
+    - ''
+    - ''
+  - - '0:35.9'
+    - LA Lakers 20 second timeout
+    - ''
+    - 49-54
+    - ''
+    - ''
+  - - '0:35.9'
+    - B. Shaw enters the game for D. Fisher
+    - ''
+    - 49-54
+    - ''
+    - ''
+  - - '0:35.9'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 50-54
+    - ''
+    - ''
+  - - '0:25.3'
+    - ''
+    - ''
+    - 50-56
+    - "+2"
+    - C. Webber makes 2-pt shot from 19 ft (assist by H. Turkoglu)
+  - - '0:06.5'
+    - K. Bryant makes 2-pt shot from 6 ft
+    - "+2"
+    - 52-56
+    - ''
+    - ''
+  - - '0:06.5'
+    - Shooting foul by H. Turkoglu
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '0:06.5'
+    - M. Madsen enters the game for H. Grant
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '0:06.5'
+    - K. Bryant makes free throw 1 of 1
+    - "+1"
+    - 53-56
+    - ''
+    - ''
+  - - '0:05.4'
+    - ''
+    - ''
+    - 53-56
+    - ''
+    - Personal foul by R. Horry
+  - - '0:05.4'
+    - H. Grant enters the game for M. Madsen
+    - ''
+    - 53-56
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 53-59
+    - "+3"
+    - H. Turkoglu makes 3-pt shot from 25 ft (assist by C. Webber)
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:41.0'
+    - K. Bryant misses 2-pt shot from 11 ft
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:40.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:36.0'
+    - K. Bryant misses 2-pt shot at rim (block by V. Divac)
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:35.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:33.0'
+    - K. Bryant misses 2-pt shot at rim (block by V. Divac)
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:31.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:27.0'
+    - K. Bryant misses 2-pt shot at rim (block by V. Divac)
+    - ''
+    - 53-59
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 53-59
+    - ''
+    - Defensive rebound by V. Divac
+  - - '11:17.0'
+    - ''
+    - ''
+    - 53-62
+    - "+3"
+    - D. Christie makes 3-pt shot from 23 ft (assist by J. Williams)
+  - - '11:01.0'
+    - S. O'Neal makes 2-pt shot from 6 ft
+    - "+2"
+    - 55-62
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 55-64
+    - "+2"
+    - V. Divac makes 2-pt shot from 19 ft (assist by D. Christie)
+  - - '10:23.0'
+    - D. Fisher makes 3-pt shot from 23 ft (assist by R. Fox)
+    - "+3"
+    - 58-64
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 58-64
+    - ''
+    - J. Williams misses 3-pt shot from 23 ft
+  - - '10:12.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 58-64
+    - ''
+    - ''
+  - - '10:06.0'
+    - K. Bryant misses 2-pt shot from 19 ft
+    - ''
+    - 58-64
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 58-64
+    - ''
+    - Defensive rebound by C. Webber
+  - - '9:49.0'
+    - ''
+    - ''
+    - 58-66
+    - "+2"
+    - P. Stojakovic makes 2-pt shot from 20 ft
+  - - '9:31.0'
+    - Personal foul by V. Divac
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '9:25.0'
+    - R. Fox misses 2-pt shot from 13 ft
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '9:24.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '9:16.0'
+    - R. Fox makes 2-pt shot from 5 ft (assist by S. O'Neal)
+    - "+2"
+    - 60-66
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Turnover by P. Stojakovic (lost ball)
+  - - '8:41.0'
+    - D. Fisher misses 2-pt shot from 6 ft
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '8:39.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '8:38.0'
+    - Shooting foul by D. Christie
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '8:38.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 61-66
+    - ''
+    - ''
+  - - '8:38.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 62-66
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - D. Christie misses 3-pt shot from 24 ft
+  - - '8:24.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '8:19.0'
+    - H. Grant misses 2-pt shot from 19 ft
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '8:17.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '8:17.0'
+    - Offensive foul by R. Fox
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '8:17.0'
+    - Turnover by R. Fox (foul)
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '8:02.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '7:47.0'
+    - S. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '7:32.0'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - Turnover by P. Stojakovic (lost ball; steal by K. Bryant)
+  - - '7:28.0'
+    - Shooting foul by D. Christie
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '7:28.0'
+    - LA Lakers full timeout
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '7:28.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 63-66
+    - ''
+    - ''
+  - - '7:28.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 64-66
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 64-68
+    - "+2"
+    - C. Webber makes 2-pt shot at rim
+  - - '7:13.0'
+    - ''
+    - ''
+    - 64-68
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '7:13.0'
+    - ''
+    - ''
+    - 64-69
+    - "+1"
+    - C. Webber makes free throw 1 of 1
+  - - '6:57.0'
+    - H. Grant misses 2-pt shot from 6 ft
+    - ''
+    - 64-69
+    - ''
+    - ''
+  - - '6:55.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 66-69
+    - ''
+    - ''
+  - - '6:55.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 66-69
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 66-71
+    - "+2"
+    - V. Divac makes 2-pt shot from 2 ft (assist by C. Webber)
+  - - '6:18.0'
+    - K. Bryant makes 2-pt shot from 6 ft (assist by S. O'Neal)
+    - "+2"
+    - 68-71
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 68-71
+    - ''
+    - V. Divac misses 2-pt shot from 19 ft
+  - - '6:03.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 68-71
+    - ''
+    - ''
+  - - '5:47.0'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 68-71
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 68-71
+    - ''
+    - Defensive rebound by V. Divac
+  - - '5:41.0'
+    - ''
+    - ''
+    - 68-71
+    - ''
+    - J. Williams misses 3-pt shot from 24 ft
+  - - '5:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-71
+    - ''
+    - ''
+  - - '5:29.0'
+    - Turnover by H. Grant (lost ball; steal by D. Christie)
+    - ''
+    - 68-71
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 68-73
+    - "+2"
+    - C. Webber makes 2-pt shot at rim (assist by D. Christie)
+  - - '5:24.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - Shooting foul by D. Fisher
+  - - '5:24.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - B. Jackson enters the game for J. Williams
+  - - '5:24.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - S. Pollard enters the game for V. Divac
+  - - '5:24.0'
+    - ''
+    - ''
+    - 68-74
+    - "+1"
+    - C. Webber makes free throw 1 of 1
+  - - '5:06.0'
+    - R. Fox makes 2-pt shot from 10 ft (assist by D. Fisher)
+    - "+2"
+    - 70-74
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 70-76
+    - "+2"
+    - P. Stojakovic makes 2-pt shot from 19 ft
+  - - '4:26.0'
+    - S. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '4:24.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '4:24.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '4:24.0'
+    - H. Grant makes free throw 1 of 2
+    - "+1"
+    - 71-76
+    - ''
+    - ''
+  - - '4:24.0'
+    - H. Grant makes free throw 2 of 2
+    - "+1"
+    - 72-76
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - C. Webber misses 2-pt shot from 20 ft
+  - - '4:02.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:48.0'
+    - D. Fisher misses 3-pt shot from 25 ft
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - Defensive rebound by C. Webber
+  - - '3:38.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - Offensive foul by S. Pollard
+  - - '3:38.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - Turnover by S. Pollard (foul)
+  - - '3:38.0'
+    - LA Lakers full timeout
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:26.0'
+    - Shooting foul by S. Pollard
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:26.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:26.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:26.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - Defensive rebound by S. Pollard
+  - - '3:06.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - C. Webber misses 2-pt shot at rim
+  - - '3:05.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '3:04.0'
+    - ''
+    - ''
+    - 72-78
+    - "+2"
+    - S. Pollard makes 2-pt shot at rim
+  - - '2:49.0'
+    - K. Bryant misses 2-pt shot from 15 ft
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Defensive rebound by C. Webber
+  - - '2:34.0'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - B. Jackson misses 3-pt shot from 23 ft
+  - - '2:32.0'
+    - Defensive rebound by D. Fisher
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '2:21.0'
+    - Shooting foul by S. Pollard
+    - ''
+    - 72-78
+    - ''
+    - ''
+  - - '2:21.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 73-78
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 73-78
+    - ''
+    - V. Divac enters the game for S. Pollard
+  - - '2:21.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 73-78
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 73-78
+    - ''
+    - ''
+  - - '2:19.0'
+    - S. O'Neal misses 2-pt shot from 5 ft (block by C. Webber)
+    - ''
+    - 73-78
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 73-78
+    - ''
+    - Defensive rebound by Team
+  - - '2:19.0'
+    - 'Jump ball: C. Webber vs. S. O''Neal (V. Divac gains possession)'
+  - - '2:05.0'
+    - ''
+    - ''
+    - 73-80
+    - "+2"
+    - D. Christie makes 2-pt shot at rim
+  - - '1:55.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 73-80
+    - ''
+    - ''
+  - - '1:55.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 74-80
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 74-80
+    - ''
+    - H. Turkoglu enters the game for C. Webber
+  - - '1:55.0'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '1:55.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 75-80
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - Offensive foul by V. Divac
+  - - '1:43.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - Turnover by V. Divac (foul)
+  - - '1:43.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - L. Funderburke enters the game for V. Divac
+  - - '1:27.0'
+    - R. Fox misses 3-pt shot from 23 ft
+    - ''
+    - 75-80
+    - ''
+    - ''
+  - - '1:25.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 75-80
+    - ''
+    - ''
+  - - '1:06.0'
+    - K. Bryant makes 3-pt shot from 25 ft (assist by R. Horry)
+    - "+3"
+    - 78-80
+    - ''
+    - ''
+  - - '0:51.6'
+    - ''
+    - ''
+    - 78-80
+    - ''
+    - Shooting foul by R. Horry
+  - - '0:51.6'
+    - ''
+    - ''
+    - 78-81
+    - "+1"
+    - P. Stojakovic makes free throw 1 of 2
+  - - '0:51.6'
+    - ''
+    - ''
+    - 78-82
+    - "+1"
+    - P. Stojakovic makes free throw 2 of 2
+  - - '0:41.9'
+    - K. Bryant misses 2-pt shot from 7 ft
+    - ''
+    - 78-82
+    - ''
+    - ''
+  - - '0:39.9'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 78-82
+    - ''
+    - ''
+  - - '0:39.0'
+    - Shooting foul by P. Stojakovic
+    - ''
+    - 78-82
+    - ''
+    - ''
+  - - '0:39.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 79-82
+    - ''
+    - ''
+  - - '0:39.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 80-82
+    - ''
+    - ''
+  - - '0:26.4'
+    - ''
+    - ''
+    - 80-84
+    - "+2"
+    - L. Funderburke makes 2-pt shot at rim (assist by B. Jackson)
+  - - '0:03.9'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '0:01.6'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - Defensive rebound by L. Funderburke
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:43.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - H. Turkoglu misses 2-pt shot from 11 ft
+  - - '11:41.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - L. Funderburke misses 2-pt shot at rim
+  - - '11:41.0'
+    - ''
+    - ''
+    - 80-84
+    - ''
+    - Offensive rebound by L. Funderburke
+  - - '11:40.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '11:21.0'
+    - B. Shaw misses 3-pt shot from 25 ft
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '11:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '11:21.0'
+    - Loose ball foul by L. Funderburke
+    - ''
+    - 80-84
+    - ''
+    - ''
+  - - '11:16.0'
+    - K. Bryant makes 2-pt shot from 16 ft (assist by R. Horry)
+    - "+2"
+    - 82-84
+    - ''
+    - ''
+  - - '11:03.0'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - Personal foul by R. Horry
+  - - '10:52.0'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - Turnover by C. Webber (traveling)
+  - - '10:38.0'
+    - S. O'Neal makes 2-pt shot from 5 ft (assist by B. Shaw)
+    - "+2"
+    - 84-84
+    - ''
+    - ''
+  - - '10:38.0'
+    - Shooting foul by L. Funderburke
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '10:38.0'
+    - LA Lakers full timeout
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '10:38.0'
+    - S. O'Neal misses free throw 1 of 1
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '10:36.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '10:36.0'
+    - Shooting foul by B. Jackson
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '10:36.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 85-84
+    - ''
+    - ''
+  - - '10:36.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 86-84
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - L. Funderburke misses 2-pt shot from 19 ft
+  - - '10:19.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '9:59.0'
+    - R. Horry makes 3-pt shot from 23 ft (assist by B. Shaw)
+    - "+3"
+    - 89-84
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 89-84
+    - ''
+    - C. Webber misses 2-pt shot from 7 ft (block by B. Shaw)
+  - - '9:40.0'
+    - ''
+    - ''
+    - 89-84
+    - ''
+    - Offensive rebound by C. Webber
+  - - '9:27.0'
+    - ''
+    - ''
+    - 89-86
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 19 ft
+  - - '9:04.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 91-86
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - C. Webber misses 2-pt shot from 19 ft
+  - - '8:47.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 91-86
+    - ''
+    - ''
+  - - '8:29.0'
+    - Shooting foul by L. Funderburke
+    - ''
+    - 91-86
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - P. Stojakovic enters the game for B. Jackson
+  - - '8:29.0'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - V. Divac enters the game for L. Funderburke
+  - - '8:29.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 92-86
+    - ''
+    - ''
+  - - '8:29.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 92-86
+    - ''
+    - ''
+  - - '8:28.0'
+    - ''
+    - ''
+    - 92-86
+    - ''
+    - Defensive rebound by V. Divac
+  - - '8:16.0'
+    - ''
+    - ''
+    - 92-86
+    - ''
+    - Personal foul by K. Bryant
+  - - '8:09.0'
+    - ''
+    - ''
+    - 92-86
+    - ''
+    - Personal foul by R. Fox
+  - - '7:59.0'
+    - ''
+    - ''
+    - 92-86
+    - ''
+    - Shooting foul by R. Fox
+  - - '7:59.0'
+    - ''
+    - ''
+    - 92-87
+    - "+1"
+    - P. Stojakovic makes free throw 1 of 2
+  - - '7:59.0'
+    - ''
+    - ''
+    - 92-88
+    - "+1"
+    - P. Stojakovic makes free throw 2 of 2
+  - - '7:39.0'
+    - K. Bryant makes 2-pt shot from 18 ft
+    - "+2"
+    - 94-88
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 94-88
+    - ''
+    - C. Webber misses 2-pt shot from 16 ft
+  - - '7:26.0'
+    - ''
+    - ''
+    - 94-88
+    - ''
+    - Offensive rebound by V. Divac
+  - - '7:22.0'
+    - ''
+    - ''
+    - 94-88
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '7:22.0'
+    - ''
+    - ''
+    - 94-89
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '7:22.0'
+    - H. Grant enters the game for S. O'Neal
+    - ''
+    - 94-89
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 94-90
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '7:12.0'
+    - K. Bryant misses 2-pt shot from 16 ft
+    - ''
+    - 94-90
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - Defensive rebound by H. Turkoglu
+  - - '7:00.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '6:58.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - Offensive rebound by V. Divac
+  - - '6:56.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - V. Divac misses 2-pt shot from 2 ft
+  - - '6:55.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - Offensive rebound by Team
+  - - '6:55.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 94-90
+    - ''
+    - ''
+  - - '6:55.0'
+    - R. Harper enters the game for R. Fox
+    - ''
+    - 94-90
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - V. Divac misses 2-pt shot from 5 ft
+  - - '6:47.0'
+    - Defensive rebound by B. Shaw
+    - ''
+    - 94-90
+    - ''
+    - ''
+  - - '6:27.0'
+    - K. Bryant misses 2-pt shot from 16 ft
+    - ''
+    - 94-90
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - Defensive rebound by Team
+  - - '6:27.0'
+    - ''
+    - ''
+    - 94-90
+    - ''
+    - Loose ball foul by H. Grant
+  - - '6:27.0'
+    - ''
+    - ''
+    - 94-91
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '6:27.0'
+    - ''
+    - ''
+    - 94-92
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '6:07.0'
+    - R. Horry makes 2-pt shot from 12 ft (assist by B. Shaw)
+    - "+2"
+    - 96-92
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 96-92
+    - ''
+    - Turnover by P. Stojakovic (lost ball)
+  - - '5:44.0'
+    - Official timeout
+    - ''
+    - 96-92
+    - ''
+    - ''
+  - - '5:31.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 98-92
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 98-92
+    - ''
+    - Shooting foul by B. Shaw
+  - - '5:12.0'
+    - ''
+    - ''
+    - 98-93
+    - "+1"
+    - P. Stojakovic makes free throw 1 of 2
+  - - '5:12.0'
+    - ''
+    - ''
+    - 98-94
+    - "+1"
+    - P. Stojakovic makes free throw 2 of 2
+  - - '4:53.0'
+    - K. Bryant makes 2-pt shot from 17 ft
+    - "+2"
+    - 100-94
+    - ''
+    - ''
+  - - '4:53.0'
+    - Shooting foul by D. Christie
+    - ''
+    - 100-94
+    - ''
+    - ''
+  - - '4:53.0'
+    - K. Bryant makes free throw 1 of 1
+    - "+1"
+    - 101-94
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 101-96
+    - "+2"
+    - C. Webber makes 2-pt shot from 4 ft (assist by H. Turkoglu)
+  - - '4:11.0'
+    - B. Shaw makes 2-pt shot from 3 ft
+    - "+2"
+    - 103-96
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 103-96
+    - ''
+    - Shooting foul by R. Horry
+  - - '4:00.0'
+    - ''
+    - ''
+    - 103-97
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '4:00.0'
+    - R. Fox enters the game for R. Horry
+    - ''
+    - 103-97
+    - ''
+    - ''
+  - - '4:00.0'
+    - S. O'Neal enters the game for R. Harper
+    - ''
+    - 103-97
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 103-98
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '3:39.0'
+    - B. Shaw makes 3-pt shot from 25 ft (assist by K. Bryant)
+    - "+3"
+    - 106-98
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 106-101
+    - "+3"
+    - H. Turkoglu makes 3-pt shot from 25 ft
+  - - '3:10.0'
+    - Turnover by B. Shaw (bad pass; steal by D. Christie)
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 106-101
+    - ''
+    - Loose ball foul by S. O'Neal
+  - - '3:09.0'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 106-102
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '3:09.0'
+    - ''
+    - ''
+    - 106-103
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '2:56.0'
+    - R. Horry misses 3-pt shot from 25 ft
+    - ''
+    - 106-103
+    - ''
+    - ''
+  - - '2:54.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 106-103
+    - ''
+    - ''
+  - - '2:47.0'
+    - H. Grant misses 2-pt shot from 4 ft (block by V. Divac)
+    - ''
+    - 106-103
+    - ''
+    - ''
+  - - '2:45.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 106-103
+    - ''
+    - ''
+  - - '2:44.0'
+    - H. Grant makes 2-pt shot at rim
+    - "+2"
+    - 108-103
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 108-105
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 11 ft
+  - - '2:06.0'
+    - K. Bryant misses 2-pt shot from 19 ft
+    - ''
+    - 108-105
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 108-105
+    - ''
+    - Defensive rebound by V. Divac
+  - - '1:57.0'
+    - ''
+    - ''
+    - 108-105
+    - ''
+    - Personal foul by H. Grant
+  - - '1:57.0'
+    - ''
+    - ''
+    - 108-105
+    - ''
+    - Sacramento full timeout
+  - - '1:57.0'
+    - ''
+    - ''
+    - 108-106
+    - "+1"
+    - H. Turkoglu makes free throw 1 of 2
+  - - '1:57.0'
+    - ''
+    - ''
+    - 108-107
+    - "+1"
+    - H. Turkoglu makes free throw 2 of 2
+  - - '1:45.0'
+    - Personal foul by D. Christie
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:45.0'
+    - K. Bryant misses free throw 1 of 2
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:45.0'
+    - R. Harper enters the game for B. Shaw
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:45.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 109-107
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 109-107
+    - ''
+    - H. Turkoglu misses 2-pt shot at rim (block by R. Horry)
+  - - '1:35.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 109-107
+    - ''
+    - ''
+  - - '1:21.0'
+    - K. Bryant makes 2-pt shot from 7 ft
+    - "+2"
+    - 111-107
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 111-107
+    - ''
+    - Turnover by D. Christie (lost ball; steal by R. Horry)
+  - - '0:49.7'
+    - Personal foul by C. Webber
+    - ''
+    - 111-107
+    - ''
+    - ''
+  - - '0:49.7'
+    - R. Horry misses free throw 1 of 2
+    - ''
+    - 111-107
+    - ''
+    - ''
+  - - '0:49.7'
+    - Offensive rebound by Team
+    - ''
+    - 111-107
+    - ''
+    - ''
+  - - '0:49.7'
+    - R. Horry makes free throw 2 of 2
+    - "+1"
+    - 112-107
+    - ''
+    - ''
+  - - '0:49.7'
+    - ''
+    - ''
+    - 112-107
+    - ''
+    - Sacramento full timeout
+  - - '0:40.9'
+    - ''
+    - ''
+    - 112-107
+    - ''
+    - Turnover by C. Webber (bad pass; steal by R. Harper)
+  - - '0:35.6'
+    - Personal foul by H. Turkoglu
+    - ''
+    - 112-107
+    - ''
+    - ''
+  - - '0:35.6'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 113-107
+    - ''
+    - ''
+  - - '0:35.6'
+    - K. Bryant misses free throw 2 of 2
+    - ''
+    - 113-107
+    - ''
+    - ''
+  - - '0:35.2'
+    - ''
+    - ''
+    - 113-107
+    - ''
+    - Defensive rebound by V. Divac
+  - - '0:35.2'
+    - ''
+    - ''
+    - 113-107
+    - ''
+    - Sacramento full timeout
+  - - '0:27.6'
+    - ''
+    - ''
+    - 113-107
+    - ''
+    - Shooting foul by R. Fox
+  - - '0:27.6'
+    - ''
+    - ''
+    - 113-107
+    - ''
+    - B. Jackson enters the game for V. Divac
+  - - '0:27.6'
+    - D. Fisher enters the game for R. Fox
+    - ''
+    - 113-107
+    - ''
+    - ''
+  - - '0:27.6'
+    - ''
+    - ''
+    - 113-108
+    - "+1"
+    - P. Stojakovic makes free throw 1 of 3
+  - - '0:27.6'
+    - ''
+    - ''
+    - 113-109
+    - "+1"
+    - P. Stojakovic makes free throw 2 of 3
+  - - '0:27.6'
+    - ''
+    - ''
+    - 113-110
+    - "+1"
+    - P. Stojakovic makes free throw 3 of 3
+  - - '0:26.7'
+    - Personal foul by H. Turkoglu
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '0:26.7'
+    - R. Horry makes free throw 1 of 2
+    - "+1"
+    - 114-110
+    - ''
+    - ''
+  - - '0:26.7'
+    - R. Horry makes free throw 2 of 2
+    - "+1"
+    - 115-110
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 115-110
+    - ''
+    - P. Stojakovic misses 3-pt shot from 24 ft
+  - - '0:17.8'
+    - Defensive rebound by Team
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:15.5'
+    - Personal foul by B. Jackson
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:15.5'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 116-110
+    - ''
+    - ''
+  - - '0:15.5'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 117-110
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 117-113
+    - "+3"
+    - H. Turkoglu makes 3-pt shot from 26 ft (assist by B. Jackson)
+  - - '0:01.5'
+    - Personal foul by P. Stojakovic
+    - ''
+    - 117-113
+    - ''
+    - ''
+  - - '0:01.5'
+    - D. Fisher makes free throw 1 of 2
+    - "+1"
+    - 118-113
+    - ''
+    - ''
+  - - '0:01.5'
+    - D. Fisher makes free throw 2 of 2
+    - "+1"
+    - 119-113
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

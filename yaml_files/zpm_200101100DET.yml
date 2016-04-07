@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +25&#9642;Off: 0&#9642;Net: +25)'
+    - |2-
+
+      +20
+    - 230/+20
+    - 144/
+    - 124/+2
+    - 250/+3
+    - 121/0
+    - 129/
+    - 'Mark Jackson (On: +24&#9642;Off: +1&#9642;Net: +23)'
+    - |2-
+
+      +13
+    - 200/+13
+    - 84/
+    - 215/+7
+    - 197/+4
+    - 303/
+    - 'Charles Oakley (On: +18&#9642;Off: +7&#9642;Net: +11)'
+    - |2-
+
+      +19
+    - 238/+19
+    - 95/
+    - 102/-2
+    - 63/
+    - 249/+3
+    - 36/-2
+    - 214/
+    - 'Morris Peterson (On: +21&#9642;Off: +4&#9642;Net: +17)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 32/0
+    - 119/
+    - 98/+1
+    - 250/+3
+    - 249/
+    - 'Kevin Willis (On: +24&#9642;Off: +1&#9642;Net: +23)'
+    - |2-
+
+      +15
+    - 188/+15
+    - 232/
+    - 79/+5
+    - 197/+4
+    - 303/
+    - 'Antonio Davis (On: +3&#9642;Off: +22&#9642;Net: -19)'
+    - "\n"
+    - 193/
+    - 56/+2
+    - 166/+2
+    - 286/
+    - 47/-1
+    - 120/0
+    - 129/
+    - 'Alvin Williams (On: +6&#9642;Off: +19&#9642;Net: -13)'
+    - "\n"
+    - 203/
+    - 46/+4
+    - 122/+5
+    - 330/
+    - 47/-1
+    - 250/-2
+    - 'Dell Curry (On: +1&#9642;Off: +24&#9642;Net: -23)'
+    - "\n"
+    - 236/
+    - 14/-3
+    - 148/+6
+    - 352/
+    - 249/-2
+    - 'Corliss Williamson (On: +3&#9642;Off: +22&#9642;Net: -19)'
+    - "\n"
+    - 239/
+    - 11/-2
+    - 82/+5
+    - 455/
+    - 212/0
+    - 'Kornel David (On: -2&#9642;Off: +27&#9642;Net: -29)'
+    - "\n"
+    - 444/
+    - 56/+4
+    - 372/
+    - 30/-6
+    - 97/
+    - 'Tyrone Corbin (On: -2&#9642;Off: +27&#9642;Net: -29)'
+    - "\n"
+    - 874/
+    - 128/-2
+    - 'Michael Stewart (On: +4&#9642;Off: +21&#9642;Net: -17)'
+    - "\n"
+    - 910/
+    - 92/+4
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -26&#9642;Off: +1&#9642;Net: -27)'
+    - |2-
+
+      -15
+    - 168/-15
+    - 275/
+    - 54/-4
+    - 2/
+    - 182/-7
+    - 317/
+    - 'Michael Curry (On: -18&#9642;Off: -7&#9642;Net: -11)'
+    - |2-
+
+      -9
+    - 87/-9
+    - 238/
+    - 72/-2
+    - 102/
+    - 182/-7
+    - 317/
+    - 'Joe Smith (On: -27&#9642;Off: +2&#9642;Net: -29)'
+    - |2-
+
+      -15
+    - 188/-15
+    - 118/
+    - 193/-4
+    - 85/-8
+    - 415/
+    - 'Jerry Stackhouse (On: -20&#9642;Off: -5&#9642;Net: -15)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 102/
+    - 147/0
+    - 250/-3
+    - 77/0
+    - 172/
+    - 'Ben Wallace (On: -23&#9642;Off: -2&#9642;Net: -21)'
+    - |2-
+
+      -18
+    - 223/-18
+    - 178/
+    - 99/-1
+    - 197/-4
+    - 302/
+    - 'Jud Buechler (On: -8&#9642;Off: -17&#9642;Net: +9)'
+    - "\n"
+    - 94/
+    - 128/-9
+    - 27/
+    - 69/-4
+    - 82/
+    - 98/-1
+    - 189/
+    - 60/+4
+    - 248/+2
+    - 'Mateen Cleaves (On: +1&#9642;Off: -26&#9642;Net: +27)'
+    - "\n"
+    - 171/
+    - 78/-2
+    - 186/-3
+    - 63/
+    - 0/0
+    - 189/
+    - 60/+4
+    - 249/+2
+    - 'Mikki Moore (On: -4&#9642;Off: -21&#9642;Net: +17)'
+    - "\n"
+    - 193/
+    - 56/-2
+    - 49/-3
+    - 289/
+    - 46/-2
+    - 67/
+    - 47/+1
+    - 249/+2
+    - 'Dana Barros (On: -4&#9642;Off: -21&#9642;Net: +17)'
+    - "\n"
+    - 228/
+    - 22/+1
+    - 102/-7
+    - 479/
+    - 168/+2
+    - 'Eric Montross (On: -5&#9642;Off: -20&#9642;Net: +15)'
+    - "\n"
+    - 228/
+    - 22/+1
+    - 148/-6
+    - 602/
+    - 'John Wallace (On: +9&#9642;Off: -34&#9642;Net: +43)'
+    - "\n"
+    - 639/
+    - 112/+7
+    - 250/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

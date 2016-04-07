@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -3&#9642;Off: -8&#9642;Net: +5)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 177/
+    - 72/-4
+    - 249/+4
+    - 50/+2
+    - 63/
+    - 137/-2
+    - 'Bill Curley (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - |2-
+
+      -8
+    - 115/-8
+    - 219/
+    - 88/+1
+    - 77/
+    - 182/0
+    - 317/
+    - 'Marc Jackson (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 153/
+    - 97/-4
+    - 250/+4
+    - 249/-4
+    - 'Antawn Jamison (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 151/-4
+    - 99/
+    - 250/+4
+    - 249/-4
+    - 'Bob Sura (On: -1&#9642;Off: -10&#9642;Net: +9)'
+    - |2-
+
+      -2
+    - 207/-2
+    - 292/
+    - 250/+4
+    - 105/-2
+    - 102/
+    - 42/-1
+    - 'Adam Keefe (On: +3&#9642;Off: -14&#9642;Net: +17)'
+    - "\n"
+    - 119/
+    - 120/+5
+    - 187/
+    - 72/-4
+    - 185/
+    - 64/+4
+    - 104/-2
+    - 145/
+    - 'Vinny Del Negro (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 213/
+    - 37/-1
+    - 250/-8
+    - 500/
+    - 'Chris Mullin (On: -10&#9642;Off: -1&#9642;Net: -9)'
+    - "\n"
+    - 244/
+    - 6/0
+    - 250/-8
+    - 363/
+    - 136/-2
+    - 'John Coker (On: -5&#9642;Off: -6&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 79/-5
+    - 672/
+    - 'Vonteego Cummings (On: -9&#9642;Off: -2&#9642;Net: -7)'
+    - "\n"
+    - 250/
+    - 173/-4
+    - 383/
+    - 145/-5
+    - 48/
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Brevin Knight (On: +7&#9642;Off: +4&#9642;Net: +3)'
+    - |2-
+
+      +4
+    - 143/+4
+    - 69/
+    - 37/+1
+    - 126/+2
+    - 123/
+    - 126/-4
+    - 123/
+    - 249/+4
+    - 'Roshown McLeod (On: +14&#9642;Off: -3&#9642;Net: +17)'
+    - |2-
+
+      +4
+    - 143/+4
+    - 237/
+    - 118/+6
+    - 182/0
+    - 68/
+    - 238/+4
+    - 11/
+    - 'Dikembe Mutombo (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - |2-
+
+      +2
+    - 207/+2
+    - 127/
+    - 150/+5
+    - 15/
+    - 249/-4
+    - 161/
+    - 88/+1
+    - 'Jason Terry (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - |2-
+
+      +2
+    - 207/+2
+    - 100/
+    - 92/+3
+    - 99/
+    - 249/-4
+    - 201/+3
+    - 49/
+    - 'Lorenzen Wright (On: +13&#9642;Off: -2&#9642;Net: +15)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 132/
+    - 118/+6
+    - 182/0
+    - 68/
+    - 248/+4
+    - 'Dion Glover (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - "\n"
+    - 149/
+    - 100/-1
+    - 55/+1
+    - 98/
+    - 97/+4
+    - 499/
+    - 'Matt Maloney (On: +8&#9642;Off: +3&#9642;Net: +5)'
+    - "\n"
+    - 149/
+    - 100/-1
+    - 249/+8
+    - 132/
+    - 118/0
+    - 206/
+    - 43/+1
+    - 'Alan Henderson (On: +3&#9642;Off: +8&#9642;Net: -5)'
+    - "\n"
+    - 212/
+    - 37/+1
+    - 78/+5
+    - 158/
+    - 12/-2
+    - 184/
+    - 64/-4
+    - 155/+3
+    - 95/
+    - 'Hanno Mottola (On: +2&#9642;Off: +9&#9642;Net: -7)'
+    - "\n"
+    - 250/
+    - 127/+2
+    - 624/
+    - 'DerMarr Johnson (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - "\n"
+    - 686/
+    - 65/-4
+    - 250/
+    - 'Andy Panko (On: 0&#9642;Off: +11&#9642;Net: -11)'
+    - "\n"
+    - 993/
+    - 9/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

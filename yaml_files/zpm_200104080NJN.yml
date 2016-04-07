@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Al Harrington (On: +8&#9642;Off: +17&#9642;Net: -9)'
+    - |2-
+
+      -1
+    - 78/-1
+    - 607/
+    - 65/+13
+    - 250/-4
+    - 'Reggie Miller (On: +13&#9642;Off: +12&#9642;Net: +1)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 9/
+    - 240/+8
+    - 162/+13
+    - 338/
+    - 'Jermaine O''Neal (On: +30&#9642;Off: -5&#9642;Net: +35)'
+    - |2-
+
+      -7
+    - 99/-7
+    - 150/
+    - 250/+8
+    - 250/+29
+    - 19/0
+    - 230/
+    - 'Sam Perkins (On: -7&#9642;Off: +32&#9642;Net: -39)'
+    - |2-
+
+      -7
+    - 100/-7
+    - 902/
+    - 'Jalen Rose (On: +22&#9642;Off: +3&#9642;Net: +19)'
+    - |2-
+
+      -8
+    - 165/-8
+    - 18/
+    - 67/+2
+    - 103/-1
+    - 146/
+    - 249/+29
+    - 31/0
+    - 217/
+    - 'Travis Best (On: +20&#9642;Off: +5&#9642;Net: +15)'
+    - "\n"
+    - 82/
+    - 93/-9
+    - 74/
+    - 7/0
+    - 242/
+    - 249/+29
+    - 45/0
+    - 204/
+    - 'Austin Croshere (On: +22&#9642;Off: +3&#9642;Net: +19)'
+    - "\n"
+    - 105/
+    - 144/-1
+    - 249/+8
+    - 164/
+    - 86/+16
+    - 95/-1
+    - 154/
+    - 'Derrick McKey (On: -1&#9642;Off: +26&#9642;Net: -27)'
+    - "\n"
+    - 105/
+    - 145/-1
+    - 751/
+    - 'Jeff Foster (On: +21&#9642;Off: +4&#9642;Net: +17)'
+    - "\n"
+    - 165/
+    - 84/0
+    - 250/+8
+    - 180/+16
+    - 168/
+    - 151/-3
+    - 'Tyus Edney (On: +5&#9642;Off: +20&#9642;Net: -15)'
+    - "\n"
+    - 358/
+    - 142/+9
+    - 302/
+    - 198/-4
+    - 'Zan Tabak (On: -4&#9642;Off: +29&#9642;Net: -33)'
+    - "\n"
+    - 775/
+    - 227/-4
+    - 'Jonathan Bender (On: -4&#9642;Off: +29&#9642;Net: -33)'
+    - "\n"
+    - 787/
+    - 215/-4
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Evan Eschmeyer (On: -21&#9642;Off: -4&#9642;Net: -17)'
+    - |2-
+
+      +8
+    - 169/+8
+    - 138/
+    - 193/-8
+    - 197/-21
+    - 302/
+    - 'Lucious Harris (On: -10&#9642;Off: -15&#9642;Net: +5)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 51/0
+    - 91/
+    - 107/-4
+    - 121/-14
+    - 378/
+    - 'Johnny Newman (On: -8&#9642;Off: -17&#9642;Net: +9)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 132/
+    - 97/-2
+    - 21/
+    - 121/-14
+    - 377/
+    - 'Doug Overton (On: -13&#9642;Off: -12&#9642;Net: -1)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 119/
+    - 131/-7
+    - 121/-14
+    - 378/
+    - 'Keith Van Horn (On: -14&#9642;Off: -11&#9642;Net: -3)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 51/0
+    - 51/
+    - 147/-9
+    - 121/-14
+    - 180/
+    - 43/+1
+    - 154/
+    - 'Aaron Williams (On: -14&#9642;Off: -11&#9642;Net: -3)'
+    - "\n"
+    - 175/
+    - 74/0
+    - 97/+1
+    - 278/
+    - 124/-15
+    - 45/0
+    - 204/
+    - 'Eddie Gill (On: -12&#9642;Off: -13&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 113/-1
+    - 262/
+    - 125/-15
+    - 249/+4
+    - 'Mark Strickland (On: -16&#9642;Off: -9&#9642;Net: -7)'
+    - "\n"
+    - 249/
+    - 124/-2
+    - 108/
+    - 16/-4
+    - 125/
+    - 124/-15
+    - 115/-1
+    - 33/
+    - 101/+6
+    - 'Stephen Jackson (On: -15&#9642;Off: -10&#9642;Net: -5)'
+    - "\n"
+    - 306/
+    - 82/-4
+    - 237/
+    - 125/-15
+    - 249/+4
+    - 'Soumaila Samake (On: -10&#9642;Off: -15&#9642;Net: +5)'
+    - "\n"
+    - 701/
+    - 49/-8
+    - 144/-2
+    - 106/
+    - 'Jamel Thomas (On: +3&#9642;Off: -28&#9642;Net: +31)'
+    - "\n"
+    - 851/
+    - 151/+3
+    - 'Vladimir Stepania (On: +5&#9642;Off: -30&#9642;Net: +35)'
+    - "\n"
+    - 872/
+    - 130/+5
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

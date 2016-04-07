@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: -24&#9642;Off: +19&#9642;Net: -43)'
+    - |2-
+
+      -8
+    - 232/-8
+    - 140/
+    - 127/-5
+    - 224/-15
+    - 149/
+    - 126/+4
+    - 'Allan Houston (On: +13&#9642;Off: -18&#9642;Net: +31)'
+    - |2-
+
+      -2
+    - 203/-2
+    - 95/
+    - 200/-3
+    - 59/-1
+    - 167/
+    - 23/+4
+    - 241/+15
+    - 8/
+    - 'Larry Johnson (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - |2-
+
+      -4
+    - 169/-4
+    - 178/
+    - 26/+2
+    - 127/
+    - 123/-3
+    - 375/
+    - 'Latrell Sprewell (On: -7&#9642;Off: +2&#9642;Net: -9)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 47/0
+    - 129/
+    - 38/-5
+    - 35/
+    - 249/-11
+    - 250/+14
+    - 'Charlie Ward (On: -12&#9642;Off: +7&#9642;Net: -19)'
+    - |2-
+
+      -2
+    - 203/-2
+    - 268/
+    - 28/0
+    - 148/-7
+    - 344/
+    - 7/-3
+    - 'Kurt Thomas (On: +3&#9642;Off: -8&#9642;Net: +11)'
+    - "\n"
+    - 170/
+    - 78/-1
+    - 118/+2
+    - 8/
+    - 44/0
+    - 50/
+    - 28/0
+    - 127/
+    - 121/-8
+    - 114/+10
+    - 135/
+    - 'Chris Childs (On: +4&#9642;Off: -9&#9642;Net: +13)'
+    - "\n"
+    - 205/
+    - 45/-3
+    - 214/-3
+    - 186/
+    - 99/-4
+    - 249/+14
+    - 'Glen Rice (On: 0&#9642;Off: -5&#9642;Net: +5)'
+    - "\n"
+    - 204/
+    - 45/-3
+    - 249/-3
+    - 63/
+    - 186/-10
+    - 241/+17
+    - 4/
+    - 4/-1
+    - 'Othella Harrington (On: +3&#9642;Off: -8&#9642;Net: +11)'
+    - "\n"
+    - 239/
+    - 11/+3
+    - 95/0
+    - 655/
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: +15&#9642;Off: -10&#9642;Net: +25)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 150/
+    - 99/+3
+    - 250/+11
+    - 123/
+    - 126/-4
+    - 'Michael Curry (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 77/
+    - 40/+2
+    - 131/
+    - 172/+10
+    - 77/
+    - 241/-15
+    - 9/
+    - 'Joe Smith (On: +15&#9642;Off: -10&#9642;Net: +25)'
+    - |2-
+
+      +2
+    - 202/+2
+    - 123/
+    - 150/+9
+    - 21/
+    - 191/+8
+    - 57/
+    - 65/-6
+    - 149/
+    - 4/+2
+    - 11/
+    - 20/0
+    - 'Jerry Stackhouse (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 70/-4
+    - 52/
+    - 127/+5
+    - 250/+11
+    - 249/-14
+    - 'Ben Wallace (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - |2-
+
+      +2
+    - 202/+2
+    - 46/
+    - 169/-4
+    - 60/
+    - 19/-2
+    - 171/+10
+    - 20/
+    - 34/+5
+    - 93/
+    - 143/-8
+    - 36/
+    - 'Mikki Moore (On: 0&#9642;Off: +5&#9642;Net: -5)'
+    - "\n"
+    - 204/
+    - 45/+3
+    - 70/-4
+    - 178/
+    - 1/0
+    - 177/
+    - 72/+1
+    - 249/
+    - 'Jerome Williams (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - "\n"
+    - 204/
+    - 45/+3
+    - 97/-2
+    - 74/
+    - 78/+7
+    - 177/
+    - 72/+1
+    - 127/-10
+    - 121/
+    - 'Dana Barros (On: 0&#9642;Off: +5&#9642;Net: -5)'
+    - "\n"
+    - 250/
+    - 147/0
+    - 604/
+    - 'John Wallace (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - "\n"
+    - 351/
+    - 147/+5
+    - 232/
+    - 18/-2
+    - 133/
+    - 117/-4
+    - 'Mateen Cleaves (On: -9&#9642;Off: +14&#9642;Net: -23)'
+    - "\n"
+    - 750/
+    - 115/-10
+    - 131/
+    - 4/+1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

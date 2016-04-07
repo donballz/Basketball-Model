@@ -1,0 +1,227 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +6&#9642;Off: -3&#9642;Net: +9)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 212/+11
+    - 24/
+    - 14/-2
+    - 250/+2
+    - 248/-9
+    - 'Chris Childs (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 72/+5
+    - 140/
+    - 37/-5
+    - 45/0
+    - 257/
+    - 46/-2
+    - 150/
+    - 'Antonio Davis (On: +3&#9642;Off: 0&#9642;Net: +3)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 85/+8
+    - 99/
+    - 44/-2
+    - 21/
+    - 249/+2
+    - 247/-9
+    - 2/
+    - 'Charles Oakley (On: +3&#9642;Off: 0&#9642;Net: +3)'
+    - |2-
+
+      +4
+    - 236/+4
+    - 263/
+    - 249/+2
+    - 71/-1
+    - 40/
+    - 136/-2
+    - 2/
+    - 'Alvin Williams (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 72/
+    - 156/+3
+    - 21/
+    - 249/+2
+    - 49/-2
+    - 49/
+    - 151/-6
+    - 'Keon Clark (On: +5&#9642;Off: -2&#9642;Net: +7)'
+    - "\n"
+    - 237/
+    - 12/0
+    - 190/+11
+    - 58/
+    - 1/0
+    - 321/
+    - 36/-6
+    - 141/
+    - 'Dell Curry (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 249/
+    - 249/+6
+    - 48/
+    - 201/+2
+    - 96/-3
+    - 7/
+    - 147/-5
+    - 'Eric Montross (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 338/
+    - 93/+2
+    - 55/
+    - 13/-2
+    - 500/
+    - 'Jerome Williams (On: -5&#9642;Off: +8&#9642;Net: -13)'
+    - "\n"
+    - 443/
+    - 57/-5
+    - 499/
+    - 1/0
+    - 'Morris Peterson (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 1001/
+    - 1/0
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: -7&#9642;Off: +4&#9642;Net: -11)'
+    - |2-
+
+      -1
+    - 169/-1
+    - 80/
+    - 153/-8
+    - 39/
+    - 19/0
+    - 38/
+    - 223/-3
+    - 24/
+    - 0/-2
+    - 170/+7
+    - 78/
+    - 'Allen Iverson (On: -5&#9642;Off: +2&#9642;Net: -7)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 250/-6
+    - 45/0
+    - 11/
+    - 194/-4
+    - 248/+9
+    - 'George Lynch (On: +6&#9642;Off: -9&#9642;Net: +15)'
+    - |2-
+
+      +1
+    - 135/+1
+    - 270/
+    - 33/-3
+    - 59/
+    - 126/+3
+    - 101/
+    - 17/+3
+    - 179/
+    - 72/+2
+    - 2/
+    - 'Dikembe Mutombo (On: -1&#9642;Off: -2&#9642;Net: +1)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 118/-10
+    - 66/
+    - 64/+4
+    - 1/
+    - 244/0
+    - 5/
+    - 247/+9
+    - 1/
+    - 'Eric Snow (On: +3&#9642;Off: -6&#9642;Net: +9)'
+    - |2-
+
+      -1
+    - 193/-1
+    - 145/
+    - 162/+2
+    - 228/-5
+    - 75/
+    - 195/+7
+    - 'Aaron McKie (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - "\n"
+    - 139/
+    - 109/-5
+    - 248/-6
+    - 48/
+    - 7/+2
+    - 71/
+    - 123/-5
+    - 49/+2
+    - 22/
+    - 178/+8
+    - 'Matt Geiger (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 174/
+    - 76/-3
+    - 751/
+    - 'Kevin Ollie (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 196/
+    - 53/-3
+    - 481/
+    - 18/+3
+    - 251/
+    - 'Jumaine Jones (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - "\n"
+    - 249/
+    - 85/-8
+    - 127/
+    - 37/+5
+    - 248/
+    - 0/-2
+    - 71/+1
+    - 177/
+    - 1/0
+    - 'Todd MacCulloch (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 372/
+    - 59/0
+    - 69/
+    - 0/0
+    - 499/
+    - 'Rodney Buford (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 1001/
+    - 1/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

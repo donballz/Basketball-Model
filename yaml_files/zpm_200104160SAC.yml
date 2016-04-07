@@ -1,0 +1,204 @@
+---
+- name: Plus-Minus
+  data:
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -16&#9642;Off: +6&#9642;Net: -22)'
+    - |2-
+
+      -9
+    - 235/-9
+    - 112/
+    - 152/+5
+    - 250/-6
+    - 225/-6
+    - 24/
+    - 'Mike Bibby (On: -13&#9642;Off: +3&#9642;Net: -16)'
+    - |2-
+
+      -9
+    - 250/-9
+    - 98/
+    - 152/+5
+    - 250/-6
+    - 249/-3
+    - 'Damon Jones (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - |2-
+
+      -7
+    - 175/-7
+    - 75/
+    - 250/+8
+    - 238/-6
+    - 132/
+    - 128/-2
+    - 'Tony Massenburg (On: -9&#9642;Off: -1&#9642;Net: -8)'
+    - |2-
+
+      -8
+    - 102/-8
+    - 244/
+    - 150/+5
+    - 2/
+    - 249/-6
+    - 55/0
+    - 195/
+    - 'Bryant Reeves (On: -12&#9642;Off: +2&#9642;Net: -14)'
+    - |2-
+
+      -6
+    - 169/-6
+    - 80/
+    - 97/+3
+    - 152/
+    - 52/-1
+    - 255/
+    - 147/-8
+    - 44/
+    - 'Stromile Swift (On: -1&#9642;Off: -9&#9642;Net: +8)'
+    - "\n"
+    - 106/
+    - 144/-1
+    - 126/+3
+    - 374/
+    - 249/-3
+    - 'Isaac Austin (On: -3&#9642;Off: -7&#9642;Net: +4)'
+    - "\n"
+    - 174/
+    - 76/-3
+    - 751/
+    - 'Mahmoud Abdul-Rauf (On: +5&#9642;Off: -15&#9642;Net: +20)'
+    - "\n"
+    - 179/
+    - 70/-2
+    - 97/+3
+    - 393/
+    - 8/0
+    - 115/-1
+    - 91/
+    - 43/+5
+    - 'Grant Long (On: +6&#9642;Off: -16&#9642;Net: +22)'
+    - "\n"
+    - 236/
+    - 13/0
+    - 97/+3
+    - 30/
+    - 121/+5
+    - 56/
+    - 193/-5
+    - 227/
+    - 22/+3
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: +20&#9642;Off: -10&#9642;Net: +30)'
+    - |2-
+
+      +9
+    - 249/+9
+    - 21/-2
+    - 182/
+    - 46/-1
+    - 249/+6
+    - 206/+8
+    - 44/
+    - 'Vlade Divac (On: +10&#9642;Off: 0&#9642;Net: +10)'
+    - |2-
+
+      +9
+    - 250/+9
+    - 147/
+    - 102/-5
+    - 250/+6
+    - 64/0
+    - 185/
+    - 'Peja Stojakovic (On: +18&#9642;Off: -8&#9642;Net: +26)'
+    - |2-
+
+      +9
+    - 250/+9
+    - 147/
+    - 102/-5
+    - 250/+6
+    - 206/+8
+    - 43/
+    - 'Chris Webber (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - |2-
+
+      +6
+    - 169/+6
+    - 80/
+    - 224/-8
+    - 25/
+    - 249/+6
+    - 69/
+    - 136/+8
+    - 44/
+    - 'Jason Williams (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - |2-
+
+      +9
+    - 250/+9
+    - 171/
+    - 79/-3
+    - 250/+6
+    - 249/
+    - 'Scot Pollard (On: +8&#9642;Off: +2&#9642;Net: +6)'
+    - "\n"
+    - 174/
+    - 75/+3
+    - 143/-3
+    - 82/
+    - 24/0
+    - 249/
+    - 218/+8
+    - 31/
+    - 'Bobby Jackson (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 250/
+    - 167/-5
+    - 333/
+    - 219/+8
+    - 30/
+    - 'Hedo Turkoglu (On: -8&#9642;Off: +18&#9642;Net: -26)'
+    - "\n"
+    - 250/
+    - 143/-3
+    - 563/
+    - 44/-5
+    - 'Jon Barry (On: -10&#9642;Off: +20&#9642;Net: -30)'
+    - "\n"
+    - 272/
+    - 176/-5
+    - 508/
+    - 44/-5
+    - 'Lawrence Funderburke (On: -5&#9642;Off: +15&#9642;Net: -20)'
+    - "\n"
+    - 959/
+    - 43/-5
+    - 'Nick Anderson (On: -5&#9642;Off: +15&#9642;Net: -20)'
+    - "\n"
+    - 971/
+    - 31/-5
+    - 'Darrick Martin (On: -5&#9642;Off: +15&#9642;Net: -20)'
+    - "\n"
+    - 971/
+    - 31/-5
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

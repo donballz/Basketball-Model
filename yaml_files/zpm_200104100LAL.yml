@@ -1,0 +1,230 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: -6&#9642;Off: -20&#9642;Net: +14)'
+    - |2-
+
+      +5
+    - 136/+5
+    - 364/
+    - 92/-11
+    - 408/
+    - 'Jason Kidd (On: -15&#9642;Off: -11&#9642;Net: -4)'
+    - |2-
+
+      +7
+    - 112/+7
+    - 157/
+    - 163/-11
+    - 68/
+    - 92/-11
+    - 406/
+    - 'Shawn Marion (On: -19&#9642;Off: -7&#9642;Net: -12)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 72/-7
+    - 75/
+    - 103/+1
+    - 250/-9
+    - 248/
+    - 'Clifford Robinson (On: -21&#9642;Off: -5&#9642;Net: -16)'
+    - |2-
+
+      -7
+    - 202/-7
+    - 122/
+    - 175/-3
+    - 92/-11
+    - 408/
+    - 'Jake Tsakalidis (On: -13&#9642;Off: -13&#9642;Net: 0)'
+    - |2-
+
+      +2
+    - 153/+2
+    - 131/
+    - 135/-4
+    - 80/
+    - 92/-11
+    - 407/
+    - 'Tony Delk (On: -17&#9642;Off: -9&#9642;Net: -8)'
+    - "\n"
+    - 113/
+    - 135/-11
+    - 19/-1
+    - 106/
+    - 124/-1
+    - 93/
+    - 103/-1
+    - 53/
+    - 249/-3
+    - 'Rodney Rogers (On: -16&#9642;Off: -10&#9642;Net: -6)'
+    - "\n"
+    - 142/
+    - 107/-9
+    - 100/-5
+    - 77/
+    - 73/-3
+    - 93/
+    - 156/+2
+    - 115/-1
+    - 132/
+    - 'Tom Gugliotta (On: -15&#9642;Off: -11&#9642;Net: -4)'
+    - "\n"
+    - 153/
+    - 49/-9
+    - 152/
+    - 37/-6
+    - 357/
+    - 83/0
+    - 166/
+    - 'Vinny Del Negro (On: -4&#9642;Off: -22&#9642;Net: +18)'
+    - "\n"
+    - 208/
+    - 42/+3
+    - 121/-9
+    - 67/
+    - 61/+2
+    - 203/
+    - 46/+3
+    - 248/-3
+    - 'Chris Dudley (On: 0&#9642;Off: -26&#9642;Net: +26)'
+    - "\n"
+    - 208/
+    - 42/+3
+    - 29/-3
+    - 313/
+    - 156/+2
+    - 116/
+    - 133/-2
+    - 'Elliot Perry (On: -1&#9642;Off: -25&#9642;Net: +24)'
+    - "\n"
+    - 594/
+    - 157/+2
+    - 250/-3
+    - 'Daniel Santiago (On: -3&#9642;Off: -23&#9642;Net: +20)'
+    - "\n"
+    - 840/
+    - 162/-3
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +14&#9642;Off: +12&#9642;Net: +2)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 11/0
+    - 114/
+    - 124/+1
+    - 249/+9
+    - 83/0
+    - 167/
+    - 'Derek Fisher (On: +16&#9642;Off: +10&#9642;Net: +6)'
+    - |2-
+
+      -3
+    - 145/-3
+    - 118/
+    - 210/+10
+    - 26/
+    - 250/+9
+    - 249/
+    - 'Rick Fox (On: +22&#9642;Off: +4&#9642;Net: +18)'
+    - |2-
+
+      +7
+    - 202/+7
+    - 224/
+    - 73/+3
+    - 197/+12
+    - 303/
+    - 'Horace Grant (On: +18&#9642;Off: +8&#9642;Net: +10)'
+    - |2-
+
+      +4
+    - 248/+4
+    - 106/
+    - 120/+5
+    - 26/
+    - 239/+9
+    - 259/
+    - 'Shaquille O''Neal (On: +28&#9642;Off: -2&#9642;Net: +30)'
+    - |2-
+
+      +8
+    - 213/+8
+    - 36/
+    - 169/+7
+    - 80/
+    - 196/+12
+    - 53/
+    - 116/+1
+    - 133/
+    - 'Brian Shaw (On: +19&#9642;Off: +7&#9642;Net: +12)'
+    - "\n"
+    - 147/
+    - 102/+7
+    - 121/+9
+    - 378/
+    - 251/+3
+    - 'Devean George (On: +4&#9642;Off: +22&#9642;Net: -18)'
+    - "\n"
+    - 208/
+    - 42/-3
+    - 170/+7
+    - 283/
+    - 46/-3
+    - 249/+3
+    - 'Mark Madsen (On: -1&#9642;Off: +27&#9642;Net: -28)'
+    - "\n"
+    - 220/
+    - 28/-4
+    - 178/
+    - 73/+3
+    - 203/
+    - 46/-3
+    - 249/+3
+    - 'Robert Horry (On: +5&#9642;Off: +21&#9642;Net: -16)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 100/+5
+    - 650/
+    - 'Mike Penberthy (On: +3&#9642;Off: +23&#9642;Net: -20)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 228/
+    - 21/0
+    - 338/
+    - 162/+3
+    - 'Stanislav Medvedenko (On: +2&#9642;Off: +24&#9642;Net: -22)'
+    - "\n"
+    - 478/
+    - 21/0
+    - 244/
+    - 5/0
+    - 120/
+    - 130/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,231 @@
+---
+- name: Plus-Minus
+  data:
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: +16&#9642;Off: +8&#9642;Net: +8)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 174/+4
+    - 75/
+    - 214/+8
+    - 32/
+    - 3/0
+    - 70/
+    - 103/+7
+    - 75/
+    - 'Vlade Divac (On: +9&#9642;Off: +15&#9642;Net: -6)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 165/
+    - 84/+3
+    - 209/+6
+    - 156/
+    - 13/+3
+    - 121/
+    - 'Peja Stojakovic (On: +23&#9642;Off: +1&#9642;Net: +22)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 111/
+    - 138/+5
+    - 250/+11
+    - 174/+10
+    - 75/
+    - 'Chris Webber (On: +19&#9642;Off: +5&#9642;Net: +14)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 110/+2
+    - 69/
+    - 70/+3
+    - 249/+11
+    - 65/+3
+    - 51/
+    - 57/+3
+    - 75/
+    - 'Jason Williams (On: +11&#9642;Off: +13&#9642;Net: -2)'
+    - |2-
+
+      -3
+    - 247/-3
+    - 182/
+    - 70/+3
+    - 246/+11
+    - 254/
+    - 'Bobby Jackson (On: +13&#9642;Off: +11&#9642;Net: +2)'
+    - "\n"
+    - 247/
+    - 2/0
+    - 174/+4
+    - 322/
+    - 3/0
+    - 250/+9
+    - 'Scot Pollard (On: +14&#9642;Off: +10&#9642;Net: +4)'
+    - "\n"
+    - 249/
+    - 163/+4
+    - 300/
+    - 31/+5
+    - 4/
+    - 108/+7
+    - 28/
+    - 3/-2
+    - 109/
+    - 'Hedo Turkoglu (On: +16&#9642;Off: +8&#9642;Net: +8)'
+    - "\n"
+    - 249/
+    - 249/+7
+    - 220/
+    - 29/+3
+    - 108/+7
+    - 39/
+    - 61/-1
+    - 41/
+    - 'Jon Barry (On: -1&#9642;Off: +25&#9642;Net: -26)'
+    - "\n"
+    - 930/
+    - 72/-1
+    - 'Lawrence Funderburke (On: -1&#9642;Off: +25&#9642;Net: -26)'
+    - "\n"
+    - 930/
+    - 72/-1
+    - 'Darrick Martin (On: -1&#9642;Off: +25&#9642;Net: -26)'
+    - "\n"
+    - 930/
+    - 72/-1
+    - 'Art Long (On: +2&#9642;Off: +22&#9642;Net: -20)'
+    - "\n"
+    - 966/
+    - 36/+2
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Fisher (On: -12&#9642;Off: -12&#9642;Net: 0)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 82/0
+    - 97/
+    - 70/-3
+    - 148/-2
+    - 101/
+    - 162/-10
+    - 87/
+    - 'Rick Fox (On: -15&#9642;Off: -9&#9642;Net: -6)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 82/0
+    - 50/
+    - 117/-5
+    - 249/-11
+    - 84/
+    - 89/-2
+    - 76/
+    - 'Horace Grant (On: -8&#9642;Off: -16&#9642;Net: +8)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 82/0
+    - 168/
+    - 246/-11
+    - 253/
+    - 'Shaquille O''Neal (On: -22&#9642;Off: -2&#9642;Net: -20)'
+    - |2-
+
+      +3
+    - 247/+3
+    - 85/
+    - 167/-7
+    - 246/-11
+    - 74/
+    - 59/-7
+    - 119/
+    - 'Brian Shaw (On: -9&#9642;Off: -15&#9642;Net: +6)'
+    - |2-
+
+      +3
+    - 164/+3
+    - 335/
+    - 62/-2
+    - 187/
+    - 162/-10
+    - 88/
+    - 'Isaiah Rider (On: -1&#9642;Off: -23&#9642;Net: +22)'
+    - "\n"
+    - 171/
+    - 78/0
+    - 127/-2
+    - 368/
+    - 3/0
+    - 165/
+    - 85/+1
+    - 'Mike Penberthy (On: -12&#9642;Off: -12&#9642;Net: 0)'
+    - "\n"
+    - 247/
+    - 2/0
+    - 82/
+    - 92/-4
+    - 224/
+    - 100/-9
+    - 165/
+    - 84/+1
+    - 'Greg Foster (On: -8&#9642;Off: -16&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 82/0
+    - 417/
+    - 84/-8
+    - 166/
+    - 'Devean George (On: -17&#9642;Off: -7&#9642;Net: -10)'
+    - "\n"
+    - 331/
+    - 167/-7
+    - 66/
+    - 183/-9
+    - 65/-3
+    - 20/
+    - 23/+1
+    - 69/
+    - 71/+1
+    - 'Robert Horry (On: -14&#9642;Off: -10&#9642;Net: -4)'
+    - "\n"
+    - 332/
+    - 167/-7
+    - 246/
+    - 3/0
+    - 79/-8
+    - 57/
+    - 113/+1
+    - 'Mark Madsen (On: -2&#9642;Off: -22&#9642;Net: +20)'
+    - "\n"
+    - 868/
+    - 134/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

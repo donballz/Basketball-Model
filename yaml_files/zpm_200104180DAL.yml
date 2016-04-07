@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: -14&#9642;Off: -6&#9642;Net: -8)'
+    - |2-
+
+      -14
+    - 211/-14
+    - 791/
+    - 'Dean Garrett (On: -25&#9642;Off: +5&#9642;Net: -30)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 250/
+    - 71/-8
+    - 429/
+    - 'Sam Mitchell (On: -32&#9642;Off: +12&#9642;Net: -44)'
+    - |2-
+
+      -14
+    - 211/-14
+    - 289/
+    - 204/-18
+    - 296/
+    - 'Anthony Peeler (On: -32&#9642;Off: +12&#9642;Net: -44)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 250/
+    - 182/-15
+    - 318/
+    - 'Wally Szczerbiak (On: -30&#9642;Off: +10&#9642;Net: -40)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 35/+2
+    - 215/
+    - 182/-15
+    - 317/
+    - 'William Avery (On: -14&#9642;Off: -6&#9642;Net: -8)'
+    - "\n"
+    - 217/
+    - 33/-3
+    - 145/+2
+    - 105/
+    - 203/-18
+    - 205/
+    - 89/+5
+    - 'LaPhonso Ellis (On: +12&#9642;Off: -32&#9642;Net: +44)'
+    - "\n"
+    - 217/
+    - 33/-3
+    - 250/+4
+    - 211/
+    - 39/+2
+    - 248/+9
+    - 'Felipe Lopez (On: +12&#9642;Off: -32&#9642;Net: +44)'
+    - "\n"
+    - 250/
+    - 250/+4
+    - 182/
+    - 67/-1
+    - 250/+9
+    - 'Rasho Nesterovic (On: -7&#9642;Off: -13&#9642;Net: +6)'
+    - "\n"
+    - 250/
+    - 250/+4
+    - 76/
+    - 173/-8
+    - 67/-3
+    - 182/
+    - 'Reggie Slater (On: +2&#9642;Off: -22&#9642;Net: +24)'
+    - "\n"
+    - 286/
+    - 58/-1
+    - 338/
+    - 67/-1
+    - 155/+4
+    - 94/
+    - 'Tom Hammonds (On: +15&#9642;Off: -35&#9642;Net: +50)'
+    - "\n"
+    - 348/
+    - 152/+3
+    - 319/
+    - 181/+12
+    - 'Chauncey Billups (On: +13&#9642;Off: -33&#9642;Net: +46)'
+    - "\n"
+    - 400/
+    - 100/+2
+    - 211/
+    - 39/+2
+    - 249/+9
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Calvin Booth (On: +17&#9642;Off: +3&#9642;Net: +14)'
+    - |2-
+
+      +7
+    - 165/+7
+    - 235/
+    - 36/-3
+    - 64/
+    - 140/+13
+    - 358/
+    - 'Michael Finley (On: +36&#9642;Off: -16&#9642;Net: +52)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 250/
+    - 250/+16
+    - 82/+3
+    - 167/
+    - 'Juwan Howard (On: +31&#9642;Off: -11&#9642;Net: +42)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 94/-1
+    - 155/
+    - 182/+15
+    - 318/
+    - 'Steve Nash (On: +23&#9642;Off: -3&#9642;Net: +26)'
+    - |2-
+
+      +10
+    - 139/+10
+    - 226/
+    - 129/-5
+    - 5/
+    - 203/+18
+    - 296/
+    - 'Dirk Nowitzki (On: +32&#9642;Off: -12&#9642;Net: +44)'
+    - |2-
+
+      +17
+    - 225/+17
+    - 123/
+    - 152/-3
+    - 217/+18
+    - 282/
+    - 'Howard Eisley (On: -3&#9642;Off: +23&#9642;Net: -26)'
+    - "\n"
+    - 142/
+    - 107/+7
+    - 110/+1
+    - 138/
+    - 1/0
+    - 210/
+    - 39/-2
+    - 249/-9
+    - 'Shawn Bradley (On: +11&#9642;Off: +9&#9642;Net: +2)'
+    - "\n"
+    - 170/
+    - 79/+10
+    - 110/+1
+    - 138/
+    - 1/0
+    - 500/
+    - 'Eduardo Najera (On: -7&#9642;Off: +27&#9642;Net: -34)'
+    - "\n"
+    - 231/
+    - 18/0
+    - 145/-2
+    - 287/
+    - 67/+1
+    - 223/-6
+    - 26/
+    - 'Vernon Maxwell (On: -16&#9642;Off: +36&#9642;Net: -52)'
+    - "\n"
+    - 250/
+    - 250/-4
+    - 336/
+    - 164/-12
+    - 'Wang Zhizhi (On: -12&#9642;Off: +32&#9642;Net: -44)'
+    - "\n"
+    - 365/
+    - 129/-5
+    - 229/
+    - 26/-2
+    - 171/-2
+    - 59/
+    - 18/-3
+    - 'Donnell Harvey (On: -6&#9642;Off: +26&#9642;Net: -32)'
+    - "\n"
+    - 440/
+    - 60/+1
+    - 426/
+    - 74/-7
+    - 'Mark Bryant (On: -6&#9642;Off: +26&#9642;Net: -32)'
+    - "\n"
+    - 645/
+    - 105/+3
+    - 251/-9
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

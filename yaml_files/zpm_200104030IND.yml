@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: -10&#9642;Off: +6&#9642;Net: -16)'
+    - |2-
+
+      -8
+    - 205/-8
+    - 237/
+    - 56/0
+    - 109/+2
+    - 135/
+    - 5/0
+    - 102/
+    - 147/-4
+    - 'Jason Kidd (On: -5&#9642;Off: +1&#9642;Net: -6)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 97/
+    - 152/0
+    - 54/-2
+    - 56/
+    - 139/+8
+    - 250/-5
+    - 'Shawn Marion (On: -1&#9642;Off: -3&#9642;Net: +2)'
+    - |2-
+
+      -6
+    - 227/-6
+    - 71/
+    - 201/0
+    - 250/+10
+    - 250/-5
+    - 'Clifford Robinson (On: -16&#9642;Off: +12&#9642;Net: -28)'
+    - |2-
+
+      -4
+    - 91/-4
+    - 140/
+    - 18/0
+    - 41/-3
+    - 208/
+    - 59/-4
+    - 254/
+    - 185/-5
+    - 'Jake Tsakalidis (On: -7&#9642;Off: +3&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 56/-5
+    - 242/
+    - 171/-2
+    - 30/
+    - 16/0
+    - 483/
+    - 'Rodney Rogers (On: +6&#9642;Off: -10&#9642;Net: +16)'
+    - "\n"
+    - 63/
+    - 186/-1
+    - 249/-3
+    - 69/
+    - 180/+14
+    - 135/-4
+    - 115/
+    - 'Tom Gugliotta (On: +6&#9642;Off: -10&#9642;Net: +16)'
+    - "\n"
+    - 96/
+    - 153/-2
+    - 41/-3
+    - 182/
+    - 26/+2
+    - 21/
+    - 228/+10
+    - 62/0
+    - 74/
+    - 111/-1
+    - 'Tony Delk (On: -2&#9642;Off: -2&#9642;Net: 0)'
+    - "\n"
+    - 211/
+    - 38/+2
+    - 94/-3
+    - 405/
+    - 98/-1
+    - 152/
+    - 'Vinny Del Negro (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 193/-3
+    - 558/
+    - 'Elliot Perry (On: +12&#9642;Off: -16&#9642;Net: +28)'
+    - "\n"
+    - 560/
+    - 179/+12
+    - 262/
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Al Harrington (On: -6&#9642;Off: +10&#9642;Net: -16)'
+    - |2-
+
+      +6
+    - 152/+6
+    - 310/
+    - 36/-1
+    - 166/-11
+    - 328/
+    - 6/0
+    - 'Reggie Miller (On: +10&#9642;Off: -6&#9642;Net: +16)'
+    - |2-
+
+      +6
+    - 226/+6
+    - 84/
+    - 188/0
+    - 109/-2
+    - 65/
+    - 75/+1
+    - 250/+5
+    - 'Jermaine O''Neal (On: 0&#9642;Off: +4&#9642;Net: -4)'
+    - |2-
+
+      +8
+    - 205/+8
+    - 78/
+    - 202/-2
+    - 13/
+    - 166/-11
+    - 83/
+    - 250/+5
+    - 'Sam Perkins (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - |2-
+
+      +6
+    - 152/+6
+    - 194/
+    - 116/+1
+    - 37/
+    - 30/0
+    - 469/
+    - 'Jalen Rose (On: +9&#9642;Off: -5&#9642;Net: +14)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 60/+3
+    - 92/
+    - 98/+5
+    - 250/-10
+    - 248/+5
+    - 'Travis Best (On: -7&#9642;Off: +11&#9642;Net: -18)'
+    - "\n"
+    - 157/
+    - 92/0
+    - 146/-2
+    - 137/
+    - 176/-10
+    - 86/
+    - 197/+5
+    - 5/
+    - 'Austin Croshere (On: -5&#9642;Off: +9&#9642;Net: -14)'
+    - "\n"
+    - 157/
+    - 93/0
+    - 250/+3
+    - 110/
+    - 139/-8
+    - 249/
+    - 'Jeff Foster (On: +9&#9642;Off: -5&#9642;Net: +14)'
+    - "\n"
+    - 211/
+    - 38/-2
+    - 32/+3
+    - 207/
+    - 10/+2
+    - 174/
+    - 75/+1
+    - 249/+5
+    - 'Derrick McKey (On: +3&#9642;Off: +1&#9642;Net: +2)'
+    - "\n"
+    - 231/
+    - 19/0
+    - 94/+3
+    - 656/
+    - 'Tyus Edney (On: 0&#9642;Off: +4&#9642;Net: -4)'
+    - "\n"
+    - 718/
+    - 32/0
+    - 251/
+    - 'Jonathan Bender (On: 0&#9642;Off: +4&#9642;Net: -4)'
+    - "\n"
+    - 751/
+    - 39/0
+    - 211/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

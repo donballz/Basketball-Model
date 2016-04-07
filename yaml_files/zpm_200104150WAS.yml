@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Matt Harpring (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - |2-
+
+      -4
+    - 62/-4
+    - 332/
+    - 97/+2
+    - 8/
+    - 202/+11
+    - 297/
+    - 'Chris Mihm (On: +11&#9642;Off: -3&#9642;Net: +14)'
+    - |2-
+
+      0
+    - 235/0
+    - 265/
+    - 211/+11
+    - 289/
+    - 'Andre Miller (On: +11&#9642;Off: -3&#9642;Net: +14)'
+    - |2-
+
+      +1
+    - 144/+1
+    - 105/
+    - 227/-1
+    - 23/
+    - 220/+11
+    - 279/
+    - 'Wesley Person (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 250/
+    - 250/+11
+    - 250/
+    - 'Clarence Weatherspoon (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 163/
+    - 87/+2
+    - 250/+11
+    - 14/-2
+    - 234/
+    - 'Lamond Murray (On: +1&#9642;Off: +7&#9642;Net: -6)'
+    - "\n"
+    - 63/
+    - 186/+2
+    - 250/+2
+    - 202/
+    - 47/0
+    - 250/-3
+    - 'Bimbo Coles (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 152/
+    - 98/-3
+    - 751/
+    - 'Chris Gatling (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 238/
+    - 11/-2
+    - 160/0
+    - 362/
+    - 228/-1
+    - 'Trajan Langdon (On: -3&#9642;Off: +11&#9642;Net: -14)'
+    - "\n"
+    - 250/
+    - 141/-2
+    - 107/
+    - 1/+2
+    - 250/
+    - 249/-3
+    - 'Robert Traylor (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - "\n"
+    - 250/
+    - 250/+2
+    - 215/
+    - 35/0
+    - 249/-3
+    - 'Anthony Johnson (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - "\n"
+    - 483/
+    - 17/+3
+    - 227/
+    - 23/0
+    - 249/-3
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Courtney Alexander (On: -14&#9642;Off: +6&#9642;Net: -20)'
+    - |2-
+
+      -2
+    - 207/-2
+    - 83/
+    - 210/-4
+    - 250/-11
+    - 47/
+    - 201/+3
+    - 'Richard Hamilton (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 33/+2
+    - 129/
+    - 86/-2
+    - 132/-8
+    - 117/
+    - 40/0
+    - 210/
+    - 'Christian Laettner (On: -17&#9642;Off: +9&#9642;Net: -26)'
+    - |2-
+
+      -2
+    - 206/-2
+    - 150/
+    - 141/-5
+    - 202/-11
+    - 25/
+    - 23/0
+    - 202/+1
+    - 47/
+    - 'Laron Profit (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - |2-
+
+      -3
+    - 165/-3
+    - 123/
+    - 209/-4
+    - 140/-8
+    - 219/
+    - 72/+1
+    - 29/
+    - 39/+2
+    - 'Michael Smith (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      -3
+    - 183/-3
+    - 174/
+    - 87/-6
+    - 55/
+    - 114/-6
+    - 246/
+    - 138/+7
+    - 'David Vanterpool (On: +6&#9642;Off: -14&#9642;Net: +20)'
+    - "\n"
+    - 170/
+    - 79/+5
+    - 33/+2
+    - 351/
+    - 113/-3
+    - 104/-4
+    - 82/
+    - 64/+6
+    - 'Popeye Jones (On: +6&#9642;Off: -14&#9642;Net: +20)'
+    - "\n"
+    - 183/
+    - 66/+5
+    - 100/+3
+    - 100/
+    - 41/+3
+    - 128/
+    - 100/-5
+    - 278/
+    - 'Tyrone Nesby (On: -1&#9642;Off: -7&#9642;Net: +6)'
+    - "\n"
+    - 214/
+    - 36/+4
+    - 159/0
+    - 234/
+    - 105/-3
+    - 138/-2
+    - 111/
+    - 'Loy Vaught (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 213/
+    - 36/+4
+    - 100/+3
+    - 147/
+    - 1/-2
+    - 202/
+    - 47/0
+    - 104/-4
+    - 107/
+    - 37/+2
+    - 'Mike Smith (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 890/
+    - 64/+3
+    - 47/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

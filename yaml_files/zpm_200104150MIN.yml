@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +8&#9642;Off: -15&#9642;Net: +23)'
+    - |2-
+
+      +7
+    - 220/+7
+    - 158/
+    - 109/+1
+    - 13/
+    - 86/0
+    - 412/
+    - 'Donyell Marshall (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      +7
+    - 220/+7
+    - 62/
+    - 217/-5
+    - 250/-3
+    - 79/
+    - 170/0
+    - 'Olden Polynice (On: +6&#9642;Off: -13&#9642;Net: +19)'
+    - |2-
+
+      +7
+    - 220/+7
+    - 269/
+    - 11/+2
+    - 215/-3
+    - 284/
+    - 'Bryon Russell (On: +3&#9642;Off: -10&#9642;Net: +13)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 32/0
+    - 217/
+    - 163/+2
+    - 86/
+    - 250/-5
+    - 'John Stockton (On: +13&#9642;Off: -20&#9642;Net: +33)'
+    - |2-
+
+      +9
+    - 161/+9
+    - 186/
+    - 152/+3
+    - 136/-1
+    - 160/
+    - 203/+2
+    - 'Jacque Vaughn (On: -19&#9642;Off: +12&#9642;Net: -31)'
+    - "\n"
+    - 165/
+    - 84/-3
+    - 96/-8
+    - 295/
+    - 107/-2
+    - 43/-7
+    - 126/
+    - 80/+1
+    - 'Danny Manning (On: -9&#9642;Off: +2&#9642;Net: -11)'
+    - "\n"
+    - 220/
+    - 29/-1
+    - 249/-5
+    - 89/
+    - 96/-5
+    - 117/
+    - 197/+2
+    - 'Greg Ostertag (On: -14&#9642;Off: +7&#9642;Net: -21)'
+    - "\n"
+    - 220/
+    - 29/-1
+    - 124/-8
+    - 341/
+    - 34/0
+    - 74/-5
+    - 175/
+    - 'John Starks (On: -17&#9642;Off: +10&#9642;Net: -27)'
+    - "\n"
+    - 220/
+    - 29/-1
+    - 249/-5
+    - 164/
+    - 85/-5
+    - 168/-6
+    - 82/
+    - 'David Benoit (On: -5&#9642;Off: -2&#9642;Net: -3)'
+    - "\n"
+    - 693/
+    - 57/+2
+    - 47/-7
+    - 203/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: -6&#9642;Off: +13&#9642;Net: -19)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 155/
+    - 94/-3
+    - 215/+3
+    - 119/
+    - 165/0
+    - 'Kevin Garnett (On: -10&#9642;Off: +17&#9642;Net: -27)'
+    - |2-
+
+      -8
+    - 232/-8
+    - 173/
+    - 94/-3
+    - 96/+1
+    - 404/
+    - 'Felipe Lopez (On: -8&#9642;Off: +15&#9642;Net: -23)'
+    - |2-
+
+      -9
+    - 161/-9
+    - 339/
+    - 136/+1
+    - 364/
+    - 'Reggie Slater (On: -5&#9642;Off: +12&#9642;Net: -17)'
+    - |2-
+
+      -9
+    - 161/-9
+    - 289/
+    - 48/+2
+    - 163/-2
+    - 86/
+    - 99/+4
+    - 151/
+    - 'Wally Szczerbiak (On: +4&#9642;Off: +3&#9642;Net: +1)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 33/0
+    - 157/
+    - 59/+4
+    - 150/+1
+    - 65/
+    - 34/0
+    - 249/+5
+    - 'Rasho Nesterovic (On: +20&#9642;Off: -13&#9642;Net: +33)'
+    - "\n"
+    - 165/
+    - 84/+3
+    - 150/+8
+    - 264/
+    - 85/+5
+    - 99/+4
+    - 150/
+    - 'Anthony Peeler (On: +15&#9642;Off: -8&#9642;Net: +23)'
+    - "\n"
+    - 165/
+    - 85/+3
+    - 250/+5
+    - 142/
+    - 107/+2
+    - 249/+5
+    - 'LaPhonso Ellis (On: +8&#9642;Off: -1&#9642;Net: +9)'
+    - "\n"
+    - 237/
+    - 12/+2
+    - 197/+3
+    - 152/
+    - 115/+2
+    - 137/
+    - 147/+1
+    - 'Chauncey Billups (On: +13&#9642;Off: -6&#9642;Net: +19)'
+    - "\n"
+    - 250/
+    - 150/+8
+    - 315/
+    - 34/0
+    - 79/+5
+    - 170/
+    - 'Sam Mitchell (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - "\n"
+    - 288/
+    - 147/+1
+    - 219/
+    - 95/+2
+    - 199/
+    - 50/-1
+    - 'Dean Garrett (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - "\n"
+    - 854/
+    - 95/+2
+    - 52/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

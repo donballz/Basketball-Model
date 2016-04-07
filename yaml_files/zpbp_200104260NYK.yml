@@ -1,0 +1,2616 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Camby vs. A. Davis (C. Childs gains possession)'
+  - - '11:44.0'
+    - C. Childs misses 2-pt shot at rim
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - A. Davis misses 2-pt shot at rim
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by A. Houston
+  - - '11:30.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - L. Sprewell misses 2-pt shot from 19 ft
+  - - '11:28.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - C. Childs misses 2-pt shot from 20 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:01.0'
+    - Turnover by C. Childs (bad pass; steal by A. Houston)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - K. Thomas makes 2-pt shot from 14 ft (assist by L. Sprewell)
+  - - '10:31.0'
+    - V. Carter misses 2-pt shot from 21 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '10:13.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - L. Sprewell misses 2-pt shot from 16 ft
+  - - '10:11.0'
+    - Defensive rebound by C. Childs
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:06.0'
+    - Personal foul by L. Sprewell
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:00.0'
+    - A. Davis misses 2-pt shot from 16 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '9:56.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by V. Carter)
+  - - '9:53.0'
+    - Turnover by C. Childs (traveling)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Turnover by M. Jackson (bad pass)
+  - - '9:25.0'
+    - A. Williams makes 3-pt shot from 25 ft (assist by C. Childs)
+    - "+3"
+    - 3-2
+    - ''
+    - ''
+  - - '9:24.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '9:07.0'
+    - ''
+    - ''
+    - 3-4
+    - "+2"
+    - A. Houston makes 2-pt shot at rim
+  - - '8:52.0'
+    - A. Davis misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 3-4
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '8:39.0'
+    - ''
+    - ''
+    - 3-4
+    - ''
+    - K. Thomas misses 2-pt shot at rim (block by C. Oakley)
+  - - '8:37.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 3-4
+    - ''
+    - ''
+  - - '8:30.0'
+    - A. Davis makes 2-pt shot at rim (assist by C. Childs)
+    - "+2"
+    - 5-4
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 5-6
+    - "+2"
+    - A. Houston makes 2-pt shot from 12 ft (assist by M. Jackson)
+  - - '7:48.0'
+    - V. Carter makes 2-pt shot from 14 ft
+    - "+2"
+    - 7-6
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 7-8
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '7:17.0'
+    - V. Carter makes 2-pt shot at rim (assist by C. Childs)
+    - "+2"
+    - 9-8
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '6:48.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Offensive rebound by M. Jackson
+  - - '6:41.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - A. Houston misses 3-pt shot from 26 ft
+  - - '6:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:24.0'
+    - V. Carter misses 2-pt shot from 20 ft
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '6:03.0'
+    - ''
+    - ''
+    - 9-10
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim (assist by A. Houston)
+  - - '5:46.0'
+    - C. Childs makes 3-pt shot from 24 ft (assist by A. Davis)
+    - "+3"
+    - 12-10
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - New York full timeout
+  - - '5:33.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Turnover by A. Houston (lost ball; steal by A. Williams)
+  - - '5:27.0'
+    - A. Williams makes 2-pt shot at rim
+    - "+2"
+    - 14-10
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - L. Sprewell misses 2-pt shot from 20 ft
+  - - '4:59.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '4:49.0'
+    - V. Carter misses 2-pt shot from 17 ft
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '4:42.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - L. Sprewell misses 2-pt shot from 12 ft
+  - - '4:40.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '4:40.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '4:38.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '4:26.0'
+    - C. Oakley misses 2-pt shot from 22 ft
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '4:24.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 16-10
+    - ''
+    - ''
+  - - '4:24.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 16-10
+    - ''
+    - M. Camby misses 2-pt shot from 15 ft
+  - - '4:07.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '4:00.0'
+    - C. Oakley misses 2-pt shot from 19 ft
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 16-10
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '3:46.0'
+    - ''
+    - ''
+    - 16-12
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 8 ft (assist by M. Jackson)
+  - - '3:24.0'
+    - Shooting foul by M. Camby
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '3:24.0'
+    - C. Childs makes free throw 1 of 2
+    - "+1"
+    - 17-12
+    - ''
+    - ''
+  - - '3:24.0'
+    - C. Childs makes free throw 2 of 2
+    - "+1"
+    - 18-12
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - Turnover by M. Camby (bad pass)
+  - - '3:04.0'
+    - Turnover by A. Davis (bad pass; steal by L. Sprewell)
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - L. Sprewell misses 2-pt shot from 8 ft (block by A. Williams)
+  - - '2:54.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '2:49.0'
+    - Offensive foul by V. Carter
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '2:49.0'
+    - Turnover by V. Carter (foul)
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - New York full timeout
+  - - '2:49.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - O. Harrington enters the game for K. Thomas
+  - - '2:46.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - Personal foul by C. Childs
+  - - '2:46.0'
+    - K. Clark enters the game for C. Oakley
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 18-14
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by A. Houston)
+  - - '2:24.0'
+    - Personal foul by M. Camby
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 18-14
+    - ''
+    - K. Thomas enters the game for M. Camby
+  - - '2:14.0'
+    - K. Clark misses 2-pt shot from 10 ft
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 18-14
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '1:52.0'
+    - ''
+    - ''
+    - 18-16
+    - "+2"
+    - K. Thomas makes 2-pt shot from 12 ft (assist by M. Jackson)
+  - - '1:30.0'
+    - A. Davis makes 2-pt shot from 11 ft
+    - "+2"
+    - 20-16
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - A. Houston misses 2-pt shot from 13 ft
+  - - '1:07.0'
+    - Defensive rebound by K. Clark
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '1:01.0'
+    - Turnover by V. Carter (lost ball)
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - G. Rice enters the game for L. Sprewell
+  - - '0:42.1'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - A. Houston misses 2-pt shot at rim
+  - - '0:39.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:32.0'
+    - Personal foul by G. Rice
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:22.9'
+    - K. Clark misses 2-pt shot from 4 ft (block by O. Harrington)
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:20.4'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '0:04.3'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '0:02.6'
+    - Defensive rebound by A. Davis
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:00.2'
+    - C. Childs misses 3-pt shot from 60 ft
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:50.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Personal foul by A. Williams
+  - - '11:46.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - G. Rice misses 2-pt shot from 21 ft
+  - - '11:44.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Offensive rebound by C. Ward
+  - - '11:39.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Turnover by C. Ward (bad pass; steal by K. Clark)
+  - - '11:31.0'
+    - V. Carter misses 3-pt shot from 24 ft
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '11:28.0'
+    - Offensive rebound by A. Davis
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '11:27.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 22-16
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - C. Ward misses 2-pt shot from 16 ft
+  - - '11:06.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Violation by C. Ward (illegal defense)
+  - - '10:52.0'
+    - J. Williams enters the game for A. Williams
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:41.0'
+    - A. Davis misses 2-pt shot from 8 ft (block by K. Thomas)
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:37.0'
+    - Turnover by C. Childs (bad pass; steal by O. Harrington)
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Turnover by C. Ward (bad pass; steal by V. Carter)
+  - - '10:25.0'
+    - Personal foul by O. Harrington
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:20.0'
+    - C. Childs misses 2-pt shot at rim
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:04.0'
+    - C. Childs misses 3-pt shot from 25 ft
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Defensive rebound by G. Rice
+  - - '9:52.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Personal foul by V. Carter
+  - - '9:47.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - A. Houston misses 2-pt shot from 13 ft
+  - - '9:46.0'
+    - Defensive rebound by K. Clark
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '9:35.0'
+    - Turnover by C. Childs (bad pass; steal by C. Ward)
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Shooting foul by K. Clark
+  - - '9:25.0'
+    - ''
+    - ''
+    - 22-17
+    - "+1"
+    - K. Thomas makes free throw 1 of 2
+  - - '9:25.0'
+    - A. Williams enters the game for V. Carter
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 22-18
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '9:05.0'
+    - A. Davis misses 2-pt shot from 9 ft
+    - ''
+    - 22-18
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - Defensive rebound by C. Ward
+  - - '8:58.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - Personal foul by K. Clark
+  - - '8:58.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - Official timeout
+  - - '8:58.0'
+    - C. Oakley enters the game for A. Davis
+    - ''
+    - 22-18
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - G. Rice misses 2-pt shot from 20 ft
+  - - '8:49.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 22-18
+    - ''
+    - ''
+  - - '8:39.0'
+    - Personal foul by C. Ward
+    - ''
+    - 22-18
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - L. Sprewell enters the game for A. Houston
+  - - '8:26.0'
+    - K. Clark makes 2-pt shot at rim
+    - "+2"
+    - 24-18
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - Turnover by G. Rice (bad pass; steal by C. Childs)
+  - - '7:53.0'
+    - K. Clark misses 2-pt shot at rim (block by G. Rice)
+    - ''
+    - 24-18
+    - ''
+    - ''
+  - - '7:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-18
+    - ''
+    - ''
+  - - '7:49.0'
+    - Turnover by C. Childs (bad pass; steal by G. Rice)
+    - ''
+    - 24-18
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - Personal foul by C. Oakley
+  - - '7:40.0'
+    - ''
+    - ''
+    - 24-19
+    - "+1"
+    - K. Thomas makes free throw 1 of 2
+  - - '7:40.0'
+    - V. Carter enters the game for C. Childs
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 24-19
+    - ''
+    - K. Thomas misses free throw 2 of 2
+  - - '7:39.0'
+    - Defensive rebound by K. Clark
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '7:26.0'
+    - V. Carter makes 2-pt shot from 20 ft
+    - "+2"
+    - 26-19
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 26-21
+    - "+2"
+    - O. Harrington makes 2-pt shot at rim
+  - - '6:53.0'
+    - A. Williams makes 2-pt shot from 17 ft
+    - "+2"
+    - 28-21
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - L. Sprewell misses 2-pt shot from 17 ft (block by K. Clark)
+  - - '6:31.0'
+    - Defensive rebound by K. Clark
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '6:17.0'
+    - J. Williams misses 2-pt shot from 19 ft
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Defensive rebound by C. Ward
+  - - '6:05.0'
+    - ''
+    - ''
+    - 28-23
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '5:40.0'
+    - K. Clark misses 2-pt shot from 11 ft
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '5:34.0'
+    - Violation by A. Williams (kicked ball)
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - New York full timeout
+  - - '5:34.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - M. Camby enters the game for O. Harrington
+  - - '5:34.0'
+    - A. Davis enters the game for K. Clark
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Shooting foul by J. Williams
+  - - '5:20.0'
+    - ''
+    - ''
+    - 28-24
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '5:20.0'
+    - ''
+    - ''
+    - 28-25
+    - "+1"
+    - G. Rice makes free throw 2 of 2
+  - - '5:11.0'
+    - C. Oakley makes 2-pt shot from 20 ft (assist by J. Williams)
+    - "+2"
+    - 30-25
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Shooting foul by J. Williams
+  - - '4:52.0'
+    - ''
+    - ''
+    - 30-26
+    - "+1"
+    - K. Thomas makes free throw 1 of 2
+  - - '4:52.0'
+    - C. Childs enters the game for J. Williams
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 30-27
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '4:39.0'
+    - A. Williams makes 3-pt shot from 25 ft (assist by C. Childs)
+    - "+3"
+    - 33-27
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 33-29
+    - "+2"
+    - G. Rice makes 2-pt shot from 8 ft (assist by C. Ward)
+  - - '4:20.0'
+    - Violation by A. Davis (def goaltending)
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '4:06.0'
+    - A. Williams misses 3-pt shot from 25 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by G. Rice
+  - - '3:46.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - C. Ward misses 2-pt shot from 20 ft (block by C. Childs)
+  - - '3:45.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Offensive rebound by C. Ward
+  - - '3:42.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Personal foul by V. Carter
+  - - '3:42.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. Camby misses free throw 1 of 2
+  - - '3:42.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Offensive rebound by Team
+  - - '3:42.0'
+    - M. Peterson enters the game for V. Carter
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. Jackson enters the game for C. Ward
+  - - '3:42.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. Camby misses free throw 2 of 2
+  - - '3:42.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '3:28.0'
+    - C. Oakley misses 2-pt shot from 15 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '3:14.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - G. Rice misses 2-pt shot from 13 ft
+  - - '3:12.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '3:11.0'
+    - ''
+    - ''
+    - 33-31
+    - "+2"
+    - K. Thomas makes 2-pt shot from 5 ft
+  - - '2:51.0'
+    - A. Williams misses 2-pt shot from 19 ft
+    - ''
+    - 33-31
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '2:40.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Turnover by L. Sprewell (bad pass; steal by A. Davis)
+  - - '2:17.0'
+    - A. Williams makes 2-pt shot from 22 ft (assist by C. Childs)
+    - "+2"
+    - 35-31
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 35-33
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 7 ft
+  - - '1:35.0'
+    - Toronto full timeout
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - A. Houston enters the game for G. Rice
+  - - '1:33.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:21.0'
+    - A. Williams misses 2-pt shot from 18 ft
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Defensive rebound by A. Houston
+  - - '1:09.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - M. Camby misses 2-pt shot from 12 ft
+  - - '1:07.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '1:06.0'
+    - ''
+    - ''
+    - 35-35
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim
+  - - '0:47.8'
+    - Turnover by A. Williams (bad pass; steal by M. Jackson)
+    - ''
+    - 35-35
+    - ''
+    - ''
+  - - '0:42.5'
+    - ''
+    - ''
+    - 35-35
+    - ''
+    - L. Sprewell misses 2-pt shot from 16 ft
+  - - '0:41.1'
+    - Defensive rebound by C. Childs
+    - ''
+    - 35-35
+    - ''
+    - ''
+  - - '0:34.0'
+    - A. Williams makes 2-pt shot from 7 ft
+    - "+2"
+    - 37-35
+    - ''
+    - ''
+  - - '0:28.7'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - New York 20 second timeout
+  - - '0:28.7'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - G. Rice enters the game for M. Camby
+  - - '0:28.7'
+    - J. Williams enters the game for C. Oakley
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '0:15.6'
+    - ''
+    - ''
+    - 37-35
+    - ''
+    - Turnover by K. Thomas (3 second)
+  - - '0:15.6'
+    - Toronto 20 second timeout
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '0:15.6'
+    - D. Curry enters the game for J. Williams
+    - ''
+    - 37-35
+    - ''
+    - ''
+  - - '0:04.5'
+    - A. Davis makes 2-pt shot at rim (assist by D. Curry)
+    - "+2"
+    - 39-35
+    - ''
+    - ''
+  - - '0:00.8'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - Turnover by A. Houston (traveling)
+  - - '0:00.1'
+    - A. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 39-35
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 39-35
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - Shooting foul by C. Oakley
+  - - '11:44.0'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - M. Camby misses free throw 1 of 2
+  - - '11:44.0'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - Offensive rebound by Team
+  - - '11:44.0'
+    - ''
+    - ''
+    - 39-35
+    - ''
+    - M. Camby misses free throw 2 of 2
+  - - '11:43.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 39-35
+    - ''
+    - ''
+  - - '11:20.0'
+    - C. Oakley makes 2-pt shot from 17 ft (assist by C. Childs)
+    - "+2"
+    - 41-35
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 41-37
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '10:41.0'
+    - V. Carter misses 2-pt shot at rim
+    - ''
+    - 41-37
+    - ''
+    - ''
+  - - '10:39.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 41-37
+    - ''
+    - ''
+  - - '10:38.0'
+    - V. Carter makes 2-pt shot from 13 ft
+    - "+2"
+    - 43-37
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 43-37
+    - ''
+    - M. Jackson misses 2-pt shot from 5 ft
+  - - '10:20.0'
+    - ''
+    - ''
+    - 43-39
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim
+  - - '10:20.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '9:58.0'
+    - A. Williams makes 2-pt shot from 7 ft
+    - "+2"
+    - 45-39
+    - ''
+    - ''
+  - - '9:30.0'
+    - ''
+    - ''
+    - 45-39
+    - ''
+    - Turnover by L. Sprewell (lost ball; steal by C. Childs)
+  - - '9:21.0'
+    - C. Oakley makes 2-pt shot from 22 ft
+    - "+2"
+    - 47-39
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 47-39
+    - ''
+    - New York full timeout
+  - - '9:02.0'
+    - ''
+    - ''
+    - 47-41
+    - "+2"
+    - A. Houston makes 2-pt shot from 8 ft (assist by M. Jackson)
+  - - '8:46.0'
+    - Shooting foul by L. Sprewell
+    - ''
+    - 47-41
+    - ''
+    - ''
+  - - '8:46.0'
+    - V. Carter makes free throw 1 of 2
+    - "+1"
+    - 48-41
+    - ''
+    - ''
+  - - '8:46.0'
+    - V. Carter makes free throw 2 of 2
+    - "+1"
+    - 49-41
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 49-43
+    - "+2"
+    - A. Houston makes 2-pt shot from 20 ft (assist by L. Sprewell)
+  - - '8:17.0'
+    - V. Carter misses 3-pt shot from 25 ft
+    - ''
+    - 49-43
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 49-43
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '7:54.0'
+    - ''
+    - ''
+    - 49-43
+    - ''
+    - M. Jackson misses 2-pt shot from 6 ft
+  - - '7:52.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 49-43
+    - ''
+    - ''
+  - - '7:43.0'
+    - A. Williams makes 2-pt shot at rim
+    - "+2"
+    - 51-43
+    - ''
+    - ''
+  - - '7:43.0'
+    - Shooting foul by A. Houston
+    - ''
+    - 51-43
+    - ''
+    - ''
+  - - '7:43.0'
+    - A. Williams misses free throw 1 of 1
+    - ''
+    - 51-43
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 51-43
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '7:26.0'
+    - ''
+    - ''
+    - 51-43
+    - ''
+    - A. Houston misses 2-pt shot from 9 ft
+  - - '7:25.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 51-43
+    - ''
+    - ''
+  - - '7:17.0'
+    - Shooting foul by A. Houston
+    - ''
+    - 51-43
+    - ''
+    - ''
+  - - '7:17.0'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 52-43
+    - ''
+    - ''
+  - - '7:17.0'
+    - A. Davis makes free throw 2 of 2
+    - "+1"
+    - 53-43
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 53-43
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '7:05.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 53-43
+    - ''
+    - ''
+  - - '7:00.0'
+    - C. Childs misses 2-pt shot from 18 ft
+    - ''
+    - 53-43
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 53-43
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '6:47.0'
+    - ''
+    - ''
+    - 53-43
+    - ''
+    - M. Camby misses 2-pt shot from 6 ft
+  - - '6:46.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 53-43
+    - ''
+    - ''
+  - - '6:34.0'
+    - C. Oakley makes 2-pt shot from 19 ft (assist by C. Childs)
+    - "+2"
+    - 55-43
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 55-43
+    - ''
+    - L. Sprewell misses 2-pt shot from 19 ft
+  - - '6:10.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 55-43
+    - ''
+    - ''
+  - - '6:01.0'
+    - Turnover by A. Williams (traveling)
+    - ''
+    - 55-43
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 55-45
+    - "+2"
+    - A. Houston makes 2-pt shot from 21 ft
+  - - '5:19.0'
+    - Turnover by A. Davis (bad pass)
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Personal foul by C. Childs
+  - - '4:53.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - M. Jackson misses 3-pt shot from 25 ft
+  - - '4:50.0'
+    - Defensive rebound by V. Carter
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '4:33.0'
+    - A. Williams makes 3-pt shot from 28 ft
+    - "+3"
+    - 58-45
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 58-47
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim (assist by A. Houston)
+  - - '4:04.0'
+    - Turnover by C. Childs (bad pass; steal by M. Camby)
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - Personal foul by C. Childs
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - New York full timeout
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - O. Harrington enters the game for M. Camby
+  - - '3:59.0'
+    - J. Williams enters the game for C. Childs
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - K. Thomas misses 2-pt shot from 16 ft
+  - - '3:51.0'
+    - Defensive rebound by A. Davis
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:35.0'
+    - C. Oakley misses 2-pt shot from 19 ft
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '3:26.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - L. Sprewell misses 3-pt shot from 24 ft
+  - - '3:24.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:18.0'
+    - V. Carter misses 3-pt shot from 24 ft
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '3:05.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '3:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '3:04.0'
+    - Loose ball foul by O. Harrington
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:49.0'
+    - Turnover by J. Williams (lost ball; steal by A. Houston)
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 58-47
+    - ''
+    - K. Thomas misses 2-pt shot at rim (block by A. Davis)
+  - - '2:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:17.0'
+    - A. Williams misses 2-pt shot from 23 ft
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:15.0'
+    - Offensive rebound by J. Williams
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:15.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:15.0'
+    - J. Williams misses free throw 1 of 2
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-47
+    - ''
+    - ''
+  - - '2:15.0'
+    - J. Williams makes free throw 2 of 2
+    - "+1"
+    - 59-47
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 59-47
+    - ''
+    - Personal foul by J. Williams
+  - - '2:04.0'
+    - ''
+    - ''
+    - 59-47
+    - ''
+    - Personal foul by J. Williams
+  - - '2:04.0'
+    - ''
+    - ''
+    - 59-48
+    - "+1"
+    - A. Houston makes free throw 1 of 2
+  - - '2:04.0'
+    - D. Curry enters the game for J. Williams
+    - ''
+    - 59-48
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 59-49
+    - "+1"
+    - A. Houston makes free throw 2 of 2
+  - - '1:45.0'
+    - A. Davis makes 2-pt shot at rim
+    - "+2"
+    - 61-49
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 61-51
+    - "+2"
+    - K. Thomas makes 2-pt shot from 5 ft
+  - - '1:08.0'
+    - V. Carter makes 2-pt shot from 9 ft (assist by A. Davis)
+    - "+2"
+    - 63-51
+    - ''
+    - ''
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-51
+    - ''
+    - Shooting foul by A. Davis
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-51
+    - ''
+    - G. Rice enters the game for L. Sprewell
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-51
+    - ''
+    - C. Ward enters the game for M. Jackson
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-51
+    - ''
+    - K. Thomas misses free throw 1 of 2
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-51
+    - ''
+    - Offensive rebound by Team
+  - - '0:49.2'
+    - ''
+    - ''
+    - 63-52
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '0:35.2'
+    - V. Carter makes 2-pt shot from 9 ft (assist by A. Williams)
+    - "+2"
+    - 65-52
+    - ''
+    - ''
+  - - '0:18.7'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - A. Houston misses 2-pt shot from 11 ft
+  - - '0:16.5'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '0:15.5'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - O. Harrington misses 2-pt shot at rim (block by V. Carter)
+  - - '0:12.8'
+    - Defensive rebound by D. Curry
+    - ''
+    - 65-52
+    - ''
+    - ''
+  - - '0:01.8'
+    - Shooting foul by O. Harrington
+    - ''
+    - 65-52
+    - ''
+    - ''
+  - - '0:01.8'
+    - A. Davis makes free throw 1 of 2
+    - "+1"
+    - 66-52
+    - ''
+    - ''
+  - - '0:01.8'
+    - J. Williams enters the game for V. Carter
+    - ''
+    - 66-52
+    - ''
+    - ''
+  - - '0:01.8'
+    - A. Davis misses free throw 2 of 2
+    - ''
+    - 66-52
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 66-52
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:37.0'
+    - V. Carter makes 2-pt shot from 18 ft
+    - "+2"
+    - 68-52
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 68-52
+    - ''
+    - C. Ward misses 2-pt shot at rim
+  - - '11:19.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '11:14.0'
+    - Personal foul by A. Houston
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 68-52
+    - ''
+    - L. Sprewell enters the game for O. Harrington
+  - - '11:06.0'
+    - A. Williams misses 2-pt shot from 21 ft
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '11:04.0'
+    - Offensive rebound by C. Oakley
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '10:52.0'
+    - Shooting foul by M. Camby
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '10:52.0'
+    - C. Oakley makes free throw 1 of 2
+    - "+1"
+    - 69-52
+    - ''
+    - ''
+  - - '10:52.0'
+    - C. Oakley makes free throw 2 of 2
+    - "+1"
+    - 70-52
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Shooting foul by V. Carter
+  - - '10:39.0'
+    - ''
+    - ''
+    - 70-53
+    - "+1"
+    - A. Houston makes free throw 1 of 2
+  - - '10:39.0'
+    - ''
+    - ''
+    - 70-54
+    - "+1"
+    - A. Houston makes free throw 2 of 2
+  - - '10:26.0'
+    - C. Oakley makes 2-pt shot from 17 ft (assist by A. Williams)
+    - "+2"
+    - 72-54
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - New York full timeout
+  - - '10:15.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - K. Thomas enters the game for C. Ward
+  - - '10:09.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - G. Rice misses 2-pt shot from 5 ft (block by A. Davis)
+  - - '10:06.0'
+    - Defensive rebound by A. Williams
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '10:02.0'
+    - V. Carter misses 3-pt shot from 27 ft
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '10:00.0'
+    - Offensive rebound by J. Williams
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '9:52.0'
+    - V. Carter misses 2-pt shot from 16 ft
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - Defensive rebound by M. Camby
+  - - '9:39.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - Offensive foul by K. Thomas
+  - - '9:39.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - Turnover by K. Thomas (foul)
+  - - '9:28.0'
+    - J. Williams misses 2-pt shot at rim (block by K. Thomas)
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '9:26.0'
+    - Offensive rebound by J. Williams
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '9:14.0'
+    - C. Oakley misses 3-pt shot from 27 ft
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - Defensive rebound by Team
+  - - '8:59.0'
+    - ''
+    - ''
+    - 72-54
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '8:57.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '8:36.0'
+    - A. Davis misses 2-pt shot from 6 ft
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '8:35.0'
+    - Offensive rebound by C. Oakley
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '8:19.0'
+    - A. Williams misses 2-pt shot from 18 ft
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '8:18.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 72-54
+    - ''
+    - ''
+  - - '8:17.0'
+    - V. Carter makes 2-pt shot at rim
+    - "+2"
+    - 74-54
+    - ''
+    - ''
+  - - '8:17.0'
+    - Shooting foul by L. Sprewell
+    - ''
+    - 74-54
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 74-54
+    - ''
+    - M. Jackson enters the game for A. Houston
+  - - '8:17.0'
+    - V. Carter misses free throw 1 of 1
+    - ''
+    - 74-54
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 74-54
+    - ''
+    - Defensive rebound by M. Camby
+  - - '8:15.0'
+    - Double technical foul by M. Jackson and A. Davis
+    - ''
+    - 74-54
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 74-54
+    - ''
+    - Shooting foul by A. Davis
+  - - '8:00.0'
+    - ''
+    - ''
+    - 74-55
+    - "+1"
+    - K. Thomas makes free throw 1 of 2
+  - - '8:00.0'
+    - ''
+    - ''
+    - 74-56
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '7:47.0'
+    - V. Carter misses 2-pt shot from 21 ft
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '7:30.0'
+    - ''
+    - ''
+    - 74-58
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim
+  - - '7:04.0'
+    - A. Williams misses 2-pt shot from 20 ft
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive rebound by J. Williams
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '6:50.0'
+    - V. Carter makes 2-pt shot at rim
+    - "+2"
+    - 76-58
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 76-58
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '6:34.0'
+    - Defensive rebound by C. Oakley
+    - ''
+    - 76-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - V. Carter makes 2-pt shot at rim
+    - "+2"
+    - 78-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - K. Clark enters the game for A. Davis
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - D. Curry enters the game for J. Williams
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '6:15.0'
+    - V. Carter misses free throw 1 of 1
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '6:14.0'
+    - Offensive rebound by C. Oakley
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:58.0'
+    - C. Oakley misses 2-pt shot from 20 ft
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:55.0'
+    - V. Carter misses 2-pt shot at rim
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:55.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:54.0'
+    - V. Carter misses 2-pt shot at rim
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:54.0'
+    - Offensive rebound by V. Carter
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:53.0'
+    - K. Clark misses 2-pt shot at rim
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:53.0'
+    - Offensive rebound by K. Clark
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:52.0'
+    - Offensive rebound by K. Clark
+    - ''
+    - 78-58
+    - ''
+    - ''
+  - - '5:35.0'
+    - A. Williams makes 2-pt shot from 20 ft (assist by V. Carter)
+    - "+2"
+    - 80-58
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 80-58
+    - ''
+    - New York full timeout
+  - - '5:21.0'
+    - Violation by K. Clark (illegal defense)
+    - ''
+    - 80-58
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 80-61
+    - "+3"
+    - G. Rice makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '4:56.0'
+    - D. Curry makes 2-pt shot from 22 ft
+    - "+2"
+    - 82-61
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 82-61
+    - ''
+    - Shooting foul by K. Clark
+  - - '4:35.0'
+    - ''
+    - ''
+    - 82-61
+    - ''
+    - K. Thomas misses free throw 1 of 2
+  - - '4:35.0'
+    - ''
+    - ''
+    - 82-61
+    - ''
+    - Offensive rebound by Team
+  - - '4:35.0'
+    - ''
+    - ''
+    - 82-62
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '4:16.0'
+    - Shooting foul by L. Sprewell
+    - ''
+    - 82-62
+    - ''
+    - ''
+  - - '4:16.0'
+    - K. Clark makes free throw 1 of 2
+    - "+1"
+    - 83-62
+    - ''
+    - ''
+  - - '4:16.0'
+    - K. Clark makes free throw 2 of 2
+    - "+1"
+    - 84-62
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 84-65
+    - "+3"
+    - G. Rice makes 3-pt shot from 23 ft (assist by L. Sprewell)
+  - - '3:37.0'
+    - Turnover by C. Oakley (bad pass; steal by M. Jackson)
+    - ''
+    - 84-65
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 84-65
+    - ''
+    - Offensive foul by K. Thomas
+  - - '3:33.0'
+    - ''
+    - ''
+    - 84-65
+    - ''
+    - Turnover by K. Thomas (foul)
+  - - '3:19.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 84-65
+    - ''
+    - ''
+  - - '3:19.0'
+    - J. Williams enters the game for C. Oakley
+    - ''
+    - 84-65
+    - ''
+    - ''
+  - - '3:19.0'
+    - D. Curry makes free throw 1 of 2
+    - "+1"
+    - 85-65
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 85-65
+    - ''
+    - O. Harrington enters the game for M. Camby
+  - - '3:19.0'
+    - ''
+    - ''
+    - 85-65
+    - ''
+    - F. Spencer enters the game for K. Thomas
+  - - '3:19.0'
+    - ''
+    - ''
+    - 85-65
+    - ''
+    - R. Brunson enters the game for L. Sprewell
+  - - '3:19.0'
+    - M. Peterson enters the game for V. Carter
+    - ''
+    - 85-65
+    - ''
+    - ''
+  - - '3:19.0'
+    - D. Curry makes free throw 2 of 2
+    - "+1"
+    - 86-65
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 86-65
+    - ''
+    - R. Brunson misses 2-pt shot at rim (block by J. Williams)
+  - - '2:58.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 86-65
+    - ''
+    - ''
+  - - '2:41.0'
+    - K. Clark makes 2-pt shot at rim
+    - "+2"
+    - 88-65
+    - ''
+    - ''
+  - - '2:41.0'
+    - Shooting foul by F. Spencer
+    - ''
+    - 88-65
+    - ''
+    - ''
+  - - '2:41.0'
+    - Official timeout
+    - ''
+    - 88-65
+    - ''
+    - ''
+  - - '2:41.0'
+    - T. Murray enters the game for A. Williams
+    - ''
+    - 88-65
+    - ''
+    - ''
+  - - '2:41.0'
+    - K. Clark makes free throw 1 of 1
+    - "+1"
+    - 89-65
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 89-65
+    - ''
+    - Shooting foul by K. Clark
+  - - '2:29.0'
+    - ''
+    - ''
+    - 89-66
+    - "+1"
+    - O. Harrington makes free throw 1 of 2
+  - - '2:29.0'
+    - M. Stewart enters the game for K. Clark
+    - ''
+    - 89-66
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 89-67
+    - "+1"
+    - O. Harrington makes free throw 2 of 2
+  - - '2:14.0'
+    - D. Curry misses 2-pt shot from 16 ft
+    - ''
+    - 89-67
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 89-67
+    - ''
+    - Defensive rebound by G. Rice
+  - - '2:07.0'
+    - ''
+    - ''
+    - 89-67
+    - ''
+    - Shooting foul by T. Murray
+  - - '2:07.0'
+    - ''
+    - ''
+    - 89-68
+    - "+1"
+    - R. Brunson makes free throw 1 of 2
+  - - '2:07.0'
+    - ''
+    - ''
+    - 89-69
+    - "+1"
+    - R. Brunson makes free throw 2 of 2
+  - - '1:52.0'
+    - Turnover by D. Curry (bad pass)
+    - ''
+    - 89-69
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Turnover by G. Rice (lost ball; steal by T. Murray)
+  - - '1:31.0'
+    - Turnover by T. Murray (bad pass; steal by M. Jackson)
+    - ''
+    - 89-69
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Shooting foul by D. Curry
+  - - '1:27.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - R. Brunson misses free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 89-69
+    - ''
+    - Offensive rebound by Team
+  - - '1:27.0'
+    - ''
+    - ''
+    - 89-70
+    - "+1"
+    - R. Brunson makes free throw 2 of 2
+  - - '1:10.0'
+    - M. Peterson makes 2-pt shot from 22 ft
+    - "+2"
+    - 91-70
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 91-70
+    - ''
+    - Turnover by R. Brunson (lost ball; steal by J. Williams)
+  - - '1:02.0'
+    - Turnover by J. Williams (lost ball; steal by O. Harrington)
+    - ''
+    - 91-70
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 91-72
+    - "+2"
+    - G. Rice makes 2-pt shot from 17 ft
+  - - '0:42.9'
+    - T. Murray makes 2-pt shot from 18 ft (assist by D. Curry)
+    - "+2"
+    - 93-72
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 93-74
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '0:20.6'
+    - Turnover by D. Curry (bad pass; steal by O. Harrington)
+    - ''
+    - 93-74
+    - ''
+    - ''
+  - - '0:10.8'
+    - ''
+    - ''
+    - 93-74
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by J. Williams)
+  - - '0:09.9'
+    - Personal foul by F. Spencer
+    - ''
+    - 93-74
+    - ''
+    - ''
+  - - '0:09.9'
+    - J. Williams makes free throw 1 of 2
+    - "+1"
+    - 94-74
+    - ''
+    - ''
+  - - '0:09.9'
+    - J. Williams misses free throw 2 of 2
+    - ''
+    - 94-74
+    - ''
+    - ''
+  - - '0:09.3'
+    - ''
+    - ''
+    - 94-74
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '0:00.0'
+    - End of 4th quarter

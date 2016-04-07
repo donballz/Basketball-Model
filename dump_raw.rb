@@ -1,2 +1,2 @@
 require 'open-uri'
-puts URI.parse('http://www.basketball-reference.com/leagues/NBA_2001_games.html').read
+puts URI.parse('http://www.basketball-reference.com/boxscores/200010310CHI.html').read

@@ -1,0 +1,237 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shawn Bradley (On: -6&#9642;Off: -10&#9642;Net: +4)'
+    - |2-
+
+      -5
+    - 248/-5
+    - 134/-3
+    - 84/
+    - 19/+2
+    - 11/
+    - 0/-2
+    - 87/+3
+    - 88/
+    - 73/-2
+    - 51/+1
+    - 198/
+    - 'Michael Finley (On: -23&#9642;Off: +7&#9642;Net: -30)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 135/-3
+    - 41/
+    - 73/-7
+    - 205/-8
+    - 294/
+    - 'Juwan Howard (On: -6&#9642;Off: -10&#9642;Net: +4)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 172/-1
+    - 29/
+    - 48/0
+    - 500/
+    - 'Steve Nash (On: -16&#9642;Off: 0&#9642;Net: -16)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 67/-1
+    - 72/
+    - 111/-5
+    - 155/-5
+    - 343/
+    - 'Dirk Nowitzki (On: -22&#9642;Off: +6&#9642;Net: -28)'
+    - |2-
+
+      -6
+    - 196/-6
+    - 125/
+    - 128/-5
+    - 38/
+    - 10/-1
+    - 1/
+    - 249/-10
+    - 249/
+    - 'Howard Eisley (On: -5&#9642;Off: -11&#9642;Net: +6)'
+    - "\n"
+    - 201/
+    - 48/+1
+    - 250/-8
+    - 159/
+    - 90/-5
+    - 250/+7
+    - 'Calvin Booth (On: -17&#9642;Off: +1&#9642;Net: -18)'
+    - "\n"
+    - 388/
+    - 76/-4
+    - 126/
+    - 152/-13
+    - 228/
+    - 28/0
+    - 'Eduardo Najera (On: +5&#9642;Off: -21&#9642;Net: +26)'
+    - "\n"
+    - 499/
+    - 0/-2
+    - 248/
+    - 2/0
+    - 220/+7
+    - 29/
+    - 'Vernon Maxwell (On: -3&#9642;Off: -13&#9642;Net: +10)'
+    - "\n"
+    - 500/
+    - 174/-8
+    - 35/
+    - 40/-2
+    - 250/+7
+    - 'Greg Buckner (On: +7&#9642;Off: -23&#9642;Net: +30)'
+    - "\n"
+    - 752/
+    - 250/+7
+    - 'Wang Zhizhi (On: +6&#9642;Off: -22&#9642;Net: +28)'
+    - "\n"
+    - 809/
+    - 193/+6
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +10&#9642;Off: +6&#9642;Net: +4)'
+    - |2-
+
+      +7
+    - 214/+7
+    - 153/
+    - 132/+3
+    - 501/
+    - 'Tim Duncan (On: +18&#9642;Off: -2&#9642;Net: +20)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 27/0
+    - 45/
+    - 177/+7
+    - 249/+10
+    - 116/
+    - 47/-4
+    - 86/
+    - 'Danny Ferry (On: -2&#9642;Off: +18&#9642;Net: -20)'
+    - |2-
+
+      +4
+    - 160/+4
+    - 327/
+    - 11/+3
+    - 26/-6
+    - 157/
+    - 67/+1
+    - 154/-4
+    - 94/
+    - 'Terry Porter (On: -2&#9642;Off: +18&#9642;Net: -20)'
+    - |2-
+
+      +4
+    - 161/+4
+    - 265/
+    - 73/+7
+    - 26/-6
+    - 224/
+    - 220/-7
+    - 28/
+    - 'David Robinson (On: +9&#9642;Off: +7&#9642;Net: +2)'
+    - |2-
+
+      +4
+    - 160/+4
+    - 121/
+    - 106/+3
+    - 111/
+    - 154/+5
+    - 95/
+    - 110/-3
+    - 139/
+    - 'Sean Elliott (On: +19&#9642;Off: -3&#9642;Net: +22)'
+    - "\n"
+    - 166/
+    - 82/+1
+    - 199/+6
+    - 49/
+    - 0/+2
+    - 31/
+    - 108/+11
+    - 129/
+    - 90/-1
+    - 140/
+    - 'Avery Johnson (On: +18&#9642;Off: -2&#9642;Net: +20)'
+    - "\n"
+    - 167/
+    - 83/+1
+    - 172/+1
+    - 109/
+    - 218/+16
+    - 249/
+    - 'Malik Rose (On: +4&#9642;Off: +12&#9642;Net: -8)'
+    - "\n"
+    - 167/
+    - 83/+1
+    - 66/+1
+    - 342/
+    - 83/+5
+    - 164/
+    - 92/-3
+    - 'Antonio Daniels (On: +7&#9642;Off: +9&#9642;Net: -2)'
+    - "\n"
+    - 217/
+    - 32/-2
+    - 117/+3
+    - 84/
+    - 48/+2
+    - 204/+8
+    - 160/
+    - 134/-4
+    - 'Samaki Walker (On: 0&#9642;Off: +16&#9642;Net: -16)'
+    - "\n"
+    - 391/
+    - 57/+3
+    - 5/
+    - 33/-1
+    - 258/
+    - 2/0
+    - 17/-2
+    - 154/
+    - 78/0
+    - 'Steve Kerr (On: -1&#9642;Off: +17&#9642;Net: -18)'
+    - "\n"
+    - 640/
+    - 42/+4
+    - 27/
+    - 40/+2
+    - 250/-7
+    - 'Shawnelle Scott (On: 0&#9642;Off: +16&#9642;Net: -16)'
+    - "\n"
+    - 974/
+    - 28/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

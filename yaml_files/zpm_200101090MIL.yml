@@ -1,0 +1,191 @@
+---
+- name: Plus-Minus
+  data:
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Calvin Booth (On: -2&#9642;Off: -2&#9642;Net: 0)'
+    - |2-
+
+      +2
+    - 156/+2
+    - 344/
+    - 175/-4
+    - 325/
+    - 'Juwan Howard (On: +1&#9642;Off: -5&#9642;Net: +6)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 14/+3
+    - 71/
+    - 164/-1
+    - 250/-5
+    - 249/+8
+    - 'Felipe Lopez (On: -1&#9642;Off: -3&#9642;Net: +2)'
+    - |2-
+
+      +4
+    - 201/+4
+    - 49/
+    - 250/-3
+    - 127/-2
+    - 372/
+    - 'Tyrone Nesby (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 166/
+    - 83/+5
+    - 220/-4
+    - 280/
+    - 'Chris Whitney (On: +1&#9642;Off: -5&#9642;Net: +6)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 22/+3
+    - 113/
+    - 81/-1
+    - 34/
+    - 249/-5
+    - 249/+8
+    - 'Obinna Ekezie (On: -9&#9642;Off: +5&#9642;Net: -14)'
+    - "\n"
+    - 160/
+    - 90/-6
+    - 79/-2
+    - 352/
+    - 68/-1
+    - 39/0
+    - 209/
+    - 'Richard Hamilton (On: -5&#9642;Off: +1&#9642;Net: -6)'
+    - "\n"
+    - 203/
+    - 46/-8
+    - 128/-3
+    - 88/
+    - 32/+1
+    - 128/
+    - 122/-3
+    - 249/+8
+    - 'Michael Smith (On: +1&#9642;Off: -5&#9642;Net: +6)'
+    - "\n"
+    - 266/
+    - 234/-6
+    - 225/
+    - 25/-1
+    - 249/+8
+    - 'Gerard King (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - "\n"
+    - 276/
+    - 137/-11
+    - 380/
+    - 207/+8
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +3&#9642;Off: +1&#9642;Net: +2)'
+    - |2-
+
+      -4
+    - 201/-4
+    - 113/
+    - 185/+4
+    - 249/+5
+    - 39/0
+    - 51/
+    - 159/-2
+    - 'Sam Cassell (On: -2&#9642;Off: +6&#9642;Net: -8)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 61/-1
+    - 115/
+    - 74/-3
+    - 183/+4
+    - 109/
+    - 197/-8
+    - 8/
+    - 'Glenn Robinson (On: +2&#9642;Off: +2&#9642;Net: 0)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 30/0
+    - 126/
+    - 93/-5
+    - 249/+5
+    - 90/
+    - 160/-2
+    - 'Tim Thomas (On: -5&#9642;Off: +9&#9642;Net: -14)'
+    - |2-
+
+      -4
+    - 201/-4
+    - 84/
+    - 214/+3
+    - 174/+4
+    - 73/
+    - 2/0
+    - 249/-8
+    - 'Scott Williams (On: +1&#9642;Off: +3&#9642;Net: -2)'
+    - |2-
+
+      -2
+    - 156/-2
+    - 310/
+    - 33/-1
+    - 220/+4
+    - 280/
+    - 'Ervin Johnson (On: +4&#9642;Off: 0&#9642;Net: +4)'
+    - "\n"
+    - 159/
+    - 89/+6
+    - 215/+4
+    - 214/
+    - 62/+1
+    - 5/
+    - 89/-6
+    - 89/
+    - 66/-1
+    - 3/
+    - 2/0
+    - 'Jason Caffey (On: +8&#9642;Off: -4&#9642;Net: +12)'
+    - "\n"
+    - 203/
+    - 46/+8
+    - 156/+8
+    - 318/
+    - 25/+1
+    - 174/-9
+    - 75/
+    - 'Lindsey Hunter (On: +9&#9642;Off: -5&#9642;Net: +14)'
+    - "\n"
+    - 203/
+    - 46/+8
+    - 169/+6
+    - 268/
+    - 61/+1
+    - 89/-6
+    - 155/
+    - 5/0
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

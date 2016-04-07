@@ -1,0 +1,220 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Michael Finley (On: -14&#9642;Off: -3&#9642;Net: -11)'
+    - |2-
+
+      -15
+    - 249/-15
+    - 62/-7
+    - 52/
+    - 135/+1
+    - 249/+4
+    - 103/
+    - 71/+3
+    - 75/
+    - 'Tim Hardaway (On: -25&#9642;Off: +8&#9642;Net: -33)'
+    - |2-
+
+      -9
+    - 130/-9
+    - 14/
+    - 36/-1
+    - 69/
+    - 113/-6
+    - 92/
+    - 43/-1
+    - 104/
+    - 144/+1
+    - 98/-9
+    - 150/
+    - 'Juwan Howard (On: -14&#9642;Off: -3&#9642;Net: -11)'
+    - |2-
+
+      -15
+    - 249/-15
+    - 62/-7
+    - 77/
+    - 111/-1
+    - 249/+4
+    - 149/
+    - 100/+5
+    - 'Steve Nash (On: -14&#9642;Off: -3&#9642;Net: -11)'
+    - |2-
+
+      -15
+    - 249/-15
+    - 66/
+    - 164/-1
+    - 20/
+    - 97/+3
+    - 152/
+    - 249/-1
+    - 'Dirk Nowitzki (On: -9&#9642;Off: -8&#9642;Net: -1)'
+    - |2-
+
+      -9
+    - 131/-9
+    - 871/
+    - 'Shawn Bradley (On: -6&#9642;Off: -11&#9642;Net: +5)'
+    - "\n"
+    - 136/
+    - 98/-6
+    - 79/
+    - 34/+2
+    - 122/
+    - 26/-1
+    - 125/+1
+    - 78/
+    - 44/-1
+    - 141/-6
+    - 37/
+    - 72/+5
+    - 'Donnell Harvey (On: -4&#9642;Off: -13&#9642;Net: +9)'
+    - "\n"
+    - 137/
+    - 0/0
+    - 99/
+    - 13/0
+    - 201/-4
+    - 31/
+    - 17/+3
+    - 217/
+    - 32/-2
+    - 247/-1
+    - 'Danny Manning (On: -12&#9642;Off: -5&#9642;Net: -7)'
+    - "\n"
+    - 184/
+    - 65/-5
+    - 137/-4
+    - 112/
+    - 212/+6
+    - 37/
+    - 99/-9
+    - 150/
+    - 'Evan Eschmeyer (On: +13&#9642;Off: -30&#9642;Net: +43)'
+    - "\n"
+    - 352/
+    - 119/+1
+    - 157/
+    - 76/+4
+    - 149/
+    - 145/+8
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +24&#9642;Off: -7&#9642;Net: +31)'
+    - |2-
+
+      +15
+    - 249/+15
+    - 62/+7
+    - 64/
+    - 11/0
+    - 112/
+    - 249/-4
+    - 174/+6
+    - 75/
+    - 'Antonio Davis (On: +23&#9642;Off: -6&#9642;Net: +29)'
+    - |2-
+
+      +15
+    - 249/+15
+    - 62/+7
+    - 97/
+    - 90/+1
+    - 249/-4
+    - 61/+4
+    - 189/
+    - 'Hakeem Olajuwon (On: +11&#9642;Off: +6&#9642;Net: +5)'
+    - |2-
+
+      +15
+    - 236/+15
+    - 139/
+    - 124/+1
+    - 204/-5
+    - 296/
+    - 'Morris Peterson (On: +17&#9642;Off: 0&#9642;Net: +17)'
+    - |2-
+
+      +15
+    - 249/+15
+    - 125/+4
+    - 124/
+    - 249/-4
+    - 61/+4
+    - 155/
+    - 34/-2
+    - 'Alvin Williams (On: +8&#9642;Off: +9&#9642;Net: -1)'
+    - |2-
+
+      +15
+    - 249/+15
+    - 66/
+    - 183/-2
+    - 249/-4
+    - 64/
+    - 145/-1
+    - 41/
+    - 'Keon Clark (On: +3&#9642;Off: +14&#9642;Net: -11)'
+    - "\n"
+    - 237/
+    - 13/0
+    - 125/+4
+    - 329/
+    - 8/-1
+    - 286/
+    - 'Chris Childs (On: +8&#9642;Off: +9&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 250/+5
+    - 250/
+    - 210/+3
+    - 39/
+    - 'Jerome Williams (On: -1&#9642;Off: +18&#9642;Net: -19)'
+    - "\n"
+    - 316/
+    - 86/-3
+    - 411/
+    - 111/+2
+    - 75/
+    - 'Tracy Murray (On: -4&#9642;Off: +21&#9642;Net: -25)'
+    - "\n"
+    - 389/
+    - 111/+1
+    - 430/
+    - 70/-5
+    - 'Eric Montross (On: +3&#9642;Off: +14&#9642;Net: -11)'
+    - "\n"
+    - 719/
+    - 32/+2
+    - 250/+1
+    - 'Michael Bradley (On: -5&#9642;Off: +22&#9642;Net: -27)'
+    - "\n"
+    - 931/
+    - 71/-5
+    - 'Carlos Arroyo (On: -2&#9642;Off: +19&#9642;Net: -21)'
+    - "\n"
+    - 969/
+    - 33/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

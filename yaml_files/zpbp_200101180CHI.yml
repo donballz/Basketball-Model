@@ -1,0 +1,2644 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: B. Miller vs. B. Wallace (M. Cleaves gains possession)'
+  - - '11:44.0'
+    - B. Wallace misses 2-pt shot from 4 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by E. Brand
+  - - '11:28.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - M. World Peace makes 2-pt shot from 22 ft
+  - - '11:10.0'
+    - M. Cleaves makes 2-pt shot from 19 ft (assist by J. Smith)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Shooting foul by J. Smith
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - B. Miller misses free throw 1 of 2
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Offensive rebound by Team
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-3
+    - "+1"
+    - B. Miller makes free throw 2 of 2
+  - - '10:56.0'
+    - J. Stackhouse makes 3-pt shot from 24 ft (assist by M. Cleaves)
+    - "+3"
+    - 5-3
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 5-3
+    - ''
+    - E. Brand misses 2-pt shot from 16 ft
+  - - '10:29.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 5-3
+    - ''
+    - ''
+  - - '10:22.0'
+    - J. Smith misses 2-pt shot from 19 ft
+    - ''
+    - 5-3
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 5-3
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '10:12.0'
+    - ''
+    - ''
+    - 5-5
+    - "+2"
+    - R. Mercer makes 2-pt shot from 19 ft
+  - - '10:03.0'
+    - J. Stackhouse makes 2-pt shot from 19 ft (assist by M. Cleaves)
+    - "+2"
+    - 7-5
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 7-7
+    - "+2"
+    - E. Brand makes 2-pt shot from 15 ft (assist by M. World Peace)
+  - - '9:27.0'
+    - M. Cleaves makes 2-pt shot at rim
+    - "+2"
+    - 9-7
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - M. World Peace misses 2-pt shot from 18 ft
+  - - '9:07.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '8:59.0'
+    - J. Smith makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 11-7
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 11-9
+    - "+2"
+    - E. Brand makes 2-pt shot at rim
+  - - '8:32.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '8:16.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - R. Mercer misses 2-pt shot from 18 ft
+  - - '8:14.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '7:58.0'
+    - J. Smith makes 2-pt shot from 16 ft (assist by J. Stackhouse)
+    - "+2"
+    - 13-9
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - M. World Peace misses 2-pt shot from 21 ft
+  - - '7:42.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '7:36.0'
+    - M. Cleaves makes 2-pt shot from 19 ft (assist by J. Stackhouse)
+    - "+2"
+    - 15-9
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 15-11
+    - "+2"
+    - B. Miller makes 2-pt shot at rim (assist by B. Drew)
+  - - '6:57.0'
+    - J. Stackhouse makes 2-pt shot from 17 ft (assist by M. Cleaves)
+    - "+2"
+    - 17-11
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 17-13
+    - "+2"
+    - R. Mercer makes 2-pt shot from 16 ft (assist by B. Miller)
+  - - '6:11.0'
+    - J. Smith misses 2-pt shot from 7 ft
+    - ''
+    - 17-13
+    - ''
+    - ''
+  - - '6:09.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 17-13
+    - ''
+    - ''
+  - - '6:07.0'
+    - Shooting foul by B. Drew
+    - ''
+    - 17-13
+    - ''
+    - ''
+  - - '6:07.0'
+    - Detroit full timeout
+    - ''
+    - 17-13
+    - ''
+    - ''
+  - - '6:07.0'
+    - J. Smith makes free throw 1 of 2
+    - "+1"
+    - 18-13
+    - ''
+    - ''
+  - - '6:07.0'
+    - J. Smith makes free throw 2 of 2
+    - "+1"
+    - 19-13
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 19-13
+    - ''
+    - M. World Peace misses 3-pt shot from 26 ft
+  - - '6:06.0'
+    - ''
+    - ''
+    - 19-13
+    - ''
+    - Offensive rebound by B. Miller
+  - - '5:50.0'
+    - ''
+    - ''
+    - 19-15
+    - "+2"
+    - B. Drew makes 2-pt shot from 20 ft (assist by E. Brand)
+  - - '5:34.0'
+    - Turnover by M. Cleaves (bad pass; steal by M. World Peace)
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 19-17
+    - "+2"
+    - B. Miller makes 2-pt shot at rim (assist by M. World Peace)
+  - - '5:05.0'
+    - J. Stackhouse makes 3-pt shot from 25 ft (assist by M. Curry)
+    - "+3"
+    - 22-17
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - E. Brand misses 2-pt shot from 7 ft (block by B. Wallace)
+  - - '4:44.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '4:40.0'
+    - Turnover by M. Cleaves (lost ball)
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 22-19
+    - "+2"
+    - R. Mercer makes 2-pt shot from 21 ft
+  - - '4:24.0'
+    - Clear path foul by E. Brand
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '4:24.0'
+    - J. Smith makes free throw flagrant 1 of 2
+    - "+1"
+    - 23-19
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - F. Hoiberg enters the game for M. World Peace
+  - - '4:24.0'
+    - M. Moore enters the game for J. Smith
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '4:14.0'
+    - Shooting foul by R. Mercer
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '4:14.0'
+    - J. Buechler enters the game for M. Curry
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '4:14.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 24-19
+    - ''
+    - ''
+  - - '4:14.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 25-19
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 25-21
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim
+  - - '2:42.0'
+    - Turnover by B. Wallace (bad pass)
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 25-21
+    - ''
+    - Chicago full timeout
+  - - '2:34.0'
+    - ''
+    - ''
+    - 25-23
+    - "+2"
+    - B. Miller makes 2-pt shot at rim (assist by F. Hoiberg)
+  - - '2:14.0'
+    - D. Barros enters the game for M. Cleaves
+    - ''
+    - 25-23
+    - ''
+    - ''
+  - - '2:14.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 25-23
+    - ''
+    - ''
+  - - '2:06.0'
+    - Shooting foul by B. Miller
+    - ''
+    - 25-23
+    - ''
+    - ''
+  - - '2:06.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 26-23
+    - ''
+    - ''
+  - - '2:06.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 27-23
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Turnover by B. Miller (bad pass; steal by J. Stackhouse)
+  - - '1:50.0'
+    - D. Barros makes 2-pt shot from 22 ft (assist by J. Stackhouse)
+    - "+2"
+    - 29-23
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 29-25
+    - "+2"
+    - B. Drew makes 2-pt shot from 23 ft (assist by F. Hoiberg)
+  - - '1:27.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - Defensive rebound by E. Brand
+  - - '1:14.0'
+    - ''
+    - ''
+    - 29-27
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim
+  - - '0:56.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 31-27
+    - ''
+    - ''
+  - - '0:41.9'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - B. Drew misses 3-pt shot from 24 ft
+  - - '0:39.6'
+    - Defensive rebound by J. Buechler
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '0:34.9'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '0:31.9'
+    - Offensive rebound by M. Moore
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '0:12.6'
+    - D. Barros makes 2-pt shot from 18 ft
+    - "+2"
+    - 33-27
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 33-27
+    - ''
+    - E. Brand misses 2-pt shot from 15 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 33-27
+    - ''
+    - Offensive rebound by B. Miller
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:56.0'
+    - ''
+    - ''
+    - 33-27
+    - ''
+    - Personal foul by D. Barros
+  - - '11:42.0'
+    - ''
+    - ''
+    - 33-29
+    - "+2"
+    - E. Brand makes 2-pt shot from 12 ft (assist by F. Hoiberg)
+  - - '11:17.0'
+    - D. Barros misses 3-pt shot from 25 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '11:14.0'
+    - Offensive rebound by E. Montross
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - M. World Peace enters the game for R. Mercer
+  - - '11:08.0'
+    - J. Stackhouse misses 2-pt shot from 19 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by E. Brand
+  - - '11:03.0'
+    - ''
+    - ''
+    - 33-31
+    - "+2"
+    - F. Hoiberg makes 2-pt shot at rim (assist by K. El-Amin)
+  - - '10:46.0'
+    - J. Buechler misses 3-pt shot from 23 ft
+    - ''
+    - 33-31
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Defensive rebound by D. Tarlac
+  - - '10:35.0'
+    - Violation by M. Moore (illegal defense)
+    - ''
+    - 33-31
+    - ''
+    - ''
+  - - '10:27.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - Turnover by M. World Peace (bad pass; steal by D. Barros)
+  - - '10:21.0'
+    - J. Buechler makes 2-pt shot from 18 ft (assist by D. Barros)
+    - "+2"
+    - 35-31
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 35-33
+    - "+2"
+    - K. El-Amin makes 2-pt shot from 22 ft
+  - - '10:03.0'
+    - Personal foul by M. World Peace
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '9:55.0'
+    - E. Montross makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 37-33
+    - ''
+    - ''
+  - - '9:55.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 37-33
+    - ''
+    - ''
+  - - '9:55.0'
+    - E. Montross misses free throw 1 of 1
+    - ''
+    - 37-33
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 37-33
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '9:37.0'
+    - ''
+    - ''
+    - 37-36
+    - "+3"
+    - F. Hoiberg makes 3-pt shot from 24 ft (assist by E. Brand)
+  - - '9:25.0'
+    - M. Moore makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 39-36
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 39-38
+    - "+2"
+    - K. El-Amin makes 2-pt shot at rim
+  - - '8:56.0'
+    - E. Montross makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 41-38
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Shooting foul by M. Moore
+  - - '8:35.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Chicago full timeout
+  - - '8:35.0'
+    - J. Smith enters the game for J. Stackhouse
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '8:35.0'
+    - M. Cleaves enters the game for M. Moore
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 41-39
+    - "+1"
+    - D. Tarlac makes free throw 1 of 2
+  - - '8:35.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - D. Tarlac misses free throw 2 of 2
+  - - '8:35.0'
+    - Defensive rebound by E. Montross
+    - ''
+    - 41-39
+    - ''
+    - ''
+  - - '8:21.0'
+    - D. Barros makes 2-pt shot from 15 ft (assist by M. Cleaves)
+    - "+2"
+    - 43-39
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Personal foul by M. Cleaves
+  - - '7:57.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - M. World Peace misses 2-pt shot from 12 ft
+  - - '7:55.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Offensive rebound by E. Brand
+  - - '7:43.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Turnover by D. Tarlac (3 second)
+  - - '7:30.0'
+    - M. Cleaves makes 2-pt shot from 19 ft
+    - "+2"
+    - 45-39
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 45-42
+    - "+3"
+    - K. El-Amin makes 3-pt shot from 26 ft (assist by E. Brand)
+  - - '6:56.0'
+    - Shooting foul by K. El-Amin
+    - ''
+    - 45-42
+    - ''
+    - ''
+  - - '6:56.0'
+    - M. Cleaves makes free throw 1 of 2
+    - "+1"
+    - 46-42
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - R. Mercer enters the game for M. World Peace
+  - - '6:56.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - B. Drew enters the game for F. Hoiberg
+  - - '6:56.0'
+    - M. Cleaves makes free throw 2 of 2
+    - "+1"
+    - 47-42
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 47-44
+    - "+2"
+    - E. Brand makes 2-pt shot from 18 ft (assist by B. Drew)
+  - - '6:31.0'
+    - B. Wallace enters the game for E. Montross
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '6:31.0'
+    - B. Owens enters the game for J. Buechler
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '6:29.0'
+    - Turnover by B. Owens (bad pass; steal by R. Mercer)
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - Turnover by E. Brand (bad pass; steal by B. Owens)
+  - - '6:17.0'
+    - D. Barros misses 2-pt shot from 20 ft
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - Defensive rebound by K. El-Amin
+  - - '6:10.0'
+    - ''
+    - ''
+    - 47-46
+    - "+2"
+    - E. Brand makes 2-pt shot at rim (assist by R. Mercer)
+  - - '6:10.0'
+    - ''
+    - ''
+    - 47-46
+    - ''
+    - Shooting foul by B. Owens
+  - - '6:10.0'
+    - ''
+    - ''
+    - 47-47
+    - "+1"
+    - E. Brand makes free throw 1 of 1
+  - - '5:58.0'
+    - M. Cleaves makes 2-pt shot from 10 ft
+    - "+2"
+    - 49-47
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - K. El-Amin misses 3-pt shot from 26 ft
+  - - '5:39.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Offensive rebound by D. Tarlac
+  - - '5:39.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Double personal foul by D. Tarlac and J. Smith
+  - - '5:39.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - Chicago full timeout
+  - - '5:39.0'
+    - ''
+    - ''
+    - 49-47
+    - ''
+    - B. Miller enters the game for D. Tarlac
+  - - '5:39.0'
+    - J. Stackhouse enters the game for D. Barros
+    - ''
+    - 49-47
+    - ''
+    - ''
+  - - '5:39.0'
+    - 'Jump ball: E. Brand vs. J. Smith (M. Cleaves gains possession)'
+  - - '5:26.0'
+    - J. Smith makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 51-47
+    - ''
+    - ''
+  - - '5:26.0'
+    - Shooting foul by E. Brand
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - M. World Peace enters the game for K. El-Amin
+  - - '5:26.0'
+    - J. Smith misses free throw 1 of 1
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - Defensive rebound by B. Miller
+  - - '5:08.0'
+    - ''
+    - ''
+    - 51-49
+    - "+2"
+    - R. Mercer makes 2-pt shot from 22 ft (assist by B. Drew)
+  - - '4:51.0'
+    - B. Wallace misses 2-pt shot from 21 ft
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Defensive rebound by M. World Peace
+  - - '4:39.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - B. Drew misses 3-pt shot from 26 ft
+  - - '4:37.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '4:25.0'
+    - J. Stackhouse misses 2-pt shot from 19 ft
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Defensive rebound by E. Brand
+  - - '4:17.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Offensive foul by B. Miller
+  - - '4:17.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Turnover by B. Miller (foul)
+  - - '4:06.0'
+    - 'Jump ball: M. World Peace vs. J. Stackhouse'
+  - - '3:59.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by B. Owens
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '3:53.0'
+    - B. Owens misses 2-pt shot at rim
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '3:51.0'
+    - B. Owens makes 2-pt shot at rim
+    - "+2"
+    - 53-49
+    - ''
+    - ''
+  - - '3:51.0'
+    - Offensive rebound by B. Owens
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - M. World Peace misses 2-pt shot from 8 ft
+  - - '3:36.0'
+    - Defensive rebound by B. Owens
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '3:32.0'
+    - M. Cleaves misses 2-pt shot at rim
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - Defensive rebound by B. Miller
+  - - '3:31.0'
+    - ''
+    - ''
+    - 53-49
+    - ''
+    - Personal foul by B. Owens
+  - - '3:31.0'
+    - ''
+    - ''
+    - 53-50
+    - "+1"
+    - B. Miller makes free throw 1 of 2
+  - - '3:31.0'
+    - ''
+    - ''
+    - 53-51
+    - "+1"
+    - B. Miller makes free throw 2 of 2
+  - - '3:24.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Defensive rebound by E. Brand
+  - - '3:23.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Personal foul by B. Wallace
+  - - '3:23.0'
+    - ''
+    - ''
+    - 53-52
+    - "+1"
+    - E. Brand makes free throw 1 of 2
+  - - '3:23.0'
+    - ''
+    - ''
+    - 53-53
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '3:07.0'
+    - J. Stackhouse misses 3-pt shot from 24 ft
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - Defensive rebound by B. Miller
+  - - '2:52.0'
+    - ''
+    - ''
+    - 53-53
+    - ''
+    - R. Mercer misses 2-pt shot from 10 ft
+  - - '2:51.0'
+    - Defensive rebound by B. Owens
+    - ''
+    - 53-53
+    - ''
+    - ''
+  - - '2:47.0'
+    - J. Stackhouse makes 2-pt shot from 22 ft (assist by B. Owens)
+    - "+2"
+    - 55-53
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - Personal foul by J. Stackhouse
+  - - '2:35.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - Chicago full timeout
+  - - '2:35.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - M. World Peace misses free throw 1 of 2
+  - - '2:35.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - Offensive rebound by Team
+  - - '2:35.0'
+    - ''
+    - ''
+    - 55-54
+    - "+1"
+    - M. World Peace makes free throw 2 of 2
+  - - '2:16.0'
+    - B. Owens makes 2-pt shot from 6 ft
+    - "+2"
+    - 57-54
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 57-56
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by B. Miller)
+  - - '1:44.0'
+    - J. Stackhouse misses 2-pt shot from 9 ft
+    - ''
+    - 57-56
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 57-56
+    - ''
+    - Defensive rebound by B. Miller
+  - - '1:26.0'
+    - ''
+    - ''
+    - 57-58
+    - "+2"
+    - R. Mercer makes 2-pt shot at rim (assist by M. World Peace)
+  - - '1:14.0'
+    - Personal foul by M. World Peace
+    - ''
+    - 57-58
+    - ''
+    - ''
+  - - '1:14.0'
+    - D. Barros enters the game for M. Cleaves
+    - ''
+    - 57-58
+    - ''
+    - ''
+  - - '1:14.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 58-58
+    - ''
+    - ''
+  - - '1:14.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 59-58
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - M. World Peace misses 2-pt shot from 20 ft
+  - - '0:48.9'
+    - Defensive rebound by B. Owens
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '0:39.9'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '0:39.6'
+    - B. Wallace makes 2-pt shot at rim
+    - "+2"
+    - 61-58
+    - ''
+    - ''
+  - - '0:39.6'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 61-58
+    - ''
+    - ''
+  - - '0:24.9'
+    - ''
+    - ''
+    - 61-58
+    - ''
+    - M. World Peace misses 2-pt shot from 22 ft
+  - - '0:22.9'
+    - ''
+    - ''
+    - 61-58
+    - ''
+    - Offensive rebound by M. World Peace
+  - - '0:20.4'
+    - ''
+    - ''
+    - 61-58
+    - ''
+    - Personal foul by B. Wallace
+  - - '0:20.4'
+    - ''
+    - ''
+    - 61-59
+    - "+1"
+    - M. World Peace makes free throw 1 of 2
+  - - '0:20.4'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - F. Hoiberg enters the game for R. Mercer
+  - - '0:20.4'
+    - J. Buechler enters the game for B. Owens
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '0:20.4'
+    - ''
+    - ''
+    - 61-60
+    - "+1"
+    - M. World Peace makes free throw 2 of 2
+  - - '0:10.1'
+    - Personal foul by M. World Peace
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 62-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - ''
+    - ''
+    - 62-60
+    - ''
+    - R. Mercer enters the game for M. World Peace
+  - - '0:10.1'
+    - M. Cleaves enters the game for J. Smith
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - E. Montross enters the game for B. Wallace
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - B. Owens enters the game for J. Buechler
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - M. Moore enters the game for D. Barros
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '0:10.1'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 63-60
+    - ''
+    - ''
+  - - '0:04.2'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - Turnover by F. Hoiberg (lost ball)
+  - - '0:04.2'
+    - J. Buechler enters the game for B. Owens
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '0:04.2'
+    - Detroit 20 second timeout
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '0:04.2'
+    - D. Barros enters the game for M. Cleaves
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '0:04.2'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - C. Benjamin enters the game for R. Mercer
+  - - '0:00.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-60
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 63-60
+    - ''
+    - Turnover by E. Brand (lost ball; steal by B. Wallace)
+  - - '11:19.0'
+    - M. Curry makes 2-pt shot from 21 ft (assist by J. Stackhouse)
+    - "+2"
+    - 65-60
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - B. Drew misses 2-pt shot from 16 ft
+  - - '10:55.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 65-60
+    - ''
+    - ''
+  - - '10:46.0'
+    - J. Stackhouse misses 2-pt shot from 20 ft
+    - ''
+    - 65-60
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - Defensive rebound by E. Brand
+  - - '10:31.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - Personal foul by M. Cleaves
+  - - '10:28.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - Turnover by R. Mercer (bad pass; steal by J. Smith)
+  - - '10:21.0'
+    - Turnover by B. Wallace (lost ball; steal by R. Mercer)
+    - ''
+    - 65-60
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 65-62
+    - "+2"
+    - R. Mercer makes 2-pt shot from 19 ft (assist by M. World Peace)
+  - - '9:54.0'
+    - J. Smith makes 2-pt shot at rim
+    - "+2"
+    - 67-62
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - Offensive foul by M. World Peace
+  - - '9:31.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - Turnover by M. World Peace (foul)
+  - - '9:31.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - F. Hoiberg enters the game for M. World Peace
+  - - '9:18.0'
+    - B. Wallace misses 2-pt shot at rim
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '9:15.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '9:07.0'
+    - J. Stackhouse makes 2-pt shot from 22 ft
+    - "+2"
+    - 69-62
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Shooting foul by M. Curry
+  - - '8:52.0'
+    - ''
+    - ''
+    - 69-63
+    - "+1"
+    - B. Miller makes free throw 1 of 2
+  - - '8:52.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - B. Miller misses free throw 2 of 2
+  - - '8:51.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 69-63
+    - ''
+    - ''
+  - - '8:40.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 69-63
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - B. Drew misses 2-pt shot at rim
+  - - '8:31.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - Offensive rebound by E. Brand
+  - - '8:28.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - R. Mercer misses 2-pt shot from 17 ft
+  - - '8:28.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - Offensive rebound by Team
+  - - '8:28.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - Loose ball foul by J. Smith
+  - - '8:20.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - Shooting foul by B. Wallace
+  - - '8:20.0'
+    - ''
+    - ''
+    - 69-64
+    - "+1"
+    - E. Brand makes free throw 1 of 2
+  - - '8:20.0'
+    - ''
+    - ''
+    - 69-65
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '8:01.0'
+    - M. Curry makes 2-pt shot from 18 ft (assist by J. Stackhouse)
+    - "+2"
+    - 71-65
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 71-65
+    - ''
+    - F. Hoiberg misses 3-pt shot from 26 ft
+  - - '7:41.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '7:37.0'
+    - Personal foul by R. Mercer
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '7:29.0'
+    - C. Atkins enters the game for M. Cleaves
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '7:24.0'
+    - J. Smith makes 2-pt shot from 20 ft (assist by M. Curry)
+    - "+2"
+    - 73-65
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 73-68
+    - "+3"
+    - F. Hoiberg makes 3-pt shot from 26 ft (assist by E. Brand)
+  - - '6:51.0'
+    - B. Wallace misses 2-pt shot from 9 ft
+    - ''
+    - 73-68
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Defensive rebound by E. Brand
+  - - '6:47.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Personal foul by M. Curry
+  - - '6:47.0'
+    - ''
+    - ''
+    - 73-69
+    - "+1"
+    - R. Mercer makes free throw 1 of 2
+  - - '6:47.0'
+    - ''
+    - ''
+    - 73-70
+    - "+1"
+    - R. Mercer makes free throw 2 of 2
+  - - '6:36.0'
+    - J. Smith makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 75-70
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 75-70
+    - ''
+    - R. Mercer misses 2-pt shot at rim
+  - - '6:14.0'
+    - Defensive rebound by Team
+    - ''
+    - 75-70
+    - ''
+    - ''
+  - - '6:03.0'
+    - C. Atkins misses 3-pt shot from 24 ft
+    - ''
+    - 75-70
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 75-70
+    - ''
+    - Defensive rebound by B. Drew
+  - - '5:46.0'
+    - ''
+    - ''
+    - 75-73
+    - "+3"
+    - B. Drew makes 3-pt shot from 26 ft (assist by R. Mercer)
+  - - '5:30.0'
+    - M. Curry misses 2-pt shot from 16 ft
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '5:28.0'
+    - Offensive rebound by J. Smith
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '5:28.0'
+    - Personal foul by B. Drew
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '5:28.0'
+    - Detroit full timeout
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '5:21.0'
+    - B. Wallace makes 2-pt shot at rim (assist by C. Atkins)
+    - "+2"
+    - 77-73
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - Personal foul by C. Atkins
+  - - '5:10.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - B. Drew misses free throw 1 of 2
+  - - '5:10.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - Offensive rebound by Team
+  - - '5:10.0'
+    - ''
+    - ''
+    - 77-73
+    - ''
+    - B. Drew misses free throw 2 of 2
+  - - '5:09.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 77-73
+    - ''
+    - ''
+  - - '4:53.0'
+    - J. Smith misses 2-pt shot from 21 ft
+    - ''
+    - 77-73
+    - ''
+    - ''
+  - - '4:47.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 79-73
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:36.0'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - B. Drew misses 2-pt shot from 19 ft
+  - - '4:33.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:24.0'
+    - Shooting foul by B. Miller
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:24.0'
+    - B. Wallace misses free throw 1 of 2
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:24.0'
+    - B. Wallace misses free throw 2 of 2
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 79-73
+    - ''
+    - Defensive rebound by E. Brand
+  - - '4:12.0'
+    - ''
+    - ''
+    - 79-75
+    - "+2"
+    - R. Mercer makes 2-pt shot from 18 ft (assist by B. Drew)
+  - - '3:56.0'
+    - C. Atkins misses 2-pt shot from 17 ft
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '3:52.0'
+    - B. Wallace misses 2-pt shot at rim
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '3:52.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 79-75
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 79-75
+    - ''
+    - Defensive rebound by F. Hoiberg
+  - - '3:30.0'
+    - ''
+    - ''
+    - 79-77
+    - "+2"
+    - B. Miller makes 2-pt shot at rim (assist by F. Hoiberg)
+  - - '3:30.0'
+    - ''
+    - ''
+    - 79-77
+    - ''
+    - Shooting foul by B. Wallace
+  - - '3:30.0'
+    - E. Montross enters the game for B. Wallace
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '3:30.0'
+    - Technical foul by B. Wallace
+    - ''
+    - 79-77
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 79-78
+    - "+1"
+    - F. Hoiberg makes free throw technical
+  - - '3:30.0'
+    - ''
+    - ''
+    - 79-79
+    - "+1"
+    - B. Miller makes free throw 1 of 1
+  - - '3:17.0'
+    - Turnover by J. Stackhouse (lost ball; steal by R. Mercer)
+    - ''
+    - 79-79
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 79-81
+    - "+2"
+    - B. Drew makes 2-pt shot at rim (assist by R. Mercer)
+  - - '3:11.0'
+    - Detroit full timeout
+    - ''
+    - 79-81
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 79-81
+    - ''
+    - D. Tarlac enters the game for B. Miller
+  - - '2:57.0'
+    - J. Smith makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 81-81
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 81-81
+    - ''
+    - E. Brand misses 2-pt shot from 9 ft
+  - - '2:41.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 81-81
+    - ''
+    - Violation by E. Brand (illegal defense)
+  - - '2:26.0'
+    - Shooting foul by E. Brand
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '2:26.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 82-81
+    - ''
+    - ''
+  - - '2:26.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 83-81
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 83-83
+    - "+2"
+    - R. Mercer makes 2-pt shot from 16 ft
+  - - '1:52.0'
+    - Shooting foul by E. Brand
+    - ''
+    - 83-83
+    - ''
+    - ''
+  - - '1:52.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 84-83
+    - ''
+    - ''
+  - - '1:52.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 85-83
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 85-83
+    - ''
+    - Shooting foul by E. Montross
+  - - '1:41.0'
+    - ''
+    - ''
+    - 85-83
+    - ''
+    - E. Brand misses free throw 1 of 2
+  - - '1:41.0'
+    - ''
+    - ''
+    - 85-83
+    - ''
+    - Offensive rebound by Team
+  - - '1:41.0'
+    - M. Moore enters the game for E. Montross
+    - ''
+    - 85-83
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 85-84
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '1:26.0'
+    - M. Moore makes 2-pt shot from 13 ft (assist by C. Atkins)
+    - "+2"
+    - 87-84
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 87-86
+    - "+2"
+    - E. Brand makes 2-pt shot from 8 ft (assist by B. Drew)
+  - - '1:00.0'
+    - Shooting foul by D. Tarlac
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 87-86
+    - ''
+    - B. Miller enters the game for E. Brand
+  - - '1:00.0'
+    - J. Smith makes free throw 1 of 2
+    - "+1"
+    - 88-86
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 88-86
+    - ''
+    - M. World Peace enters the game for R. Mercer
+  - - '1:00.0'
+    - J. Smith makes free throw 2 of 2
+    - "+1"
+    - 89-86
+    - ''
+    - ''
+  - - '0:49.9'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - F. Hoiberg misses 2-pt shot from 22 ft
+  - - '0:47.9'
+    - Defensive rebound by C. Atkins
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:36.9'
+    - M. Moore misses 2-pt shot from 18 ft
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '0:35.4'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Defensive rebound by B. Miller
+  - - '0:25.9'
+    - ''
+    - ''
+    - 89-88
+    - "+2"
+    - D. Tarlac makes 2-pt shot from 16 ft (assist by B. Drew)
+  - - '0:02.6'
+    - C. Atkins makes 3-pt shot from 25 ft (assist by M. Moore)
+    - "+3"
+    - 92-88
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - Turnover by B. Drew (discontinued dribble)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - C. Atkins makes 3-pt shot from 23 ft (assist by J. Stackhouse)
+    - "+3"
+    - 95-88
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 95-88
+    - ''
+    - B. Miller misses 2-pt shot from 8 ft
+  - - '11:23.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 95-88
+    - ''
+    - ''
+  - - '11:14.0'
+    - Turnover by E. Montross (lost ball; steal by B. Miller)
+    - ''
+    - 95-88
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 95-88
+    - ''
+    - M. World Peace misses 2-pt shot from 17 ft
+  - - '11:04.0'
+    - ''
+    - ''
+    - 95-88
+    - ''
+    - Offensive rebound by B. Miller
+  - - '11:00.0'
+    - ''
+    - ''
+    - 95-91
+    - "+3"
+    - F. Hoiberg makes 3-pt shot from 25 ft (assist by B. Drew)
+  - - '10:43.0'
+    - ''
+    - ''
+    - 95-91
+    - ''
+    - R. Mercer enters the game for B. Drew
+  - - '10:34.0'
+    - D. Barros misses 3-pt shot from 26 ft
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 95-91
+    - ''
+    - Defensive rebound by E. Brand
+  - - '10:18.0'
+    - ''
+    - ''
+    - 95-91
+    - ''
+    - Personal foul by E. Montross
+  - - '10:18.0'
+    - M. Curry enters the game for C. Atkins
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 95-93
+    - "+2"
+    - E. Brand makes 2-pt shot from 15 ft (assist by F. Hoiberg)
+  - - '9:55.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 95-93
+    - ''
+    - ''
+  - - '9:53.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 95-93
+    - ''
+    - ''
+  - - '9:51.0'
+    - Shooting foul by F. Hoiberg
+    - ''
+    - 95-93
+    - ''
+    - ''
+  - - '9:51.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 96-93
+    - ''
+    - ''
+  - - '9:51.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 97-93
+    - ''
+    - ''
+  - - '9:30.0'
+    - ''
+    - ''
+    - 97-93
+    - ''
+    - M. World Peace misses 2-pt shot from 15 ft
+  - - '9:28.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 97-93
+    - ''
+    - ''
+  - - '9:14.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 97-93
+    - ''
+    - ''
+  - - '9:12.0'
+    - Offensive rebound by E. Montross
+    - ''
+    - 97-93
+    - ''
+    - ''
+  - - '9:01.0'
+    - D. Barros makes 2-pt shot from 23 ft
+    - "+2"
+    - 99-93
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 99-95
+    - "+2"
+    - E. Brand makes 2-pt shot from 9 ft (assist by B. Miller)
+  - - '8:22.0'
+    - E. Montross makes 2-pt shot from 7 ft (assist by D. Barros)
+    - "+2"
+    - 101-95
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 101-97
+    - "+2"
+    - R. Mercer makes 2-pt shot from 20 ft
+  - - '7:53.0'
+    - Turnover by M. Moore (off goaltending)
+    - ''
+    - 101-97
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - Chicago full timeout
+  - - '7:53.0'
+    - ''
+    - ''
+    - 101-97
+    - ''
+    - B. Drew enters the game for M. World Peace
+  - - '7:43.0'
+    - ''
+    - ''
+    - 101-99
+    - "+2"
+    - R. Mercer makes 2-pt shot from 20 ft (assist by B. Miller)
+  - - '7:27.0'
+    - E. Montross makes 2-pt shot from 11 ft (assist by D. Barros)
+    - "+2"
+    - 103-99
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 103-101
+    - "+2"
+    - B. Miller makes 2-pt shot from 12 ft (assist by B. Drew)
+  - - '6:45.0'
+    - D. Barros makes 2-pt shot from 22 ft
+    - "+2"
+    - 105-101
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 105-103
+    - "+2"
+    - R. Mercer makes 2-pt shot from 17 ft
+  - - '6:21.0'
+    - Detroit full timeout
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '6:18.0'
+    - M. Cleaves enters the game for M. Curry
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '6:18.0'
+    - B. Wallace enters the game for M. Moore
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '6:18.0'
+    - J. Smith enters the game for E. Montross
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '6:09.0'
+    - B. Wallace misses 2-pt shot at rim
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 105-103
+    - ''
+    - Defensive rebound by Team
+  - - '6:00.0'
+    - ''
+    - ''
+    - 105-103
+    - ''
+    - R. Mercer misses 2-pt shot from 16 ft
+  - - '5:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '5:59.0'
+    - Loose ball foul by E. Brand
+    - ''
+    - 105-103
+    - ''
+    - ''
+  - - '5:42.0'
+    - J. Stackhouse makes 2-pt shot from 14 ft
+    - "+2"
+    - 107-103
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - E. Brand misses 2-pt shot from 12 ft
+  - - '5:21.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - Offensive rebound by Team
+  - - '5:07.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - R. Mercer misses 2-pt shot from 18 ft
+  - - '5:05.0'
+    - Defensive rebound by M. Cleaves
+    - ''
+    - 107-103
+    - ''
+    - ''
+  - - '4:46.0'
+    - D. Barros misses 2-pt shot from 20 ft
+    - ''
+    - 107-103
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - Defensive rebound by E. Brand
+  - - '4:30.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - Shooting foul by J. Smith
+  - - '4:30.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - E. Brand misses free throw 1 of 2
+  - - '4:30.0'
+    - ''
+    - ''
+    - 107-103
+    - ''
+    - Offensive rebound by Team
+  - - '4:30.0'
+    - ''
+    - ''
+    - 107-104
+    - "+1"
+    - E. Brand makes free throw 2 of 2
+  - - '4:17.0'
+    - J. Stackhouse misses 2-pt shot from 11 ft
+    - ''
+    - 107-104
+    - ''
+    - ''
+  - - '4:15.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 107-104
+    - ''
+    - ''
+  - - '4:12.0'
+    - D. Barros misses 2-pt shot from 12 ft
+    - ''
+    - 107-104
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 107-104
+    - ''
+    - Defensive rebound by R. Mercer
+  - - '4:00.0'
+    - ''
+    - ''
+    - 107-104
+    - ''
+    - Shooting foul by B. Wallace
+  - - '4:00.0'
+    - ''
+    - ''
+    - 107-104
+    - ''
+    - B. Miller misses free throw 1 of 2
+  - - '4:00.0'
+    - ''
+    - ''
+    - 107-104
+    - ''
+    - Offensive rebound by Team
+  - - '4:00.0'
+    - ''
+    - ''
+    - 107-105
+    - "+1"
+    - B. Miller makes free throw 2 of 2
+  - - '3:45.0'
+    - J. Smith makes 2-pt shot from 10 ft (assist by J. Stackhouse)
+    - "+2"
+    - 109-105
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 109-105
+    - ''
+    - B. Miller misses 2-pt shot at rim
+  - - '3:26.0'
+    - Defensive rebound by M. Cleaves
+    - ''
+    - 109-105
+    - ''
+    - ''
+  - - '3:18.0'
+    - Shooting foul by B. Drew
+    - ''
+    - 109-105
+    - ''
+    - ''
+  - - '3:18.0'
+    - M. Cleaves makes free throw 1 of 2
+    - "+1"
+    - 110-105
+    - ''
+    - ''
+  - - '3:18.0'
+    - M. Cleaves makes free throw 2 of 2
+    - "+1"
+    - 111-105
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 111-105
+    - ''
+    - Chicago full timeout
+  - - '3:00.0'
+    - ''
+    - ''
+    - 111-105
+    - ''
+    - Turnover by F. Hoiberg (bad pass; steal by B. Wallace)
+  - - '2:56.0'
+    - Shooting foul by B. Drew
+    - ''
+    - 111-105
+    - ''
+    - ''
+  - - '2:56.0'
+    - M. Cleaves misses free throw 1 of 2
+    - ''
+    - 111-105
+    - ''
+    - ''
+  - - '2:56.0'
+    - Offensive rebound by Team
+    - ''
+    - 111-105
+    - ''
+    - ''
+  - - '2:56.0'
+    - M. Cleaves makes free throw 2 of 2
+    - "+1"
+    - 112-105
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 112-105
+    - ''
+    - Personal foul by J. Smith
+  - - '2:40.0'
+    - ''
+    - ''
+    - 112-107
+    - "+2"
+    - E. Brand makes 2-pt shot from 13 ft (assist by R. Mercer)
+  - - '2:24.0'
+    - Personal foul by B. Miller
+    - ''
+    - 112-107
+    - ''
+    - ''
+  - - '2:24.0'
+    - J. Smith makes free throw 1 of 2
+    - "+1"
+    - 113-107
+    - ''
+    - ''
+  - - '2:24.0'
+    - J. Smith misses free throw 2 of 2
+    - ''
+    - 113-107
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 113-107
+    - ''
+    - Defensive rebound by E. Brand
+  - - '2:08.0'
+    - ''
+    - ''
+    - 113-109
+    - "+2"
+    - R. Mercer makes 2-pt shot from 10 ft (assist by E. Brand)
+  - - '2:08.0'
+    - ''
+    - ''
+    - 113-109
+    - ''
+    - Shooting foul by J. Stackhouse
+  - - '2:08.0'
+    - ''
+    - ''
+    - 113-110
+    - "+1"
+    - R. Mercer makes free throw 1 of 1
+  - - '1:44.0'
+    - Turnover by M. Cleaves (lost ball)
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 113-110
+    - ''
+    - R. Mercer misses 2-pt shot from 20 ft
+  - - '1:28.0'
+    - Defensive rebound by Team
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '1:28.0'
+    - C. Atkins enters the game for M. Cleaves
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '1:16.0'
+    - Shooting foul by R. Mercer
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '1:16.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 114-110
+    - ''
+    - ''
+  - - '1:16.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 115-110
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 115-110
+    - ''
+    - F. Hoiberg misses 2-pt shot from 13 ft
+  - - '0:48.7'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:30.9'
+    - J. Stackhouse misses 2-pt shot from 14 ft
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:26.9'
+    - ''
+    - ''
+    - 115-110
+    - ''
+    - Defensive rebound by E. Brand
+  - - '0:20.9'
+    - ''
+    - ''
+    - 115-110
+    - ''
+    - E. Brand misses 3-pt shot from 23 ft
+  - - '0:19.1'
+    - Defensive rebound by J. Smith
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - Personal foul by B. Miller
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - J. Smith misses free throw 1 of 2
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - Offensive rebound by Team
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - M. Cleaves enters the game for C. Atkins
+    - ''
+    - 115-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - J. Smith makes free throw 2 of 2
+    - "+1"
+    - 116-110
+    - ''
+    - ''
+  - - '0:19.1'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - Chicago full timeout
+  - - '0:07.9'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - B. Miller misses 3-pt shot from 24 ft
+  - - '0:05.9'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - Offensive rebound by B. Miller
+  - - '0:02.9'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - B. Miller misses 3-pt shot from 24 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - Offensive rebound by B. Drew
+  - - '0:00.0'
+    - ''
+    - ''
+    - 116-110
+    - ''
+    - R. Mercer misses 3-pt shot from 26 ft
+  - - '0:00.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 116-110
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

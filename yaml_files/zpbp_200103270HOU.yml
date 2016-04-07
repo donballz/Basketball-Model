@@ -1,0 +1,2490 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Cato vs. O. Polynice (J. Stockton gains possession)'
+  - - '11:43.0'
+    - K. Malone misses 2-pt shot from 18 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:41.0'
+    - Offensive rebound by D. Marshall
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:32.0'
+    - K. Malone makes 2-pt shot from 12 ft (assist by J. Starks)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Shooting foul by K. Malone
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-1
+    - "+1"
+    - S. Anderson makes free throw 1 of 2
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-2
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '11:00.0'
+    - K. Malone makes 2-pt shot from 17 ft (assist by O. Polynice)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Shooting foul by D. Marshall
+  - - '10:48.0'
+    - ''
+    - ''
+    - 4-3
+    - "+1"
+    - S. Anderson makes free throw 1 of 2
+  - - '10:48.0'
+    - ''
+    - ''
+    - 4-4
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '10:38.0'
+    - Turnover by J. Starks (bad pass; steal by S. Francis)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - S. Anderson misses 2-pt shot from 17 ft
+  - - '10:31.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:16.0'
+    - J. Stockton misses 2-pt shot from 16 ft
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '10:02.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - S. Anderson misses 3-pt shot from 25 ft
+  - - '10:01.0'
+    - Defensive rebound by Team
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - O. Polynice misses 2-pt shot from 13 ft (block by S. Francis)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:44.0'
+    - Offensive rebound by K. Malone
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:38.0'
+    - D. Marshall makes 2-pt shot from 6 ft (assist by J. Stockton)
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - S. Anderson misses 2-pt shot from 18 ft
+  - - '9:18.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Offensive rebound by Team
+  - - '9:13.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - C. Mobley misses 2-pt shot at rim
+  - - '9:11.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:04.0'
+    - K. Malone misses 2-pt shot from 15 ft
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:02.0'
+    - Offensive rebound by O. Polynice
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:02.0'
+    - Technical foul by K. Malone
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 6-5
+    - "+1"
+    - C. Mobley makes free throw technical
+  - - '8:53.0'
+    - K. Malone makes 2-pt shot at rim (assist by J. Starks)
+    - "+2"
+    - 8-5
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 8-7
+    - "+2"
+    - S. Francis makes 2-pt shot from 19 ft
+  - - '8:24.0'
+    - Shooting foul by C. Mobley
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:24.0'
+    - J. Starks makes free throw 1 of 2
+    - "+1"
+    - 9-7
+    - ''
+    - ''
+  - - '8:24.0'
+    - J. Starks makes free throw 2 of 2
+    - "+1"
+    - 10-7
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 10-9
+    - "+2"
+    - K. Cato makes 2-pt shot at rim (assist by M. Taylor)
+  - - '7:47.0'
+    - Turnover by J. Stockton (bad pass; steal by S. Anderson)
+    - ''
+    - 10-9
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 10-11
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim
+  - - '7:24.0'
+    - D. Marshall misses 2-pt shot at rim (block by K. Cato)
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Defensive rebound by S. Francis
+  - - '7:17.0'
+    - ''
+    - ''
+    - 10-13
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by S. Francis)
+  - - '6:59.0'
+    - D. Marshall makes 2-pt shot at rim (assist by K. Malone)
+    - "+2"
+    - 12-13
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - S. Anderson misses 2-pt shot from 5 ft
+  - - '6:41.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '6:35.0'
+    - J. Starks misses 3-pt shot from 22 ft
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Defensive rebound by S. Francis
+  - - '6:30.0'
+    - ''
+    - ''
+    - 12-15
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by C. Mobley)
+  - - '6:04.0'
+    - O. Polynice misses 2-pt shot from 9 ft
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Defensive rebound by K. Cato
+  - - '5:43.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - S. Francis misses 3-pt shot from 25 ft
+  - - '5:41.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 12-15
+    - ''
+    - ''
+  - - '5:30.0'
+    - K. Malone makes 2-pt shot from 15 ft (assist by J. Stockton)
+    - "+2"
+    - 14-15
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Houston full timeout
+  - - '5:26.0'
+    - J. Vaughn enters the game for J. Stockton
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - S. Francis misses 3-pt shot from 25 ft
+  - - '5:02.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:49.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:49.0'
+    - K. Malone makes free throw 1 of 2
+    - "+1"
+    - 15-15
+    - ''
+    - ''
+  - - '4:49.0'
+    - K. Malone makes free throw 2 of 2
+    - "+1"
+    - 16-15
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 16-17
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim (assist by C. Mobley)
+  - - '4:12.0'
+    - D. Marshall makes 2-pt shot at rim (assist by K. Malone)
+    - "+2"
+    - 18-17
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - K. Cato misses 2-pt shot at rim
+  - - '3:51.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - Offensive rebound by Team
+  - - '3:51.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - Loose ball foul by J. Vaughn
+  - - '3:51.0'
+    - G. Ostertag enters the game for O. Polynice
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 18-19
+    - "+2"
+    - K. Cato makes 2-pt shot from 6 ft (assist by C. Mobley)
+  - - '3:20.0'
+    - J. Vaughn misses 3-pt shot from 25 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '3:12.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - C. Mobley misses 3-pt shot from 25 ft
+  - - '3:11.0'
+    - Defensive rebound by Team
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:56.0'
+    - K. Malone misses 2-pt shot from 19 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:54.0'
+    - G. Ostertag misses 2-pt shot at rim
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:54.0'
+    - Offensive rebound by G. Ostertag
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Shooting foul by G. Ostertag
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Houston full timeout
+  - - '2:42.0'
+    - B. Russell enters the game for D. Marshall
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - M. Norris enters the game for C. Mobley
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-20
+    - "+1"
+    - M. Taylor makes free throw 1 of 2
+  - - '2:42.0'
+    - ''
+    - ''
+    - 18-21
+    - "+1"
+    - M. Taylor makes free throw 2 of 2
+  - - '2:28.0'
+    - J. Vaughn misses 2-pt shot from 19 ft
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:26.0'
+    - Offensive rebound by J. Vaughn
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:09.0'
+    - Turnover by J. Vaughn (bad pass; steal by M. Norris)
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - M. Taylor misses 2-pt shot from 20 ft
+  - - '1:53.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Offensive rebound by S. Francis
+  - - '1:49.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - S. Francis misses 3-pt shot from 24 ft
+  - - '1:48.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '1:32.0'
+    - J. Vaughn misses 2-pt shot from 22 ft
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Defensive rebound by S. Francis
+  - - '1:18.0'
+    - ''
+    - ''
+    - 18-23
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by M. Norris)
+  - - '0:49.0'
+    - J. Starks makes 3-pt shot from 25 ft (assist by J. Vaughn)
+    - "+3"
+    - 21-23
+    - ''
+    - ''
+  - - '0:27.3'
+    - ''
+    - ''
+    - 21-25
+    - "+2"
+    - S. Francis makes 2-pt shot from 5 ft
+  - - '0:07.1'
+    - Personal foul by M. Norris
+    - ''
+    - 21-25
+    - ''
+    - ''
+  - - '0:07.1'
+    - Q. Lewis enters the game for J. Starks
+    - ''
+    - 21-25
+    - ''
+    - ''
+  - - '0:04.0'
+    - Shooting foul by S. Anderson
+    - ''
+    - 21-25
+    - ''
+    - ''
+  - - '0:04.0'
+    - B. Russell makes free throw 1 of 2
+    - "+1"
+    - 22-25
+    - ''
+    - ''
+  - - '0:04.0'
+    - D. Manning enters the game for K. Malone
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '0:04.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - C. Mobley enters the game for K. Cato
+  - - '0:04.0'
+    - B. Russell makes free throw 2 of 2
+    - "+1"
+    - 23-25
+    - ''
+    - ''
+  - - '0:02.4'
+    - ''
+    - ''
+    - 23-27
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by S. Anderson)
+  - - '0:02.4'
+    - Violation by G. Ostertag (def goaltending)
+    - ''
+    - 23-27
+    - ''
+    - ''
+  - - '0:01.0'
+    - Turnover by D. Manning (bad pass; steal by C. Mobley)
+    - ''
+    - 23-27
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-27
+    - ''
+    - C. Mobley misses 3-pt shot from 57 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-27
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 23-27
+    - ''
+    - H. Olajuwon misses 2-pt shot at rim
+  - - '11:46.0'
+    - ''
+    - ''
+    - 23-27
+    - ''
+    - Offensive rebound by Team
+  - - '11:35.0'
+    - ''
+    - ''
+    - 23-29
+    - "+2"
+    - S. Francis makes 2-pt shot from 5 ft
+  - - '11:16.0'
+    - J. Vaughn misses 2-pt shot from 20 ft
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '11:06.0'
+    - ''
+    - ''
+    - 23-31
+    - "+2"
+    - C. Mobley makes 2-pt shot from 17 ft
+  - - '10:49.0'
+    - B. Russell misses 2-pt shot from 15 ft
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '10:42.0'
+    - ''
+    - ''
+    - 23-33
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by C. Mobley)
+  - - '10:42.0'
+    - ''
+    - ''
+    - 23-33
+    - ''
+    - Shooting foul by D. Manning
+  - - '10:42.0'
+    - ''
+    - ''
+    - 23-34
+    - "+1"
+    - K. Thomas makes free throw 1 of 1
+  - - '10:29.0'
+    - Shooting foul by C. Mobley
+    - ''
+    - 23-34
+    - ''
+    - ''
+  - - '10:29.0'
+    - D. Manning makes free throw 1 of 2
+    - "+1"
+    - 24-34
+    - ''
+    - ''
+  - - '10:29.0'
+    - D. Manning makes free throw 2 of 2
+    - "+1"
+    - 25-34
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 25-36
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim
+  - - '9:56.0'
+    - J. Vaughn misses 2-pt shot from 20 ft
+    - ''
+    - 25-36
+    - ''
+    - ''
+  - - '9:55.0'
+    - Offensive rebound by G. Ostertag
+    - ''
+    - 25-36
+    - ''
+    - ''
+  - - '9:54.0'
+    - G. Ostertag misses 2-pt shot from 8 ft
+    - ''
+    - 25-36
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - Defensive rebound by Team
+  - - '9:53.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - W. Williams enters the game for C. Mobley
+  - - '9:31.0'
+    - ''
+    - ''
+    - 25-38
+    - "+2"
+    - H. Olajuwon makes 2-pt shot from 13 ft (assist by S. Francis)
+  - - '9:14.0'
+    - Q. Lewis misses 2-pt shot from 11 ft
+    - ''
+    - 25-38
+    - ''
+    - ''
+  - - '9:12.0'
+    - Offensive rebound by G. Ostertag
+    - ''
+    - 25-38
+    - ''
+    - ''
+  - - '8:59.0'
+    - D. Manning misses 2-pt shot from 21 ft
+    - ''
+    - 25-38
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 25-38
+    - ''
+    - Defensive rebound by W. Williams
+  - - '8:53.0'
+    - ''
+    - ''
+    - 25-40
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by S. Francis)
+  - - '8:50.0'
+    - Utah full timeout
+    - ''
+    - 25-40
+    - ''
+    - ''
+  - - '8:50.0'
+    - J. Stockton enters the game for J. Vaughn
+    - ''
+    - 25-40
+    - ''
+    - ''
+  - - '8:50.0'
+    - D. Marshall enters the game for Q. Lewis
+    - ''
+    - 25-40
+    - ''
+    - ''
+  - - '8:39.0'
+    - D. Marshall makes 2-pt shot from 16 ft
+    - "+2"
+    - 27-40
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 27-43
+    - "+3"
+    - W. Williams makes 3-pt shot from 25 ft (assist by S. Francis)
+  - - '8:10.0'
+    - D. Marshall makes 2-pt shot from 21 ft (assist by G. Ostertag)
+    - "+2"
+    - 29-43
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 29-43
+    - ''
+    - Shooting foul by G. Ostertag
+  - - '7:55.0'
+    - ''
+    - ''
+    - 29-44
+    - "+1"
+    - H. Olajuwon makes free throw 1 of 2
+  - - '7:55.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - H. Olajuwon misses free throw 2 of 2
+  - - '7:55.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '7:49.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - W. Williams misses 3-pt shot from 23 ft
+  - - '7:47.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Offensive rebound by H. Olajuwon
+  - - '7:46.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Personal foul by G. Ostertag
+  - - '7:46.0'
+    - O. Polynice enters the game for G. Ostertag
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '7:46.0'
+    - K. Malone enters the game for D. Manning
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 29-46
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by H. Olajuwon)
+  - - '7:14.0'
+    - O. Polynice misses 2-pt shot from 10 ft
+    - ''
+    - 29-46
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 29-46
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '7:07.0'
+    - ''
+    - ''
+    - 29-49
+    - "+3"
+    - W. Williams makes 3-pt shot from 25 ft (assist by M. Norris)
+  - - '6:41.0'
+    - O. Polynice misses 2-pt shot from 9 ft
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:39.0'
+    - Offensive rebound by D. Marshall
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:35.0'
+    - D. Marshall misses 2-pt shot at rim (block by W. Williams)
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 29-49
+    - ''
+    - Defensive rebound by M. Norris
+  - - '6:30.0'
+    - ''
+    - ''
+    - 29-49
+    - ''
+    - W. Williams misses 3-pt shot from 25 ft
+  - - '6:28.0'
+    - Defensive rebound by B. Russell
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:20.0'
+    - Personal foul by S. Francis
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 29-49
+    - ''
+    - C. Mobley enters the game for S. Francis
+  - - '6:15.0'
+    - K. Malone misses 2-pt shot from 9 ft
+    - ''
+    - 29-49
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 29-49
+    - ''
+    - Defensive rebound by W. Williams
+  - - '6:10.0'
+    - ''
+    - ''
+    - 29-49
+    - ''
+    - Personal foul by B. Russell
+  - - '6:04.0'
+    - ''
+    - ''
+    - 29-51
+    - "+2"
+    - W. Williams makes 2-pt shot from 4 ft (assist by M. Norris)
+  - - '5:44.0'
+    - Turnover by D. Marshall (out of bounds)
+    - ''
+    - 29-51
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 29-51
+    - ''
+    - Official timeout
+  - - '5:22.0'
+    - ''
+    - ''
+    - 29-53
+    - "+2"
+    - H. Olajuwon makes 2-pt shot from 14 ft (assist by M. Norris)
+  - - '5:07.0'
+    - D. Marshall makes 2-pt shot from 21 ft (assist by J. Stockton)
+    - "+2"
+    - 31-53
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 31-56
+    - "+3"
+    - W. Williams makes 3-pt shot from 24 ft (assist by K. Thomas)
+  - - '4:30.0'
+    - O. Polynice makes 2-pt shot at rim (assist by J. Stockton)
+    - "+2"
+    - 33-56
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 33-56
+    - ''
+    - Shooting foul by J. Stockton
+  - - '4:04.0'
+    - ''
+    - ''
+    - 33-57
+    - "+1"
+    - H. Olajuwon makes free throw 1 of 2
+  - - '4:04.0'
+    - ''
+    - ''
+    - 33-58
+    - "+1"
+    - H. Olajuwon makes free throw 2 of 2
+  - - '3:56.0'
+    - D. Marshall makes 2-pt shot at rim (assist by J. Stockton)
+    - "+2"
+    - 35-58
+    - ''
+    - ''
+  - - '3:56.0'
+    - Shooting foul by H. Olajuwon
+    - ''
+    - 35-58
+    - ''
+    - ''
+  - - '3:56.0'
+    - D. Marshall misses free throw 1 of 1
+    - ''
+    - 35-58
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 35-58
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '3:44.0'
+    - ''
+    - ''
+    - 35-61
+    - "+3"
+    - K. Thomas makes 3-pt shot from 25 ft (assist by M. Norris)
+  - - '3:23.0'
+    - D. Marshall misses 2-pt shot from 17 ft
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - Defensive rebound by M. Norris
+  - - '3:15.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - C. Mobley misses 3-pt shot from 25 ft
+  - - '3:13.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '3:00.0'
+    - K. Malone misses 2-pt shot from 14 ft
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - Defensive rebound by W. Williams
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - Shooting foul by O. Polynice
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - Houston full timeout
+  - - '2:44.0'
+    - J. Crotty enters the game for K. Malone
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '2:44.0'
+    - Q. Lewis enters the game for O. Polynice
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '2:44.0'
+    - S. Padgett enters the game for J. Stockton
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '2:44.0'
+    - D. Manning enters the game for B. Russell
+    - ''
+    - 35-61
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - K. Cato enters the game for C. Mobley
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - S. Anderson enters the game for H. Olajuwon
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - W. Williams misses free throw 1 of 2
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-61
+    - ''
+    - Offensive rebound by Team
+  - - '2:44.0'
+    - ''
+    - ''
+    - 35-62
+    - "+1"
+    - W. Williams makes free throw 2 of 2
+  - - '2:24.0'
+    - J. Crotty misses 2-pt shot from 21 ft
+    - ''
+    - 35-62
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 35-62
+    - ''
+    - Defensive rebound by K. Cato
+  - - '2:20.0'
+    - ''
+    - ''
+    - 35-62
+    - ''
+    - Turnover by K. Cato (lost ball; steal by D. Marshall)
+  - - '2:17.0'
+    - D. Manning makes 2-pt shot at rim (assist by D. Marshall)
+    - "+2"
+    - 37-62
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - Personal foul by Q. Lewis
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - M. Bullard enters the game for K. Cato
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - S. Anderson misses free throw 1 of 2
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - Offensive rebound by Team
+  - - '1:58.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - S. Anderson misses free throw 2 of 2
+  - - '1:58.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 37-62
+    - ''
+    - ''
+  - - '1:42.0'
+    - Personal foul by M. Bullard
+    - ''
+    - 37-62
+    - ''
+    - ''
+  - - '1:36.0'
+    - Q. Lewis misses 2-pt shot from 17 ft
+    - ''
+    - 37-62
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - Defensive rebound by W. Williams
+  - - '1:18.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - Turnover by M. Norris (bad pass)
+  - - '1:06.0'
+    - J. Crotty misses 2-pt shot from 22 ft
+    - ''
+    - 37-62
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 37-62
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '1:00.0'
+    - ''
+    - ''
+    - 37-64
+    - "+2"
+    - M. Norris makes 2-pt shot at rim
+  - - '0:42.2'
+    - Turnover by D. Marshall (out of bounds)
+    - ''
+    - 37-64
+    - ''
+    - ''
+  - - '0:42.2'
+    - ''
+    - ''
+    - 37-64
+    - ''
+    - Houston 20 second timeout
+  - - '0:29.9'
+    - ''
+    - ''
+    - 37-64
+    - ''
+    - Turnover by S. Anderson (lost ball; steal by D. Marshall)
+  - - '0:25.5'
+    - Turnover by D. Marshall (lost ball; steal by S. Anderson)
+    - ''
+    - 37-64
+    - ''
+    - ''
+  - - '0:22.0'
+    - ''
+    - ''
+    - 37-66
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by M. Norris)
+  - - '0:00.9'
+    - D. Manning makes 2-pt shot at rim (assist by S. Padgett)
+    - "+2"
+    - 39-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 39-68
+    - "+2"
+    - S. Francis makes 2-pt shot from 6 ft
+  - - '11:29.0'
+    - O. Polynice misses 2-pt shot at rim
+    - ''
+    - 39-68
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 39-68
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '11:13.0'
+    - ''
+    - ''
+    - 39-68
+    - ''
+    - S. Francis misses 2-pt shot from 21 ft
+  - - '11:11.0'
+    - Defensive rebound by J. Starks
+    - ''
+    - 39-68
+    - ''
+    - ''
+  - - '11:02.0'
+    - K. Malone makes 2-pt shot at rim (assist by D. Marshall)
+    - "+2"
+    - 41-68
+    - ''
+    - ''
+  - - '11:02.0'
+    - Shooting foul by C. Mobley
+    - ''
+    - 41-68
+    - ''
+    - ''
+  - - '11:02.0'
+    - K. Malone makes free throw 1 of 1
+    - "+1"
+    - 42-68
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 42-70
+    - "+2"
+    - K. Thomas makes 2-pt shot from 15 ft
+  - - '10:25.0'
+    - K. Malone misses 2-pt shot from 19 ft
+    - ''
+    - 42-70
+    - ''
+    - ''
+  - - '10:23.0'
+    - Offensive rebound by D. Marshall
+    - ''
+    - 42-70
+    - ''
+    - ''
+  - - '10:21.0'
+    - D. Marshall misses 2-pt shot from 8 ft
+    - ''
+    - 42-70
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 42-70
+    - ''
+    - Defensive rebound by S. Francis
+  - - '10:13.0'
+    - ''
+    - ''
+    - 42-70
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by J. Starks)
+  - - '10:09.0'
+    - J. Stockton makes 2-pt shot at rim (assist by J. Starks)
+    - "+2"
+    - 44-70
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 44-70
+    - ''
+    - Turnover by C. Mobley (bad pass)
+  - - '9:40.0'
+    - J. Starks misses 2-pt shot from 21 ft
+    - ''
+    - 44-70
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 44-70
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '9:25.0'
+    - ''
+    - ''
+    - 44-70
+    - ''
+    - Shooting foul by O. Polynice
+  - - '9:25.0'
+    - ''
+    - ''
+    - 44-70
+    - ''
+    - K. Cato misses free throw 1 of 2
+  - - '9:25.0'
+    - ''
+    - ''
+    - 44-70
+    - ''
+    - Offensive rebound by Team
+  - - '9:25.0'
+    - ''
+    - ''
+    - 44-71
+    - "+1"
+    - K. Cato makes free throw 2 of 2
+  - - '9:04.0'
+    - O. Polynice makes 2-pt shot from 13 ft
+    - "+2"
+    - 46-71
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 46-71
+    - ''
+    - K. Thomas misses 2-pt shot at rim (block by O. Polynice)
+  - - '8:44.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 46-71
+    - ''
+    - ''
+  - - '8:39.0'
+    - D. Marshall makes 2-pt shot at rim (assist by J. Stockton)
+    - "+2"
+    - 48-71
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 48-74
+    - "+3"
+    - C. Mobley makes 3-pt shot from 23 ft (assist by S. Francis)
+  - - '8:06.0'
+    - K. Malone misses 2-pt shot from 15 ft
+    - ''
+    - 48-74
+    - ''
+    - ''
+  - - '8:03.0'
+    - Offensive rebound by D. Marshall
+    - ''
+    - 48-74
+    - ''
+    - ''
+  - - '7:59.0'
+    - Shooting foul by S. Anderson
+    - ''
+    - 48-74
+    - ''
+    - ''
+  - - '7:59.0'
+    - D. Marshall makes free throw 1 of 2
+    - "+1"
+    - 49-74
+    - ''
+    - ''
+  - - '7:59.0'
+    - D. Marshall misses free throw 2 of 2
+    - ''
+    - 49-74
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 49-74
+    - ''
+    - Defensive rebound by K. Cato
+  - - '7:40.0'
+    - ''
+    - ''
+    - 49-74
+    - ''
+    - Personal foul by J. Stockton
+  - - '7:37.0'
+    - ''
+    - ''
+    - 49-74
+    - ''
+    - Personal foul by O. Polynice
+  - - '7:28.0'
+    - ''
+    - ''
+    - 49-74
+    - ''
+    - Personal foul by J. Starks
+  - - '7:21.0'
+    - ''
+    - ''
+    - 49-77
+    - "+3"
+    - C. Mobley makes 3-pt shot from 23 ft (assist by K. Thomas)
+  - - '6:59.0'
+    - Offensive foul by J. Stockton
+    - ''
+    - 49-77
+    - ''
+    - ''
+  - - '6:59.0'
+    - Turnover by J. Stockton (foul)
+    - ''
+    - 49-77
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - Turnover by C. Mobley (bad pass; steal by O. Polynice)
+  - - '6:41.0'
+    - Turnover by D. Marshall (bad pass; steal by S. Anderson)
+    - ''
+    - 49-77
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - Shooting foul by O. Polynice
+  - - '6:36.0'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - S. Anderson misses free throw 1 of 2
+  - - '6:36.0'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - Offensive rebound by Team
+  - - '6:36.0'
+    - G. Ostertag enters the game for O. Polynice
+    - ''
+    - 49-77
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 49-77
+    - ''
+    - S. Anderson misses free throw 2 of 2
+  - - '6:36.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 49-77
+    - ''
+    - ''
+  - - '6:30.0'
+    - J. Stockton makes 2-pt shot at rim
+    - "+2"
+    - 51-77
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 51-77
+    - ''
+    - K. Thomas misses 2-pt shot from 10 ft
+  - - '6:10.0'
+    - Defensive rebound by Team
+    - ''
+    - 51-77
+    - ''
+    - ''
+  - - '6:01.0'
+    - K. Malone misses 2-pt shot at rim
+    - ''
+    - 51-77
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 51-77
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '5:52.0'
+    - ''
+    - ''
+    - 51-77
+    - ''
+    - Shooting foul by J. Starks
+  - - '5:52.0'
+    - ''
+    - ''
+    - 51-77
+    - ''
+    - Houston full timeout
+  - - '5:52.0'
+    - J. Vaughn enters the game for J. Stockton
+    - ''
+    - 51-77
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 51-78
+    - "+1"
+    - K. Cato makes free throw 1 of 2
+  - - '5:52.0'
+    - ''
+    - ''
+    - 51-79
+    - "+1"
+    - K. Cato makes free throw 2 of 2
+  - - '5:28.0'
+    - J. Starks makes 3-pt shot from 25 ft (assist by J. Vaughn)
+    - "+3"
+    - 54-79
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 54-79
+    - ''
+    - C. Mobley misses 2-pt shot from 22 ft
+  - - '5:02.0'
+    - Defensive rebound by J. Vaughn
+    - ''
+    - 54-79
+    - ''
+    - ''
+  - - '4:49.0'
+    - K. Malone misses 2-pt shot from 11 ft
+    - ''
+    - 54-79
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 54-79
+    - ''
+    - Defensive rebound by Team
+  - - '4:30.0'
+    - ''
+    - ''
+    - 54-82
+    - "+3"
+    - K. Thomas makes 3-pt shot from 25 ft (assist by S. Francis)
+  - - '4:12.0'
+    - Shooting foul by S. Francis
+    - ''
+    - 54-82
+    - ''
+    - ''
+  - - '4:12.0'
+    - K. Malone makes free throw 1 of 2
+    - "+1"
+    - 55-82
+    - ''
+    - ''
+  - - '4:12.0'
+    - K. Malone makes free throw 2 of 2
+    - "+1"
+    - 56-82
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 56-85
+    - "+3"
+    - S. Anderson makes 3-pt shot from 23 ft (assist by S. Francis)
+  - - '3:32.0'
+    - J. Starks makes 2-pt shot from 8 ft
+    - "+2"
+    - 58-85
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 58-87
+    - "+2"
+    - K. Cato makes 2-pt shot at rim (assist by S. Francis)
+  - - '3:07.0'
+    - ''
+    - ''
+    - 58-87
+    - ''
+    - Shooting foul by D. Marshall
+  - - '3:07.0'
+    - D. Manning enters the game for K. Malone
+    - ''
+    - 58-87
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 58-88
+    - "+1"
+    - K. Cato makes free throw 1 of 1
+  - - '2:51.0'
+    - J. Vaughn makes 3-pt shot from 25 ft (assist by D. Marshall)
+    - "+3"
+    - 61-88
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - S. Francis misses 3-pt shot from 23 ft
+  - - '2:24.0'
+    - Defensive rebound by J. Starks
+    - ''
+    - 61-88
+    - ''
+    - ''
+  - - '2:13.0'
+    - D. Manning misses 2-pt shot from 20 ft
+    - ''
+    - 61-88
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - Defensive rebound by Team
+  - - '2:12.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - Houston full timeout
+  - - '2:12.0'
+    - Q. Lewis enters the game for D. Marshall
+    - ''
+    - 61-88
+    - ''
+    - ''
+  - - '2:12.0'
+    - S. Padgett enters the game for J. Starks
+    - ''
+    - 61-88
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - Turnover by K. Thomas (bad pass; steal by G. Ostertag)
+  - - '1:46.0'
+    - Turnover by D. Manning (lost ball)
+    - ''
+    - 61-88
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - Offensive foul by S. Anderson
+  - - '1:27.0'
+    - ''
+    - ''
+    - 61-88
+    - ''
+    - Turnover by S. Anderson (foul)
+  - - '1:02.0'
+    - Q. Lewis makes 2-pt shot from 17 ft
+    - "+2"
+    - 63-88
+    - ''
+    - ''
+  - - '0:44.1'
+    - ''
+    - ''
+    - 63-88
+    - ''
+    - Shooting foul by Q. Lewis
+  - - '0:44.1'
+    - ''
+    - ''
+    - 63-89
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '0:44.1'
+    - ''
+    - ''
+    - 63-90
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '0:22.1'
+    - J. Vaughn makes 2-pt shot from 20 ft (assist by S. Padgett)
+    - "+2"
+    - 65-90
+    - ''
+    - ''
+  - - '0:02.5'
+    - ''
+    - ''
+    - 65-92
+    - "+2"
+    - S. Anderson makes 2-pt shot from 6 ft (assist by S. Francis)
+  - - '0:00.0'
+    - G. Ostertag misses 2-pt shot from 8 ft (block by K. Cato)
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - S. Padgett misses 2-pt shot from 20 ft
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 65-92
+    - ''
+    - Defensive rebound by S. Francis
+  - - '11:30.0'
+    - ''
+    - ''
+    - 65-92
+    - ''
+    - H. Olajuwon misses 2-pt shot from 21 ft
+  - - '11:28.0'
+    - Defensive rebound by D. Manning
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '11:17.0'
+    - Turnover by D. Manning (lost ball; steal by S. Francis)
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 65-92
+    - ''
+    - Personal foul by D. Manning
+  - - '10:58.0'
+    - ''
+    - ''
+    - 65-92
+    - ''
+    - S. Francis misses 2-pt shot from 15 ft
+  - - '10:56.0'
+    - Defensive rebound by S. Padgett
+    - ''
+    - 65-92
+    - ''
+    - ''
+  - - '10:50.0'
+    - D. Manning makes 2-pt shot at rim (assist by J. Vaughn)
+    - "+2"
+    - 67-92
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - Personal foul by D. Manning
+  - - '10:26.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - C. Mobley misses 2-pt shot from 22 ft
+  - - '10:24.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 67-92
+    - ''
+    - ''
+  - - '10:08.0'
+    - D. Manning misses 2-pt shot from 8 ft
+    - ''
+    - 67-92
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '9:58.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - S. Anderson misses 3-pt shot from 23 ft
+  - - '9:56.0'
+    - Defensive rebound by Team
+    - ''
+    - 67-92
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - M. Norris enters the game for S. Anderson
+  - - '9:37.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - W. Williams enters the game for C. Mobley
+  - - '9:37.0'
+    - J. Crotty enters the game for D. Manning
+    - ''
+    - 67-92
+    - ''
+    - ''
+  - - '9:34.0'
+    - J. Vaughn makes 3-pt shot from 26 ft (assist by Q. Lewis)
+    - "+3"
+    - 70-92
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 70-94
+    - "+2"
+    - H. Olajuwon makes 2-pt shot at rim (assist by W. Williams)
+  - - '9:08.0'
+    - Q. Lewis makes 2-pt shot from 21 ft (assist by J. Vaughn)
+    - "+2"
+    - 72-94
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - Personal foul by G. Ostertag
+  - - '8:52.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - Houston full timeout
+  - - '8:33.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - Personal foul by S. Padgett
+  - - '8:15.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - H. Olajuwon misses 2-pt shot from 15 ft
+  - - '8:13.0'
+    - Defensive rebound by S. Padgett
+    - ''
+    - 72-94
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - Violation by Team (illegal defense)
+  - - '7:55.0'
+    - ''
+    - ''
+    - 72-94
+    - ''
+    - M. Bullard enters the game for K. Thomas
+  - - '7:50.0'
+    - J. Crotty makes 2-pt shot from 12 ft (assist by J. Vaughn)
+    - "+2"
+    - 74-94
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 74-96
+    - "+2"
+    - S. Francis makes 2-pt shot from 15 ft
+  - - '7:08.0'
+    - G. Ostertag misses 2-pt shot from 7 ft
+    - ''
+    - 74-96
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 74-96
+    - ''
+    - Defensive rebound by Team
+  - - '7:08.0'
+    - ''
+    - ''
+    - 74-96
+    - ''
+    - Loose ball foul by J. Crotty
+  - - '7:08.0'
+    - ''
+    - ''
+    - 74-97
+    - "+1"
+    - S. Francis makes free throw 1 of 2
+  - - '7:08.0'
+    - ''
+    - ''
+    - 74-98
+    - "+1"
+    - S. Francis makes free throw 2 of 2
+  - - '6:48.0'
+    - Personal foul by M. Norris
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 74-98
+    - ''
+    - D. Langhi enters the game for S. Francis
+  - - '6:43.0'
+    - J. Crotty misses 2-pt shot from 21 ft
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by S. Padgett
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:31.0'
+    - Shooting foul by M. Norris
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:31.0'
+    - J. Vaughn misses free throw 1 of 2
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:31.0'
+    - J. Vaughn misses free throw 2 of 2
+    - ''
+    - 74-98
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 74-98
+    - ''
+    - Defensive rebound by Team
+  - - '6:31.0'
+    - ''
+    - ''
+    - 74-98
+    - ''
+    - Loose ball foul by G. Ostertag
+  - - '6:31.0'
+    - ''
+    - ''
+    - 74-99
+    - "+1"
+    - W. Williams makes free throw 1 of 2
+  - - '6:31.0'
+    - ''
+    - ''
+    - 74-99
+    - ''
+    - W. Williams misses free throw 2 of 2
+  - - '6:31.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 74-99
+    - ''
+    - ''
+  - - '6:09.0'
+    - Q. Lewis makes 2-pt shot from 13 ft
+    - "+2"
+    - 76-99
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 76-99
+    - ''
+    - Personal foul by Q. Lewis
+  - - '5:42.0'
+    - ''
+    - ''
+    - 76-99
+    - ''
+    - Houston full timeout
+  - - '5:42.0'
+    - ''
+    - ''
+    - 76-100
+    - "+1"
+    - W. Williams makes free throw 1 of 2
+  - - '5:42.0'
+    - ''
+    - ''
+    - 76-101
+    - "+1"
+    - W. Williams makes free throw 2 of 2
+  - - '5:30.0'
+    - Q. Lewis misses 2-pt shot from 16 ft
+    - ''
+    - 76-101
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 76-101
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '5:12.0'
+    - ''
+    - ''
+    - 76-101
+    - ''
+    - D. Langhi misses 2-pt shot from 13 ft
+  - - '5:10.0'
+    - Defensive rebound by J. Vaughn
+    - ''
+    - 76-101
+    - ''
+    - ''
+  - - '5:03.0'
+    - J. Vaughn misses 2-pt shot at rim
+    - ''
+    - 76-101
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 76-101
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '4:46.0'
+    - ''
+    - ''
+    - 76-104
+    - "+3"
+    - M. Bullard makes 3-pt shot from 25 ft
+  - - '4:25.0'
+    - Q. Lewis misses 2-pt shot from 20 ft
+    - ''
+    - 76-104
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 76-104
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '4:14.0'
+    - ''
+    - ''
+    - 76-104
+    - ''
+    - W. Williams misses 3-pt shot from 23 ft
+  - - '4:13.0'
+    - Defensive rebound by J. Crotty
+    - ''
+    - 76-104
+    - ''
+    - ''
+  - - '4:13.0'
+    - Personal foul by H. Olajuwon
+    - ''
+    - 76-104
+    - ''
+    - ''
+  - - '4:00.0'
+    - Turnover by G. Ostertag (lost ball; steal by D. Langhi)
+    - ''
+    - 76-104
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 76-104
+    - ''
+    - Personal foul by S. Padgett
+  - - '3:58.0'
+    - ''
+    - ''
+    - 76-105
+    - "+1"
+    - D. Langhi makes free throw 1 of 2
+  - - '3:58.0'
+    - ''
+    - ''
+    - 76-106
+    - "+1"
+    - D. Langhi makes free throw 2 of 2
+  - - '3:41.0'
+    - Shooting foul by M. Bullard
+    - ''
+    - 76-106
+    - ''
+    - ''
+  - - '3:41.0'
+    - S. Padgett makes free throw 1 of 2
+    - "+1"
+    - 77-106
+    - ''
+    - ''
+  - - '3:41.0'
+    - S. Padgett makes free throw 2 of 2
+    - "+1"
+    - 78-106
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 78-106
+    - ''
+    - Turnover by M. Norris (bad pass; steal by J. Vaughn)
+  - - '3:22.0'
+    - S. Padgett misses 2-pt shot from 18 ft
+    - ''
+    - 78-106
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 78-106
+    - ''
+    - Defensive rebound by H. Olajuwon
+  - - '3:14.0'
+    - ''
+    - ''
+    - 78-106
+    - ''
+    - Turnover by H. Olajuwon (lost ball; steal by J. Vaughn)
+  - - '3:11.0'
+    - J. Vaughn makes 2-pt shot at rim
+    - "+2"
+    - 80-106
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 80-106
+    - ''
+    - M. Bullard misses 2-pt shot from 20 ft
+  - - '2:45.0'
+    - ''
+    - ''
+    - 80-106
+    - ''
+    - Offensive rebound by Team
+  - - '2:45.0'
+    - ''
+    - ''
+    - 80-106
+    - ''
+    - Turnover by Team (shot clock)
+  - - '2:45.0'
+    - Utah full timeout
+    - ''
+    - 80-106
+    - ''
+    - ''
+  - - '2:45.0'
+    - O. Polynice enters the game for G. Ostertag
+    - ''
+    - 80-106
+    - ''
+    - ''
+  - - '2:30.0'
+    - J. Crotty misses 3-pt shot from 24 ft
+    - ''
+    - 80-106
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 80-106
+    - ''
+    - Defensive rebound by D. Langhi
+  - - '2:13.0'
+    - ''
+    - ''
+    - 80-106
+    - ''
+    - Shooting foul by O. Polynice
+  - - '2:13.0'
+    - ''
+    - ''
+    - 80-107
+    - "+1"
+    - H. Olajuwon makes free throw 1 of 2
+  - - '2:13.0'
+    - ''
+    - ''
+    - 80-108
+    - "+1"
+    - H. Olajuwon makes free throw 2 of 2
+  - - '1:56.0'
+    - J. Vaughn misses 2-pt shot from 20 ft
+    - ''
+    - 80-108
+    - ''
+    - ''
+  - - '1:54.0'
+    - Offensive rebound by Q. Lewis
+    - ''
+    - 80-108
+    - ''
+    - ''
+  - - '1:42.0'
+    - J. Vaughn misses 2-pt shot at rim
+    - ''
+    - 80-108
+    - ''
+    - ''
+  - - '1:41.0'
+    - O. Polynice makes 2-pt shot at rim
+    - "+2"
+    - 82-108
+    - ''
+    - ''
+  - - '1:41.0'
+    - Offensive rebound by O. Polynice
+    - ''
+    - 82-108
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 82-108
+    - ''
+    - H. Olajuwon misses 2-pt shot from 18 ft
+  - - '1:16.0'
+    - Defensive rebound by J. Crotty
+    - ''
+    - 82-108
+    - ''
+    - ''
+  - - '1:11.0'
+    - Q. Lewis makes 2-pt shot at rim (assist by J. Crotty)
+    - "+2"
+    - 84-108
+    - ''
+    - ''
+  - - '0:54.3'
+    - ''
+    - ''
+    - 84-108
+    - ''
+    - Personal foul by O. Polynice
+  - - '0:54.3'
+    - G. Ostertag enters the game for O. Polynice
+    - ''
+    - 84-108
+    - ''
+    - ''
+  - - '0:54.3'
+    - ''
+    - ''
+    - 84-108
+    - ''
+    - D. Langhi misses free throw 1 of 2
+  - - '0:54.3'
+    - ''
+    - ''
+    - 84-108
+    - ''
+    - Offensive rebound by Team
+  - - '0:54.3'
+    - ''
+    - ''
+    - 84-109
+    - "+1"
+    - D. Langhi makes free throw 2 of 2
+  - - '0:41.7'
+    - S. Padgett makes 2-pt shot at rim
+    - "+2"
+    - 86-109
+    - ''
+    - ''
+  - - '0:23.1'
+    - ''
+    - ''
+    - 86-109
+    - ''
+    - H. Olajuwon misses 2-pt shot from 15 ft
+  - - '0:20.9'
+    - Defensive rebound by Q. Lewis
+    - ''
+    - 86-109
+    - ''
+    - ''
+  - - '0:12.2'
+    - J. Vaughn misses 3-pt shot from 25 ft
+    - ''
+    - 86-109
+    - ''
+    - ''
+  - - '0:10.6'
+    - ''
+    - ''
+    - 86-109
+    - ''
+    - Defensive rebound by W. Williams
+  - - '0:00.0'
+    - End of 4th quarter

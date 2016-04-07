@@ -1,0 +1,222 @@
+---
+- name: Plus-Minus
+  data:
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: +22&#9642;Off: -11&#9642;Net: +33)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 23/+1
+    - 99/
+    - 128/-4
+    - 249/+21
+    - 225/+18
+    - 24/
+    - 'Vlade Divac (On: +6&#9642;Off: +5&#9642;Net: +1)'
+    - |2-
+
+      -15
+    - 179/-15
+    - 119/
+    - 69/-1
+    - 132/
+    - 247/+22
+    - 252/
+    - 'Peja Stojakovic (On: -18&#9642;Off: +29&#9642;Net: -47)'
+    - |2-
+
+      -11
+    - 132/-11
+    - 146/
+    - 90/-7
+    - 632/
+    - 'Chris Webber (On: +16&#9642;Off: -5&#9642;Net: +21)'
+    - |2-
+
+      -14
+    - 249/-14
+    - 44/-5
+    - 77/
+    - 128/-4
+    - 249/+21
+    - 225/+18
+    - 25/
+    - 'Jason Williams (On: -6&#9642;Off: +17&#9642;Net: -23)'
+    - |2-
+
+      -15
+    - 179/-15
+    - 70/
+    - 167/-12
+    - 82/
+    - 250/+21
+    - 250/
+    - 'Hedo Turkoglu (On: +34&#9642;Off: -23&#9642;Net: +57)'
+    - "\n"
+    - 136/
+    - 114/-3
+    - 171/
+    - 79/+2
+    - 250/+21
+    - 248/+14
+    - 'Bobby Jackson (On: +5&#9642;Off: +6&#9642;Net: -1)'
+    - "\n"
+    - 186/
+    - 63/+1
+    - 250/-10
+    - 250/
+    - 250/+14
+    - 'Scot Pollard (On: +13&#9642;Off: -2&#9642;Net: +15)'
+    - "\n"
+    - 186/
+    - 63/+1
+    - 44/-5
+    - 454/
+    - 1/-1
+    - 225/+18
+    - 24/
+    - 'Lawrence Funderburke (On: -5&#9642;Off: +16&#9642;Net: -21)'
+    - "\n"
+    - 299/
+    - 202/-5
+    - 500/
+    - 'Art Long (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - "\n"
+    - 984/
+    - 18/-4
+    - 'Darrick Martin (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - "\n"
+    - 984/
+    - 18/-4
+    - 'Jabari Smith (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - "\n"
+    - 984/
+    - 18/-4
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: +12&#9642;Off: -23&#9642;Net: +35)'
+    - |2-
+
+      +14
+    - 159/+14
+    - 90/
+    - 138/+8
+    - 69/
+    - 42/-2
+    - 62/-8
+    - 437/
+    - 'Jason Kidd (On: -19&#9642;Off: +8&#9642;Net: -27)'
+    - |2-
+
+      +14
+    - 246/+14
+    - 102/
+    - 150/+6
+    - 250/-21
+    - 204/-18
+    - 46/
+    - 'Shawn Marion (On: -15&#9642;Off: +4&#9642;Net: -19)'
+    - |2-
+
+      +14
+    - 249/+14
+    - 99/
+    - 150/+6
+    - 249/-21
+    - 155/-13
+    - 26/
+    - 52/-1
+    - 16/
+    - 'Clifford Robinson (On: +1&#9642;Off: -12&#9642;Net: +13)'
+    - |2-
+
+      +14
+    - 159/+14
+    - 107/
+    - 121/+8
+    - 110/
+    - 61/-8
+    - 128/
+    - 59/-10
+    - 35/-2
+    - 124/
+    - 90/-1
+    - 'Jake Tsakalidis (On: +7&#9642;Off: -18&#9642;Net: +25)'
+    - |2-
+
+      +13
+    - 199/+13
+    - 221/
+    - 31/0
+    - 47/
+    - 48/-6
+    - 452/
+    - 'Tony Delk (On: -13&#9642;Off: +2&#9642;Net: -15)'
+    - "\n"
+    - 164/
+    - 84/0
+    - 96/+4
+    - 47/
+    - 106/+2
+    - 65/
+    - 184/-13
+    - 75/-8
+    - 161/
+    - 12/+2
+    - 'Tom Gugliotta (On: -14&#9642;Off: +3&#9642;Net: -17)'
+    - "\n"
+    - 164/
+    - 84/0
+    - 11/0
+    - 132/
+    - 23/+4
+    - 137/
+    - 130/-5
+    - 104/
+    - 133/-13
+    - 76/
+    - 'Rodney Rogers (On: -20&#9642;Off: +9&#9642;Net: -29)'
+    - "\n"
+    - 204/
+    - 46/+1
+    - 249/+10
+    - 65/
+    - 184/-13
+    - 204/-18
+    - 45/
+    - 'Vinny Del Negro (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - "\n"
+    - 247/
+    - 3/0
+    - 96/+4
+    - 484/
+    - 169/-6
+    - 'Elliot Perry (On: +4&#9642;Off: -15&#9642;Net: +19)'
+    - "\n"
+    - 957/
+    - 45/+4
+    - 'Daniel Santiago (On: +4&#9642;Off: -15&#9642;Net: +19)'
+    - "\n"
+    - 957/
+    - 45/+4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

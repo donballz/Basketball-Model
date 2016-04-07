@@ -1,0 +1,2582 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: C. Booth vs. T. Ratliff (A. McKie gains possession)'
+  - - '11:42.0'
+    - T. Ratliff misses 2-pt shot from 14 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:40.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by F. Lopez
+  - - '11:29.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Whitney misses 3-pt shot from 24 ft
+  - - '11:27.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by C. Whitney
+  - - '11:11.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - T. Nesby misses 2-pt shot from 1 ft
+  - - '11:08.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:51.0'
+    - A. McKie misses 3-pt shot from 26 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by J. Howard
+  - - '10:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - F. Lopez misses 2-pt shot from 6 ft (block by T. Ratliff)
+  - - '10:40.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:33.0'
+    - T. Ratliff makes 2-pt shot from 17 ft (assist by A. McKie)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - C. Whitney misses 3-pt shot from 24 ft
+  - - '10:04.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:47.0'
+    - T. Ratliff misses 2-pt shot from 12 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:45.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by J. Howard
+  - - '9:22.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - T. Nesby misses 3-pt shot from 26 ft
+  - - '9:21.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Offensive rebound by Team
+  - - '9:21.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:08.0'
+    - G. Lynch misses 2-pt shot from 18 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by F. Lopez
+  - - '9:01.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - J. Howard makes 2-pt shot from 1 ft (assist by F. Lopez)
+  - - '8:42.0'
+    - A. Iverson misses 3-pt shot from 25 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '8:40.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '8:37.0'
+    - T. Hill makes 2-pt shot at rim
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '8:19.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - C. Whitney makes 2-pt shot from 1 ft (assist by C. Booth)
+  - - '7:59.0'
+    - Offensive foul by T. Ratliff
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '7:59.0'
+    - Turnover by T. Ratliff (foul)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Turnover by T. Nesby (bad pass; steal by A. Iverson)
+  - - '7:37.0'
+    - A. Iverson makes 2-pt shot from 1 ft
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - T. Nesby misses 3-pt shot from 26 ft
+  - - '7:12.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '7:05.0'
+    - A. Iverson misses 2-pt shot from 11 ft
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Defensive rebound by C. Booth
+  - - '7:03.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Turnover by C. Booth (off goaltending)
+  - - '6:38.0'
+    - T. Ratliff makes 2-pt shot from 6 ft
+    - "+2"
+    - 8-4
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 8-4
+    - ''
+    - C. Booth misses 2-pt shot from 10 ft
+  - - '6:25.0'
+    - ''
+    - ''
+    - 8-4
+    - ''
+    - Offensive rebound by J. Howard
+  - - '6:24.0'
+    - ''
+    - ''
+    - 8-6
+    - "+2"
+    - J. Howard makes 2-pt shot from 1 ft
+  - - '6:10.0'
+    - A. Iverson makes 2-pt shot from 3 ft
+    - "+2"
+    - 10-6
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 10-8
+    - "+2"
+    - F. Lopez makes 2-pt shot from 17 ft (assist by T. Nesby)
+  - - '5:42.0'
+    - A. McKie misses 3-pt shot from 26 ft
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '5:40.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '5:38.0'
+    - T. Hill makes 2-pt shot from 6 ft
+    - "+2"
+    - 12-8
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 12-8
+    - ''
+    - J. Howard misses 2-pt shot from 15 ft
+  - - '5:25.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 12-8
+    - ''
+    - ''
+  - - '5:22.0'
+    - A. McKie makes 2-pt shot from 2 ft
+    - "+2"
+    - 14-8
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - F. Lopez misses 2-pt shot from 20 ft
+  - - '4:58.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 14-8
+    - ''
+    - ''
+  - - '4:45.0'
+    - A. Iverson misses 2-pt shot from 5 ft
+    - ''
+    - 14-8
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Defensive rebound by J. Howard
+  - - '4:35.0'
+    - ''
+    - ''
+    - 14-11
+    - "+3"
+    - C. Whitney makes 3-pt shot from 26 ft
+  - - '4:17.0'
+    - A. Iverson misses 2-pt shot from 3 ft (block by C. Booth)
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:15.0'
+    - Philadelphia full timeout
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 14-11
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '4:15.0'
+    - ''
+    - ''
+    - 14-11
+    - ''
+    - G. King enters the game for C. Whitney
+  - - '4:12.0'
+    - Shooting foul by G. King
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:12.0'
+    - A. Iverson misses free throw 1 of 2
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 14-11
+    - ''
+    - ''
+  - - '4:12.0'
+    - A. Iverson makes free throw 2 of 2
+    - "+1"
+    - 15-11
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 15-11
+    - ''
+    - C. Booth misses 2-pt shot from 5 ft (block by T. Ratliff)
+  - - '3:51.0'
+    - Defensive rebound by T. Ratliff
+    - ''
+    - 15-11
+    - ''
+    - ''
+  - - '3:43.0'
+    - G. Lynch misses 2-pt shot from 17 ft
+    - ''
+    - 15-11
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 15-11
+    - ''
+    - Defensive rebound by J. Howard
+  - - '3:34.0'
+    - ''
+    - ''
+    - 15-11
+    - ''
+    - R. Hamilton misses 2-pt shot from 21 ft
+  - - '3:32.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 15-11
+    - ''
+    - ''
+  - - '3:25.0'
+    - Turnover by A. Iverson (lost ball; steal by R. Hamilton)
+    - ''
+    - 15-11
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 15-13
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 2 ft
+  - - '2:58.0'
+    - Personal foul by C. Booth
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:58.0'
+    - T. Kukoc enters the game for T. Hill
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:58.0'
+    - Philadelphia full timeout
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:53.0'
+    - Turnover by T. Ratliff (lost ball; steal by J. Howard)
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - Offensive foul by J. Howard
+  - - '2:39.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - Turnover by J. Howard (foul)
+  - - '2:22.0'
+    - Turnover by A. Iverson (bad pass; steal by T. Nesby)
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 15-13
+    - ''
+    - Personal foul by G. Lynch
+  - - '2:04.0'
+    - ''
+    - ''
+    - 15-15
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 23 ft (assist by J. Howard)
+  - - '1:46.0'
+    - G. Lynch misses 2-pt shot from 5 ft (block by G. King)
+    - ''
+    - 15-15
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 15-15
+    - ''
+    - Defensive rebound by Team
+  - - '1:44.0'
+    - ''
+    - ''
+    - 15-15
+    - ''
+    - C. Booth misses 2-pt shot from 20 ft
+  - - '1:26.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 15-15
+    - ''
+    - ''
+  - - '1:13.0'
+    - G. Lynch makes 2-pt shot from 21 ft (assist by T. Kukoc)
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '0:57.9'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - Turnover by C. Booth (bad pass; steal by A. Iverson)
+  - - '0:55.0'
+    - A. Iverson makes 2-pt shot at rim
+    - "+2"
+    - 19-15
+    - ''
+    - ''
+  - - '0:32.9'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - T. Nesby misses 2-pt shot from 21 ft
+  - - '0:30.8'
+    - Defensive rebound by Team
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:30.8'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - O. Ekezie enters the game for C. Booth
+  - - '0:08.7'
+    - Personal foul by R. Hamilton
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:01.9'
+    - A. Iverson misses 2-pt shot from 21 ft
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Defensive rebound by J. Howard
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '12:00.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Turnover by Team (5 second)
+  - - '11:48.0'
+    - Shooting foul by O. Ekezie
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '11:48.0'
+    - T. Ratliff misses free throw 1 of 2
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '11:48.0'
+    - Offensive rebound by Team
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '11:48.0'
+    - T. Ratliff makes free throw 2 of 2
+    - "+1"
+    - 20-15
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - G. King misses 2-pt shot from 17 ft
+  - - '11:30.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 20-15
+    - ''
+    - ''
+  - - '11:16.0'
+    - T. Kukoc misses 3-pt shot from 23 ft
+    - ''
+    - 20-15
+    - ''
+    - ''
+  - - '11:15.0'
+    - Offensive rebound by T. Ratliff
+    - ''
+    - 20-15
+    - ''
+    - ''
+  - - '11:10.0'
+    - A. Iverson makes 2-pt shot from 14 ft
+    - "+2"
+    - 22-15
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 22-17
+    - "+2"
+    - F. Lopez makes 2-pt shot at rim (assist by O. Ekezie)
+  - - '10:31.0'
+    - Shooting foul by O. Ekezie
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '10:31.0'
+    - T. Hill misses free throw 1 of 2
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '10:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '10:31.0'
+    - T. Hill makes free throw 2 of 2
+    - "+1"
+    - 23-17
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '10:17.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '10:08.0'
+    - T. Hill misses 2-pt shot from 15 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Defensive rebound by M. Smith
+  - - '9:58.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Personal foul by T. Hill
+  - - '9:58.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - C. Whitney enters the game for F. Lopez
+  - - '9:54.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '9:52.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Offensive rebound by O. Ekezie
+  - - '9:50.0'
+    - ''
+    - ''
+    - 23-19
+    - "+2"
+    - O. Ekezie makes 2-pt shot from 1 ft
+  - - '9:31.0'
+    - T. Ratliff makes 2-pt shot from 11 ft
+    - "+2"
+    - 25-19
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - C. Whitney misses 2-pt shot from 19 ft
+  - - '9:19.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '9:16.0'
+    - K. Ollie misses 2-pt shot from 16 ft
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Defensive rebound by C. Whitney
+  - - '9:09.0'
+    - ''
+    - ''
+    - 25-21
+    - "+2"
+    - G. King makes 2-pt shot at rim (assist by C. Whitney)
+  - - '8:49.0'
+    - Personal foul by M. Smith
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '8:49.0'
+    - Official timeout
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '8:49.0'
+    - T. MacCulloch enters the game for T. Ratliff
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '8:49.0'
+    - T. Hill makes free throw 1 of 2
+    - "+1"
+    - 26-21
+    - ''
+    - ''
+  - - '8:49.0'
+    - T. Hill makes free throw 2 of 2
+    - "+1"
+    - 27-21
+    - ''
+    - ''
+  - - '8:49.0'
+    - A. McKie enters the game for A. Iverson
+    - ''
+    - 27-21
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 27-21
+    - ''
+    - Personal foul by T. Kukoc
+  - - '8:25.0'
+    - ''
+    - ''
+    - 27-23
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 9 ft
+  - - '8:09.0'
+    - ''
+    - ''
+    - 27-23
+    - ''
+    - Violation by Team (illegal defense)
+  - - '8:03.0'
+    - Offensive foul by A. McKie
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '8:03.0'
+    - Turnover by A. McKie (foul)
+    - ''
+    - 27-23
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 27-25
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 18 ft (assist by G. King)
+  - - '7:27.0'
+    - K. Ollie makes 2-pt shot from 15 ft (assist by A. McKie)
+    - "+2"
+    - 29-25
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 29-27
+    - "+2"
+    - O. Ekezie makes 2-pt shot from 6 ft (assist by C. Whitney)
+  - - '6:38.0'
+    - T. MacCulloch makes 2-pt shot from 3 ft (assist by A. McKie)
+    - "+2"
+    - 31-27
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - C. Whitney misses 3-pt shot from 22 ft
+  - - '6:11.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '6:08.0'
+    - A. McKie makes 2-pt shot from 1 ft (assist by K. Ollie)
+    - "+2"
+    - 33-27
+    - ''
+    - ''
+  - - '6:08.0'
+    - Shooting foul by G. King
+    - ''
+    - 33-27
+    - ''
+    - ''
+  - - '6:08.0'
+    - G. Lynch enters the game for T. Kukoc
+    - ''
+    - 33-27
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 33-27
+    - ''
+    - J. Howard enters the game for O. Ekezie
+  - - '6:08.0'
+    - A. McKie makes free throw 1 of 1
+    - "+1"
+    - 34-27
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Offensive foul by J. Howard
+  - - '5:48.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Turnover by J. Howard (foul)
+  - - '5:48.0'
+    - Philadelphia full timeout
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '5:48.0'
+    - A. Iverson enters the game for K. Ollie
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - P. Jones enters the game for G. King
+  - - '5:48.0'
+    - T. Ratliff enters the game for T. MacCulloch
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '5:32.0'
+    - T. Ratliff misses 2-pt shot from 15 ft
+    - ''
+    - 34-27
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '5:24.0'
+    - ''
+    - ''
+    - 34-29
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 17 ft
+  - - '5:05.0'
+    - A. Iverson misses 2-pt shot from 8 ft
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 34-29
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '4:54.0'
+    - ''
+    - ''
+    - 34-29
+    - ''
+    - J. Howard misses 2-pt shot from 8 ft
+  - - '4:51.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:49.0'
+    - Turnover by G. Lynch (lost ball)
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 34-29
+    - ''
+    - Personal foul by T. Hill
+  - - '4:16.0'
+    - ''
+    - ''
+    - 34-29
+    - ''
+    - J. Howard misses 2-pt shot from 11 ft
+  - - '4:15.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:15.0'
+    - Personal foul by P. Jones
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:15.0'
+    - G. Lynch misses free throw 1 of 2
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:15.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-29
+    - ''
+    - ''
+  - - '4:15.0'
+    - G. Lynch makes free throw 2 of 2
+    - "+1"
+    - 35-29
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 35-31
+    - "+2"
+    - C. Whitney makes 2-pt shot at rim
+  - - '3:47.0'
+    - T. Ratliff makes 2-pt shot from 1 ft (assist by G. Lynch)
+    - "+2"
+    - 37-31
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 37-31
+    - ''
+    - J. Howard misses 2-pt shot from 2 ft
+  - - '3:32.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 37-31
+    - ''
+    - ''
+  - - '3:19.0'
+    - A. Iverson misses 2-pt shot from 7 ft (block by P. Jones)
+    - ''
+    - 37-31
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 37-31
+    - ''
+    - Defensive rebound by P. Jones
+  - - '3:13.0'
+    - ''
+    - ''
+    - 37-31
+    - ''
+    - R. Hamilton misses 2-pt shot from 2 ft
+  - - '3:12.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 37-31
+    - ''
+    - ''
+  - - '3:08.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 37-31
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 37-31
+    - ''
+    - C. Booth enters the game for M. Smith
+  - - '3:08.0'
+    - A. Iverson makes free throw 1 of 2
+    - "+1"
+    - 38-31
+    - ''
+    - ''
+  - - '3:08.0'
+    - T. Kukoc enters the game for T. Hill
+    - ''
+    - 38-31
+    - ''
+    - ''
+  - - '3:08.0'
+    - A. Iverson makes free throw 2 of 2
+    - "+1"
+    - 39-31
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - R. Hamilton misses 2-pt shot from 14 ft
+  - - '2:56.0'
+    - Defensive rebound by T. Ratliff
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:39.0'
+    - G. Lynch misses 2-pt shot from 4 ft
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:38.0'
+    - Offensive rebound by G. Lynch
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:37.0'
+    - G. Lynch misses 2-pt shot from 2 ft
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:36.0'
+    - Offensive rebound by T. Kukoc
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:30.0'
+    - A. McKie misses 2-pt shot from 4 ft (block by C. Booth)
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:28.0'
+    - Offensive rebound by T. Ratliff
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:21.0'
+    - A. McKie misses 3-pt shot from 24 ft
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:19.0'
+    - Offensive rebound by G. Lynch
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:17.0'
+    - Philadelphia full timeout
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - F. Lopez enters the game for R. Hamilton
+  - - '2:17.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - T. Nesby enters the game for P. Jones
+  - - '2:16.0'
+    - Turnover by A. McKie (bad pass; steal by C. Booth)
+    - ''
+    - 39-31
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - T. Nesby misses 2-pt shot from 18 ft
+  - - '1:52.0'
+    - ''
+    - ''
+    - 39-31
+    - ''
+    - Offensive rebound by F. Lopez
+  - - '1:50.0'
+    - ''
+    - ''
+    - 39-33
+    - "+2"
+    - F. Lopez makes 2-pt shot from 3 ft
+  - - '1:33.0'
+    - T. Ratliff makes 2-pt shot from 16 ft (assist by T. Kukoc)
+    - "+2"
+    - 41-33
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 41-33
+    - ''
+    - T. Nesby misses 3-pt shot from 28 ft
+  - - '1:08.0'
+    - ''
+    - ''
+    - 41-33
+    - ''
+    - Offensive rebound by C. Booth
+  - - '1:06.0'
+    - ''
+    - ''
+    - 41-35
+    - "+2"
+    - C. Booth makes 2-pt shot from 1 ft
+  - - '0:49.9'
+    - G. Lynch misses 2-pt shot from 6 ft (block by C. Booth)
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '0:47.5'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - Defensive rebound by C. Whitney
+  - - '0:47.5'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - Personal foul by T. Ratliff
+  - - '0:47.5'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - G. King enters the game for J. Howard
+  - - '0:47.5'
+    - T. MacCulloch enters the game for T. Ratliff
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 41-38
+    - "+3"
+    - C. Whitney makes 3-pt shot from 27 ft
+  - - '0:28.9'
+    - Turnover by T. MacCulloch (lost ball; steal by F. Lopez)
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '0:06.9'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Turnover by C. Whitney (bad pass; steal by T. Kukoc)
+  - - '0:04.5'
+    - T. Kukoc makes 2-pt shot at rim
+    - "+2"
+    - 43-38
+    - ''
+    - ''
+  - - '0:01.1'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Turnover by T. Nesby (bad pass)
+  - - '0:01.1'
+    - Philadelphia 20 second timeout
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '0:01.1'
+    - K. Ollie enters the game for T. MacCulloch
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '0:00.3'
+    - Turnover by T. Kukoc (bad pass; steal by F. Lopez)
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:38.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Personal foul by A. Iverson
+  - - '11:29.0'
+    - ''
+    - ''
+    - 43-40
+    - "+2"
+    - T. Nesby makes 2-pt shot from 19 ft (assist by J. Howard)
+  - - '11:13.0'
+    - T. Hill makes 2-pt shot from 14 ft (assist by G. Lynch)
+    - "+2"
+    - 45-40
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 45-40
+    - ''
+    - T. Nesby misses 2-pt shot from 6 ft
+  - - '10:57.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '10:57.0'
+    - Personal foul by C. Booth
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '10:41.0'
+    - A. McKie misses 2-pt shot from 1 ft
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '10:39.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 45-40
+    - ''
+    - ''
+  - - '10:36.0'
+    - A. McKie makes 2-pt shot from 14 ft
+    - "+2"
+    - 47-40
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - Turnover by J. Howard (lost ball; steal by A. McKie)
+  - - '10:08.0'
+    - A. Iverson misses 2-pt shot from 1 ft
+    - ''
+    - 47-40
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - Defensive rebound by Team
+  - - '10:08.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - Loose ball foul by T. Ratliff
+  - - '9:52.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - Personal foul by T. Hill
+  - - '9:48.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - F. Lopez misses 2-pt shot from 2 ft (block by T. Ratliff)
+  - - '9:45.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 47-40
+    - ''
+    - ''
+  - - '9:40.0'
+    - A. McKie misses 2-pt shot from 2 ft
+    - ''
+    - 47-40
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - Defensive rebound by F. Lopez
+  - - '9:35.0'
+    - ''
+    - ''
+    - 47-40
+    - ''
+    - T. Nesby misses 2-pt shot from 2 ft
+  - - '9:34.0'
+    - Defensive rebound by T. Ratliff
+    - ''
+    - 47-40
+    - ''
+    - ''
+  - - '9:24.0'
+    - A. Iverson makes 3-pt shot from 25 ft (assist by A. McKie)
+    - "+3"
+    - 50-40
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 50-40
+    - ''
+    - Washington full timeout
+  - - '8:59.0'
+    - ''
+    - ''
+    - 50-40
+    - ''
+    - C. Booth misses 2-pt shot from 3 ft
+  - - '8:57.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 50-40
+    - ''
+    - ''
+  - - '8:42.0'
+    - T. Hill makes 2-pt shot from 2 ft
+    - "+2"
+    - 52-40
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 52-43
+    - "+3"
+    - T. Nesby makes 3-pt shot from 24 ft (assist by C. Booth)
+  - - '8:13.0'
+    - T. Ratliff makes 2-pt shot from 6 ft (assist by A. McKie)
+    - "+2"
+    - 54-43
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 54-45
+    - "+2"
+    - J. Howard makes 2-pt shot from 7 ft
+  - - '7:38.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 54-45
+    - ''
+    - ''
+  - - '7:31.0'
+    - T. Ratliff makes 2-pt shot from 1 ft (assist by A. McKie)
+    - "+2"
+    - 56-45
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 56-45
+    - ''
+    - Turnover by J. Howard (lost ball; steal by A. McKie)
+  - - '6:59.0'
+    - A. Iverson misses 2-pt shot from 19 ft
+    - ''
+    - 56-45
+    - ''
+    - ''
+  - - '6:56.0'
+    - Offensive rebound by T. Ratliff
+    - ''
+    - 56-45
+    - ''
+    - ''
+  - - '6:54.0'
+    - T. Ratliff misses 2-pt shot from 3 ft (block by C. Booth)
+    - ''
+    - 56-45
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 56-45
+    - ''
+    - Defensive rebound by T. Nesby
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-45
+    - ''
+    - Shooting foul by A. McKie
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-45
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-45
+    - ''
+    - O. Ekezie enters the game for C. Booth
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-46
+    - "+1"
+    - J. Howard makes free throw 1 of 2
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-46
+    - ''
+    - M. Smith enters the game for T. Nesby
+  - - '6:49.0'
+    - ''
+    - ''
+    - 56-46
+    - ''
+    - J. Howard misses free throw 2 of 2
+  - - '6:47.0'
+    - Defensive rebound by T. Ratliff
+    - ''
+    - 56-46
+    - ''
+    - ''
+  - - '6:32.0'
+    - A. McKie misses 2-pt shot from 9 ft (block by J. Howard)
+    - ''
+    - 56-46
+    - ''
+    - ''
+  - - '6:29.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 56-46
+    - ''
+    - ''
+  - - '6:28.0'
+    - T. Hill misses 2-pt shot from 2 ft
+    - ''
+    - 56-46
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 56-46
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '6:17.0'
+    - ''
+    - ''
+    - 56-46
+    - ''
+    - Turnover by R. Hamilton (traveling)
+  - - '5:59.0'
+    - Shooting foul by C. Whitney
+    - ''
+    - 56-46
+    - ''
+    - ''
+  - - '5:59.0'
+    - A. Iverson makes free throw 1 of 2
+    - "+1"
+    - 57-46
+    - ''
+    - ''
+  - - '5:59.0'
+    - A. Iverson makes free throw 2 of 2
+    - "+1"
+    - 58-46
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 58-46
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '5:32.0'
+    - ''
+    - ''
+    - 58-46
+    - ''
+    - Offensive rebound by M. Smith
+  - - '5:29.0'
+    - ''
+    - ''
+    - 58-46
+    - ''
+    - C. Whitney misses 3-pt shot from 25 ft
+  - - '5:27.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 58-46
+    - ''
+    - ''
+  - - '5:15.0'
+    - T. Hill misses 2-pt shot from 11 ft
+    - ''
+    - 58-46
+    - ''
+    - ''
+  - - '5:13.0'
+    - Offensive rebound by T. Ratliff
+    - ''
+    - 58-46
+    - ''
+    - ''
+  - - '5:07.0'
+    - A. McKie makes 2-pt shot from 1 ft
+    - "+2"
+    - 60-46
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 60-46
+    - ''
+    - Washington full timeout
+  - - '4:49.0'
+    - ''
+    - ''
+    - 60-46
+    - ''
+    - J. Howard misses 2-pt shot from 2 ft (block by T. Ratliff)
+  - - '4:46.0'
+    - ''
+    - ''
+    - 60-46
+    - ''
+    - Offensive rebound by M. Smith
+  - - '4:44.0'
+    - ''
+    - ''
+    - 60-46
+    - ''
+    - Turnover by R. Hamilton (traveling)
+  - - '4:29.0'
+    - G. Lynch makes 2-pt shot from 6 ft (assist by A. McKie)
+    - "+2"
+    - 62-46
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 62-48
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 6 ft
+  - - '3:57.0'
+    - G. Lynch misses 2-pt shot from 4 ft (block by O. Ekezie)
+    - ''
+    - 62-48
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 62-48
+    - ''
+    - ''
+  - - '3:49.0'
+    - Personal foul by O. Ekezie
+    - ''
+    - 62-48
+    - ''
+    - ''
+  - - '3:42.0'
+    - A. Iverson makes 2-pt shot from 22 ft
+    - "+2"
+    - 64-48
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 64-48
+    - ''
+    - Turnover by R. Hamilton (out of bounds)
+  - - '3:02.0'
+    - A. Iverson makes 2-pt shot from 13 ft
+    - "+2"
+    - 66-48
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 66-50
+    - "+2"
+    - J. Howard makes 2-pt shot from 5 ft (assist by C. Whitney)
+  - - '2:21.0'
+    - T. Hill misses 2-pt shot from 11 ft
+    - ''
+    - 66-50
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 66-50
+    - ''
+    - Defensive rebound by M. Smith
+  - - '2:13.0'
+    - ''
+    - ''
+    - 66-50
+    - ''
+    - R. Hamilton misses 3-pt shot from 24 ft
+  - - '2:11.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 66-50
+    - ''
+    - ''
+  - - '1:53.0'
+    - T. Ratliff misses 2-pt shot from 15 ft
+    - ''
+    - 66-50
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 66-50
+    - ''
+    - Defensive rebound by M. Smith
+  - - '1:45.0'
+    - ''
+    - ''
+    - 66-50
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by A. McKie)
+  - - '1:39.0'
+    - A. Iverson makes 2-pt shot from 5 ft
+    - "+2"
+    - 68-50
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 68-50
+    - ''
+    - O. Ekezie misses 2-pt shot from 3 ft (block by T. Ratliff)
+  - - '1:13.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 68-50
+    - ''
+    - ''
+  - - '1:10.0'
+    - G. Lynch makes 2-pt shot at rim (assist by A. Iverson)
+    - "+2"
+    - 70-50
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 70-50
+    - ''
+    - Washington 20 second timeout
+  - - '1:04.0'
+    - T. Kukoc enters the game for G. Lynch
+    - ''
+    - 70-50
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 70-50
+    - ''
+    - G. King enters the game for J. Howard
+  - - '0:53.9'
+    - ''
+    - ''
+    - 70-52
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 2 ft
+  - - '0:42.9'
+    - T. Hill misses 2-pt shot from 4 ft
+    - ''
+    - 70-52
+    - ''
+    - ''
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Defensive rebound by M. Smith
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Loose ball foul by A. McKie
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - F. Lopez enters the game for R. Hamilton
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - J. White enters the game for O. Ekezie
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-53
+    - "+1"
+    - M. Smith makes free throw 1 of 2
+  - - '0:40.7'
+    - K. Ollie enters the game for A. McKie
+    - ''
+    - 70-53
+    - ''
+    - ''
+  - - '0:40.7'
+    - ''
+    - ''
+    - 70-54
+    - "+1"
+    - M. Smith makes free throw 2 of 2
+  - - '0:27.9'
+    - T. Kukoc misses 2-pt shot from 6 ft
+    - ''
+    - 70-54
+    - ''
+    - ''
+  - - '0:25.9'
+    - ''
+    - ''
+    - 70-54
+    - ''
+    - Defensive rebound by J. White
+  - - '0:06.9'
+    - ''
+    - ''
+    - 70-56
+    - "+2"
+    - C. Whitney makes 2-pt shot from 20 ft
+  - - '0:00.9'
+    - A. Iverson misses 2-pt shot from 13 ft
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by K. Ollie
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - T. Kukoc misses 2-pt shot at rim
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '11:44.0'
+    - Offensive rebound by T. MacCulloch
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '11:42.0'
+    - T. MacCulloch makes 2-pt shot from 1 ft
+    - "+2"
+    - 72-56
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 72-56
+    - ''
+    - Turnover by G. King (lost ball; steal by A. Iverson)
+  - - '11:20.0'
+    - Shooting foul by G. King
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '11:20.0'
+    - T. Hill misses free throw 1 of 2
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '11:20.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '11:20.0'
+    - T. Hill misses free throw 2 of 2
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 72-56
+    - ''
+    - Defensive rebound by G. King
+  - - '10:58.0'
+    - ''
+    - ''
+    - 72-56
+    - ''
+    - C. Whitney misses 3-pt shot from 23 ft
+  - - '10:55.0'
+    - ''
+    - ''
+    - 72-56
+    - ''
+    - Offensive rebound by J. White
+  - - '10:55.0'
+    - ''
+    - ''
+    - 72-58
+    - "+2"
+    - J. White makes 2-pt shot from 1 ft
+  - - '10:55.0'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - Shooting foul by T. MacCulloch
+  - - '10:55.0'
+    - ''
+    - ''
+    - 72-58
+    - ''
+    - J. White misses free throw 1 of 1
+  - - '10:54.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 72-58
+    - ''
+    - ''
+  - - '10:39.0'
+    - T. Kukoc makes 2-pt shot from 19 ft (assist by K. Ollie)
+    - "+2"
+    - 74-58
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 74-58
+    - ''
+    - F. Lopez misses 2-pt shot from 17 ft
+  - - '10:21.0'
+    - Defensive rebound by K. Ollie
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '10:21.0'
+    - Personal foul by M. Smith
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '10:08.0'
+    - A. Iverson misses 2-pt shot from 9 ft
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '10:06.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 74-58
+    - ''
+    - ''
+  - - '10:03.0'
+    - T. Hill makes 2-pt shot from 1 ft
+    - "+2"
+    - 76-58
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 76-60
+    - "+2"
+    - G. King makes 2-pt shot from 2 ft (assist by C. Whitney)
+  - - '9:52.0'
+    - ''
+    - ''
+    - 76-60
+    - ''
+    - Shooting foul by A. Iverson
+  - - '9:52.0'
+    - ''
+    - ''
+    - 76-60
+    - ''
+    - J. Howard enters the game for J. White
+  - - '9:52.0'
+    - ''
+    - ''
+    - 76-60
+    - ''
+    - R. Hamilton enters the game for F. Lopez
+  - - '9:52.0'
+    - G. Lynch enters the game for T. Hill
+    - ''
+    - 76-60
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 76-61
+    - "+1"
+    - G. King makes free throw 1 of 1
+  - - '9:30.0'
+    - A. Iverson misses 2-pt shot from 11 ft
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '9:28.0'
+    - Offensive rebound by T. MacCulloch
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '9:28.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '9:28.0'
+    - T. MacCulloch makes free throw 1 of 2
+    - "+1"
+    - 77-61
+    - ''
+    - ''
+  - - '9:28.0'
+    - T. MacCulloch misses free throw 2 of 2
+    - ''
+    - 77-61
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - Defensive rebound by M. Smith
+  - - '9:15.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - Turnover by J. Howard (bad pass)
+  - - '9:15.0'
+    - T. Ratliff enters the game for T. MacCulloch
+    - ''
+    - 77-61
+    - ''
+    - ''
+  - - '8:51.0'
+    - K. Ollie misses 2-pt shot from 21 ft
+    - ''
+    - 77-61
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - Defensive rebound by M. Smith
+  - - '8:43.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - Official timeout
+  - - '8:33.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - M. Smith misses 2-pt shot from 3 ft
+  - - '8:31.0'
+    - ''
+    - ''
+    - 77-61
+    - ''
+    - Offensive rebound by J. Howard
+  - - '8:29.0'
+    - ''
+    - ''
+    - 77-63
+    - "+2"
+    - J. Howard makes 2-pt shot from 4 ft
+  - - '8:29.0'
+    - ''
+    - ''
+    - 77-63
+    - ''
+    - Shooting foul by T. Ratliff
+  - - '8:29.0'
+    - ''
+    - ''
+    - 77-63
+    - ''
+    - T. Nesby enters the game for G. King
+  - - '8:29.0'
+    - ''
+    - ''
+    - 77-63
+    - ''
+    - J. Howard misses free throw 1 of 1
+  - - '8:23.0'
+    - Defensive rebound by T. Ratliff
+    - ''
+    - 77-63
+    - ''
+    - ''
+  - - '8:10.0'
+    - Turnover by T. Ratliff (double dribble)
+    - ''
+    - 77-63
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 77-63
+    - ''
+    - R. Hamilton misses 2-pt shot from 12 ft (block by G. Lynch)
+  - - '7:54.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 77-63
+    - ''
+    - ''
+  - - '7:46.0'
+    - T. Kukoc misses 2-pt shot at rim
+    - ''
+    - 77-63
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 77-63
+    - ''
+    - Defensive rebound by M. Smith
+  - - '7:40.0'
+    - ''
+    - ''
+    - 77-65
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 18 ft (assist by C. Whitney)
+  - - '7:15.0'
+    - K. Ollie misses 2-pt shot from 9 ft
+    - ''
+    - 77-65
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 77-65
+    - ''
+    - Defensive rebound by M. Smith
+  - - '7:00.0'
+    - ''
+    - ''
+    - 77-65
+    - ''
+    - J. Howard misses 2-pt shot from 11 ft
+  - - '6:57.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 77-65
+    - ''
+    - ''
+  - - '6:42.0'
+    - A. Iverson makes 2-pt shot from 4 ft
+    - "+2"
+    - 79-65
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 79-68
+    - "+3"
+    - C. Whitney makes 3-pt shot from 26 ft
+  - - '6:12.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 79-68
+    - ''
+    - ''
+  - - '6:12.0'
+    - A. McKie enters the game for T. Kukoc
+    - ''
+    - 79-68
+    - ''
+    - ''
+  - - '6:09.0'
+    - A. Iverson misses 2-pt shot from 6 ft
+    - ''
+    - 79-68
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 79-68
+    - ''
+    - Defensive rebound by J. Howard
+  - - '6:02.0'
+    - ''
+    - ''
+    - 79-71
+    - "+3"
+    - C. Whitney makes 3-pt shot from 27 ft
+  - - '5:58.0'
+    - Philadelphia full timeout
+    - ''
+    - 79-71
+    - ''
+    - ''
+  - - '5:37.0'
+    - A. McKie misses 2-pt shot from 15 ft
+    - ''
+    - 79-71
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - Defensive rebound by J. Howard
+  - - '5:14.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - T. Nesby misses 2-pt shot from 15 ft
+  - - '5:12.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - Offensive rebound by M. Smith
+  - - '5:12.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - Personal foul by A. McKie
+  - - '5:04.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - R. Hamilton misses 2-pt shot from 1 ft
+  - - '5:02.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - Offensive rebound by M. Smith
+  - - '5:01.0'
+    - ''
+    - ''
+    - 79-73
+    - "+2"
+    - M. Smith makes 2-pt shot from 1 ft
+  - - '4:40.0'
+    - Shooting foul by J. Howard
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:40.0'
+    - K. Ollie misses free throw 1 of 2
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:40.0'
+    - T. Hill enters the game for G. Lynch
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '4:40.0'
+    - K. Ollie makes free throw 2 of 2
+    - "+1"
+    - 80-73
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 80-75
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 15 ft
+  - - '3:55.0'
+    - A. McKie misses 2-pt shot from 11 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '3:54.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '3:41.0'
+    - A. Iverson makes 2-pt shot from 13 ft
+    - "+2"
+    - 82-75
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 82-75
+    - ''
+    - Shooting foul by K. Ollie
+  - - '3:25.0'
+    - ''
+    - ''
+    - 82-75
+    - ''
+    - J. Howard misses free throw 1 of 2
+  - - '3:25.0'
+    - ''
+    - ''
+    - 82-75
+    - ''
+    - Offensive rebound by Team
+  - - '3:25.0'
+    - ''
+    - ''
+    - 82-76
+    - "+1"
+    - J. Howard makes free throw 2 of 2
+  - - '3:02.0'
+    - Philadelphia 20 second timeout
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '3:01.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 82-76
+    - ''
+    - C. Whitney misses 3-pt shot from 24 ft (block by A. Iverson)
+  - - '2:42.0'
+    - Defensive rebound by Team
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '2:42.0'
+    - Philadelphia full timeout
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '2:21.0'
+    - K. Ollie misses 2-pt shot from 18 ft
+    - ''
+    - 82-76
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 82-76
+    - ''
+    - Defensive rebound by M. Smith
+  - - '2:02.0'
+    - ''
+    - ''
+    - 82-78
+    - "+2"
+    - J. Howard makes 2-pt shot from 10 ft (assist by T. Nesby)
+  - - '1:44.0'
+    - 'Jump ball: M. Smith vs. T. Hill (M. Smith gains possession)'
+  - - '1:44.0'
+    - Turnover by T. Hill (lost ball; steal by M. Smith)
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 82-78
+    - ''
+    - Washington full timeout
+  - - '1:40.0'
+    - G. Lynch enters the game for K. Ollie
+    - ''
+    - 82-78
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 82-80
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 14 ft
+  - - '1:08.0'
+    - A. Iverson makes 2-pt shot from 15 ft
+    - "+2"
+    - 84-80
+    - ''
+    - ''
+  - - '0:49.4'
+    - ''
+    - ''
+    - 84-80
+    - ''
+    - Shooting foul by A. McKie
+  - - '0:49.4'
+    - ''
+    - ''
+    - 84-81
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '0:49.4'
+    - K. Ollie enters the game for G. Lynch
+    - ''
+    - 84-81
+    - ''
+    - ''
+  - - '0:49.4'
+    - ''
+    - ''
+    - 84-82
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '0:35.3'
+    - Offensive foul by K. Ollie
+    - ''
+    - 84-82
+    - ''
+    - ''
+  - - '0:35.3'
+    - Turnover by K. Ollie (foul)
+    - ''
+    - 84-82
+    - ''
+    - ''
+  - - '0:35.3'
+    - G. Lynch enters the game for K. Ollie
+    - ''
+    - 84-82
+    - ''
+    - ''
+  - - '0:20.9'
+    - ''
+    - ''
+    - 84-82
+    - ''
+    - T. Nesby misses 3-pt shot from 25 ft
+  - - '0:18.6'
+    - Defensive rebound by T. Hill
+    - ''
+    - 84-82
+    - ''
+    - ''
+  - - '0:18.6'
+    - Personal foul by J. Howard
+    - ''
+    - 84-82
+    - ''
+    - ''
+  - - '0:18.6'
+    - T. Hill makes free throw 1 of 2
+    - "+1"
+    - 85-82
+    - ''
+    - ''
+  - - '0:18.6'
+    - T. Hill misses free throw 2 of 2
+    - ''
+    - 85-82
+    - ''
+    - ''
+  - - '0:16.9'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - Defensive rebound by J. Howard
+  - - '0:05.9'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - Turnover by C. Whitney (lost ball; steal by T. Ratliff)
+  - - '0:03.0'
+    - Personal foul by C. Whitney
+    - ''
+    - 85-82
+    - ''
+    - ''
+  - - '0:03.0'
+    - A. Iverson makes free throw 1 of 2
+    - "+1"
+    - 86-82
+    - ''
+    - ''
+  - - '0:03.0'
+    - K. Ollie enters the game for T. Hill
+    - ''
+    - 86-82
+    - ''
+    - ''
+  - - '0:03.0'
+    - A. Iverson misses free throw 2 of 2
+    - ''
+    - 86-82
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 86-82
+    - ''
+    - Defensive rebound by M. Smith
+  - - '0:00.0'
+    - End of 4th quarter

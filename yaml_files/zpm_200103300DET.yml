@@ -1,0 +1,235 @@
+---
+- name: Plus-Minus
+  data:
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Darrell Armstrong (On: -5&#9642;Off: +2&#9642;Net: -7)'
+    - |2-
+
+      -1
+    - 215/-1
+    - 210/
+    - 75/0
+    - 221/+4
+    - 125/
+    - 152/-8
+    - 'Andrew DeClercq (On: +5&#9642;Off: -8&#9642;Net: +13)'
+    - |2-
+
+      +2
+    - 98/+2
+    - 402/
+    - 101/+3
+    - 399/
+    - 'Tracy McGrady (On: -5&#9642;Off: +2&#9642;Net: -7)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 54/0
+    - 120/
+    - 74/0
+    - 249/+6
+    - 35/-2
+    - 61/
+    - 154/-8
+    - 'Mike Miller (On: +2&#9642;Off: -5&#9642;Net: +7)'
+    - |2-
+
+      -3
+    - 204/-3
+    - 100/
+    - 163/+5
+    - 27/
+    - 3/+2
+    - 195/+7
+    - 92/
+    - 193/-9
+    - 15/
+    - 2/0
+    - 'Bo Outlaw (On: -7&#9642;Off: +4&#9642;Net: -11)'
+    - |2-
+
+      -1
+    - 233/-1
+    - 225/
+    - 30/-4
+    - 10/
+    - 231/+6
+    - 130/
+    - 104/-6
+    - 33/
+    - 'John Amaechi (On: -2&#9642;Off: -1&#9642;Net: -1)'
+    - "\n"
+    - 103/
+    - 131/-3
+    - 370/
+    - 145/+3
+    - 35/-2
+    - 214/
+    - 'Monty Williams (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - "\n"
+    - 211/
+    - 38/+2
+    - 172/+3
+    - 278/
+    - 49/-1
+    - 92/-3
+    - 157/
+    - 'Cory Alexander (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - "\n"
+    - 218/
+    - 31/0
+    - 172/+3
+    - 304/
+    - 23/+2
+    - 66/-4
+    - 183/
+    - 'Michael Doleac (On: +3&#9642;Off: -6&#9642;Net: +9)'
+    - "\n"
+    - 238/
+    - 11/0
+    - 100/+4
+    - 437/
+    - 54/-1
+    - 131/
+    - 26/0
+    - 'Pat Garrity (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 237/
+    - 11/0
+    - 204/+5
+    - 17/
+    - 28/-2
+    - 343/
+    - 119/-8
+    - 20/
+    - 6/+2
+    - 3/
+    - 1/0
+    - 2/
+    - 0/0
+    - 'Don Reid (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - "\n"
+    - 352/
+    - 146/-1
+    - 236/
+    - 13/0
+    - 107/-5
+    - 115/
+    - 20/0
+    - 7/
+    - 'Troy Hudson (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - "\n"
+    - 820/
+    - 23/+1
+    - 158/
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: +3&#9642;Off: 0&#9642;Net: +3)'
+    - |2-
+
+      +1
+    - 234/+1
+    - 131/
+    - 134/+1
+    - 195/-7
+    - 150/
+    - 154/+8
+    - 'Billy Owens (On: -4&#9642;Off: +7&#9642;Net: -11)'
+    - |2-
+
+      +1
+    - 242/+1
+    - 182/
+    - 64/+2
+    - 10/
+    - 195/-7
+    - 305/
+    - 'Joe Smith (On: -5&#9642;Off: +8&#9642;Net: -13)'
+    - |2-
+
+      0
+    - 158/0
+    - 91/
+    - 80/-2
+    - 169/
+    - 101/-3
+    - 50/
+    - 98/0
+    - 249/
+    - 'Jerry Stackhouse (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 115/-4
+    - 95/
+    - 40/+2
+    - 250/-6
+    - 248/+11
+    - 'Ben Wallace (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - |2-
+
+      +1
+    - 250/+1
+    - 82/
+    - 167/-1
+    - 195/-7
+    - 54/
+    - 250/+11
+    - 'Mikki Moore (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - "\n"
+    - 162/
+    - 86/+1
+    - 128/-6
+    - 117/
+    - 3/-2
+    - 104/
+    - 41/-3
+    - 55/
+    - 49/+1
+    - 249/+11
+    - 'Mateen Cleaves (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - "\n"
+    - 238/
+    - 11/0
+    - 172/-3
+    - 278/
+    - 49/+1
+    - 92/+3
+    - 157/
+    - 'Corliss Williamson (On: +11&#9642;Off: -8&#9642;Net: +19)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 239/-1
+    - 210/
+    - 49/+1
+    - 250/+11
+    - 'Kornel David (On: -1&#9642;Off: +4&#9642;Net: -5)'
+    - "\n"
+    - 383/
+    - 72/+1
+    - 42/
+    - 3/-2
+    - 499/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

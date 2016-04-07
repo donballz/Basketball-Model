@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +3&#9642;Off: -8&#9642;Net: +11)'
+    - |2-
+
+      +3
+    - 156/+3
+    - 133/
+    - 211/-3
+    - 250/0
+    - 93/
+    - 155/+3
+    - 'Mike Bibby (On: +1&#9642;Off: -6&#9642;Net: +7)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 71/
+    - 179/-3
+    - 250/0
+    - 49/
+    - 199/+1
+    - 'Michael Dickerson (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 68/-6
+    - 34/
+    - 147/-4
+    - 249/0
+    - 45/0
+    - 83/
+    - 121/+2
+    - 'Grant Long (On: +5&#9642;Off: -10&#9642;Net: +15)'
+    - |2-
+
+      +3
+    - 177/+3
+    - 209/
+    - 113/-4
+    - 177/+3
+    - 266/
+    - 56/+3
+    - 'Tony Massenburg (On: -1&#9642;Off: -4&#9642;Net: +3)'
+    - |2-
+
+      +3
+    - 177/+3
+    - 175/
+    - 147/-4
+    - 250/0
+    - 250/
+    - 'Erick Strickland (On: -6&#9642;Off: +1&#9642;Net: -7)'
+    - "\n"
+    - 159/
+    - 91/0
+    - 33/-6
+    - 717/
+    - 'Bryant Reeves (On: -9&#9642;Off: +4&#9642;Net: -13)'
+    - "\n"
+    - 178/
+    - 71/0
+    - 102/-5
+    - 397/
+    - 240/-4
+    - 10/
+    - 'Stromile Swift (On: -10&#9642;Off: +5&#9642;Net: -15)'
+    - "\n"
+    - 178/
+    - 71/0
+    - 133/-5
+    - 299/
+    - 66/-3
+    - 192/-2
+    - 58/
+    - 'Mahmoud Abdul-Rauf (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 102/-5
+    - 397/
+    - 90/-2
+    - 152/
+    - 7/+5
+    - 'Kevin Edwards (On: -1&#9642;Off: -4&#9642;Net: +3)'
+    - "\n"
+    - 751/
+    - 122/-1
+    - 128/
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 137/
+    - 113/+4
+    - 250/0
+    - 132/
+    - 116/-2
+    - 'Elden Campbell (On: -4&#9642;Off: +9&#9642;Net: -13)'
+    - |2-
+
+      -6
+    - 85/-6
+    - 164/
+    - 102/+5
+    - 147/
+    - 146/-4
+    - 102/
+    - 128/+1
+    - 55/
+    - 66/0
+    - 'Baron Davis (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 49/+4
+    - 87/
+    - 113/+4
+    - 249/0
+    - 105/
+    - 145/-3
+    - 'Jamal Mashburn (On: +5&#9642;Off: 0&#9642;Net: +5)'
+    - |2-
+
+      -3
+    - 77/-3
+    - 172/
+    - 250/+9
+    - 250/0
+    - 250/-1
+    - 'David Wesley (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 56/
+    - 193/+5
+    - 147/-4
+    - 102/
+    - 138/+1
+    - 41/
+    - 70/0
+    - 'Eddie Robinson (On: +10&#9642;Off: -5&#9642;Net: +15)'
+    - "\n"
+    - 81/
+    - 168/0
+    - 68/+6
+    - 333/
+    - 96/+4
+    - 100/+2
+    - 45/
+    - 28/-2
+    - 76/
+    - 'Jamaal Magloire (On: +6&#9642;Off: -1&#9642;Net: +7)'
+    - "\n"
+    - 88/
+    - 160/+3
+    - 102/
+    - 122/+1
+    - 177/
+    - 96/+4
+    - 132/
+    - 47/-2
+    - 71/
+    - 'Hersey Hawkins (On: +5&#9642;Off: 0&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 134/+5
+    - 617/
+    - 'Tim James (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - "\n"
+    - 321/
+    - 63/-1
+    - 617/
+    - 'Otis Thorpe (On: +4&#9642;Off: +1&#9642;Net: +3)'
+    - "\n"
+    - 479/
+    - 20/+3
+    - 250/
+    - 128/+1
+    - 122/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

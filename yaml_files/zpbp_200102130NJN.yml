@@ -1,0 +1,3129 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Van Horn vs. S. O''Neal (R. Harper gains possession)'
+  - - '11:37.0'
+    - S. O'Neal misses 2-pt shot at rim
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:36.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:34.0'
+    - S. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - K. Martin misses 2-pt shot from 16 ft
+  - - '11:10.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:02.0'
+    - R. Harper makes 2-pt shot from 13 ft (assist by H. Grant)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - S. Marbury makes 2-pt shot from 8 ft
+  - - '10:31.0'
+    - K. Bryant makes 2-pt shot at rim (assist by R. Harper)
+    - "+2"
+    - 6-2
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - L. Harris misses 2-pt shot from 22 ft
+  - - '10:21.0'
+    - Defensive rebound by Team
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '10:07.0'
+    - R. Fox misses 2-pt shot at rim
+    - ''
+    - 6-2
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Defensive rebound by K. Van Horn
+  - - '10:01.0'
+    - ''
+    - ''
+    - 6-4
+    - "+2"
+    - K. Martin makes 2-pt shot at rim (assist by S. Marbury)
+  - - '9:33.0'
+    - K. Bryant makes 2-pt shot from 18 ft (assist by S. O'Neal)
+    - "+2"
+    - 8-4
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 8-4
+    - ''
+    - S. Marbury misses 2-pt shot at rim
+  - - '9:07.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 8-4
+    - ''
+    - ''
+  - - '9:00.0'
+    - H. Grant misses 2-pt shot from 18 ft
+    - ''
+    - 8-4
+    - ''
+    - ''
+  - - '8:58.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 8-4
+    - ''
+    - ''
+  - - '8:56.0'
+    - R. Fox makes 2-pt shot at rim
+    - "+2"
+    - 10-4
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 10-4
+    - ''
+    - L. Harris misses 2-pt shot from 19 ft
+  - - '8:37.0'
+    - Defensive rebound by Team
+    - ''
+    - 10-4
+    - ''
+    - ''
+  - - '8:21.0'
+    - Turnover by R. Harper (bad pass)
+    - ''
+    - 10-4
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 10-4
+    - ''
+    - S. Marbury misses 3-pt shot from 24 ft
+  - - '8:07.0'
+    - ''
+    - ''
+    - 10-4
+    - ''
+    - Offensive rebound by E. Eschmeyer
+  - - '7:49.0'
+    - ''
+    - ''
+    - 10-6
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim (assist by K. Van Horn)
+  - - '7:33.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 12-6
+    - ''
+    - ''
+  - - '7:18.0'
+    - ''
+    - ''
+    - 12-8
+    - "+2"
+    - K. Van Horn makes 2-pt shot at rim (assist by E. Eschmeyer)
+  - - '7:09.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 14-8
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - New Jersey full timeout
+  - - '6:45.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Personal foul by R. Harper
+  - - '6:36.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Turnover by K. Martin (lost ball; steal by R. Fox)
+  - - '6:30.0'
+    - Shooting foul by S. Marbury
+    - ''
+    - 14-8
+    - ''
+    - ''
+  - - '6:30.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 15-8
+    - ''
+    - ''
+  - - '6:30.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 16-8
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - K. Van Horn misses 2-pt shot from 23 ft
+  - - '6:12.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - Offensive rebound by K. Van Horn
+  - - '6:06.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - K. Van Horn misses 2-pt shot from 6 ft (block by S. O'Neal)
+  - - '6:05.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - Offensive rebound by Team
+  - - '6:03.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - L. Harris misses 2-pt shot from 21 ft
+  - - '6:01.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 16-8
+    - ''
+    - ''
+  - - '5:46.0'
+    - R. Harper misses 2-pt shot from 16 ft
+    - ''
+    - 16-8
+    - ''
+    - ''
+  - - '5:44.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 16-8
+    - ''
+    - ''
+  - - '5:39.0'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 16-8
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 16-8
+    - ''
+    - Defensive rebound by Team
+  - - '5:21.0'
+    - ''
+    - ''
+    - 16-10
+    - "+2"
+    - K. Van Horn makes 2-pt shot from 8 ft (assist by S. Marbury)
+  - - '5:03.0'
+    - Personal foul by L. Harris
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '4:58.0'
+    - H. Grant makes 2-pt shot from 16 ft (assist by R. Fox)
+    - "+2"
+    - 18-10
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 18-12
+    - "+2"
+    - K. Martin makes 2-pt shot from 19 ft (assist by L. Harris)
+  - - '4:23.0'
+    - H. Grant makes 2-pt shot from 19 ft (assist by S. O'Neal)
+    - "+2"
+    - 20-12
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 20-12
+    - ''
+    - K. Martin misses 2-pt shot from 8 ft
+  - - '4:07.0'
+    - Defensive rebound by Team
+    - ''
+    - 20-12
+    - ''
+    - ''
+  - - '4:07.0'
+    - Loose ball foul by E. Eschmeyer
+    - ''
+    - 20-12
+    - ''
+    - ''
+  - - '3:55.0'
+    - S. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 20-12
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 20-12
+    - ''
+    - Defensive rebound by K. Van Horn
+  - - '3:42.0'
+    - ''
+    - ''
+    - 20-12
+    - ''
+    - K. Van Horn misses 2-pt shot at rim (block by S. O'Neal)
+  - - '3:40.0'
+    - ''
+    - ''
+    - 20-12
+    - ''
+    - Offensive rebound by Team
+  - - '3:34.0'
+    - ''
+    - ''
+    - 20-14
+    - "+2"
+    - S. Marbury makes 2-pt shot from 23 ft
+  - - '3:23.0'
+    - LA Lakers full timeout
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:23.0'
+    - G. Foster enters the game for S. O'Neal
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 20-14
+    - ''
+    - A. Williams enters the game for E. Eschmeyer
+  - - '3:07.0'
+    - R. Fox misses 3-pt shot from 25 ft
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 20-14
+    - ''
+    - Defensive rebound by K. Martin
+  - - '3:01.0'
+    - ''
+    - ''
+    - 20-16
+    - "+2"
+    - K. Van Horn makes 2-pt shot at rim (assist by S. Marbury)
+  - - '2:47.0'
+    - H. Grant misses 2-pt shot from 17 ft
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Defensive rebound by S. Marbury
+  - - '2:40.0'
+    - ''
+    - ''
+    - 20-18
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '2:40.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - Shooting foul by K. Bryant
+  - - '2:40.0'
+    - ''
+    - ''
+    - 20-18
+    - ''
+    - J. Newman enters the game for L. Harris
+  - - '2:40.0'
+    - ''
+    - ''
+    - 20-19
+    - "+1"
+    - S. Marbury makes free throw 1 of 1
+  - - '2:22.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 22-19
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - K. Martin misses 2-pt shot from 18 ft
+  - - '2:07.0'
+    - Defensive rebound by R. Harper
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '2:04.0'
+    - R. Fox makes 2-pt shot at rim (assist by R. Harper)
+    - "+2"
+    - 24-19
+    - ''
+    - ''
+  - - '2:04.0'
+    - Shooting foul by K. Martin
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '2:04.0'
+    - M. Madsen enters the game for H. Grant
+    - ''
+    - 24-19
+    - ''
+    - ''
+  - - '2:04.0'
+    - R. Fox makes free throw 1 of 1
+    - "+1"
+    - 25-19
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - K. Van Horn misses 3-pt shot from 25 ft
+  - - '1:48.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Offensive rebound by Team
+  - - '1:48.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Loose ball foul by G. Foster
+  - - '1:48.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - J. Feick enters the game for K. Van Horn
+  - - '1:39.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Turnover by K. Martin (traveling)
+  - - '1:24.0'
+    - R. Fox misses 3-pt shot from 26 ft
+    - ''
+    - 25-19
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Defensive rebound by J. Newman
+  - - '1:15.0'
+    - ''
+    - ''
+    - 25-19
+    - ''
+    - Personal foul by R. Fox
+  - - '1:15.0'
+    - ''
+    - ''
+    - 25-20
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '1:15.0'
+    - T. Lue enters the game for R. Fox
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 25-21
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '1:04.0'
+    - K. Bryant makes 2-pt shot from 11 ft (assist by G. Foster)
+    - "+2"
+    - 27-21
+    - ''
+    - ''
+  - - '0:42.4'
+    - ''
+    - ''
+    - 27-21
+    - ''
+    - Personal foul by T. Lue
+  - - '0:42.4'
+    - ''
+    - ''
+    - 27-22
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '0:42.4'
+    - ''
+    - ''
+    - 27-22
+    - ''
+    - S. Marbury misses free throw 2 of 2
+  - - '0:41.5'
+    - Defensive rebound by M. Madsen
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '0:23.7'
+    - G. Foster makes 2-pt shot from 17 ft (assist by T. Lue)
+    - "+2"
+    - 29-22
+    - ''
+    - ''
+  - - '0:08.2'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - Personal foul by T. Lue
+  - - '0:08.2'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - S. Marbury misses free throw 1 of 2
+  - - '0:08.2'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - Offensive rebound by Team
+  - - '0:08.2'
+    - I. Rider enters the game for M. Madsen
+    - ''
+    - 29-22
+    - ''
+    - ''
+  - - '0:08.2'
+    - ''
+    - ''
+    - 29-23
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '0:01.2'
+    - K. Bryant misses 2-pt shot at rim
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 29-25
+    - "+2"
+    - J. Feick makes 2-pt shot at rim (assist by A. Williams)
+  - - '11:26.0'
+    - I. Rider misses 2-pt shot from 19 ft
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '11:24.0'
+    - Offensive rebound by G. Foster
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '11:16.0'
+    - R. Horry makes 2-pt shot from 17 ft (assist by I. Rider)
+    - "+2"
+    - 31-25
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Offensive foul by J. Newman
+  - - '11:04.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Turnover by J. Newman (foul)
+  - - '10:52.0'
+    - I. Rider misses 2-pt shot from 19 ft
+    - ''
+    - 31-25
+    - ''
+    - ''
+  - - '10:50.0'
+    - Offensive rebound by I. Rider
+    - ''
+    - 31-25
+    - ''
+    - ''
+  - - '10:45.0'
+    - R. Horry misses 3-pt shot from 24 ft
+    - ''
+    - 31-25
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Defensive rebound by S. Douglas
+  - - '10:39.0'
+    - ''
+    - ''
+    - 31-25
+    - ''
+    - Shooting foul by R. Horry
+  - - '10:39.0'
+    - ''
+    - ''
+    - 31-26
+    - "+1"
+    - A. Williams makes free throw 1 of 2
+  - - '10:39.0'
+    - ''
+    - ''
+    - 31-27
+    - "+1"
+    - A. Williams makes free throw 2 of 2
+  - - '10:25.0'
+    - K. Bryant misses 2-pt shot from 19 ft
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Defensive rebound by J. Feick
+  - - '10:10.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - J. Feick misses 2-pt shot from 21 ft
+  - - '10:08.0'
+    - Defensive rebound by Team
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:57.0'
+    - Personal foul by J. Newman
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:45.0'
+    - Turnover by G. Foster (3 second)
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - J. Feick misses 2-pt shot from 18 ft
+  - - '9:22.0'
+    - Defensive rebound by I. Rider
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:20.0'
+    - Turnover by I. Rider (lost ball)
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:07.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Official timeout
+  - - '8:58.0'
+    - S. O'Neal enters the game for G. Foster
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - S. Jackson misses 2-pt shot from 21 ft
+  - - '8:54.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '8:43.0'
+    - B. Shaw misses 3-pt shot from 24 ft
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Defensive rebound by J. Newman
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - J. Newman misses 2-pt shot from 20 ft
+  - - '8:21.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Offensive rebound by A. Williams
+  - - '8:10.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - A. Williams misses 2-pt shot from 16 ft
+  - - '8:08.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Offensive rebound by J. Feick
+  - - '8:07.0'
+    - ''
+    - ''
+    - 31-29
+    - "+2"
+    - J. Feick makes 2-pt shot at rim
+  - - '7:52.0'
+    - I. Rider misses 3-pt shot from 25 ft
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Defensive rebound by J. Feick
+  - - '7:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - S. Douglas misses 2-pt shot at rim
+  - - '7:43.0'
+    - Defensive rebound by Team
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '7:34.0'
+    - Turnover by S. O'Neal (bad pass; steal by J. Newman)
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - S. Jackson misses 3-pt shot from 24 ft
+  - - '7:22.0'
+    - Defensive rebound by Team
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive foul by B. Shaw
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '7:02.0'
+    - Turnover by B. Shaw (foul)
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Shooting foul by R. Horry
+  - - '6:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - A. Williams misses free throw 1 of 2
+  - - '6:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Offensive rebound by Team
+  - - '6:44.0'
+    - H. Grant enters the game for R. Horry
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '6:44.0'
+    - R. Fox enters the game for K. Bryant
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '6:44.0'
+    - R. Harper enters the game for I. Rider
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - K. Van Horn enters the game for J. Newman
+  - - '6:44.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - A. Williams misses free throw 2 of 2
+  - - '6:43.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '6:28.0'
+    - H. Grant makes 2-pt shot from 15 ft (assist by R. Fox)
+    - "+2"
+    - 33-29
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - S. Jackson misses 2-pt shot from 13 ft
+  - - '6:06.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:53.0'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by Team
+  - - '5:50.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - New Jersey full timeout
+  - - '5:50.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - S. Marbury enters the game for S. Douglas
+  - - '5:50.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - K. Martin enters the game for S. Jackson
+  - - '5:50.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - E. Eschmeyer enters the game for A. Williams
+  - - '5:50.0'
+    - R. Horry enters the game for R. Fox
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - K. Martin misses 2-pt shot from 7 ft (block by S. O'Neal)
+  - - '5:28.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Offensive rebound by K. Van Horn
+  - - '5:20.0'
+    - ''
+    - ''
+    - 33-31
+    - "+2"
+    - S. Marbury makes 2-pt shot from 8 ft
+  - - '5:00.0'
+    - Personal foul by E. Eschmeyer
+    - ''
+    - 33-31
+    - ''
+    - ''
+  - - '4:47.0'
+    - R. Harper makes 2-pt shot from 16 ft (assist by B. Shaw)
+    - "+2"
+    - 35-31
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - Turnover by S. Marbury (bad pass; steal by H. Grant)
+  - - '4:14.0'
+    - H. Grant misses 2-pt shot from 18 ft
+    - ''
+    - 35-31
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - Defensive rebound by J. Feick
+  - - '4:07.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - Personal foul by S. O'Neal
+  - - '4:02.0'
+    - ''
+    - ''
+    - 35-33
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '3:55.0'
+    - LA Lakers full timeout
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '3:55.0'
+    - K. Bryant enters the game for B. Shaw
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - L. Harris enters the game for J. Feick
+  - - '3:46.0'
+    - Turnover by R. Harper (bad pass; steal by K. Van Horn)
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 35-35
+    - "+2"
+    - L. Harris makes 2-pt shot from 21 ft (assist by S. Marbury)
+  - - '3:21.0'
+    - K. Bryant makes 3-pt shot from 26 ft (assist by S. O'Neal)
+    - "+3"
+    - 38-35
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Personal foul by K. Bryant
+  - - '2:55.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Turnover by S. Marbury (traveling)
+  - - '2:38.0'
+    - Shooting foul by E. Eschmeyer
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:38.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:38.0'
+    - Offensive rebound by Team
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - A. Williams enters the game for E. Eschmeyer
+  - - '2:38.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - Defensive rebound by L. Harris
+  - - '2:22.0'
+    - ''
+    - ''
+    - 38-35
+    - ''
+    - K. Van Horn misses 2-pt shot at rim
+  - - '2:21.0'
+    - Defensive rebound by R. Horry
+    - ''
+    - 38-35
+    - ''
+    - ''
+  - - '2:16.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 40-35
+    - ''
+    - ''
+  - - '2:16.0'
+    - Shooting foul by K. Martin
+    - ''
+    - 40-35
+    - ''
+    - ''
+  - - '2:16.0'
+    - S. O'Neal makes free throw 1 of 1
+    - "+1"
+    - 41-35
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - Turnover by K. Van Horn (lost ball; steal by R. Horry)
+  - - '1:50.0'
+    - Personal foul by A. Williams
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - J. Newman enters the game for K. Van Horn
+  - - '1:50.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '1:50.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '1:50.0'
+    - R. Fox enters the game for R. Horry
+    - ''
+    - 41-35
+    - ''
+    - ''
+  - - '1:50.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 42-35
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 42-35
+    - ''
+    - K. Martin misses 2-pt shot from 19 ft
+  - - '1:28.0'
+    - ''
+    - ''
+    - 42-35
+    - ''
+    - Offensive rebound by S. Marbury
+  - - '1:19.0'
+    - ''
+    - ''
+    - 42-35
+    - ''
+    - Turnover by K. Martin (lost ball)
+  - - '1:07.0'
+    - Personal foul by K. Martin
+    - ''
+    - 42-35
+    - ''
+    - ''
+  - - '1:07.0'
+    - H. Grant makes free throw 1 of 2
+    - "+1"
+    - 43-35
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 43-35
+    - ''
+    - J. Feick enters the game for K. Martin
+  - - '1:07.0'
+    - H. Grant makes free throw 2 of 2
+    - "+1"
+    - 44-35
+    - ''
+    - ''
+  - - '0:56.6'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - S. Marbury misses 3-pt shot from 26 ft
+  - - '0:54.4'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:47.4'
+    - LA Lakers 20 second timeout
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:47.4'
+    - T. Lue enters the game for K. Bryant
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:38.8'
+    - R. Harper misses 3-pt shot from 25 ft
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:37.4'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - Defensive rebound by J. Feick
+  - - '0:29.0'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - J. Newman misses 3-pt shot from 24 ft
+  - - '0:26.8'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:06.3'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:05.2'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - Defensive rebound by J. Feick
+  - - '0:01.9'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - New Jersey 20 second timeout
+  - - '0:01.9'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - Shooting foul by R. Harper
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-36
+    - "+1"
+    - A. Williams makes free throw 1 of 3
+  - - '0:00.4'
+    - Technical foul by Team
+    - ''
+    - 44-36
+    - ''
+    - ''
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-37
+    - "+1"
+    - J. Newman makes free throw technical
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-37
+    - ''
+    - A. Williams misses free throw 2 of 3
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-37
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.4'
+    - ''
+    - ''
+    - 44-37
+    - ''
+    - A. Williams misses free throw 3 of 3
+  - - '0:00.2'
+    - Defensive rebound by R. Horry
+    - ''
+    - 44-37
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 44-39
+    - "+2"
+    - L. Harris makes 2-pt shot from 20 ft (assist by S. Marbury)
+  - - '11:29.0'
+    - Shooting foul by E. Eschmeyer
+    - ''
+    - 44-39
+    - ''
+    - ''
+  - - '11:29.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 45-39
+    - ''
+    - ''
+  - - '11:29.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 46-39
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 46-41
+    - "+2"
+    - S. Marbury makes 2-pt shot from 16 ft
+  - - '10:55.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 48-41
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 48-41
+    - ''
+    - S. Marbury misses 2-pt shot from 6 ft (block by H. Grant)
+  - - '10:33.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 48-41
+    - ''
+    - ''
+  - - '10:21.0'
+    - R. Fox makes 3-pt shot from 25 ft (assist by S. O'Neal)
+    - "+3"
+    - 51-41
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 51-41
+    - ''
+    - Turnover by E. Eschmeyer (lost ball; steal by R. Harper)
+  - - '10:00.0'
+    - K. Bryant makes 2-pt shot at rim (assist by H. Grant)
+    - "+2"
+    - 53-41
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 53-41
+    - ''
+    - New Jersey full timeout
+  - - '9:35.0'
+    - ''
+    - ''
+    - 53-44
+    - "+3"
+    - L. Harris makes 3-pt shot from 26 ft (assist by K. Martin)
+  - - '9:16.0'
+    - Turnover by S. O'Neal (bad pass; steal by K. Van Horn)
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Personal foul by H. Grant
+  - - '9:10.0'
+    - ''
+    - ''
+    - 53-46
+    - "+2"
+    - S. Marbury makes 2-pt shot from 20 ft (assist by K. Martin)
+  - - '8:59.0'
+    - K. Bryant misses 2-pt shot from 11 ft
+    - ''
+    - 53-46
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 53-46
+    - ''
+    - Defensive rebound by E. Eschmeyer
+  - - '8:44.0'
+    - ''
+    - ''
+    - 53-46
+    - ''
+    - Shooting foul by R. Fox
+  - - '8:44.0'
+    - ''
+    - ''
+    - 53-47
+    - "+1"
+    - K. Martin makes free throw 1 of 2
+  - - '8:44.0'
+    - ''
+    - ''
+    - 53-48
+    - "+1"
+    - K. Martin makes free throw 2 of 2
+  - - '8:36.0'
+    - Shooting foul by E. Eschmeyer
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '8:36.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '8:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - A. Williams enters the game for E. Eschmeyer
+  - - '8:36.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - Defensive rebound by K. Martin
+  - - '8:26.0'
+    - ''
+    - ''
+    - 53-50
+    - "+2"
+    - L. Harris makes 2-pt shot at rim
+  - - '8:11.0'
+    - K. Bryant misses 3-pt shot from 26 ft
+    - ''
+    - 53-50
+    - ''
+    - ''
+  - - '8:09.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-50
+    - ''
+    - ''
+  - - '8:09.0'
+    - Loose ball foul by K. Van Horn
+    - ''
+    - 53-50
+    - ''
+    - ''
+  - - '7:49.0'
+    - K. Bryant makes 2-pt shot from 17 ft (assist by H. Grant)
+    - "+2"
+    - 55-50
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - S. Marbury misses 2-pt shot from 11 ft
+  - - '7:33.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - Offensive rebound by K. Van Horn
+  - - '7:31.0'
+    - ''
+    - ''
+    - 55-52
+    - "+2"
+    - K. Van Horn makes 2-pt shot from 16 ft
+  - - '7:18.0'
+    - Turnover by K. Bryant (traveling)
+    - ''
+    - 55-52
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 55-54
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '6:49.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 55-54
+    - ''
+    - ''
+  - - '6:49.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 56-54
+    - ''
+    - ''
+  - - '6:49.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 57-54
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 57-56
+    - "+2"
+    - K. Van Horn makes 2-pt shot from 12 ft (assist by S. Marbury)
+  - - '6:13.0'
+    - K. Bryant misses 2-pt shot at rim (block by A. Williams)
+    - ''
+    - 57-56
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 57-56
+    - ''
+    - Defensive rebound by K. Van Horn
+  - - '6:06.0'
+    - ''
+    - ''
+    - 57-58
+    - "+2"
+    - L. Harris makes 2-pt shot at rim (assist by K. Martin)
+  - - '5:48.0'
+    - 'Jump ball: A. Williams vs. K. Bryant (K. Martin gains possession)'
+  - - '5:48.0'
+    - Turnover by K. Bryant (lost ball; steal by A. Williams)
+    - ''
+    - 57-58
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 57-61
+    - "+3"
+    - S. Marbury makes 3-pt shot from 25 ft
+  - - '5:32.0'
+    - LA Lakers full timeout
+    - ''
+    - 57-61
+    - ''
+    - ''
+  - - '5:15.0'
+    - R. Harper makes 3-pt shot from 26 ft (assist by S. O'Neal)
+    - "+3"
+    - 60-61
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - K. Van Horn misses 2-pt shot at rim (block by H. Grant)
+  - - '4:58.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '4:52.0'
+    - Personal foul by A. Williams
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '4:52.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '4:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '4:52.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 61-61
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 61-61
+    - ''
+    - Turnover by K. Martin (traveling)
+  - - '4:22.0'
+    - R. Fox makes 2-pt shot at rim (assist by S. O'Neal)
+    - "+2"
+    - 63-61
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 63-61
+    - ''
+    - Shooting foul by K. Bryant
+  - - '4:07.0'
+    - ''
+    - ''
+    - 63-61
+    - ''
+    - S. Marbury misses free throw 1 of 2
+  - - '4:07.0'
+    - ''
+    - ''
+    - 63-61
+    - ''
+    - Offensive rebound by Team
+  - - '4:07.0'
+    - ''
+    - ''
+    - 63-61
+    - ''
+    - S. Marbury misses free throw 2 of 2
+  - - '4:06.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 63-61
+    - ''
+    - ''
+  - - '3:51.0'
+    - R. Harper misses 3-pt shot from 23 ft
+    - ''
+    - 63-61
+    - ''
+    - ''
+  - - '3:49.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 63-61
+    - ''
+    - ''
+  - - '3:47.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 65-61
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - S. Marbury misses 2-pt shot at rim
+  - - '3:27.0'
+    - ''
+    - ''
+    - 65-61
+    - ''
+    - Offensive rebound by A. Williams
+  - - '3:26.0'
+    - ''
+    - ''
+    - 65-63
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '3:12.0'
+    - K. Bryant makes 2-pt shot from 9 ft
+    - "+2"
+    - 67-63
+    - ''
+    - ''
+  - - '3:12.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 67-63
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 67-63
+    - ''
+    - J. Newman enters the game for A. Williams
+  - - '3:12.0'
+    - ''
+    - ''
+    - 67-63
+    - ''
+    - J. Feick enters the game for K. Martin
+  - - '3:12.0'
+    - K. Bryant misses free throw 1 of 1
+    - ''
+    - 67-63
+    - ''
+    - ''
+  - - '3:11.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 67-63
+    - ''
+    - ''
+  - - '3:11.0'
+    - Personal foul by S. Marbury
+    - ''
+    - 67-63
+    - ''
+    - ''
+  - - '3:11.0'
+    - H. Grant makes free throw 1 of 2
+    - "+1"
+    - 68-63
+    - ''
+    - ''
+  - - '3:11.0'
+    - H. Grant makes free throw 2 of 2
+    - "+1"
+    - 69-63
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 69-63
+    - ''
+    - Turnover by S. Marbury (bad pass)
+  - - '2:54.0'
+    - Personal foul by J. Feick
+    - ''
+    - 69-63
+    - ''
+    - ''
+  - - '2:54.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 70-63
+    - ''
+    - ''
+  - - '2:54.0'
+    - B. Shaw enters the game for R. Fox
+    - ''
+    - 70-63
+    - ''
+    - ''
+  - - '2:54.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 70-63
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 70-63
+    - ''
+    - Defensive rebound by J. Feick
+  - - '2:39.0'
+    - ''
+    - ''
+    - 70-63
+    - ''
+    - J. Newman misses 3-pt shot from 26 ft
+  - - '2:37.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 70-63
+    - ''
+    - ''
+  - - '2:27.0'
+    - H. Grant makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 72-63
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - Personal foul by S. O'Neal
+  - - '2:06.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - J. Feick misses 2-pt shot at rim (block by S. O'Neal)
+  - - '2:04.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '1:59.0'
+    - Personal foul by S. Marbury
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '1:59.0'
+    - R. Horry enters the game for S. O'Neal
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '1:59.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 73-63
+    - ''
+    - ''
+  - - '1:59.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 74-63
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 74-63
+    - ''
+    - Shooting foul by H. Grant
+  - - '1:40.0'
+    - ''
+    - ''
+    - 74-64
+    - "+1"
+    - J. Newman makes free throw 1 of 2
+  - - '1:40.0'
+    - R. Fox enters the game for R. Harper
+    - ''
+    - 74-64
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 74-65
+    - "+1"
+    - J. Newman makes free throw 2 of 2
+  - - '1:30.0'
+    - Turnover by R. Fox (bad pass; steal by L. Harris)
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Turnover by S. Marbury (bad pass; steal by R. Fox)
+  - - '1:18.0'
+    - Turnover by R. Horry (lost ball)
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - S. Marbury misses 2-pt shot from 19 ft
+  - - '1:07.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '0:51.2'
+    - H. Grant misses 2-pt shot from 15 ft
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '0:49.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - Defensive rebound by K. Van Horn
+  - - '0:41.4'
+    - ''
+    - ''
+    - 74-68
+    - "+3"
+    - S. Marbury makes 3-pt shot from 24 ft (assist by L. Harris)
+  - - '0:29.3'
+    - Turnover by R. Fox (bad pass)
+    - ''
+    - 74-68
+    - ''
+    - ''
+  - - '0:08.7'
+    - ''
+    - ''
+    - 74-71
+    - "+3"
+    - L. Harris makes 3-pt shot from 25 ft (assist by S. Marbury)
+  - - '0:01.9'
+    - K. Bryant misses 3-pt shot from 25 ft
+    - ''
+    - 74-71
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-71
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - R. Fox misses 3-pt shot from 24 ft
+    - ''
+    - 74-71
+    - ''
+    - ''
+  - - '11:46.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 74-71
+    - ''
+    - ''
+  - - '11:40.0'
+    - R. Fox makes 3-pt shot from 24 ft (assist by R. Horry)
+    - "+3"
+    - 77-71
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 77-73
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '11:12.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Fox)
+    - "+2"
+    - 79-73
+    - ''
+    - ''
+  - - '11:12.0'
+    - Shooting foul by J. Feick
+    - ''
+    - 79-73
+    - ''
+    - ''
+  - - '11:12.0'
+    - S. O'Neal makes free throw 1 of 1
+    - "+1"
+    - 80-73
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 80-73
+    - ''
+    - Shooting foul by K. Bryant
+  - - '11:01.0'
+    - ''
+    - ''
+    - 80-74
+    - "+1"
+    - J. Newman makes free throw 1 of 2
+  - - '11:01.0'
+    - ''
+    - ''
+    - 80-75
+    - "+1"
+    - J. Newman makes free throw 2 of 2
+  - - '10:45.0'
+    - I. Rider misses 2-pt shot from 12 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:43.0'
+    - Offensive rebound by S. O'Neal
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:43.0'
+    - Shooting foul by J. Newman
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:43.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:43.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - Defensive rebound by J. Feick
+  - - '10:25.0'
+    - ''
+    - ''
+    - 80-75
+    - ''
+    - J. Newman misses 2-pt shot from 8 ft
+  - - '10:23.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:10.0'
+    - S. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:08.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 80-75
+    - ''
+    - ''
+  - - '10:04.0'
+    - I. Rider makes 2-pt shot at rim
+    - "+2"
+    - 82-75
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 82-78
+    - "+3"
+    - K. Van Horn makes 3-pt shot from 26 ft (assist by S. Marbury)
+  - - '9:21.0'
+    - R. Horry makes 3-pt shot from 24 ft (assist by R. Fox)
+    - "+3"
+    - 85-78
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 85-78
+    - ''
+    - Personal foul by R. Horry
+  - - '9:09.0'
+    - ''
+    - ''
+    - 85-78
+    - ''
+    - K. Martin enters the game for L. Harris
+  - - '9:09.0'
+    - M. Madsen enters the game for R. Fox
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 85-78
+    - ''
+    - S. Marbury misses 3-pt shot from 25 ft
+  - - '9:03.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '8:56.0'
+    - I. Rider misses 2-pt shot from 16 ft
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '8:54.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '8:52.0'
+    - S. O'Neal makes 2-pt shot at rim (assist by K. Bryant)
+    - "+2"
+    - 87-78
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - K. Van Horn misses 2-pt shot from 13 ft (block by R. Horry)
+  - - '8:28.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - Offensive rebound by K. Van Horn
+  - - '8:26.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - J. Newman misses 2-pt shot from 11 ft (block by K. Bryant)
+  - - '8:25.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - Offensive rebound by Team
+  - - '8:25.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - Official timeout
+  - - '8:21.0'
+    - ''
+    - ''
+    - 87-78
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:00.0'
+    - S. O'Neal misses 2-pt shot from 11 ft
+    - ''
+    - 87-78
+    - ''
+    - ''
+  - - '7:58.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 87-78
+    - ''
+    - ''
+  - - '7:57.0'
+    - Shooting foul by K. Martin
+    - ''
+    - 87-78
+    - ''
+    - ''
+  - - '7:57.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 88-78
+    - ''
+    - ''
+  - - '7:57.0'
+    - K. Bryant makes free throw 2 of 2
+    - "+1"
+    - 89-78
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 89-78
+    - ''
+    - Personal foul by R. Horry
+  - - '7:38.0'
+    - ''
+    - ''
+    - 89-80
+    - "+2"
+    - K. Martin makes 2-pt shot from 13 ft (assist by S. Marbury)
+  - - '7:21.0'
+    - S. O'Neal makes 2-pt shot from 8 ft (assist by I. Rider)
+    - "+2"
+    - 91-80
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 91-80
+    - ''
+    - Violation by K. Martin (def goaltending)
+  - - '7:11.0'
+    - ''
+    - ''
+    - 91-82
+    - "+2"
+    - K. Van Horn makes 2-pt shot from 20 ft (assist by S. Marbury)
+  - - '6:56.0'
+    - K. Bryant makes 2-pt shot from 13 ft (assist by R. Horry)
+    - "+2"
+    - 93-82
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 93-82
+    - ''
+    - K. Martin misses 2-pt shot from 8 ft
+  - - '6:37.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 93-82
+    - ''
+    - ''
+  - - '6:22.0'
+    - S. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 93-82
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 93-82
+    - ''
+    - Defensive rebound by J. Feick
+  - - '6:13.0'
+    - ''
+    - ''
+    - 93-84
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '5:53.0'
+    - S. O'Neal makes 2-pt shot from 5 ft (assist by I. Rider)
+    - "+2"
+    - 95-84
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - Shooting foul by S. O'Neal
+  - - '5:39.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - New Jersey full timeout
+  - - '5:39.0'
+    - ''
+    - ''
+    - 95-84
+    - ''
+    - L. Harris enters the game for J. Newman
+  - - '5:39.0'
+    - H. Grant enters the game for S. O'Neal
+    - ''
+    - 95-84
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 95-85
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '5:39.0'
+    - ''
+    - ''
+    - 95-86
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '5:17.0'
+    - K. Bryant makes 3-pt shot from 26 ft
+    - "+3"
+    - 98-86
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 98-86
+    - ''
+    - Turnover by S. Marbury (lost ball)
+  - - '4:38.0'
+    - I. Rider misses 2-pt shot from 20 ft
+    - ''
+    - 98-86
+    - ''
+    - ''
+  - - '4:36.0'
+    - ''
+    - ''
+    - 98-86
+    - ''
+    - Defensive rebound by L. Harris
+  - - '4:29.0'
+    - ''
+    - ''
+    - 98-88
+    - "+2"
+    - K. Martin makes 2-pt shot from 17 ft (assist by L. Harris)
+  - - '4:14.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 100-88
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 100-88
+    - ''
+    - Personal foul by I. Rider
+  - - '4:05.0'
+    - ''
+    - ''
+    - 100-89
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '4:05.0'
+    - S. O'Neal enters the game for M. Madsen
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '4:05.0'
+    - R. Harper enters the game for I. Rider
+    - ''
+    - 100-89
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 100-90
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '3:50.0'
+    - R. Horry misses 2-pt shot from 19 ft
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '3:48.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '3:39.0'
+    - Personal foul by K. Martin
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '3:20.0'
+    - R. Horry misses 3-pt shot from 24 ft
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 100-90
+    - ''
+    - Defensive rebound by J. Feick
+  - - '3:02.0'
+    - ''
+    - ''
+    - 100-90
+    - ''
+    - K. Van Horn misses 2-pt shot from 18 ft
+  - - '3:01.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '2:45.0'
+    - R. Horry misses 2-pt shot from 14 ft
+    - ''
+    - 100-90
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 100-90
+    - ''
+    - Defensive rebound by J. Feick
+  - - '2:37.0'
+    - ''
+    - ''
+    - 100-92
+    - "+2"
+    - S. Marbury makes 2-pt shot from 10 ft
+  - - '2:37.0'
+    - ''
+    - ''
+    - 100-92
+    - ''
+    - Shooting foul by K. Bryant
+  - - '2:37.0'
+    - ''
+    - ''
+    - 100-92
+    - ''
+    - New Jersey full timeout
+  - - '2:37.0'
+    - R. Fox enters the game for R. Harper
+    - ''
+    - 100-92
+    - ''
+    - ''
+  - - '2:37.0'
+    - T. Lue enters the game for R. Horry
+    - ''
+    - 100-92
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 100-93
+    - "+1"
+    - S. Marbury makes free throw 1 of 1
+  - - '2:13.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 100-93
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 100-96
+    - "+3"
+    - K. Van Horn makes 3-pt shot from 24 ft (assist by S. Marbury)
+  - - '1:40.0'
+    - T. Lue misses 3-pt shot from 25 ft
+    - ''
+    - 100-96
+    - ''
+    - ''
+  - - '1:38.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 100-96
+    - ''
+    - ''
+  - - '1:37.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 102-96
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 102-96
+    - ''
+    - Shooting foul by H. Grant
+  - - '1:27.0'
+    - R. Horry enters the game for H. Grant
+    - ''
+    - 102-96
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 102-97
+    - "+1"
+    - S. Marbury makes free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 102-98
+    - "+1"
+    - S. Marbury makes free throw 2 of 2
+  - - '1:04.0'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 104-98
+    - ''
+    - ''
+  - - '0:57.9'
+    - ''
+    - ''
+    - 104-98
+    - ''
+    - L. Harris misses 2-pt shot from 17 ft
+  - - '0:55.7'
+    - ''
+    - ''
+    - 104-98
+    - ''
+    - Offensive rebound by J. Feick
+  - - '0:54.6'
+    - ''
+    - ''
+    - 104-98
+    - ''
+    - J. Feick misses 2-pt shot at rim
+  - - '0:54.1'
+    - ''
+    - ''
+    - 104-98
+    - ''
+    - Offensive rebound by S. Marbury
+  - - '0:51.4'
+    - ''
+    - ''
+    - 104-101
+    - "+3"
+    - S. Marbury makes 3-pt shot from 25 ft
+  - - '0:31.6'
+    - Turnover by T. Lue (lost ball; steal by L. Harris)
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:27.0'
+    - ''
+    - ''
+    - 104-104
+    - "+3"
+    - S. Marbury makes 3-pt shot from 24 ft
+  - - '0:27.0'
+    - LA Lakers full timeout
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '0:27.0'
+    - B. Shaw enters the game for T. Lue
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '0:06.5'
+    - K. Bryant misses 2-pt shot from 18 ft
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '0:01.2'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - Defensive rebound by L. Harris
+  - - '0:00.6'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - New Jersey full timeout
+  - - '0:00.6'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - New Jersey 20 second timeout
+  - - '0:00.6'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - J. Newman enters the game for K. Martin
+  - - '0:00.6'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - New Jersey full timeout
+  - - '0:00.2'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - Turnover by J. Newman (bad pass; steal by K. Bryant)
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: K. Van Horn vs. S. O''Neal (B. Shaw gains possession)'
+  - - '4:44.0'
+    - Personal foul by J. Feick
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '4:30.0'
+    - S. O'Neal misses 2-pt shot from 15 ft
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - Defensive rebound by Team
+  - - '4:29.0'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - Loose ball foul by H. Grant
+  - - '4:21.0'
+    - ''
+    - ''
+    - 104-106
+    - "+2"
+    - S. Marbury makes 2-pt shot at rim
+  - - '4:01.0'
+    - B. Shaw misses 3-pt shot from 26 ft
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '4:00.0'
+    - Offensive rebound by R. Fox
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '4:00.0'
+    - Personal foul by K. Van Horn
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '4:00.0'
+    - T. Lue enters the game for B. Shaw
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:52.0'
+    - Personal foul by J. Feick
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:39.0'
+    - K. Bryant misses 3-pt shot from 26 ft
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:37.0'
+    - Offensive rebound by K. Bryant
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - K. Bryant misses 2-pt shot at rim
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - Offensive rebound by Team
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - Loose ball foul by J. Feick
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - Offensive rebound by Team
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:33.0'
+    - S. O'Neal misses free throw 2 of 2
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:30.0'
+    - Offensive rebound by Team
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:26.0'
+    - Shooting foul by L. Harris
+    - ''
+    - 104-106
+    - ''
+    - ''
+  - - '3:26.0'
+    - K. Bryant makes free throw 1 of 2
+    - "+1"
+    - 105-106
+    - ''
+    - ''
+  - - '3:26.0'
+    - K. Bryant misses free throw 2 of 2
+    - ''
+    - 105-106
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 105-106
+    - ''
+    - Defensive rebound by Team
+  - - '3:25.0'
+    - ''
+    - ''
+    - 105-106
+    - ''
+    - Loose ball foul by S. O'Neal
+  - - '3:15.0'
+    - ''
+    - ''
+    - 105-106
+    - ''
+    - S. Marbury misses 2-pt shot from 18 ft
+  - - '3:14.0'
+    - Defensive rebound by S. O'Neal
+    - ''
+    - 105-106
+    - ''
+    - ''
+  - - '3:00.0'
+    - Turnover by K. Bryant (lost ball)
+    - ''
+    - 105-106
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 105-106
+    - ''
+    - Personal foul by T. Lue
+  - - '2:39.0'
+    - ''
+    - ''
+    - 105-106
+    - ''
+    - S. Marbury misses 2-pt shot from 9 ft
+  - - '2:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 105-106
+    - ''
+    - ''
+  - - '2:39.0'
+    - Loose ball foul by S. Marbury
+    - ''
+    - 105-106
+    - ''
+    - ''
+  - - '2:39.0'
+    - S. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 106-106
+    - ''
+    - ''
+  - - '2:39.0'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 107-106
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 107-106
+    - ''
+    - K. Van Horn misses 2-pt shot from 7 ft
+  - - '2:22.0'
+    - Defensive rebound by R. Fox
+    - ''
+    - 107-106
+    - ''
+    - ''
+  - - '2:02.0'
+    - K. Bryant misses 2-pt shot from 15 ft
+    - ''
+    - 107-106
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 107-106
+    - ''
+    - Defensive rebound by L. Harris
+  - - '1:47.0'
+    - ''
+    - ''
+    - 107-106
+    - ''
+    - Shooting foul by R. Fox
+  - - '1:47.0'
+    - ''
+    - ''
+    - 107-107
+    - "+1"
+    - K. Van Horn makes free throw 1 of 2
+  - - '1:47.0'
+    - ''
+    - ''
+    - 107-108
+    - "+1"
+    - K. Van Horn makes free throw 2 of 2
+  - - '1:31.0'
+    - K. Bryant misses 2-pt shot at rim
+    - ''
+    - 107-108
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 107-108
+    - ''
+    - Defensive rebound by J. Feick
+  - - '1:21.0'
+    - ''
+    - ''
+    - 107-110
+    - "+2"
+    - J. Newman makes 2-pt shot at rim (assist by S. Marbury)
+  - - '1:21.0'
+    - LA Lakers full timeout
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 107-110
+    - ''
+    - A. Williams enters the game for J. Feick
+  - - '1:21.0'
+    - R. Harper enters the game for R. Fox
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '1:12.0'
+    - LA Lakers 20 second timeout
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '1:04.0'
+    - R. Harper misses 3-pt shot from 25 ft
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '1:02.0'
+    - Offensive rebound by H. Grant
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '0:55.6'
+    - Shooting foul by A. Williams
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '0:55.6'
+    - S. O'Neal misses free throw 1 of 2
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '0:55.6'
+    - Offensive rebound by Team
+    - ''
+    - 107-110
+    - ''
+    - ''
+  - - '0:55.6'
+    - S. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 108-110
+    - ''
+    - ''
+  - - '0:44.6'
+    - ''
+    - ''
+    - 108-110
+    - ''
+    - S. Marbury misses 2-pt shot at rim (block by S. O'Neal)
+  - - '0:42.2'
+    - Defensive rebound by R. Harper
+    - ''
+    - 108-110
+    - ''
+    - ''
+  - - '0:37.0'
+    - T. Lue makes 2-pt shot at rim
+    - "+2"
+    - 110-110
+    - ''
+    - ''
+  - - '0:20.2'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - L. Harris misses 3-pt shot from 24 ft
+  - - '0:18.9'
+    - Defensive rebound by H. Grant
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '0:18.9'
+    - LA Lakers full timeout
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '0:18.9'
+    - R. Fox enters the game for R. Harper
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - K. Martin enters the game for K. Van Horn
+  - - '0:04.8'
+    - K. Bryant makes 2-pt shot at rim
+    - "+2"
+    - 112-110
+    - ''
+    - ''
+  - - '0:04.8'
+    - Shooting foul by K. Martin
+    - ''
+    - 112-110
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 112-110
+    - ''
+    - J. Feick enters the game for K. Martin
+  - - '0:04.8'
+    - K. Bryant makes free throw 1 of 1
+    - "+1"
+    - 113-110
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 113-110
+    - ''
+    - New Jersey full timeout
+  - - '0:04.8'
+    - R. Harper enters the game for R. Fox
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 113-110
+    - ''
+    - K. Van Horn enters the game for A. Williams
+  - - '0:01.1'
+    - ''
+    - ''
+    - 113-110
+    - ''
+    - S. Marbury misses 3-pt shot from 27 ft
+  - - '0:00.0'
+    - Defensive rebound by K. Bryant
+    - ''
+    - 113-110
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime

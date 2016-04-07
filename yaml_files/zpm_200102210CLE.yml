@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: 0&#9642;Off: +6&#9642;Net: -6)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 98/-3
+    - 152/
+    - 216/+5
+    - 96/
+    - 186/+4
+    - 'Lamar Odom (On: +2&#9642;Off: +4&#9642;Net: -2)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 143/-1
+    - 99/
+    - 7/0
+    - 215/+5
+    - 33/
+    - 0/0
+    - 62/
+    - 187/+4
+    - 'Michael Olowokandi (On: 0&#9642;Off: +6&#9642;Net: -6)'
+    - |2-
+
+      -6
+    - 200/-6
+    - 200/
+    - 91/+3
+    - 8/
+    - 191/+3
+    - 308/
+    - 'Eric Piatkowski (On: -6&#9642;Off: +12&#9642;Net: -18)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 46/-5
+    - 196/
+    - 7/0
+    - 149/+1
+    - 99/
+    - 0/0
+    - 199/
+    - 50/+4
+    - 'Brian Skinner (On: -3&#9642;Off: +9&#9642;Net: -12)'
+    - |2-
+
+      -2
+    - 179/-2
+    - 320/
+    - 181/+1
+    - 248/
+    - 20/-2
+    - 50/
+    - 'Darius Miles (On: +5&#9642;Off: +1&#9642;Net: +4)'
+    - "\n"
+    - 182/
+    - 67/-4
+    - 241/+2
+    - 192/
+    - 61/+4
+    - 4/
+    - 173/+3
+    - 76/
+    - 'Sean Rooks (On: +6&#9642;Off: 0&#9642;Net: +6)'
+    - "\n"
+    - 204/
+    - 45/0
+    - 143/-1
+    - 304/
+    - 52/+2
+    - 250/+5
+    - 'Quentin Richardson (On: +16&#9642;Off: -10&#9642;Net: +26)'
+    - "\n"
+    - 300/
+    - 199/+7
+    - 155/
+    - 94/+4
+    - 251/+5
+    - 'Keyon Dooling (On: +6&#9642;Off: 0&#9642;Net: +6)'
+    - "\n"
+    - 349/
+    - 150/+5
+    - 221/
+    - 28/0
+    - 56/+1
+    - 194/
+    - 'Corey Maggette (On: +4&#9642;Off: +2&#9642;Net: +2)'
+    - "\n"
+    - 399/
+    - 99/+3
+    - 221/
+    - 25/0
+    - 4/
+    - 56/+1
+    - 193/
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Cedric Henderson (On: -13&#9642;Off: +7&#9642;Net: -20)'
+    - |2-
+
+      -2
+    - 149/-2
+    - 269/
+    - 81/-1
+    - 215/-5
+    - 237/
+    - 27/-5
+    - 19/
+    - 'Trajan Langdon (On: -10&#9642;Off: +4&#9642;Net: -14)'
+    - |2-
+
+      -7
+    - 123/-7
+    - 376/
+    - 105/-4
+    - 377/
+    - 18/+1
+    - 'Chris Mihm (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 183/
+    - 59/+2
+    - 7/
+    - 191/-3
+    - 308/
+    - 'Andre Miller (On: -2&#9642;Off: -4&#9642;Net: +2)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 168/
+    - 81/-1
+    - 250/-5
+    - 101/
+    - 148/-2
+    - 'Clarence Weatherspoon (On: -6&#9642;Off: 0&#9642;Net: -6)'
+    - |2-
+
+      +6
+    - 200/+6
+    - 184/
+    - 114/-5
+    - 216/-5
+    - 135/
+    - 149/-2
+    - 'Jim Jackson (On: +6&#9642;Off: -12&#9642;Net: +18)'
+    - "\n"
+    - 126/
+    - 123/+13
+    - 250/-2
+    - 221/
+    - 28/0
+    - 250/-5
+    - 'Wesley Person (On: +1&#9642;Off: -7&#9642;Net: +8)'
+    - "\n"
+    - 152/
+    - 97/+8
+    - 164/-1
+    - 194/
+    - 140/-1
+    - 251/-5
+    - 'Chucky Brown (On: 0&#9642;Off: -6&#9642;Net: +6)'
+    - "\n"
+    - 204/
+    - 45/0
+    - 130/+3
+    - 340/
+    - 28/0
+    - 100/-3
+    - 150/
+    - 'Bimbo Coles (On: -4&#9642;Off: -2&#9642;Net: -2)'
+    - "\n"
+    - 249/
+    - 164/-1
+    - 84/
+    - 1/0
+    - 249/
+    - 0/0
+    - 100/-3
+    - 149/
+    - 'Chris Gatling (On: -7&#9642;Off: +1&#9642;Net: -8)'
+    - "\n"
+    - 249/
+    - 183/-4
+    - 264/
+    - 48/-2
+    - 4/
+    - 200/-1
+    - 49/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

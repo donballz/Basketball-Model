@@ -1,0 +1,2462 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: S. Swift vs. B. Grant (T. Hardaway gains possession)'
+  - - '11:42.0'
+    - E. Jones misses 2-pt shot from 16 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '11:29.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by B. Reeves (bad pass; steal by E. Jones)
+  - - '11:12.0'
+    - A. Mason misses 2-pt shot from 7 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by S. Swift
+  - - '11:03.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '11:01.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:48.0'
+    - T. Hardaway misses 2-pt shot from 21 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '10:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Dickerson misses 2-pt shot from 20 ft
+  - - '10:38.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:24.0'
+    - B. Grant makes 2-pt shot from 12 ft (assist by B. Bowen)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Dickerson misses 2-pt shot from 2 ft (block by A. Mason)
+  - - '9:57.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '9:44.0'
+    - E. Jones makes 3-pt shot from 25 ft (assist by A. Mason)
+    - "+3"
+    - 5-0
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball; steal by B. Bowen)
+  - - '9:24.0'
+    - Shooting foul by M. Bibby
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:24.0'
+    - B. Bowen misses free throw 1 of 2
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:24.0'
+    - Offensive rebound by Team
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:24.0'
+    - B. Bowen misses free throw 2 of 2
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:22.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:11.0'
+    - B. Bowen misses 2-pt shot from 13 ft
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '8:57.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '8:54.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '8:44.0'
+    - Offensive foul by A. Mason
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '8:44.0'
+    - Turnover by A. Mason (foul)
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - S. Swift misses 2-pt shot from 16 ft
+  - - '8:19.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '8:11.0'
+    - A. Mason misses 2-pt shot from 4 ft (block by S. Swift)
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '7:55.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Shooting foul by B. Bowen
+  - - '7:55.0'
+    - ''
+    - ''
+    - 5-1
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '7:55.0'
+    - ''
+    - ''
+    - 5-2
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '7:34.0'
+    - B. Bowen misses 3-pt shot from 26 ft
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '7:31.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '7:26.0'
+    - E. Jones makes 2-pt shot from 8 ft (assist by A. Mason)
+    - "+2"
+    - 7-2
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - Turnover by B. Reeves (bad pass)
+  - - '7:02.0'
+    - B. Grant makes 2-pt shot from 18 ft (assist by T. Hardaway)
+    - "+2"
+    - 9-2
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Vancouver full timeout
+  - - '6:57.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - D. Jones enters the game for S. Swift
+  - - '6:50.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - B. Reeves misses 2-pt shot from 1 ft
+  - - '6:48.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '6:30.0'
+    - T. Hardaway misses 2-pt shot from 16 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '6:19.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Turnover by M. Bibby (lost ball; steal by E. Jones)
+  - - '6:02.0'
+    - E. Jones misses 2-pt shot from 20 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '5:50.0'
+    - Violation by B. Bowen (illegal defense)
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - D. Jones misses 3-pt shot from 26 ft
+  - - '5:37.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '5:27.0'
+    - E. Jones misses 3-pt shot from 23 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '5:19.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - M. Bibby misses 2-pt shot from 1 ft
+  - - '5:18.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '5:07.0'
+    - A. Mason misses 2-pt shot from 7 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '5:05.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '4:58.0'
+    - ''
+    - ''
+    - 9-5
+    - "+3"
+    - M. Bibby makes 3-pt shot from 26 ft (assist by M. Dickerson)
+  - - '4:34.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 9-5
+    - ''
+    - ''
+  - - '4:23.0'
+    - A. Mason makes 2-pt shot from 6 ft
+    - "+2"
+    - 11-5
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 11-7
+    - "+2"
+    - B. Reeves makes 2-pt shot from 5 ft (assist by M. Dickerson)
+  - - '3:41.0'
+    - B. Grant misses 2-pt shot from 11 ft
+    - ''
+    - 11-7
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '3:30.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 4 ft
+  - - '3:29.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '3:27.0'
+    - ''
+    - ''
+    - 11-9
+    - "+2"
+    - B. Reeves makes 2-pt shot from 1 ft
+  - - '3:12.0'
+    - T. Hardaway misses 2-pt shot from 20 ft
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '3:05.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - M. Dickerson misses 2-pt shot from 10 ft
+  - - '3:03.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '3:02.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot at rim
+  - - '2:59.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '2:56.0'
+    - Miami full timeout
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '2:56.0'
+    - A. Carter enters the game for B. Grant
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '2:56.0'
+    - A. Green enters the game for T. Hardaway
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '2:40.0'
+    - E. Jones makes 2-pt shot from 21 ft
+    - "+2"
+    - 13-9
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 4 ft
+  - - '2:16.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '2:10.0'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '2:10.0'
+    - B. Bowen misses free throw 1 of 2
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '2:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - G. Long enters the game for M. Dickerson
+  - - '2:10.0'
+    - B. Bowen makes free throw 2 of 2
+    - "+1"
+    - 14-9
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 14-9
+    - ''
+    - G. Long misses 2-pt shot from 18 ft
+  - - '2:01.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 14-9
+    - ''
+    - ''
+  - - '1:51.0'
+    - A. Mason makes 2-pt shot from 3 ft
+    - "+2"
+    - 16-9
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 16-11
+    - "+2"
+    - G. Long makes 2-pt shot from 1 ft
+  - - '1:41.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - Shooting foul by A. Mason
+  - - '1:41.0'
+    - B. Grant enters the game for A. Mason
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - G. Long misses free throw 1 of 1
+  - - '1:40.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '1:28.0'
+    - A. Carter misses 2-pt shot from 7 ft
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '1:24.0'
+    - A. Carter makes 2-pt shot from 8 ft
+    - "+2"
+    - 18-11
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by A. Carter
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Personal foul by A. Green
+  - - '1:11.0'
+    - D. Majerle enters the game for E. Jones
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 18-12
+    - "+1"
+    - M. Bibby makes free throw 1 of 2
+  - - '1:11.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - M. Bibby misses free throw 2 of 2
+  - - '1:09.0'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - Offensive rebound by G. Long
+  - - '0:51.9'
+    - ''
+    - ''
+    - 18-12
+    - ''
+    - D. Jones misses 3-pt shot from 24 ft (block by B. Grant)
+  - - '0:51.3'
+    - Defensive rebound by Team
+    - ''
+    - 18-12
+    - ''
+    - ''
+  - - '0:35.1'
+    - B. Bowen makes 2-pt shot from 1 ft (assist by B. Grant)
+    - "+2"
+    - 20-12
+    - ''
+    - ''
+  - - '0:20.9'
+    - ''
+    - ''
+    - 20-12
+    - ''
+    - Turnover by G. Long (lost ball; steal by A. Carter)
+  - - '0:16.3'
+    - A. Carter makes 2-pt shot from 2 ft
+    - "+2"
+    - 22-12
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 22-12
+    - ''
+    - Turnover by D. Jones (lost ball; steal by A. Green)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 22-12
+    - ''
+    - Personal foul by B. Bowen
+  - - '11:34.0'
+    - ''
+    - ''
+    - 22-14
+    - "+2"
+    - M. Bibby makes 2-pt shot from 20 ft (assist by G. Long)
+  - - '11:19.0'
+    - B. Grant makes 2-pt shot at rim
+    - "+2"
+    - 24-14
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 24-16
+    - "+2"
+    - G. Long makes 2-pt shot from 16 ft (assist by D. Jones)
+  - - '10:40.0'
+    - A. Carter misses 2-pt shot from 12 ft
+    - ''
+    - 24-16
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '10:38.0'
+    - T. Hardaway enters the game for B. Bowen
+    - ''
+    - 24-16
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Turnover by O. Harrington (3 second)
+  - - '10:06.0'
+    - B. Grant makes 2-pt shot from 3 ft (assist by T. Hardaway)
+    - "+2"
+    - 26-16
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by D. Majerle)
+  - - '9:43.0'
+    - Turnover by T. Hardaway (bad pass)
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 7 ft
+  - - '9:21.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '9:12.0'
+    - D. Majerle misses 2-pt shot from 5 ft
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '9:09.0'
+    - D. Majerle makes 2-pt shot at rim
+    - "+2"
+    - 28-16
+    - ''
+    - ''
+  - - '9:09.0'
+    - Offensive rebound by D. Majerle
+    - ''
+    - 28-16
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 28-16
+    - ''
+    - Vancouver full timeout
+  - - '8:48.0'
+    - ''
+    - ''
+    - 28-18
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '8:30.0'
+    - T. Hardaway makes 3-pt shot from 23 ft
+    - "+3"
+    - 31-18
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-18
+    - ''
+    - Shooting foul by B. Grant
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-18
+    - ''
+    - S. Abdur-Rahim misses free throw 1 of 2
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-19
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - Offensive rebound by Team
+  - - '8:08.0'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 31-19
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '7:55.0'
+    - ''
+    - ''
+    - 31-19
+    - ''
+    - Shooting foul by A. Green
+  - - '7:55.0'
+    - ''
+    - ''
+    - 31-20
+    - "+1"
+    - O. Harrington makes free throw 1 of 2
+  - - '7:55.0'
+    - A. Mason enters the game for A. Green
+    - ''
+    - 31-20
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - M. Dickerson enters the game for M. Bibby
+  - - '7:55.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - O. Harrington misses free throw 2 of 2
+  - - '7:54.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 31-20
+    - ''
+    - ''
+  - - '7:29.0'
+    - B. Grant misses 2-pt shot from 16 ft
+    - ''
+    - 31-20
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '7:20.0'
+    - ''
+    - ''
+    - 31-20
+    - ''
+    - Personal foul by B. Grant
+  - - '7:20.0'
+    - E. Jones enters the game for T. Hardaway
+    - ''
+    - 31-20
+    - ''
+    - ''
+  - - '7:11.0'
+    - ''
+    - ''
+    - 31-22
+    - "+2"
+    - O. Harrington makes 2-pt shot at rim (assist by S. Abdur-Rahim)
+  - - '6:49.0'
+    - B. Grant misses 2-pt shot from 4 ft
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '6:29.0'
+    - ''
+    - ''
+    - 31-22
+    - ''
+    - O. Harrington misses 2-pt shot from 12 ft
+  - - '6:28.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 31-22
+    - ''
+    - ''
+  - - '6:17.0'
+    - E. Jones makes 2-pt shot from 21 ft
+    - "+2"
+    - 33-22
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 33-24
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 21 ft (assist by D. Jones)
+  - - '5:45.0'
+    - D. Majerle makes 3-pt shot from 24 ft (assist by A. Carter)
+    - "+3"
+    - 36-24
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 36-24
+    - ''
+    - Turnover by D. Jones (bad pass; steal by A. Carter)
+  - - '5:26.0'
+    - A. Carter misses 2-pt shot from 1 ft
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:22.0'
+    - E. Jones misses 2-pt shot at rim
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:22.0'
+    - Offensive rebound by E. Jones
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:20.0'
+    - Offensive rebound by D. Majerle
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:20.0'
+    - Miami full timeout
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 36-24
+    - ''
+    - M. Bibby enters the game for S. Abdur-Rahim
+  - - '5:20.0'
+    - ''
+    - ''
+    - 36-24
+    - ''
+    - B. Reeves enters the game for G. Long
+  - - '5:20.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:08.0'
+    - A. Carter misses 2-pt shot from 22 ft
+    - ''
+    - 36-24
+    - ''
+    - ''
+  - - '5:05.0'
+    - ''
+    - ''
+    - 36-24
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '4:50.0'
+    - ''
+    - ''
+    - 36-24
+    - ''
+    - Personal foul by E. Jones
+  - - '4:50.0'
+    - ''
+    - ''
+    - 36-25
+    - "+1"
+    - B. Reeves makes free throw 1 of 2
+  - - '4:50.0'
+    - T. Hardaway enters the game for A. Carter
+    - ''
+    - 36-25
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 36-26
+    - "+1"
+    - B. Reeves makes free throw 2 of 2
+  - - '4:28.0'
+    - D. Majerle misses 2-pt shot from 9 ft
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '4:22.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - D. Jones misses 2-pt shot from 14 ft
+  - - '4:21.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Offensive rebound by Team
+  - - '4:21.0'
+    - B. Bowen enters the game for D. Majerle
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '4:16.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '3:56.0'
+    - E. Jones misses 2-pt shot from 16 ft
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '3:55.0'
+    - Offensive rebound by A. Green
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '3:54.0'
+    - E. Jones makes 2-pt shot from 1 ft (assist by A. Green)
+    - "+2"
+    - 38-26
+    - ''
+    - ''
+  - - '3:54.0'
+    - Shooting foul by B. Reeves
+    - ''
+    - 38-26
+    - ''
+    - ''
+  - - '3:54.0'
+    - E. Jones makes free throw 1 of 1
+    - "+1"
+    - 39-26
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 39-28
+    - "+2"
+    - O. Harrington makes 2-pt shot from 10 ft
+  - - '3:23.0'
+    - A. Green misses 2-pt shot from 17 ft
+    - ''
+    - 39-28
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 39-28
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '3:11.0'
+    - ''
+    - ''
+    - 39-28
+    - ''
+    - D. Jones misses 3-pt shot from 25 ft
+  - - '3:09.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 39-28
+    - ''
+    - ''
+  - - '3:01.0'
+    - A. Green makes 2-pt shot from 16 ft (assist by T. Hardaway)
+    - "+2"
+    - 41-28
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 41-28
+    - ''
+    - O. Harrington misses 2-pt shot from 3 ft
+  - - '2:39.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 41-28
+    - ''
+    - ''
+  - - '2:26.0'
+    - T. Hardaway makes 2-pt shot from 14 ft
+    - "+2"
+    - 43-28
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 43-28
+    - ''
+    - Vancouver 20 second timeout
+  - - '2:19.0'
+    - ''
+    - ''
+    - 43-28
+    - ''
+    - Official timeout
+  - - '2:19.0'
+    - B. Grant enters the game for A. Green
+    - ''
+    - 43-28
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 43-28
+    - ''
+    - S. Abdur-Rahim enters the game for D. Jones
+  - - '2:01.0'
+    - ''
+    - ''
+    - 43-28
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '2:00.0'
+    - ''
+    - ''
+    - 43-28
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '1:58.0'
+    - ''
+    - ''
+    - 43-30
+    - "+2"
+    - B. Reeves makes 2-pt shot at rim
+  - - '1:38.0'
+    - E. Jones makes 2-pt shot from 17 ft
+    - "+2"
+    - 45-30
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 45-30
+    - ''
+    - Shooting foul by B. Grant
+  - - '1:20.0'
+    - ''
+    - ''
+    - 45-31
+    - "+1"
+    - B. Reeves makes free throw 1 of 2
+  - - '1:20.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 45-31
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 45-32
+    - "+1"
+    - B. Reeves makes free throw 2 of 2
+  - - '1:07.0'
+    - E. Jones misses 2-pt shot from 21 ft
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '1:05.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:53.9'
+    - B. Bowen misses 2-pt shot from 1 ft
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '0:46.9'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 21 ft
+  - - '0:44.9'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '0:43.6'
+    - ''
+    - ''
+    - 45-34
+    - "+2"
+    - B. Reeves makes 2-pt shot at rim
+  - - '0:30.3'
+    - A. Mason makes 2-pt shot from 5 ft
+    - "+2"
+    - 47-34
+    - ''
+    - ''
+  - - '0:18.6'
+    - ''
+    - ''
+    - 47-34
+    - ''
+    - Turnover by S. Abdur-Rahim (bad pass)
+  - - '0:01.8'
+    - T. Hardaway makes 3-pt shot from 26 ft
+    - "+3"
+    - 50-34
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 50-36
+    - "+2"
+    - B. Reeves makes 2-pt shot at rim (assist by M. Bibby)
+  - - '11:26.0'
+    - B. Bowen misses 3-pt shot from 25 ft
+    - ''
+    - 50-36
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 50-36
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '11:20.0'
+    - ''
+    - ''
+    - 50-38
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot at rim (assist by M. Bibby)
+  - - '11:00.0'
+    - A. Mason makes 2-pt shot from 1 ft (assist by B. Grant)
+    - "+2"
+    - 52-38
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 52-40
+    - "+2"
+    - O. Harrington makes 2-pt shot from 10 ft (assist by S. Abdur-Rahim)
+  - - '10:27.0'
+    - Turnover by B. Bowen (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 52-40
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 52-43
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 25 ft (assist by M. Bibby)
+  - - '10:19.0'
+    - Miami 20 second timeout
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '10:02.0'
+    - T. Hardaway misses 3-pt shot from 23 ft
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '10:00.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '9:58.0'
+    - A. Mason misses 2-pt shot at rim (block by S. Abdur-Rahim)
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '9:56.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '9:51.0'
+    - T. Hardaway makes 3-pt shot from 23 ft (assist by A. Mason)
+    - "+3"
+    - 55-43
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 55-45
+    - "+2"
+    - M. Bibby makes 2-pt shot from 17 ft
+  - - '9:15.0'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '8:58.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - B. Reeves misses 2-pt shot from 16 ft
+  - - '8:56.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '8:37.0'
+    - A. Mason misses 2-pt shot from 16 ft
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '8:34.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '8:27.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Personal foul by T. Hardaway
+  - - '8:20.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - B. Reeves misses 2-pt shot from 16 ft
+  - - '8:17.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '8:04.0'
+    - B. Grant misses 2-pt shot from 13 ft
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Defensive rebound by Team
+  - - '7:49.0'
+    - ''
+    - ''
+    - 55-47
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 20 ft (assist by M. Bibby)
+  - - '7:33.0'
+    - E. Jones misses 2-pt shot from 10 ft
+    - ''
+    - 55-47
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 55-47
+    - ''
+    - Defensive rebound by O. Harrington
+  - - '7:24.0'
+    - ''
+    - ''
+    - 55-47
+    - ''
+    - M. Bibby misses 2-pt shot from 17 ft
+  - - '7:23.0'
+    - ''
+    - ''
+    - 55-47
+    - ''
+    - Offensive rebound by Team
+  - - '7:11.0'
+    - ''
+    - ''
+    - 55-47
+    - ''
+    - M. Dickerson misses 2-pt shot from 6 ft
+  - - '7:09.0'
+    - ''
+    - ''
+    - 55-47
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '7:05.0'
+    - ''
+    - ''
+    - 55-50
+    - "+3"
+    - M. Bibby makes 3-pt shot from 26 ft (assist by O. Harrington)
+  - - '6:55.0'
+    - Miami full timeout
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:55.0'
+    - A. Carter enters the game for T. Hardaway
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:55.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:41.0'
+    - B. Bowen makes 3-pt shot from 24 ft (assist by E. Jones)
+    - "+3"
+    - 58-50
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 58-52
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 3 ft
+  - - '6:04.0'
+    - E. Jones makes 2-pt shot from 15 ft
+    - "+2"
+    - 60-52
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 60-52
+    - ''
+    - M. Dickerson misses 2-pt shot from 17 ft
+  - - '5:44.0'
+    - Defensive rebound by Team
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '5:44.0'
+    - Loose ball foul by B. Reeves
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '5:25.0'
+    - A. Carter misses 2-pt shot from 14 ft
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '5:22.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '5:13.0'
+    - Turnover by A. Mason (no)
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 60-52
+    - ''
+    - Turnover by O. Harrington (3 second)
+  - - '4:42.0'
+    - Turnover by A. Carter (bad pass; steal by B. Reeves)
+    - ''
+    - 60-52
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 60-54
+    - "+2"
+    - O. Harrington makes 2-pt shot from 3 ft (assist by M. Dickerson)
+  - - '4:04.0'
+    - E. Jones makes 2-pt shot from 18 ft (assist by B. Bowen)
+    - "+2"
+    - 62-54
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 62-56
+    - "+2"
+    - O. Harrington makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '3:28.0'
+    - E. Jones makes 2-pt shot from 18 ft (assist by A. Mason)
+    - "+2"
+    - 64-56
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 64-56
+    - ''
+    - Vancouver full timeout
+  - - '3:07.0'
+    - ''
+    - ''
+    - 64-58
+    - "+2"
+    - B. Reeves makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '3:07.0'
+    - ''
+    - ''
+    - 64-58
+    - ''
+    - Shooting foul by A. Mason
+  - - '3:07.0'
+    - ''
+    - ''
+    - 64-59
+    - "+1"
+    - B. Reeves makes free throw 1 of 1
+  - - '2:46.0'
+    - A. Green misses 2-pt shot from 17 ft
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '2:44.0'
+    - Offensive rebound by B. Bowen
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '2:34.0'
+    - E. Jones misses 3-pt shot from 26 ft
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 64-59
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '2:18.0'
+    - ''
+    - ''
+    - 64-59
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '2:16.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '1:59.0'
+    - B. Bowen makes 3-pt shot from 25 ft (assist by E. Jones)
+    - "+3"
+    - 67-59
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 67-59
+    - ''
+    - Offensive foul by B. Reeves
+  - - '1:43.0'
+    - ''
+    - ''
+    - 67-59
+    - ''
+    - Turnover by B. Reeves (foul)
+  - - '1:43.0'
+    - D. Majerle enters the game for E. Jones
+    - ''
+    - 67-59
+    - ''
+    - ''
+  - - '1:26.0'
+    - Turnover by A. Mason (traveling)
+    - ''
+    - 67-59
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 67-59
+    - ''
+    - I. Austin enters the game for B. Reeves
+  - - '1:14.0'
+    - ''
+    - ''
+    - 67-59
+    - ''
+    - M. Dickerson misses 3-pt shot from 26 ft
+  - - '1:11.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 67-59
+    - ''
+    - ''
+  - - '0:58.9'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 67-59
+    - ''
+    - ''
+  - - '0:58.9'
+    - ''
+    - ''
+    - 67-59
+    - ''
+    - G. Long enters the game for S. Abdur-Rahim
+  - - '0:43.9'
+    - D. Majerle makes 2-pt shot from 19 ft (assist by A. Carter)
+    - "+2"
+    - 69-59
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 69-59
+    - ''
+    - M. Bibby misses 2-pt shot from 14 ft
+  - - '0:32.6'
+    - Defensive rebound by Team
+    - ''
+    - 69-59
+    - ''
+    - ''
+  - - '0:32.6'
+    - Loose ball foul by O. Harrington
+    - ''
+    - 69-59
+    - ''
+    - ''
+  - - '0:32.6'
+    - A. Carter makes free throw 1 of 2
+    - "+1"
+    - 70-59
+    - ''
+    - ''
+  - - '0:32.6'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - M. Abdul-Rauf enters the game for M. Dickerson
+  - - '0:32.6'
+    - A. Carter misses free throw 2 of 2
+    - ''
+    - 70-59
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - Defensive rebound by I. Austin
+  - - '0:21.9'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - I. Austin misses 2-pt shot at rim
+  - - '0:20.5'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '0:17.9'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - O. Harrington misses 2-pt shot from 1 ft
+  - - '0:16.7'
+    - ''
+    - ''
+    - 70-59
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '0:00.0'
+    - ''
+    - ''
+    - 70-61
+    - "+2"
+    - O. Harrington makes 2-pt shot at rim (assist by M. Bibby)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - A. Carter makes 2-pt shot from 16 ft (assist by A. Mason)
+    - "+2"
+    - 72-61
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 72-61
+    - ''
+    - M. Bibby misses 2-pt shot from 3 ft
+  - - '11:20.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 72-61
+    - ''
+    - ''
+  - - '11:09.0'
+    - Offensive foul by D. Majerle
+    - ''
+    - 72-61
+    - ''
+    - ''
+  - - '11:09.0'
+    - Turnover by D. Majerle (foul)
+    - ''
+    - 72-61
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 72-61
+    - ''
+    - Shooting foul by T. Hardaway
+  - - '10:56.0'
+    - B. Grant enters the game for A. Mason
+    - ''
+    - 72-61
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 72-62
+    - "+1"
+    - M. Abdul-Rauf makes free throw 1 of 2
+  - - '10:56.0'
+    - ''
+    - ''
+    - 72-63
+    - "+1"
+    - M. Abdul-Rauf makes free throw 2 of 2
+  - - '10:35.0'
+    - B. Grant misses 2-pt shot from 4 ft
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:33.0'
+    - A. Green misses 2-pt shot at rim
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:33.0'
+    - Offensive rebound by A. Green
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - Defensive rebound by I. Austin
+  - - '10:26.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '10:22.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:21.0'
+    - Personal foul by I. Austin
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:15.0'
+    - Offensive foul by T. Hardaway
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:15.0'
+    - Turnover by T. Hardaway (foul)
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 72-63
+    - ''
+    - M. Abdul-Rauf misses 2-pt shot from 18 ft
+  - - '10:02.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 72-63
+    - ''
+    - ''
+  - - '9:50.0'
+    - T. Hardaway makes 2-pt shot from 19 ft (assist by A. Green)
+    - "+2"
+    - 74-63
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 74-63
+    - ''
+    - Turnover by O. Harrington (lost ball; steal by D. Majerle)
+  - - '9:31.0'
+    - Offensive foul by B. Grant
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '9:31.0'
+    - Turnover by B. Grant (foul)
+    - ''
+    - 74-63
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 74-63
+    - ''
+    - S. Swift enters the game for O. Harrington
+  - - '9:17.0'
+    - ''
+    - ''
+    - 74-65
+    - "+2"
+    - S. Swift makes 2-pt shot from 4 ft
+  - - '8:58.0'
+    - Shooting foul by S. Swift
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:58.0'
+    - Official timeout
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:58.0'
+    - A. Mason enters the game for B. Grant
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - S. Abdur-Rahim enters the game for M. Bibby
+  - - '8:58.0'
+    - ''
+    - ''
+    - 74-65
+    - ''
+    - M. Dickerson enters the game for G. Long
+  - - '8:58.0'
+    - T. Hardaway misses free throw 1 of 2
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:58.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-65
+    - ''
+    - ''
+  - - '8:58.0'
+    - T. Hardaway makes free throw 2 of 2
+    - "+1"
+    - 75-65
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 75-67
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 17 ft (assist by S. Swift)
+  - - '8:18.0'
+    - Turnover by T. Hardaway (lost ball)
+    - ''
+    - 75-67
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 75-67
+    - ''
+    - S. Swift misses 2-pt shot from 1 ft
+  - - '8:04.0'
+    - ''
+    - ''
+    - 75-67
+    - ''
+    - Offensive rebound by I. Austin
+  - - '8:00.0'
+    - 'Jump ball: I. Austin vs. A. Carter (S. Swift gains possession)'
+  - - '7:43.0'
+    - ''
+    - ''
+    - 75-69
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 20 ft (assist by I. Austin)
+  - - '7:28.0'
+    - Turnover by T. Hardaway (lost ball; steal by S. Swift)
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 75-69
+    - ''
+    - Personal foul by A. Carter
+  - - '7:25.0'
+    - ''
+    - ''
+    - 75-69
+    - ''
+    - M. Bibby enters the game for M. Abdul-Rauf
+  - - '7:25.0'
+    - E. Jones enters the game for T. Hardaway
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '7:25.0'
+    - B. Grant enters the game for A. Green
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '7:16.0'
+    - ''
+    - ''
+    - 75-69
+    - ''
+    - I. Austin misses 2-pt shot from 20 ft
+  - - '7:15.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '7:15.0'
+    - Personal foul by S. Swift
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '6:59.0'
+    - A. Mason makes 2-pt shot from 15 ft (assist by E. Jones)
+    - "+2"
+    - 77-69
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - Vancouver full timeout
+  - - '6:50.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - O. Harrington enters the game for S. Swift
+  - - '6:35.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - Turnover by M. Bibby (lost ball; steal by A. Mason)
+  - - '6:28.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '6:17.0'
+    - Turnover by E. Jones (bad pass; steal by M. Dickerson)
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 77-69
+    - ''
+    - M. Dickerson misses 3-pt shot from 24 ft
+  - - '6:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 77-69
+    - ''
+    - ''
+  - - '5:53.0'
+    - B. Grant makes 2-pt shot from 18 ft (assist by A. Carter)
+    - "+2"
+    - 79-69
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 79-69
+    - ''
+    - Turnover by I. Austin (lost ball; steal by E. Jones)
+  - - '5:11.0'
+    - Turnover by E. Jones (bad pass; steal by M. Dickerson)
+    - ''
+    - 79-69
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 79-71
+    - "+2"
+    - I. Austin makes 2-pt shot from 1 ft (assist by M. Dickerson)
+  - - '5:01.0'
+    - E. Jones makes 2-pt shot from 21 ft (assist by A. Carter)
+    - "+2"
+    - 81-71
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - M. Dickerson misses 3-pt shot from 26 ft
+  - - '4:37.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 81-71
+    - ''
+    - ''
+  - - '4:34.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 81-71
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - B. Reeves enters the game for I. Austin
+  - - '4:34.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 82-71
+    - ''
+    - ''
+  - - '4:34.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 83-71
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 83-71
+    - ''
+    - B. Reeves misses 2-pt shot from 7 ft
+  - - '4:16.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '4:16.0'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '4:16.0'
+    - D. Majerle makes free throw 1 of 2
+    - "+1"
+    - 84-71
+    - ''
+    - ''
+  - - '4:16.0'
+    - D. Majerle makes free throw 2 of 2
+    - "+1"
+    - 85-71
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 85-73
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 6 ft (assist by O. Harrington)
+  - - '3:42.0'
+    - Shooting foul by M. Bibby
+    - ''
+    - 85-73
+    - ''
+    - ''
+  - - '3:42.0'
+    - E. Jones makes free throw 1 of 2
+    - "+1"
+    - 86-73
+    - ''
+    - ''
+  - - '3:42.0'
+    - E. Jones makes free throw 2 of 2
+    - "+1"
+    - 87-73
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 87-75
+    - "+2"
+    - B. Reeves makes 2-pt shot at rim
+  - - '3:07.0'
+    - A. Mason misses 2-pt shot from 14 ft
+    - ''
+    - 87-75
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 87-75
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '2:51.0'
+    - ''
+    - ''
+    - 87-77
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 21 ft (assist by M. Bibby)
+  - - '2:34.0'
+    - E. Jones misses 3-pt shot from 25 ft
+    - ''
+    - 87-77
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 87-77
+    - ''
+    - Defensive rebound by Team
+  - - '2:32.0'
+    - ''
+    - ''
+    - 87-77
+    - ''
+    - Vancouver full timeout
+  - - '2:24.0'
+    - ''
+    - ''
+    - 87-77
+    - ''
+    - Turnover by M. Bibby (bad pass)
+  - - '2:04.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 87-77
+    - ''
+    - ''
+  - - '2:04.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 88-77
+    - ''
+    - ''
+  - - '2:04.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 89-77
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 89-79
+    - "+2"
+    - B. Reeves makes 2-pt shot from 1 ft (assist by M. Dickerson)
+  - - '1:54.0'
+    - Turnover by A. Mason (bad pass; steal by M. Dickerson)
+    - ''
+    - 89-79
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 89-81
+    - "+2"
+    - O. Harrington makes 2-pt shot from 1 ft (assist by M. Dickerson)
+  - - '1:27.0'
+    - A. Mason makes 2-pt shot at rim
+    - "+2"
+    - 91-81
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 91-81
+    - ''
+    - M. Dickerson misses 2-pt shot from 2 ft
+  - - '1:14.0'
+    - ''
+    - ''
+    - 91-81
+    - ''
+    - Offensive rebound by O. Harrington
+  - - '1:10.0'
+    - ''
+    - ''
+    - 91-81
+    - ''
+    - B. Reeves misses 2-pt shot from 5 ft
+  - - '1:09.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 91-81
+    - ''
+    - ''
+  - - '0:58.1'
+    - Personal foul by M. Bibby
+    - ''
+    - 91-81
+    - ''
+    - ''
+  - - '0:58.1'
+    - A. Carter misses free throw 1 of 2
+    - ''
+    - 91-81
+    - ''
+    - ''
+  - - '0:58.1'
+    - Offensive rebound by Team
+    - ''
+    - 91-81
+    - ''
+    - ''
+  - - '0:58.1'
+    - A. Carter makes free throw 2 of 2
+    - "+1"
+    - 92-81
+    - ''
+    - ''
+  - - '0:58.1'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - Vancouver full timeout
+  - - '0:58.1'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - M. Abdul-Rauf enters the game for O. Harrington
+  - - '0:57.3'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - Turnover by M. Dickerson (bad pass)
+  - - '0:52.9'
+    - Personal foul by M. Abdul-Rauf
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:52.9'
+    - A. Carter makes free throw 1 of 2
+    - "+1"
+    - 93-81
+    - ''
+    - ''
+  - - '0:52.9'
+    - A. Carter misses free throw 2 of 2
+    - ''
+    - 93-81
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 93-81
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '0:41.2'
+    - ''
+    - ''
+    - 93-84
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 26 ft
+  - - '0:32.4'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 93-84
+    - ''
+    - ''
+  - - '0:32.4'
+    - E. Jones makes free throw 1 of 2
+    - "+1"
+    - 94-84
+    - ''
+    - ''
+  - - '0:32.4'
+    - E. Jones makes free throw 2 of 2
+    - "+1"
+    - 95-84
+    - ''
+    - ''
+  - - '0:24.8'
+    - ''
+    - ''
+    - 95-86
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 9 ft
+  - - '0:23.6'
+    - Personal foul by M. Abdul-Rauf
+    - ''
+    - 95-86
+    - ''
+    - ''
+  - - '0:23.6'
+    - A. Carter makes free throw 1 of 2
+    - "+1"
+    - 96-86
+    - ''
+    - ''
+  - - '0:23.6'
+    - A. Carter makes free throw 2 of 2
+    - "+1"
+    - 97-86
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 97-86
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '0:08.5'
+    - Defensive rebound by E. Jones
+    - ''
+    - 97-86
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

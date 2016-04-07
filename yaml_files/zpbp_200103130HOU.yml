@@ -1,0 +1,3569 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Cato vs. J. O''Neal (M. Taylor gains possession)'
+  - - '11:44.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Taylor misses 2-pt shot from 7 ft
+  - - '11:42.0'
+    - Defensive rebound by R. Miller
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:33.0'
+    - A. Harrington makes 2-pt shot from 9 ft (assist by R. Miller)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - S. Anderson misses 2-pt shot at rim (block by J. O'Neal)
+  - - '11:18.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:11.0'
+    - J. Rose misses 2-pt shot from 8 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:09.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by K. Cato
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Shooting foul by J. O'Neal
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-1
+    - "+1"
+    - S. Anderson makes free throw 1 of 2
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-2
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '10:56.0'
+    - A. Harrington misses 2-pt shot at rim
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:55.0'
+    - A. Harrington makes 2-pt shot at rim
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:55.0'
+    - Offensive rebound by A. Harrington
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 4-5
+    - "+3"
+    - S. Francis makes 3-pt shot from 25 ft
+  - - '10:32.0'
+    - J. Rose misses 2-pt shot from 11 ft
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Defensive rebound by K. Cato
+  - - '10:19.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Turnover by K. Cato (lost ball; steal by A. Harrington)
+  - - '10:13.0'
+    - J. Rose makes 2-pt shot at rim (assist by R. Miller)
+    - "+2"
+    - 6-5
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 6-5
+    - ''
+    - Turnover by S. Francis (bad pass; steal by R. Miller)
+  - - '9:52.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '9:52.0'
+    - J. O'Neal misses free throw 1 of 2
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '9:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '9:52.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 7-5
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-5
+    - ''
+    - Shooting foul by R. Miller
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-5
+    - ''
+    - C. Mobley misses free throw 1 of 2
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-5
+    - ''
+    - Offensive rebound by Team
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-6
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '9:13.0'
+    - A. Harrington misses 3-pt shot from 25 ft
+    - ''
+    - 7-6
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 7-6
+    - ''
+    - Defensive rebound by K. Cato
+  - - '8:51.0'
+    - ''
+    - ''
+    - 7-8
+    - "+2"
+    - K. Cato makes 2-pt shot at rim (assist by S. Francis)
+  - - '8:33.0'
+    - A. Harrington misses 2-pt shot from 21 ft
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '8:31.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '8:22.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - C. Mobley misses 2-pt shot from 16 ft
+  - - '8:20.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Offensive rebound by K. Cato
+  - - '8:18.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - S. Anderson misses 3-pt shot from 26 ft
+  - - '8:16.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Offensive rebound by S. Francis
+  - - '8:11.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - C. Mobley misses 3-pt shot from 26 ft
+  - - '8:09.0'
+    - Defensive rebound by A. Harrington
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '8:03.0'
+    - J. Rose makes 2-pt shot from 22 ft
+    - "+2"
+    - 9-8
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Turnover by M. Taylor (bad pass; steal by S. Perkins)
+  - - '7:32.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '7:30.0'
+    - Offensive rebound by A. Harrington
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '7:28.0'
+    - R. Miller makes 3-pt shot from 23 ft (assist by A. Harrington)
+    - "+3"
+    - 12-8
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 12-8
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by R. Miller)
+  - - '7:00.0'
+    - Personal foul by S. Francis
+    - ''
+    - 12-8
+    - ''
+    - ''
+  - - '6:48.0'
+    - S. Perkins misses 3-pt shot from 26 ft
+    - ''
+    - 12-8
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 12-8
+    - ''
+    - Defensive rebound by S. Francis
+  - - '6:40.0'
+    - ''
+    - ''
+    - 12-10
+    - "+2"
+    - C. Mobley makes 2-pt shot at rim
+  - - '6:26.0'
+    - J. O'Neal misses 2-pt shot from 9 ft
+    - ''
+    - 12-10
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '6:13.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - M. Taylor makes 2-pt shot from 14 ft
+  - - '6:00.0'
+    - J. Rose makes 2-pt shot from 10 ft
+    - "+2"
+    - 14-12
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Houston full timeout
+  - - '5:39.0'
+    - ''
+    - ''
+    - 14-14
+    - "+2"
+    - S. Anderson makes 2-pt shot from 8 ft (assist by M. Taylor)
+  - - '5:23.0'
+    - Offensive foul by A. Harrington
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:23.0'
+    - Turnover by A. Harrington (foul)
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - M. Taylor misses 2-pt shot from 13 ft (block by J. O'Neal)
+  - - '5:06.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:03.0'
+    - A. Harrington misses 2-pt shot at rim
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:01.0'
+    - Offensive rebound by J. Rose
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:59.0'
+    - J. Rose misses 2-pt shot at rim
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '4:47.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - C. Mobley makes 2-pt shot at rim
+  - - '4:28.0'
+    - A. Harrington makes 2-pt shot at rim (assist by R. Miller)
+    - "+2"
+    - 16-16
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - M. Taylor misses 2-pt shot from 15 ft
+  - - '4:05.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '3:57.0'
+    - J. O'Neal makes 2-pt shot from 20 ft (assist by J. Rose)
+    - "+2"
+    - 18-16
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - Offensive foul by S. Anderson
+  - - '3:42.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - Turnover by S. Anderson (foul)
+  - - '3:30.0'
+    - R. Miller misses 3-pt shot from 25 ft
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - Defensive rebound by K. Cato
+  - - '3:21.0'
+    - ''
+    - ''
+    - 18-18
+    - "+2"
+    - C. Mobley makes 2-pt shot from 5 ft
+  - - '3:08.0'
+    - J. O'Neal makes 2-pt shot from 6 ft (assist by J. Rose)
+    - "+2"
+    - 20-18
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 20-20
+    - "+2"
+    - C. Mobley makes 2-pt shot from 18 ft
+  - - '2:38.0'
+    - A. Harrington misses 2-pt shot from 10 ft
+    - ''
+    - 20-20
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 20-20
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '2:29.0'
+    - ''
+    - ''
+    - 20-22
+    - "+2"
+    - C. Mobley makes 2-pt shot from 22 ft
+  - - '2:12.0'
+    - J. Rose misses 2-pt shot from 18 ft
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Defensive rebound by S. Francis
+  - - '2:08.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Shooting foul by J. Rose
+  - - '2:08.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Houston full timeout
+  - - '2:08.0'
+    - T. Best enters the game for S. Perkins
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:08.0'
+    - A. Croshere enters the game for J. Rose
+    - ''
+    - 20-22
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - S. Anderson misses free throw 1 of 2
+  - - '2:08.0'
+    - ''
+    - ''
+    - 20-22
+    - ''
+    - Offensive rebound by Team
+  - - '2:08.0'
+    - ''
+    - ''
+    - 20-23
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '1:57.0'
+    - J. O'Neal makes 2-pt shot from 9 ft (assist by T. Best)
+    - "+2"
+    - 22-23
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - C. Mobley misses 2-pt shot from 18 ft
+  - - '1:38.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Offensive rebound by K. Cato
+  - - '1:33.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - S. Francis misses 3-pt shot from 23 ft
+  - - '1:31.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '1:26.0'
+    - R. Miller misses 3-pt shot from 23 ft
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '1:18.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - Personal foul by T. Best
+  - - '1:12.0'
+    - ''
+    - ''
+    - 22-23
+    - ''
+    - S. Francis misses 2-pt shot from 8 ft
+  - - '1:10.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '1:00.0'
+    - R. Miller misses 2-pt shot from 7 ft
+    - ''
+    - 22-23
+    - ''
+    - ''
+  - - '0:59.0'
+    - A. Harrington makes 2-pt shot at rim
+    - "+2"
+    - 24-23
+    - ''
+    - ''
+  - - '0:59.0'
+    - Offensive rebound by A. Harrington
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '0:41.2'
+    - ''
+    - ''
+    - 24-25
+    - "+2"
+    - C. Mobley makes 2-pt shot from 11 ft
+  - - '0:34.4'
+    - Offensive foul by J. O'Neal
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:34.4'
+    - Turnover by J. O'Neal (foul)
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:26.7'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - C. Mobley misses 2-pt shot from 21 ft
+  - - '0:24.5'
+    - Defensive rebound by T. Best
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:04.9'
+    - Shooting foul by K. Cato
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:04.9'
+    - J. Foster enters the game for J. O'Neal
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '0:04.9'
+    - T. Best makes free throw 1 of 2
+    - "+1"
+    - 25-25
+    - ''
+    - ''
+  - - '0:04.9'
+    - ''
+    - ''
+    - 25-25
+    - ''
+    - M. Norris enters the game for K. Cato
+  - - '0:04.9'
+    - T. Best misses free throw 2 of 2
+    - ''
+    - 25-25
+    - ''
+    - ''
+  - - '0:04.9'
+    - ''
+    - ''
+    - 25-25
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '0:00.0'
+    - ''
+    - ''
+    - 25-25
+    - ''
+    - M. Norris misses 2-pt shot from 21 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 25-25
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - T. Best misses 2-pt shot at rim
+    - ''
+    - 25-25
+    - ''
+    - ''
+  - - '11:43.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 25-25
+    - ''
+    - ''
+  - - '11:38.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 25-25
+    - ''
+    - ''
+  - - '11:31.0'
+    - J. Rose makes 2-pt shot from 9 ft (assist by A. Croshere)
+    - "+2"
+    - 27-25
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - Shooting foul by A. Croshere
+  - - '11:14.0'
+    - ''
+    - ''
+    - 27-26
+    - "+1"
+    - S. Anderson makes free throw 1 of 2
+  - - '11:14.0'
+    - ''
+    - ''
+    - 27-27
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '10:59.0'
+    - T. Best makes 2-pt shot from 9 ft (assist by J. Rose)
+    - "+2"
+    - 29-27
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 29-29
+    - "+2"
+    - W. Williams makes 2-pt shot from 22 ft (assist by S. Francis)
+  - - '10:30.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - M. Norris enters the game for C. Mobley
+  - - '10:24.0'
+    - Offensive foul by J. Rose
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '10:24.0'
+    - Turnover by J. Rose (foul)
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - M. Norris misses 2-pt shot at rim
+  - - '10:06.0'
+    - Defensive rebound by Team
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '10:06.0'
+    - Loose ball foul by K. Thomas
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:48.0'
+    - Personal foul by W. Williams
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:44.0'
+    - Turnover by T. Best (bad pass; steal by S. Francis)
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 29-31
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by S. Francis)
+  - - '9:15.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 29-31
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 29-31
+    - ''
+    - C. Rogers enters the game for S. Anderson
+  - - '9:15.0'
+    - A. Harrington makes free throw 1 of 2
+    - "+1"
+    - 30-31
+    - ''
+    - ''
+  - - '9:15.0'
+    - A. Harrington makes free throw 2 of 2
+    - "+1"
+    - 31-31
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 31-31
+    - ''
+    - Shooting foul by T. Best
+  - - '9:01.0'
+    - ''
+    - ''
+    - 31-32
+    - "+1"
+    - S. Francis makes free throw 1 of 2
+  - - '9:01.0'
+    - ''
+    - ''
+    - 31-33
+    - "+1"
+    - S. Francis makes free throw 2 of 2
+  - - '8:53.0'
+    - T. Best misses 2-pt shot at rim
+    - ''
+    - 31-33
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Defensive rebound by M. Norris
+  - - '8:31.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - W. Williams misses 3-pt shot from 25 ft
+  - - '8:29.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 31-33
+    - ''
+    - ''
+  - - '8:18.0'
+    - Turnover by A. Harrington (lost ball)
+    - ''
+    - 31-33
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Official timeout
+  - - '8:04.0'
+    - ''
+    - ''
+    - 31-33
+    - ''
+    - Turnover by C. Rogers (lost ball; steal by T. Best)
+  - - '7:48.0'
+    - J. Rose makes 2-pt shot from 9 ft (assist by T. Best)
+    - "+2"
+    - 33-33
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - W. Williams misses 2-pt shot from 19 ft
+  - - '7:30.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '7:20.0'
+    - Personal foul by S. Francis
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '7:20.0'
+    - J. Rose makes free throw 1 of 2
+    - "+1"
+    - 34-33
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 34-33
+    - ''
+    - C. Mobley enters the game for S. Francis
+  - - '7:20.0'
+    - R. Miller enters the game for A. Harrington
+    - ''
+    - 34-33
+    - ''
+    - ''
+  - - '7:20.0'
+    - J. Rose makes free throw 2 of 2
+    - "+1"
+    - 35-33
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - K. Thomas misses 2-pt shot from 7 ft
+  - - '7:00.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '6:54.0'
+    - A. Croshere misses 2-pt shot at rim
+    - ''
+    - 35-33
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '6:49.0'
+    - ''
+    - ''
+    - 35-35
+    - "+2"
+    - M. Norris makes 2-pt shot at rim
+  - - '6:30.0'
+    - T. Best misses 2-pt shot from 19 ft
+    - ''
+    - 35-35
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 35-35
+    - ''
+    - Defensive rebound by W. Williams
+  - - '6:15.0'
+    - ''
+    - ''
+    - 35-38
+    - "+3"
+    - W. Williams makes 3-pt shot from 23 ft (assist by M. Norris)
+  - - '6:03.0'
+    - Indiana full timeout
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:55.0'
+    - T. Best misses 2-pt shot from 17 ft
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:53.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:49.0'
+    - R. Miller misses 3-pt shot from 26 ft
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 35-38
+    - ''
+    - Defensive rebound by W. Williams
+  - - '5:33.0'
+    - ''
+    - ''
+    - 35-40
+    - "+2"
+    - M. Norris makes 2-pt shot at rim
+  - - '5:21.0'
+    - J. Foster makes 2-pt shot at rim (assist by J. Rose)
+    - "+2"
+    - 37-40
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 37-40
+    - ''
+    - Shooting foul by T. Best
+  - - '5:03.0'
+    - ''
+    - ''
+    - 37-40
+    - ''
+    - M. Taylor enters the game for K. Thomas
+  - - '5:03.0'
+    - J. O'Neal enters the game for T. Best
+    - ''
+    - 37-40
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 37-41
+    - "+1"
+    - M. Norris makes free throw 1 of 2
+  - - '5:03.0'
+    - ''
+    - ''
+    - 37-42
+    - "+1"
+    - M. Norris makes free throw 2 of 2
+  - - '4:50.0'
+    - J. Rose misses 2-pt shot from 17 ft
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '4:48.0'
+    - J. Foster misses 2-pt shot at rim
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '4:48.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '4:37.0'
+    - ''
+    - ''
+    - 37-42
+    - ''
+    - C. Mobley misses 2-pt shot at rim
+  - - '4:35.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 37-42
+    - ''
+    - ''
+  - - '4:23.0'
+    - J. Foster makes 2-pt shot from 15 ft (assist by R. Miller)
+    - "+2"
+    - 39-42
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 39-44
+    - "+2"
+    - M. Norris makes 2-pt shot from 21 ft
+  - - '3:49.0'
+    - Turnover by J. Rose (bad pass; steal by C. Mobley)
+    - ''
+    - 39-44
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 39-44
+    - ''
+    - Turnover by W. Williams (bad pass)
+  - - '3:29.0'
+    - Personal foul by M. Norris
+    - ''
+    - 39-44
+    - ''
+    - ''
+  - - '3:29.0'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 40-44
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - S. Anderson enters the game for C. Rogers
+  - - '3:29.0'
+    - A. Harrington enters the game for A. Croshere
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '3:29.0'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 41-44
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 41-46
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim (assist by M. Norris)
+  - - '2:57.0'
+    - J. O'Neal misses 2-pt shot from 8 ft
+    - ''
+    - 41-46
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 41-46
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '2:51.0'
+    - ''
+    - ''
+    - 41-46
+    - ''
+    - C. Mobley misses 2-pt shot from 12 ft (block by J. Foster)
+  - - '2:49.0'
+    - Defensive rebound by Team
+    - ''
+    - 41-46
+    - ''
+    - ''
+  - - '2:49.0'
+    - Loose ball foul by W. Williams
+    - ''
+    - 41-46
+    - ''
+    - ''
+  - - '2:49.0'
+    - Indiana full timeout
+    - ''
+    - 41-46
+    - ''
+    - ''
+  - - '2:49.0'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 42-46
+    - ''
+    - ''
+  - - '2:49.0'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 43-46
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 43-46
+    - ''
+    - S. Anderson misses 3-pt shot from 25 ft
+  - - '2:28.0'
+    - Defensive rebound by A. Harrington
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:17.0'
+    - J. O'Neal misses 2-pt shot from 7 ft
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:15.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:14.0'
+    - J. O'Neal misses 2-pt shot at rim
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:12.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:05.0'
+    - J. Rose misses 2-pt shot from 21 ft
+    - ''
+    - 43-46
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 43-46
+    - ''
+    - Defensive rebound by M. Norris
+  - - '1:58.0'
+    - ''
+    - ''
+    - 43-48
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by M. Norris)
+  - - '1:42.0'
+    - J. Rose misses 2-pt shot from 10 ft
+    - ''
+    - 43-48
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 43-48
+    - ''
+    - Defensive rebound by Team
+  - - '1:40.0'
+    - ''
+    - ''
+    - 43-48
+    - ''
+    - Loose ball foul by J. O'Neal
+  - - '1:40.0'
+    - J. Bender enters the game for J. O'Neal
+    - ''
+    - 43-48
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 43-50
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim
+  - - '1:25.0'
+    - ''
+    - ''
+    - 43-50
+    - ''
+    - Shooting foul by J. Foster
+  - - '1:25.0'
+    - ''
+    - ''
+    - 43-50
+    - ''
+    - K. Cato enters the game for C. Mobley
+  - - '1:25.0'
+    - ''
+    - ''
+    - 43-51
+    - "+1"
+    - M. Taylor makes free throw 1 of 1
+  - - '1:11.0'
+    - A. Harrington misses 2-pt shot at rim (block by K. Cato)
+    - ''
+    - 43-51
+    - ''
+    - ''
+  - - '1:10.0'
+    - Offensive rebound by A. Harrington
+    - ''
+    - 43-51
+    - ''
+    - ''
+  - - '1:10.0'
+    - Shooting foul by W. Williams
+    - ''
+    - 43-51
+    - ''
+    - ''
+  - - '1:10.0'
+    - A. Harrington makes free throw 1 of 2
+    - "+1"
+    - 44-51
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 44-51
+    - ''
+    - D. Langhi enters the game for W. Williams
+  - - '1:10.0'
+    - A. Harrington makes free throw 2 of 2
+    - "+1"
+    - 45-51
+    - ''
+    - ''
+  - - '0:51.8'
+    - ''
+    - ''
+    - 45-51
+    - ''
+    - M. Norris misses 2-pt shot from 18 ft
+  - - '0:49.8'
+    - Defensive rebound by A. Harrington
+    - ''
+    - 45-51
+    - ''
+    - ''
+  - - '0:36.9'
+    - Turnover by A. Harrington (bad pass; steal by S. Anderson)
+    - ''
+    - 45-51
+    - ''
+    - ''
+  - - '0:34.1'
+    - ''
+    - ''
+    - 45-53
+    - "+2"
+    - M. Norris makes 2-pt shot at rim (assist by S. Anderson)
+  - - '0:34.1'
+    - ''
+    - ''
+    - 45-53
+    - ''
+    - Shooting foul by J. Bender
+  - - '0:34.1'
+    - ''
+    - ''
+    - 45-53
+    - ''
+    - Houston 20 second timeout
+  - - '0:34.1'
+    - ''
+    - ''
+    - 45-54
+    - "+1"
+    - M. Norris makes free throw 1 of 1
+  - - '0:18.0'
+    - J. Rose makes 3-pt shot from 25 ft (assist by J. Foster)
+    - "+3"
+    - 48-54
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Shooting foul by J. Rose
+  - - '0:01.4'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - M. Norris misses free throw 1 of 2
+  - - '0:01.4'
+    - ''
+    - ''
+    - 48-54
+    - ''
+    - Offensive rebound by Team
+  - - '0:01.4'
+    - ''
+    - ''
+    - 48-55
+    - "+1"
+    - M. Norris makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - R. Miller makes 3-pt shot from 25 ft (assist by J. Rose)
+    - "+3"
+    - 51-55
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 51-57
+    - "+2"
+    - M. Taylor makes 2-pt shot from 17 ft
+  - - '11:11.0'
+    - S. Perkins misses 3-pt shot from 25 ft
+    - ''
+    - 51-57
+    - ''
+    - ''
+  - - '11:09.0'
+    - ''
+    - ''
+    - 51-57
+    - ''
+    - Defensive rebound by S. Francis
+  - - '11:04.0'
+    - ''
+    - ''
+    - 51-59
+    - "+2"
+    - S. Francis makes 2-pt shot at rim
+  - - '10:47.0'
+    - J. O'Neal misses 2-pt shot from 7 ft (block by K. Cato)
+    - ''
+    - 51-59
+    - ''
+    - ''
+  - - '10:45.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 51-59
+    - ''
+    - ''
+  - - '10:38.0'
+    - Turnover by J. Rose (out of bounds)
+    - ''
+    - 51-59
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 51-61
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim (assist by S. Anderson)
+  - - '10:13.0'
+    - J. Rose misses 2-pt shot from 18 ft
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 51-61
+    - ''
+    - Defensive rebound by K. Cato
+  - - '10:02.0'
+    - ''
+    - ''
+    - 51-61
+    - ''
+    - S. Francis misses 2-pt shot from 22 ft
+  - - '10:00.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '9:48.0'
+    - R. Miller misses 2-pt shot from 9 ft
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 51-61
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '9:35.0'
+    - ''
+    - ''
+    - 51-61
+    - ''
+    - C. Mobley misses 2-pt shot from 15 ft
+  - - '9:33.0'
+    - Defensive rebound by A. Harrington
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '9:17.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '9:17.0'
+    - T. Best enters the game for S. Perkins
+    - ''
+    - 51-61
+    - ''
+    - ''
+  - - '9:17.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 52-61
+    - ''
+    - ''
+  - - '9:17.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 53-61
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 53-61
+    - ''
+    - Turnover by M. Taylor (bad pass; steal by T. Best)
+  - - '8:48.0'
+    - J. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 55-61
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - C. Mobley misses 2-pt shot from 8 ft
+  - - '8:25.0'
+    - Defensive rebound by A. Harrington
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '8:15.0'
+    - J. Rose misses 3-pt shot from 24 ft
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - Defensive rebound by S. Francis
+  - - '8:07.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - Shooting foul by R. Miller
+  - - '8:07.0'
+    - ''
+    - ''
+    - 55-62
+    - "+1"
+    - K. Cato makes free throw 1 of 2
+  - - '8:07.0'
+    - ''
+    - ''
+    - 55-63
+    - "+1"
+    - K. Cato makes free throw 2 of 2
+  - - '7:57.0'
+    - R. Miller misses 2-pt shot from 8 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:55.0'
+    - Offensive rebound by A. Harrington
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:51.0'
+    - A. Harrington misses 2-pt shot at rim (block by S. Anderson)
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '7:40.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - C. Mobley misses 3-pt shot from 24 ft
+  - - '7:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:39.0'
+    - Personal foul by S. Francis
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:27.0'
+    - T. Best makes 2-pt shot from 21 ft
+    - "+2"
+    - 57-63
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 57-63
+    - ''
+    - M. Taylor misses 2-pt shot from 21 ft
+  - - '7:06.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 57-63
+    - ''
+    - ''
+  - - '6:52.0'
+    - J. O'Neal makes 2-pt shot at rim
+    - "+2"
+    - 59-63
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 59-65
+    - "+2"
+    - S. Francis makes 2-pt shot at rim
+  - - '6:16.0'
+    - J. O'Neal makes 2-pt shot from 13 ft (assist by T. Best)
+    - "+2"
+    - 61-65
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 61-65
+    - ''
+    - Shooting foul by A. Harrington
+  - - '6:00.0'
+    - ''
+    - ''
+    - 61-66
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '6:00.0'
+    - ''
+    - ''
+    - 61-67
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '5:45.0'
+    - T. Best misses 2-pt shot at rim (block by M. Taylor)
+    - ''
+    - 61-67
+    - ''
+    - ''
+  - - '5:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 61-67
+    - ''
+    - ''
+  - - '5:44.0'
+    - Indiana full timeout
+    - ''
+    - 61-67
+    - ''
+    - ''
+  - - '5:40.0'
+    - R. Miller misses 2-pt shot from 23 ft
+    - ''
+    - 61-67
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 61-67
+    - ''
+    - Defensive rebound by K. Cato
+  - - '5:25.0'
+    - ''
+    - ''
+    - 61-67
+    - ''
+    - C. Mobley misses 2-pt shot from 19 ft
+  - - '5:23.0'
+    - Defensive rebound by R. Miller
+    - ''
+    - 61-67
+    - ''
+    - ''
+  - - '5:15.0'
+    - J. Rose makes 2-pt shot from 11 ft
+    - "+2"
+    - 63-67
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 63-67
+    - ''
+    - M. Taylor misses 2-pt shot from 8 ft
+  - - '4:48.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 63-67
+    - ''
+    - ''
+  - - '4:40.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 63-67
+    - ''
+    - ''
+  - - '4:40.0'
+    - Double technical foul by M. Taylor and A. Harrington
+    - ''
+    - 63-67
+    - ''
+    - ''
+  - - '4:31.0'
+    - T. Best makes 2-pt shot from 21 ft (assist by R. Miller)
+    - "+2"
+    - 65-67
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 65-67
+    - ''
+    - S. Francis misses 2-pt shot from 10 ft
+  - - '4:10.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 65-67
+    - ''
+    - ''
+  - - '3:58.0'
+    - J. O'Neal misses 2-pt shot from 10 ft
+    - ''
+    - 65-67
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 65-67
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '3:53.0'
+    - ''
+    - ''
+    - 65-69
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by S. Francis)
+  - - '3:53.0'
+    - ''
+    - ''
+    - 65-69
+    - ''
+    - Shooting foul by T. Best
+  - - '3:53.0'
+    - ''
+    - ''
+    - 65-70
+    - "+1"
+    - S. Anderson makes free throw 1 of 1
+  - - '3:31.0'
+    - Shooting foul by S. Anderson
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - C. Rogers enters the game for K. Cato
+  - - '3:31.0'
+    - J. Foster enters the game for T. Best
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:31.0'
+    - A. Harrington makes free throw 1 of 2
+    - "+1"
+    - 66-70
+    - ''
+    - ''
+  - - '3:31.0'
+    - A. Harrington makes free throw 2 of 2
+    - "+1"
+    - 67-70
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 67-70
+    - ''
+    - S. Francis misses 2-pt shot at rim (block by J. O'Neal)
+  - - '3:16.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '3:13.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '3:13.0'
+    - A. Harrington misses free throw 1 of 2
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '3:13.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-70
+    - ''
+    - ''
+  - - '3:13.0'
+    - A. Harrington makes free throw 2 of 2
+    - "+1"
+    - 68-70
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 68-70
+    - ''
+    - S. Anderson misses 3-pt shot from 25 ft
+  - - '2:56.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:56.0'
+    - Loose ball foul by M. Taylor
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:56.0'
+    - Indiana full timeout
+    - ''
+    - 68-70
+    - ''
+    - ''
+  - - '2:56.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 69-70
+    - ''
+    - ''
+  - - '2:56.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 70-70
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - C. Mobley misses 2-pt shot at rim
+  - - '2:34.0'
+    - Defensive rebound by J. Foster
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '2:19.0'
+    - A. Harrington misses 2-pt shot at rim
+    - ''
+    - 70-70
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 70-70
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '2:11.0'
+    - ''
+    - ''
+    - 70-72
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by S. Francis)
+  - - '1:53.0'
+    - A. Harrington makes 2-pt shot from 17 ft (assist by J. O'Neal)
+    - "+2"
+    - 72-72
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 72-72
+    - ''
+    - M. Taylor misses 2-pt shot from 9 ft
+  - - '1:25.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 72-72
+    - ''
+    - ''
+  - - '1:17.0'
+    - J. O'Neal makes 2-pt shot from 18 ft (assist by J. Rose)
+    - "+2"
+    - 74-72
+    - ''
+    - ''
+  - - '0:56.0'
+    - ''
+    - ''
+    - 74-72
+    - ''
+    - Offensive foul by S. Anderson
+  - - '0:56.0'
+    - ''
+    - ''
+    - 74-72
+    - ''
+    - Turnover by S. Anderson (foul)
+  - - '0:56.0'
+    - ''
+    - ''
+    - 74-72
+    - ''
+    - K. Thomas enters the game for M. Taylor
+  - - '0:48.3'
+    - J. Rose makes 2-pt shot from 20 ft
+    - "+2"
+    - 76-72
+    - ''
+    - ''
+  - - '0:26.2'
+    - ''
+    - ''
+    - 76-74
+    - "+2"
+    - C. Mobley makes 2-pt shot at rim (assist by S. Francis)
+  - - '0:03.9'
+    - J. Rose misses 2-pt shot from 9 ft
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '0:02.3'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '0:00.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - S. Francis misses 3-pt shot from 47 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - C. Mobley misses 2-pt shot from 15 ft
+  - - '11:45.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 76-74
+    - ''
+    - ''
+  - - '11:30.0'
+    - J. O'Neal makes 2-pt shot from 6 ft (assist by J. Rose)
+    - "+2"
+    - 78-74
+    - ''
+    - ''
+  - - '11:08.0'
+    - ''
+    - ''
+    - 78-74
+    - ''
+    - C. Mobley misses 2-pt shot from 7 ft (block by A. Harrington)
+  - - '11:06.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 78-74
+    - ''
+    - ''
+  - - '10:55.0'
+    - Personal foul by C. Rogers
+    - ''
+    - 78-74
+    - ''
+    - ''
+  - - '10:47.0'
+    - T. Best makes 2-pt shot at rim
+    - "+2"
+    - 80-74
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Houston full timeout
+  - - '10:31.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - C. Mobley misses 2-pt shot from 17 ft
+  - - '10:29.0'
+    - Defensive rebound by Team
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '10:29.0'
+    - Loose ball foul by C. Rogers
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '10:10.0'
+    - J. O'Neal misses 2-pt shot from 10 ft
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Defensive rebound by S. Francis
+  - - '9:55.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - C. Rogers misses 2-pt shot at rim (block by J. O'Neal)
+  - - '9:53.0'
+    - Defensive rebound by T. Best
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '9:44.0'
+    - Offensive foul by J. Rose
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '9:44.0'
+    - Turnover by J. Rose (foul)
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Houston 20 second timeout
+  - - '9:20.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - S. Francis misses 3-pt shot from 26 ft
+  - - '9:20.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Offensive rebound by Team
+  - - '9:20.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:00.0'
+    - J. O'Neal misses 2-pt shot from 21 ft
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Defensive rebound by S. Francis
+  - - '8:55.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Personal foul by T. Best
+  - - '8:55.0'
+    - R. Miller enters the game for T. Best
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - Personal foul by J. Foster
+  - - '8:37.0'
+    - ''
+    - ''
+    - 80-74
+    - ''
+    - M. Norris misses 2-pt shot from 8 ft (block by J. O'Neal)
+  - - '8:36.0'
+    - Defensive rebound by Team
+    - ''
+    - 80-74
+    - ''
+    - ''
+  - - '8:18.0'
+    - A. Harrington makes 2-pt shot from 18 ft (assist by R. Miller)
+    - "+2"
+    - 82-74
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 82-74
+    - ''
+    - Turnover by M. Norris (lost ball; steal by A. Harrington)
+  - - '7:52.0'
+    - A. Harrington makes 2-pt shot at rim (assist by J. O'Neal)
+    - "+2"
+    - 84-74
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Houston full timeout
+  - - '7:50.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - K. Cato enters the game for K. Thomas
+  - - '7:50.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - M. Taylor enters the game for C. Rogers
+  - - '7:38.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Personal foul by R. Miller
+  - - '7:28.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - M. Taylor misses 2-pt shot from 9 ft
+  - - '7:26.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '7:16.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '7:05.0'
+    - R. Miller misses 3-pt shot from 25 ft
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '7:03.0'
+    - Offensive rebound by J. Foster
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '6:46.0'
+    - J. Rose misses 2-pt shot from 22 ft
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '6:30.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - M. Norris misses 3-pt shot from 25 ft
+  - - '6:27.0'
+    - Defensive rebound by Team
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '6:06.0'
+    - J. Rose misses 2-pt shot from 11 ft
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Defensive rebound by M. Norris
+  - - '5:59.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - M. Norris misses 2-pt shot at rim
+  - - '5:57.0'
+    - Defensive rebound by R. Miller
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '5:37.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '5:37.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 85-74
+    - ''
+    - ''
+  - - '5:37.0'
+    - J. O'Neal misses free throw 2 of 2
+    - ''
+    - 85-74
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 85-74
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '5:22.0'
+    - ''
+    - ''
+    - 85-76
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim
+  - - '5:12.0'
+    - Personal foul by S. Francis
+    - ''
+    - 85-76
+    - ''
+    - ''
+  - - '5:12.0'
+    - J. Rose makes free throw 1 of 2
+    - "+1"
+    - 86-76
+    - ''
+    - ''
+  - - '5:12.0'
+    - J. Rose misses free throw 2 of 2
+    - ''
+    - 86-76
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 86-76
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '4:59.0'
+    - ''
+    - ''
+    - 86-76
+    - ''
+    - S. Francis misses 2-pt shot from 18 ft
+  - - '4:57.0'
+    - ''
+    - ''
+    - 86-76
+    - ''
+    - Offensive rebound by K. Cato
+  - - '4:53.0'
+    - ''
+    - ''
+    - 86-78
+    - "+2"
+    - S. Francis makes 2-pt shot from 16 ft
+  - - '4:35.0'
+    - Personal foul by S. Francis
+    - ''
+    - 86-78
+    - ''
+    - ''
+  - - '4:35.0'
+    - J. Rose makes free throw 1 of 2
+    - "+1"
+    - 87-78
+    - ''
+    - ''
+  - - '4:35.0'
+    - J. Rose makes free throw 2 of 2
+    - "+1"
+    - 88-78
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 88-78
+    - ''
+    - S. Francis misses 2-pt shot at rim (block by J. O'Neal)
+  - - '4:24.0'
+    - ''
+    - ''
+    - 88-78
+    - ''
+    - Offensive rebound by Team
+  - - '4:17.0'
+    - ''
+    - ''
+    - 88-78
+    - ''
+    - Turnover by S. Francis (bad pass; steal by A. Harrington)
+  - - '3:56.0'
+    - Turnover by R. Miller (bad pass; steal by C. Mobley)
+    - ''
+    - 88-78
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 88-80
+    - "+2"
+    - K. Cato makes 2-pt shot at rim (assist by S. Francis)
+  - - '3:28.0'
+    - J. Rose makes 2-pt shot from 18 ft
+    - "+2"
+    - 90-80
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 90-80
+    - ''
+    - Personal foul by A. Harrington
+  - - '3:05.0'
+    - ''
+    - ''
+    - 90-82
+    - "+2"
+    - M. Taylor makes 2-pt shot from 21 ft (assist by M. Norris)
+  - - '2:43.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 90-82
+    - ''
+    - ''
+  - - '2:43.0'
+    - Indiana full timeout
+    - ''
+    - 90-82
+    - ''
+    - ''
+  - - '2:43.0'
+    - J. O'Neal misses free throw 1 of 2
+    - ''
+    - 90-82
+    - ''
+    - ''
+  - - '2:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 90-82
+    - ''
+    - ''
+  - - '2:43.0'
+    - J. O'Neal misses free throw 2 of 2
+    - ''
+    - 90-82
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 90-82
+    - ''
+    - Defensive rebound by S. Francis
+  - - '2:28.0'
+    - ''
+    - ''
+    - 90-82
+    - ''
+    - Shooting foul by J. Foster
+  - - '2:28.0'
+    - ''
+    - ''
+    - 90-82
+    - ''
+    - S. Francis misses free throw 1 of 2
+  - - '2:28.0'
+    - ''
+    - ''
+    - 90-82
+    - ''
+    - Offensive rebound by Team
+  - - '2:28.0'
+    - ''
+    - ''
+    - 90-83
+    - "+1"
+    - S. Francis makes free throw 2 of 2
+  - - '2:12.0'
+    - R. Miller misses 3-pt shot from 25 ft
+    - ''
+    - 90-83
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 90-83
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '2:06.0'
+    - ''
+    - ''
+    - 90-83
+    - ''
+    - S. Francis misses 2-pt shot at rim
+  - - '2:05.0'
+    - ''
+    - ''
+    - 90-83
+    - ''
+    - Offensive rebound by K. Cato
+  - - '2:04.0'
+    - ''
+    - ''
+    - 90-83
+    - ''
+    - Personal foul by J. O'Neal
+  - - '2:04.0'
+    - T. Best enters the game for J. Foster
+    - ''
+    - 90-83
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 90-84
+    - "+1"
+    - K. Cato makes free throw 1 of 2
+  - - '2:04.0'
+    - ''
+    - ''
+    - 90-85
+    - "+1"
+    - K. Cato makes free throw 2 of 2
+  - - '1:49.0'
+    - J. Rose misses 2-pt shot from 18 ft
+    - ''
+    - 90-85
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 90-85
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '1:37.0'
+    - ''
+    - ''
+    - 90-85
+    - ''
+    - K. Cato misses 2-pt shot at rim
+  - - '1:35.0'
+    - ''
+    - ''
+    - 90-85
+    - ''
+    - C. Mobley misses 2-pt shot at rim (block by J. O'Neal)
+  - - '1:35.0'
+    - ''
+    - ''
+    - 90-85
+    - ''
+    - Offensive rebound by C. Mobley
+  - - '1:33.0'
+    - ''
+    - ''
+    - 90-85
+    - ''
+    - Offensive rebound by S. Francis
+  - - '1:33.0'
+    - ''
+    - ''
+    - 90-87
+    - "+2"
+    - S. Francis makes 2-pt shot at rim
+  - - '1:27.0'
+    - Indiana full timeout
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '1:11.0'
+    - J. Rose misses 2-pt shot from 6 ft
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 90-87
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '0:56.4'
+    - ''
+    - ''
+    - 90-87
+    - ''
+    - S. Francis misses 3-pt shot from 26 ft
+  - - '0:54.2'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '0:53.1'
+    - Offensive foul by J. O'Neal
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '0:53.1'
+    - Turnover by J. O'Neal (foul)
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '0:53.1'
+    - J. Foster enters the game for T. Best
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '0:45.2'
+    - ''
+    - ''
+    - 90-89
+    - "+2"
+    - S. Francis makes 2-pt shot from 10 ft
+  - - '0:24.7'
+    - A. Harrington misses 2-pt shot from 13 ft
+    - ''
+    - 90-89
+    - ''
+    - ''
+  - - '0:22.5'
+    - Offensive rebound by J. Foster
+    - ''
+    - 90-89
+    - ''
+    - ''
+  - - '0:15.4'
+    - Personal foul by M. Norris
+    - ''
+    - 90-89
+    - ''
+    - ''
+  - - '0:15.4'
+    - R. Miller makes free throw 1 of 2
+    - "+1"
+    - 91-89
+    - ''
+    - ''
+  - - '0:15.4'
+    - R. Miller makes free throw 2 of 2
+    - "+1"
+    - 92-89
+    - ''
+    - ''
+  - - '0:15.4'
+    - ''
+    - ''
+    - 92-89
+    - ''
+    - Houston full timeout
+  - - '0:15.4'
+    - ''
+    - ''
+    - 92-89
+    - ''
+    - S. Anderson enters the game for K. Cato
+  - - '0:03.6'
+    - ''
+    - ''
+    - 92-92
+    - "+3"
+    - M. Norris makes 3-pt shot from 25 ft
+  - - '0:03.6'
+    - Indiana full timeout
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:03.6'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - K. Cato enters the game for M. Norris
+  - - '0:03.6'
+    - T. Best enters the game for J. Foster
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:01.5'
+    - J. O'Neal misses 2-pt shot from 10 ft
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:00.3'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: K. Cato vs. J. O''Neal (T. Best gains possession)'
+  - - '4:45.0'
+    - A. Harrington misses 2-pt shot from 19 ft
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '4:43.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '4:38.0'
+    - R. Miller misses 3-pt shot from 25 ft
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '4:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '4:32.0'
+    - J. O'Neal makes 2-pt shot at rim (assist by J. Rose)
+    - "+2"
+    - 94-92
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 94-92
+    - ''
+    - S. Francis misses 2-pt shot from 13 ft
+  - - '4:10.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 94-92
+    - ''
+    - ''
+  - - '3:50.0'
+    - R. Miller makes 2-pt shot from 17 ft
+    - "+2"
+    - 96-92
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 96-92
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by A. Harrington)
+  - - '3:19.0'
+    - R. Miller misses 2-pt shot from 18 ft
+    - ''
+    - 96-92
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 96-92
+    - ''
+    - Defensive rebound by K. Cato
+  - - '3:03.0'
+    - ''
+    - ''
+    - 96-94
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim
+  - - '2:38.0'
+    - J. O'Neal misses 2-pt shot from 11 ft
+    - ''
+    - 96-94
+    - ''
+    - ''
+  - - '2:36.0'
+    - Offensive rebound by J. O'Neal
+    - ''
+    - 96-94
+    - ''
+    - ''
+  - - '2:36.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 96-94
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 96-96
+    - "+2"
+    - M. Taylor makes 2-pt shot from 7 ft (assist by S. Francis)
+  - - '2:24.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Shooting foul by A. Harrington
+  - - '2:24.0'
+    - ''
+    - ''
+    - 96-97
+    - "+1"
+    - M. Taylor makes free throw 1 of 1
+  - - '2:08.0'
+    - T. Best misses 2-pt shot from 22 ft
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 96-97
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '1:51.0'
+    - ''
+    - ''
+    - 96-99
+    - "+2"
+    - M. Taylor makes 2-pt shot from 21 ft (assist by S. Francis)
+  - - '1:39.0'
+    - J. Rose makes 2-pt shot from 15 ft (assist by T. Best)
+    - "+2"
+    - 98-99
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 98-99
+    - ''
+    - Turnover by M. Norris (lost ball; steal by T. Best)
+  - - '1:00.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 98-99
+    - ''
+    - ''
+  - - '1:00.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 99-99
+    - ''
+    - ''
+  - - '1:00.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 100-99
+    - ''
+    - ''
+  - - '0:48.8'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - M. Taylor misses 2-pt shot from 19 ft
+  - - '0:47.5'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - Offensive rebound by M. Norris
+  - - '0:46.8'
+    - ''
+    - ''
+    - 100-99
+    - ''
+    - Shooting foul by T. Best
+  - - '0:46.8'
+    - J. Foster enters the game for T. Best
+    - ''
+    - 100-99
+    - ''
+    - ''
+  - - '0:46.8'
+    - ''
+    - ''
+    - 100-100
+    - "+1"
+    - M. Norris makes free throw 1 of 2
+  - - '0:46.8'
+    - ''
+    - ''
+    - 100-101
+    - "+1"
+    - M. Norris makes free throw 2 of 2
+  - - '0:46.8'
+    - Indiana full timeout
+    - ''
+    - 100-101
+    - ''
+    - ''
+  - - '0:46.8'
+    - ''
+    - ''
+    - 100-101
+    - ''
+    - S. Anderson enters the game for S. Francis
+  - - '0:36.2'
+    - J. Rose misses 2-pt shot from 12 ft
+    - ''
+    - 100-101
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 100-101
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '0:34.9'
+    - ''
+    - ''
+    - 100-101
+    - ''
+    - Personal foul by J. Rose
+  - - '0:34.9'
+    - ''
+    - ''
+    - 100-101
+    - ''
+    - M. Taylor misses free throw 1 of 2
+  - - '0:34.9'
+    - ''
+    - ''
+    - 100-101
+    - ''
+    - Offensive rebound by Team
+  - - '0:34.9'
+    - A. Croshere enters the game for J. Foster
+    - ''
+    - 100-101
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 100-102
+    - "+1"
+    - M. Taylor makes free throw 2 of 2
+  - - '0:25.0'
+    - J. Rose makes 2-pt shot from 11 ft
+    - "+2"
+    - 102-102
+    - ''
+    - ''
+  - - '0:16.6'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - Houston full timeout
+  - - '0:16.6'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - Houston 20 second timeout
+  - - '0:16.6'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - S. Francis enters the game for K. Cato
+  - - '0:16.6'
+    - J. Foster enters the game for A. Croshere
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '0:02.4'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - M. Taylor misses 2-pt shot from 20 ft
+  - - '0:01.1'
+    - Defensive rebound by Team
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '0:01.1'
+    - Indiana full timeout
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '0:01.1'
+    - A. Croshere enters the game for J. Foster
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '0:01.1'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - K. Cato enters the game for S. Francis
+  - - '0:00.0'
+    - End of 1st overtime
+  - []
+  - - '5:00.0'
+    - Start of 2nd overtime
+  - - '5:00.0'
+    - 'Jump ball: K. Cato vs. J. O''Neal (A. Croshere gains possession)'
+  - - '4:46.0'
+    - J. Rose makes 2-pt shot from 9 ft (assist by R. Miller)
+    - "+2"
+    - 104-102
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 104-104
+    - "+2"
+    - C. Mobley makes 2-pt shot at rim
+  - - '4:32.0'
+    - ''
+    - ''
+    - 104-104
+    - ''
+    - Shooting foul by A. Harrington
+  - - '4:32.0'
+    - ''
+    - ''
+    - 104-105
+    - "+1"
+    - C. Mobley makes free throw 1 of 1
+  - - '4:12.0'
+    - A. Harrington misses 2-pt shot from 12 ft
+    - ''
+    - 104-105
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 104-105
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '3:54.0'
+    - ''
+    - ''
+    - 104-105
+    - ''
+    - M. Taylor misses 2-pt shot from 21 ft
+  - - '3:52.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 104-105
+    - ''
+    - ''
+  - - '3:34.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 104-105
+    - ''
+    - ''
+  - - '3:34.0'
+    - J. O'Neal makes free throw 1 of 2
+    - "+1"
+    - 105-105
+    - ''
+    - ''
+  - - '3:34.0'
+    - J. O'Neal makes free throw 2 of 2
+    - "+1"
+    - 106-105
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 106-107
+    - "+2"
+    - C. Mobley makes 2-pt shot from 7 ft
+  - - '2:59.0'
+    - A. Harrington misses 2-pt shot from 11 ft
+    - ''
+    - 106-107
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '2:37.0'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - C. Mobley misses 2-pt shot from 21 ft
+  - - '2:35.0'
+    - Defensive rebound by Team
+    - ''
+    - 106-107
+    - ''
+    - ''
+  - - '2:20.0'
+    - Personal foul by M. Taylor
+    - ''
+    - 106-107
+    - ''
+    - ''
+  - - '2:12.0'
+    - A. Croshere makes 2-pt shot at rim (assist by J. Rose)
+    - "+2"
+    - 108-107
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 108-107
+    - ''
+    - C. Mobley misses 2-pt shot from 7 ft
+  - - '1:51.0'
+    - Defensive rebound by J. Rose
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:40.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 108-107
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 108-107
+    - ''
+    - C. Rogers enters the game for K. Cato
+  - - '1:40.0'
+    - A. Harrington makes free throw 1 of 2
+    - "+1"
+    - 109-107
+    - ''
+    - ''
+  - - '1:40.0'
+    - Indiana full timeout
+    - ''
+    - 109-107
+    - ''
+    - ''
+  - - '1:40.0'
+    - A. Harrington misses free throw 2 of 2
+    - ''
+    - 109-107
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 109-107
+    - ''
+    - Defensive rebound by S. Francis
+  - - '1:24.0'
+    - ''
+    - ''
+    - 109-107
+    - ''
+    - S. Francis misses 2-pt shot from 9 ft (block by J. O'Neal)
+  - - '1:23.0'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 109-107
+    - ''
+    - ''
+  - - '1:22.0'
+    - Turnover by A. Croshere (bad pass)
+    - ''
+    - 109-107
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 109-109
+    - "+2"
+    - M. Taylor makes 2-pt shot from 7 ft
+  - - '0:55.4'
+    - J. Rose makes 3-pt shot from 25 ft (assist by A. Harrington)
+    - "+3"
+    - 112-109
+    - ''
+    - ''
+  - - '0:45.0'
+    - ''
+    - ''
+    - 112-109
+    - ''
+    - S. Francis misses 3-pt shot from 26 ft
+  - - '0:42.8'
+    - Defensive rebound by J. Rose
+    - ''
+    - 112-109
+    - ''
+    - ''
+  - - '0:18.1'
+    - A. Croshere misses 3-pt shot from 25 ft
+    - ''
+    - 112-109
+    - ''
+    - ''
+  - - '0:18.1'
+    - ''
+    - ''
+    - 112-109
+    - ''
+    - Defensive rebound by Team
+  - - '0:18.1'
+    - ''
+    - ''
+    - 112-109
+    - ''
+    - Loose ball foul by A. Harrington
+  - - '0:18.1'
+    - J. Foster enters the game for A. Harrington
+    - ''
+    - 112-109
+    - ''
+    - ''
+  - - '0:18.1'
+    - ''
+    - ''
+    - 112-109
+    - ''
+    - Houston full timeout
+  - - '0:09.9'
+    - ''
+    - ''
+    - 112-112
+    - "+3"
+    - C. Mobley makes 3-pt shot from 26 ft (assist by S. Francis)
+  - - '0:09.9'
+    - Indiana full timeout
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 112-112
+    - ''
+    - S. Anderson enters the game for S. Francis
+  - - '0:00.0'
+    - A. Croshere misses 3-pt shot from 23 ft
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 112-112
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd overtime
+  - []
+  - - '5:00.0'
+    - Start of 3rd overtime
+  - - '5:00.0'
+    - 'Jump ball: C. Rogers vs. J. O''Neal (M. Norris gains possession)'
+  - - '4:49.0'
+    - ''
+    - ''
+    - 112-115
+    - "+3"
+    - M. Norris makes 3-pt shot from 23 ft (assist by S. Francis)
+  - - '4:30.0'
+    - Turnover by A. Croshere (bad pass; steal by C. Rogers)
+    - ''
+    - 112-115
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 112-117
+    - "+2"
+    - M. Norris makes 2-pt shot from 19 ft
+  - - '3:57.0'
+    - J. Rose makes 2-pt shot from 13 ft
+    - "+2"
+    - 114-117
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 114-117
+    - ''
+    - C. Mobley misses 3-pt shot from 24 ft
+  - - '3:35.0'
+    - ''
+    - ''
+    - 114-119
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim
+  - - '3:35.0'
+    - ''
+    - ''
+    - 114-119
+    - ''
+    - Offensive rebound by M. Taylor
+  - - '3:17.0'
+    - J. Bender enters the game for J. Foster
+    - ''
+    - 114-119
+    - ''
+    - ''
+  - - '3:17.0'
+    - 'Jump ball: S. Francis vs. J. Rose (C. Mobley gains possession)'
+  - - '3:17.0'
+    - Turnover by J. Rose (lost ball; steal by S. Francis)
+    - ''
+    - 114-119
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 114-121
+    - "+2"
+    - M. Norris makes 2-pt shot from 22 ft
+  - - '2:32.0'
+    - J. Bender misses 2-pt shot from 20 ft
+    - ''
+    - 114-121
+    - ''
+    - ''
+  - - '2:30.0'
+    - Offensive rebound by Team
+    - ''
+    - 114-121
+    - ''
+    - ''
+  - - '2:30.0'
+    - Loose ball foul by S. Francis
+    - ''
+    - 114-121
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 114-121
+    - ''
+    - S. Anderson enters the game for S. Francis
+  - - '2:21.0'
+    - J. Rose misses 2-pt shot at rim
+    - ''
+    - 114-121
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 114-121
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '1:58.0'
+    - ''
+    - ''
+    - 114-123
+    - "+2"
+    - M. Norris makes 2-pt shot from 20 ft
+  - - '1:46.0'
+    - A. Croshere misses 3-pt shot from 26 ft
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Defensive rebound by M. Norris
+  - - '1:31.0'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - M. Norris misses 2-pt shot from 19 ft
+  - - '1:29.0'
+    - Defensive rebound by J. O'Neal
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '1:24.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '1:14.0'
+    - J. Rose misses 2-pt shot from 10 ft
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '0:50.1'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - C. Mobley misses 2-pt shot from 19 ft
+  - - '0:47.9'
+    - Defensive rebound by A. Croshere
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:42.5'
+    - J. Rose misses 3-pt shot from 27 ft
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:40.0'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Defensive rebound by M. Norris
+  - - '0:37.2'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - M. Norris misses 2-pt shot at rim
+  - - '0:34.3'
+    - Defensive rebound by R. Miller
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:31.6'
+    - Turnover by J. Bender (lost ball; steal by M. Norris)
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:28.4'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Personal foul by A. Croshere
+  - - '0:28.4'
+    - L. Ketner enters the game for J. O'Neal
+    - ''
+    - 114-123
+    - ''
+    - ''
+  - - '0:26.8'
+    - ''
+    - ''
+    - 114-123
+    - ''
+    - Personal foul by A. Croshere
+  - - '0:26.8'
+    - ''
+    - ''
+    - 114-124
+    - "+1"
+    - M. Norris makes free throw 1 of 2
+  - - '0:26.8'
+    - J. Foster enters the game for R. Miller
+    - ''
+    - 114-124
+    - ''
+    - ''
+  - - '0:26.8'
+    - ''
+    - ''
+    - 114-125
+    - "+1"
+    - M. Norris makes free throw 2 of 2
+  - - '0:20.4'
+    - J. Rose makes 2-pt shot from 10 ft
+    - "+2"
+    - 116-125
+    - ''
+    - ''
+  - - '0:16.7'
+    - ''
+    - ''
+    - 116-125
+    - ''
+    - Personal foul by J. Bender
+  - - '0:16.7'
+    - ''
+    - ''
+    - 116-126
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '0:16.7'
+    - ''
+    - ''
+    - 116-127
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '0:12.2'
+    - J. Rose makes 2-pt shot at rim
+    - "+2"
+    - 118-127
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd overtime

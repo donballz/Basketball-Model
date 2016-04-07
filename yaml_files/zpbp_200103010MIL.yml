@@ -1,0 +1,2466 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. Caffey vs. H. Olajuwon (R. Allen gains possession)'
+  - - '11:44.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - G. Robinson misses 2-pt shot from 16 ft
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by S. Williams
+  - - '11:36.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. Caffey misses 2-pt shot from 4 ft (block by H. Olajuwon)
+  - - '11:32.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:30.0'
+    - S. Anderson makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - R. Allen makes 2-pt shot from 14 ft
+  - - '11:01.0'
+    - M. Taylor misses 2-pt shot from 12 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:57.0'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:54.0'
+    - H. Olajuwon misses 2-pt shot from 11 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by S. Williams
+  - - '10:42.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - S. Cassell misses 2-pt shot from 12 ft
+  - - '10:40.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:26.0'
+    - S. Anderson makes 2-pt shot at rim (assist by M. Taylor)
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:26.0'
+    - Shooting foul by R. Allen
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:26.0'
+    - S. Anderson makes free throw 1 of 1
+    - "+1"
+    - 5-2
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Turnover by R. Allen (bad pass)
+  - - '10:02.0'
+    - W. Williams makes 2-pt shot from 14 ft (assist by S. Francis)
+    - "+2"
+    - 7-2
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - Turnover by G. Robinson (lost ball)
+  - - '9:40.0'
+    - W. Williams misses 2-pt shot from 16 ft
+    - ''
+    - 7-2
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - Defensive rebound by S. Williams
+  - - '9:31.0'
+    - ''
+    - ''
+    - 7-2
+    - ''
+    - Turnover by S. Cassell (bad pass; steal by M. Taylor)
+  - - '9:25.0'
+    - M. Taylor makes 2-pt shot at rim (assist by S. Francis)
+    - "+2"
+    - 9-2
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 9-2
+    - ''
+    - Milwaukee full timeout
+  - - '9:03.0'
+    - ''
+    - ''
+    - 9-4
+    - "+2"
+    - S. Cassell makes 2-pt shot from 18 ft (assist by S. Williams)
+  - - '8:48.0'
+    - S. Anderson misses 2-pt shot from 10 ft
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '8:45.0'
+    - ''
+    - ''
+    - 9-4
+    - ''
+    - Defensive rebound by S. Williams
+  - - '8:38.0'
+    - ''
+    - ''
+    - 9-4
+    - ''
+    - R. Allen misses 3-pt shot from 24 ft
+  - - '8:36.0'
+    - Defensive rebound by W. Williams
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '8:30.0'
+    - Turnover by S. Francis (lost ball; steal by G. Robinson)
+    - ''
+    - 9-4
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 9-4
+    - ''
+    - Personal foul by S. Anderson
+  - - '8:15.0'
+    - ''
+    - ''
+    - 9-6
+    - "+2"
+    - G. Robinson makes 2-pt shot from 16 ft (assist by R. Allen)
+  - - '7:56.0'
+    - W. Williams makes 2-pt shot from 19 ft (assist by S. Anderson)
+    - "+2"
+    - 11-6
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - S. Williams misses 2-pt shot from 11 ft
+  - - '7:43.0'
+    - ''
+    - ''
+    - 11-8
+    - "+2"
+    - R. Allen makes 2-pt shot at rim
+  - - '7:43.0'
+    - ''
+    - ''
+    - 11-8
+    - ''
+    - Offensive rebound by R. Allen
+  - - '7:30.0'
+    - Turnover by S. Francis (bad pass; steal by R. Allen)
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 11-8
+    - ''
+    - S. Cassell misses 2-pt shot at rim (block by S. Anderson)
+  - - '7:23.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 11-8
+    - ''
+    - ''
+  - - '7:16.0'
+    - S. Francis makes 2-pt shot at rim
+    - "+2"
+    - 13-8
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - G. Robinson misses 2-pt shot from 19 ft
+  - - '7:02.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - Offensive rebound by J. Caffey
+  - - '6:59.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - Turnover by J. Caffey (lost ball; steal by S. Francis)
+  - - '6:53.0'
+    - M. Taylor misses 2-pt shot from 12 ft
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:50.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:46.0'
+    - S. Francis misses 2-pt shot at rim
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - Defensive rebound by J. Caffey
+  - - '6:33.0'
+    - ''
+    - ''
+    - 13-11
+    - "+3"
+    - R. Allen makes 3-pt shot from 24 ft (assist by S. Cassell)
+  - - '6:14.0'
+    - H. Olajuwon makes 2-pt shot from 13 ft
+    - "+2"
+    - 15-11
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 15-13
+    - "+2"
+    - G. Robinson makes 2-pt shot from 15 ft (assist by S. Cassell)
+  - - '5:38.0'
+    - Turnover by M. Taylor (bad pass; steal by S. Williams)
+    - ''
+    - 15-13
+    - ''
+    - ''
+  - - '5:32.0'
+    - ''
+    - ''
+    - 15-15
+    - "+2"
+    - S. Cassell makes 2-pt shot from 12 ft
+  - - '5:05.0'
+    - S. Francis makes 2-pt shot from 13 ft
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 17-17
+    - "+2"
+    - S. Williams makes 2-pt shot at rim (assist by J. Caffey)
+  - - '4:25.0'
+    - S. Francis makes 2-pt shot at rim
+    - "+2"
+    - 19-17
+    - ''
+    - ''
+  - - '4:25.0'
+    - Shooting foul by S. Williams
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '4:25.0'
+    - K. Thomas enters the game for H. Olajuwon
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '4:25.0'
+    - S. Francis makes free throw 1 of 1
+    - "+1"
+    - 20-17
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - S. Williams misses 2-pt shot at rim
+  - - '4:08.0'
+    - Defensive rebound by Team
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '3:53.0'
+    - S. Anderson makes 3-pt shot from 28 ft (assist by W. Williams)
+    - "+3"
+    - 23-17
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Turnover by R. Allen (lost ball)
+  - - '3:42.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - L. Hunter enters the game for R. Allen
+  - - '3:42.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - E. Johnson enters the game for S. Williams
+  - - '3:29.0'
+    - W. Williams misses 3-pt shot from 26 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '3:27.0'
+    - Offensive rebound by S. Anderson
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '3:18.0'
+    - S. Francis makes 3-pt shot from 23 ft
+    - "+3"
+    - 26-17
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 26-19
+    - "+2"
+    - J. Caffey makes 2-pt shot at rim (assist by G. Robinson)
+  - - '3:02.0'
+    - Houston full timeout
+    - ''
+    - 26-19
+    - ''
+    - ''
+  - - '2:44.0'
+    - K. Thomas makes 2-pt shot at rim (assist by M. Taylor)
+    - "+2"
+    - 28-19
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 28-19
+    - ''
+    - S. Cassell misses 2-pt shot from 14 ft
+  - - '2:22.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 28-19
+    - ''
+    - ''
+  - - '2:07.0'
+    - Turnover by S. Francis (lost ball; steal by L. Hunter)
+    - ''
+    - 28-19
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 28-19
+    - ''
+    - G. Robinson misses 2-pt shot from 16 ft
+  - - '1:59.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 28-19
+    - ''
+    - ''
+  - - '1:43.0'
+    - S. Anderson makes 2-pt shot at rim (assist by M. Taylor)
+    - "+2"
+    - 30-19
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - L. Hunter misses 3-pt shot from 23 ft
+  - - '1:20.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - D. Ham enters the game for J. Caffey
+  - - '1:17.0'
+    - S. Francis misses 2-pt shot at rim (block by G. Robinson)
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '1:17.0'
+    - M. Norris enters the game for S. Anderson
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '1:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '1:08.0'
+    - M. Taylor misses 2-pt shot from 16 ft
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Defensive rebound by L. Hunter
+  - - '0:58.2'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Personal foul by W. Williams
+  - - '0:52.9'
+    - ''
+    - ''
+    - 30-21
+    - "+2"
+    - G. Robinson makes 2-pt shot from 17 ft (assist by S. Cassell)
+  - - '0:35.6'
+    - S. Francis misses 2-pt shot from 21 ft
+    - ''
+    - 30-21
+    - ''
+    - ''
+  - - '0:33.5'
+    - ''
+    - ''
+    - 30-21
+    - ''
+    - Defensive rebound by G. Robinson
+  - - '0:29.1'
+    - ''
+    - ''
+    - 30-23
+    - "+2"
+    - G. Robinson makes 2-pt shot at rim
+  - - '0:13.8'
+    - S. Francis misses 2-pt shot from 17 ft
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:11.6'
+    - ''
+    - ''
+    - 30-23
+    - ''
+    - Defensive rebound by E. Johnson
+  - - '0:07.3'
+    - ''
+    - ''
+    - 30-23
+    - ''
+    - S. Cassell misses 2-pt shot from 20 ft
+  - - '0:06.5'
+    - Defensive rebound by Team
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:06.5'
+    - Loose ball foul by D. Ham
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:01.6'
+    - M. Taylor misses 2-pt shot at rim
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - K. Thomas misses 2-pt shot at rim (block by E. Johnson)
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '11:47.0'
+    - Offensive rebound by M. Taylor
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '11:45.0'
+    - M. Taylor makes 2-pt shot at rim
+    - "+2"
+    - 32-23
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 32-23
+    - ''
+    - Turnover by G. Robinson (bad pass; steal by M. Taylor)
+  - - '11:28.0'
+    - Personal foul by G. Robinson
+    - ''
+    - 32-23
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 32-23
+    - ''
+    - Violation by Team (illegal defense)
+  - - '11:04.0'
+    - M. Taylor makes 2-pt shot from 17 ft (assist by S. Francis)
+    - "+2"
+    - 34-23
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 34-25
+    - "+2"
+    - L. Hunter makes 2-pt shot from 19 ft (assist by S. Cassell)
+  - - '10:30.0'
+    - M. Taylor makes 2-pt shot from 6 ft
+    - "+2"
+    - 36-25
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 36-27
+    - "+2"
+    - E. Johnson makes 2-pt shot at rim (assist by D. Ham)
+  - - '9:51.0'
+    - S. Francis makes 2-pt shot from 15 ft
+    - "+2"
+    - 38-27
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 38-27
+    - ''
+    - L. Hunter misses 3-pt shot from 27 ft
+  - - '9:31.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '9:24.0'
+    - Offensive foul by K. Thomas
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '9:24.0'
+    - Turnover by K. Thomas (foul)
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 38-27
+    - ''
+    - R. Allen enters the game for G. Robinson
+  - - '9:13.0'
+    - ''
+    - ''
+    - 38-27
+    - ''
+    - Personal foul by K. Thomas
+  - - '9:13.0'
+    - C. Rogers enters the game for K. Thomas
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 38-29
+    - "+2"
+    - D. Ham makes 2-pt shot at rim (assist by R. Allen)
+  - - '8:41.0'
+    - Official timeout
+    - ''
+    - 38-29
+    - ''
+    - ''
+  - - '8:41.0'
+    - S. Anderson enters the game for W. Williams
+    - ''
+    - 38-29
+    - ''
+    - ''
+  - - '8:37.0'
+    - M. Taylor misses 2-pt shot from 19 ft (block by L. Hunter)
+    - ''
+    - 38-29
+    - ''
+    - ''
+  - - '8:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 38-29
+    - ''
+    - ''
+  - - '8:36.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 38-29
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 38-31
+    - "+2"
+    - L. Hunter makes 2-pt shot from 19 ft (assist by R. Allen)
+  - - '8:01.0'
+    - S. Anderson makes 2-pt shot from 16 ft
+    - "+2"
+    - 40-31
+    - ''
+    - ''
+  - - '7:44.0'
+    - ''
+    - ''
+    - 40-31
+    - ''
+    - R. Allen misses 2-pt shot at rim
+  - - '7:42.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 40-31
+    - ''
+    - ''
+  - - '7:32.0'
+    - S. Francis makes 3-pt shot from 26 ft
+    - "+3"
+    - 43-31
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 43-31
+    - ''
+    - Personal foul by C. Rogers
+  - - '7:21.0'
+    - ''
+    - ''
+    - 43-31
+    - ''
+    - G. Robinson enters the game for S. Cassell
+  - - '7:10.0'
+    - ''
+    - ''
+    - 43-34
+    - "+3"
+    - L. Hunter makes 3-pt shot from 26 ft (assist by G. Robinson)
+  - - '6:51.0'
+    - S. Francis misses 3-pt shot from 26 ft
+    - ''
+    - 43-34
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 43-34
+    - ''
+    - Defensive rebound by E. Johnson
+  - - '6:37.0'
+    - ''
+    - ''
+    - 43-34
+    - ''
+    - G. Robinson misses 2-pt shot from 16 ft
+  - - '6:35.0'
+    - ''
+    - ''
+    - 43-36
+    - "+2"
+    - D. Ham makes 2-pt shot at rim
+  - - '6:35.0'
+    - ''
+    - ''
+    - 43-36
+    - ''
+    - Offensive rebound by D. Ham
+  - - '6:15.0'
+    - C. Rogers makes 2-pt shot at rim (assist by M. Taylor)
+    - "+2"
+    - 45-36
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - Personal foul by S. Anderson
+  - - '5:56.0'
+    - H. Olajuwon enters the game for M. Taylor
+    - ''
+    - 45-36
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - Milwaukee full timeout
+  - - '5:47.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - L. Hunter misses 2-pt shot at rim
+  - - '5:45.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 45-36
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 45-36
+    - ''
+    - Technical foul by Team
+  - - '5:36.0'
+    - S. Francis makes free throw technical
+    - "+1"
+    - 46-36
+    - ''
+    - ''
+  - - '5:29.0'
+    - S. Francis misses 2-pt shot from 12 ft (block by L. Hunter)
+    - ''
+    - 46-36
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Defensive rebound by E. Johnson
+  - - '5:13.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Turnover by G. Robinson (out of bounds)
+  - - '4:56.0'
+    - S. Anderson misses 3-pt shot from 27 ft
+    - ''
+    - 46-36
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Defensive rebound by E. Johnson
+  - - '4:35.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - L. Hunter misses 3-pt shot from 25 ft
+  - - '4:32.0'
+    - Defensive rebound by M. Norris
+    - ''
+    - 46-36
+    - ''
+    - ''
+  - - '4:17.0'
+    - H. Olajuwon misses 2-pt shot from 19 ft
+    - ''
+    - 46-36
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Defensive rebound by R. Allen
+  - - '4:16.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Loose ball foul by C. Rogers
+  - - '4:16.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - S. Cassell enters the game for E. Johnson
+  - - '4:11.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Personal foul by S. Francis
+  - - '4:11.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - S. Cassell misses free throw 1 of 2
+  - - '4:11.0'
+    - ''
+    - ''
+    - 46-36
+    - ''
+    - Offensive rebound by Team
+  - - '4:11.0'
+    - ''
+    - ''
+    - 46-37
+    - "+1"
+    - S. Cassell makes free throw 2 of 2
+  - - '3:58.0'
+    - Personal foul by D. Ham
+    - ''
+    - 46-37
+    - ''
+    - ''
+  - - '3:58.0'
+    - W. Williams enters the game for C. Rogers
+    - ''
+    - 46-37
+    - ''
+    - ''
+  - - '3:51.0'
+    - H. Olajuwon makes 2-pt shot at rim (assist by S. Anderson)
+    - "+2"
+    - 48-37
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 48-37
+    - ''
+    - S. Cassell misses 2-pt shot from 6 ft
+  - - '3:38.0'
+    - Defensive rebound by M. Norris
+    - ''
+    - 48-37
+    - ''
+    - ''
+  - - '3:30.0'
+    - W. Williams makes 2-pt shot from 20 ft (assist by M. Norris)
+    - "+2"
+    - 50-37
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 50-37
+    - ''
+    - Milwaukee full timeout
+  - - '3:29.0'
+    - ''
+    - ''
+    - 50-37
+    - ''
+    - S. Williams enters the game for L. Hunter
+  - - '3:06.0'
+    - ''
+    - ''
+    - 50-37
+    - ''
+    - R. Allen misses 2-pt shot at rim
+  - - '3:03.0'
+    - Defensive rebound by W. Williams
+    - ''
+    - 50-37
+    - ''
+    - ''
+  - - '2:58.0'
+    - M. Norris makes 2-pt shot from 12 ft (assist by S. Francis)
+    - "+2"
+    - 52-37
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 52-37
+    - ''
+    - Personal foul by W. Williams
+  - - '2:41.0'
+    - ''
+    - ''
+    - 52-37
+    - ''
+    - E. Johnson enters the game for D. Ham
+  - - '2:41.0'
+    - ''
+    - ''
+    - 52-38
+    - "+1"
+    - S. Cassell makes free throw 1 of 2
+  - - '2:41.0'
+    - ''
+    - ''
+    - 52-39
+    - "+1"
+    - S. Cassell makes free throw 2 of 2
+  - - '2:26.0'
+    - M. Norris misses 3-pt shot from 23 ft
+    - ''
+    - 52-39
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 52-39
+    - ''
+    - Defensive rebound by R. Allen
+  - - '2:15.0'
+    - ''
+    - ''
+    - 52-39
+    - ''
+    - R. Allen misses 2-pt shot from 13 ft
+  - - '2:12.0'
+    - Defensive rebound by H. Olajuwon
+    - ''
+    - 52-39
+    - ''
+    - ''
+  - - '2:08.0'
+    - Offensive foul by W. Williams
+    - ''
+    - 52-39
+    - ''
+    - ''
+  - - '2:08.0'
+    - Turnover by W. Williams (foul)
+    - ''
+    - 52-39
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 52-39
+    - ''
+    - Turnover by G. Robinson (lost ball; steal by S. Francis)
+  - - '1:42.0'
+    - S. Anderson makes 2-pt shot at rim (assist by M. Norris)
+    - "+2"
+    - 54-39
+    - ''
+    - ''
+  - - '1:41.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 54-39
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 54-39
+    - ''
+    - R. Allen misses 2-pt shot from 12 ft
+  - - '1:26.0'
+    - ''
+    - ''
+    - 54-41
+    - "+2"
+    - E. Johnson makes 2-pt shot at rim
+  - - '1:26.0'
+    - ''
+    - ''
+    - 54-41
+    - ''
+    - Offensive rebound by E. Johnson
+  - - '1:10.0'
+    - Shooting foul by E. Johnson
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '1:10.0'
+    - D. Langhi enters the game for W. Williams
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '1:10.0'
+    - H. Olajuwon misses free throw 1 of 2
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '1:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-41
+    - ''
+    - ''
+  - - '1:10.0'
+    - H. Olajuwon makes free throw 2 of 2
+    - "+1"
+    - 55-41
+    - ''
+    - ''
+  - - '0:54.0'
+    - ''
+    - ''
+    - 55-43
+    - "+2"
+    - G. Robinson makes 2-pt shot from 13 ft
+  - - '0:31.7'
+    - Shooting foul by R. Allen
+    - ''
+    - 55-43
+    - ''
+    - ''
+  - - '0:31.7'
+    - S. Francis makes free throw 1 of 2
+    - "+1"
+    - 56-43
+    - ''
+    - ''
+  - - '0:31.7'
+    - C. Rogers enters the game for S. Anderson
+    - ''
+    - 56-43
+    - ''
+    - ''
+  - - '0:31.7'
+    - S. Francis makes free throw 2 of 2
+    - "+1"
+    - 57-43
+    - ''
+    - ''
+  - - '0:21.6'
+    - ''
+    - ''
+    - 57-45
+    - "+2"
+    - R. Allen makes 2-pt shot at rim
+  - - '0:05.9'
+    - H. Olajuwon misses 2-pt shot from 13 ft
+    - ''
+    - 57-45
+    - ''
+    - ''
+  - - '0:04.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - Defensive rebound by R. Allen
+  - - '0:00.5'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - R. Allen misses 3-pt shot from 34 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - W. Williams makes 2-pt shot from 12 ft (assist by S. Francis)
+    - "+2"
+    - 59-45
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 59-47
+    - "+2"
+    - R. Allen makes 2-pt shot from 19 ft (assist by S. Cassell)
+  - - '11:13.0'
+    - W. Williams makes 3-pt shot from 23 ft (assist by S. Anderson)
+    - "+3"
+    - 62-47
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 62-49
+    - "+2"
+    - G. Robinson makes 2-pt shot from 12 ft (assist by R. Allen)
+  - - '10:42.0'
+    - S. Anderson misses 2-pt shot from 5 ft
+    - ''
+    - 62-49
+    - ''
+    - ''
+  - - '10:40.0'
+    - S. Francis misses 2-pt shot at rim
+    - ''
+    - 62-49
+    - ''
+    - ''
+  - - '10:40.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 62-49
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 62-49
+    - ''
+    - Defensive rebound by J. Caffey
+  - - '10:32.0'
+    - ''
+    - ''
+    - 62-49
+    - ''
+    - Turnover by J. Caffey (lost ball; steal by S. Francis)
+  - - '10:24.0'
+    - H. Olajuwon makes 2-pt shot at rim (assist by S. Anderson)
+    - "+2"
+    - 64-49
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 64-49
+    - ''
+    - Personal foul by M. Taylor
+  - - '10:11.0'
+    - ''
+    - ''
+    - 64-49
+    - ''
+    - R. Allen misses 3-pt shot from 25 ft
+  - - '10:09.0'
+    - ''
+    - ''
+    - 64-49
+    - ''
+    - Offensive rebound by J. Caffey
+  - - '10:03.0'
+    - ''
+    - ''
+    - 64-49
+    - ''
+    - Shooting foul by W. Williams
+  - - '10:03.0'
+    - ''
+    - ''
+    - 64-50
+    - "+1"
+    - R. Allen makes free throw 1 of 2
+  - - '10:03.0'
+    - M. Norris enters the game for W. Williams
+    - ''
+    - 64-50
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 64-51
+    - "+1"
+    - R. Allen makes free throw 2 of 2
+  - - '9:47.0'
+    - Shooting foul by S. Cassell
+    - ''
+    - 64-51
+    - ''
+    - ''
+  - - '9:47.0'
+    - S. Anderson makes free throw 1 of 3
+    - "+1"
+    - 65-51
+    - ''
+    - ''
+  - - '9:47.0'
+    - S. Anderson makes free throw 2 of 3
+    - "+1"
+    - 66-51
+    - ''
+    - ''
+  - - '9:47.0'
+    - S. Anderson makes free throw 3 of 3
+    - "+1"
+    - 67-51
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 67-51
+    - ''
+    - Turnover by R. Allen (bad pass)
+  - - '9:07.0'
+    - M. Norris makes 2-pt shot from 16 ft (assist by S. Francis)
+    - "+2"
+    - 69-51
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 69-53
+    - "+2"
+    - G. Robinson makes 2-pt shot from 13 ft (assist by S. Cassell)
+  - - '8:36.0'
+    - S. Francis makes 2-pt shot at rim
+    - "+2"
+    - 71-53
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 71-55
+    - "+2"
+    - D. Ham makes 2-pt shot from 10 ft (assist by R. Allen)
+  - - '7:55.0'
+    - S. Anderson makes 2-pt shot at rim (assist by S. Francis)
+    - "+2"
+    - 73-55
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 73-57
+    - "+2"
+    - G. Robinson makes 2-pt shot at rim (assist by S. Cassell)
+  - - '7:17.0'
+    - S. Francis misses 2-pt shot from 13 ft
+    - ''
+    - 73-57
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 73-57
+    - ''
+    - Defensive rebound by J. Caffey
+  - - '7:09.0'
+    - ''
+    - ''
+    - 73-57
+    - ''
+    - S. Cassell misses 2-pt shot from 13 ft
+  - - '7:08.0'
+    - ''
+    - ''
+    - 73-57
+    - ''
+    - Offensive rebound by R. Allen
+  - - '7:07.0'
+    - ''
+    - ''
+    - 73-59
+    - "+2"
+    - R. Allen makes 2-pt shot at rim
+  - - '6:47.0'
+    - M. Taylor misses 2-pt shot at rim
+    - ''
+    - 73-59
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 73-59
+    - ''
+    - Defensive rebound by S. Cassell
+  - - '6:41.0'
+    - ''
+    - ''
+    - 73-61
+    - "+2"
+    - J. Caffey makes 2-pt shot at rim (assist by S. Cassell)
+  - - '6:39.0'
+    - Houston full timeout
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '6:24.0'
+    - S. Francis misses 2-pt shot from 6 ft
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '6:22.0'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - Defensive rebound by J. Caffey
+  - - '6:17.0'
+    - ''
+    - ''
+    - 73-63
+    - "+2"
+    - S. Cassell makes 2-pt shot from 10 ft (assist by J. Caffey)
+  - - '6:00.0'
+    - Turnover by H. Olajuwon (bad pass; steal by D. Ham)
+    - ''
+    - 73-63
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 73-63
+    - ''
+    - Personal foul by S. Anderson
+  - - '5:50.0'
+    - ''
+    - ''
+    - 73-63
+    - ''
+    - Turnover by D. Ham (bad pass)
+  - - '5:39.0'
+    - Personal foul by D. Ham
+    - ''
+    - 73-63
+    - ''
+    - ''
+  - - '5:26.0'
+    - M. Norris makes 2-pt shot from 15 ft (assist by S. Francis)
+    - "+2"
+    - 75-63
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 75-65
+    - "+2"
+    - S. Cassell makes 2-pt shot from 12 ft
+  - - '5:00.0'
+    - H. Olajuwon misses 2-pt shot from 9 ft
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - Defensive rebound by J. Caffey
+  - - '4:52.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - L. Hunter enters the game for D. Ham
+  - - '4:49.0'
+    - ''
+    - ''
+    - 75-65
+    - ''
+    - G. Robinson misses 3-pt shot from 26 ft
+  - - '4:47.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 75-65
+    - ''
+    - ''
+  - - '4:25.0'
+    - S. Francis makes 3-pt shot from 23 ft
+    - "+3"
+    - 78-65
+    - ''
+    - ''
+  - - '4:25.0'
+    - Shooting foul by L. Hunter
+    - ''
+    - 78-65
+    - ''
+    - ''
+  - - '4:25.0'
+    - S. Francis makes free throw 1 of 1
+    - "+1"
+    - 79-65
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 79-67
+    - "+2"
+    - S. Cassell makes 2-pt shot from 11 ft
+  - - '3:59.0'
+    - Personal foul by G. Robinson
+    - ''
+    - 79-67
+    - ''
+    - ''
+  - - '3:49.0'
+    - M. Taylor misses 2-pt shot from 9 ft (block by G. Robinson)
+    - ''
+    - 79-67
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 79-67
+    - ''
+    - Defensive rebound by S. Cassell
+  - - '3:40.0'
+    - ''
+    - ''
+    - 79-70
+    - "+3"
+    - G. Robinson makes 3-pt shot from 27 ft (assist by S. Cassell)
+  - - '3:38.0'
+    - Houston full timeout
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '3:21.0'
+    - S. Anderson misses 2-pt shot at rim
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '3:19.0'
+    - Offensive rebound by M. Taylor
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '3:17.0'
+    - M. Taylor makes 2-pt shot from 4 ft
+    - "+2"
+    - 81-70
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 81-70
+    - ''
+    - L. Hunter misses 3-pt shot from 24 ft
+  - - '2:56.0'
+    - ''
+    - ''
+    - 81-70
+    - ''
+    - Offensive rebound by R. Allen
+  - - '2:50.0'
+    - ''
+    - ''
+    - 81-70
+    - ''
+    - R. Allen misses 3-pt shot from 23 ft
+  - - '2:48.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 81-70
+    - ''
+    - ''
+  - - '2:40.0'
+    - H. Olajuwon makes 2-pt shot at rim (assist by M. Taylor)
+    - "+2"
+    - 83-70
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - G. Robinson misses 3-pt shot from 23 ft
+  - - '2:26.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - Offensive rebound by L. Hunter
+  - - '2:25.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - Shooting foul by S. Francis
+  - - '2:25.0'
+    - ''
+    - ''
+    - 83-71
+    - "+1"
+    - J. Caffey makes free throw 1 of 2
+  - - '2:25.0'
+    - ''
+    - ''
+    - 83-71
+    - ''
+    - J. Caffey misses free throw 2 of 2
+  - - '2:24.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '2:09.0'
+    - Shooting foul by J. Caffey
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 83-71
+    - ''
+    - E. Johnson enters the game for J. Caffey
+  - - '2:09.0'
+    - H. Olajuwon makes free throw 1 of 2
+    - "+1"
+    - 84-71
+    - ''
+    - ''
+  - - '2:09.0'
+    - H. Olajuwon makes free throw 2 of 2
+    - "+1"
+    - 85-71
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 85-71
+    - ''
+    - Personal foul by M. Taylor
+  - - '1:56.0'
+    - ''
+    - ''
+    - 85-72
+    - "+1"
+    - S. Cassell makes free throw 1 of 2
+  - - '1:56.0'
+    - ''
+    - ''
+    - 85-73
+    - "+1"
+    - S. Cassell makes free throw 2 of 2
+  - - '1:37.0'
+    - Shooting foul by S. Cassell
+    - ''
+    - 85-73
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 85-73
+    - ''
+    - S. Williams enters the game for G. Robinson
+  - - '1:37.0'
+    - M. Taylor makes free throw 1 of 2
+    - "+1"
+    - 86-73
+    - ''
+    - ''
+  - - '1:37.0'
+    - M. Taylor makes free throw 2 of 2
+    - "+1"
+    - 87-73
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 87-73
+    - ''
+    - Offensive foul by S. Cassell
+  - - '1:33.0'
+    - ''
+    - ''
+    - 87-73
+    - ''
+    - Turnover by S. Cassell (foul)
+  - - '1:22.0'
+    - M. Taylor makes 2-pt shot from 21 ft (assist by M. Norris)
+    - "+2"
+    - 89-73
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 89-73
+    - ''
+    - Shooting foul by S. Francis
+  - - '1:02.0'
+    - ''
+    - ''
+    - 89-74
+    - "+1"
+    - S. Cassell makes free throw 1 of 2
+  - - '1:02.0'
+    - ''
+    - ''
+    - 89-75
+    - "+1"
+    - S. Cassell makes free throw 2 of 2
+  - - '0:47.9'
+    - Personal foul by L. Hunter
+    - ''
+    - 89-75
+    - ''
+    - ''
+  - - '0:47.9'
+    - S. Francis makes free throw 1 of 2
+    - "+1"
+    - 90-75
+    - ''
+    - ''
+  - - '0:47.9'
+    - S. Francis makes free throw 2 of 2
+    - "+1"
+    - 91-75
+    - ''
+    - ''
+  - - '0:34.3'
+    - ''
+    - ''
+    - 91-75
+    - ''
+    - L. Hunter misses 3-pt shot from 27 ft
+  - - '0:34.2'
+    - Defensive rebound by Team
+    - ''
+    - 91-75
+    - ''
+    - ''
+  - - '0:12.7'
+    - M. Taylor misses 2-pt shot from 17 ft
+    - ''
+    - 91-75
+    - ''
+    - ''
+  - - '0:10.3'
+    - ''
+    - ''
+    - 91-75
+    - ''
+    - Defensive rebound by S. Williams
+  - - '0:09.3'
+    - ''
+    - ''
+    - 91-75
+    - ''
+    - Turnover by S. Williams (bad pass; steal by H. Olajuwon)
+  - - '0:08.3'
+    - H. Olajuwon misses 2-pt shot from 9 ft
+    - ''
+    - 91-75
+    - ''
+    - ''
+  - - '0:07.3'
+    - Offensive rebound by H. Olajuwon
+    - ''
+    - 91-75
+    - ''
+    - ''
+  - - '0:06.5'
+    - H. Olajuwon makes 2-pt shot from 8 ft
+    - "+2"
+    - 93-75
+    - ''
+    - ''
+  - - '0:00.5'
+    - ''
+    - ''
+    - 93-75
+    - ''
+    - L. Hunter misses 3-pt shot from 27 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 93-75
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:50.0'
+    - ''
+    - ''
+    - 93-75
+    - ''
+    - Shooting foul by K. Thomas
+  - - '11:50.0'
+    - ''
+    - ''
+    - 93-75
+    - ''
+    - D. Ham enters the game for R. Allen
+  - - '11:50.0'
+    - ''
+    - ''
+    - 93-76
+    - "+1"
+    - S. Williams makes free throw 1 of 2
+  - - '11:50.0'
+    - ''
+    - ''
+    - 93-77
+    - "+1"
+    - S. Williams makes free throw 2 of 2
+  - - '11:38.0'
+    - M. Norris misses 2-pt shot from 19 ft
+    - ''
+    - 93-77
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 93-77
+    - ''
+    - Defensive rebound by S. Williams
+  - - '11:22.0'
+    - ''
+    - ''
+    - 93-77
+    - ''
+    - D. Ham misses 2-pt shot from 14 ft
+  - - '11:20.0'
+    - Defensive rebound by M. Norris
+    - ''
+    - 93-77
+    - ''
+    - ''
+  - - '11:06.0'
+    - K. Thomas makes 2-pt shot at rim (assist by M. Norris)
+    - "+2"
+    - 95-77
+    - ''
+    - ''
+  - - '11:06.0'
+    - Shooting foul by S. Williams
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '11:06.0'
+    - Violation by M. Norris (lane)
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '11:06.0'
+    - Turnover by M. Norris (lane violation)
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 95-77
+    - ''
+    - L. Hunter misses 2-pt shot from 14 ft
+  - - '10:47.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '10:37.0'
+    - Turnover by S. Francis (lost ball; steal by S. Cassell)
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 95-77
+    - ''
+    - Turnover by L. Hunter (lost ball; steal by S. Anderson)
+  - - '10:28.0'
+    - S. Francis misses 2-pt shot at rim
+    - ''
+    - 95-77
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 95-77
+    - ''
+    - Defensive rebound by S. Williams
+  - - '10:19.0'
+    - ''
+    - ''
+    - 95-79
+    - "+2"
+    - S. Cassell makes 2-pt shot from 17 ft
+  - - '10:02.0'
+    - S. Anderson makes 2-pt shot at rim (assist by M. Norris)
+    - "+2"
+    - 97-79
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 97-79
+    - ''
+    - S. Williams misses 2-pt shot from 13 ft
+  - - '9:42.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 97-79
+    - ''
+    - ''
+  - - '9:26.0'
+    - Ill def tech foul by Team
+    - ''
+    - 97-79
+    - ''
+    - ''
+  - - '9:26.0'
+    - S. Francis makes free throw technical
+    - "+1"
+    - 98-79
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 98-79
+    - ''
+    - G. Robinson enters the game for S. Williams
+  - - '9:26.0'
+    - W. Williams enters the game for M. Taylor
+    - ''
+    - 98-79
+    - ''
+    - ''
+  - - '9:10.0'
+    - M. Norris makes 2-pt shot from 20 ft
+    - "+2"
+    - 100-79
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 100-81
+    - "+2"
+    - S. Cassell makes 2-pt shot from 9 ft
+  - - '8:36.0'
+    - M. Norris misses 2-pt shot at rim
+    - ''
+    - 100-81
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 100-81
+    - ''
+    - Defensive rebound by E. Johnson
+  - - '8:24.0'
+    - ''
+    - ''
+    - 100-81
+    - ''
+    - Shooting foul by S. Anderson
+  - - '8:24.0'
+    - ''
+    - ''
+    - 100-81
+    - ''
+    - Official timeout
+  - - '8:24.0'
+    - ''
+    - ''
+    - 100-81
+    - ''
+    - E. Johnson misses free throw 1 of 2
+  - - '8:24.0'
+    - ''
+    - ''
+    - 100-81
+    - ''
+    - Offensive rebound by Team
+  - - '8:24.0'
+    - ''
+    - ''
+    - 100-82
+    - "+1"
+    - E. Johnson makes free throw 2 of 2
+  - - '8:08.0'
+    - S. Anderson misses 3-pt shot from 23 ft
+    - ''
+    - 100-82
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 100-82
+    - ''
+    - Defensive rebound by Team
+  - - '7:59.0'
+    - ''
+    - ''
+    - 100-82
+    - ''
+    - Offensive foul by D. Ham
+  - - '7:59.0'
+    - ''
+    - ''
+    - 100-82
+    - ''
+    - Turnover by D. Ham (foul)
+  - - '7:41.0'
+    - W. Williams makes 2-pt shot from 17 ft (assist by S. Anderson)
+    - "+2"
+    - 102-82
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 102-82
+    - ''
+    - L. Hunter misses 2-pt shot from 14 ft
+  - - '7:22.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 102-82
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 102-82
+    - ''
+    - R. Allen enters the game for E. Johnson
+  - - '7:03.0'
+    - Turnover by M. Norris (bad pass; steal by S. Cassell)
+    - ''
+    - 102-82
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 102-82
+    - ''
+    - G. Robinson misses 2-pt shot from 16 ft
+  - - '6:54.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 102-82
+    - ''
+    - ''
+  - - '6:32.0'
+    - Offensive foul by S. Anderson
+    - ''
+    - 102-82
+    - ''
+    - ''
+  - - '6:32.0'
+    - Turnover by S. Anderson (foul)
+    - ''
+    - 102-82
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 102-84
+    - "+2"
+    - S. Cassell makes 2-pt shot from 14 ft
+  - - '5:55.0'
+    - S. Francis makes 2-pt shot from 9 ft
+    - "+2"
+    - 104-84
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - R. Allen misses 3-pt shot from 25 ft
+  - - '5:43.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:25.0'
+    - S. Anderson misses 2-pt shot from 9 ft
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:24.0'
+    - Offensive rebound by S. Anderson
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:24.0'
+    - Loose ball foul by D. Ham
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:24.0'
+    - Houston full timeout
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:05.0'
+    - W. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '5:03.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '4:45.0'
+    - Turnover by S. Francis (lost ball; steal by L. Hunter)
+    - ''
+    - 104-84
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - G. Robinson misses 2-pt shot from 3 ft
+  - - '4:31.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - Offensive rebound by D. Ham
+  - - '4:27.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - G. Robinson misses 2-pt shot from 10 ft
+  - - '4:25.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - Offensive rebound by D. Ham
+  - - '4:25.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - Shooting foul by M. Norris
+  - - '4:25.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - D. Ham misses free throw 1 of 2
+  - - '4:25.0'
+    - ''
+    - ''
+    - 104-84
+    - ''
+    - Offensive rebound by Team
+  - - '4:25.0'
+    - ''
+    - ''
+    - 104-85
+    - "+1"
+    - D. Ham makes free throw 2 of 2
+  - - '4:04.0'
+    - M. Norris makes 2-pt shot at rim
+    - "+2"
+    - 106-85
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - G. Robinson misses 2-pt shot at rim
+  - - '3:48.0'
+    - Defensive rebound by W. Williams
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:29.0'
+    - W. Williams misses 3-pt shot from 23 ft
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - Defensive rebound by S. Cassell
+  - - '3:20.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - G. Robinson misses 2-pt shot from 20 ft
+  - - '3:18.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:06.0'
+    - Personal foul by S. Cassell
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - J. Przybilla enters the game for G. Robinson
+  - - '3:06.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - R. Alston enters the game for R. Allen
+  - - '3:06.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - S. Williams enters the game for L. Hunter
+  - - '3:06.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - M. Pope enters the game for D. Ham
+  - - '3:06.0'
+    - C. Rogers enters the game for W. Williams
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:06.0'
+    - D. Langhi enters the game for S. Anderson
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '3:06.0'
+    - S. Colson enters the game for S. Francis
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '2:53.0'
+    - D. Langhi misses 2-pt shot at rim
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - Defensive rebound by R. Alston
+  - - '2:45.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - Milwaukee full timeout
+  - - '2:37.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - M. Pope misses 2-pt shot from 19 ft
+  - - '2:34.0'
+    - Defensive rebound by M. Norris
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '2:20.0'
+    - K. Thomas misses 2-pt shot at rim (block by J. Przybilla)
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - Defensive rebound by J. Przybilla
+  - - '2:07.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - R. Alston misses 2-pt shot from 18 ft
+  - - '2:05.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - Offensive rebound by J. Przybilla
+  - - '2:02.0'
+    - ''
+    - ''
+    - 106-85
+    - ''
+    - S. Williams misses 2-pt shot from 16 ft
+  - - '2:02.0'
+    - Defensive rebound by Team
+    - ''
+    - 106-85
+    - ''
+    - ''
+  - - '1:47.0'
+    - D. Langhi makes 2-pt shot from 16 ft
+    - "+2"
+    - 108-85
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 108-85
+    - ''
+    - S. Cassell misses 2-pt shot from 13 ft
+  - - '1:32.0'
+    - ''
+    - ''
+    - 108-85
+    - ''
+    - Offensive rebound by M. Pope
+  - - '1:28.0'
+    - ''
+    - ''
+    - 108-87
+    - "+2"
+    - S. Williams makes 2-pt shot from 15 ft (assist by R. Alston)
+  - - '1:10.0'
+    - Offensive foul by C. Rogers
+    - ''
+    - 108-87
+    - ''
+    - ''
+  - - '1:10.0'
+    - Turnover by C. Rogers (foul)
+    - ''
+    - 108-87
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 108-87
+    - ''
+    - L. Hunter enters the game for S. Cassell
+  - - '0:51.3'
+    - ''
+    - ''
+    - 108-89
+    - "+2"
+    - J. Przybilla makes 2-pt shot from 7 ft (assist by L. Hunter)
+  - - '0:33.0'
+    - D. Langhi misses 2-pt shot at rim (block by J. Przybilla)
+    - ''
+    - 108-89
+    - ''
+    - ''
+  - - '0:29.7'
+    - ''
+    - ''
+    - 108-89
+    - ''
+    - Defensive rebound by R. Alston
+  - - '0:22.1'
+    - ''
+    - ''
+    - 108-89
+    - ''
+    - S. Williams misses 2-pt shot from 16 ft
+  - - '0:19.7'
+    - ''
+    - ''
+    - 108-89
+    - ''
+    - Offensive rebound by J. Przybilla
+  - - '0:13.3'
+    - ''
+    - ''
+    - 108-91
+    - "+2"
+    - L. Hunter makes 2-pt shot from 17 ft
+  - - '0:00.0'
+    - End of 4th quarter

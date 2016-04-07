@@ -1,0 +1,197 @@
+---
+- name: Plus-Minus
+  data:
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: +16&#9642;Off: -3&#9642;Net: +19)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 149/
+    - 100/-1
+    - 250/+14
+    - 56/+5
+    - 193/
+    - 'Arvydas Sabonis (On: +8&#9642;Off: +5&#9642;Net: +3)'
+    - |2-
+
+      -3
+    - 201/-3
+    - 90/
+    - 101/+7
+    - 107/
+    - 154/+4
+    - 345/
+    - 'Steve Smith (On: +12&#9642;Off: +1&#9642;Net: +11)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 61/+2
+    - 171/
+    - 18/+3
+    - 227/+9
+    - 271/
+    - 'Damon Stoudamire (On: +16&#9642;Off: -3&#9642;Net: +19)'
+    - |2-
+
+      -2
+    - 248/-2
+    - 201/
+    - 50/-1
+    - 250/+14
+    - 56/+5
+    - 193/
+    - 'Rasheed Wallace (On: +13&#9642;Off: 0&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 39/0
+    - 110/
+    - 100/-1
+    - 249/+14
+    - 79/+2
+    - 171/
+    - 'Dale Davis (On: +19&#9642;Off: -6&#9642;Net: +25)'
+    - "\n"
+    - 208/
+    - 42/+1
+    - 249/+6
+    - 160/
+    - 89/+10
+    - 201/+2
+    - 48/
+    - 'Stacey Augmon (On: +7&#9642;Off: +6&#9642;Net: +1)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 143/+7
+    - 335/
+    - 21/+5
+    - 250/-5
+    - 'Rod Strickland (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - "\n"
+    - 250/
+    - 196/+7
+    - 365/
+    - 189/-10
+    - 'Greg Anthony (On: -9&#9642;Off: +22&#9642;Net: -31)'
+    - "\n"
+    - 316/
+    - 163/+1
+    - 331/
+    - 190/-10
+    - 'Detlef Schrempf (On: -7&#9642;Off: +20&#9642;Net: -27)'
+    - "\n"
+    - 834/
+    - 168/-7
+    - 'Antonio Harvey (On: -7&#9642;Off: +20&#9642;Net: -27)'
+    - "\n"
+    - 958/
+    - 44/-7
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +3&#9642;Off: -16&#9642;Net: +19)'
+    - |2-
+
+      +2
+    - 248/+2
+    - 89/
+    - 161/0
+    - 227/-9
+    - 82/
+    - 191/+10
+    - 'Mike Bibby (On: -7&#9642;Off: -6&#9642;Net: -1)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 66/
+    - 184/-4
+    - 187/-10
+    - 62/
+    - 249/+5
+    - 'Damon Jones (On: -6&#9642;Off: -7&#9642;Net: +1)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 61/-2
+    - 61/
+    - 128/+1
+    - 249/-14
+    - 82/
+    - 167/+7
+    - 'Tony Massenburg (On: -12&#9642;Off: -1&#9642;Net: -11)'
+    - |2-
+
+      -1
+    - 167/-1
+    - 116/
+    - 162/-7
+    - 54/
+    - 154/-4
+    - 345/
+    - 'Bryant Reeves (On: -16&#9642;Off: +3&#9642;Net: -19)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 29/0
+    - 170/
+    - 50/+1
+    - 249/-14
+    - 56/-5
+    - 194/
+    - 'Stromile Swift (On: -8&#9642;Off: -5&#9642;Net: -3)'
+    - "\n"
+    - 172/
+    - 76/+3
+    - 1/
+    - 83/-6
+    - 326/
+    - 89/-10
+    - 250/+5
+    - 'Mahmoud Abdul-Rauf (On: -14&#9642;Off: +1&#9642;Net: -15)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 116/-7
+    - 327/
+    - 56/-4
+    - 150/-3
+    - 99/
+    - 'Grant Long (On: -6&#9642;Off: -7&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 250/-6
+    - 500/
+    - 'Kevin Edwards (On: +1&#9642;Off: -14&#9642;Net: +15)'
+    - "\n"
+    - 728/
+    - 22/-5
+    - 79/-2
+    - 72/
+    - 98/+8
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

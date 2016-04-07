@@ -1,0 +1,2366 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: S. Abdur-Rahim vs. D. Nowitzki (B. Reeves gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - B. Reeves makes 2-pt shot from 5 ft
+  - - '11:24.0'
+    - S. Nash makes 2-pt shot at rim
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '11:09.0'
+    - Defensive rebound by Team
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:55.0'
+    - S. Nash makes 2-pt shot from 6 ft
+    - "+2"
+    - 4-2
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '10:42.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Shooting foul by G. Buckner
+  - - '10:42.0'
+    - ''
+    - ''
+    - 4-5
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 1
+  - - '10:26.0'
+    - Turnover by S. Nash (bad pass)
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Turnover by M. Bibby (bad pass)
+  - - '9:58.0'
+    - J. Howard makes 2-pt shot from 8 ft
+    - "+2"
+    - 6-5
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 6-5
+    - ''
+    - Personal foul by M. Finley
+  - - '9:42.0'
+    - ''
+    - ''
+    - 6-7
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 4 ft (assist by M. Bibby)
+  - - '9:35.0'
+    - S. Nash misses 2-pt shot from 5 ft
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '9:28.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 2 ft
+  - - '9:26.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '9:20.0'
+    - D. Nowitzki makes 3-pt shot from 26 ft (assist by M. Finley)
+    - "+3"
+    - 9-7
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - Turnover by G. Long (bad pass; steal by D. Nowitzki)
+  - - '8:58.0'
+    - J. Howard misses 2-pt shot from 12 ft
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '8:47.0'
+    - ''
+    - ''
+    - 9-10
+    - "+3"
+    - M. Bibby makes 3-pt shot from 26 ft (assist by S. Abdur-Rahim)
+  - - '8:32.0'
+    - D. Nowitzki makes 3-pt shot from 26 ft (assist by S. Nash)
+    - "+3"
+    - 12-10
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '8:10.0'
+    - ''
+    - ''
+    - 12-11
+    - "+1"
+    - B. Reeves makes free throw 1 of 2
+  - - '8:10.0'
+    - ''
+    - ''
+    - 12-12
+    - "+1"
+    - B. Reeves makes free throw 2 of 2
+  - - '7:53.0'
+    - G. Buckner makes 2-pt shot at rim (assist by M. Finley)
+    - "+2"
+    - 14-12
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - M. Bibby misses 3-pt shot from 25 ft
+  - - '7:43.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '7:42.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 2 ft (block by D. Nowitzki)
+  - - '7:39.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '7:27.0'
+    - M. Finley makes 2-pt shot from 6 ft
+    - "+2"
+    - 16-12
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - M. Dickerson misses 2-pt shot from 14 ft
+  - - '7:05.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '7:01.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '7:01.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 17-12
+    - ''
+    - ''
+  - - '7:01.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 18-12
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 18-14
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 11 ft (assist by G. Long)
+  - - '6:26.0'
+    - J. Howard misses 2-pt shot at rim
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '6:23.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '6:22.0'
+    - J. Howard makes 2-pt shot from 1 ft
+    - "+2"
+    - 20-14
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 20-14
+    - ''
+    - M. Dickerson misses 2-pt shot from 20 ft
+  - - '6:03.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '5:51.0'
+    - G. Buckner makes 2-pt shot from 18 ft (assist by D. Nowitzki)
+    - "+2"
+    - 22-14
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 22-14
+    - ''
+    - Vancouver full timeout
+  - - '5:31.0'
+    - ''
+    - ''
+    - 22-14
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by G. Buckner)
+  - - '5:27.0'
+    - D. Nowitzki makes 2-pt shot at rim (assist by G. Buckner)
+    - "+2"
+    - 24-14
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 24-16
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 1 ft (assist by M. Bibby)
+  - - '5:01.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 24-16
+    - ''
+    - ''
+  - - '4:54.0'
+    - Offensive foul by J. Howard
+    - ''
+    - 24-16
+    - ''
+    - ''
+  - - '4:54.0'
+    - Turnover by J. Howard (foul)
+    - ''
+    - 24-16
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by S. Nash)
+  - - '4:42.0'
+    - M. Finley makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 26-16
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 5 ft
+  - - '4:20.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - Offensive rebound by G. Long
+  - - '4:12.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - G. Long misses 2-pt shot from 13 ft
+  - - '4:11.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '4:08.0'
+    - ''
+    - ''
+    - 26-18
+    - "+2"
+    - B. Reeves makes 2-pt shot from 3 ft
+  - - '3:55.0'
+    - G. Buckner makes 2-pt shot from 1 ft (assist by D. Nowitzki)
+    - "+2"
+    - 28-18
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 28-18
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by D. Nowitzki)
+  - - '3:31.0'
+    - M. Finley makes 2-pt shot from 1 ft (assist by D. Nowitzki)
+    - "+2"
+    - 30-18
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 30-18
+    - ''
+    - G. Long misses 2-pt shot from 20 ft
+  - - '3:09.0'
+    - ''
+    - ''
+    - 30-18
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '3:08.0'
+    - ''
+    - ''
+    - 30-20
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot at rim
+  - - '2:55.0'
+    - M. Finley makes 2-pt shot from 18 ft
+    - "+2"
+    - 32-20
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 32-22
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by B. Reeves)
+  - - '2:23.0'
+    - Personal foul by M. Bibby
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '2:23.0'
+    - Dallas full timeout
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - E. Strickland enters the game for G. Long
+  - - '2:09.0'
+    - M. Finley makes 2-pt shot from 19 ft
+    - "+2"
+    - 34-22
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 34-22
+    - ''
+    - Turnover by B. Reeves (bad pass; steal by S. Nash)
+  - - '1:51.0'
+    - D. Nowitzki makes 3-pt shot from 26 ft (assist by S. Nash)
+    - "+3"
+    - 37-22
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 37-22
+    - ''
+    - M. Bibby misses 2-pt shot from 7 ft
+  - - '1:26.0'
+    - ''
+    - ''
+    - 37-22
+    - ''
+    - Offensive rebound by M. Bibby
+  - - '1:26.0'
+    - ''
+    - ''
+    - 37-22
+    - ''
+    - Turnover by M. Bibby (bad pass)
+  - - '1:07.0'
+    - J. Howard makes 2-pt shot from 14 ft (assist by M. Finley)
+    - "+2"
+    - 39-22
+    - ''
+    - ''
+  - - '0:54.1'
+    - ''
+    - ''
+    - 39-22
+    - ''
+    - Turnover by B. Reeves (traveling)
+  - - '0:54.1'
+    - ''
+    - ''
+    - 39-22
+    - ''
+    - T. Massenburg enters the game for B. Reeves
+  - - '0:35.9'
+    - J. Howard makes 2-pt shot from 8 ft (assist by S. Nash)
+    - "+2"
+    - 41-22
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - E. Strickland misses 3-pt shot from 23 ft
+  - - '0:22.7'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Offensive rebound by Team
+  - - '0:22.7'
+    - ''
+    - ''
+    - 41-22
+    - ''
+    - Loose ball foul by S. Nash
+  - - '0:22.7'
+    - H. Eisley enters the game for S. Nash
+    - ''
+    - 41-22
+    - ''
+    - ''
+  - - '0:03.8'
+    - ''
+    - ''
+    - 41-24
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 17 ft (assist by E. Strickland)
+  - - '0:00.0'
+    - G. Buckner misses 2-pt shot from 13 ft
+    - ''
+    - 41-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - J. Howard misses 2-pt shot from 9 ft
+    - ''
+    - 41-24
+    - ''
+    - ''
+  - - '11:40.0'
+    - ''
+    - ''
+    - 41-24
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '11:27.0'
+    - ''
+    - ''
+    - 41-24
+    - ''
+    - Shooting foul by J. Howard
+  - - '11:27.0'
+    - ''
+    - ''
+    - 41-25
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '11:27.0'
+    - ''
+    - ''
+    - 41-26
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '11:09.0'
+    - G. Buckner misses 2-pt shot at rim
+    - ''
+    - 41-26
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 41-26
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '11:02.0'
+    - ''
+    - ''
+    - 41-26
+    - ''
+    - E. Strickland misses 2-pt shot from 1 ft (block by D. Nowitzki)
+  - - '11:02.0'
+    - ''
+    - ''
+    - 41-26
+    - ''
+    - Offensive rebound by Team
+  - - '11:02.0'
+    - ''
+    - ''
+    - 41-26
+    - ''
+    - D. Jones enters the game for M. Dickerson
+  - - '10:47.0'
+    - ''
+    - ''
+    - 41-28
+    - "+2"
+    - T. Massenburg makes 2-pt shot from 2 ft (assist by D. Jones)
+  - - '10:32.0'
+    - D. Nowitzki makes 3-pt shot from 23 ft (assist by M. Finley)
+    - "+3"
+    - 44-28
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 44-30
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 14 ft (assist by D. Jones)
+  - - '9:57.0'
+    - D. Nowitzki misses 3-pt shot from 23 ft
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '9:54.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '9:37.0'
+    - D. Nowitzki misses 2-pt shot from 18 ft
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 44-30
+    - ''
+    - Defensive rebound by M. Abdul-Rauf
+  - - '9:20.0'
+    - ''
+    - ''
+    - 44-32
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot at rim (assist by M. Abdul-Rauf)
+  - - '9:10.0'
+    - Personal foul by D. Jones
+    - ''
+    - 44-32
+    - ''
+    - ''
+  - - '9:10.0'
+    - E. Najera enters the game for G. Buckner
+    - ''
+    - 44-32
+    - ''
+    - ''
+  - - '9:10.0'
+    - S. Bradley enters the game for J. Howard
+    - ''
+    - 44-32
+    - ''
+    - ''
+  - - '8:57.0'
+    - Turnover by E. Najera (lost ball; steal by S. Abdur-Rahim)
+    - ''
+    - 44-32
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 44-34
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft (assist by M. Abdul-Rauf)
+  - - '8:52.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Shooting foul by M. Finley
+  - - '8:52.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Official timeout
+  - - '8:52.0'
+    - ''
+    - ''
+    - 44-35
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 1
+  - - '8:38.0'
+    - M. Finley makes 2-pt shot at rim
+    - "+2"
+    - 46-35
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 46-37
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 22 ft
+  - - '7:58.0'
+    - S. Bradley makes 2-pt shot from 1 ft (assist by M. Finley)
+    - "+2"
+    - 48-37
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 48-39
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 19 ft
+  - - '7:19.0'
+    - Personal foul by E. Strickland
+    - ''
+    - 48-39
+    - ''
+    - ''
+  - - '7:19.0'
+    - S. Nash enters the game for M. Finley
+    - ''
+    - 48-39
+    - ''
+    - ''
+  - - '7:06.0'
+    - H. Eisley misses 2-pt shot from 19 ft
+    - ''
+    - 48-39
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '6:54.0'
+    - ''
+    - ''
+    - 48-41
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 23 ft (assist by E. Strickland)
+  - - '6:36.0'
+    - S. Nash misses 2-pt shot from 2 ft
+    - ''
+    - 48-41
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 48-41
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '6:29.0'
+    - ''
+    - ''
+    - 48-44
+    - "+3"
+    - D. Jones makes 3-pt shot from 23 ft (assist by M. Abdul-Rauf)
+  - - '6:26.0'
+    - Dallas full timeout
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '6:26.0'
+    - J. Howard enters the game for D. Nowitzki
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '6:13.0'
+    - S. Nash misses 2-pt shot from 8 ft
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Defensive rebound by D. Jones
+  - - '6:06.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - E. Strickland misses 2-pt shot from 19 ft
+  - - '6:04.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '5:57.0'
+    - H. Eisley makes 3-pt shot from 25 ft (assist by S. Nash)
+    - "+3"
+    - 51-44
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 51-44
+    - ''
+    - M. Abdul-Rauf misses 2-pt shot from 11 ft
+  - - '5:40.0'
+    - Defensive rebound by E. Najera
+    - ''
+    - 51-44
+    - ''
+    - ''
+  - - '5:30.0'
+    - J. Howard makes 2-pt shot from 5 ft (assist by S. Nash)
+    - "+2"
+    - 53-44
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball; steal by E. Najera)
+  - - '5:08.0'
+    - Turnover by S. Nash (bad pass)
+    - ''
+    - 53-44
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - S. Swift enters the game for T. Massenburg
+  - - '4:54.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - Personal foul by E. Najera
+  - - '4:54.0'
+    - ''
+    - ''
+    - 53-44
+    - ''
+    - M. Bibby enters the game for M. Abdul-Rauf
+  - - '4:39.0'
+    - ''
+    - ''
+    - 53-47
+    - "+3"
+    - M. Bibby makes 3-pt shot from 23 ft (assist by D. Jones)
+  - - '4:27.0'
+    - J. Howard misses 2-pt shot from 9 ft
+    - ''
+    - 53-47
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - Defensive rebound by E. Strickland
+  - - '4:21.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - Shooting foul by S. Bradley
+  - - '4:21.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - E. Strickland misses free throw 1 of 2
+  - - '4:21.0'
+    - ''
+    - ''
+    - 53-47
+    - ''
+    - Offensive rebound by Team
+  - - '4:21.0'
+    - ''
+    - ''
+    - 53-48
+    - "+1"
+    - E. Strickland makes free throw 2 of 2
+  - - '3:58.0'
+    - S. Bradley misses 2-pt shot from 15 ft
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - Defensive rebound by Team
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - Loose ball foul by S. Nash
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - Vancouver 20 second timeout
+  - - '3:56.0'
+    - D. Nowitzki enters the game for S. Bradley
+    - ''
+    - 53-48
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - D. Jones misses free throw 1 of 2
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-48
+    - ''
+    - Offensive rebound by Team
+  - - '3:56.0'
+    - ''
+    - ''
+    - 53-49
+    - "+1"
+    - D. Jones makes free throw 2 of 2
+  - - '3:41.0'
+    - H. Eisley misses 2-pt shot from 17 ft
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '3:39.0'
+    - Offensive rebound by E. Najera
+    - ''
+    - 53-49
+    - ''
+    - ''
+  - - '3:38.0'
+    - E. Najera makes 2-pt shot from 1 ft
+    - "+2"
+    - 55-49
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 55-49
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by J. Howard)
+  - - '3:19.0'
+    - D. Nowitzki makes 2-pt shot from 2 ft (assist by H. Eisley)
+    - "+2"
+    - 57-49
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 57-51
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 20 ft (assist by E. Strickland)
+  - - '2:45.0'
+    - Turnover by H. Eisley (bad pass; steal by S. Swift)
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - M. Bibby misses 3-pt shot from 25 ft
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Offensive rebound by Team
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Loose ball foul by S. Nash
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Vancouver full timeout
+  - - '2:37.0'
+    - M. Finley enters the game for S. Nash
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - M. Dickerson enters the game for D. Jones
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-52
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '2:37.0'
+    - ''
+    - ''
+    - 57-52
+    - ''
+    - S. Abdur-Rahim misses free throw 2 of 2
+  - - '2:35.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 57-52
+    - ''
+    - ''
+  - - '2:21.0'
+    - J. Howard makes 2-pt shot from 4 ft
+    - "+2"
+    - 59-52
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 59-52
+    - ''
+    - Violation by S. Swift (def goaltending)
+  - - '2:05.0'
+    - ''
+    - ''
+    - 59-52
+    - ''
+    - S. Swift misses 2-pt shot from 6 ft
+  - - '2:03.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 59-52
+    - ''
+    - ''
+  - - '1:56.0'
+    - J. Howard misses 2-pt shot at rim
+    - ''
+    - 59-52
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 59-52
+    - ''
+    - Defensive rebound by S. Swift
+  - - '1:39.0'
+    - ''
+    - ''
+    - 59-55
+    - "+3"
+    - S. Abdur-Rahim makes 3-pt shot from 25 ft (assist by M. Bibby)
+  - - '1:18.0'
+    - H. Eisley misses 2-pt shot from 2 ft (block by S. Abdur-Rahim)
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '1:10.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - E. Strickland misses 3-pt shot from 25 ft
+  - - '1:08.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '1:05.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Turnover by E. Strickland (bad pass; steal by D. Nowitzki)
+  - - '1:01.0'
+    - Turnover by D. Nowitzki (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '0:48.9'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - M. Bibby misses 3-pt shot from 24 ft
+  - - '0:46.9'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '0:41.9'
+    - D. Nowitzki makes 2-pt shot from 13 ft
+    - "+2"
+    - 61-55
+    - ''
+    - ''
+  - - '0:34.6'
+    - ''
+    - ''
+    - 61-55
+    - ''
+    - Turnover by E. Strickland (traveling)
+  - - '0:26.8'
+    - M. Finley makes 2-pt shot from 21 ft
+    - "+2"
+    - 63-55
+    - ''
+    - ''
+  - - '0:10.1'
+    - ''
+    - ''
+    - 63-57
+    - "+2"
+    - S. Swift makes 2-pt shot at rim
+  - - '0:05.3'
+    - Personal foul by M. Dickerson
+    - ''
+    - 63-57
+    - ''
+    - ''
+  - - '0:01.8'
+    - J. Howard makes 2-pt shot from 1 ft
+    - "+2"
+    - 65-57
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - S. Swift misses 3-pt shot from 36 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:38.0'
+    - S. Nash misses 2-pt shot from 19 ft
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Defensive rebound by G. Long
+  - - '11:38.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Loose ball foul by G. Buckner
+  - - '11:29.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Turnover by M. Bibby (traveling)
+  - - '11:17.0'
+    - M. Finley misses 2-pt shot from 7 ft
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Defensive rebound by G. Long
+  - - '11:01.0'
+    - ''
+    - ''
+    - 65-59
+    - "+2"
+    - B. Reeves makes 2-pt shot from 17 ft (assist by S. Abdur-Rahim)
+  - - '10:44.0'
+    - Turnover by M. Finley (lost ball; steal by M. Dickerson)
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 18 ft
+  - - '10:29.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - Offensive rebound by M. Bibby
+  - - '10:15.0'
+    - ''
+    - ''
+    - 65-62
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 25 ft (assist by M. Bibby)
+  - - '9:56.0'
+    - S. Bradley misses 2-pt shot from 8 ft
+    - ''
+    - 65-62
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '9:39.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - Turnover by M. Bibby (bad pass; steal by M. Finley)
+  - - '9:26.0'
+    - G. Buckner makes 2-pt shot from 10 ft (assist by M. Finley)
+    - "+2"
+    - 67-62
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - M. Bibby misses 2-pt shot from 19 ft
+  - - '9:01.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '8:58.0'
+    - S. Nash makes 2-pt shot from 2 ft (assist by J. Howard)
+    - "+2"
+    - 69-62
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Violation by M. Dickerson (def goaltending)
+  - - '8:46.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Offensive foul by M. Dickerson
+  - - '8:46.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Turnover by M. Dickerson (foul)
+  - - '8:30.0'
+    - M. Finley misses 2-pt shot from 17 ft
+    - ''
+    - 69-62
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 69-62
+    - ''
+    - Defensive rebound by G. Long
+  - - '8:21.0'
+    - ''
+    - ''
+    - 69-64
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 1 ft (assist by G. Long)
+  - - '8:04.0'
+    - S. Nash misses 3-pt shot from 25 ft
+    - ''
+    - 69-64
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 69-64
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '7:59.0'
+    - ''
+    - ''
+    - 69-66
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 2 ft (assist by M. Bibby)
+  - - '7:58.0'
+    - Dallas full timeout
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '7:58.0'
+    - E. Najera enters the game for S. Bradley
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '7:36.0'
+    - J. Howard misses 2-pt shot from 14 ft
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Defensive rebound by G. Long
+  - - '7:26.0'
+    - ''
+    - ''
+    - 69-68
+    - "+2"
+    - B. Reeves makes 2-pt shot from 1 ft (assist by S. Abdur-Rahim)
+  - - '7:08.0'
+    - E. Najera misses 2-pt shot from 15 ft
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '6:57.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball; steal by E. Najera)
+  - - '6:52.0'
+    - G. Buckner misses 2-pt shot from 10 ft
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '6:45.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Personal foul by J. Howard
+  - - '6:45.0'
+    - D. Nowitzki enters the game for G. Buckner
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 69-70
+    - "+2"
+    - B. Reeves makes 2-pt shot from 6 ft (assist by G. Long)
+  - - '6:17.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 69-70
+    - ''
+    - ''
+  - - '6:10.0'
+    - S. Nash makes 2-pt shot from 17 ft
+    - "+2"
+    - 71-70
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 71-70
+    - ''
+    - Personal foul by D. Nowitzki
+  - - '5:48.0'
+    - ''
+    - ''
+    - 71-72
+    - "+2"
+    - B. Reeves makes 2-pt shot from 14 ft (assist by M. Dickerson)
+  - - '5:25.0'
+    - S. Nash makes 2-pt shot from 17 ft
+    - "+2"
+    - 73-72
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 73-72
+    - ''
+    - B. Reeves misses 2-pt shot from 16 ft
+  - - '5:02.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 73-72
+    - ''
+    - ''
+  - - '4:56.0'
+    - D. Nowitzki makes 2-pt shot from 7 ft (assist by M. Finley)
+    - "+2"
+    - 75-72
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - M. Dickerson misses 2-pt shot from 21 ft
+  - - '4:32.0'
+    - Defensive rebound by E. Najera
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:28.0'
+    - S. Nash makes 2-pt shot from 1 ft
+    - "+2"
+    - 77-72
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 77-72
+    - ''
+    - Vancouver full timeout
+  - - '4:07.0'
+    - ''
+    - ''
+    - 77-74
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 15 ft (assist by S. Abdur-Rahim)
+  - - '3:49.0'
+    - Turnover by S. Nash (bad pass)
+    - ''
+    - 77-74
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 77-74
+    - ''
+    - Offensive foul by S. Abdur-Rahim
+  - - '3:39.0'
+    - ''
+    - ''
+    - 77-74
+    - ''
+    - Turnover by S. Abdur-Rahim (foul)
+  - - '3:26.0'
+    - E. Najera makes 2-pt shot from 1 ft (assist by M. Finley)
+    - "+2"
+    - 79-74
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 79-74
+    - ''
+    - Offensive foul by M. Dickerson
+  - - '3:13.0'
+    - ''
+    - ''
+    - 79-74
+    - ''
+    - Turnover by M. Dickerson (foul)
+  - - '3:01.0'
+    - Offensive foul by J. Howard
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '3:01.0'
+    - Turnover by J. Howard (foul)
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 79-74
+    - ''
+    - E. Strickland enters the game for M. Dickerson
+  - - '2:44.0'
+    - ''
+    - ''
+    - 79-76
+    - "+2"
+    - G. Long makes 2-pt shot from 22 ft (assist by M. Bibby)
+  - - '2:34.0'
+    - S. Nash makes 2-pt shot from 5 ft
+    - "+2"
+    - 81-76
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - B. Reeves misses 2-pt shot from 14 ft
+  - - '2:23.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '2:16.0'
+    - J. Howard makes 2-pt shot from 2 ft (assist by M. Finley)
+    - "+2"
+    - 83-76
+    - ''
+    - ''
+  - - '2:16.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - S. Swift enters the game for B. Reeves
+  - - '2:16.0'
+    - J. Howard misses free throw 1 of 1
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Defensive rebound by G. Long
+  - - '1:55.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - E. Strickland misses 2-pt shot from 9 ft
+  - - '1:53.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Offensive rebound by E. Strickland
+  - - '1:51.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - E. Strickland misses 2-pt shot at rim (block by E. Najera)
+  - - '1:48.0'
+    - Defensive rebound by S. Nash
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '1:48.0'
+    - Turnover by S. Nash (bad pass)
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - E. Strickland misses 3-pt shot from 26 ft
+  - - '1:22.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Offensive rebound by Team
+  - - '1:22.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Turnover by Team (shot clock)
+  - - '1:12.0'
+    - Personal foul by S. Swift
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '1:05.0'
+    - J. Howard makes 2-pt shot from 12 ft
+    - "+2"
+    - 85-76
+    - ''
+    - ''
+  - - '0:49.4'
+    - ''
+    - ''
+    - 85-78
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 12 ft
+  - - '0:37.9'
+    - D. Nowitzki misses 2-pt shot from 17 ft
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '0:36.7'
+    - Offensive rebound by Team
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '0:28.4'
+    - E. Najera makes 2-pt shot from 1 ft (assist by J. Howard)
+    - "+2"
+    - 87-78
+    - ''
+    - ''
+  - - '0:04.5'
+    - ''
+    - ''
+    - 87-80
+    - "+2"
+    - S. Swift makes 2-pt shot from 1 ft (assist by G. Long)
+  - - '0:02.9'
+    - Turnover by D. Nowitzki (bad pass; steal by E. Strickland)
+    - ''
+    - 87-80
+    - ''
+    - ''
+  - - '0:00.7'
+    - ''
+    - ''
+    - 87-83
+    - "+3"
+    - M. Bibby makes 3-pt shot from 26 ft (assist by E. Strickland)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 87-86
+    - "+3"
+    - S. Abdur-Rahim makes 3-pt shot from 25 ft (assist by M. Bibby)
+  - - '11:25.0'
+    - Turnover by D. Nowitzki (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 87-86
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 87-88
+    - "+2"
+    - E. Strickland makes 2-pt shot from 1 ft
+  - - '10:59.0'
+    - H. Eisley makes 3-pt shot from 26 ft (assist by M. Finley)
+    - "+3"
+    - 90-88
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 90-90
+    - "+2"
+    - M. Bibby makes 2-pt shot from 21 ft (assist by S. Abdur-Rahim)
+  - - '10:20.0'
+    - S. Bradley misses 2-pt shot from 3 ft
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Defensive rebound by G. Long
+  - - '10:20.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Loose ball foul by G. Buckner
+  - - '10:20.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - D. Jones enters the game for E. Strickland
+  - - '10:03.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Turnover by S. Swift (lost ball; steal by H. Eisley)
+  - - '9:55.0'
+    - G. Buckner makes 2-pt shot from 5 ft (assist by M. Finley)
+    - "+2"
+    - 92-90
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 92-92
+    - "+2"
+    - M. Bibby makes 2-pt shot from 4 ft
+  - - '9:14.0'
+    - Personal foul by G. Long
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - M. Abdul-Rauf enters the game for M. Bibby
+  - - '9:06.0'
+    - M. Finley makes 2-pt shot from 5 ft (assist by D. Nowitzki)
+    - "+2"
+    - 94-92
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 94-92
+    - ''
+    - D. Jones misses 3-pt shot from 23 ft
+  - - '8:45.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 94-92
+    - ''
+    - ''
+  - - '8:32.0'
+    - M. Finley misses 2-pt shot from 6 ft
+    - ''
+    - 94-92
+    - ''
+    - ''
+  - - '8:28.0'
+    - ''
+    - ''
+    - 94-92
+    - ''
+    - Defensive rebound by D. Jones
+  - - '8:13.0'
+    - ''
+    - ''
+    - 94-94
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 3 ft
+  - - '8:00.0'
+    - D. Nowitzki misses 3-pt shot from 26 ft
+    - ''
+    - 94-94
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Defensive rebound by S. Swift
+  - - '7:53.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Turnover by M. Abdul-Rauf (lost ball; steal by H. Eisley)
+  - - '7:38.0'
+    - M. Finley misses 2-pt shot from 4 ft
+    - ''
+    - 94-94
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Defensive rebound by S. Swift
+  - - '7:23.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - M. Abdul-Rauf misses 2-pt shot from 15 ft
+  - - '7:20.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 94-94
+    - ''
+    - ''
+  - - '7:06.0'
+    - H. Eisley misses 2-pt shot from 17 ft
+    - ''
+    - 94-94
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Defensive rebound by D. Jones
+  - - '6:55.0'
+    - ''
+    - ''
+    - 94-94
+    - ''
+    - Turnover by D. Jones (bad pass; steal by S. Bradley)
+  - - '6:51.0'
+    - D. Nowitzki makes 2-pt shot from 1 ft
+    - "+2"
+    - 96-94
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 96-94
+    - ''
+    - Vancouver full timeout
+  - - '6:47.0'
+    - S. Nash enters the game for M. Finley
+    - ''
+    - 96-94
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 96-94
+    - ''
+    - M. Dickerson enters the game for M. Abdul-Rauf
+  - - '6:47.0'
+    - ''
+    - ''
+    - 96-94
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '6:34.0'
+    - Violation by S. Bradley (illegal defense)
+    - ''
+    - 96-94
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 96-97
+    - "+3"
+    - M. Bibby makes 3-pt shot from 25 ft
+  - - '5:59.0'
+    - Shooting foul by M. Bibby
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '5:59.0'
+    - Official timeout
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '5:59.0'
+    - H. Eisley misses free throw 1 of 2
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '5:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '5:59.0'
+    - H. Eisley makes free throw 2 of 2
+    - "+1"
+    - 97-97
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 97-97
+    - ''
+    - Ill def tech foul by S. Bradley
+  - - '5:46.0'
+    - ''
+    - ''
+    - 97-98
+    - "+1"
+    - S. Abdur-Rahim makes free throw technical
+  - - '5:46.0'
+    - M. Finley enters the game for G. Buckner
+    - ''
+    - 97-98
+    - ''
+    - ''
+  - - '5:46.0'
+    - J. Howard enters the game for S. Bradley
+    - ''
+    - 97-98
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 97-98
+    - ''
+    - Personal foul by H. Eisley
+  - - '5:23.0'
+    - ''
+    - ''
+    - 97-100
+    - "+2"
+    - M. Bibby makes 2-pt shot from 1 ft
+  - - '4:59.0'
+    - Shooting foul by G. Long
+    - ''
+    - 97-100
+    - ''
+    - ''
+  - - '4:59.0'
+    - D. Nowitzki makes free throw 1 of 3
+    - "+1"
+    - 98-100
+    - ''
+    - ''
+  - - '4:59.0'
+    - D. Nowitzki makes free throw 2 of 3
+    - "+1"
+    - 99-100
+    - ''
+    - ''
+  - - '4:59.0'
+    - S. Bradley enters the game for H. Eisley
+    - ''
+    - 99-100
+    - ''
+    - ''
+  - - '4:59.0'
+    - D. Nowitzki makes free throw 3 of 3
+    - "+1"
+    - 100-100
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 100-100
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 5 ft
+  - - '4:42.0'
+    - Defensive rebound by S. Nash
+    - ''
+    - 100-100
+    - ''
+    - ''
+  - - '4:39.0'
+    - Shooting foul by G. Long
+    - ''
+    - 100-100
+    - ''
+    - ''
+  - - '4:39.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 101-100
+    - ''
+    - ''
+  - - '4:39.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 102-100
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 102-102
+    - "+2"
+    - M. Bibby makes 2-pt shot from 23 ft
+  - - '4:04.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '4:04.0'
+    - J. Howard misses free throw 1 of 2
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '4:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '4:04.0'
+    - J. Howard misses free throw 2 of 2
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - Defensive rebound by S. Swift
+  - - '3:41.0'
+    - ''
+    - ''
+    - 102-102
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 14 ft
+  - - '3:39.0'
+    - Defensive rebound by S. Nash
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '3:27.0'
+    - Personal foul by S. Swift
+    - ''
+    - 102-102
+    - ''
+    - ''
+  - - '3:27.0'
+    - S. Nash makes free throw 1 of 2
+    - "+1"
+    - 103-102
+    - ''
+    - ''
+  - - '3:27.0'
+    - S. Nash makes free throw 2 of 2
+    - "+1"
+    - 104-102
+    - ''
+    - ''
+  - - '3:12.0'
+    - ''
+    - ''
+    - 104-102
+    - ''
+    - Shooting foul by S. Bradley
+  - - '3:12.0'
+    - ''
+    - ''
+    - 104-103
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '3:12.0'
+    - ''
+    - ''
+    - 104-104
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '2:58.0'
+    - D. Nowitzki misses 2-pt shot from 14 ft
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '2:57.0'
+    - Offensive rebound by D. Nowitzki
+    - ''
+    - 104-104
+    - ''
+    - ''
+  - - '2:47.0'
+    - S. Nash makes 2-pt shot from 4 ft
+    - "+2"
+    - 106-104
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 106-104
+    - ''
+    - M. Bibby misses 3-pt shot from 26 ft
+  - - '2:20.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 106-104
+    - ''
+    - ''
+  - - '2:13.0'
+    - Shooting foul by M. Bibby
+    - ''
+    - 106-104
+    - ''
+    - ''
+  - - '2:13.0'
+    - Dallas full timeout
+    - ''
+    - 106-104
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 106-104
+    - ''
+    - M. Abdul-Rauf enters the game for S. Swift
+  - - '2:13.0'
+    - S. Bradley makes free throw 1 of 2
+    - "+1"
+    - 107-104
+    - ''
+    - ''
+  - - '2:13.0'
+    - S. Bradley makes free throw 2 of 2
+    - "+1"
+    - 108-104
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 108-106
+    - "+2"
+    - M. Bibby makes 2-pt shot at rim
+  - - '1:42.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 108-106
+    - ''
+    - ''
+  - - '1:42.0'
+    - H. Eisley enters the game for S. Bradley
+    - ''
+    - 108-106
+    - ''
+    - ''
+  - - '1:42.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 109-106
+    - ''
+    - ''
+  - - '1:42.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 110-106
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 110-106
+    - ''
+    - M. Dickerson misses 2-pt shot from 19 ft
+  - - '1:21.0'
+    - ''
+    - ''
+    - 110-106
+    - ''
+    - Offensive rebound by Team
+  - - '1:21.0'
+    - ''
+    - ''
+    - 110-106
+    - ''
+    - Double personal foul by G. Long and J. Howard
+  - - '1:21.0'
+    - 'Jump ball: S. Abdur-Rahim vs. D. Nowitzki (S. Nash gains possession)'
+  - - '1:21.0'
+    - ''
+    - ''
+    - 110-106
+    - ''
+    - Turnover by S. Abdur-Rahim (lost ball; steal by D. Nowitzki)
+  - - '1:04.0'
+    - D. Nowitzki misses 2-pt shot from 20 ft
+    - ''
+    - 110-106
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 110-106
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '0:54.1'
+    - ''
+    - ''
+    - 110-108
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 6 ft (assist by M. Bibby)
+  - - '0:35.1'
+    - J. Howard makes 2-pt shot from 12 ft (assist by S. Nash)
+    - "+2"
+    - 112-108
+    - ''
+    - ''
+  - - '0:35.1'
+    - ''
+    - ''
+    - 112-108
+    - ''
+    - Vancouver full timeout
+  - - '0:35.1'
+    - G. Buckner enters the game for D. Nowitzki
+    - ''
+    - 112-108
+    - ''
+    - ''
+  - - '0:31.1'
+    - ''
+    - ''
+    - 112-108
+    - ''
+    - Personal foul by S. Nash
+  - - '0:23.9'
+    - ''
+    - ''
+    - 112-110
+    - "+2"
+    - M. Bibby makes 2-pt shot from 19 ft
+  - - '0:20.9'
+    - Personal foul by M. Bibby
+    - ''
+    - 112-110
+    - ''
+    - ''
+  - - '0:20.9'
+    - S. Nash makes free throw 1 of 2
+    - "+1"
+    - 113-110
+    - ''
+    - ''
+  - - '0:20.9'
+    - S. Nash makes free throw 2 of 2
+    - "+1"
+    - 114-110
+    - ''
+    - ''
+  - - '0:20.9'
+    - ''
+    - ''
+    - 114-110
+    - ''
+    - Vancouver full timeout
+  - - '0:14.9'
+    - ''
+    - ''
+    - 114-110
+    - ''
+    - M. Bibby misses 3-pt shot from 25 ft
+  - - '0:11.9'
+    - Defensive rebound by S. Nash
+    - ''
+    - 114-110
+    - ''
+    - ''
+  - - '0:09.9'
+    - Personal foul by M. Bibby
+    - ''
+    - 114-110
+    - ''
+    - ''
+  - - '0:09.9'
+    - S. Nash makes free throw 1 of 2
+    - "+1"
+    - 115-110
+    - ''
+    - ''
+  - - '0:09.9'
+    - S. Nash makes free throw 2 of 2
+    - "+1"
+    - 116-110
+    - ''
+    - ''
+  - - '0:02.6'
+    - ''
+    - ''
+    - 116-112
+    - "+2"
+    - M. Bibby makes 2-pt shot from 22 ft (assist by M. Dickerson)
+  - - '0:00.0'
+    - End of 4th quarter

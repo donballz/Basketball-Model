@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +4&#9642;Off: +16&#9642;Net: -12)'
+    - |2-
+
+      +5
+    - 234/+5
+    - 266/
+    - 228/-1
+    - 272/
+    - 'Donyell Marshall (On: +15&#9642;Off: +5&#9642;Net: +10)'
+    - |2-
+
+      +3
+    - 162/+3
+    - 197/
+    - 141/+11
+    - 159/+1
+    - 340/
+    - 'Olden Polynice (On: +8&#9642;Off: +12&#9642;Net: -4)'
+    - |2-
+
+      +9
+    - 250/+9
+    - 250/
+    - 228/-1
+    - 272/
+    - 'John Starks (On: +16&#9642;Off: +4&#9642;Net: +12)'
+    - |2-
+
+      +9
+    - 250/+9
+    - 32/+4
+    - 217/
+    - 250/0
+    - 49/+3
+    - 200/
+    - 'John Stockton (On: +13&#9642;Off: +7&#9642;Net: +6)'
+    - |2-
+
+      +3
+    - 162/+3
+    - 180/
+    - 158/+9
+    - 128/+1
+    - 371/
+    - 'Bryon Russell (On: +18&#9642;Off: +2&#9642;Net: +16)'
+    - "\n"
+    - 167/
+    - 83/+6
+    - 242/+16
+    - 170/
+    - 76/-4
+    - 260/
+    - 'Jacque Vaughn (On: +7&#9642;Off: +13&#9642;Net: -6)'
+    - "\n"
+    - 167/
+    - 83/+6
+    - 87/+5
+    - 299/
+    - 113/-1
+    - 249/-3
+    - 'Danny Manning (On: +17&#9642;Off: +3&#9642;Net: +14)'
+    - "\n"
+    - 237/
+    - 12/+4
+    - 249/+14
+    - 231/
+    - 19/+1
+    - 142/-2
+    - 107/
+    - 'Greg Ostertag (On: +12&#9642;Off: +8&#9642;Net: +4)'
+    - "\n"
+    - 250/
+    - 250/+14
+    - 231/
+    - 19/+1
+    - 249/-3
+    - 'John Crotty (On: -9&#9642;Off: +29&#9642;Net: -38)'
+    - "\n"
+    - 288/
+    - 70/-1
+    - 140/
+    - 1/-2
+    - 303/
+    - 196/-6
+    - 'David Benoit (On: 0&#9642;Off: +20&#9642;Net: -20)'
+    - "\n"
+    - 748/
+    - 3/+3
+    - 250/-3
+    - 'Scott Padgett (On: -1&#9642;Off: +21&#9642;Net: -22)'
+    - "\n"
+    - 900/
+    - 102/-1
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Richard Hamilton (On: -25&#9642;Off: +5&#9642;Net: -30)'
+    - |2-
+
+      -9
+    - 250/-9
+    - 32/-4
+    - 50/
+    - 98/-12
+    - 569/
+    - 'Mitch Richmond (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 211/-5
+    - 77/
+    - 161/-10
+    - 50/
+    - 215/0
+    - 284/
+    - 'Michael Smith (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 172/-5
+    - 65/
+    - 12/-4
+    - 87/-5
+    - 162/
+    - 159/-1
+    - 340/
+    - 'Jahidi White (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 183/-5
+    - 159/
+    - 158/-9
+    - 159/-1
+    - 340/
+    - 'Chris Whitney (On: -2&#9642;Off: -18&#9642;Net: +16)'
+    - |2-
+
+      -2
+    - 72/-2
+    - 930/
+    - 'Hubert Davis (On: -8&#9642;Off: -12&#9642;Net: +4)'
+    - "\n"
+    - 79/
+    - 170/-7
+    - 74/-2
+    - 110/
+    - 65/0
+    - 249/0
+    - 204/
+    - 45/+1
+    - 'Christian Laettner (On: -1&#9642;Off: -19&#9642;Net: +18)'
+    - "\n"
+    - 174/
+    - 59/0
+    - 151/
+    - 114/-4
+    - 163/
+    - 86/+1
+    - 198/+2
+    - 51/
+    - 'Popeye Jones (On: -5&#9642;Off: -15&#9642;Net: +10)'
+    - "\n"
+    - 186/
+    - 64/-4
+    - 87/-5
+    - 325/
+    - 87/+1
+    - 249/+3
+    - 'Courtney Alexander (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - "\n"
+    - 217/
+    - 33/-4
+    - 250/-14
+    - 250/0
+    - 249/+3
+    - 'Loy Vaught (On: -5&#9642;Off: -15&#9642;Net: +10)'
+    - "\n"
+    - 342/
+    - 41/-5
+    - 618/
+    - 'Mike Smith (On: +3&#9642;Off: -23&#9642;Net: +26)'
+    - "\n"
+    - 451/
+    - 49/0
+    - 221/
+    - 29/0
+    - 249/+3
+    - 'Laron Profit (On: +3&#9642;Off: -23&#9642;Net: +26)'
+    - "\n"
+    - 752/
+    - 250/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

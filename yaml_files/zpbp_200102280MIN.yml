@@ -1,0 +1,2664 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Garnett vs. B. Wallace (T. Brandon gains possession)'
+  - - '11:44.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim (assist by W. Szczerbiak)
+  - - '11:23.0'
+    - B. Wallace makes 2-pt shot from 3 ft (assist by J. Smith)
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '11:09.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Personal foul by J. Smith
+  - - '11:02.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 20 ft (assist by K. Garnett)
+  - - '10:49.0'
+    - M. Curry misses 2-pt shot from 15 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '10:40.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - T. Brandon makes 2-pt shot from 16 ft
+  - - '10:26.0'
+    - J. Smith misses 2-pt shot from 16 ft
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '10:18.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - T. Brandon misses 2-pt shot from 17 ft
+  - - '10:16.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '10:11.0'
+    - Turnover by C. Atkins (bad pass)
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - R. Slater misses 2-pt shot from 4 ft
+  - - '9:55.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:41.0'
+    - C. Atkins makes 2-pt shot from 23 ft (assist by J. Stackhouse)
+    - "+2"
+    - 4-6
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - A. Peeler misses 3-pt shot from 26 ft
+  - - '9:25.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Offensive rebound by Team
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-9
+    - "+3"
+    - A. Peeler makes 3-pt shot from 25 ft (assist by K. Garnett)
+  - - '9:03.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 4-9
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 4-9
+    - ''
+    - Defensive rebound by R. Slater
+  - - '8:57.0'
+    - ''
+    - ''
+    - 4-9
+    - ''
+    - T. Brandon misses 2-pt shot at rim (block by C. Atkins)
+  - - '8:57.0'
+    - ''
+    - ''
+    - 4-9
+    - ''
+    - Offensive rebound by Team
+  - - '8:54.0'
+    - ''
+    - ''
+    - 4-9
+    - ''
+    - K. Garnett misses 2-pt shot from 12 ft
+  - - '8:50.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 4-9
+    - ''
+    - ''
+  - - '8:46.0'
+    - C. Atkins makes 2-pt shot from 17 ft (assist by M. Curry)
+    - "+2"
+    - 6-9
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 6-9
+    - ''
+    - Turnover by K. Garnett (bad pass; steal by M. Curry)
+  - - '8:22.0'
+    - Shooting foul by W. Szczerbiak
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '8:22.0'
+    - C. Atkins makes free throw 1 of 2
+    - "+1"
+    - 7-9
+    - ''
+    - ''
+  - - '8:22.0'
+    - C. Atkins misses free throw 2 of 2
+    - ''
+    - 7-9
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - Defensive rebound by R. Slater
+  - - '8:08.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - R. Slater misses 2-pt shot at rim (block by J. Stackhouse)
+  - - '8:08.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - Offensive rebound by Team
+  - - '8:06.0'
+    - ''
+    - ''
+    - 7-11
+    - "+2"
+    - T. Brandon makes 2-pt shot from 16 ft (assist by W. Szczerbiak)
+  - - '7:46.0'
+    - C. Atkins makes 2-pt shot from 20 ft
+    - "+2"
+    - 9-11
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - T. Brandon misses 2-pt shot from 7 ft
+  - - '7:28.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - Offensive rebound by Team
+  - - '7:24.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - Offensive foul by R. Slater
+  - - '7:24.0'
+    - ''
+    - ''
+    - 9-11
+    - ''
+    - Turnover by R. Slater (foul)
+  - - '7:05.0'
+    - J. Smith makes 2-pt shot from 8 ft (assist by C. Atkins)
+    - "+2"
+    - 11-11
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 11-11
+    - ''
+    - Turnover by K. Garnett (traveling)
+  - - '6:44.0'
+    - J. Smith misses 2-pt shot from 4 ft (block by K. Garnett)
+    - ''
+    - 11-11
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 11-11
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '6:38.0'
+    - ''
+    - ''
+    - 11-11
+    - ''
+    - T. Brandon misses 2-pt shot at rim
+  - - '6:36.0'
+    - ''
+    - ''
+    - 11-11
+    - ''
+    - Offensive rebound by R. Slater
+  - - '6:36.0'
+    - ''
+    - ''
+    - 11-13
+    - "+2"
+    - R. Slater makes 2-pt shot at rim
+  - - '6:36.0'
+    - ''
+    - ''
+    - 11-13
+    - ''
+    - Shooting foul by M. Curry
+  - - '6:36.0'
+    - ''
+    - ''
+    - 11-13
+    - ''
+    - R. Slater misses free throw 1 of 1
+  - - '6:35.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 11-13
+    - ''
+    - ''
+  - - '6:20.0'
+    - M. Curry makes 3-pt shot from 23 ft (assist by C. Atkins)
+    - "+3"
+    - 14-13
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 14-15
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 10 ft (assist by K. Garnett)
+  - - '5:51.0'
+    - Turnover by C. Atkins (bad pass)
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Minnesota full timeout
+  - - '5:42.0'
+    - ''
+    - ''
+    - 14-17
+    - "+2"
+    - K. Garnett makes 2-pt shot from 16 ft (assist by T. Brandon)
+  - - '5:27.0'
+    - J. Stackhouse makes 2-pt shot from 18 ft (assist by C. Atkins)
+    - "+2"
+    - 16-17
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 16-20
+    - "+3"
+    - A. Peeler makes 3-pt shot from 25 ft (assist by K. Garnett)
+  - - '4:49.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '4:41.0'
+    - J. Stackhouse misses 2-pt shot from 15 ft
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '4:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '4:40.0'
+    - Loose ball foul by R. Slater
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - R. Nesterovic enters the game for R. Slater
+  - - '4:21.0'
+    - J. Smith misses 2-pt shot from 15 ft
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '4:09.0'
+    - ''
+    - ''
+    - 16-22
+    - "+2"
+    - T. Brandon makes 2-pt shot from 16 ft (assist by W. Szczerbiak)
+  - - '3:49.0'
+    - B. Wallace misses 2-pt shot from 5 ft
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - Defensive rebound by R. Nesterovic
+  - - '3:42.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - Turnover by A. Peeler (lost ball; steal by J. Stackhouse)
+  - - '3:35.0'
+    - M. Curry makes 2-pt shot from 19 ft (assist by J. Stackhouse)
+    - "+2"
+    - 18-22
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 18-25
+    - "+3"
+    - A. Peeler makes 3-pt shot from 25 ft (assist by K. Garnett)
+  - - '3:12.0'
+    - Detroit full timeout
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '2:51.0'
+    - C. Atkins makes 2-pt shot from 19 ft (assist by J. Stackhouse)
+    - "+2"
+    - 20-25
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 20-28
+    - "+3"
+    - A. Peeler makes 3-pt shot from 25 ft (assist by T. Brandon)
+  - - '2:21.0'
+    - J. Stackhouse misses 2-pt shot from 22 ft
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:19.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:19.0'
+    - Loose ball foul by R. Nesterovic
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:09.0'
+    - M. Curry misses 3-pt shot from 24 ft
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:07.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:02.0'
+    - C. Atkins misses 2-pt shot from 14 ft
+    - ''
+    - 20-28
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 20-28
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '1:43.0'
+    - ''
+    - ''
+    - 20-30
+    - "+2"
+    - A. Peeler makes 2-pt shot from 16 ft
+  - - '1:26.0'
+    - B. Owens enters the game for M. Curry
+    - ''
+    - 20-30
+    - ''
+    - ''
+  - - '1:26.0'
+    - 'Jump ball: K. Garnett vs. J. Smith (W. Szczerbiak gains possession)'
+  - - '1:26.0'
+    - Turnover by J. Smith (lost ball; steal by K. Garnett)
+    - ''
+    - 20-30
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 20-32
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 17 ft (assist by A. Peeler)
+  - - '0:55.9'
+    - J. Stackhouse makes 2-pt shot from 20 ft (assist by B. Owens)
+    - "+2"
+    - 22-32
+    - ''
+    - ''
+  - - '0:43.6'
+    - ''
+    - ''
+    - 22-34
+    - "+2"
+    - A. Peeler makes 2-pt shot from 14 ft (assist by K. Garnett)
+  - - '0:32.9'
+    - B. Owens misses 2-pt shot from 17 ft
+    - ''
+    - 22-34
+    - ''
+    - ''
+  - - '0:28.2'
+    - ''
+    - ''
+    - 22-34
+    - ''
+    - Defensive rebound by Team
+  - - '0:13.5'
+    - ''
+    - ''
+    - 22-34
+    - ''
+    - Personal foul by B. Wallace
+  - - '0:04.9'
+    - ''
+    - ''
+    - 22-36
+    - "+2"
+    - T. Brandon makes 2-pt shot at rim
+  - - '0:00.5'
+    - B. Owens misses 2-pt shot from 21 ft
+    - ''
+    - 22-36
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-36
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:49.0'
+    - Personal foul by S. Mitchell
+    - ''
+    - 22-36
+    - ''
+    - ''
+  - - '11:38.0'
+    - M. Cleaves makes 2-pt shot from 17 ft
+    - "+2"
+    - 24-36
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 24-36
+    - ''
+    - C. Billups misses 2-pt shot from 21 ft
+  - - '11:12.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 24-36
+    - ''
+    - ''
+  - - '11:05.0'
+    - B. Owens makes 2-pt shot at rim (assist by M. Cleaves)
+    - "+2"
+    - 26-36
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - K. Garnett misses 2-pt shot from 20 ft
+  - - '10:42.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '10:35.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 26-36
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 26-36
+    - ''
+    - W. Szczerbiak enters the game for A. Peeler
+  - - '10:27.0'
+    - B. Owens makes 2-pt shot from 15 ft (assist by B. Wallace)
+    - "+2"
+    - 28-36
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 28-38
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim
+  - - '9:48.0'
+    - B. Wallace makes 2-pt shot from 7 ft (assist by B. Owens)
+    - "+2"
+    - 30-38
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 30-38
+    - ''
+    - W. Szczerbiak misses 3-pt shot from 25 ft
+  - - '9:33.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 30-38
+    - ''
+    - ''
+  - - '9:27.0'
+    - M. Cleaves makes 2-pt shot from 21 ft (assist by B. Wallace)
+    - "+2"
+    - 32-38
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 32-38
+    - ''
+    - Minnesota full timeout
+  - - '9:07.0'
+    - ''
+    - ''
+    - 32-38
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 19 ft
+  - - '9:05.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '9:04.0'
+    - Turnover by B. Wallace (out of bounds)
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 32-38
+    - ''
+    - C. Billups misses 2-pt shot from 15 ft
+  - - '8:46.0'
+    - Defensive rebound by B. Owens
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '8:35.0'
+    - C. Williamson makes 2-pt shot at rim (assist by B. Owens)
+    - "+2"
+    - 34-38
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 34-38
+    - ''
+    - L. Ellis enters the game for K. Garnett
+  - - '8:19.0'
+    - J. Smith enters the game for B. Wallace
+    - ''
+    - 34-38
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 34-40
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 18 ft (assist by R. Nesterovic)
+  - - '7:54.0'
+    - J. Smith makes 2-pt shot from 11 ft (assist by B. Owens)
+    - "+2"
+    - 36-40
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Turnover by C. Billups (lost ball; steal by M. Cleaves)
+  - - '7:41.0'
+    - C. Williamson makes 2-pt shot at rim (assist by M. Cleaves)
+    - "+2"
+    - 38-40
+    - ''
+    - ''
+  - - '7:41.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 38-40
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - T. Brandon enters the game for C. Billups
+  - - '7:41.0'
+    - C. Williamson makes free throw 1 of 1
+    - "+1"
+    - 39-40
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 39-42
+    - "+2"
+    - S. Mitchell makes 2-pt shot from 15 ft
+  - - '7:07.0'
+    - C. Williamson misses 2-pt shot from 7 ft
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '6:52.0'
+    - ''
+    - ''
+    - 39-45
+    - "+3"
+    - S. Mitchell makes 3-pt shot from 23 ft (assist by R. Nesterovic)
+  - - '6:25.0'
+    - J. Smith misses 2-pt shot from 14 ft
+    - ''
+    - 39-45
+    - ''
+    - ''
+  - - '6:24.0'
+    - Offensive rebound by B. Owens
+    - ''
+    - 39-45
+    - ''
+    - ''
+  - - '6:24.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 39-45
+    - ''
+    - ''
+  - - '6:16.0'
+    - ''
+    - ''
+    - 39-45
+    - ''
+    - Personal foul by M. Cleaves
+  - - '6:03.0'
+    - ''
+    - ''
+    - 39-45
+    - ''
+    - T. Brandon misses 2-pt shot from 13 ft
+  - - '6:01.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 39-45
+    - ''
+    - ''
+  - - '5:56.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 41-45
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - L. Ellis misses 2-pt shot from 6 ft
+  - - '5:30.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '5:23.0'
+    - M. Moore misses 2-pt shot from 13 ft
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '5:15.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - Offensive foul by L. Ellis
+  - - '5:15.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - Turnover by L. Ellis (foul)
+  - - '5:15.0'
+    - Official timeout
+    - ''
+    - 41-45
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 41-45
+    - ''
+    - R. Slater enters the game for R. Nesterovic
+  - - '4:59.0'
+    - C. Williamson makes 2-pt shot from 3 ft
+    - "+2"
+    - 43-45
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 43-45
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 19 ft
+  - - '4:38.0'
+    - Defensive rebound by M. Cleaves
+    - ''
+    - 43-45
+    - ''
+    - ''
+  - - '4:33.0'
+    - C. Williamson makes 2-pt shot from 7 ft (assist by M. Cleaves)
+    - "+2"
+    - 45-45
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Turnover by S. Mitchell (lost ball; steal by C. Williamson)
+  - - '4:13.0'
+    - Offensive foul by M. Cleaves
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - Turnover by M. Cleaves (foul)
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - A. Peeler enters the game for S. Mitchell
+  - - '3:59.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - T. Brandon misses 2-pt shot at rim
+  - - '3:55.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '3:55.0'
+    - Loose ball foul by R. Slater
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - K. Garnett enters the game for R. Slater
+  - - '3:55.0'
+    - B. Wallace enters the game for M. Moore
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '3:33.0'
+    - J. Smith misses 2-pt shot at rim
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Defensive rebound by Team
+  - - '3:23.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Shooting foul by B. Wallace
+  - - '3:23.0'
+    - ''
+    - ''
+    - 45-46
+    - "+1"
+    - K. Garnett makes free throw 1 of 2
+  - - '3:23.0'
+    - ''
+    - ''
+    - 45-47
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '3:11.0'
+    - M. Cleaves misses 2-pt shot from 4 ft
+    - ''
+    - 45-47
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 45-47
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '2:59.0'
+    - ''
+    - ''
+    - 45-49
+    - "+2"
+    - K. Garnett makes 2-pt shot from 3 ft (assist by A. Peeler)
+  - - '2:55.0'
+    - Detroit full timeout
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '2:55.0'
+    - J. Stackhouse enters the game for B. Owens
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '2:33.0'
+    - B. Wallace misses 2-pt shot at rim (block by L. Ellis)
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '2:32.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Turnover by K. Garnett (3 second)
+  - - '2:18.0'
+    - C. Atkins enters the game for M. Cleaves
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '1:55.0'
+    - J. Stackhouse makes 2-pt shot from 6 ft (assist by B. Wallace)
+    - "+2"
+    - 47-49
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 47-49
+    - ''
+    - K. Garnett misses 2-pt shot from 8 ft
+  - - '1:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 47-49
+    - ''
+    - ''
+  - - '1:38.0'
+    - Loose ball foul by L. Ellis
+    - ''
+    - 47-49
+    - ''
+    - ''
+  - - '1:38.0'
+    - J. Smith makes free throw 1 of 2
+    - "+1"
+    - 48-49
+    - ''
+    - ''
+  - - '1:38.0'
+    - M. Moore enters the game for B. Wallace
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '1:38.0'
+    - J. Smith makes free throw 2 of 2
+    - "+1"
+    - 49-49
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 49-49
+    - ''
+    - T. Brandon misses 2-pt shot from 4 ft (block by C. Atkins)
+  - - '1:24.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 49-49
+    - ''
+    - ''
+  - - '1:22.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 49-49
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 49-49
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '1:14.0'
+    - ''
+    - ''
+    - 49-51
+    - "+2"
+    - T. Brandon makes 2-pt shot from 21 ft (assist by A. Peeler)
+  - - '1:06.0'
+    - J. Smith misses 2-pt shot from 5 ft
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '1:04.0'
+    - M. Moore makes 2-pt shot at rim
+    - "+2"
+    - 51-51
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by M. Moore
+    - ''
+    - 51-51
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 51-51
+    - ''
+    - L. Ellis misses 2-pt shot from 4 ft
+  - - '0:43.4'
+    - Defensive rebound by M. Moore
+    - ''
+    - 51-51
+    - ''
+    - ''
+  - - '0:25.9'
+    - J. Stackhouse makes 2-pt shot from 21 ft (assist by C. Atkins)
+    - "+2"
+    - 53-51
+    - ''
+    - ''
+  - - '0:10.9'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - A. Peeler misses 3-pt shot from 24 ft
+  - - '0:07.7'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '0:06.9'
+    - ''
+    - ''
+    - 53-53
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 13 ft (assist by K. Garnett)
+  - - '0:00.4'
+    - C. Atkins makes 2-pt shot from 8 ft
+    - "+2"
+    - 55-53
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - J. Smith misses 2-pt shot from 15 ft
+    - ''
+    - 55-53
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 55-53
+    - ''
+    - Defensive rebound by R. Slater
+  - - '11:35.0'
+    - ''
+    - ''
+    - 55-55
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim (assist by T. Brandon)
+  - - '11:21.0'
+    - J. Smith misses 2-pt shot from 4 ft
+    - ''
+    - 55-55
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Defensive rebound by R. Slater
+  - - '11:05.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Personal foul by C. Atkins
+  - - '10:59.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - K. Garnett misses 2-pt shot from 15 ft
+  - - '10:58.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Offensive rebound by Team
+  - - '10:58.0'
+    - ''
+    - ''
+    - 55-55
+    - ''
+    - Loose ball foul by J. Smith
+  - - '10:52.0'
+    - ''
+    - ''
+    - 55-57
+    - "+2"
+    - T. Brandon makes 2-pt shot from 13 ft
+  - - '10:26.0'
+    - M. Curry misses 2-pt shot from 13 ft
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '10:20.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - A. Peeler misses 2-pt shot from 19 ft
+  - - '10:18.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '10:08.0'
+    - Turnover by B. Wallace (lost ball; steal by R. Slater)
+    - ''
+    - 55-57
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 21 ft
+  - - '10:00.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '9:58.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - K. Garnett misses 2-pt shot from 3 ft
+  - - '9:57.0'
+    - ''
+    - ''
+    - 55-57
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '9:48.0'
+    - ''
+    - ''
+    - 55-59
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim (assist by R. Slater)
+  - - '9:37.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 55-59
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 55-59
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '9:29.0'
+    - ''
+    - ''
+    - 55-61
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim (assist by T. Brandon)
+  - - '9:21.0'
+    - Detroit full timeout
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '9:09.0'
+    - J. Smith misses 2-pt shot from 19 ft
+    - ''
+    - 55-61
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 55-61
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '8:57.0'
+    - ''
+    - ''
+    - 55-63
+    - "+2"
+    - T. Brandon makes 2-pt shot at rim
+  - - '8:40.0'
+    - M. Curry misses 2-pt shot from 18 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '8:29.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Turnover by W. Szczerbiak (bad pass; steal by B. Wallace)
+  - - '8:12.0'
+    - J. Stackhouse misses 2-pt shot from 17 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by R. Slater
+  - - '7:52.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - T. Brandon misses 2-pt shot from 16 ft
+  - - '7:51.0'
+    - Defensive rebound by Team
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:51.0'
+    - Loose ball foul by R. Slater
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:51.0'
+    - M. Cleaves enters the game for C. Atkins
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:51.0'
+    - C. Williamson enters the game for M. Curry
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - D. Garrett enters the game for R. Slater
+  - - '7:38.0'
+    - J. Stackhouse misses 2-pt shot from 12 ft
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Defensive rebound by D. Garrett
+  - - '7:20.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - K. Garnett misses 2-pt shot from 17 ft
+  - - '7:19.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '7:08.0'
+    - Turnover by C. Williamson (bad pass)
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 55-65
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 11 ft (assist by T. Brandon)
+  - - '6:34.0'
+    - 'Jump ball: K. Garnett vs. J. Smith (C. Williamson gains possession)'
+  - - '6:28.0'
+    - Turnover by C. Williamson (lost ball; steal by A. Peeler)
+    - ''
+    - 55-65
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 55-65
+    - ''
+    - Turnover by T. Brandon (lost ball; steal by C. Williamson)
+  - - '6:19.0'
+    - Shooting foul by D. Garrett
+    - ''
+    - 55-65
+    - ''
+    - ''
+  - - '6:19.0'
+    - M. Cleaves makes free throw 1 of 2
+    - "+1"
+    - 56-65
+    - ''
+    - ''
+  - - '6:19.0'
+    - M. Cleaves makes free throw 2 of 2
+    - "+1"
+    - 57-65
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 57-67
+    - "+2"
+    - T. Brandon makes 2-pt shot from 3 ft
+  - - '5:56.0'
+    - M. Cleaves misses 2-pt shot from 22 ft
+    - ''
+    - 57-67
+    - ''
+    - ''
+  - - '5:53.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 57-67
+    - ''
+    - ''
+  - - '5:51.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 57-67
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 57-67
+    - ''
+    - Defensive rebound by Team
+  - - '5:49.0'
+    - M. Moore enters the game for J. Smith
+    - ''
+    - 57-67
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 57-69
+    - "+2"
+    - K. Garnett makes 2-pt shot from 18 ft (assist by T. Brandon)
+  - - '5:30.0'
+    - Detroit full timeout
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '5:11.0'
+    - J. Stackhouse misses 2-pt shot from 10 ft (block by D. Garrett)
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '5:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '5:10.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 57-69
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 57-71
+    - "+2"
+    - D. Garrett makes 2-pt shot at rim (assist by K. Garnett)
+  - - '4:27.0'
+    - Turnover by M. Cleaves (bad pass; steal by W. Szczerbiak)
+    - ''
+    - 57-71
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - K. Garnett misses 2-pt shot from 6 ft
+  - - '4:16.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '4:01.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - A. Peeler misses 3-pt shot from 26 ft
+  - - '3:59.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 57-71
+    - ''
+    - ''
+  - - '3:52.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 57-71
+    - ''
+    - ''
+  - - '3:48.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 57-71
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - C. Billups enters the game for A. Peeler
+  - - '3:37.0'
+    - B. Wallace misses 2-pt shot from 4 ft
+    - ''
+    - 57-71
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - Defensive rebound by C. Billups
+  - - '3:26.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - D. Garrett misses 2-pt shot from 9 ft
+  - - '3:23.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - Offensive rebound by Team
+  - - '3:12.0'
+    - ''
+    - ''
+    - 57-71
+    - ''
+    - Shooting foul by M. Moore
+  - - '3:12.0'
+    - ''
+    - ''
+    - 57-72
+    - "+1"
+    - D. Garrett makes free throw 1 of 2
+  - - '3:12.0'
+    - ''
+    - ''
+    - 57-72
+    - ''
+    - D. Garrett misses free throw 2 of 2
+  - - '3:12.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 57-72
+    - ''
+    - ''
+  - - '2:49.0'
+    - M. Moore makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 59-72
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - Turnover by W. Szczerbiak (bad pass; steal by J. Stackhouse)
+  - - '2:29.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 59-72
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - Defensive rebound by Team
+  - - '2:28.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - Loose ball foul by C. Williamson
+  - - '2:28.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - L. Ellis enters the game for K. Garnett
+  - - '2:28.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - Minnesota full timeout
+  - - '2:28.0'
+    - D. Barros enters the game for B. Wallace
+    - ''
+    - 59-72
+    - ''
+    - ''
+  - - '2:28.0'
+    - J. Smith enters the game for M. Cleaves
+    - ''
+    - 59-72
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 59-72
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 5 ft
+  - - '2:17.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 59-72
+    - ''
+    - ''
+  - - '2:14.0'
+    - Personal foul by T. Brandon
+    - ''
+    - 59-72
+    - ''
+    - ''
+  - - '2:14.0'
+    - D. Barros makes free throw 1 of 2
+    - "+1"
+    - 60-72
+    - ''
+    - ''
+  - - '2:14.0'
+    - D. Barros misses free throw 2 of 2
+    - ''
+    - 60-72
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 60-72
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '1:57.0'
+    - ''
+    - ''
+    - 60-72
+    - ''
+    - L. Ellis misses 2-pt shot from 15 ft
+  - - '1:55.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 60-72
+    - ''
+    - ''
+  - - '1:51.0'
+    - Turnover by D. Barros (bad pass; steal by W. Szczerbiak)
+    - ''
+    - 60-72
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 60-72
+    - ''
+    - Personal foul by M. Moore
+  - - '1:49.0'
+    - ''
+    - ''
+    - 60-73
+    - "+1"
+    - W. Szczerbiak makes free throw 1 of 2
+  - - '1:49.0'
+    - ''
+    - ''
+    - 60-74
+    - "+1"
+    - W. Szczerbiak makes free throw 2 of 2
+  - - '1:33.0'
+    - C. Williamson makes 2-pt shot from 14 ft (assist by M. Moore)
+    - "+2"
+    - 62-74
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 62-76
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 5 ft
+  - - '1:00.0'
+    - D. Barros makes 3-pt shot from 25 ft (assist by J. Stackhouse)
+    - "+3"
+    - 65-76
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 65-76
+    - ''
+    - Shooting foul by M. Moore
+  - - '0:44.9'
+    - ''
+    - ''
+    - 65-77
+    - "+1"
+    - D. Garrett makes free throw 1 of 2
+  - - '0:44.9'
+    - ''
+    - ''
+    - 65-78
+    - "+1"
+    - D. Garrett makes free throw 2 of 2
+  - - '0:39.1'
+    - Personal foul by C. Billups
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '0:39.1'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 66-78
+    - ''
+    - ''
+  - - '0:39.1'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 67-78
+    - ''
+    - ''
+  - - '0:29.6'
+    - ''
+    - ''
+    - 67-78
+    - ''
+    - Shooting foul by D. Barros
+  - - '0:29.6'
+    - ''
+    - ''
+    - 67-79
+    - "+1"
+    - T. Brandon makes free throw 1 of 2
+  - - '0:29.6'
+    - ''
+    - ''
+    - 67-80
+    - "+1"
+    - T. Brandon makes free throw 2 of 2
+  - - '0:19.9'
+    - C. Williamson makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 69-80
+    - ''
+    - ''
+  - - '0:01.2'
+    - ''
+    - ''
+    - 69-80
+    - ''
+    - T. Brandon misses 2-pt shot from 11 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 69-80
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:39.0'
+    - ''
+    - ''
+    - 69-80
+    - ''
+    - C. Billups misses 3-pt shot from 22 ft
+  - - '11:38.0'
+    - Defensive rebound by B. Owens
+    - ''
+    - 69-80
+    - ''
+    - ''
+  - - '11:25.0'
+    - J. Stackhouse makes 2-pt shot from 13 ft
+    - "+2"
+    - 71-80
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 71-80
+    - ''
+    - Personal foul by J. Stackhouse
+  - - '11:08.0'
+    - ''
+    - ''
+    - 71-80
+    - ''
+    - K. Garnett misses 2-pt shot from 10 ft
+  - - '11:05.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 71-80
+    - ''
+    - ''
+  - - '10:58.0'
+    - J. Smith misses 2-pt shot from 3 ft
+    - ''
+    - 71-80
+    - ''
+    - ''
+  - - '10:56.0'
+    - B. Owens misses 2-pt shot at rim
+    - ''
+    - 71-80
+    - ''
+    - ''
+  - - '10:56.0'
+    - Offensive rebound by B. Owens
+    - ''
+    - 71-80
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 71-80
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '10:51.0'
+    - ''
+    - ''
+    - 71-82
+    - "+2"
+    - W. Avery makes 2-pt shot at rim (assist by C. Billups)
+  - - '10:26.0'
+    - J. Smith makes 2-pt shot from 18 ft (assist by J. Stackhouse)
+    - "+2"
+    - 73-82
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - Personal foul by C. Williamson
+  - - '10:05.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - W. Avery misses 2-pt shot from 9 ft (block by B. Owens)
+  - - '10:03.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - Offensive rebound by Team
+  - - '9:55.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - Turnover by C. Billups (lost ball; steal by J. Stackhouse)
+  - - '9:52.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 73-82
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - Defensive rebound by C. Billups
+  - - '9:43.0'
+    - ''
+    - ''
+    - 73-82
+    - ''
+    - L. Ellis misses 2-pt shot from 3 ft
+  - - '9:42.0'
+    - ''
+    - ''
+    - 73-84
+    - "+2"
+    - L. Ellis makes 2-pt shot at rim
+  - - '9:42.0'
+    - ''
+    - ''
+    - 73-84
+    - ''
+    - Offensive rebound by L. Ellis
+  - - '9:31.0'
+    - Shooting foul by C. Billups
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '9:31.0'
+    - B. Owens misses free throw 1 of 2
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '9:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 73-84
+    - ''
+    - S. Mitchell enters the game for W. Szczerbiak
+  - - '9:31.0'
+    - B. Owens makes free throw 2 of 2
+    - "+1"
+    - 74-84
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 74-84
+    - ''
+    - Shooting foul by B. Owens
+  - - '9:13.0'
+    - ''
+    - ''
+    - 74-85
+    - "+1"
+    - L. Ellis makes free throw 1 of 2
+  - - '9:13.0'
+    - ''
+    - ''
+    - 74-85
+    - ''
+    - L. Ellis misses free throw 2 of 2
+  - - '9:12.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 74-85
+    - ''
+    - ''
+  - - '8:55.0'
+    - J. Smith misses 2-pt shot from 5 ft
+    - ''
+    - 74-85
+    - ''
+    - ''
+  - - '8:54.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 76-85
+    - ''
+    - ''
+  - - '8:54.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - Personal foul by J. Smith
+  - - '8:42.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - Official timeout
+  - - '8:27.0'
+    - ''
+    - ''
+    - 76-88
+    - "+3"
+    - C. Billups makes 3-pt shot from 24 ft (assist by L. Ellis)
+  - - '8:12.0'
+    - Personal foul by C. Billups
+    - ''
+    - 76-88
+    - ''
+    - ''
+  - - '8:04.0'
+    - C. Williamson makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 78-88
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - Turnover by K. Garnett (bad pass; steal by C. Williamson)
+  - - '7:37.0'
+    - B. Owens misses 3-pt shot from 25 ft
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '7:20.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - W. Avery misses 2-pt shot from 12 ft
+  - - '7:16.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '7:14.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - S. Mitchell misses 2-pt shot from 13 ft
+  - - '7:12.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '7:08.0'
+    - Personal foul by S. Mitchell
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '7:08.0'
+    - D. Barros makes free throw 1 of 2
+    - "+1"
+    - 79-88
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 79-88
+    - ''
+    - A. Peeler enters the game for C. Billups
+  - - '7:08.0'
+    - D. Barros makes free throw 2 of 2
+    - "+1"
+    - 80-88
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 80-88
+    - ''
+    - Turnover by W. Avery (bad pass; steal by J. Stackhouse)
+  - - '6:56.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 82-88
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - Minnesota full timeout
+  - - '6:47.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - T. Brandon enters the game for W. Avery
+  - - '6:47.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - R. Slater enters the game for L. Ellis
+  - - '6:37.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - K. Garnett misses 2-pt shot from 8 ft
+  - - '6:36.0'
+    - Defensive rebound by D. Barros
+    - ''
+    - 82-88
+    - ''
+    - ''
+  - - '6:24.0'
+    - Turnover by D. Barros (bad pass; steal by S. Mitchell)
+    - ''
+    - 82-88
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - Shooting foul by B. Owens
+  - - '6:13.0'
+    - ''
+    - ''
+    - 82-88
+    - ''
+    - W. Szczerbiak enters the game for S. Mitchell
+  - - '6:13.0'
+    - ''
+    - ''
+    - 82-89
+    - "+1"
+    - R. Slater makes free throw 1 of 2
+  - - '6:13.0'
+    - ''
+    - ''
+    - 82-90
+    - "+1"
+    - R. Slater makes free throw 2 of 2
+  - - '6:00.0'
+    - Shooting foul by R. Slater
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '6:00.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 83-90
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 83-90
+    - ''
+    - L. Ellis enters the game for R. Slater
+  - - '6:00.0'
+    - J. Stackhouse misses free throw 2 of 2
+    - ''
+    - 83-90
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 83-90
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '5:44.0'
+    - ''
+    - ''
+    - 83-90
+    - ''
+    - Shooting foul by D. Barros
+  - - '5:44.0'
+    - ''
+    - ''
+    - 83-91
+    - "+1"
+    - W. Szczerbiak makes free throw 1 of 2
+  - - '5:44.0'
+    - B. Wallace enters the game for B. Owens
+    - ''
+    - 83-91
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 83-92
+    - "+1"
+    - W. Szczerbiak makes free throw 2 of 2
+  - - '5:36.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '5:36.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 84-92
+    - ''
+    - ''
+  - - '5:36.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 85-92
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 85-92
+    - ''
+    - K. Garnett misses 2-pt shot from 3 ft
+  - - '5:21.0'
+    - Defensive rebound by Team
+    - ''
+    - 85-92
+    - ''
+    - ''
+  - - '5:13.0'
+    - Turnover by D. Barros (bad pass; steal by A. Peeler)
+    - ''
+    - 85-92
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 85-94
+    - "+2"
+    - T. Brandon makes 2-pt shot at rim (assist by A. Peeler)
+  - - '5:00.0'
+    - Detroit full timeout
+    - ''
+    - 85-94
+    - ''
+    - ''
+  - - '4:46.0'
+    - J. Stackhouse misses 2-pt shot at rim (block by K. Garnett)
+    - ''
+    - 85-94
+    - ''
+    - ''
+  - - '4:42.0'
+    - Offensive rebound by J. Smith
+    - ''
+    - 85-94
+    - ''
+    - ''
+  - - '4:41.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 85-94
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 85-96
+    - "+2"
+    - T. Brandon makes 2-pt shot from 18 ft (assist by K. Garnett)
+  - - '4:12.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 85-96
+    - ''
+    - ''
+  - - '4:12.0'
+    - M. Cleaves enters the game for D. Barros
+    - ''
+    - 85-96
+    - ''
+    - ''
+  - - '4:12.0'
+    - C. Williamson makes free throw 1 of 2
+    - "+1"
+    - 86-96
+    - ''
+    - ''
+  - - '4:12.0'
+    - C. Williamson makes free throw 2 of 2
+    - "+1"
+    - 87-96
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 87-96
+    - ''
+    - K. Garnett misses 2-pt shot at rim (block by B. Wallace)
+  - - '3:57.0'
+    - 'Jump ball: L. Ellis vs. B. Wallace (J. Stackhouse gains possession)'
+  - - '3:57.0'
+    - Defensive rebound by Team
+    - ''
+    - 87-96
+    - ''
+    - ''
+  - - '3:52.0'
+    - J. Stackhouse makes 2-pt shot at rim (assist by B. Wallace)
+    - "+2"
+    - 89-96
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 89-96
+    - ''
+    - Shooting foul by C. Williamson
+  - - '3:30.0'
+    - ''
+    - ''
+    - 89-97
+    - "+1"
+    - L. Ellis makes free throw 1 of 2
+  - - '3:30.0'
+    - ''
+    - ''
+    - 89-98
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '3:16.0'
+    - Turnover by J. Stackhouse (bad pass; steal by K. Garnett)
+    - ''
+    - 89-98
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 89-98
+    - ''
+    - Shooting foul by B. Wallace
+  - - '2:59.0'
+    - ''
+    - ''
+    - 89-99
+    - "+1"
+    - L. Ellis makes free throw 1 of 2
+  - - '2:59.0'
+    - ''
+    - ''
+    - 89-100
+    - "+1"
+    - L. Ellis makes free throw 2 of 2
+  - - '2:46.0'
+    - J. Smith misses 2-pt shot from 18 ft
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '2:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '2:42.0'
+    - Shooting foul by A. Peeler
+    - ''
+    - 89-100
+    - ''
+    - ''
+  - - '2:42.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 90-100
+    - ''
+    - ''
+  - - '2:42.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 91-100
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 91-102
+    - "+2"
+    - L. Ellis makes 2-pt shot at rim (assist by W. Szczerbiak)
+  - - '2:18.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 91-102
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 91-102
+    - ''
+    - Defensive rebound by L. Ellis
+  - - '2:08.0'
+    - ''
+    - ''
+    - 91-102
+    - ''
+    - A. Peeler misses 3-pt shot from 25 ft
+  - - '2:07.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 91-102
+    - ''
+    - ''
+  - - '2:01.0'
+    - M. Cleaves misses 2-pt shot at rim (block by L. Ellis)
+    - ''
+    - 91-102
+    - ''
+    - ''
+  - - '1:59.0'
+    - Offensive rebound by C. Williamson
+    - ''
+    - 91-102
+    - ''
+    - ''
+  - - '1:59.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 93-102
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 93-102
+    - ''
+    - Personal foul by B. Wallace
+  - - '1:45.0'
+    - ''
+    - ''
+    - 93-103
+    - "+1"
+    - K. Garnett makes free throw 1 of 2
+  - - '1:45.0'
+    - ''
+    - ''
+    - 93-104
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '1:36.0'
+    - Turnover by J. Stackhouse (lost ball; steal by A. Peeler)
+    - ''
+    - 93-104
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 93-104
+    - ''
+    - Shooting foul by J. Stackhouse
+  - - '1:33.0'
+    - ''
+    - ''
+    - 93-105
+    - "+1"
+    - A. Peeler makes free throw 1 of 2
+  - - '1:33.0'
+    - ''
+    - ''
+    - 93-106
+    - "+1"
+    - A. Peeler makes free throw 2 of 2
+  - - '1:33.0'
+    - Technical foul by J. Stackhouse
+    - ''
+    - 93-106
+    - ''
+    - ''
+  - - '1:33.0'
+    - Detroit full timeout
+    - ''
+    - 93-106
+    - ''
+    - ''
+  - - '1:33.0'
+    - D. Barros enters the game for B. Wallace
+    - ''
+    - 93-106
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 93-107
+    - "+1"
+    - T. Brandon makes free throw technical
+  - - '1:20.0'
+    - Shooting foul by A. Peeler
+    - ''
+    - 93-107
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 93-107
+    - ''
+    - F. Lopez enters the game for A. Peeler
+  - - '1:20.0'
+    - D. Barros makes free throw 1 of 2
+    - "+1"
+    - 94-107
+    - ''
+    - ''
+  - - '1:20.0'
+    - D. Barros makes free throw 2 of 2
+    - "+1"
+    - 95-107
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 95-109
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 19 ft (assist by K. Garnett)
+  - - '1:00.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 97-109
+    - ''
+    - ''
+  - - '1:00.0'
+    - Shooting foul by L. Ellis
+    - ''
+    - 97-109
+    - ''
+    - ''
+  - - '1:00.0'
+    - M. Moore enters the game for J. Smith
+    - ''
+    - 97-109
+    - ''
+    - ''
+  - - '1:00.0'
+    - J. Stackhouse makes free throw 1 of 1
+    - "+1"
+    - 98-109
+    - ''
+    - ''
+  - - '0:42.3'
+    - ''
+    - ''
+    - 98-111
+    - "+2"
+    - F. Lopez makes 2-pt shot from 16 ft (assist by T. Brandon)
+  - - '0:34.9'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 100-111
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 100-111
+    - ''
+    - F. Lopez misses 2-pt shot from 15 ft
+  - - '0:15.9'
+    - Defensive rebound by M. Moore
+    - ''
+    - 100-111
+    - ''
+    - ''
+  - - '0:11.9'
+    - Turnover by M. Moore (lost ball; steal by L. Ellis)
+    - ''
+    - 100-111
+    - ''
+    - ''
+  - - '0:06.9'
+    - ''
+    - ''
+    - 100-111
+    - ''
+    - L. Ellis misses 3-pt shot from 25 ft
+  - - '0:04.9'
+    - ''
+    - ''
+    - 100-111
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '0:00.0'
+    - End of 4th quarter

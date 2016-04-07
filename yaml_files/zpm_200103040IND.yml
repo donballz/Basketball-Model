@@ -1,0 +1,208 @@
+---
+- name: Plus-Minus
+  data:
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Evan Eschmeyer (On: +2&#9642;Off: +22&#9642;Net: -20)'
+    - |2-
+
+      +5
+    - 148/+5
+    - 352/
+    - 146/-3
+    - 354/
+    - 'Lucious Harris (On: +8&#9642;Off: +16&#9642;Net: -8)'
+    - |2-
+
+      +5
+    - 208/+5
+    - 63/
+    - 228/0
+    - 250/+2
+    - 110/+1
+    - 139/
+    - 'Stephon Marbury (On: +18&#9642;Off: +6&#9642;Net: +12)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 129/
+    - 121/-1
+    - 250/+2
+    - 179/+4
+    - 69/
+    - 'Kenyon Martin (On: +13&#9642;Off: +11&#9642;Net: +2)'
+    - |2-
+
+      +7
+    - 172/+7
+    - 38/
+    - 39/+8
+    - 249/+2
+    - 136/-1
+    - 164/
+    - 138/-3
+    - 60/
+    - 'Keith Van Horn (On: +24&#9642;Off: 0&#9642;Net: +24)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 19/+2
+    - 106/
+    - 123/-1
+    - 249/+2
+    - 46/+6
+    - 72/
+    - 72/+2
+    - 59/
+    - 'Aaron Williams (On: +18&#9642;Off: +6&#9642;Net: +12)'
+    - "\n"
+    - 148/
+    - 101/+8
+    - 121/+3
+    - 8/
+    - 121/-1
+    - 151/
+    - 97/+5
+    - 180/+3
+    - 68/
+    - 'Johnny Newman (On: +19&#9642;Off: +5&#9642;Net: +14)'
+    - "\n"
+    - 178/
+    - 71/+6
+    - 121/+3
+    - 271/
+    - 107/+3
+    - 250/+7
+    - 'Sherman Douglas (On: +6&#9642;Off: +18&#9642;Net: -12)'
+    - "\n"
+    - 250/
+    - 126/+3
+    - 555/
+    - 69/+3
+    - 'Soumaila Samake (On: +4&#9642;Off: +20&#9642;Net: -16)'
+    - "\n"
+    - 937/
+    - 65/+4
+    - 'Stephen Jackson (On: +4&#9642;Off: +20&#9642;Net: -16)'
+    - "\n"
+    - 949/
+    - 53/+4
+    - 'Vladimir Stepania (On: +4&#9642;Off: +20&#9642;Net: -16)'
+    - "\n"
+    - 949/
+    - 53/+4
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Al Harrington (On: -5&#9642;Off: -19&#9642;Net: +14)'
+    - |2-
+
+      -5
+    - 148/-5
+    - 774/
+    - 7/0
+    - 71/
+    - 'Reggie Miller (On: -15&#9642;Off: -9&#9642;Net: -6)'
+    - |2-
+
+      -7
+    - 187/-7
+    - 62/
+    - 250/-2
+    - 250/-2
+    - 167/-4
+    - 82/
+    - 'Jermaine O''Neal (On: -10&#9642;Off: -14&#9642;Net: +4)'
+    - |2-
+
+      -7
+    - 172/-7
+    - 599/
+    - 145/-1
+    - 65/
+    - 18/-2
+    - 'Jalen Rose (On: -24&#9642;Off: 0&#9642;Net: -24)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 67/
+    - 183/-2
+    - 250/-2
+    - 249/-7
+    - 'Zan Tabak (On: -2&#9642;Off: -22&#9642;Net: +20)'
+    - |2-
+
+      -2
+    - 92/-2
+    - 910/
+    - 'Travis Best (On: -17&#9642;Off: -7&#9642;Net: -10)'
+    - "\n"
+    - 97/
+    - 152/-11
+    - 249/-2
+    - 136/+1
+    - 113/
+    - 230/-5
+    - 20/
+    - 'Austin Croshere (On: -10&#9642;Off: -14&#9642;Net: +4)'
+    - "\n"
+    - 148/
+    - 101/-8
+    - 64/0
+    - 243/
+    - 192/-4
+    - 51/
+    - 116/+2
+    - 81/
+    - 'Jeff Foster (On: -19&#9642;Off: -5&#9642;Net: -14)'
+    - "\n"
+    - 178/
+    - 71/-6
+    - 249/-2
+    - 249/-2
+    - 46/-6
+    - 126/
+    - 78/-3
+    - 'Derrick McKey (On: -14&#9642;Off: -10&#9642;Net: -4)'
+    - "\n"
+    - 190/
+    - 60/-6
+    - 249/-2
+    - 142/
+    - 107/-3
+    - 15/-3
+    - 234/
+    - 'Sam Perkins (On: +2&#9642;Off: -26&#9642;Net: +28)'
+    - "\n"
+    - 500/
+    - 56/+2
+    - 445/
+    - 'Jonathan Bender (On: -3&#9642;Off: -21&#9642;Net: +18)'
+    - "\n"
+    - 924/
+    - 78/-3
+    - 'Bruno Sundov (On: -3&#9642;Off: -21&#9642;Net: +18)'
+    - "\n"
+    - 933/
+    - 69/-3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

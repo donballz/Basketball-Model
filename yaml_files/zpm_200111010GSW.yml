@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tom Gugliotta (On: +6&#9642;Off: 0&#9642;Net: +6)'
+    - |2-
+
+      +4
+    - 165/+4
+    - 159/
+    - 175/+3
+    - 70/+2
+    - 208/
+    - 34/-2
+    - 62/
+    - 123/-1
+    - 'Anfernee Hardaway (On: +17&#9642;Off: -11&#9642;Net: +28)'
+    - |2-
+
+      +12
+    - 244/+12
+    - 106/
+    - 149/+6
+    - 179/+3
+    - 70/
+    - 237/-4
+    - 12/
+    - 'Stephon Marbury (On: +16&#9642;Off: -10&#9642;Net: +26)'
+    - |2-
+
+      +12
+    - 249/+12
+    - 23/+1
+    - 110/
+    - 116/+6
+    - 244/+1
+    - 61/
+    - 194/-4
+    - 'Shawn Marion (On: +7&#9642;Off: -1&#9642;Net: +8)'
+    - |2-
+
+      +8
+    - 201/+8
+    - 135/
+    - 164/+6
+    - 250/+1
+    - 249/-8
+    - 'Jake Voskuhl (On: -6&#9642;Off: +12&#9642;Net: -18)'
+    - |2-
+
+      -5
+    - 52/-5
+    - 226/
+    - 43/-3
+    - 179/
+    - 85/+2
+    - 413/
+    - 'Jake Tsakalidis (On: +20&#9642;Off: -14&#9642;Net: +34)'
+    - "\n"
+    - 56/
+    - 192/+17
+    - 23/+1
+    - 143/
+    - 82/+5
+    - 87/
+    - 161/-1
+    - 27/-2
+    - 97/
+    - 97/0
+    - 28/
+    - 'Rodney Rogers (On: -1&#9642;Off: +7&#9642;Net: -8)'
+    - "\n"
+    - 168/
+    - 81/+8
+    - 162/-4
+    - 161/
+    - 170/-1
+    - 74/
+    - 51/-3
+    - 106/
+    - 22/-1
+    - 'John Wallace (On: -8&#9642;Off: +14&#9642;Net: -22)'
+    - "\n"
+    - 206/
+    - 43/+4
+    - 82/-5
+    - 417/
+    - 120/-7
+    - 130/
+    - 'Tony Delk (On: -5&#9642;Off: +11&#9642;Net: -16)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 127/-5
+    - 623/
+    - 'Charlie Bell (On: -16&#9642;Off: +22&#9642;Net: -38)'
+    - "\n"
+    - 277/
+    - 68/-6
+    - 335/
+    - 68/-2
+    - 52/-4
+    - 187/
+    - 10/-4
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Erick Dampier (On: -17&#9642;Off: +11&#9642;Net: -28)'
+    - |2-
+
+      -12
+    - 250/-12
+    - 71/+2
+    - 96/
+    - 82/-5
+    - 111/-2
+    - 388/
+    - 'Danny Fortson (On: -15&#9642;Off: +9&#9642;Net: -24)'
+    - |2-
+
+      -8
+    - 201/-8
+    - 216/
+    - 83/-5
+    - 148/-2
+    - 351/
+    - 'Larry Hughes (On: -14&#9642;Off: +8&#9642;Net: -22)'
+    - |2-
+
+      -12
+    - 249/-12
+    - 23/-1
+    - 169/
+    - 57/-5
+    - 97/-4
+    - 153/
+    - 249/+8
+    - 'Antawn Jamison (On: -17&#9642;Off: +11&#9642;Net: -28)'
+    - |2-
+
+      -12
+    - 244/-12
+    - 139/
+    - 116/-6
+    - 148/-2
+    - 208/
+    - 143/+3
+    - 'Bob Sura (On: -11&#9642;Off: +5&#9642;Net: -16)'
+    - |2-
+
+      -4
+    - 165/-4
+    - 278/
+    - 57/-5
+    - 210/-2
+    - 289/
+    - 'Jason Richardson (On: 0&#9642;Off: -6&#9642;Net: +6)'
+    - "\n"
+    - 168/
+    - 81/-8
+    - 127/+5
+    - 225/
+    - 147/+3
+    - 250/
+    - 'Troy Murphy (On: +9&#9642;Off: -15&#9642;Net: +24)'
+    - "\n"
+    - 206/
+    - 43/-4
+    - 163/+4
+    - 242/
+    - 94/+1
+    - 250/+8
+    - 'Chris Mills (On: +12&#9642;Off: -18&#9642;Net: +30)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 187/+4
+    - 216/
+    - 94/+1
+    - 106/+5
+    - 98/
+    - 46/+2
+    - 'Mookie Blaylock (On: +14&#9642;Off: -20&#9642;Net: +34)'
+    - "\n"
+    - 278/
+    - 160/+5
+    - 275/
+    - 36/+1
+    - 250/+8
+    - 'Marc Jackson (On: +2&#9642;Off: -8&#9642;Net: +10)'
+    - "\n"
+    - 325/
+    - 88/+2
+    - 588/
+    - 'Adonal Foyle (On: +7&#9642;Off: -13&#9642;Net: +20)'
+    - "\n"
+    - 614/
+    - 136/+1
+    - 200/+6
+    - 50/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

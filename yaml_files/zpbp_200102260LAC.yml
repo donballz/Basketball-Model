@@ -1,0 +1,2522 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Olowokandi vs. D. Nowitzki (J. Howard gains possession)'
+  - - '11:44.0'
+    - D. Nowitzki makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - E. Piatkowski misses 2-pt shot from 16 ft
+  - - '11:20.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:17.0'
+    - M. Finley makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Turnover by E. Piatkowski (bad pass; steal by J. Howard)
+  - - '10:49.0'
+    - J. Howard misses 2-pt shot from 12 ft
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Defensive rebound by Team
+  - - '10:30.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - J. McInnis makes 2-pt shot from 16 ft (assist by L. Odom)
+  - - '10:13.0'
+    - S. Nash misses 2-pt shot from 9 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by L. Odom
+  - - '10:08.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - J. McInnis misses 2-pt shot from 15 ft
+  - - '10:06.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by C. Maggette
+  - - '9:58.0'
+    - ''
+    - ''
+    - 4-4
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '9:36.0'
+    - Shooting foul by J. McInnis
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:36.0'
+    - D. Nowitzki misses free throw 1 of 2
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:36.0'
+    - D. Nowitzki misses free throw 2 of 2
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '9:21.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Turnover by C. Maggette (bad pass; steal by G. Buckner)
+  - - '9:15.0'
+    - Turnover by G. Buckner (lost ball)
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - M. Olowokandi makes 2-pt shot at rim (assist by L. Odom)
+  - - '8:42.0'
+    - S. Nash misses 2-pt shot from 18 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '8:31.0'
+    - ''
+    - ''
+    - 4-8
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 22 ft (assist by L. Odom)
+  - - '8:11.0'
+    - J. Howard makes 2-pt shot from 12 ft (assist by S. Nash)
+    - "+2"
+    - 6-8
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - M. Olowokandi misses 2-pt shot from 7 ft
+  - - '7:48.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:37.0'
+    - M. Finley misses 3-pt shot from 24 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:27.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:27.0'
+    - G. Buckner makes free throw 1 of 2
+    - "+1"
+    - 7-8
+    - ''
+    - ''
+  - - '7:27.0'
+    - G. Buckner makes free throw 2 of 2
+    - "+1"
+    - 8-8
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - C. Maggette misses 2-pt shot from 21 ft
+  - - '7:11.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '7:04.0'
+    - M. Finley makes 2-pt shot from 5 ft
+    - "+2"
+    - 10-8
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 10-10
+    - "+2"
+    - M. Olowokandi makes 2-pt shot at rim (assist by E. Piatkowski)
+  - - '6:33.0'
+    - M. Finley makes 3-pt shot from 25 ft (assist by G. Buckner)
+    - "+3"
+    - 13-10
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 13-10
+    - ''
+    - C. Maggette misses 2-pt shot from 22 ft
+  - - '6:13.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 13-10
+    - ''
+    - ''
+  - - '6:07.0'
+    - Turnover by J. Howard (bad pass; steal by L. Odom)
+    - ''
+    - 13-10
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 13-12
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim (assist by J. McInnis)
+  - - '5:44.0'
+    - Shooting foul by L. Odom
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:44.0'
+    - Dallas full timeout
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:44.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 14-12
+    - ''
+    - ''
+  - - '5:44.0'
+    - J. Howard makes free throw 2 of 2
+    - "+1"
+    - 15-12
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Turnover by L. Odom (lost ball; steal by G. Buckner)
+  - - '5:16.0'
+    - Shooting foul by E. Piatkowski
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '5:16.0'
+    - M. Finley makes free throw 1 of 2
+    - "+1"
+    - 16-12
+    - ''
+    - ''
+  - - '5:16.0'
+    - M. Finley makes free throw 2 of 2
+    - "+1"
+    - 17-12
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 17-14
+    - "+2"
+    - C. Maggette makes 2-pt shot at rim (assist by L. Odom)
+  - - '4:52.0'
+    - S. Nash misses 2-pt shot at rim (block by L. Odom)
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '4:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '4:50.0'
+    - G. Buckner makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 19-14
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 19-17
+    - "+3"
+    - E. Piatkowski makes 3-pt shot from 23 ft (assist by L. Odom)
+  - - '4:14.0'
+    - S. Nash makes 2-pt shot from 18 ft
+    - "+2"
+    - 21-17
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - Turnover by L. Odom (bad pass; steal by S. Nash)
+  - - '3:57.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - D. Miles enters the game for C. Maggette
+  - - '3:45.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '3:45.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 22-17
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - C. Parks enters the game for M. Olowokandi
+  - - '3:45.0'
+    - J. Howard misses free throw 2 of 2
+    - ''
+    - 22-17
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 22-17
+    - ''
+    - Defensive rebound by C. Parks
+  - - '3:36.0'
+    - ''
+    - ''
+    - 22-19
+    - "+2"
+    - E. Piatkowski makes 2-pt shot at rim
+  - - '3:24.0'
+    - Offensive foul by J. Howard
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '3:24.0'
+    - Turnover by J. Howard (foul)
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - J. McInnis misses 2-pt shot from 16 ft
+  - - '3:09.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '3:02.0'
+    - D. Nowitzki misses 2-pt shot from 20 ft
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '2:57.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - Shooting foul by S. Nash
+  - - '2:57.0'
+    - ''
+    - ''
+    - 22-19
+    - ''
+    - LA Clippers full timeout
+  - - '2:57.0'
+    - H. Eisley enters the game for S. Nash
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 22-20
+    - "+1"
+    - E. Piatkowski makes free throw 1 of 2
+  - - '2:57.0'
+    - ''
+    - ''
+    - 22-21
+    - "+1"
+    - E. Piatkowski makes free throw 2 of 2
+  - - '2:37.0'
+    - J. Howard makes 2-pt shot from 9 ft (assist by H. Eisley)
+    - "+2"
+    - 24-21
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 24-21
+    - ''
+    - Turnover by E. Piatkowski (bad pass; steal by J. Howard)
+  - - '2:18.0'
+    - M. Finley makes 2-pt shot from 20 ft
+    - "+2"
+    - 26-21
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - L. Odom misses 2-pt shot from 8 ft
+  - - '1:57.0'
+    - ''
+    - ''
+    - 26-23
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '1:57.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by L. Odom
+  - - '1:40.0'
+    - G. Buckner misses 2-pt shot from 6 ft (block by L. Odom)
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '1:37.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '1:34.0'
+    - H. Eisley misses 2-pt shot from 6 ft
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '1:30.0'
+    - D. Nowitzki makes 2-pt shot at rim
+    - "+2"
+    - 28-23
+    - ''
+    - ''
+  - - '1:30.0'
+    - Offensive rebound by D. Nowitzki
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - D. Miles misses 2-pt shot from 6 ft
+  - - '1:17.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Offensive rebound by Team
+  - - '1:13.0'
+    - ''
+    - ''
+    - 28-23
+    - ''
+    - Personal foul by G. Buckner
+  - - '1:02.0'
+    - ''
+    - ''
+    - 28-25
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '0:48.4'
+    - Shooting foul by L. Odom
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '0:48.4'
+    - G. Buckner makes free throw 1 of 2
+    - "+1"
+    - 29-25
+    - ''
+    - ''
+  - - '0:48.4'
+    - ''
+    - ''
+    - 29-25
+    - ''
+    - C. Maggette enters the game for L. Odom
+  - - '0:48.4'
+    - S. Bradley enters the game for J. Howard
+    - ''
+    - 29-25
+    - ''
+    - ''
+  - - '0:48.4'
+    - G. Buckner makes free throw 2 of 2
+    - "+1"
+    - 30-25
+    - ''
+    - ''
+  - - '0:26.0'
+    - ''
+    - ''
+    - 30-27
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '0:00.4'
+    - D. Nowitzki makes 2-pt shot from 6 ft
+    - "+2"
+    - 32-27
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - Turnover by C. Maggette (bad pass; steal by M. Finley)
+  - - '11:32.0'
+    - Shooting foul by D. Miles
+    - ''
+    - 32-27
+    - ''
+    - ''
+  - - '11:32.0'
+    - S. Bradley makes free throw 1 of 2
+    - "+1"
+    - 33-27
+    - ''
+    - ''
+  - - '11:32.0'
+    - S. Bradley makes free throw 2 of 2
+    - "+1"
+    - 34-27
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Shooting foul by S. Bradley
+  - - '11:15.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - D. Miles misses free throw 1 of 2
+  - - '11:15.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - Offensive rebound by Team
+  - - '11:15.0'
+    - ''
+    - ''
+    - 34-27
+    - ''
+    - K. Dooling enters the game for J. McInnis
+  - - '11:15.0'
+    - ''
+    - ''
+    - 34-28
+    - "+1"
+    - D. Miles makes free throw 2 of 2
+  - - '11:02.0'
+    - Turnover by M. Finley (traveling)
+    - ''
+    - 34-28
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 34-28
+    - ''
+    - LA Clippers 20 second timeout
+  - - '11:02.0'
+    - E. Najera enters the game for G. Buckner
+    - ''
+    - 34-28
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 34-28
+    - ''
+    - Shooting foul by S. Bradley
+  - - '10:43.0'
+    - ''
+    - ''
+    - 34-29
+    - "+1"
+    - C. Maggette makes free throw 1 of 2
+  - - '10:43.0'
+    - ''
+    - ''
+    - 34-30
+    - "+1"
+    - C. Maggette makes free throw 2 of 2
+  - - '10:35.0'
+    - E. Najera makes 2-pt shot from 4 ft
+    - "+2"
+    - 36-30
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 36-30
+    - ''
+    - K. Dooling misses 2-pt shot from 16 ft
+  - - '10:15.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 36-30
+    - ''
+    - ''
+  - - '9:58.0'
+    - E. Najera makes 2-pt shot at rim (assist by M. Finley)
+    - "+2"
+    - 38-30
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 38-30
+    - ''
+    - Turnover by E. Piatkowski (lost ball; steal by H. Eisley)
+  - - '9:40.0'
+    - Personal foul by K. Dooling
+    - ''
+    - 38-30
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 38-30
+    - ''
+    - L. Odom enters the game for C. Maggette
+  - - '9:40.0'
+    - ''
+    - ''
+    - 38-30
+    - ''
+    - Q. Richardson enters the game for E. Piatkowski
+  - - '9:29.0'
+    - S. Bradley makes 2-pt shot at rim (assist by M. Finley)
+    - "+2"
+    - 40-30
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 40-32
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '9:06.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Violation by Team (delay of game)
+  - - '8:50.0'
+    - H. Eisley misses 3-pt shot from 25 ft
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Defensive rebound by Q. Richardson
+  - - '8:41.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Turnover by L. Odom (out of bounds)
+  - - '8:41.0'
+    - Official timeout
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '8:41.0'
+    - J. Howard enters the game for D. Nowitzki
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '8:22.0'
+    - H. Eisley misses 2-pt shot from 16 ft
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Defensive rebound by Q. Richardson
+  - - '7:59.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Q. Richardson misses 2-pt shot from 20 ft
+  - - '7:58.0'
+    - Defensive rebound by Team
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '7:44.0'
+    - M. Finley misses 2-pt shot from 3 ft
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '7:42.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '7:33.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 40-32
+    - ''
+    - ''
+  - - '7:33.0'
+    - S. Bradley makes free throw 1 of 2
+    - "+1"
+    - 41-32
+    - ''
+    - ''
+  - - '7:33.0'
+    - ''
+    - ''
+    - 41-32
+    - ''
+    - S. Rooks enters the game for M. Olowokandi
+  - - '7:33.0'
+    - S. Bradley makes free throw 2 of 2
+    - "+1"
+    - 42-32
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 42-32
+    - ''
+    - Q. Richardson misses 2-pt shot at rim
+  - - '7:11.0'
+    - ''
+    - ''
+    - 42-32
+    - ''
+    - L. Odom misses 2-pt shot at rim
+  - - '7:11.0'
+    - ''
+    - ''
+    - 42-32
+    - ''
+    - Offensive rebound by L. Odom
+  - - '7:09.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 42-32
+    - ''
+    - ''
+  - - '7:04.0'
+    - E. Najera misses 2-pt shot from 7 ft
+    - ''
+    - 42-32
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 42-32
+    - ''
+    - Defensive rebound by L. Odom
+  - - '6:53.0'
+    - ''
+    - ''
+    - 42-34
+    - "+2"
+    - K. Dooling makes 2-pt shot at rim
+  - - '6:32.0'
+    - J. Howard misses 2-pt shot at rim (block by S. Rooks)
+    - ''
+    - 42-34
+    - ''
+    - ''
+  - - '6:28.0'
+    - S. Bradley makes 2-pt shot at rim
+    - "+2"
+    - 44-34
+    - ''
+    - ''
+  - - '6:28.0'
+    - Offensive rebound by S. Bradley
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - S. Rooks misses 2-pt shot from 16 ft
+  - - '6:17.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Offensive rebound by Team
+  - - '5:57.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - S. Rooks misses 2-pt shot at rim (block by S. Bradley)
+  - - '5:55.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Offensive rebound by S. Rooks
+  - - '5:54.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - S. Rooks misses 2-pt shot at rim
+  - - '5:51.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - S. Rooks misses 2-pt shot at rim
+  - - '5:51.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Offensive rebound by S. Rooks
+  - - '5:49.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '5:41.0'
+    - M. Finley misses 3-pt shot from 27 ft
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Defensive rebound by D. Miles
+  - - '5:28.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - Shooting foul by J. Howard
+  - - '5:28.0'
+    - ''
+    - ''
+    - 44-34
+    - ''
+    - LA Clippers full timeout
+  - - '5:28.0'
+    - G. Buckner enters the game for E. Najera
+    - ''
+    - 44-34
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 44-35
+    - "+1"
+    - L. Odom makes free throw 1 of 2
+  - - '5:28.0'
+    - ''
+    - ''
+    - 44-35
+    - ''
+    - L. Odom misses free throw 2 of 2
+  - - '5:27.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 44-35
+    - ''
+    - ''
+  - - '5:06.0'
+    - J. Howard makes 2-pt shot from 8 ft
+    - "+2"
+    - 46-35
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 46-37
+    - "+2"
+    - S. Rooks makes 2-pt shot from 21 ft (assist by K. Dooling)
+  - - '4:30.0'
+    - G. Buckner makes 2-pt shot from 13 ft (assist by J. Howard)
+    - "+2"
+    - 48-37
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 48-39
+    - "+2"
+    - L. Odom makes 2-pt shot from 8 ft (assist by K. Dooling)
+  - - '3:49.0'
+    - J. Howard misses 2-pt shot at rim
+    - ''
+    - 48-39
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - Defensive rebound by S. Rooks
+  - - '3:34.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - Turnover by D. Miles (lost ball)
+  - - '3:34.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - J. McInnis enters the game for K. Dooling
+  - - '3:30.0'
+    - Turnover by M. Finley (lost ball; steal by Q. Richardson)
+    - ''
+    - 48-39
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - D. Miles misses 2-pt shot from 17 ft
+  - - '3:11.0'
+    - ''
+    - ''
+    - 48-39
+    - ''
+    - Offensive rebound by L. Odom
+  - - '3:10.0'
+    - ''
+    - ''
+    - 48-41
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '2:39.0'
+    - H. Eisley makes 2-pt shot from 22 ft
+    - "+2"
+    - 50-41
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 50-41
+    - ''
+    - J. McInnis misses 2-pt shot from 20 ft
+  - - '2:24.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 50-41
+    - ''
+    - ''
+  - - '2:18.0'
+    - M. Finley misses 2-pt shot from 12 ft
+    - ''
+    - 50-41
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 50-41
+    - ''
+    - Defensive rebound by L. Odom
+  - - '2:04.0'
+    - ''
+    - ''
+    - 50-41
+    - ''
+    - S. Rooks misses 2-pt shot from 17 ft
+  - - '2:02.0'
+    - ''
+    - ''
+    - 50-41
+    - ''
+    - Offensive rebound by Q. Richardson
+  - - '2:00.0'
+    - ''
+    - ''
+    - 50-43
+    - "+2"
+    - Q. Richardson makes 2-pt shot at rim
+  - - '1:41.0'
+    - M. Finley makes 2-pt shot from 18 ft
+    - "+2"
+    - 52-43
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 52-46
+    - "+3"
+    - Q. Richardson makes 3-pt shot from 27 ft (assist by J. McInnis)
+  - - '1:02.0'
+    - M. Finley misses 2-pt shot from 17 ft
+    - ''
+    - 52-46
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 52-46
+    - ''
+    - Defensive rebound by L. Odom
+  - - '0:48.6'
+    - ''
+    - ''
+    - 52-48
+    - "+2"
+    - J. McInnis makes 2-pt shot from 10 ft (assist by D. Miles)
+  - - '0:30.4'
+    - M. Finley makes 2-pt shot from 11 ft
+    - "+2"
+    - 54-48
+    - ''
+    - ''
+  - - '0:17.6'
+    - ''
+    - ''
+    - 54-48
+    - ''
+    - J. McInnis misses 2-pt shot from 8 ft
+  - - '0:17.6'
+    - ''
+    - ''
+    - 54-48
+    - ''
+    - Offensive rebound by Team
+  - - '0:17.6'
+    - ''
+    - ''
+    - 54-48
+    - ''
+    - Loose ball foul by S. Bradley
+  - - '0:17.6'
+    - ''
+    - ''
+    - 54-48
+    - ''
+    - LA Clippers full timeout
+  - - '0:17.6'
+    - ''
+    - ''
+    - 54-48
+    - ''
+    - E. Piatkowski enters the game for D. Miles
+  - - '0:17.6'
+    - D. Nowitzki enters the game for S. Bradley
+    - ''
+    - 54-48
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 54-50
+    - "+2"
+    - L. Odom makes 2-pt shot from 9 ft
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 54-50
+    - ''
+    - L. Odom misses 2-pt shot from 10 ft
+  - - '11:42.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 54-50
+    - ''
+    - ''
+  - - '11:28.0'
+    - D. Nowitzki misses 3-pt shot from 27 ft
+    - ''
+    - 54-50
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 54-50
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '11:09.0'
+    - ''
+    - ''
+    - 54-53
+    - "+3"
+    - J. McInnis makes 3-pt shot from 25 ft (assist by L. Odom)
+  - - '10:55.0'
+    - ''
+    - ''
+    - 54-53
+    - ''
+    - Violation by Team (illegal defense)
+  - - '10:47.0'
+    - S. Nash misses 2-pt shot from 12 ft
+    - ''
+    - 54-53
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 54-53
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '10:39.0'
+    - ''
+    - ''
+    - 54-55
+    - "+2"
+    - E. Piatkowski makes 2-pt shot at rim (assist by J. McInnis)
+  - - '10:24.0'
+    - S. Nash misses 2-pt shot from 7 ft
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '10:20.0'
+    - Offensive rebound by Team
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '10:13.0'
+    - M. Finley misses 2-pt shot from 3 ft (block by M. Olowokandi)
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 54-55
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '10:05.0'
+    - ''
+    - ''
+    - 54-55
+    - ''
+    - Turnover by E. Piatkowski (bad pass)
+  - - '9:55.0'
+    - G. Buckner misses 2-pt shot at rim
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 54-55
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '9:41.0'
+    - ''
+    - ''
+    - 54-57
+    - "+2"
+    - C. Maggette makes 2-pt shot from 9 ft
+  - - '9:30.0'
+    - M. Finley makes 2-pt shot from 8 ft (assist by S. Nash)
+    - "+2"
+    - 56-57
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Turnover by L. Odom (bad pass; steal by J. Howard)
+  - - '8:58.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '8:44.0'
+    - M. Finley misses 2-pt shot from 18 ft
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '8:30.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Personal foul by G. Buckner
+  - - '8:15.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:09.0'
+    - J. Howard misses 2-pt shot from 5 ft (block by M. Olowokandi)
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Defensive rebound by M. Olowokandi
+  - - '7:59.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - Personal foul by D. Nowitzki
+  - - '7:41.0'
+    - ''
+    - ''
+    - 56-57
+    - ''
+    - J. McInnis misses 3-pt shot from 27 ft
+  - - '7:38.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '7:37.0'
+    - Personal foul by L. Odom
+    - ''
+    - 56-57
+    - ''
+    - ''
+  - - '7:26.0'
+    - J. Howard makes 2-pt shot from 19 ft (assist by S. Nash)
+    - "+2"
+    - 58-57
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 58-57
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '7:06.0'
+    - ''
+    - ''
+    - 58-58
+    - "+1"
+    - C. Maggette makes free throw 1 of 2
+  - - '7:06.0'
+    - ''
+    - ''
+    - 58-59
+    - "+1"
+    - C. Maggette makes free throw 2 of 2
+  - - '6:54.0'
+    - D. Nowitzki misses 3-pt shot from 24 ft
+    - ''
+    - 58-59
+    - ''
+    - ''
+  - - '6:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-59
+    - ''
+    - ''
+  - - '6:52.0'
+    - Loose ball foul by M. Olowokandi
+    - ''
+    - 58-59
+    - ''
+    - ''
+  - - '6:42.0'
+    - M. Finley misses 2-pt shot from 16 ft
+    - ''
+    - 58-59
+    - ''
+    - ''
+  - - '6:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-59
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 58-59
+    - ''
+    - Technical foul by L. Odom
+  - - '6:40.0'
+    - S. Nash makes free throw technical
+    - "+1"
+    - 59-59
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - C. Parks enters the game for M. Olowokandi
+  - - '6:31.0'
+    - Turnover by S. Nash (bad pass; steal by L. Odom)
+    - ''
+    - 59-59
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - E. Piatkowski misses 2-pt shot from 18 ft
+  - - '6:24.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - Offensive rebound by Team
+  - - '6:24.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - Technical foul by C. Maggette
+  - - '6:24.0'
+    - S. Nash makes free throw technical
+    - "+1"
+    - 60-59
+    - ''
+    - ''
+  - - '6:24.0'
+    - H. Eisley enters the game for M. Finley
+    - ''
+    - 60-59
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 60-61
+    - "+2"
+    - L. Odom makes 2-pt shot from 22 ft (assist by J. McInnis)
+  - - '5:58.0'
+    - S. Nash misses 3-pt shot from 26 ft
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - Defensive rebound by Team
+  - - '5:57.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - Loose ball foul by J. Howard
+  - - '5:57.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - LA Clippers full timeout
+  - - '5:45.0'
+    - ''
+    - ''
+    - 60-61
+    - ''
+    - E. Piatkowski misses 3-pt shot from 28 ft
+  - - '5:45.0'
+    - Defensive rebound by Team
+    - ''
+    - 60-61
+    - ''
+    - ''
+  - - '5:35.0'
+    - G. Buckner makes 2-pt shot at rim (assist by H. Eisley)
+    - "+2"
+    - 62-61
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 62-61
+    - ''
+    - E. Piatkowski misses 3-pt shot from 24 ft
+  - - '5:05.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 62-61
+    - ''
+    - ''
+  - - '4:59.0'
+    - S. Nash misses 2-pt shot from 17 ft
+    - ''
+    - 62-61
+    - ''
+    - ''
+  - - '4:57.0'
+    - Offensive rebound by S. Nash
+    - ''
+    - 62-61
+    - ''
+    - ''
+  - - '4:42.0'
+    - J. Howard makes 2-pt shot from 9 ft
+    - "+2"
+    - 64-61
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - C. Maggette misses 2-pt shot at rim
+  - - '4:15.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - Offensive rebound by Team
+  - - '4:15.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - D. Miles enters the game for C. Maggette
+  - - '4:06.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - C. Parks misses 2-pt shot from 18 ft
+  - - '4:03.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - Offensive rebound by L. Odom
+  - - '4:01.0'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - L. Odom misses 2-pt shot at rim
+  - - '3:59.0'
+    - ''
+    - ''
+    - 64-63
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '3:59.0'
+    - ''
+    - ''
+    - 64-63
+    - ''
+    - Offensive rebound by L. Odom
+  - - '3:33.0'
+    - J. Howard makes 2-pt shot from 6 ft
+    - "+2"
+    - 66-63
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 66-65
+    - "+2"
+    - E. Piatkowski makes 2-pt shot at rim (assist by C. Parks)
+  - - '3:01.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 66-65
+    - ''
+    - ''
+  - - '2:50.0'
+    - D. Nowitzki makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 68-65
+    - ''
+    - ''
+  - - '2:50.0'
+    - Shooting foul by J. McInnis
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '2:50.0'
+    - Dallas full timeout
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - K. Dooling enters the game for J. McInnis
+  - - '2:50.0'
+    - D. Nowitzki misses free throw 1 of 1
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - Defensive rebound by C. Parks
+  - - '2:25.0'
+    - ''
+    - ''
+    - 68-65
+    - ''
+    - Turnover by Team (shot clock)
+  - - '2:12.0'
+    - Personal foul by K. Dooling
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '2:12.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 69-65
+    - ''
+    - ''
+  - - '2:12.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 70-65
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 70-65
+    - ''
+    - Turnover by K. Dooling (bad pass; steal by S. Nash)
+  - - '1:58.0'
+    - Turnover by D. Nowitzki (lost ball)
+    - ''
+    - 70-65
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 70-67
+    - "+2"
+    - K. Dooling makes 2-pt shot from 20 ft
+  - - '1:22.0'
+    - G. Buckner makes 2-pt shot at rim (assist by S. Nash)
+    - "+2"
+    - 72-67
+    - ''
+    - ''
+  - - '1:22.0'
+    - Shooting foul by D. Miles
+    - ''
+    - 72-67
+    - ''
+    - ''
+  - - '1:22.0'
+    - ''
+    - ''
+    - 72-67
+    - ''
+    - Technical foul by Team
+  - - '1:22.0'
+    - S. Nash makes free throw technical
+    - "+1"
+    - 73-67
+    - ''
+    - ''
+  - - '1:22.0'
+    - G. Buckner misses free throw 1 of 1
+    - ''
+    - 73-67
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 73-67
+    - ''
+    - Defensive rebound by L. Odom
+  - - '1:02.0'
+    - ''
+    - ''
+    - 73-67
+    - ''
+    - Shooting foul by H. Eisley
+  - - '1:02.0'
+    - ''
+    - ''
+    - 73-68
+    - "+1"
+    - D. Miles makes free throw 1 of 2
+  - - '1:02.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - D. Miles misses free throw 2 of 2
+  - - '0:59.7'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 73-68
+    - ''
+    - ''
+  - - '0:48.1'
+    - S. Nash makes 2-pt shot at rim
+    - "+2"
+    - 75-68
+    - ''
+    - ''
+  - - '0:48.1'
+    - Shooting foul by D. Miles
+    - ''
+    - 75-68
+    - ''
+    - ''
+  - - '0:48.1'
+    - S. Nash makes free throw 1 of 1
+    - "+1"
+    - 76-68
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - E. Piatkowski misses 3-pt shot from 27 ft
+  - - '0:27.3'
+    - Defensive rebound by S. Nash
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:24.3'
+    - G. Buckner misses 2-pt shot at rim
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:19.4'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Defensive rebound by C. Parks
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Shooting foul by J. Howard
+  - - '0:04.8'
+    - Technical foul by J. Howard
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-69
+    - "+1"
+    - E. Piatkowski makes free throw technical
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - C. Maggette enters the game for L. Odom
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - K. Dooling misses free throw 1 of 2
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Offensive rebound by Team
+  - - '0:04.8'
+    - M. Finley enters the game for G. Buckner
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 76-70
+    - "+1"
+    - K. Dooling makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - H. Eisley misses 3-pt shot from 23 ft
+    - ''
+    - 76-70
+    - ''
+    - ''
+  - - '11:40.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - Defensive rebound by C. Maggette
+  - - '11:21.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - C. Parks misses 2-pt shot at rim
+  - - '11:19.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - Offensive rebound by C. Parks
+  - - '11:19.0'
+    - 'Jump ball: C. Parks vs. H. Eisley (S. Nash gains possession)'
+  - - '11:19.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - Turnover by C. Parks (lost ball; steal by H. Eisley)
+  - - '11:16.0'
+    - Personal foul by C. Maggette
+    - ''
+    - 76-70
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - M. Olowokandi enters the game for C. Parks
+  - - '10:56.0'
+    - D. Nowitzki makes 2-pt shot from 21 ft (assist by M. Finley)
+    - "+2"
+    - 78-70
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 78-70
+    - ''
+    - Personal foul by S. Nash
+  - - '10:26.0'
+    - ''
+    - ''
+    - 78-70
+    - ''
+    - K. Dooling misses 3-pt shot from 25 ft
+  - - '10:24.0'
+    - ''
+    - ''
+    - 78-70
+    - ''
+    - Offensive rebound by D. Miles
+  - - '10:07.0'
+    - ''
+    - ''
+    - 78-72
+    - "+2"
+    - E. Piatkowski makes 2-pt shot from 20 ft (assist by K. Dooling)
+  - - '9:51.0'
+    - Shooting foul by M. Olowokandi
+    - ''
+    - 78-72
+    - ''
+    - ''
+  - - '9:51.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 79-72
+    - ''
+    - ''
+  - - '9:51.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 80-72
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 80-74
+    - "+2"
+    - M. Olowokandi makes 2-pt shot at rim (assist by K. Dooling)
+  - - '9:19.0'
+    - S. Nash makes 2-pt shot from 12 ft
+    - "+2"
+    - 82-74
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 82-74
+    - ''
+    - K. Dooling misses 2-pt shot from 8 ft
+  - - '9:03.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 82-74
+    - ''
+    - ''
+  - - '9:00.0'
+    - Turnover by M. Finley (traveling)
+    - ''
+    - 82-74
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 82-74
+    - ''
+    - L. Odom enters the game for E. Piatkowski
+  - - '9:00.0'
+    - ''
+    - ''
+    - 82-74
+    - ''
+    - Q. Richardson enters the game for C. Maggette
+  - - '8:46.0'
+    - ''
+    - ''
+    - 82-74
+    - ''
+    - Q. Richardson misses 3-pt shot from 26 ft
+  - - '8:44.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 82-74
+    - ''
+    - ''
+  - - '8:27.0'
+    - S. Bradley makes 2-pt shot from 4 ft (assist by S. Nash)
+    - "+2"
+    - 84-74
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - K. Dooling misses 2-pt shot at rim
+  - - '8:09.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Offensive rebound by L. Odom
+  - - '8:05.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - Turnover by L. Odom (bad pass; steal by H. Eisley)
+  - - '8:02.0'
+    - Turnover by S. Nash (lost ball; steal by L. Odom)
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 84-74
+    - ''
+    - K. Dooling misses 2-pt shot at rim
+  - - '7:54.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 84-74
+    - ''
+    - ''
+  - - '7:51.0'
+    - D. Nowitzki makes 2-pt shot from 19 ft (assist by H. Eisley)
+    - "+2"
+    - 86-74
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 86-74
+    - ''
+    - LA Clippers full timeout
+  - - '7:24.0'
+    - ''
+    - ''
+    - 86-74
+    - ''
+    - K. Dooling misses 2-pt shot at rim
+  - - '7:20.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '7:06.0'
+    - M. Finley misses 3-pt shot from 25 ft
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '7:04.0'
+    - D. Nowitzki makes 2-pt shot at rim
+    - "+2"
+    - 88-74
+    - ''
+    - ''
+  - - '7:04.0'
+    - Offensive rebound by D. Nowitzki
+    - ''
+    - 88-74
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 88-74
+    - ''
+    - Personal foul by M. Finley
+  - - '6:48.0'
+    - ''
+    - ''
+    - 88-74
+    - ''
+    - J. McInnis enters the game for K. Dooling
+  - - '6:33.0'
+    - ''
+    - ''
+    - 88-74
+    - ''
+    - J. McInnis misses 3-pt shot from 28 ft
+  - - '6:30.0'
+    - ''
+    - ''
+    - 88-76
+    - "+2"
+    - Q. Richardson makes 2-pt shot at rim
+  - - '6:30.0'
+    - ''
+    - ''
+    - 88-76
+    - ''
+    - Offensive rebound by Q. Richardson
+  - - '6:13.0'
+    - S. Nash misses 2-pt shot from 6 ft
+    - ''
+    - 88-76
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 88-76
+    - ''
+    - Defensive rebound by Team
+  - - '6:13.0'
+    - ''
+    - ''
+    - 88-76
+    - ''
+    - Loose ball foul by S. Bradley
+  - - '6:01.0'
+    - ''
+    - ''
+    - 88-76
+    - ''
+    - Turnover by Q. Richardson (lost ball; steal by H. Eisley)
+  - - '5:55.0'
+    - M. Finley misses 2-pt shot at rim (block by L. Odom)
+    - ''
+    - 88-76
+    - ''
+    - ''
+  - - '5:52.0'
+    - Offensive rebound by S. Nash
+    - ''
+    - 88-76
+    - ''
+    - ''
+  - - '5:44.0'
+    - H. Eisley makes 3-pt shot from 26 ft (assist by S. Nash)
+    - "+3"
+    - 91-76
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 91-78
+    - "+2"
+    - L. Odom makes 2-pt shot at rim
+  - - '5:24.0'
+    - ''
+    - ''
+    - 91-78
+    - ''
+    - Shooting foul by M. Finley
+  - - '5:24.0'
+    - ''
+    - ''
+    - 91-78
+    - ''
+    - Official timeout
+  - - '5:24.0'
+    - ''
+    - ''
+    - 91-79
+    - "+1"
+    - L. Odom makes free throw 1 of 1
+  - - '5:07.0'
+    - H. Eisley misses 2-pt shot from 6 ft
+    - ''
+    - 91-79
+    - ''
+    - ''
+  - - '5:05.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - Defensive rebound by Team
+  - - '5:05.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - Loose ball foul by D. Nowitzki
+  - - '5:05.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - D. Miles misses free throw 1 of 2
+  - - '5:05.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - Offensive rebound by Team
+  - - '5:05.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - D. Miles misses free throw 2 of 2
+  - - '5:05.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 91-79
+    - ''
+    - ''
+  - - '4:50.0'
+    - H. Eisley misses 3-pt shot from 27 ft
+    - ''
+    - 91-79
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - Defensive rebound by D. Miles
+  - - '4:43.0'
+    - ''
+    - ''
+    - 91-79
+    - ''
+    - Personal foul by S. Nash
+  - - '4:43.0'
+    - ''
+    - ''
+    - 91-80
+    - "+1"
+    - J. McInnis makes free throw 1 of 2
+  - - '4:43.0'
+    - ''
+    - ''
+    - 91-80
+    - ''
+    - J. McInnis misses free throw 2 of 2
+  - - '4:43.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 91-80
+    - ''
+    - ''
+  - - '4:23.0'
+    - Shooting foul by D. Miles
+    - ''
+    - 91-80
+    - ''
+    - ''
+  - - '4:23.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 92-80
+    - ''
+    - ''
+  - - '4:23.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 93-80
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 93-80
+    - ''
+    - Personal foul by M. Finley
+  - - '4:12.0'
+    - ''
+    - ''
+    - 93-81
+    - "+1"
+    - L. Odom makes free throw 1 of 2
+  - - '4:12.0'
+    - ''
+    - ''
+    - 93-82
+    - "+1"
+    - L. Odom makes free throw 2 of 2
+  - - '3:51.0'
+    - M. Finley makes 2-pt shot from 20 ft (assist by D. Nowitzki)
+    - "+2"
+    - 95-82
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 95-82
+    - ''
+    - M. Olowokandi misses 2-pt shot from 12 ft
+  - - '3:33.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 95-82
+    - ''
+    - ''
+  - - '3:15.0'
+    - M. Finley makes 2-pt shot at rim (assist by S. Bradley)
+    - "+2"
+    - 97-82
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 97-84
+    - "+2"
+    - Q. Richardson makes 2-pt shot from 6 ft (assist by J. McInnis)
+  - - '2:30.0'
+    - Personal foul by J. McInnis
+    - ''
+    - 97-84
+    - ''
+    - ''
+  - - '2:30.0'
+    - Dallas full timeout
+    - ''
+    - 97-84
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 97-84
+    - ''
+    - E. Piatkowski enters the game for M. Olowokandi
+  - - '2:30.0'
+    - G. Buckner enters the game for S. Bradley
+    - ''
+    - 97-84
+    - ''
+    - ''
+  - - '2:15.0'
+    - M. Finley misses 2-pt shot from 9 ft
+    - ''
+    - 97-84
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 97-84
+    - ''
+    - Defensive rebound by J. McInnis
+  - - '2:02.0'
+    - ''
+    - ''
+    - 97-86
+    - "+2"
+    - D. Miles makes 2-pt shot at rim (assist by J. McInnis)
+  - - '1:38.0'
+    - G. Buckner misses 3-pt shot from 25 ft
+    - ''
+    - 97-86
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 97-86
+    - ''
+    - Defensive rebound by E. Piatkowski
+  - - '1:24.0'
+    - ''
+    - ''
+    - 97-86
+    - ''
+    - D. Miles misses 2-pt shot at rim
+  - - '1:23.0'
+    - ''
+    - ''
+    - 97-86
+    - ''
+    - D. Miles misses 2-pt shot at rim
+  - - '1:23.0'
+    - ''
+    - ''
+    - 97-86
+    - ''
+    - Offensive rebound by D. Miles
+  - - '1:23.0'
+    - ''
+    - ''
+    - 97-88
+    - "+2"
+    - D. Miles makes 2-pt shot at rim
+  - - '1:23.0'
+    - ''
+    - ''
+    - 97-88
+    - ''
+    - Offensive rebound by D. Miles
+  - - '1:02.0'
+    - D. Nowitzki makes 2-pt shot from 17 ft (assist by S. Nash)
+    - "+2"
+    - 99-88
+    - ''
+    - ''
+  - - '1:02.0'
+    - Shooting foul by L. Odom
+    - ''
+    - 99-88
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 99-88
+    - ''
+    - C. Maggette enters the game for L. Odom
+  - - '1:02.0'
+    - ''
+    - ''
+    - 99-88
+    - ''
+    - K. Dooling enters the game for J. McInnis
+  - - '1:02.0'
+    - E. Najera enters the game for S. Nash
+    - ''
+    - 99-88
+    - ''
+    - ''
+  - - '1:02.0'
+    - D. Nowitzki misses free throw 1 of 1
+    - ''
+    - 99-88
+    - ''
+    - ''
+  - - '1:01.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 99-88
+    - ''
+    - ''
+  - - '0:37.9'
+    - M. Finley makes 2-pt shot from 18 ft
+    - "+2"
+    - 101-88
+    - ''
+    - ''
+  - - '0:31.7'
+    - ''
+    - ''
+    - 101-88
+    - ''
+    - D. Miles misses 2-pt shot from 9 ft
+  - - '0:30.3'
+    - Defensive rebound by Team
+    - ''
+    - 101-88
+    - ''
+    - ''
+  - - '0:30.3'
+    - Loose ball foul by E. Piatkowski
+    - ''
+    - 101-88
+    - ''
+    - ''
+  - - '0:30.3'
+    - H. Eisley makes free throw 1 of 2
+    - "+1"
+    - 102-88
+    - ''
+    - ''
+  - - '0:30.3'
+    - O. Ekezie enters the game for D. Nowitzki
+    - ''
+    - 102-88
+    - ''
+    - ''
+  - - '0:30.3'
+    - D. Harvey enters the game for M. Finley
+    - ''
+    - 102-88
+    - ''
+    - ''
+  - - '0:30.3'
+    - H. Eisley makes free throw 2 of 2
+    - "+1"
+    - 103-88
+    - ''
+    - ''
+  - - '0:21.2'
+    - ''
+    - ''
+    - 103-90
+    - "+2"
+    - Q. Richardson makes 2-pt shot at rim (assist by K. Dooling)
+  - - '0:06.6'
+    - Turnover by D. Harvey (bad pass)
+    - ''
+    - 103-90
+    - ''
+    - ''
+  - - '0:00.8'
+    - ''
+    - ''
+    - 103-92
+    - "+2"
+    - Q. Richardson makes 2-pt shot at rim (assist by C. Maggette)
+  - - '0:00.0'
+    - End of 4th quarter

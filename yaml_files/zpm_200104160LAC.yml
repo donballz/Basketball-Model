@@ -1,0 +1,197 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Dudley (On: -2&#9642;Off: -18&#9642;Net: +16)'
+    - |2-
+
+      +4
+    - 127/+4
+    - 373/
+    - 102/-6
+    - 398/
+    - 'Mario Elie (On: +1&#9642;Off: -21&#9642;Net: +22)'
+    - |2-
+
+      -2
+    - 179/-2
+    - 150/
+    - 86/+3
+    - 585/
+    - 'Jason Kidd (On: -29&#9642;Off: +9&#9642;Net: -38)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 132/-6
+    - 38/
+    - 79/-8
+    - 249/-8
+    - 83/0
+    - 167/
+    - 'Shawn Marion (On: -12&#9642;Off: -8&#9642;Net: -4)'
+    - |2-
+
+      -7
+    - 249/-7
+    - 79/
+    - 86/+3
+    - 84/
+    - 249/-8
+    - 83/0
+    - 167/
+    - 'Clifford Robinson (On: -24&#9642;Off: +4&#9642;Net: -28)'
+    - |2-
+
+      -4
+    - 211/-4
+    - 38/
+    - 76/-7
+    - 94/
+    - 20/-5
+    - 59/
+    - 249/-8
+    - 83/0
+    - 165/
+    - 'Rodney Rogers (On: -16&#9642;Off: -4&#9642;Net: -12)'
+    - "\n"
+    - 128/
+    - 121/-11
+    - 76/-7
+    - 118/
+    - 54/-3
+    - 106/
+    - 143/-2
+    - 250/+7
+    - 'Tony Delk (On: -26&#9642;Off: +6&#9642;Net: -32)'
+    - "\n"
+    - 182/
+    - 67/-5
+    - 76/-7
+    - 58/
+    - 114/-6
+    - 249/-8
+    - 83/0
+    - 167/
+    - 'Tom Gugliotta (On: -3&#9642;Off: -17&#9642;Net: +14)'
+    - "\n"
+    - 213/
+    - 37/-3
+    - 77/-7
+    - 509/
+    - 163/+7
+    - 'Vinny Del Negro (On: +2&#9642;Off: -22&#9642;Net: +24)'
+    - "\n"
+    - 329/
+    - 171/-5
+    - 336/
+    - 164/+7
+    - 'Daniel Santiago (On: +2&#9642;Off: -22&#9642;Net: +24)'
+    - "\n"
+    - 329/
+    - 171/-5
+    - 336/
+    - 164/+7
+    - 'Elliot Perry (On: +7&#9642;Off: -27&#9642;Net: +34)'
+    - "\n"
+    - 838/
+    - 164/+7
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: +16&#9642;Off: +4&#9642;Net: +12)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 122/+8
+    - 128/
+    - 250/+8
+    - 249/-7
+    - 'Lamar Odom (On: +18&#9642;Off: +2&#9642;Net: +16)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 132/+6
+    - 117/
+    - 250/+8
+    - 135/-3
+    - 114/
+    - 'Michael Olowokandi (On: +21&#9642;Off: -1&#9642;Net: +22)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 104/+6
+    - 146/
+    - 250/+8
+    - 146/0
+    - 102/
+    - 'Cherokee Parks (On: +1&#9642;Off: +19&#9642;Net: -18)'
+    - |2-
+
+      -4
+    - 127/-4
+    - 373/
+    - 150/+5
+    - 350/
+    - 'Eric Piatkowski (On: +28&#9642;Off: -8&#9642;Net: +36)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 77/+7
+    - 59/
+    - 114/+6
+    - 249/+8
+    - 83/0
+    - 166/
+    - 'Darius Miles (On: +19&#9642;Off: +1&#9642;Net: +18)'
+    - "\n"
+    - 129/
+    - 121/+11
+    - 250/+12
+    - 150/
+    - 99/+3
+    - 249/-7
+    - 'Keyon Dooling (On: -2&#9642;Off: +22&#9642;Net: -24)'
+    - "\n"
+    - 329/
+    - 171/+5
+    - 336/
+    - 164/-7
+    - 'Sean Rooks (On: +6&#9642;Off: +14&#9642;Net: -8)'
+    - "\n"
+    - 359/
+    - 141/+6
+    - 501/
+    - 'Quentin Richardson (On: 0&#9642;Off: +20&#9642;Net: -20)'
+    - "\n"
+    - 378/
+    - 122/+4
+    - 389/
+    - 111/-4
+    - 'Zendon Hamilton (On: -7&#9642;Off: +27&#9642;Net: -34)'
+    - "\n"
+    - 900/
+    - 102/-7
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

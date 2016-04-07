@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +5&#9642;Off: 0&#9642;Net: +5)'
+    - |2-
+
+      0
+    - 250/0
+    - 250/+10
+    - 250/-3
+    - 250/-2
+    - 'Derek Fisher (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - |2-
+
+      0
+    - 249/0
+    - 81/+5
+    - 169/
+    - 176/-1
+    - 138/
+    - 127/-2
+    - 57/
+    - 'Rick Fox (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - |2-
+
+      0
+    - 250/0
+    - 190/
+    - 60/+1
+    - 105/-5
+    - 350/
+    - 43/+3
+    - 'Horace Grant (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - |2-
+
+      0
+    - 249/0
+    - 83/
+    - 36/+5
+    - 130/
+    - 249/-3
+    - 63/-3
+    - 187/
+    - 'Shaquille O''Neal (On: -2&#9642;Off: +7&#9642;Net: -9)'
+    - |2-
+
+      0
+    - 249/0
+    - 81/+5
+    - 43/
+    - 126/0
+    - 220/-3
+    - 72/
+    - 157/-4
+    - 48/
+    - 'Robert Horry (On: +10&#9642;Off: -5&#9642;Net: +15)'
+    - "\n"
+    - 249/
+    - 249/+10
+    - 226/
+    - 23/0
+    - 37/-1
+    - 28/
+    - 185/+1
+    - 'Brian Shaw (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - "\n"
+    - 250/
+    - 189/+9
+    - 170/
+    - 141/+2
+    - 249/-2
+    - 'Tyronn Lue (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - "\n"
+    - 332/
+    - 166/+5
+    - 179/
+    - 70/-2
+    - 63/-3
+    - 133/
+    - 54/+3
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - |2-
+
+      -3
+    - 163/-3
+    - 274/
+    - 59/-1
+    - 1/
+    - 220/+3
+    - 29/
+    - 87/0
+    - 158/
+    - 4/-1
+    - 'Allen Iverson (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - |2-
+
+      0
+    - 250/0
+    - 249/-10
+    - 1/
+    - 250/+3
+    - 249/+2
+    - 'Jumaine Jones (On: -13&#9642;Off: +8&#9642;Net: -21)'
+    - |2-
+
+      -3
+    - 163/-3
+    - 97/
+    - 107/-10
+    - 130/
+    - 0/0
+    - 84/+1
+    - 410/
+    - 0/-1
+    - 4/
+    - 'Aaron McKie (On: 0&#9642;Off: -5&#9642;Net: +5)'
+    - |2-
+
+      0
+    - 248/0
+    - 18/0
+    - 77/
+    - 154/-3
+    - 101/+3
+    - 32/
+    - 115/0
+    - 37/+1
+    - 28/
+    - 184/-1
+    - 'Dikembe Mutombo (On: +2&#9642;Off: -7&#9642;Net: +9)'
+    - |2-
+
+      0
+    - 249/0
+    - 83/-5
+    - 40/
+    - 126/0
+    - 230/+5
+    - 62/
+    - 173/+4
+    - 29/
+    - 3/-2
+    - 'Matt Geiger (On: +5&#9642;Off: -10&#9642;Net: +15)'
+    - "\n"
+    - 165/
+    - 84/+3
+    - 9/0
+    - 467/
+    - 4/+2
+    - 269/
+    - 'Eric Snow (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 165/
+    - 84/+3
+    - 249/-10
+    - 105/
+    - 144/0
+    - 63/+3
+    - 25/
+    - 161/+2
+    - 'Raja Bell (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - "\n"
+    - 270/
+    - 67/-7
+    - 159/
+    - 0/0
+    - 88/
+    - 40/+2
+    - 105/
+    - 16/-2
+    - 43/
+    - 202/+3
+    - 3/
+    - 'Todd MacCulloch (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - "\n"
+    - 339/
+    - 99/-4
+    - 295/
+    - 16/-2
+    - 37/+1
+    - 212/
+    - 'Kevin Ollie (On: -1&#9642;Off: -4&#9642;Net: +3)'
+    - "\n"
+    - 974/
+    - 19/-1
+    - 8/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

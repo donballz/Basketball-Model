@@ -1,0 +1,2844 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Sabonis vs. S. Bradley (R. Wallace gains possession)'
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Pippen)
+  - - '11:30.0'
+    - Turnover by D. Nowitzki (lost ball; steal by B. Wells)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Pippen)
+  - - '11:08.0'
+    - S. Nash misses 2-pt shot at rim
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '11:01.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - R. Wallace misses 2-pt shot from 22 ft
+  - - '11:00.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '10:51.0'
+    - M. Finley makes 2-pt shot from 17 ft (assist by S. Nash)
+    - "+2"
+    - 2-4
+    - ''
+    - ''
+  - - '10:27.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - A. Sabonis misses 2-pt shot from 21 ft
+  - - '10:25.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:13.0'
+    - Turnover by J. Howard (bad pass; steal by B. Wells)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim (assist by B. Wells)
+  - - '10:08.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '10:08.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - R. Wallace misses free throw 1 of 1
+  - - '10:05.0'
+    - Defensive rebound by Team
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:54.0'
+    - Turnover by D. Nowitzki (lost ball)
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 2-6
+    - ''
+    - R. Wallace misses 3-pt shot from 24 ft
+  - - '9:40.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '9:32.0'
+    - M. Finley makes 2-pt shot from 19 ft (assist by S. Nash)
+    - "+2"
+    - 4-6
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - B. Wells misses 2-pt shot from 22 ft
+  - - '9:07.0'
+    - Defensive rebound by Team
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:49.0'
+    - J. Howard misses 2-pt shot from 9 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '8:42.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - B. Wells misses 2-pt shot from 9 ft
+  - - '8:40.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Offensive rebound by B. Wells
+  - - '8:38.0'
+    - ''
+    - ''
+    - 4-8
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim (assist by B. Wells)
+  - - '8:25.0'
+    - Shooting foul by S. Pippen
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '8:25.0'
+    - J. Howard makes free throw 1 of 2
+    - "+1"
+    - 5-8
+    - ''
+    - ''
+  - - '8:25.0'
+    - J. Howard misses free throw 2 of 2
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 5-8
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '8:12.0'
+    - ''
+    - ''
+    - 5-8
+    - ''
+    - R. Wallace misses 2-pt shot at rim
+  - - '8:08.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '8:02.0'
+    - D. Nowitzki misses 2-pt shot from 4 ft
+    - ''
+    - 5-8
+    - ''
+    - ''
+  - - '8:00.0'
+    - M. Finley makes 2-pt shot at rim
+    - "+2"
+    - 7-8
+    - ''
+    - ''
+  - - '8:00.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:53.0'
+    - Violation by D. Nowitzki (kicked ball)
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - R. Wallace misses 2-pt shot from 7 ft
+  - - '7:36.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:30.0'
+    - Personal foul by S. Pippen
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - S. Augmon enters the game for S. Pippen
+  - - '7:17.0'
+    - Turnover by D. Nowitzki (lost ball; steal by S. Augmon)
+    - ''
+    - 7-8
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Clear path foul by J. Howard
+  - - '7:15.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - B. Wells misses free throw flagrant 1 of 2
+  - - '7:15.0'
+    - ''
+    - ''
+    - 7-8
+    - ''
+    - Offensive rebound by Team
+  - - '7:04.0'
+    - ''
+    - ''
+    - 7-10
+    - "+2"
+    - A. Sabonis makes 2-pt shot from 21 ft (assist by S. Augmon)
+  - - '6:51.0'
+    - S. Bradley misses 2-pt shot at rim
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '6:42.0'
+    - ''
+    - ''
+    - 7-10
+    - ''
+    - A. Sabonis misses 2-pt shot from 7 ft
+  - - '6:38.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '6:34.0'
+    - S. Nash makes 3-pt shot from 25 ft
+    - "+3"
+    - 10-10
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - D. Stoudamire misses 2-pt shot from 19 ft
+  - - '6:10.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '5:59.0'
+    - J. Howard makes 2-pt shot from 14 ft (assist by S. Bradley)
+    - "+2"
+    - 12-10
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Personal foul by S. Bradley
+  - - '5:47.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Portland full timeout
+  - - '5:47.0'
+    - G. Buckner enters the game for D. Nowitzki
+    - ''
+    - 12-10
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Personal foul by G. Buckner
+  - - '5:29.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - R. Wallace misses 2-pt shot from 14 ft
+  - - '5:28.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Offensive rebound by S. Augmon
+  - - '5:26.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - S. Augmon misses 2-pt shot at rim
+  - - '5:24.0'
+    - ''
+    - ''
+    - 12-10
+    - ''
+    - Offensive rebound by S. Augmon
+  - - '5:23.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - S. Augmon makes 2-pt shot at rim
+  - - '4:55.0'
+    - J. Howard makes 2-pt shot from 10 ft
+    - "+2"
+    - 14-12
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - B. Wells misses 2-pt shot from 9 ft
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - S. Augmon misses 2-pt shot at rim
+  - - '4:37.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Offensive rebound by S. Augmon
+  - - '4:36.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '4:35.0'
+    - ''
+    - ''
+    - 14-14
+    - "+2"
+    - R. Wallace makes 2-pt shot at rim
+  - - '4:18.0'
+    - S. Bradley misses 2-pt shot from 16 ft
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '4:02.0'
+    - ''
+    - ''
+    - 14-16
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim (assist by R. Wallace)
+  - - '3:45.0'
+    - Personal foul by B. Wells
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '3:37.0'
+    - Turnover by S. Nash (bad pass)
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '3:37.0'
+    - H. Eisley enters the game for S. Nash
+    - ''
+    - 14-16
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 14-18
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim (assist by D. Stoudamire)
+  - - '3:04.0'
+    - G. Buckner makes 2-pt shot from 18 ft (assist by J. Howard)
+    - "+2"
+    - 16-18
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 16-21
+    - "+3"
+    - R. Wallace makes 3-pt shot from 25 ft (assist by D. Stoudamire)
+  - - '2:29.0'
+    - J. Howard misses 2-pt shot from 11 ft
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - Offensive rebound by S. Bradley
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - Shooting foul by A. Sabonis
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - Dallas full timeout
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - D. Nowitzki enters the game for J. Howard
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '2:28.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '2:28.0'
+    - S. Bradley makes free throw 1 of 2
+    - "+1"
+    - 17-21
+    - ''
+    - ''
+  - - '2:28.0'
+    - S. Bradley misses free throw 2 of 2
+    - ''
+    - 17-21
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 17-21
+    - ''
+    - Defensive rebound by D. Davis
+  - - '2:08.0'
+    - ''
+    - ''
+    - 17-23
+    - "+2"
+    - S. Augmon makes 2-pt shot at rim
+  - - '1:45.0'
+    - M. Finley misses 2-pt shot from 12 ft
+    - ''
+    - 17-23
+    - ''
+    - ''
+  - - '1:44.0'
+    - G. Buckner misses 2-pt shot at rim
+    - ''
+    - 17-23
+    - ''
+    - ''
+  - - '1:44.0'
+    - Offensive rebound by G. Buckner
+    - ''
+    - 17-23
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 17-23
+    - ''
+    - Defensive rebound by Team
+  - - '1:44.0'
+    - C. Booth enters the game for S. Bradley
+    - ''
+    - 17-23
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 17-23
+    - ''
+    - Shooting foul by G. Buckner
+  - - '1:27.0'
+    - ''
+    - ''
+    - 17-24
+    - "+1"
+    - S. Smith makes free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 17-25
+    - "+1"
+    - S. Smith makes free throw 2 of 2
+  - - '1:10.0'
+    - G. Buckner makes 2-pt shot at rim (assist by C. Booth)
+    - "+2"
+    - 19-25
+    - ''
+    - ''
+  - - '0:53.7'
+    - ''
+    - ''
+    - 19-28
+    - "+3"
+    - S. Smith makes 3-pt shot from 25 ft (assist by D. Stoudamire)
+  - - '0:43.1'
+    - Turnover by D. Nowitzki (lost ball; steal by R. Wallace)
+    - ''
+    - 19-28
+    - ''
+    - ''
+  - - '0:39.8'
+    - ''
+    - ''
+    - 19-28
+    - ''
+    - Turnover by R. Wallace (bad pass; steal by D. Nowitzki)
+  - - '0:33.3'
+    - M. Finley makes 2-pt shot at rim (assist by D. Nowitzki)
+    - "+2"
+    - 21-28
+    - ''
+    - ''
+  - - '0:25.7'
+    - ''
+    - ''
+    - 21-28
+    - ''
+    - Turnover by D. Stoudamire (discontinued dribble)
+  - - '0:10.6'
+    - G. Buckner makes 2-pt shot at rim (assist by D. Nowitzki)
+    - "+2"
+    - 23-28
+    - ''
+    - ''
+  - - '0:00.7'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - R. Wallace misses 3-pt shot from 25 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - H. Eisley misses 2-pt shot from 21 ft
+    - ''
+    - 23-28
+    - ''
+    - ''
+  - - '11:44.0'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '11:38.0'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - Personal foul by H. Eisley
+  - - '11:22.0'
+    - ''
+    - ''
+    - 23-28
+    - ''
+    - Turnover by R. Wallace (bad pass; steal by G. Buckner)
+  - - '11:16.0'
+    - G. Buckner misses 2-pt shot at rim
+    - ''
+    - 23-28
+    - ''
+    - ''
+  - - '11:14.0'
+    - C. Booth makes 2-pt shot at rim
+    - "+2"
+    - 25-28
+    - ''
+    - ''
+  - - '11:14.0'
+    - Offensive rebound by C. Booth
+    - ''
+    - 25-28
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - D. Davis misses 2-pt shot from 10 ft
+  - - '10:53.0'
+    - ''
+    - ''
+    - 25-30
+    - "+2"
+    - S. Smith makes 2-pt shot at rim
+  - - '10:53.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Offensive rebound by S. Smith
+  - - '10:38.0'
+    - D. Nowitzki misses 3-pt shot from 27 ft
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '10:36.0'
+    - Offensive rebound by C. Booth
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '10:35.0'
+    - C. Booth makes 2-pt shot from 6 ft
+    - "+2"
+    - 27-30
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 27-30
+    - ''
+    - S. Pippen misses 2-pt shot from 14 ft
+  - - '10:19.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 27-30
+    - ''
+    - ''
+  - - '10:16.0'
+    - D. Nowitzki makes 2-pt shot at rim (assist by G. Buckner)
+    - "+2"
+    - 29-30
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 29-32
+    - "+2"
+    - D. Davis makes 2-pt shot at rim (assist by R. Strickland)
+  - - '9:33.0'
+    - J. Howard makes 2-pt shot from 17 ft (assist by H. Eisley)
+    - "+2"
+    - 31-32
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Offensive foul by S. Smith
+  - - '9:14.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Turnover by S. Smith (foul)
+  - - '9:14.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - S. Kemp enters the game for R. Wallace
+  - - '9:14.0'
+    - M. Finley enters the game for G. Buckner
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:59.0'
+    - J. Howard misses 2-pt shot from 17 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Defensive rebound by S. Smith
+  - - '8:41.0'
+    - ''
+    - ''
+    - 31-34
+    - "+2"
+    - S. Kemp makes 2-pt shot from 20 ft (assist by S. Pippen)
+  - - '8:20.0'
+    - J. Howard misses 2-pt shot from 9 ft
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - Defensive rebound by Team
+  - - '8:20.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - Loose ball foul by C. Booth
+  - - '8:20.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - Official timeout
+  - - '8:20.0'
+    - S. Nash enters the game for H. Eisley
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - S. Kemp misses 2-pt shot at rim (block by C. Booth)
+  - - '7:54.0'
+    - Defensive rebound by C. Booth
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '7:54.0'
+    - Turnover by C. Booth (bad pass; steal by S. Kemp)
+    - ''
+    - 31-34
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 31-34
+    - ''
+    - Turnover by S. Kemp (3 second)
+  - - '7:34.0'
+    - J. Howard makes 2-pt shot from 18 ft (assist by M. Finley)
+    - "+2"
+    - 33-34
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - Offensive foul by S. Kemp
+  - - '7:21.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - Turnover by S. Kemp (foul)
+  - - '7:02.0'
+    - D. Nowitzki misses 2-pt shot from 19 ft (block by S. Pippen)
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '6:55.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - R. Strickland misses 2-pt shot from 21 ft
+  - - '6:53.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:38.0'
+    - D. Nowitzki misses 3-pt shot from 27 ft
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - Defensive rebound by D. Davis
+  - - '6:30.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - S. Pippen misses 2-pt shot at rim (block by D. Nowitzki)
+  - - '6:27.0'
+    - Defensive rebound by S. Nash
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:27.0'
+    - Personal foul by R. Strickland
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:18.0'
+    - S. Nash makes 3-pt shot from 24 ft
+    - "+3"
+    - 36-34
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - S. Kemp misses 2-pt shot at rim
+  - - '6:04.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Offensive rebound by S. Kemp
+  - - '5:59.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - S. Kemp misses 2-pt shot at rim (block by C. Booth)
+  - - '5:57.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Offensive rebound by S. Kemp
+  - - '5:53.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Turnover by S. Smith (lost ball)
+  - - '5:53.0'
+    - Dallas full timeout
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - R. Wallace enters the game for S. Kemp
+  - - '5:38.0'
+    - 'Jump ball: R. Strickland vs. S. Nash (S. Smith gains possession)'
+  - - '5:38.0'
+    - Turnover by S. Nash (lost ball; steal by R. Strickland)
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - R. Strickland misses 2-pt shot from 13 ft
+  - - '5:19.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Offensive rebound by R. Strickland
+  - - '5:17.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - R. Strickland misses 2-pt shot from 4 ft
+  - - '5:15.0'
+    - 'Jump ball: R. Strickland vs. J. Howard'
+  - - '5:15.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Offensive rebound by Team
+  - - '5:04.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Personal foul by C. Booth
+  - - '5:04.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - D. Stoudamire enters the game for R. Strickland
+  - - '5:04.0'
+    - S. Bradley enters the game for C. Booth
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - D. Davis misses 2-pt shot from 17 ft
+  - - '4:48.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '4:39.0'
+    - Shooting foul by D. Davis
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '4:39.0'
+    - J. Howard misses free throw 1 of 2
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '4:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - A. Sabonis enters the game for D. Davis
+  - - '4:39.0'
+    - J. Howard makes free throw 2 of 2
+    - "+1"
+    - 37-34
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - D. Stoudamire misses 2-pt shot at rim
+  - - '4:17.0'
+    - Defensive rebound by S. Bradley
+    - ''
+    - 37-34
+    - ''
+    - ''
+  - - '4:16.0'
+    - Turnover by S. Bradley (bad pass; steal by S. Smith)
+    - ''
+    - 37-34
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 37-36
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim (assist by S. Pippen)
+  - - '3:50.0'
+    - M. Finley misses 2-pt shot from 11 ft
+    - ''
+    - 37-36
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 37-36
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '3:43.0'
+    - ''
+    - ''
+    - 37-38
+    - "+2"
+    - S. Pippen makes 2-pt shot from 15 ft (assist by D. Stoudamire)
+  - - '3:20.0'
+    - Personal foul by S. Smith
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '3:20.0'
+    - H. Eisley enters the game for S. Nash
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '3:10.0'
+    - S. Bradley misses 2-pt shot from 16 ft
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '2:58.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - A. Sabonis misses 2-pt shot from 4 ft
+  - - '2:55.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '2:50.0'
+    - D. Nowitzki makes 2-pt shot at rim (assist by J. Howard)
+    - "+2"
+    - 39-38
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - A. Sabonis misses 2-pt shot from 22 ft
+  - - '2:34.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 39-38
+    - ''
+    - ''
+  - - '2:24.0'
+    - J. Howard makes 2-pt shot from 14 ft (assist by H. Eisley)
+    - "+2"
+    - 41-38
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - A. Sabonis misses 2-pt shot at rim
+  - - '2:06.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Offensive rebound by Team
+  - - '2:06.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Portland full timeout
+  - - '1:58.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - Shooting foul by S. Bradley
+  - - '1:58.0'
+    - ''
+    - ''
+    - 41-39
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '1:58.0'
+    - ''
+    - ''
+    - 41-39
+    - ''
+    - B. Wells enters the game for S. Smith
+  - - '1:58.0'
+    - ''
+    - ''
+    - 41-40
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '1:40.0'
+    - J. Howard misses 2-pt shot from 10 ft
+    - ''
+    - 41-40
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 41-40
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '1:33.0'
+    - ''
+    - ''
+    - 41-40
+    - ''
+    - S. Pippen misses 2-pt shot at rim
+  - - '1:30.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 41-40
+    - ''
+    - ''
+  - - '1:27.0'
+    - Turnover by M. Finley (bad pass; steal by D. Stoudamire)
+    - ''
+    - 41-40
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 41-42
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Pippen)
+  - - '1:23.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - Away from play foul by S. Bradley
+  - - '1:23.0'
+    - C. Booth enters the game for S. Bradley
+    - ''
+    - 41-42
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 41-43
+    - "+1"
+    - S. Pippen makes free throw 1 of 1
+  - - '1:10.0'
+    - M. Finley misses 2-pt shot from 5 ft (block by A. Sabonis)
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '1:06.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:59.2'
+    - J. Howard misses 2-pt shot from 12 ft
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:57.0'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Defensive rebound by B. Wells
+  - - '0:50.5'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - R. Wallace misses 2-pt shot from 16 ft
+  - - '0:49.5'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '0:49.5'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - S. Smith enters the game for S. Pippen
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Personal foul by J. Howard
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - R. Wallace misses free throw 1 of 2
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Offensive rebound by Team
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '0:35.8'
+    - S. Nash enters the game for J. Howard
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - S. Augmon enters the game for S. Smith
+  - - '0:35.8'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - R. Wallace misses free throw 2 of 2
+  - - '0:34.6'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:29.2'
+    - S. Nash misses 3-pt shot from 28 ft
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:27.0'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Defensive rebound by S. Augmon
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Portland 20 second timeout
+  - - '0:20.6'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - S. Smith enters the game for S. Augmon
+  - - '0:20.6'
+    - G. Buckner enters the game for S. Nash
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - D. Stoudamire misses 2-pt shot from 12 ft
+  - - '0:02.3'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:00.3'
+    - D. Nowitzki misses 3-pt shot from 42 ft
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - D. Nowitzki makes 2-pt shot from 20 ft (assist by S. Nash)
+    - "+2"
+    - 43-43
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 43-43
+    - ''
+    - A. Sabonis misses 2-pt shot from 22 ft
+  - - '11:22.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 43-43
+    - ''
+    - ''
+  - - '11:14.0'
+    - J. Howard misses 2-pt shot from 11 ft
+    - ''
+    - 43-43
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 43-43
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '11:06.0'
+    - ''
+    - ''
+    - 43-43
+    - ''
+    - Offensive foul by B. Wells
+  - - '11:06.0'
+    - ''
+    - ''
+    - 43-43
+    - ''
+    - Turnover by B. Wells (foul)
+  - - '10:55.0'
+    - S. Nash makes 2-pt shot from 17 ft (assist by S. Bradley)
+    - "+2"
+    - 45-43
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - A. Sabonis misses 2-pt shot from 21 ft
+  - - '10:31.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '10:19.0'
+    - M. Finley misses 2-pt shot at rim (block by A. Sabonis)
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '10:16.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '10:12.0'
+    - S. Bradley misses 2-pt shot from 14 ft
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - Defensive rebound by Team
+  - - '9:59.0'
+    - ''
+    - ''
+    - 45-45
+    - "+2"
+    - D. Stoudamire makes 2-pt shot at rim (assist by S. Pippen)
+  - - '9:31.0'
+    - M. Finley makes 3-pt shot from 25 ft (assist by J. Howard)
+    - "+3"
+    - 48-45
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 48-45
+    - ''
+    - Shooting foul by S. Bradley
+  - - '9:04.0'
+    - ''
+    - ''
+    - 48-46
+    - "+1"
+    - A. Sabonis makes free throw 1 of 2
+  - - '9:04.0'
+    - C. Booth enters the game for S. Bradley
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - A. Sabonis misses free throw 2 of 2
+  - - '9:02.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '8:45.0'
+    - J. Howard makes 2-pt shot from 7 ft (assist by M. Finley)
+    - "+2"
+    - 50-46
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 50-48
+    - "+2"
+    - A. Sabonis makes 2-pt shot from 3 ft (assist by S. Pippen)
+  - - '8:00.0'
+    - M. Finley makes 2-pt shot from 20 ft
+    - "+2"
+    - 52-48
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Personal foul by C. Booth
+  - - '7:45.0'
+    - ''
+    - ''
+    - 52-50
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim (assist by S. Pippen)
+  - - '7:34.0'
+    - Personal foul by S. Pippen
+    - ''
+    - 52-50
+    - ''
+    - ''
+  - - '7:27.0'
+    - Personal foul by B. Wells
+    - ''
+    - 52-50
+    - ''
+    - ''
+  - - '7:17.0'
+    - D. Nowitzki makes 3-pt shot from 23 ft (assist by S. Nash)
+    - "+3"
+    - 55-50
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - Turnover by S. Pippen (lost ball)
+  - - '6:55.0'
+    - S. Nash misses 2-pt shot from 17 ft
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '6:44.0'
+    - Violation by M. Finley (illegal defense)
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 55-50
+    - ''
+    - D. Stoudamire misses 2-pt shot from 11 ft
+  - - '6:35.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:30.0'
+    - M. Finley misses 3-pt shot from 26 ft
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:27.0'
+    - Offensive rebound by J. Howard
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:24.0'
+    - Turnover by S. Nash (bad pass; steal by A. Sabonis)
+    - ''
+    - 55-50
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 55-52
+    - "+2"
+    - B. Wells makes 2-pt shot at rim (assist by S. Pippen)
+  - - '6:00.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 55-52
+    - ''
+    - ''
+  - - '5:58.0'
+    - J. Howard makes 2-pt shot from 11 ft (assist by S. Nash)
+    - "+2"
+    - 57-52
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 57-52
+    - ''
+    - Turnover by B. Wells (bad pass)
+  - - '5:45.0'
+    - Dallas full timeout
+    - ''
+    - 57-52
+    - ''
+    - ''
+  - - '5:45.0'
+    - H. Eisley enters the game for S. Nash
+    - ''
+    - 57-52
+    - ''
+    - ''
+  - - '5:38.0'
+    - J. Howard misses 2-pt shot from 13 ft
+    - ''
+    - 57-52
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 57-52
+    - ''
+    - Defensive rebound by D. Stoudamire
+  - - '5:30.0'
+    - ''
+    - ''
+    - 57-54
+    - "+2"
+    - R. Wallace makes 2-pt shot from 3 ft (assist by S. Pippen)
+  - - '5:10.0'
+    - J. Howard misses 2-pt shot from 16 ft
+    - ''
+    - 57-54
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Defensive rebound by A. Sabonis
+  - - '4:49.0'
+    - ''
+    - ''
+    - 57-54
+    - ''
+    - Shooting foul by C. Booth
+  - - '4:49.0'
+    - ''
+    - ''
+    - 57-55
+    - "+1"
+    - A. Sabonis makes free throw 1 of 2
+  - - '4:49.0'
+    - ''
+    - ''
+    - 57-55
+    - ''
+    - A. Sabonis misses free throw 2 of 2
+  - - '4:49.0'
+    - Defensive rebound by J. Howard
+    - ''
+    - 57-55
+    - ''
+    - ''
+  - - '4:33.0'
+    - J. Howard makes 2-pt shot at rim
+    - "+2"
+    - 59-55
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Personal foul by D. Nowitzki
+  - - '4:12.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Personal foul by H. Eisley
+  - - '4:12.0'
+    - ''
+    - ''
+    - 59-56
+    - "+1"
+    - D. Stoudamire makes free throw 1 of 2
+  - - '4:12.0'
+    - ''
+    - ''
+    - 59-57
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '3:59.0'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '3:48.0'
+    - H. Eisley misses 2-pt shot from 21 ft
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - Defensive rebound by B. Wells
+  - - '3:38.0'
+    - ''
+    - ''
+    - 59-57
+    - ''
+    - B. Wells misses 2-pt shot from 7 ft (block by D. Nowitzki)
+  - - '3:36.0'
+    - Defensive rebound by C. Booth
+    - ''
+    - 59-57
+    - ''
+    - ''
+  - - '3:32.0'
+    - J. Howard makes 2-pt shot at rim (assist by C. Booth)
+    - "+2"
+    - 61-57
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 61-59
+    - "+2"
+    - A. Sabonis makes 2-pt shot from 18 ft (assist by D. Stoudamire)
+  - - '2:56.0'
+    - M. Finley misses 3-pt shot from 27 ft
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:55.0'
+    - Offensive rebound by Team
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:55.0'
+    - Dallas full timeout
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - D. Davis enters the game for A. Sabonis
+  - - '2:47.0'
+    - D. Nowitzki misses 3-pt shot from 26 ft
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - Defensive rebound by Team
+  - - '2:29.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - R. Wallace misses 2-pt shot from 16 ft
+  - - '2:27.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:22.0'
+    - J. Howard misses 2-pt shot at rim
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - Defensive rebound by Team
+  - - '2:22.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - Loose ball foul by D. Nowitzki
+  - - '2:22.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - S. Pippen misses free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 61-59
+    - ''
+    - Offensive rebound by Team
+  - - '2:22.0'
+    - G. Buckner enters the game for D. Nowitzki
+    - ''
+    - 61-59
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 61-60
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '2:01.0'
+    - H. Eisley misses 2-pt shot from 21 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '1:50.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - R. Wallace misses 3-pt shot from 25 ft
+  - - '1:48.0'
+    - Defensive rebound by C. Booth
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '1:41.0'
+    - M. Finley misses 2-pt shot from 18 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Defensive rebound by D. Davis
+  - - '1:23.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - B. Wells misses 2-pt shot at rim (block by C. Booth)
+  - - '1:20.0'
+    - Defensive rebound by H. Eisley
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '1:15.0'
+    - M. Finley misses 3-pt shot from 25 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '1:08.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Turnover by D. Stoudamire (bad pass; steal by J. Howard)
+  - - '0:59.7'
+    - M. Finley makes 3-pt shot from 26 ft
+    - "+3"
+    - 64-60
+    - ''
+    - ''
+  - - '0:41.5'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - S. Pippen misses 2-pt shot from 5 ft
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - S. Pippen misses 2-pt shot at rim
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Offensive rebound by S. Pippen
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Offensive rebound by Team
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Loose ball foul by J. Howard
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-61
+    - "+1"
+    - S. Pippen makes free throw 1 of 2
+  - - '0:39.4'
+    - S. Nash enters the game for H. Eisley
+    - ''
+    - 64-61
+    - ''
+    - ''
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-61
+    - ''
+    - S. Smith enters the game for B. Wells
+  - - '0:39.4'
+    - ''
+    - ''
+    - 64-62
+    - "+1"
+    - S. Pippen makes free throw 2 of 2
+  - - '0:33.1'
+    - S. Nash misses 2-pt shot from 14 ft
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '0:19.7'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - Personal foul by S. Nash
+  - - '0:19.7'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - D. Stoudamire misses free throw 1 of 2
+  - - '0:19.7'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - Offensive rebound by Team
+  - - '0:19.7'
+    - H. Eisley enters the game for J. Howard
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '0:19.7'
+    - D. Nowitzki enters the game for C. Booth
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '0:19.7'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - S. Augmon enters the game for D. Davis
+  - - '0:19.7'
+    - ''
+    - ''
+    - 64-63
+    - "+1"
+    - D. Stoudamire makes free throw 2 of 2
+  - - '0:03.9'
+    - G. Buckner makes 2-pt shot from 8 ft
+    - "+2"
+    - 66-63
+    - ''
+    - ''
+  - - '0:03.9'
+    - Shooting foul by D. Stoudamire
+    - ''
+    - 66-63
+    - ''
+    - ''
+  - - '0:03.9'
+    - ''
+    - ''
+    - 66-63
+    - ''
+    - D. Davis enters the game for S. Augmon
+  - - '0:03.9'
+    - G. Buckner makes free throw 1 of 1
+    - "+1"
+    - 67-63
+    - ''
+    - ''
+  - - '0:00.3'
+    - ''
+    - ''
+    - 67-63
+    - ''
+    - S. Pippen misses 3-pt shot from 44 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 67-63
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 67-65
+    - "+2"
+    - A. Sabonis makes 2-pt shot at rim
+  - - '11:45.0'
+    - ''
+    - ''
+    - 67-65
+    - ''
+    - Shooting foul by C. Booth
+  - - '11:45.0'
+    - S. Bradley enters the game for C. Booth
+    - ''
+    - 67-65
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 67-66
+    - "+1"
+    - A. Sabonis makes free throw 1 of 1
+  - - '11:25.0'
+    - M. Finley makes 2-pt shot from 20 ft
+    - "+2"
+    - 69-66
+    - ''
+    - ''
+  - - '11:08.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Turnover by R. Strickland (bad pass; steal by M. Finley)
+  - - '11:01.0'
+    - Personal foul by S. Smith
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '10:48.0'
+    - S. Nash misses 2-pt shot from 20 ft
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '10:27.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - A. Sabonis misses 2-pt shot from 11 ft
+  - - '10:25.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '10:20.0'
+    - D. Nowitzki makes 3-pt shot from 25 ft (assist by G. Buckner)
+    - "+3"
+    - 72-66
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - D. Davis misses 2-pt shot from 12 ft
+  - - '9:57.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - Offensive rebound by D. Davis
+  - - '9:55.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - Turnover by D. Davis (bad pass; steal by G. Buckner)
+  - - '9:51.0'
+    - D. Nowitzki misses 3-pt shot from 26 ft
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:51.0'
+    - Personal foul by A. Sabonis
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - B. Wells enters the game for S. Pippen
+  - - '9:37.0'
+    - S. Nash misses 2-pt shot from 5 ft (block by A. Sabonis)
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:30.0'
+    - S. Nash misses 3-pt shot from 25 ft
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:28.0'
+    - Offensive rebound by M. Finley
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:25.0'
+    - Personal foul by S. Smith
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - R. Wallace enters the game for A. Sabonis
+  - - '9:13.0'
+    - D. Nowitzki makes 3-pt shot from 25 ft (assist by S. Nash)
+    - "+3"
+    - 75-66
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 75-66
+    - ''
+    - S. Smith misses 3-pt shot from 22 ft
+  - - '8:53.0'
+    - Defensive rebound by G. Buckner
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '8:50.0'
+    - S. Nash makes 2-pt shot at rim (assist by G. Buckner)
+    - "+2"
+    - 77-66
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 77-66
+    - ''
+    - Portland full timeout
+  - - '8:36.0'
+    - ''
+    - ''
+    - 77-66
+    - ''
+    - S. Smith misses 2-pt shot from 13 ft
+  - - '8:34.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 77-66
+    - ''
+    - ''
+  - - '8:17.0'
+    - D. Nowitzki misses 3-pt shot from 27 ft
+    - ''
+    - 77-66
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 77-66
+    - ''
+    - Defensive rebound by S. Smith
+  - - '7:58.0'
+    - ''
+    - ''
+    - 77-66
+    - ''
+    - Shooting foul by G. Buckner
+  - - '7:58.0'
+    - ''
+    - ''
+    - 77-67
+    - "+1"
+    - B. Wells makes free throw 1 of 2
+  - - '7:58.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - S. Augmon enters the game for D. Davis
+  - - '7:58.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - B. Wells misses free throw 2 of 2
+  - - '7:56.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '7:41.0'
+    - M. Finley misses 2-pt shot from 19 ft
+    - ''
+    - 77-67
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - Defensive rebound by R. Wallace
+  - - '7:27.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - R. Wallace misses 2-pt shot from 19 ft
+  - - '7:26.0'
+    - ''
+    - ''
+    - 77-67
+    - ''
+    - Offensive rebound by B. Wells
+  - - '7:24.0'
+    - ''
+    - ''
+    - 77-69
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '6:57.0'
+    - M. Finley makes 2-pt shot from 22 ft (assist by S. Nash)
+    - "+2"
+    - 79-69
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 79-71
+    - "+2"
+    - R. Wallace makes 2-pt shot from 19 ft (assist by R. Strickland)
+  - - '6:13.0'
+    - Dallas 20 second timeout
+    - ''
+    - 79-71
+    - ''
+    - ''
+  - - '6:13.0'
+    - J. Howard enters the game for S. Bradley
+    - ''
+    - 79-71
+    - ''
+    - ''
+  - - '6:10.0'
+    - M. Finley makes 3-pt shot from 31 ft (assist by G. Buckner)
+    - "+3"
+    - 82-71
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 82-71
+    - ''
+    - R. Strickland misses 2-pt shot from 10 ft
+  - - '5:56.0'
+    - Defensive rebound by Team
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '5:56.0'
+    - Official timeout
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 82-71
+    - ''
+    - S. Pippen enters the game for R. Strickland
+  - - '5:43.0'
+    - Turnover by J. Howard (traveling)
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 82-71
+    - ''
+    - R. Wallace misses 2-pt shot from 4 ft
+  - - '5:25.0'
+    - Defensive rebound by M. Finley
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '5:18.0'
+    - Offensive foul by J. Howard
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '5:18.0'
+    - Turnover by J. Howard (foul)
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '4:58.0'
+    - C. Booth enters the game for G. Buckner
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '4:58.0'
+    - 'Jump ball: B. Wells vs. J. Howard (S. Pippen gains possession)'
+  - - '4:51.0'
+    - ''
+    - ''
+    - 82-71
+    - ''
+    - B. Wells misses 2-pt shot at rim
+  - - '4:48.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '4:48.0'
+    - Flagrant foul type 1 by B. Wells
+    - ''
+    - 82-71
+    - ''
+    - ''
+  - - '4:48.0'
+    - D. Nowitzki makes free throw flagrant 2 of 2
+    - "+1"
+    - 83-71
+    - ''
+    - ''
+  - - '4:48.0'
+    - D. Nowitzki makes no shot
+    - "+1"
+    - 84-71
+    - ''
+    - ''
+  - - '4:33.0'
+    - J. Howard makes 2-pt shot from 18 ft (assist by S. Nash)
+    - "+2"
+    - 86-71
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 86-73
+    - "+2"
+    - B. Wells makes 2-pt shot at rim
+  - - '4:13.0'
+    - ''
+    - ''
+    - 86-73
+    - ''
+    - Shooting foul by S. Nash
+  - - '4:13.0'
+    - ''
+    - ''
+    - 86-74
+    - "+1"
+    - B. Wells makes free throw 1 of 1
+  - - '4:13.0'
+    - Turnover by Team (5 second)
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '4:13.0'
+    - Technical foul by Team
+    - ''
+    - 86-74
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 86-75
+    - "+1"
+    - S. Smith makes free throw technical
+  - - '4:10.0'
+    - ''
+    - ''
+    - 86-75
+    - ''
+    - Turnover by B. Wells (bad pass; steal by D. Nowitzki)
+  - - '4:00.0'
+    - Dallas full timeout
+    - ''
+    - 86-75
+    - ''
+    - ''
+  - - '4:00.0'
+    - Turnover by S. Nash (bad pass; steal by B. Wells)
+    - ''
+    - 86-75
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 86-75
+    - ''
+    - B. Wells misses 2-pt shot from 6 ft
+  - - '3:42.0'
+    - ''
+    - ''
+    - 86-75
+    - ''
+    - Offensive rebound by S. Augmon
+  - - '3:37.0'
+    - ''
+    - ''
+    - 86-75
+    - ''
+    - S. Smith misses 3-pt shot from 26 ft
+  - - '3:35.0'
+    - ''
+    - ''
+    - 86-75
+    - ''
+    - Offensive rebound by S. Augmon
+  - - '3:33.0'
+    - ''
+    - ''
+    - 86-77
+    - "+2"
+    - S. Augmon makes 2-pt shot at rim
+  - - '3:13.0'
+    - S. Nash makes 2-pt shot from 9 ft
+    - "+2"
+    - 88-77
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - Shooting foul by D. Nowitzki
+  - - '3:05.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - B. Wells misses free throw 1 of 2
+  - - '3:05.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - Offensive rebound by Team
+  - - '3:05.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - B. Wells misses free throw 2 of 2
+  - - '3:04.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 88-77
+    - ''
+    - ''
+  - - '2:55.0'
+    - Turnover by S. Nash (bad pass; steal by B. Wells)
+    - ''
+    - 88-77
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - Offensive foul by B. Wells
+  - - '2:52.0'
+    - ''
+    - ''
+    - 88-77
+    - ''
+    - Turnover by B. Wells (foul)
+  - - '2:33.0'
+    - J. Howard makes 2-pt shot from 17 ft (assist by M. Finley)
+    - "+2"
+    - 90-77
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 90-77
+    - ''
+    - Portland 20 second timeout
+  - - '2:30.0'
+    - ''
+    - ''
+    - 90-77
+    - ''
+    - D. Stoudamire enters the game for B. Wells
+  - - '2:21.0'
+    - ''
+    - ''
+    - 90-77
+    - ''
+    - Shooting foul by J. Howard
+  - - '2:21.0'
+    - ''
+    - ''
+    - 90-77
+    - ''
+    - S. Pippen misses free throw 1 of 3
+  - - '2:21.0'
+    - ''
+    - ''
+    - 90-77
+    - ''
+    - Offensive rebound by Team
+  - - '2:21.0'
+    - H. Eisley enters the game for C. Booth
+    - ''
+    - 90-77
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 90-78
+    - "+1"
+    - S. Pippen makes free throw 2 of 3
+  - - '2:21.0'
+    - ''
+    - ''
+    - 90-79
+    - "+1"
+    - S. Pippen makes free throw 3 of 3
+  - - '2:05.0'
+    - Personal foul by R. Wallace
+    - ''
+    - 90-79
+    - ''
+    - ''
+  - - '2:05.0'
+    - D. Nowitzki makes free throw 1 of 2
+    - "+1"
+    - 91-79
+    - ''
+    - ''
+  - - '2:05.0'
+    - C. Booth enters the game for S. Nash
+    - ''
+    - 91-79
+    - ''
+    - ''
+  - - '2:05.0'
+    - D. Nowitzki makes free throw 2 of 2
+    - "+1"
+    - 92-79
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 92-79
+    - ''
+    - S. Pippen misses 3-pt shot from 26 ft
+  - - '1:48.0'
+    - ''
+    - ''
+    - 92-79
+    - ''
+    - Offensive rebound by R. Wallace
+  - - '1:47.0'
+    - ''
+    - ''
+    - 92-81
+    - "+2"
+    - R. Wallace makes 2-pt shot from 4 ft
+  - - '1:47.0'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - Violation by Team (delay of game)
+  - - '1:23.0'
+    - M. Finley misses 2-pt shot from 19 ft
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - Defensive rebound by S. Smith
+  - - '1:15.0'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - R. Wallace misses 3-pt shot from 26 ft
+  - - '1:11.0'
+    - Defensive rebound by D. Nowitzki
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:52.7'
+    - Dallas full timeout
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:52.7'
+    - S. Nash enters the game for J. Howard
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:51.1'
+    - C. Booth misses 2-pt shot from 7 ft
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:48.9'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - Defensive rebound by S. Pippen
+  - - '0:44.5'
+    - ''
+    - ''
+    - 92-81
+    - ''
+    - S. Pippen misses 3-pt shot from 26 ft
+  - - '0:42.3'
+    - Defensive rebound by S. Nash
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:41.2'
+    - Personal foul by D. Stoudamire
+    - ''
+    - 92-81
+    - ''
+    - ''
+  - - '0:41.2'
+    - S. Nash makes free throw 1 of 2
+    - "+1"
+    - 93-81
+    - ''
+    - ''
+  - - '0:41.2'
+    - S. Nash makes free throw 2 of 2
+    - "+1"
+    - 94-81
+    - ''
+    - ''
+  - - '0:31.6'
+    - ''
+    - ''
+    - 94-84
+    - "+3"
+    - D. Stoudamire makes 3-pt shot from 27 ft (assist by R. Wallace)
+  - - '0:09.1'
+    - Turnover by H. Eisley (bad pass; steal by D. Stoudamire)
+    - ''
+    - 94-84
+    - ''
+    - ''
+  - - '0:02.7'
+    - ''
+    - ''
+    - 94-84
+    - ''
+    - S. Augmon misses 3-pt shot from 25 ft
+  - - '0:00.5'
+    - Defensive rebound by S. Nash
+    - ''
+    - 94-84
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,211 @@
+---
+- name: Plus-Minus
+  data:
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Evan Eschmeyer (On: +4&#9642;Off: +5&#9642;Net: -1)'
+    - |2-
+
+      -6
+    - 175/-6
+    - 113/
+    - 118/+8
+    - 93/
+    - 237/+2
+    - 85/
+    - 27/0
+    - 148/
+    - 'Stephen Jackson (On: -3&#9642;Off: +12&#9642;Net: -15)'
+    - |2-
+
+      -8
+    - 147/-8
+    - 164/
+    - 19/+2
+    - 168/
+    - 249/+4
+    - 42/-4
+    - 66/
+    - 141/+3
+    - 'Stephon Marbury (On: +10&#9642;Off: -1&#9642;Net: +11)'
+    - |2-
+
+      -8
+    - 116/-8
+    - 65/
+    - 68/+1
+    - 249/+15
+    - 205/+3
+    - 95/
+    - 199/-1
+    - 'Johnny Newman (On: +7&#9642;Off: +2&#9642;Net: +5)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 56/-3
+    - 27/
+    - 166/+16
+    - 250/+4
+    - 249/-5
+    - 'Keith Van Horn (On: +7&#9642;Off: +2&#9642;Net: +5)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 34/-2
+    - 43/
+    - 172/+18
+    - 165/+1
+    - 84/
+    - 250/-5
+    - 'Doug Overton (On: -10&#9642;Off: +19&#9642;Net: -29)'
+    - "\n"
+    - 117/
+    - 132/+3
+    - 74/-3
+    - 386/
+    - 38/+1
+    - 101/-8
+    - 116/
+    - 32/-3
+    - 'Aaron Williams (On: +3&#9642;Off: +6&#9642;Net: -3)'
+    - "\n"
+    - 150/
+    - 99/+3
+    - 146/+5
+    - 274/
+    - 79/+3
+    - 72/-8
+    - 177/
+    - 'Soumaila Samake (On: +12&#9642;Off: -3&#9642;Net: +15)'
+    - "\n"
+    - 396/
+    - 103/+10
+    - 244/
+    - 5/+2
+    - 251/
+    - 'Vladimir Stepania (On: +15&#9642;Off: -6&#9642;Net: +21)'
+    - "\n"
+    - 410/
+    - 89/+9
+    - 358/
+    - 104/+6
+    - 38/
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Othella Harrington (On: -4&#9642;Off: -5&#9642;Net: +1)'
+    - |2-
+
+      +6
+    - 212/+6
+    - 144/
+    - 119/-10
+    - 23/
+    - 165/-1
+    - 46/
+    - 38/-1
+    - 211/+2
+    - 37/
+    - 'Allan Houston (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      +6
+    - 235/+6
+    - 122/
+    - 138/-12
+    - 4/
+    - 250/-4
+    - 249/+5
+    - 'Mark Jackson (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      +6
+    - 175/+6
+    - 181/
+    - 77/-8
+    - 64/
+    - 1/0
+    - 249/-4
+    - 124/
+    - 125/+1
+    - 'Latrell Sprewell (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 105/-3
+    - 42/
+    - 103/-10
+    - 250/-4
+    - 248/+5
+    - 'Kurt Thomas (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - |2-
+
+      +6
+    - 182/+6
+    - 112/
+    - 160/-12
+    - 43/
+    - 98/-3
+    - 72/
+    - 34/-2
+    - 45/
+    - 118/+4
+    - 130/
+    - 'Charlie Ward (On: -7&#9642;Off: -2&#9642;Net: -5)'
+    - "\n"
+    - 181/
+    - 68/-1
+    - 146/-5
+    - 42/
+    - 61/-4
+    - 244/
+    - 5/-2
+    - 249/+5
+    - 'Travis Knight (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - "\n"
+    - 186/
+    - 63/-1
+    - 104/-3
+    - 105/
+    - 39/-2
+    - 99/
+    - 139/+1
+    - 261/
+    - 'Felton Spencer (On: -2&#9642;Off: -7&#9642;Net: +5)'
+    - "\n"
+    - 218/
+    - 32/-1
+    - 39/-1
+    - 210/
+    - 1/0
+    - 498/
+    - 'Lavor Postell (On: -3&#9642;Off: -6&#9642;Net: +3)'
+    - "\n"
+    - 240/
+    - 9/-1
+    - 105/-3
+    - 122/
+    - 19/-2
+    - 470/
+    - 32/+3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

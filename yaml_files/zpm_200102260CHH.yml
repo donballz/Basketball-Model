@@ -1,0 +1,203 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jonathan Bender (On: +1&#9642;Off: -11&#9642;Net: +12)'
+    - |2-
+
+      +1
+    - 174/+1
+    - 828/
+    - 'Reggie Miller (On: -5&#9642;Off: -5&#9642;Net: 0)'
+    - |2-
+
+      +1
+    - 174/+1
+    - 76/
+    - 250/-5
+    - 250/+3
+    - 249/-4
+    - 'Jermaine O''Neal (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 107/
+    - 142/-1
+    - 249/+3
+    - 45/-1
+    - 45/
+    - 160/-4
+    - 'Jalen Rose (On: -6&#9642;Off: -4&#9642;Net: -2)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 108/
+    - 142/-1
+    - 250/+3
+    - 249/-4
+    - 'Zan Tabak (On: -4&#9642;Off: -6&#9642;Net: +2)'
+    - |2-
+
+      +1
+    - 190/+1
+    - 167/
+    - 89/-5
+    - 53/
+    - 55/-1
+    - 244/
+    - 37/+1
+    - 161/
+    - 'Travis Best (On: -10&#9642;Off: 0&#9642;Net: -10)'
+    - "\n"
+    - 177/
+    - 72/-5
+    - 107/-4
+    - 142/
+    - 250/+3
+    - 250/-4
+    - 'Derrick McKey (On: -10&#9642;Off: 0&#9642;Net: -10)'
+    - "\n"
+    - 177/
+    - 72/-5
+    - 107/-4
+    - 27/
+    - 116/-1
+    - 499/
+    - 'Austin Croshere (On: -9&#9642;Off: -1&#9642;Net: -8)'
+    - "\n"
+    - 194/
+    - 56/-5
+    - 127/-4
+    - 623/
+    - 'Sam Perkins (On: -4&#9642;Off: -6&#9642;Net: +2)'
+    - "\n"
+    - 249/
+    - 107/-4
+    - 91/
+    - 50/+4
+    - 151/
+    - 99/0
+    - 163/-4
+    - 86/
+    - 'Jeff Foster (On: +4&#9642;Off: -14&#9642;Net: +18)'
+    - "\n"
+    - 499/
+    - 0/0
+    - 58/
+    - 86/+4
+    - 275/
+    - 80/0
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: +9&#9642;Off: +1&#9642;Net: +8)'
+    - |2-
+
+      -1
+    - 190/-1
+    - 131/
+    - 172/+9
+    - 6/
+    - 129/-3
+    - 120/
+    - 249/+4
+    - 'Elden Campbell (On: +5&#9642;Off: +5&#9642;Net: 0)'
+    - |2-
+
+      -1
+    - 173/-1
+    - 76/
+    - 148/+6
+    - 101/
+    - 103/-4
+    - 146/
+    - 250/+4
+    - 'Baron Davis (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 116/
+    - 133/+3
+    - 185/0
+    - 65/
+    - 249/+4
+    - 'Jamal Mashburn (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 71/
+    - 178/+7
+    - 250/-3
+    - 74/
+    - 175/+4
+    - 'David Wesley (On: +5&#9642;Off: +5&#9642;Net: 0)'
+    - |2-
+
+      -2
+    - 46/-2
+    - 204/
+    - 243/+7
+    - 6/
+    - 103/-4
+    - 146/
+    - 249/+4
+    - 'Eddie Robinson (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 52/
+    - 197/+6
+    - 68/-2
+    - 180/
+    - 1/-2
+    - 107/
+    - 141/+1
+    - 70/0
+    - 179/
+    - 'Jamaal Magloire (On: +5&#9642;Off: +5&#9642;Net: 0)'
+    - "\n"
+    - 177/
+    - 72/+5
+    - 152/
+    - 98/-1
+    - 108/
+    - 142/+1
+    - 248/
+    - 'Otis Thorpe (On: +1&#9642;Off: +9&#9642;Net: -8)'
+    - "\n"
+    - 193/
+    - 56/+5
+    - 68/-2
+    - 180/
+    - 1/-2
+    - 133/
+    - 116/0
+    - 249/
+    - 'Eldridge Recasner (On: -1&#9642;Off: +11&#9642;Net: -12)'
+    - "\n"
+    - 250/
+    - 114/+2
+    - 325/
+    - 61/-3
+    - 249/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

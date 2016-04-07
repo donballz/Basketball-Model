@@ -1,0 +1,216 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Howard Eisley (On: -28&#9642;Off: +14&#9642;Net: -42)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 50/-2
+    - 199/
+    - 104/-3
+    - 60/
+    - 86/-6
+    - 249/-12
+    - 'Michael Finley (On: -8&#9642;Off: -6&#9642;Net: -2)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 249/+8
+    - 199/+1
+    - 50/
+    - 103/-9
+    - 22/
+    - 87/-3
+    - 37/
+    - 'Juwan Howard (On: -18&#9642;Off: +4&#9642;Net: -22)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 46/-2
+    - 132/
+    - 72/+3
+    - 248/-5
+    - 75/
+    - 175/-9
+    - 'Steve Nash (On: -1&#9642;Off: -13&#9642;Net: +12)'
+    - |2-
+
+      -3
+    - 223/-3
+    - 81/
+    - 195/+10
+    - 159/+1
+    - 90/
+    - 121/-9
+    - 128/
+    - 'Dirk Nowitzki (On: -3&#9642;Off: -11&#9642;Net: +8)'
+    - |2-
+
+      +2
+    - 106/+2
+    - 122/
+    - 21/-2
+    - 249/+8
+    - 249/-5
+    - 72/-3
+    - 42/
+    - 98/-3
+    - 36/
+    - 'Shawn Bradley (On: -2&#9642;Off: -12&#9642;Net: +10)'
+    - "\n"
+    - 109/
+    - 113/-5
+    - 77/
+    - 124/+7
+    - 185/
+    - 130/+2
+    - 83/
+    - 35/-6
+    - 139/
+    - 'Vernon Maxwell (On: -4&#9642;Off: -10&#9642;Net: +6)'
+    - "\n"
+    - 228/
+    - 21/-2
+    - 249/+8
+    - 201/
+    - 47/-6
+    - 72/-3
+    - 35/
+    - 44/-1
+    - 98/
+    - 'Eduardo Najera (On: -4&#9642;Off: -10&#9642;Net: +6)'
+    - "\n"
+    - 746/
+    - 3/-4
+    - 218/
+    - 33/0
+    - 'Gary Trent (On: -2&#9642;Off: -12&#9642;Net: +10)'
+    - "\n"
+    - 910/
+    - 92/-2
+    - 'Donnell Harvey (On: 0&#9642;Off: -14&#9642;Net: +14)'
+    - "\n"
+    - 969/
+    - 33/0
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Darrell Armstrong (On: +10&#9642;Off: +4&#9642;Net: +6)'
+    - |2-
+
+      +3
+    - 222/+3
+    - 135/
+    - 140/-4
+    - 221/-2
+    - 27/
+    - 1/+2
+    - 53/
+    - 197/+9
+    - 'Andrew DeClercq (On: 0&#9642;Off: +14&#9642;Net: -14)'
+    - |2-
+
+      -3
+    - 49/-3
+    - 451/
+    - 111/+3
+    - 389/
+    - 'Tracy McGrady (On: +22&#9642;Off: -8&#9642;Net: +30)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 59/0
+    - 67/
+    - 123/0
+    - 250/+5
+    - 249/+12
+    - 'Mike Miller (On: +2&#9642;Off: +12&#9642;Net: -10)'
+    - |2-
+
+      +5
+    - 239/+5
+    - 78/
+    - 182/-8
+    - 246/+3
+    - 254/
+    - 'Bo Outlaw (On: +18&#9642;Off: -4&#9642;Net: +22)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 55/+2
+    - 72/
+    - 123/0
+    - 199/-1
+    - 50/
+    - 249/+12
+    - 'John Amaechi (On: +4&#9642;Off: +10&#9642;Net: -6)'
+    - "\n"
+    - 52/
+    - 129/0
+    - 53/
+    - 16/+2
+    - 50/+2
+    - 698/
+    - 'Michael Doleac (On: -4&#9642;Off: +18&#9642;Net: -22)'
+    - "\n"
+    - 186/
+    - 44/+6
+    - 75/
+    - 67/-10
+    - 627/
+    - 'Cory Alexander (On: +13&#9642;Off: +1&#9642;Net: +12)'
+    - "\n"
+    - 229/
+    - 21/+2
+    - 121/-8
+    - 350/
+    - 28/+7
+    - 249/+12
+    - 'Monty Williams (On: -1&#9642;Off: +15&#9642;Net: -16)'
+    - "\n"
+    - 245/
+    - 4/0
+    - 104/-4
+    - 395/
+    - 72/+3
+    - 178/
+    - 'Pat Garrity (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 307/
+    - 191/-10
+    - 116/
+    - 130/0
+    - 4/
+    - 49/+3
+    - 200/
+    - 'Don Reid (On: +11&#9642;Off: +3&#9642;Net: +8)'
+    - "\n"
+    - 702/
+    - 39/+2
+    - 83/
+    - 176/+9
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

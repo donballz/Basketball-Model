@@ -1,0 +1,224 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +7&#9642;Off: -3&#9642;Net: +10)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 73/-3
+    - 73/
+    - 103/-1
+    - 249/+9
+    - 54/-6
+    - 43/
+    - 152/+2
+    - 'Rick Fox (On: -5&#9642;Off: +9&#9642;Net: -14)'
+    - |2-
+
+      -1
+    - 108/-1
+    - 167/
+    - 224/-9
+    - 224/+7
+    - 51/
+    - 224/-2
+    - 'Lindsey Hunter (On: +14&#9642;Off: -10&#9642;Net: +24)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 77/
+    - 172/-6
+    - 223/+7
+    - 21/
+    - 5/+3
+    - 58/
+    - 191/+4
+    - 'Shaquille O''Neal (On: +14&#9642;Off: -10&#9642;Net: +24)'
+    - |2-
+
+      +7
+    - 219/+7
+    - 107/
+    - 169/-4
+    - 3/
+    - 244/+6
+    - 64/
+    - 154/+5
+    - 36/
+    - 'Samaki Walker (On: -1&#9642;Off: +5&#9642;Net: -6)'
+    - |2-
+
+      0
+    - 164/0
+    - 334/
+    - 1/-2
+    - 223/+7
+    - 26/
+    - 54/-6
+    - 195/
+    - 'Devean George (On: +13&#9642;Off: -9&#9642;Net: +22)'
+    - "\n"
+    - 114/
+    - 135/+7
+    - 22/0
+    - 450/
+    - 24/+2
+    - 21/0
+    - 126/
+    - 47/+5
+    - 23/
+    - 32/-1
+    - 'Robert Horry (On: -8&#9642;Off: +12&#9642;Net: -20)'
+    - "\n"
+    - 164/
+    - 85/+6
+    - 249/-9
+    - 225/
+    - 24/+2
+    - 143/-2
+    - 53/
+    - 53/-5
+    - 'Jelani McCoy (On: -1&#9642;Off: +5&#9642;Net: -6)'
+    - "\n"
+    - 221/
+    - 20/-1
+    - 760/
+    - 'Mitch Richmond (On: -10&#9642;Off: +14&#9642;Net: -24)'
+    - "\n"
+    - 241/
+    - 8/0
+    - 138/-8
+    - 336/
+    - 24/+2
+    - 92/-4
+    - 158/
+    - 'Stanislav Medvedenko (On: -3&#9642;Off: +7&#9642;Net: -10)'
+    - "\n"
+    - 250/
+    - 73/-3
+    - 678/
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Quincy Lewis (On: -4&#9642;Off: 0&#9642;Net: -4)'
+    - |2-
+
+      0
+    - 165/0
+    - 335/
+    - 139/-4
+    - 361/
+    - 'Karl Malone (On: -2&#9642;Off: -2&#9642;Net: 0)'
+    - |2-
+
+      -3
+    - 193/-3
+    - 100/
+    - 207/+8
+    - 250/-9
+    - 249/+2
+    - 'Donyell Marshall (On: -15&#9642;Off: +11&#9642;Net: -26)'
+    - |2-
+
+      -7
+    - 220/-7
+    - 176/
+    - 104/+1
+    - 225/-8
+    - 145/
+    - 128/-1
+    - 'Greg Ostertag (On: -12&#9642;Off: +8&#9642;Net: -20)'
+    - |2-
+
+      0
+    - 164/0
+    - 316/
+    - 15/-2
+    - 3/
+    - 167/-7
+    - 77/
+    - 5/-3
+    - 249/
+    - 'John Stockton (On: +4&#9642;Off: -8&#9642;Net: +12)'
+    - |2-
+
+      +1
+    - 135/+1
+    - 169/
+    - 194/+8
+    - 139/-4
+    - 110/
+    - 156/-1
+    - 94/
+    - 'John Crotty (On: -8&#9642;Off: +4&#9642;Net: -12)'
+    - "\n"
+    - 136/
+    - 113/-7
+    - 50/+1
+    - 340/
+    - 108/-5
+    - 157/
+    - 93/+3
+    - 'John Amaechi (On: -1&#9642;Off: -3&#9642;Net: +2)'
+    - "\n"
+    - 164/
+    - 85/-6
+    - 42/+1
+    - 147/
+    - 35/0
+    - 196/
+    - 72/+1
+    - 5/
+    - 116/+3
+    - 132/
+    - 'John Starks (On: -3&#9642;Off: -1&#9642;Net: -2)'
+    - "\n"
+    - 164/
+    - 85/-6
+    - 184/+9
+    - 206/
+    - 82/-3
+    - 21/
+    - 5/-3
+    - 249/
+    - 'Bryon Russell (On: +9&#9642;Off: -13&#9642;Net: +22)'
+    - "\n"
+    - 192/
+    - 57/-3
+    - 249/+9
+    - 225/
+    - 19/+1
+    - 5/
+    - 250/+2
+    - 'Andrei Kirilenko (On: +12&#9642;Off: -16&#9642;Net: +28)'
+    - "\n"
+    - 220/
+    - 29/+1
+    - 138/+8
+    - 110/
+    - 1/+2
+    - 225/
+    - 24/-1
+    - 249/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +2
+    - 189/+2
+    - 92/
+    - 218/+6
+    - 250/+4
+    - 98/
+    - 151/-3
+    - 'Mike Bibby (On: +8&#9642;Off: +4&#9642;Net: +4)'
+    - |2-
+
+      0
+    - 204/0
+    - 45/
+    - 0/0
+    - 107/
+    - 142/+3
+    - 232/+6
+    - 17/
+    - 249/-1
+    - 'Michael Dickerson (On: +4&#9642;Off: +8&#9642;Net: -4)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 29/+1
+    - 102/
+    - 40/-4
+    - 77/
+    - 113/+7
+    - 215/
+    - 171/-2
+    - 'Grant Long (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +2
+    - 248/+2
+    - 251/
+    - 250/+4
+    - 182/
+    - 68/+3
+    - 'Bryant Reeves (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 161/
+    - 89/+2
+    - 233/+6
+    - 150/
+    - 93/-1
+    - 22/
+    - 'Erick Strickland (On: +10&#9642;Off: +2&#9642;Net: +8)'
+    - "\n"
+    - 192/
+    - 56/0
+    - 106/+6
+    - 69/
+    - 74/+6
+    - 119/
+    - 130/-3
+    - 73/+1
+    - 176/
+    - 'Mahmoud Abdul-Rauf (On: 0&#9642;Off: +12&#9642;Net: -12)'
+    - "\n"
+    - 209/
+    - 39/+2
+    - 102/+4
+    - 9/
+    - 31/-1
+    - 105/
+    - 1/0
+    - 235/
+    - 13/-2
+    - 175/-4
+    - 51/
+    - 22/+1
+    - 'Tony Massenburg (On: +5&#9642;Off: +7&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 155/+5
+    - 330/
+    - 13/-2
+    - 94/+2
+    - 156/
+    - 'Stromile Swift (On: +6&#9642;Off: +6&#9642;Net: 0)'
+    - "\n"
+    - 249/
+    - 131/+5
+    - 17/
+    - 100/+2
+    - 251/
+    - 132/-1
+    - 117/
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Richard Hamilton (On: -9&#9642;Off: -3&#9642;Net: -6)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 106/
+    - 98/-2
+    - 44/
+    - 1/0
+    - 249/-4
+    - 73/-1
+    - 91/
+    - 84/0
+    - 'Juwan Howard (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - |2-
+
+      -2
+    - 189/-2
+    - 131/
+    - 179/-7
+    - 250/-4
+    - 79/
+    - 170/+2
+    - 'Mitch Richmond (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - |2-
+
+      -1
+    - 128/-1
+    - 73/
+    - 48/0
+    - 103/-4
+    - 146/
+    - 164/-7
+    - 84/
+    - 157/+1
+    - 92/
+    - 'Jahidi White (On: -14&#9642;Off: +2&#9642;Net: -16)'
+    - |2-
+
+      -2
+    - 189/-2
+    - 167/
+    - 141/-3
+    - 2/
+    - 85/-9
+    - 414/
+    - 'Chris Whitney (On: -11&#9642;Off: -1&#9642;Net: -10)'
+    - |2-
+
+      -2
+    - 197/-2
+    - 52/
+    - 247/-7
+    - 2/
+    - 249/-4
+    - 79/
+    - 171/+2
+    - 'Tyrone Nesby (On: -2&#9642;Off: -10&#9642;Net: +8)'
+    - "\n"
+    - 135/
+    - 115/-1
+    - 148/-5
+    - 272/
+    - 79/+3
+    - 249/+1
+    - 'Popeye Jones (On: +4&#9642;Off: -16&#9642;Net: +20)'
+    - "\n"
+    - 193/
+    - 55/0
+    - 2/
+    - 67/0
+    - 270/
+    - 161/+5
+    - 73/-1
+    - 175/
+    - 'Michael Smith (On: -3&#9642;Off: -9&#9642;Net: +6)'
+    - "\n"
+    - 193/
+    - 56/0
+    - 103/-4
+    - 146/
+    - 1/0
+    - 249/
+    - 249/+1
+    - 'Felipe Lopez (On: -2&#9642;Off: -10&#9642;Net: +8)'
+    - "\n"
+    - 249/
+    - 0/0
+    - 150/
+    - 100/-2
+    - 500/
+    - 'Gerard King (On: -1&#9642;Off: -11&#9642;Net: +10)'
+    - "\n"
+    - 462/
+    - 39/-1
+    - 500/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

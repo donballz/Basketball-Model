@@ -1,0 +1,2824 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: V. Divac vs. E. Johnson (S. Cassell gains possession)'
+  - - '11:42.0'
+    - G. Robinson makes 2-pt shot from 16 ft (assist by R. Allen)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - C. Webber makes 2-pt shot from 15 ft (assist by D. Christie)
+  - - '11:12.0'
+    - Shooting foul by J. Williams
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:12.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 3-2
+    - ''
+    - ''
+  - - '11:12.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 4-2
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - P. Stojakovic misses 2-pt shot from 14 ft
+  - - '10:59.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:51.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by C. Webber
+  - - '10:36.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '10:35.0'
+    - Defensive rebound by Team
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:11.0'
+    - S. Cassell misses 2-pt shot from 13 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by V. Divac
+  - - '10:04.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - J. Williams misses 3-pt shot from 24 ft
+  - - '10:01.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Offensive rebound by P. Stojakovic
+  - - '9:59.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - D. Christie misses 3-pt shot from 25 ft
+  - - '9:57.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:50.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Defensive rebound by Team
+  - - '9:29.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Turnover by C. Webber (lost ball; steal by S. Cassell)
+  - - '9:23.0'
+    - R. Allen misses 3-pt shot from 26 ft
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:21.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:18.0'
+    - S. Cassell makes 2-pt shot from 17 ft (assist by G. Robinson)
+    - "+2"
+    - 6-2
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 6-2
+    - ''
+    - Shooting foul by E. Johnson
+  - - '9:04.0'
+    - ''
+    - ''
+    - 6-3
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '9:04.0'
+    - ''
+    - ''
+    - 6-4
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '8:48.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - V. Divac misses 2-pt shot from 10 ft
+  - - '8:33.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - D. Christie misses 2-pt shot at rim
+  - - '8:33.0'
+    - ''
+    - ''
+    - 6-4
+    - ''
+    - Offensive rebound by D. Christie
+  - - '8:32.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 6-4
+    - ''
+    - ''
+  - - '8:29.0'
+    - R. Allen makes 2-pt shot from 4 ft (assist by G. Robinson)
+    - "+2"
+    - 8-4
+    - ''
+    - ''
+  - - '8:29.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 8-4
+    - ''
+    - ''
+  - - '8:29.0'
+    - R. Allen makes free throw 1 of 1
+    - "+1"
+    - 9-4
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 9-6
+    - "+2"
+    - C. Webber makes 2-pt shot at rim (assist by V. Divac)
+  - - '7:57.0'
+    - G. Robinson misses 2-pt shot from 22 ft
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by D. Christie
+  - - '7:50.0'
+    - ''
+    - ''
+    - 9-8
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by D. Christie)
+  - - '7:31.0'
+    - R. Allen makes 2-pt shot from 8 ft
+    - "+2"
+    - 11-8
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 11-10
+    - "+2"
+    - J. Williams makes 2-pt shot from 22 ft
+  - - '7:07.0'
+    - G. Robinson misses 2-pt shot from 16 ft
+    - ''
+    - 11-10
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - Defensive rebound by J. Williams
+  - - '7:01.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - J. Williams misses 3-pt shot from 25 ft
+  - - '6:59.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 11-10
+    - ''
+    - ''
+  - - '6:54.0'
+    - S. Cassell makes 2-pt shot from 20 ft
+    - "+2"
+    - 13-10
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 13-12
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by D. Christie)
+  - - '6:35.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Shooting foul by M. Pope
+  - - '6:35.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - P. Stojakovic misses free throw 1 of 1
+  - - '6:35.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '6:19.0'
+    - M. Pope misses 2-pt shot from 20 ft
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Defensive rebound by C. Webber
+  - - '6:14.0'
+    - ''
+    - ''
+    - 13-14
+    - "+2"
+    - D. Christie makes 2-pt shot at rim (assist by J. Williams)
+  - - '6:06.0'
+    - S. Cassell misses 2-pt shot from 11 ft
+    - ''
+    - 13-14
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 13-14
+    - ''
+    - Defensive rebound by V. Divac
+  - - '6:00.0'
+    - ''
+    - ''
+    - 13-16
+    - "+2"
+    - J. Williams makes 2-pt shot at rim
+  - - '5:51.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 16-16
+    - ''
+    - ''
+  - - '5:41.0'
+    - Violation by E. Johnson (illegal defense)
+    - ''
+    - 16-16
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Sacramento full timeout
+  - - '5:33.0'
+    - ''
+    - ''
+    - 16-16
+    - ''
+    - Turnover by P. Stojakovic (bad pass; steal by E. Johnson)
+  - - '5:21.0'
+    - E. Johnson makes 2-pt shot from 7 ft (assist by M. Pope)
+    - "+2"
+    - 18-16
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - C. Webber misses 2-pt shot from 6 ft
+  - - '5:02.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 18-16
+    - ''
+    - ''
+  - - '4:55.0'
+    - S. Cassell makes 2-pt shot from 17 ft
+    - "+2"
+    - 20-16
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - P. Stojakovic misses 2-pt shot at rim (block by G. Robinson)
+  - - '4:37.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - Offensive rebound by Team
+  - - '4:29.0'
+    - ''
+    - ''
+    - 20-16
+    - ''
+    - C. Webber misses 2-pt shot from 19 ft
+  - - '4:27.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 20-16
+    - ''
+    - ''
+  - - '4:21.0'
+    - S. Cassell makes 2-pt shot at rim
+    - "+2"
+    - 22-16
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - J. Williams misses 2-pt shot from 8 ft
+  - - '4:05.0'
+    - ''
+    - ''
+    - 22-18
+    - "+2"
+    - C. Webber makes 2-pt shot at rim
+  - - '4:05.0'
+    - ''
+    - ''
+    - 22-18
+    - ''
+    - Offensive rebound by C. Webber
+  - - '3:59.0'
+    - M. Pope makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 24-18
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 24-18
+    - ''
+    - P. Stojakovic misses 2-pt shot at rim
+  - - '3:40.0'
+    - ''
+    - ''
+    - 24-20
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim
+  - - '3:40.0'
+    - ''
+    - ''
+    - 24-20
+    - ''
+    - Offensive rebound by P. Stojakovic
+  - - '3:25.0'
+    - Turnover by G. Robinson (lost ball; steal by C. Webber)
+    - ''
+    - 24-20
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 24-22
+    - "+2"
+    - D. Christie makes 2-pt shot at rim (assist by J. Williams)
+  - - '2:56.0'
+    - G. Robinson makes 2-pt shot from 14 ft
+    - "+2"
+    - 26-22
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Personal foul by R. Allen
+  - - '2:44.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - Sacramento full timeout
+  - - '2:44.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '2:44.0'
+    - J. Caffey enters the game for G. Robinson
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '2:37.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '2:18.0'
+    - R. Allen misses 2-pt shot from 20 ft
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '2:16.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '2:08.0'
+    - Turnover by S. Cassell (lost ball)
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 26-22
+    - ''
+    - P. Stojakovic misses 3-pt shot from 23 ft
+  - - '1:51.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 26-22
+    - ''
+    - ''
+  - - '1:45.0'
+    - S. Cassell makes 2-pt shot from 22 ft
+    - "+2"
+    - 28-22
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - J. Williams misses 2-pt shot from 11 ft
+  - - '1:29.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - V. Divac misses 2-pt shot at rim
+  - - '1:29.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - Offensive rebound by V. Divac
+  - - '1:28.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 28-22
+    - ''
+    - ''
+  - - '1:17.0'
+    - T. Thomas misses 2-pt shot from 18 ft
+    - ''
+    - 28-22
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - Defensive rebound by Team
+  - - '1:16.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - B. Jackson enters the game for J. Williams
+  - - '1:16.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - S. Pollard enters the game for V. Divac
+  - - '1:16.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - H. Turkoglu enters the game for P. Stojakovic
+  - - '1:16.0'
+    - L. Hunter enters the game for R. Allen
+    - ''
+    - 28-22
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 28-22
+    - ''
+    - Turnover by D. Christie (lost ball; steal by L. Hunter)
+  - - '1:00.0'
+    - Shooting foul by B. Jackson
+    - ''
+    - 28-22
+    - ''
+    - ''
+  - - '1:00.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 29-22
+    - ''
+    - ''
+  - - '1:00.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 30-22
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 30-22
+    - ''
+    - D. Christie misses 2-pt shot from 4 ft
+  - - '0:43.5'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 30-22
+    - ''
+    - ''
+  - - '0:37.9'
+    - J. Caffey misses 2-pt shot at rim
+    - ''
+    - 30-22
+    - ''
+    - ''
+  - - '0:35.9'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 30-22
+    - ''
+    - ''
+  - - '0:35.9'
+    - Turnover by J. Caffey (lost ball; steal by B. Jackson)
+    - ''
+    - 30-22
+    - ''
+    - ''
+  - - '0:35.9'
+    - ''
+    - ''
+    - 30-22
+    - ''
+    - Turnover by B. Jackson (lost ball; steal by J. Caffey)
+  - - '0:28.9'
+    - S. Cassell makes 2-pt shot from 11 ft
+    - "+2"
+    - 32-22
+    - ''
+    - ''
+  - - '0:21.8'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Turnover by C. Webber (lost ball; steal by J. Caffey)
+  - - '0:20.9'
+    - Turnover by J. Caffey (lost ball)
+    - ''
+    - 32-22
+    - ''
+    - ''
+  - - '0:07.4'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Personal foul by L. Hunter
+  - - '0:01.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - D. Christie misses 2-pt shot from 16 ft
+  - - '0:00.8'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - S. Pollard misses 2-pt shot at rim
+  - - '0:00.8'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '0:00.6'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - C. Webber misses 2-pt shot at rim
+  - - '0:00.6'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Offensive rebound by C. Webber
+  - - '0:00.0'
+    - End of 1st quarter
+  - - '0:00.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '0:00.0'
+    - ''
+    - ''
+    - 32-22
+    - ''
+    - S. Pollard misses 2-pt shot at rim
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 32-24
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 17 ft
+  - - '11:31.0'
+    - T. Thomas misses 2-pt shot from 22 ft
+    - ''
+    - 32-24
+    - ''
+    - ''
+  - - '11:29.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 32-24
+    - ''
+    - ''
+  - - '11:17.0'
+    - J. Caffey makes 2-pt shot from 6 ft (assist by L. Hunter)
+    - "+2"
+    - 34-24
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - H. Turkoglu misses 2-pt shot from 8 ft
+  - - '10:57.0'
+    - ''
+    - ''
+    - 34-26
+    - "+2"
+    - S. Pollard makes 2-pt shot at rim
+  - - '10:57.0'
+    - ''
+    - ''
+    - 34-26
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '10:36.0'
+    - J. Caffey makes 2-pt shot from 2 ft
+    - "+2"
+    - 36-26
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - S. Pollard misses 2-pt shot from 7 ft
+  - - '10:22.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '10:15.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Defensive rebound by H. Turkoglu
+  - - '10:01.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - C. Webber misses 2-pt shot from 16 ft
+  - - '9:59.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '9:52.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '9:51.0'
+    - Offensive rebound by L. Hunter
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '9:47.0'
+    - T. Thomas makes 2-pt shot from 17 ft (assist by L. Hunter)
+    - "+2"
+    - 38-26
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 38-28
+    - "+2"
+    - H. Turkoglu makes 2-pt shot from 22 ft (assist by B. Jackson)
+  - - '9:20.0'
+    - J. Caffey makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 40-28
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 40-30
+    - "+2"
+    - C. Webber makes 2-pt shot from 20 ft
+  - - '8:41.0'
+    - Shooting foul by H. Turkoglu
+    - ''
+    - 40-30
+    - ''
+    - ''
+  - - '8:41.0'
+    - Official timeout
+    - ''
+    - 40-30
+    - ''
+    - ''
+  - - '8:41.0'
+    - S. Williams enters the game for E. Johnson
+    - ''
+    - 40-30
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 40-30
+    - ''
+    - V. Divac enters the game for C. Webber
+  - - '8:41.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 41-30
+    - ''
+    - ''
+  - - '8:41.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 42-30
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 42-30
+    - ''
+    - Turnover by V. Divac (lost ball; steal by S. Williams)
+  - - '8:17.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 42-30
+    - ''
+    - Defensive rebound by S. Pollard
+  - - '8:05.0'
+    - ''
+    - ''
+    - 42-30
+    - ''
+    - B. Jackson misses 3-pt shot from 24 ft
+  - - '8:03.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:44.0'
+    - J. Caffey misses 2-pt shot from 6 ft (block by S. Pollard)
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:42.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:39.0'
+    - J. Caffey misses 2-pt shot from 6 ft (block by S. Pollard)
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:38.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:37.0'
+    - J. Caffey misses 2-pt shot from 8 ft
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 42-30
+    - ''
+    - Defensive rebound by V. Divac
+  - - '7:21.0'
+    - ''
+    - ''
+    - 42-30
+    - ''
+    - S. Pollard misses 2-pt shot from 5 ft
+  - - '7:20.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 42-30
+    - ''
+    - ''
+  - - '7:13.0'
+    - S. Cassell makes 2-pt shot from 23 ft
+    - "+2"
+    - 44-30
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 44-30
+    - ''
+    - Loose ball foul by S. Williams
+  - - '7:13.0'
+    - R. Allen enters the game for S. Cassell
+    - ''
+    - 44-30
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 44-30
+    - ''
+    - P. Stojakovic enters the game for D. Christie
+  - - '6:55.0'
+    - ''
+    - ''
+    - 44-32
+    - "+2"
+    - V. Divac makes 2-pt shot from 4 ft
+  - - '6:55.0'
+    - ''
+    - ''
+    - 44-32
+    - ''
+    - Shooting foul by S. Williams
+  - - '6:55.0'
+    - ''
+    - ''
+    - 44-33
+    - "+1"
+    - V. Divac makes free throw 1 of 1
+  - - '6:45.0'
+    - L. Hunter misses 2-pt shot from 22 ft
+    - ''
+    - 44-33
+    - ''
+    - ''
+  - - '6:43.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 44-33
+    - ''
+    - ''
+  - - '6:39.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by S. Williams)
+    - "+3"
+    - 47-33
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 47-33
+    - ''
+    - Personal foul by S. Williams
+  - - '6:29.0'
+    - G. Robinson enters the game for S. Williams
+    - ''
+    - 47-33
+    - ''
+    - ''
+  - - '6:29.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 47-33
+    - ''
+    - ''
+  - - '6:29.0'
+    - Technical foul by S. Williams
+    - ''
+    - 47-33
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 47-34
+    - "+1"
+    - P. Stojakovic makes free throw technical
+  - - '6:22.0'
+    - ''
+    - ''
+    - 47-36
+    - "+2"
+    - S. Pollard makes 2-pt shot at rim (assist by V. Divac)
+  - - '5:55.0'
+    - L. Hunter misses 3-pt shot from 26 ft
+    - ''
+    - 47-36
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 47-36
+    - ''
+    - Defensive rebound by V. Divac
+  - - '5:42.0'
+    - ''
+    - ''
+    - 47-36
+    - ''
+    - Turnover by P. Stojakovic (lost ball; steal by L. Hunter)
+  - - '5:38.0'
+    - R. Allen makes 2-pt shot at rim (assist by L. Hunter)
+    - "+2"
+    - 49-36
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 49-36
+    - ''
+    - P. Stojakovic misses 2-pt shot from 15 ft
+  - - '5:15.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 49-36
+    - ''
+    - ''
+  - - '5:05.0'
+    - J. Caffey makes 2-pt shot from 15 ft (assist by R. Allen)
+    - "+2"
+    - 51-36
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 51-36
+    - ''
+    - Turnover by B. Jackson (lost ball; steal by G. Robinson)
+  - - '4:54.0'
+    - G. Robinson makes 2-pt shot at rim
+    - "+2"
+    - 53-36
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 53-36
+    - ''
+    - Sacramento full timeout
+  - - '4:48.0'
+    - ''
+    - ''
+    - 53-36
+    - ''
+    - C. Webber enters the game for S. Pollard
+  - - '4:36.0'
+    - ''
+    - ''
+    - 53-36
+    - ''
+    - Offensive foul by V. Divac
+  - - '4:36.0'
+    - ''
+    - ''
+    - 53-36
+    - ''
+    - Turnover by V. Divac (foul)
+  - - '4:23.0'
+    - T. Thomas makes 3-pt shot from 26 ft (assist by L. Hunter)
+    - "+3"
+    - 56-36
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 56-38
+    - "+2"
+    - V. Divac makes 2-pt shot from 5 ft
+  - - '4:07.0'
+    - Violation by G. Robinson (def goaltending)
+    - ''
+    - 56-38
+    - ''
+    - ''
+  - - '3:49.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by L. Hunter)
+    - "+3"
+    - 59-38
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - C. Webber misses 2-pt shot from 19 ft
+  - - '3:24.0'
+    - Defensive rebound by Team
+    - ''
+    - 59-38
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - D. Christie enters the game for V. Divac
+  - - '3:24.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - J. Williams enters the game for B. Jackson
+  - - '3:11.0'
+    - G. Robinson makes 2-pt shot from 13 ft (assist by L. Hunter)
+    - "+2"
+    - 61-38
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 61-38
+    - ''
+    - Personal foul by J. Caffey
+  - - '2:54.0'
+    - ''
+    - ''
+    - 61-38
+    - ''
+    - Sacramento full timeout
+  - - '2:54.0'
+    - S. Cassell enters the game for L. Hunter
+    - ''
+    - 61-38
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 61-38
+    - ''
+    - C. Webber misses 2-pt shot from 8 ft
+  - - '2:46.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 61-38
+    - ''
+    - ''
+  - - '2:41.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 61-38
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 61-40
+    - "+2"
+    - C. Webber makes 2-pt shot from 19 ft (assist by J. Williams)
+  - - '2:20.0'
+    - J. Caffey misses 2-pt shot from 5 ft
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 61-40
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '2:15.0'
+    - ''
+    - ''
+    - 61-40
+    - ''
+    - Turnover by P. Stojakovic (bad pass; steal by R. Allen)
+  - - '2:08.0'
+    - Turnover by J. Caffey (lost ball; steal by H. Turkoglu)
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 61-40
+    - ''
+    - H. Turkoglu misses 3-pt shot from 25 ft
+  - - '1:59.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:43.0'
+    - Shooting foul by C. Webber
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:43.0'
+    - J. Caffey misses free throw 1 of 2
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:43.0'
+    - J. Caffey misses free throw 2 of 2
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 61-40
+    - ''
+    - Defensive rebound by C. Webber
+  - - '1:37.0'
+    - ''
+    - ''
+    - 61-40
+    - ''
+    - J. Williams misses 2-pt shot at rim
+  - - '1:36.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 61-40
+    - ''
+    - ''
+  - - '1:24.0'
+    - S. Cassell makes 2-pt shot from 13 ft
+    - "+2"
+    - 63-40
+    - ''
+    - ''
+  - - '1:24.0'
+    - Shooting foul by J. Williams
+    - ''
+    - 63-40
+    - ''
+    - ''
+  - - '1:24.0'
+    - S. Cassell makes free throw 1 of 1
+    - "+1"
+    - 64-40
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 64-40
+    - ''
+    - Shooting foul by G. Robinson
+  - - '1:17.0'
+    - ''
+    - ''
+    - 64-41
+    - "+1"
+    - D. Christie makes free throw 1 of 2
+  - - '1:17.0'
+    - ''
+    - ''
+    - 64-42
+    - "+1"
+    - D. Christie makes free throw 2 of 2
+  - - '1:03.0'
+    - G. Robinson misses 2-pt shot from 12 ft
+    - ''
+    - 64-42
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 64-42
+    - ''
+    - Defensive rebound by H. Turkoglu
+  - - '0:54.9'
+    - ''
+    - ''
+    - 64-44
+    - "+2"
+    - C. Webber makes 2-pt shot from 17 ft (assist by J. Williams)
+  - - '0:41.9'
+    - S. Cassell misses 2-pt shot from 14 ft
+    - ''
+    - 64-44
+    - ''
+    - ''
+  - - '0:41.4'
+    - ''
+    - ''
+    - 64-44
+    - ''
+    - Defensive rebound by D. Christie
+  - - '0:35.9'
+    - ''
+    - ''
+    - 64-44
+    - ''
+    - P. Stojakovic misses 2-pt shot from 17 ft
+  - - '0:34.9'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 64-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - G. Robinson makes 2-pt shot at rim
+    - "+2"
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - Shooting foul by H. Turkoglu
+    - ''
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - L. Hunter enters the game for S. Cassell
+    - ''
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - E. Johnson enters the game for T. Thomas
+    - ''
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - M. Pope enters the game for J. Caffey
+    - ''
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - G. Robinson misses free throw 1 of 1
+    - ''
+    - 66-44
+    - ''
+    - ''
+  - - '0:26.6'
+    - ''
+    - ''
+    - 66-44
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '0:03.8'
+    - ''
+    - ''
+    - 66-46
+    - "+2"
+    - C. Webber makes 2-pt shot from 20 ft
+  - - '0:00.0'
+    - L. Hunter misses 3-pt shot from 31 ft
+    - ''
+    - 66-46
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 66-46
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:51.0'
+    - ''
+    - ''
+    - 66-48
+    - "+2"
+    - C. Webber makes 2-pt shot from 14 ft (assist by J. Williams)
+  - - '11:37.0'
+    - Personal foul by P. Stojakovic
+    - ''
+    - 66-48
+    - ''
+    - ''
+  - - '11:30.0'
+    - G. Robinson misses 2-pt shot from 16 ft
+    - ''
+    - 66-48
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 66-48
+    - ''
+    - Defensive rebound by V. Divac
+  - - '11:21.0'
+    - ''
+    - ''
+    - 66-48
+    - ''
+    - D. Christie misses 2-pt shot at rim
+  - - '11:20.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 66-48
+    - ''
+    - ''
+  - - '11:15.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 68-48
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 68-48
+    - ''
+    - Violation by D. Christie (def goaltending)
+  - - '10:55.0'
+    - ''
+    - ''
+    - 68-48
+    - ''
+    - J. Williams misses 3-pt shot from 23 ft
+  - - '10:53.0'
+    - ''
+    - ''
+    - 68-48
+    - ''
+    - Offensive rebound by D. Christie
+  - - '10:52.0'
+    - ''
+    - ''
+    - 68-50
+    - "+2"
+    - C. Webber makes 2-pt shot from 17 ft (assist by D. Christie)
+  - - '10:42.0'
+    - R. Allen misses 2-pt shot from 18 ft
+    - ''
+    - 68-50
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 68-50
+    - ''
+    - Defensive rebound by J. Williams
+  - - '10:29.0'
+    - ''
+    - ''
+    - 68-50
+    - ''
+    - P. Stojakovic misses 2-pt shot from 4 ft
+  - - '10:27.0'
+    - ''
+    - ''
+    - 68-50
+    - ''
+    - Offensive rebound by V. Divac
+  - - '10:26.0'
+    - ''
+    - ''
+    - 68-52
+    - "+2"
+    - V. Divac makes 2-pt shot at rim
+  - - '10:05.0'
+    - M. Pope misses 3-pt shot from 23 ft
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 68-52
+    - ''
+    - Defensive rebound by C. Webber
+  - - '9:51.0'
+    - ''
+    - ''
+    - 68-52
+    - ''
+    - V. Divac misses 2-pt shot at rim
+  - - '9:49.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '9:40.0'
+    - S. Cassell misses 2-pt shot from 11 ft
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '9:39.0'
+    - Offensive rebound by M. Pope
+    - ''
+    - 68-52
+    - ''
+    - ''
+  - - '9:37.0'
+    - M. Pope makes 2-pt shot from 6 ft
+    - "+2"
+    - 70-52
+    - ''
+    - ''
+  - - '9:21.0'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Personal foul by E. Johnson
+  - - '9:13.0'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - V. Divac misses 2-pt shot from 6 ft
+  - - '9:12.0'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Offensive rebound by D. Christie
+  - - '9:08.0'
+    - ''
+    - ''
+    - 70-52
+    - ''
+    - Shooting foul by E. Johnson
+  - - '9:08.0'
+    - ''
+    - ''
+    - 70-53
+    - "+1"
+    - D. Christie makes free throw 1 of 2
+  - - '9:08.0'
+    - ''
+    - ''
+    - 70-54
+    - "+1"
+    - D. Christie makes free throw 2 of 2
+  - - '8:57.0'
+    - G. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 70-54
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 70-54
+    - ''
+    - Defensive rebound by J. Williams
+  - - '8:49.0'
+    - ''
+    - ''
+    - 70-54
+    - ''
+    - J. Williams misses 2-pt shot from 8 ft (block by E. Johnson)
+  - - '8:48.0'
+    - ''
+    - ''
+    - 70-54
+    - ''
+    - Offensive rebound by D. Christie
+  - - '8:46.0'
+    - ''
+    - ''
+    - 70-56
+    - "+2"
+    - D. Christie makes 2-pt shot at rim
+  - - '8:33.0'
+    - S. Cassell makes 2-pt shot from 17 ft
+    - "+2"
+    - 72-56
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 72-56
+    - ''
+    - J. Williams misses 2-pt shot from 20 ft
+  - - '8:25.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '8:24.0'
+    - Personal foul by V. Divac
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '8:24.0'
+    - L. Hunter enters the game for R. Allen
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '8:10.0'
+    - Shooting foul by P. Stojakovic
+    - ''
+    - 72-56
+    - ''
+    - ''
+  - - '8:10.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 73-56
+    - ''
+    - ''
+  - - '8:10.0'
+    - G. Robinson makes free throw 2 of 2
+    - "+1"
+    - 74-56
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - V. Divac misses 2-pt shot from 3 ft (block by G. Robinson)
+  - - '7:57.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:50.0'
+    - S. Cassell misses 2-pt shot from 16 ft
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:48.0'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:48.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Defensive rebound by C. Webber
+  - - '7:42.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - J. Williams misses 2-pt shot at rim
+  - - '7:41.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:36.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 74-56
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Defensive rebound by D. Christie
+  - - '7:27.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '7:26.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Offensive rebound by Team
+  - - '7:26.0'
+    - 'Jump ball: V. Divac vs. E. Johnson (P. Stojakovic gains possession)'
+  - - '7:20.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - C. Webber misses 2-pt shot from 6 ft
+  - - '7:17.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Offensive rebound by V. Divac
+  - - '7:17.0'
+    - ''
+    - ''
+    - 74-56
+    - ''
+    - Shooting foul by E. Johnson
+  - - '7:17.0'
+    - ''
+    - ''
+    - 74-57
+    - "+1"
+    - V. Divac makes free throw 1 of 2
+  - - '7:17.0'
+    - J. Caffey enters the game for E. Johnson
+    - ''
+    - 74-57
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 74-58
+    - "+1"
+    - V. Divac makes free throw 2 of 2
+  - - '7:06.0'
+    - L. Hunter makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 77-58
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 77-58
+    - ''
+    - P. Stojakovic misses 2-pt shot from 20 ft
+  - - '6:48.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 77-58
+    - ''
+    - ''
+  - - '6:37.0'
+    - S. Cassell misses 2-pt shot from 4 ft
+    - ''
+    - 77-58
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 77-58
+    - ''
+    - Defensive rebound by D. Christie
+  - - '6:26.0'
+    - ''
+    - ''
+    - 77-60
+    - "+2"
+    - V. Divac makes 2-pt shot at rim (assist by D. Christie)
+  - - '6:12.0'
+    - L. Hunter misses 2-pt shot from 20 ft
+    - ''
+    - 77-60
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 77-60
+    - ''
+    - Defensive rebound by D. Christie
+  - - '6:04.0'
+    - ''
+    - ''
+    - 77-62
+    - "+2"
+    - C. Webber makes 2-pt shot from 20 ft (assist by J. Williams)
+  - - '5:35.0'
+    - S. Cassell misses 2-pt shot from 23 ft
+    - ''
+    - 77-62
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 77-62
+    - ''
+    - Defensive rebound by Team
+  - - '5:34.0'
+    - ''
+    - ''
+    - 77-62
+    - ''
+    - Loose ball foul by J. Caffey
+  - - '5:34.0'
+    - ''
+    - ''
+    - 77-62
+    - ''
+    - Sacramento full timeout
+  - - '5:19.0'
+    - ''
+    - ''
+    - 77-64
+    - "+2"
+    - D. Christie makes 2-pt shot from 6 ft
+  - - '5:19.0'
+    - Violation by J. Caffey (def goaltending)
+    - ''
+    - 77-64
+    - ''
+    - ''
+  - - '5:05.0'
+    - Shooting foul by V. Divac
+    - ''
+    - 77-64
+    - ''
+    - ''
+  - - '5:05.0'
+    - Double technical foul by V. Divac and S. Cassell
+    - ''
+    - 77-64
+    - ''
+    - ''
+  - - '5:05.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 78-64
+    - ''
+    - ''
+  - - '5:05.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 79-64
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 79-64
+    - ''
+    - Personal foul by L. Hunter
+  - - '4:54.0'
+    - ''
+    - ''
+    - 79-65
+    - "+1"
+    - D. Christie makes free throw 1 of 2
+  - - '4:54.0'
+    - ''
+    - ''
+    - 79-66
+    - "+1"
+    - D. Christie makes free throw 2 of 2
+  - - '4:37.0'
+    - G. Robinson makes 2-pt shot from 7 ft
+    - "+2"
+    - 81-66
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 81-66
+    - ''
+    - J. Williams misses 3-pt shot from 25 ft
+  - - '4:22.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 81-66
+    - ''
+    - ''
+  - - '4:11.0'
+    - Turnover by S. Cassell (out of bounds)
+    - ''
+    - 81-66
+    - ''
+    - ''
+  - - '4:11.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 81-66
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 81-68
+    - "+2"
+    - V. Divac makes 2-pt shot from 5 ft (assist by J. Williams)
+  - - '3:43.0'
+    - Turnover by T. Thomas (bad pass; steal by V. Divac)
+    - ''
+    - 81-68
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 81-70
+    - "+2"
+    - D. Christie makes 2-pt shot from 14 ft
+  - - '3:29.0'
+    - Milwaukee full timeout
+    - ''
+    - 81-70
+    - ''
+    - ''
+  - - '3:22.0'
+    - J. Caffey makes 2-pt shot from 6 ft
+    - "+2"
+    - 83-70
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '3:00.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 83-70
+    - ''
+    - ''
+  - - '2:47.0'
+    - L. Hunter misses 2-pt shot from 22 ft
+    - ''
+    - 83-70
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '2:41.0'
+    - ''
+    - ''
+    - 83-70
+    - ''
+    - Personal foul by G. Robinson
+  - - '2:41.0'
+    - Delay tech foul by Team
+    - ''
+    - 83-70
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 83-71
+    - "+1"
+    - P. Stojakovic makes free throw technical
+  - - '2:41.0'
+    - ''
+    - ''
+    - 83-72
+    - "+1"
+    - P. Stojakovic makes free throw 1 of 2
+  - - '2:41.0'
+    - ''
+    - ''
+    - 83-73
+    - "+1"
+    - P. Stojakovic makes free throw 2 of 2
+  - - '2:28.0'
+    - T. Thomas misses 2-pt shot from 23 ft
+    - ''
+    - 83-73
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 83-73
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '2:20.0'
+    - ''
+    - ''
+    - 83-73
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '2:17.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 83-73
+    - ''
+    - ''
+  - - '2:00.0'
+    - T. Thomas misses 2-pt shot from 10 ft
+    - ''
+    - 83-73
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 83-73
+    - ''
+    - Defensive rebound by C. Webber
+  - - '1:43.0'
+    - ''
+    - ''
+    - 83-76
+    - "+3"
+    - P. Stojakovic makes 3-pt shot from 22 ft (assist by J. Williams)
+  - - '1:21.0'
+    - J. Caffey misses 2-pt shot from 15 ft
+    - ''
+    - 83-76
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Defensive rebound by D. Christie
+  - - '1:09.0'
+    - ''
+    - ''
+    - 83-76
+    - ''
+    - Personal foul by J. Caffey
+  - - '1:09.0'
+    - ''
+    - ''
+    - 83-77
+    - "+1"
+    - J. Williams makes free throw 1 of 2
+  - - '1:09.0'
+    - ''
+    - ''
+    - 83-77
+    - ''
+    - J. Williams misses free throw 2 of 2
+  - - '1:08.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 83-77
+    - ''
+    - ''
+  - - '0:53.8'
+    - G. Robinson makes 2-pt shot from 17 ft
+    - "+2"
+    - 85-77
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - D. Christie misses 2-pt shot from 19 ft
+  - - '0:34.9'
+    - ''
+    - ''
+    - 85-77
+    - ''
+    - Offensive rebound by V. Divac
+  - - '0:31.4'
+    - ''
+    - ''
+    - 85-80
+    - "+3"
+    - P. Stojakovic makes 3-pt shot from 24 ft (assist by J. Williams)
+  - - '0:19.4'
+    - G. Robinson makes 2-pt shot from 16 ft
+    - "+2"
+    - 87-80
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 87-80
+    - ''
+    - P. Stojakovic misses 3-pt shot from 25 ft
+  - - '0:00.7'
+    - ''
+    - ''
+    - 87-80
+    - ''
+    - Offensive rebound by D. Christie
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:46.0'
+    - T. Thomas misses 2-pt shot from 22 ft
+    - ''
+    - 87-80
+    - ''
+    - ''
+  - - '11:44.0'
+    - ''
+    - ''
+    - 87-80
+    - ''
+    - Defensive rebound by B. Jackson
+  - - '11:36.0'
+    - ''
+    - ''
+    - 87-82
+    - "+2"
+    - P. Stojakovic makes 2-pt shot from 19 ft
+  - - '11:36.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - Away from play foul by G. Robinson
+  - - '11:36.0'
+    - ''
+    - ''
+    - 87-83
+    - "+1"
+    - S. Pollard makes free throw 1 of 1
+  - - '11:17.0'
+    - Turnover by L. Hunter (bad pass; steal by B. Jackson)
+    - ''
+    - 87-83
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 87-85
+    - "+2"
+    - C. Webber makes 2-pt shot from 9 ft (assist by D. Christie)
+  - - '10:44.0'
+    - Turnover by R. Allen (bad pass; steal by B. Jackson)
+    - ''
+    - 87-85
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 87-87
+    - "+2"
+    - C. Webber makes 2-pt shot at rim (assist by B. Jackson)
+  - - '10:37.0'
+    - Milwaukee full timeout
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '10:24.0'
+    - G. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '10:22.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '10:19.0'
+    - Turnover by G. Robinson (lost ball; steal by B. Jackson)
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 87-87
+    - ''
+    - Turnover by B. Jackson (bad pass)
+  - - '9:56.0'
+    - L. Hunter misses 2-pt shot from 23 ft
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 87-87
+    - ''
+    - Defensive rebound by C. Webber
+  - - '9:39.0'
+    - ''
+    - ''
+    - 87-90
+    - "+3"
+    - P. Stojakovic makes 3-pt shot from 23 ft (assist by C. Webber)
+  - - '9:19.0'
+    - J. Caffey makes 2-pt shot from 4 ft (assist by T. Thomas)
+    - "+2"
+    - 89-90
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 89-90
+    - ''
+    - B. Jackson misses 3-pt shot from 24 ft
+  - - '9:02.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 89-90
+    - ''
+    - ''
+  - - '8:55.0'
+    - R. Allen makes 3-pt shot from 25 ft
+    - "+3"
+    - 92-90
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 92-92
+    - "+2"
+    - C. Webber makes 2-pt shot from 17 ft (assist by D. Christie)
+  - - '8:16.0'
+    - G. Robinson misses 2-pt shot from 16 ft (block by D. Christie)
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '8:14.0'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '8:12.0'
+    - Turnover by G. Robinson (lost ball; steal by D. Christie)
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 92-94
+    - "+2"
+    - P. Stojakovic makes 2-pt shot at rim (assist by B. Jackson)
+  - - '7:43.0'
+    - J. Caffey misses 2-pt shot from 12 ft
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 92-94
+    - ''
+    - Defensive rebound by S. Pollard
+  - - '7:27.0'
+    - ''
+    - ''
+    - 92-97
+    - "+3"
+    - D. Christie makes 3-pt shot from 23 ft (assist by C. Webber)
+  - - '7:10.0'
+    - G. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '7:03.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - S. Pollard misses 2-pt shot at rim
+  - - '7:02.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:58.0'
+    - Personal foul by C. Webber
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:58.0'
+    - S. Cassell enters the game for G. Robinson
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:58.0'
+    - D. Ham enters the game for L. Hunter
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:58.0'
+    - R. Allen misses 2-pt shot from 8 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Defensive rebound by Team
+  - - '6:50.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Loose ball foul by D. Ham
+  - - '6:27.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - P. Stojakovic misses 2-pt shot from 8 ft
+  - - '6:26.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:19.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - Defensive rebound by P. Stojakovic
+  - - '6:02.0'
+    - ''
+    - ''
+    - 92-97
+    - ''
+    - C. Webber misses 2-pt shot from 18 ft
+  - - '6:02.0'
+    - Defensive rebound by Team
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:02.0'
+    - Loose ball foul by S. Pollard
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '6:02.0'
+    - E. Johnson enters the game for J. Caffey
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '5:41.0'
+    - R. Allen misses 2-pt shot from 16 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '5:38.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '5:21.0'
+    - D. Ham misses 2-pt shot from 8 ft
+    - ''
+    - 92-97
+    - ''
+    - ''
+  - - '5:19.0'
+    - E. Johnson makes 2-pt shot at rim
+    - "+2"
+    - 94-97
+    - ''
+    - ''
+  - - '5:19.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 94-97
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Sacramento full timeout
+  - - '4:59.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - C. Webber misses 2-pt shot from 6 ft (block by E. Johnson)
+  - - '4:59.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Offensive rebound by Team
+  - - '4:57.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - C. Webber misses 2-pt shot from 19 ft
+  - - '4:56.0'
+    - ''
+    - ''
+    - 94-97
+    - ''
+    - Offensive rebound by S. Pollard
+  - - '4:53.0'
+    - ''
+    - ''
+    - 94-99
+    - "+2"
+    - S. Pollard makes 2-pt shot at rim
+  - - '4:37.0'
+    - R. Allen makes 2-pt shot from 17 ft
+    - "+2"
+    - 96-99
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 96-99
+    - ''
+    - P. Stojakovic misses 2-pt shot from 11 ft
+  - - '4:11.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 96-99
+    - ''
+    - ''
+  - - '4:09.0'
+    - Personal foul by B. Jackson
+    - ''
+    - 96-99
+    - ''
+    - ''
+  - - '4:09.0'
+    - G. Robinson enters the game for T. Thomas
+    - ''
+    - 96-99
+    - ''
+    - ''
+  - - '3:54.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by G. Robinson)
+    - "+3"
+    - 99-99
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 99-99
+    - ''
+    - C. Webber misses 2-pt shot from 2 ft (block by G. Robinson)
+  - - '3:33.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 99-99
+    - ''
+    - ''
+  - - '3:28.0'
+    - R. Allen misses 3-pt shot from 23 ft
+    - ''
+    - 99-99
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 99-99
+    - ''
+    - Defensive rebound by Team
+  - - '3:27.0'
+    - ''
+    - ''
+    - 99-99
+    - ''
+    - Loose ball foul by D. Ham
+  - - '3:13.0'
+    - ''
+    - ''
+    - 99-101
+    - "+2"
+    - C. Webber makes 2-pt shot from 20 ft (assist by B. Jackson)
+  - - '2:54.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 99-101
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 99-101
+    - ''
+    - Defensive rebound by C. Webber
+  - - '2:49.0'
+    - ''
+    - ''
+    - 99-101
+    - ''
+    - P. Stojakovic misses 2-pt shot from 6 ft (block by D. Ham)
+  - - '2:48.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 99-101
+    - ''
+    - ''
+  - - '2:36.0'
+    - Official timeout
+    - ''
+    - 99-101
+    - ''
+    - ''
+  - - '2:36.0'
+    - 'Jump ball: B. Jackson vs. R. Allen (S. Cassell gains possession)'
+  - - '2:25.0'
+    - S. Cassell makes 2-pt shot from 15 ft
+    - "+2"
+    - 101-101
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - C. Webber misses 2-pt shot at rim
+  - - '2:01.0'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - Offensive rebound by Team
+  - - '1:47.0'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - C. Webber misses 2-pt shot from 21 ft
+  - - '1:45.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '1:31.0'
+    - S. Cassell makes 3-pt shot from 23 ft (assist by R. Allen)
+    - "+3"
+    - 104-101
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - Sacramento full timeout
+  - - '1:06.0'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - B. Jackson misses 3-pt shot from 24 ft
+  - - '1:06.0'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - Offensive rebound by Team
+  - - '1:06.0'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:51.9'
+    - G. Robinson misses 2-pt shot from 11 ft
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:50.2'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:49.3'
+    - Personal foul by B. Jackson
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:33.9'
+    - S. Cassell misses 2-pt shot from 17 ft
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:31.5'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - Defensive rebound by C. Webber
+  - - '0:30.1'
+    - ''
+    - ''
+    - 104-101
+    - ''
+    - Turnover by C. Webber (bad pass; steal by G. Robinson)
+  - - '0:26.8'
+    - Personal foul by B. Jackson
+    - ''
+    - 104-101
+    - ''
+    - ''
+  - - '0:26.8'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 105-101
+    - ''
+    - ''
+  - - '0:26.8'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 106-101
+    - ''
+    - ''
+  - - '0:26.8'
+    - ''
+    - ''
+    - 106-101
+    - ''
+    - Sacramento full timeout
+  - - '0:14.9'
+    - ''
+    - ''
+    - 106-101
+    - ''
+    - P. Stojakovic misses 2-pt shot from 23 ft
+  - - '0:13.9'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '0:13.2'
+    - Personal foul by B. Jackson
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '0:13.2'
+    - S. Cassell misses free throw 1 of 2
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '0:13.2'
+    - Offensive rebound by Team
+    - ''
+    - 106-101
+    - ''
+    - ''
+  - - '0:13.2'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 107-101
+    - ''
+    - ''
+  - - '0:08.9'
+    - ''
+    - ''
+    - 107-101
+    - ''
+    - B. Jackson misses 2-pt shot from 7 ft
+  - - '0:06.9'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 107-101
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

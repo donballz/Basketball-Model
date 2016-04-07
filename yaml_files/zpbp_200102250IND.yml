@@ -1,0 +1,2394 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. K. Garnett (Z. Tabak gains possession)'
+  - - '11:40.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. O'Neal misses 2-pt shot from 6 ft
+  - - '11:39.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:24.0'
+    - T. Brandon misses 2-pt shot from 3 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '11:02.0'
+    - ''
+    - ''
+    - 0-3
+    - "+3"
+    - R. Miller makes 3-pt shot from 23 ft (assist by Z. Tabak)
+  - - '10:47.0'
+    - A. Peeler misses 2-pt shot from 20 ft
+    - ''
+    - 0-3
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 0-3
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '10:38.0'
+    - ''
+    - ''
+    - 0-5
+    - "+2"
+    - J. Rose makes 2-pt shot from 15 ft
+  - - '10:28.0'
+    - Personal foul by A. Harrington
+    - ''
+    - 0-5
+    - ''
+    - ''
+  - - '10:16.0'
+    - A. Peeler makes 3-pt shot from 27 ft (assist by T. Brandon)
+    - "+3"
+    - 3-5
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Turnover by J. Rose (lost ball; steal by A. Peeler)
+  - - '9:52.0'
+    - T. Brandon makes 2-pt shot from 1 ft (assist by A. Peeler)
+    - "+2"
+    - 5-5
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 5-7
+    - "+2"
+    - J. Rose makes 2-pt shot from 2 ft (assist by Z. Tabak)
+  - - '9:26.0'
+    - R. Slater misses 2-pt shot from 5 ft
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 5-7
+    - ''
+    - Defensive rebound by A. Harrington
+  - - '9:17.0'
+    - ''
+    - ''
+    - 5-10
+    - "+3"
+    - R. Miller makes 3-pt shot from 25 ft (assist by J. Rose)
+  - - '9:01.0'
+    - K. Garnett misses 2-pt shot from 15 ft
+    - ''
+    - 5-10
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 5-10
+    - ''
+    - Defensive rebound by R. Miller
+  - - '8:48.0'
+    - ''
+    - ''
+    - 5-10
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '8:47.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 5-10
+    - ''
+    - ''
+  - - '8:34.0'
+    - W. Szczerbiak makes 3-pt shot from 25 ft (assist by T. Brandon)
+    - "+3"
+    - 8-10
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - J. O'Neal misses 2-pt shot from 15 ft
+  - - '8:15.0'
+    - Defensive rebound by T. Brandon
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '8:08.0'
+    - T. Brandon misses 2-pt shot from 5 ft (block by Z. Tabak)
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '8:06.0'
+    - Offensive rebound by R. Slater
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '7:50.0'
+    - K. Garnett misses 2-pt shot from 19 ft
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '7:40.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - J. Rose misses 2-pt shot from 1 ft
+  - - '7:38.0'
+    - ''
+    - ''
+    - 8-12
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 2 ft
+  - - '7:38.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '7:26.0'
+    - K. Garnett misses 2-pt shot from 6 ft
+    - ''
+    - 8-12
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '7:05.0'
+    - ''
+    - ''
+    - 8-14
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 1 ft
+  - - '6:56.0'
+    - Minnesota full timeout
+    - ''
+    - 8-14
+    - ''
+    - ''
+  - - '6:50.0'
+    - T. Brandon makes 2-pt shot from 17 ft (assist by K. Garnett)
+    - "+2"
+    - 10-14
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 10-14
+    - ''
+    - R. Miller misses 3-pt shot from 26 ft
+  - - '6:32.0'
+    - ''
+    - ''
+    - 10-14
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '6:28.0'
+    - ''
+    - ''
+    - 10-14
+    - ''
+    - Shooting foul by R. Slater
+  - - '6:28.0'
+    - ''
+    - ''
+    - 10-15
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '6:28.0'
+    - ''
+    - ''
+    - 10-16
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '6:11.0'
+    - K. Garnett misses 2-pt shot from 19 ft
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 10-16
+    - ''
+    - Defensive rebound by J. Rose
+  - - '5:51.0'
+    - ''
+    - ''
+    - 10-18
+    - "+2"
+    - J. Rose makes 2-pt shot from 16 ft (assist by J. O'Neal)
+  - - '5:40.0'
+    - Personal foul by J. O'Neal
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '5:40.0'
+    - R. Nesterovic enters the game for R. Slater
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '5:29.0'
+    - Turnover by K. Garnett (bad pass; steal by R. Miller)
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 10-18
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '5:23.0'
+    - ''
+    - ''
+    - 10-18
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '5:19.0'
+    - ''
+    - ''
+    - 10-20
+    - "+2"
+    - J. Rose makes 2-pt shot from 14 ft (assist by J. O'Neal)
+  - - '5:06.0'
+    - K. Garnett makes 2-pt shot from 6 ft
+    - "+2"
+    - 12-20
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 12-20
+    - ''
+    - Turnover by R. Miller (bad pass; steal by K. Garnett)
+  - - '4:37.0'
+    - W. Szczerbiak makes 2-pt shot from 1 ft (assist by T. Brandon)
+    - "+2"
+    - 14-20
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - R. Miller misses 2-pt shot from 21 ft
+  - - '4:16.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '4:12.0'
+    - T. Brandon misses 2-pt shot from 15 ft
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '4:08.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '4:06.0'
+    - K. Garnett misses 2-pt shot from 2 ft
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '3:56.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - Offensive foul by J. Rose
+  - - '3:56.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '3:56.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - A. Croshere enters the game for J. O'Neal
+  - - '3:40.0'
+    - Turnover by K. Garnett (bad pass; steal by A. Croshere)
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 14-22
+    - "+2"
+    - A. Harrington makes 2-pt shot from 1 ft (assist by J. Rose)
+  - - '3:08.0'
+    - Turnover by A. Peeler (bad pass)
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 14-22
+    - ''
+    - Turnover by Z. Tabak (bad pass; steal by K. Garnett)
+  - - '2:50.0'
+    - Turnover by T. Brandon (lost ball; steal by A. Croshere)
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 14-24
+    - "+2"
+    - R. Miller makes 2-pt shot from 2 ft (assist by A. Croshere)
+  - - '2:36.0'
+    - Minnesota 20 second timeout
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '2:36.0'
+    - Minnesota full timeout
+    - ''
+    - 14-24
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 14-24
+    - ''
+    - T. Best enters the game for J. Rose
+  - - '2:36.0'
+    - ''
+    - ''
+    - 14-24
+    - ''
+    - D. McKey enters the game for A. Harrington
+  - - '2:29.0'
+    - R. Nesterovic makes 2-pt shot from 6 ft (assist by A. Peeler)
+    - "+2"
+    - 16-24
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 16-24
+    - ''
+    - Offensive foul by T. Best
+  - - '2:13.0'
+    - ''
+    - ''
+    - 16-24
+    - ''
+    - Turnover by T. Best (foul)
+  - - '2:03.0'
+    - T. Brandon makes 2-pt shot from 22 ft
+    - "+2"
+    - 18-24
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 18-26
+    - "+2"
+    - A. Croshere makes 2-pt shot from 2 ft
+  - - '1:23.0'
+    - Personal foul by Z. Tabak
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '1:16.0'
+    - T. Brandon misses 2-pt shot from 16 ft
+    - ''
+    - 18-26
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 18-26
+    - ''
+    - Defensive rebound by T. Best
+  - - '1:05.0'
+    - ''
+    - ''
+    - 18-28
+    - "+2"
+    - R. Miller makes 2-pt shot from 19 ft (assist by A. Croshere)
+  - - '1:05.0'
+    - ''
+    - ''
+    - 18-28
+    - ''
+    - Shooting foul by A. Peeler
+  - - '1:05.0'
+    - C. Billups enters the game for A. Peeler
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '1:05.0'
+    - S. Mitchell enters the game for W. Szczerbiak
+    - ''
+    - 18-28
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 18-29
+    - "+1"
+    - R. Miller makes free throw 1 of 1
+  - - '0:58.9'
+    - Technical foul by A. Peeler
+    - ''
+    - 18-29
+    - ''
+    - ''
+  - - '0:58.9'
+    - ''
+    - ''
+    - 18-30
+    - "+1"
+    - R. Miller makes free throw technical
+  - - '0:42.9'
+    - S. Mitchell misses 3-pt shot from 24 ft
+    - ''
+    - 18-30
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 18-30
+    - ''
+    - Defensive rebound by R. Miller
+  - - '0:19.9'
+    - ''
+    - ''
+    - 18-30
+    - ''
+    - Turnover by Z. Tabak (lost ball; steal by K. Garnett)
+  - - '0:02.9'
+    - K. Garnett misses 2-pt shot from 18 ft
+    - ''
+    - 18-30
+    - ''
+    - ''
+  - - '0:00.6'
+    - ''
+    - ''
+    - 18-30
+    - ''
+    - Defensive rebound by D. McKey
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:37.0'
+    - C. Billups makes 2-pt shot from 19 ft (assist by T. Brandon)
+    - "+2"
+    - 20-30
+    - ''
+    - ''
+  - - '11:18.0'
+    - ''
+    - ''
+    - 20-30
+    - ''
+    - A. Croshere misses 2-pt shot from 3 ft (block by R. Nesterovic)
+  - - '11:15.0'
+    - Defensive rebound by S. Mitchell
+    - ''
+    - 20-30
+    - ''
+    - ''
+  - - '11:01.0'
+    - R. Nesterovic misses 2-pt shot from 5 ft
+    - ''
+    - 20-30
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 20-30
+    - ''
+    - Defensive rebound by J. Rose
+  - - '10:48.0'
+    - ''
+    - ''
+    - 20-32
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft (assist by A. Croshere)
+  - - '10:27.0'
+    - C. Billups misses 3-pt shot from 26 ft
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:26.0'
+    - Offensive rebound by R. Nesterovic
+    - ''
+    - 20-32
+    - ''
+    - ''
+  - - '10:19.0'
+    - T. Brandon makes 3-pt shot from 23 ft (assist by S. Mitchell)
+    - "+3"
+    - 23-32
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 23-32
+    - ''
+    - T. Best misses 2-pt shot from 22 ft
+  - - '10:00.0'
+    - ''
+    - ''
+    - 23-32
+    - ''
+    - Offensive rebound by A. Croshere
+  - - '9:56.0'
+    - ''
+    - ''
+    - 23-35
+    - "+3"
+    - S. Perkins makes 3-pt shot from 26 ft (assist by A. Croshere)
+  - - '9:36.0'
+    - T. Brandon misses 2-pt shot from 16 ft
+    - ''
+    - 23-35
+    - ''
+    - ''
+  - - '9:34.0'
+    - Offensive rebound by L. Ellis
+    - ''
+    - 23-35
+    - ''
+    - ''
+  - - '9:33.0'
+    - Shooting foul by J. Rose
+    - ''
+    - 23-35
+    - ''
+    - ''
+  - - '9:33.0'
+    - L. Ellis makes free throw 1 of 2
+    - "+1"
+    - 24-35
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 24-35
+    - ''
+    - J. O'Neal enters the game for A. Croshere
+  - - '9:33.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 25-35
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 25-37
+    - "+2"
+    - T. Best makes 2-pt shot from 18 ft (assist by S. Perkins)
+  - - '8:58.0'
+    - C. Billups makes 2-pt shot from 20 ft
+    - "+2"
+    - 27-37
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 27-40
+    - "+3"
+    - S. Perkins makes 3-pt shot from 26 ft (assist by J. Rose)
+  - - '8:16.0'
+    - L. Ellis makes 2-pt shot from 4 ft (assist by T. Brandon)
+    - "+2"
+    - 29-40
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - J. Rose misses 2-pt shot from 4 ft (block by R. Nesterovic)
+  - - '7:54.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Offensive rebound by J. Rose
+  - - '7:51.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '7:49.0'
+    - ''
+    - ''
+    - 29-40
+    - ''
+    - Offensive rebound by D. McKey
+  - - '7:44.0'
+    - ''
+    - ''
+    - 29-42
+    - "+2"
+    - T. Best makes 2-pt shot from 3 ft (assist by D. McKey)
+  - - '7:30.0'
+    - Personal foul by J. O'Neal
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '7:30.0'
+    - Official timeout
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '7:30.0'
+    - K. Garnett enters the game for T. Brandon
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '7:30.0'
+    - W. Szczerbiak enters the game for R. Nesterovic
+    - ''
+    - 29-42
+    - ''
+    - ''
+  - - '7:21.0'
+    - L. Ellis makes 2-pt shot from 2 ft
+    - "+2"
+    - 31-42
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 31-44
+    - "+2"
+    - J. Rose makes 2-pt shot from 17 ft (assist by D. McKey)
+  - - '6:52.0'
+    - W. Szczerbiak misses 3-pt shot from 25 ft
+    - ''
+    - 31-44
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 31-44
+    - ''
+    - Defensive rebound by T. Best
+  - - '6:32.0'
+    - ''
+    - ''
+    - 31-44
+    - ''
+    - J. O'Neal misses 2-pt shot from 1 ft (block by K. Garnett)
+  - - '6:30.0'
+    - Defensive rebound by S. Mitchell
+    - ''
+    - 31-44
+    - ''
+    - ''
+  - - '6:23.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 31-44
+    - ''
+    - ''
+  - - '6:23.0'
+    - L. Ellis makes free throw 1 of 2
+    - "+1"
+    - 32-44
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 32-44
+    - ''
+    - Z. Tabak enters the game for J. O'Neal
+  - - '6:23.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 33-44
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Z. Tabak misses 2-pt shot from 9 ft (block by K. Garnett)
+  - - '6:02.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '6:01.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Shooting foul by S. Mitchell
+  - - '6:01.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Z. Tabak misses free throw 1 of 2
+  - - '6:01.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - R. Miller enters the game for D. McKey
+  - - '6:01.0'
+    - ''
+    - ''
+    - 33-44
+    - ''
+    - Offensive rebound by Team
+  - - '6:01.0'
+    - ''
+    - ''
+    - 33-45
+    - "+1"
+    - Z. Tabak makes free throw 2 of 2
+  - - '5:42.0'
+    - S. Mitchell misses 2-pt shot from 21 ft
+    - ''
+    - 33-45
+    - ''
+    - ''
+  - - '5:41.0'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 33-45
+    - ''
+    - ''
+  - - '5:39.0'
+    - L. Ellis makes 2-pt shot from 2 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 35-45
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - Shooting foul by W. Szczerbiak
+  - - '5:14.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - Indiana full timeout
+  - - '5:14.0'
+    - ''
+    - ''
+    - 35-46
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '5:14.0'
+    - ''
+    - ''
+    - 35-47
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '5:07.0'
+    - Offensive foul by L. Ellis
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '5:07.0'
+    - Turnover by L. Ellis (foul)
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 35-47
+    - ''
+    - Turnover by R. Miller (lost ball; steal by C. Billups)
+  - - '4:51.0'
+    - Personal foul by T. Best
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '4:51.0'
+    - T. Brandon enters the game for S. Mitchell
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '4:39.0'
+    - Turnover by K. Garnett (traveling)
+    - ''
+    - 35-47
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 35-47
+    - ''
+    - Personal foul by C. Billups
+  - - '4:19.0'
+    - ''
+    - ''
+    - 35-50
+    - "+3"
+    - J. Rose makes 3-pt shot from 24 ft (assist by S. Perkins)
+  - - '4:05.0'
+    - Personal foul by S. Perkins
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:05.0'
+    - L. Ellis misses free throw 1 of 2
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:05.0'
+    - Offensive rebound by Team
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:05.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 36-50
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - Z. Tabak misses 2-pt shot from 6 ft
+  - - '3:44.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - Offensive rebound by S. Perkins
+  - - '3:40.0'
+    - ''
+    - ''
+    - 36-53
+    - "+3"
+    - R. Miller makes 3-pt shot from 30 ft (assist by S. Perkins)
+  - - '3:25.0'
+    - Personal foul by Z. Tabak
+    - ''
+    - 36-53
+    - ''
+    - ''
+  - - '3:25.0'
+    - A. Peeler enters the game for C. Billups
+    - ''
+    - 36-53
+    - ''
+    - ''
+  - - '3:25.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 37-53
+    - ''
+    - ''
+  - - '3:25.0'
+    - K. Garnett makes free throw 2 of 2
+    - "+1"
+    - 38-53
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 38-55
+    - "+2"
+    - T. Best makes 2-pt shot from 21 ft (assist by S. Perkins)
+  - - '2:57.0'
+    - Personal foul by T. Best
+    - ''
+    - 38-55
+    - ''
+    - ''
+  - - '2:57.0'
+    - Minnesota full timeout
+    - ''
+    - 38-55
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 38-55
+    - ''
+    - A. Croshere enters the game for T. Best
+  - - '2:57.0'
+    - T. Brandon makes free throw 1 of 2
+    - "+1"
+    - 39-55
+    - ''
+    - ''
+  - - '2:57.0'
+    - T. Brandon misses free throw 2 of 2
+    - ''
+    - 39-55
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 39-55
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '2:32.0'
+    - ''
+    - ''
+    - 39-57
+    - "+2"
+    - J. Rose makes 2-pt shot from 19 ft (assist by Z. Tabak)
+  - - '2:18.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - Violation by Team (illegal defense)
+  - - '2:13.0'
+    - T. Brandon misses 3-pt shot from 25 ft
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - Defensive rebound by Team
+  - - '2:02.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - Turnover by A. Croshere (lost ball; steal by W. Szczerbiak)
+  - - '1:43.0'
+    - K. Garnett misses 2-pt shot from 15 ft
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '1:40.0'
+    - Offensive rebound by W. Szczerbiak
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '1:37.0'
+    - W. Szczerbiak misses 2-pt shot from 10 ft
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - Defensive rebound by Team
+  - - '1:37.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - Loose ball foul by W. Szczerbiak
+  - - '1:26.0'
+    - ''
+    - ''
+    - 39-57
+    - ''
+    - J. Rose misses 2-pt shot from 12 ft
+  - - '1:24.0'
+    - Defensive rebound by T. Brandon
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '1:11.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 39-57
+    - ''
+    - ''
+  - - '1:11.0'
+    - L. Ellis makes free throw 1 of 2
+    - "+1"
+    - 40-57
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 40-57
+    - ''
+    - J. Foster enters the game for Z. Tabak
+  - - '1:11.0'
+    - L. Ellis makes free throw 2 of 2
+    - "+1"
+    - 41-57
+    - ''
+    - ''
+  - - '0:53.9'
+    - ''
+    - ''
+    - 41-57
+    - ''
+    - Turnover by A. Croshere (bad pass; steal by T. Brandon)
+  - - '0:49.0'
+    - K. Garnett makes 2-pt shot from 3 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 43-57
+    - ''
+    - ''
+  - - '0:47.4'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - Indiana 20 second timeout
+  - - '0:25.1'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:25.1'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - D. McKey enters the game for S. Perkins
+  - - '0:06.9'
+    - W. Szczerbiak misses 2-pt shot from 22 ft
+    - ''
+    - 43-57
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:00.0'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - R. Miller misses 3-pt shot from 41 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 43-57
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - K. Garnett misses 2-pt shot from 4 ft
+    - ''
+    - 43-57
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 43-57
+    - ''
+    - ''
+  - - '11:38.0'
+    - A. Peeler makes 2-pt shot from 18 ft (assist by T. Brandon)
+    - "+2"
+    - 45-57
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 45-59
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 6 ft
+  - - '11:00.0'
+    - R. Slater makes 2-pt shot from 18 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 47-59
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 47-59
+    - ''
+    - A. Harrington misses 2-pt shot from 3 ft (block by K. Garnett)
+  - - '10:35.0'
+    - ''
+    - ''
+    - 47-59
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '10:34.0'
+    - ''
+    - ''
+    - 47-59
+    - ''
+    - A. Harrington misses 2-pt shot from 3 ft
+  - - '10:32.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 47-59
+    - ''
+    - ''
+  - - '10:18.0'
+    - K. Garnett makes 2-pt shot from 16 ft (assist by W. Szczerbiak)
+    - "+2"
+    - 49-59
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 49-59
+    - ''
+    - Indiana 20 second timeout
+  - - '10:14.0'
+    - ''
+    - ''
+    - 49-59
+    - ''
+    - T. Best enters the game for A. Harrington
+  - - '9:56.0'
+    - ''
+    - ''
+    - 49-59
+    - ''
+    - T. Best misses 2-pt shot from 3 ft (block by K. Garnett)
+  - - '9:54.0'
+    - ''
+    - ''
+    - 49-59
+    - ''
+    - Offensive rebound by R. Miller
+  - - '9:49.0'
+    - ''
+    - ''
+    - 49-59
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:37.0'
+    - T. Brandon misses 2-pt shot from 18 ft
+    - ''
+    - 49-59
+    - ''
+    - ''
+  - - '9:36.0'
+    - K. Garnett makes 2-pt shot from 1 ft
+    - "+2"
+    - 51-59
+    - ''
+    - ''
+  - - '9:36.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 51-59
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 51-61
+    - "+2"
+    - J. Rose makes 2-pt shot from 7 ft (assist by T. Best)
+  - - '9:20.0'
+    - ''
+    - ''
+    - 51-61
+    - ''
+    - Shooting foul by W. Szczerbiak
+  - - '9:20.0'
+    - ''
+    - ''
+    - 51-62
+    - "+1"
+    - J. Rose makes free throw 1 of 1
+  - - '9:10.0'
+    - W. Szczerbiak makes 2-pt shot from 19 ft (assist by K. Garnett)
+    - "+2"
+    - 53-62
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 53-62
+    - ''
+    - R. Miller misses 2-pt shot from 7 ft
+  - - '8:52.0'
+    - ''
+    - ''
+    - 53-62
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '8:50.0'
+    - ''
+    - ''
+    - 53-64
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 4 ft
+  - - '8:41.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 53-64
+    - ''
+    - ''
+  - - '8:41.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 54-64
+    - ''
+    - ''
+  - - '8:41.0'
+    - K. Garnett misses free throw 2 of 2
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '8:28.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - J. Rose misses 2-pt shot from 8 ft
+  - - '8:17.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '8:16.0'
+    - ''
+    - ''
+    - 54-66
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 3 ft
+  - - '7:56.0'
+    - A. Peeler misses 3-pt shot from 25 ft
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '7:54.0'
+    - Offensive rebound by R. Slater
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '7:49.0'
+    - W. Szczerbiak makes 2-pt shot from 21 ft (assist by T. Brandon)
+    - "+2"
+    - 56-66
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - T. Best misses 2-pt shot from 20 ft
+  - - '7:29.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '7:24.0'
+    - Personal foul by J. O'Neal
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '7:24.0'
+    - D. Garrett enters the game for R. Slater
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - S. Perkins enters the game for J. O'Neal
+  - - '7:17.0'
+    - K. Garnett makes 2-pt shot from 2 ft (assist by A. Peeler)
+    - "+2"
+    - 58-66
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 58-66
+    - ''
+    - R. Miller misses 2-pt shot from 6 ft
+  - - '6:48.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:43.0'
+    - A. Peeler misses 2-pt shot from 6 ft
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:41.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:41.0'
+    - K. Garnett misses free throw 1 of 2
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by Team
+    - ''
+    - 58-66
+    - ''
+    - ''
+  - - '6:41.0'
+    - K. Garnett makes free throw 2 of 2
+    - "+1"
+    - 59-66
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - Personal foul by D. Garrett
+  - - '6:15.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - J. Rose misses 2-pt shot from 16 ft
+  - - '6:13.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '6:07.0'
+    - Personal foul by J. Rose
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '5:58.0'
+    - Turnover by K. Garnett (lost ball; steal by J. Rose)
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '5:41.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - S. Perkins misses 3-pt shot from 24 ft
+  - - '5:39.0'
+    - Defensive rebound by A. Peeler
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '5:25.0'
+    - D. Garrett misses 2-pt shot from 10 ft
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '5:08.0'
+    - ''
+    - ''
+    - 59-68
+    - "+2"
+    - T. Best makes 2-pt shot from 20 ft
+  - - '4:45.0'
+    - K. Garnett misses 2-pt shot from 17 ft
+    - ''
+    - 59-68
+    - ''
+    - ''
+  - - '4:43.0'
+    - ''
+    - ''
+    - 59-68
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '4:37.0'
+    - ''
+    - ''
+    - 59-68
+    - ''
+    - Turnover by R. Miller (lost ball; steal by A. Peeler)
+  - - '4:33.0'
+    - T. Brandon misses 3-pt shot from 26 ft
+    - ''
+    - 59-68
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 59-68
+    - ''
+    - Defensive rebound by J. Rose
+  - - '4:16.0'
+    - ''
+    - ''
+    - 59-71
+    - "+3"
+    - R. Miller makes 3-pt shot from 24 ft (assist by J. Rose)
+  - - '4:01.0'
+    - Personal foul by R. Miller
+    - ''
+    - 59-71
+    - ''
+    - ''
+  - - '4:01.0'
+    - Minnesota full timeout
+    - ''
+    - 59-71
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 59-71
+    - ''
+    - J. Foster enters the game for Z. Tabak
+  - - '4:01.0'
+    - D. Garrett misses free throw 1 of 2
+    - ''
+    - 59-71
+    - ''
+    - ''
+  - - '4:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 59-71
+    - ''
+    - ''
+  - - '4:01.0'
+    - D. Garrett makes free throw 2 of 2
+    - "+1"
+    - 60-71
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 60-71
+    - ''
+    - Personal foul by A. Peeler
+  - - '3:40.0'
+    - ''
+    - ''
+    - 60-71
+    - ''
+    - T. Best misses 2-pt shot from 21 ft
+  - - '3:38.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 60-71
+    - ''
+    - ''
+  - - '3:32.0'
+    - Shooting foul by T. Best
+    - ''
+    - 60-71
+    - ''
+    - ''
+  - - '3:32.0'
+    - A. Peeler makes free throw 1 of 2
+    - "+1"
+    - 61-71
+    - ''
+    - ''
+  - - '3:32.0'
+    - A. Peeler makes free throw 2 of 2
+    - "+1"
+    - 62-71
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 62-71
+    - ''
+    - Turnover by J. Rose (lost ball; steal by W. Szczerbiak)
+  - - '2:54.0'
+    - A. Peeler makes 3-pt shot from 24 ft (assist by T. Brandon)
+    - "+3"
+    - 65-71
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 65-71
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '2:37.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '2:21.0'
+    - K. Garnett misses 2-pt shot from 19 ft
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 65-71
+    - ''
+    - Defensive rebound by J. Rose
+  - - '2:02.0'
+    - ''
+    - ''
+    - 65-73
+    - "+2"
+    - J. Rose makes 2-pt shot from 12 ft
+  - - '1:54.0'
+    - Minnesota full timeout
+    - ''
+    - 65-73
+    - ''
+    - ''
+  - - '1:54.0'
+    - L. Ellis enters the game for D. Garrett
+    - ''
+    - 65-73
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 65-73
+    - ''
+    - D. McKey enters the game for R. Miller
+  - - '1:54.0'
+    - ''
+    - ''
+    - 65-73
+    - ''
+    - A. Croshere enters the game for S. Perkins
+  - - '1:43.0'
+    - K. Garnett makes 2-pt shot from 1 ft (assist by A. Peeler)
+    - "+2"
+    - 67-73
+    - ''
+    - ''
+  - - '1:43.0'
+    - Shooting foul by J. Foster
+    - ''
+    - 67-73
+    - ''
+    - ''
+  - - '1:43.0'
+    - K. Garnett makes free throw 1 of 1
+    - "+1"
+    - 68-73
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - Turnover by T. Best (lost ball; steal by A. Peeler)
+  - - '1:13.0'
+    - Shooting foul by J. Foster
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '1:13.0'
+    - K. Garnett misses free throw 1 of 2
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '1:13.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '1:13.0'
+    - S. Mitchell enters the game for W. Szczerbiak
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '1:13.0'
+    - K. Garnett misses free throw 2 of 2
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '1:13.0'
+    - Offensive rebound by L. Ellis
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '0:56.9'
+    - T. Brandon makes 2-pt shot from 12 ft (assist by S. Mitchell)
+    - "+2"
+    - 70-73
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 70-73
+    - ''
+    - Personal foul by S. Mitchell
+  - - '0:29.5'
+    - ''
+    - ''
+    - 70-76
+    - "+3"
+    - J. Rose makes 3-pt shot from 26 ft (assist by D. McKey)
+  - - '0:08.9'
+    - T. Brandon misses 2-pt shot from 19 ft
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '0:05.9'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '0:03.9'
+    - K. Garnett misses 2-pt shot from 19 ft
+    - ''
+    - 70-76
+    - ''
+    - ''
+  - - '0:02.7'
+    - ''
+    - ''
+    - 70-76
+    - ''
+    - Defensive rebound by J. Foster
+  - - '0:02.2'
+    - ''
+    - ''
+    - 70-76
+    - ''
+    - Loose ball foul by L. Ellis
+  - - '0:02.2'
+    - ''
+    - ''
+    - 70-76
+    - ''
+    - J. Foster misses free throw 1 of 2
+  - - '0:02.2'
+    - ''
+    - ''
+    - 70-76
+    - ''
+    - Offensive rebound by Team
+  - - '0:02.2'
+    - ''
+    - ''
+    - 70-77
+    - "+1"
+    - J. Foster makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 70-77
+    - ''
+    - Z. Tabak misses 2-pt shot from 1 ft
+  - - '11:43.0'
+    - ''
+    - ''
+    - 70-77
+    - ''
+    - Offensive rebound by Z. Tabak
+  - - '11:42.0'
+    - ''
+    - ''
+    - 70-79
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 3 ft
+  - - '11:26.0'
+    - Shooting foul by T. Best
+    - ''
+    - 70-79
+    - ''
+    - ''
+  - - '11:26.0'
+    - K. Garnett makes free throw 1 of 2
+    - "+1"
+    - 71-79
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 71-79
+    - ''
+    - J. Rose enters the game for T. Best
+  - - '11:26.0'
+    - K. Garnett makes free throw 2 of 2
+    - "+1"
+    - 72-79
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Personal foul by C. Billups
+  - - '10:59.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Turnover by Team (shot clock)
+  - - '10:38.0'
+    - K. Garnett misses 2-pt shot from 2 ft
+    - ''
+    - 72-79
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Defensive rebound by J. Rose
+  - - '10:23.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - Turnover by D. McKey (out of bounds)
+  - - '10:13.0'
+    - T. Brandon makes 2-pt shot from 22 ft
+    - "+2"
+    - 74-79
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 74-82
+    - "+3"
+    - A. Croshere makes 3-pt shot from 24 ft (assist by D. McKey)
+  - - '9:32.0'
+    - K. Garnett makes 2-pt shot from 18 ft (assist by C. Billups)
+    - "+2"
+    - 76-82
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 76-85
+    - "+3"
+    - R. Miller makes 3-pt shot from 24 ft (assist by D. McKey)
+  - - '8:49.0'
+    - S. Mitchell makes 2-pt shot from 4 ft (assist by T. Brandon)
+    - "+2"
+    - 78-85
+    - ''
+    - ''
+  - - '8:35.0'
+    - ''
+    - ''
+    - 78-88
+    - "+3"
+    - A. Croshere makes 3-pt shot from 24 ft (assist by J. Rose)
+  - - '8:26.0'
+    - Minnesota 20 second timeout
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '8:26.0'
+    - Official timeout
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '8:26.0'
+    - W. Szczerbiak enters the game for S. Mitchell
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '8:11.0'
+    - W. Szczerbiak misses 2-pt shot from 20 ft
+    - ''
+    - 78-88
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - Defensive rebound by D. McKey
+  - - '7:48.0'
+    - ''
+    - ''
+    - 78-90
+    - "+2"
+    - J. Rose makes 2-pt shot from 14 ft
+  - - '7:36.0'
+    - C. Billups makes 3-pt shot from 24 ft (assist by L. Ellis)
+    - "+3"
+    - 81-90
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 81-93
+    - "+3"
+    - A. Croshere makes 3-pt shot from 25 ft (assist by D. McKey)
+  - - '6:57.0'
+    - L. Ellis misses 2-pt shot from 3 ft
+    - ''
+    - 81-93
+    - ''
+    - ''
+  - - '6:55.0'
+    - Offensive rebound by K. Garnett
+    - ''
+    - 81-93
+    - ''
+    - ''
+  - - '6:55.0'
+    - Loose ball foul by A. Croshere
+    - ''
+    - 81-93
+    - ''
+    - ''
+  - - '6:55.0'
+    - A. Peeler enters the game for C. Billups
+    - ''
+    - 81-93
+    - ''
+    - ''
+  - - '6:47.0'
+    - T. Brandon misses 2-pt shot from 22 ft
+    - ''
+    - 81-93
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 81-93
+    - ''
+    - Defensive rebound by J. Rose
+  - - '6:29.0'
+    - ''
+    - ''
+    - 81-96
+    - "+3"
+    - R. Miller makes 3-pt shot from 26 ft (assist by D. McKey)
+  - - '6:20.0'
+    - Personal foul by D. McKey
+    - ''
+    - 81-96
+    - ''
+    - ''
+  - - '6:06.0'
+    - L. Ellis misses 2-pt shot from 3 ft
+    - ''
+    - 81-96
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '5:55.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Personal foul by L. Ellis
+  - - '5:55.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Indiana full timeout
+  - - '5:48.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Z. Tabak misses 2-pt shot from 19 ft
+  - - '5:47.0'
+    - Defensive rebound by K. Garnett
+    - ''
+    - 81-96
+    - ''
+    - ''
+  - - '5:38.0'
+    - A. Peeler misses 3-pt shot from 24 ft
+    - ''
+    - 81-96
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Defensive rebound by R. Miller
+  - - '5:16.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Offensive foul by J. Rose
+  - - '5:16.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Turnover by J. Rose (foul)
+  - - '5:02.0'
+    - W. Szczerbiak misses 3-pt shot from 24 ft
+    - ''
+    - 81-96
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Defensive rebound by R. Miller
+  - - '4:38.0'
+    - ''
+    - ''
+    - 81-96
+    - ''
+    - Turnover by Z. Tabak (bad pass)
+  - - '4:32.0'
+    - W. Szczerbiak makes 2-pt shot from 2 ft (assist by T. Brandon)
+    - "+2"
+    - 83-96
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 83-96
+    - ''
+    - Turnover by J. Rose (bad pass)
+  - - '4:11.0'
+    - T. Brandon makes 2-pt shot from 14 ft
+    - "+2"
+    - 85-96
+    - ''
+    - ''
+  - - '4:11.0'
+    - Shooting foul by D. McKey
+    - ''
+    - 85-96
+    - ''
+    - ''
+  - - '4:11.0'
+    - T. Brandon makes free throw 1 of 1
+    - "+1"
+    - 86-96
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 86-98
+    - "+2"
+    - D. McKey makes 2-pt shot from 18 ft (assist by J. Rose)
+  - - '3:36.0'
+    - W. Szczerbiak makes 2-pt shot from 3 ft (assist by T. Brandon)
+    - "+2"
+    - 88-98
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 88-100
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 2 ft (assist by D. McKey)
+  - - '3:15.0'
+    - W. Szczerbiak makes 2-pt shot from 21 ft
+    - "+2"
+    - 90-100
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 90-103
+    - "+3"
+    - R. Miller makes 3-pt shot from 25 ft (assist by D. McKey)
+  - - '2:47.0'
+    - L. Ellis makes 3-pt shot from 24 ft (assist by T. Brandon)
+    - "+3"
+    - 93-103
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Shooting foul by L. Ellis
+  - - '2:36.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Indiana full timeout
+  - - '2:36.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Z. Tabak misses free throw 1 of 2
+  - - '2:36.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Offensive rebound by Team
+  - - '2:36.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Z. Tabak misses free throw 2 of 2
+  - - '2:35.0'
+    - Defensive rebound by W. Szczerbiak
+    - ''
+    - 93-103
+    - ''
+    - ''
+  - - '2:25.0'
+    - W. Szczerbiak makes 2-pt shot from 19 ft
+    - "+2"
+    - 95-103
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - Turnover by Z. Tabak (bad pass; steal by L. Ellis)
+  - - '1:59.0'
+    - W. Szczerbiak misses 2-pt shot from 15 ft
+    - ''
+    - 95-103
+    - ''
+    - ''
+  - - '1:58.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '1:55.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - Indiana full timeout
+  - - '1:55.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - T. Best enters the game for Z. Tabak
+  - - '1:55.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - S. Perkins enters the game for A. Croshere
+  - - '1:41.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - Personal foul by K. Garnett
+  - - '1:29.0'
+    - ''
+    - ''
+    - 95-105
+    - "+2"
+    - T. Best makes 2-pt shot from 11 ft (assist by J. Rose)
+  - - '1:29.0'
+    - ''
+    - ''
+    - 95-105
+    - ''
+    - Shooting foul by T. Brandon
+  - - '1:29.0'
+    - ''
+    - ''
+    - 95-106
+    - "+1"
+    - T. Best makes free throw 1 of 1
+  - - '1:19.0'
+    - K. Garnett makes 2-pt shot from 2 ft (assist by A. Peeler)
+    - "+2"
+    - 97-106
+    - ''
+    - ''
+  - - '0:55.9'
+    - ''
+    - ''
+    - 97-106
+    - ''
+    - T. Best misses 2-pt shot from 18 ft
+  - - '0:54.4'
+    - Defensive rebound by A. Peeler
+    - ''
+    - 97-106
+    - ''
+    - ''
+  - - '0:49.3'
+    - Turnover by L. Ellis (out of bounds)
+    - ''
+    - 97-106
+    - ''
+    - ''
+  - - '0:47.5'
+    - ''
+    - ''
+    - 97-106
+    - ''
+    - Personal foul by W. Szczerbiak
+  - - '0:47.5'
+    - ''
+    - ''
+    - 97-107
+    - "+1"
+    - J. Rose makes free throw 1 of 2
+  - - '0:47.5'
+    - ''
+    - ''
+    - 97-108
+    - "+1"
+    - J. Rose makes free throw 2 of 2
+  - - '0:39.8'
+    - A. Peeler makes 3-pt shot from 25 ft (assist by T. Brandon)
+    - "+3"
+    - 100-108
+    - ''
+    - ''
+  - - '0:37.7'
+    - ''
+    - ''
+    - 100-108
+    - ''
+    - Personal foul by L. Ellis
+  - - '0:37.7'
+    - ''
+    - ''
+    - 100-109
+    - "+1"
+    - S. Perkins makes free throw 1 of 2
+  - - '0:37.7'
+    - ''
+    - ''
+    - 100-110
+    - "+1"
+    - S. Perkins makes free throw 2 of 2
+  - - '0:26.9'
+    - T. Brandon misses 2-pt shot from 5 ft
+    - ''
+    - 100-110
+    - ''
+    - ''
+  - - '0:24.0'
+    - ''
+    - ''
+    - 100-110
+    - ''
+    - Defensive rebound by Team
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,2916 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Blount vs. D. Mutombo (B. Stith gains possession)'
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - P. Pierce makes 2-pt shot from 20 ft (assist by M. Blount)
+  - - '11:31.0'
+    - A. Iverson misses 2-pt shot from 3 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by M. Blount
+  - - '11:15.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - A. Walker makes 2-pt shot from 8 ft
+  - - '10:49.0'
+    - T. Hill misses 2-pt shot from 18 ft
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by A. Walker
+  - - '10:43.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - A. Walker misses 2-pt shot from 6 ft (block by T. Hill)
+  - - '10:43.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Offensive rebound by Team
+  - - '10:40.0'
+    - ''
+    - ''
+    - 0-7
+    - "+3"
+    - P. Pierce makes 3-pt shot from 24 ft (assist by M. Blount)
+  - - '10:18.0'
+    - Turnover by E. Snow (traveling)
+    - ''
+    - 0-7
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 0-7
+    - ''
+    - Turnover by A. Walker (bad pass; steal by A. Iverson)
+  - - '10:13.0'
+    - A. Iverson makes 2-pt shot from 2 ft
+    - "+2"
+    - 2-7
+    - ''
+    - ''
+  - - '10:13.0'
+    - Shooting foul by R. Brown
+    - ''
+    - 2-7
+    - ''
+    - ''
+  - - '10:13.0'
+    - A. Iverson makes free throw 1 of 1
+    - "+1"
+    - 3-7
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 3-9
+    - "+2"
+    - M. Blount makes 2-pt shot from 15 ft (assist by P. Pierce)
+  - - '9:47.0'
+    - G. Lynch misses 2-pt shot from 19 ft (block by P. Pierce)
+    - ''
+    - 3-9
+    - ''
+    - ''
+  - - '9:47.0'
+    - Offensive rebound by Team
+    - ''
+    - 3-9
+    - ''
+    - ''
+  - - '9:45.0'
+    - G. Lynch makes 2-pt shot from 17 ft (assist by E. Snow)
+    - "+2"
+    - 5-9
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 5-9
+    - ''
+    - A. Walker misses 2-pt shot from 18 ft
+  - - '9:19.0'
+    - Defensive rebound by A. Iverson
+    - ''
+    - 5-9
+    - ''
+    - ''
+  - - '9:13.0'
+    - D. Mutombo makes 2-pt shot from 2 ft (assist by E. Snow)
+    - "+2"
+    - 7-9
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - Turnover by A. Walker (bad pass; steal by E. Snow)
+  - - '8:56.0'
+    - A. Iverson misses 2-pt shot from 1 ft
+    - ''
+    - 7-9
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - Defensive rebound by P. Pierce
+  - - '8:47.0'
+    - ''
+    - ''
+    - 7-9
+    - ''
+    - Turnover by A. Walker (bad pass; steal by A. Iverson)
+  - - '8:44.0'
+    - A. Iverson makes 2-pt shot from 1 ft
+    - "+2"
+    - 9-9
+    - ''
+    - ''
+  - - '8:32.0'
+    - ''
+    - ''
+    - 9-9
+    - ''
+    - Offensive foul by M. Blount
+  - - '8:32.0'
+    - ''
+    - ''
+    - 9-9
+    - ''
+    - Turnover by M. Blount (foul)
+  - - '8:20.0'
+    - A. Iverson makes 2-pt shot from 3 ft
+    - "+2"
+    - 11-9
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 11-9
+    - ''
+    - P. Pierce misses 2-pt shot from 16 ft
+  - - '7:58.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 11-9
+    - ''
+    - ''
+  - - '7:54.0'
+    - T. Hill makes 2-pt shot from 2 ft (assist by E. Snow)
+    - "+2"
+    - 13-9
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 13-9
+    - ''
+    - P. Pierce misses 2-pt shot from 3 ft (block by D. Mutombo)
+  - - '7:23.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 13-9
+    - ''
+    - ''
+  - - '7:17.0'
+    - D. Mutombo makes 2-pt shot from 2 ft (assist by A. Iverson)
+    - "+2"
+    - 15-9
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Boston full timeout
+  - - '6:58.0'
+    - ''
+    - ''
+    - 15-12
+    - "+3"
+    - A. Walker makes 3-pt shot from 25 ft (assist by P. Pierce)
+  - - '6:38.0'
+    - A. Iverson misses 2-pt shot from 20 ft
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '6:37.0'
+    - Offensive rebound by T. Hill
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '6:27.0'
+    - Turnover by G. Lynch (bad pass; steal by A. Walker)
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 15-14
+    - "+2"
+    - B. Stith makes 2-pt shot from 2 ft (assist by A. Walker)
+  - - '6:23.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - Shooting foul by A. Iverson
+  - - '6:23.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - B. Stith misses free throw 1 of 1
+  - - '6:22.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '6:08.0'
+    - E. Snow makes 2-pt shot from 19 ft (assist by D. Mutombo)
+    - "+2"
+    - 17-14
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - A. Walker misses 2-pt shot from 4 ft
+  - - '5:47.0'
+    - Defensive rebound by E. Snow
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '5:42.0'
+    - Turnover by E. Snow (bad pass; steal by P. Pierce)
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - A. Walker misses 2-pt shot at rim
+  - - '5:35.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - Offensive rebound by Team
+  - - '5:35.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - M. Palacio enters the game for R. Brown
+  - - '5:35.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - V. Potapenko enters the game for M. Blount
+  - - '5:35.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - E. Williams enters the game for B. Stith
+  - - '5:26.0'
+    - ''
+    - ''
+    - 17-16
+    - "+2"
+    - P. Pierce makes 2-pt shot from 20 ft
+  - - '5:05.0'
+    - E. Snow misses 2-pt shot from 17 ft
+    - ''
+    - 17-16
+    - ''
+    - ''
+  - - '5:02.0'
+    - ''
+    - ''
+    - 17-16
+    - ''
+    - Defensive rebound by E. Williams
+  - - '4:58.0'
+    - ''
+    - ''
+    - 17-16
+    - ''
+    - Turnover by M. Palacio (lost ball; steal by D. Mutombo)
+  - - '4:55.0'
+    - Shooting foul by P. Pierce
+    - ''
+    - 17-16
+    - ''
+    - ''
+  - - '4:55.0'
+    - A. Iverson makes free throw 1 of 2
+    - "+1"
+    - 18-16
+    - ''
+    - ''
+  - - '4:55.0'
+    - A. Iverson makes free throw 2 of 2
+    - "+1"
+    - 19-16
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - P. Pierce misses 2-pt shot from 3 ft (block by D. Mutombo)
+  - - '4:39.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - Offensive rebound by Team
+  - - '4:34.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - V. Potapenko misses 2-pt shot from 6 ft
+  - - '4:32.0'
+    - Defensive rebound by A. Iverson
+    - ''
+    - 19-16
+    - ''
+    - ''
+  - - '4:18.0'
+    - E. Snow makes 2-pt shot from 13 ft
+    - "+2"
+    - 21-16
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - M. Palacio misses 2-pt shot from 3 ft (block by D. Mutombo)
+  - - '4:07.0'
+    - Defensive rebound by A. Iverson
+    - ''
+    - 21-16
+    - ''
+    - ''
+  - - '4:01.0'
+    - G. Lynch makes 2-pt shot from 1 ft (assist by A. Iverson)
+    - "+2"
+    - 23-16
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 23-16
+    - ''
+    - A. Walker misses 3-pt shot from 26 ft
+  - - '3:40.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 23-16
+    - ''
+    - ''
+  - - '3:25.0'
+    - Turnover by G. Lynch (bad pass; steal by V. Potapenko)
+    - ''
+    - 23-16
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 23-18
+    - "+2"
+    - M. Palacio makes 2-pt shot from 3 ft
+  - - '3:22.0'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Shooting foul by A. Iverson
+  - - '3:22.0'
+    - A. McKie enters the game for E. Snow
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 23-19
+    - "+1"
+    - M. Palacio makes free throw 1 of 1
+  - - '3:22.0'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - B. Stith enters the game for P. Pierce
+  - - '3:09.0'
+    - T. Hill misses 2-pt shot from 17 ft
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '3:07.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '3:01.0'
+    - A. Iverson misses 3-pt shot from 24 ft
+    - ''
+    - 23-19
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - Defensive rebound by Team
+  - - '2:59.0'
+    - ''
+    - ''
+    - 23-19
+    - ''
+    - Boston full timeout
+  - - '2:47.0'
+    - ''
+    - ''
+    - 23-21
+    - "+2"
+    - M. Palacio makes 2-pt shot from 10 ft
+  - - '2:28.0'
+    - A. McKie misses 2-pt shot from 20 ft
+    - ''
+    - 23-21
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 23-21
+    - ''
+    - Defensive rebound by B. Stith
+  - - '2:05.0'
+    - ''
+    - ''
+    - 23-21
+    - ''
+    - Turnover by A. Walker (lost ball; steal by G. Lynch)
+  - - '1:52.0'
+    - A. Iverson misses 2-pt shot from 21 ft
+    - ''
+    - 23-21
+    - ''
+    - ''
+  - - '1:50.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 23-21
+    - ''
+    - ''
+  - - '1:50.0'
+    - D. Mutombo makes 2-pt shot from 1 ft
+    - "+2"
+    - 25-21
+    - ''
+    - ''
+  - - '1:50.0'
+    - Shooting foul by V. Potapenko
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '1:50.0'
+    - J. Jones enters the game for T. Hill
+    - ''
+    - 25-21
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 25-21
+    - ''
+    - P. Pierce enters the game for A. Walker
+  - - '1:50.0'
+    - D. Mutombo makes free throw 1 of 1
+    - "+1"
+    - 26-21
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 26-21
+    - ''
+    - P. Pierce misses 3-pt shot from 25 ft
+  - - '1:29.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 26-21
+    - ''
+    - ''
+  - - '1:23.0'
+    - A. Iverson makes 2-pt shot from 18 ft (assist by G. Lynch)
+    - "+2"
+    - 28-21
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - V. Potapenko misses 2-pt shot from 1 ft
+  - - '1:01.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '0:55.9'
+    - J. Jones misses 2-pt shot from 17 ft
+    - ''
+    - 28-21
+    - ''
+    - ''
+  - - '0:54.6'
+    - ''
+    - ''
+    - 28-21
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '0:42.7'
+    - ''
+    - ''
+    - 28-23
+    - "+2"
+    - V. Potapenko makes 2-pt shot from 16 ft (assist by M. Palacio)
+  - - '0:30.9'
+    - G. Lynch misses 2-pt shot from 1 ft
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - Offensive rebound by Team
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - Loose ball foul by P. Pierce
+    - ''
+    - 28-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 29-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - E. Snow enters the game for A. Iverson
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - K. Ollie enters the game for A. McKie
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:29.6'
+    - D. Mutombo misses free throw 2 of 2
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:29.3'
+    - ''
+    - ''
+    - 29-23
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '0:07.9'
+    - ''
+    - ''
+    - 29-23
+    - ''
+    - P. Pierce misses 2-pt shot from 16 ft
+  - - '0:05.9'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:41.0'
+    - Shooting foul by B. Stith
+    - ''
+    - 29-23
+    - ''
+    - ''
+  - - '11:41.0'
+    - A. McKie makes free throw 1 of 2
+    - "+1"
+    - 30-23
+    - ''
+    - ''
+  - - '11:41.0'
+    - A. McKie makes free throw 2 of 2
+    - "+1"
+    - 31-23
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 31-25
+    - "+2"
+    - V. Potapenko makes 2-pt shot from 20 ft (assist by M. Palacio)
+  - - '11:04.0'
+    - Turnover by T. MacCulloch (lost ball; steal by V. Potapenko)
+    - ''
+    - 31-25
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 31-27
+    - "+2"
+    - B. Stith makes 2-pt shot from 20 ft
+  - - '10:31.0'
+    - Offensive foul by A. McKie
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '10:31.0'
+    - Turnover by A. McKie (foul)
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. Iverson enters the game for E. Snow
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '10:19.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Shooting foul by J. Jones
+  - - '10:19.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - E. Williams misses free throw 1 of 2
+  - - '10:19.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Offensive rebound by Team
+  - - '10:19.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - E. Williams misses free throw 2 of 2
+  - - '10:18.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:56.0'
+    - A. McKie misses 2-pt shot from 9 ft
+    - ''
+    - 31-27
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 31-27
+    - ''
+    - Defensive rebound by A. Walker
+  - - '9:45.0'
+    - ''
+    - ''
+    - 31-29
+    - "+2"
+    - V. Potapenko makes 2-pt shot from 3 ft (assist by A. Walker)
+  - - '9:31.0'
+    - A. Iverson misses 2-pt shot from 18 ft
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '9:24.0'
+    - ''
+    - ''
+    - 31-32
+    - "+3"
+    - B. Stith makes 3-pt shot from 24 ft (assist by M. Palacio)
+  - - '9:00.0'
+    - T. MacCulloch misses 2-pt shot from 6 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '8:55.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Turnover by V. Potapenko (bad pass; steal by A. Iverson)
+  - - '8:43.0'
+    - A. McKie misses 2-pt shot from 18 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Defensive rebound by M. Palacio
+  - - '8:29.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - V. Potapenko misses 2-pt shot from 19 ft
+  - - '8:28.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:16.0'
+    - J. Jones misses 2-pt shot from 19 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:15.0'
+    - Offensive rebound by A. Iverson
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:06.0'
+    - T. Hill misses 2-pt shot from 6 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:04.0'
+    - Offensive rebound by T. MacCulloch
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:03.0'
+    - T. MacCulloch misses 2-pt shot from 4 ft
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '7:55.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Turnover by M. Palacio (bad pass; steal by J. Jones)
+  - - '7:46.0'
+    - Offensive foul by T. Hill
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:46.0'
+    - Turnover by T. Hill (foul)
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - Official timeout
+  - - '7:46.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - M. Blount enters the game for B. Stith
+  - - '7:46.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - P. Pierce enters the game for V. Potapenko
+  - - '7:46.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - A. Griffin enters the game for E. Williams
+  - - '7:34.0'
+    - ''
+    - ''
+    - 31-32
+    - ''
+    - A. Griffin misses 3-pt shot from 23 ft
+  - - '7:32.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:25.0'
+    - Shooting foul by M. Blount
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:25.0'
+    - D. Mutombo enters the game for T. MacCulloch
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:25.0'
+    - E. Snow enters the game for A. McKie
+    - ''
+    - 31-32
+    - ''
+    - ''
+  - - '7:25.0'
+    - T. Hill makes free throw 1 of 2
+    - "+1"
+    - 32-32
+    - ''
+    - ''
+  - - '7:25.0'
+    - T. Hill makes free throw 2 of 2
+    - "+1"
+    - 33-32
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 33-32
+    - ''
+    - P. Pierce misses 2-pt shot from 21 ft
+  - - '7:00.0'
+    - ''
+    - ''
+    - 33-32
+    - ''
+    - Offensive rebound by A. Walker
+  - - '6:59.0'
+    - ''
+    - ''
+    - 33-32
+    - ''
+    - Shooting foul by J. Jones
+  - - '6:59.0'
+    - G. Lynch enters the game for T. Hill
+    - ''
+    - 33-32
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 33-32
+    - ''
+    - R. Brown enters the game for M. Palacio
+  - - '6:59.0'
+    - ''
+    - ''
+    - 33-33
+    - "+1"
+    - A. Walker makes free throw 1 of 2
+  - - '6:59.0'
+    - R. Buford enters the game for J. Jones
+    - ''
+    - 33-33
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 33-33
+    - ''
+    - E. Williams enters the game for A. Griffin
+  - - '6:59.0'
+    - ''
+    - ''
+    - 33-34
+    - "+1"
+    - A. Walker makes free throw 2 of 2
+  - - '6:46.0'
+    - Offensive foul by A. Iverson
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:46.0'
+    - Turnover by A. Iverson (foul)
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:46.0'
+    - A. McKie enters the game for A. Iverson
+    - ''
+    - 33-34
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - P. Pierce misses 2-pt shot from 21 ft
+  - - '6:29.0'
+    - ''
+    - ''
+    - 33-34
+    - ''
+    - Offensive rebound by A. Walker
+  - - '6:27.0'
+    - ''
+    - ''
+    - 33-36
+    - "+2"
+    - A. Walker makes 2-pt shot from 10 ft
+  - - '6:13.0'
+    - R. Buford misses 2-pt shot from 18 ft
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - Defensive rebound by R. Brown
+  - - '6:04.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - P. Pierce misses 2-pt shot from 11 ft
+  - - '6:03.0'
+    - Defensive rebound by Team
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '6:03.0'
+    - Loose ball foul by M. Blount
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '6:03.0'
+    - Philadelphia full timeout
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 33-36
+    - ''
+    - V. Potapenko enters the game for M. Blount
+  - - '5:50.0'
+    - D. Mutombo misses 2-pt shot from 2 ft
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '5:49.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 33-36
+    - ''
+    - ''
+  - - '5:47.0'
+    - D. Mutombo makes 2-pt shot from 3 ft
+    - "+2"
+    - 35-36
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Personal foul by R. Buford
+  - - '5:28.0'
+    - ''
+    - ''
+    - 35-36
+    - ''
+    - Turnover by E. Williams (bad pass)
+  - - '5:17.0'
+    - Turnover by D. Mutombo (bad pass; steal by P. Pierce)
+    - ''
+    - 35-36
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 35-38
+    - "+2"
+    - P. Pierce makes 2-pt shot from 3 ft
+  - - '4:51.0'
+    - Turnover by D. Mutombo (traveling)
+    - ''
+    - 35-38
+    - ''
+    - ''
+  - - '4:41.0'
+    - ''
+    - ''
+    - 35-40
+    - "+2"
+    - A. Walker makes 2-pt shot from 9 ft
+  - - '4:24.0'
+    - G. Lynch makes 2-pt shot from 15 ft (assist by E. Snow)
+    - "+2"
+    - 37-40
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 37-40
+    - ''
+    - A. Walker misses 3-pt shot from 24 ft
+  - - '3:58.0'
+    - Defensive rebound by R. Buford
+    - ''
+    - 37-40
+    - ''
+    - ''
+  - - '3:54.0'
+    - Personal foul by V. Potapenko
+    - ''
+    - 37-40
+    - ''
+    - ''
+  - - '3:45.0'
+    - R. Buford makes 2-pt shot from 18 ft (assist by E. Snow)
+    - "+2"
+    - 39-40
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 39-40
+    - ''
+    - V. Potapenko misses 2-pt shot from 14 ft
+  - - '3:26.0'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 39-40
+    - ''
+    - ''
+  - - '3:22.0'
+    - A. McKie makes 2-pt shot from 2 ft (assist by G. Lynch)
+    - "+2"
+    - 41-40
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 41-40
+    - ''
+    - Boston full timeout
+  - - '3:15.0'
+    - ''
+    - ''
+    - 41-40
+    - ''
+    - B. Stith enters the game for P. Pierce
+  - - '2:55.0'
+    - ''
+    - ''
+    - 41-40
+    - ''
+    - E. Williams misses 2-pt shot from 11 ft
+  - - '2:53.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 41-40
+    - ''
+    - ''
+  - - '2:43.0'
+    - R. Buford makes 2-pt shot from 17 ft
+    - "+2"
+    - 43-40
+    - ''
+    - ''
+  - - '2:30.0'
+    - ''
+    - ''
+    - 43-42
+    - "+2"
+    - A. Walker makes 2-pt shot from 4 ft (assist by R. Brown)
+  - - '2:13.0'
+    - Turnover by D. Mutombo (traveling)
+    - ''
+    - 43-42
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 43-45
+    - "+3"
+    - B. Stith makes 3-pt shot from 25 ft (assist by V. Potapenko)
+  - - '1:44.0'
+    - G. Lynch makes 2-pt shot from 1 ft (assist by A. McKie)
+    - "+2"
+    - 45-45
+    - ''
+    - ''
+  - - '1:44.0'
+    - Shooting foul by R. Brown
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '1:44.0'
+    - G. Lynch makes free throw 1 of 1
+    - "+1"
+    - 46-45
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 46-45
+    - ''
+    - M. Palacio enters the game for R. Brown
+  - - '1:30.0'
+    - ''
+    - ''
+    - 46-45
+    - ''
+    - A. Walker misses 3-pt shot from 26 ft
+  - - '1:26.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 46-45
+    - ''
+    - ''
+  - - '1:24.0'
+    - G. Lynch misses 2-pt shot from 2 ft
+    - ''
+    - 46-45
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 46-45
+    - ''
+    - Defensive rebound by B. Stith
+  - - '1:20.0'
+    - ''
+    - ''
+    - 46-47
+    - "+2"
+    - M. Palacio makes 2-pt shot from 2 ft (assist by B. Stith)
+  - - '0:57.9'
+    - Turnover by D. Mutombo (lost ball; steal by V. Potapenko)
+    - ''
+    - 46-47
+    - ''
+    - ''
+  - - '0:52.4'
+    - ''
+    - ''
+    - 46-47
+    - ''
+    - Shooting foul by R. Buford
+  - - '0:52.4'
+    - ''
+    - ''
+    - 46-48
+    - "+1"
+    - M. Palacio makes free throw 1 of 2
+  - - '0:52.4'
+    - ''
+    - ''
+    - 46-48
+    - ''
+    - W. McCarty enters the game for V. Potapenko
+  - - '0:52.4'
+    - T. Hill enters the game for D. Mutombo
+    - ''
+    - 46-48
+    - ''
+    - ''
+  - - '0:52.4'
+    - ''
+    - ''
+    - 46-49
+    - "+1"
+    - M. Palacio makes free throw 2 of 2
+  - - '0:42.2'
+    - Philadelphia 20 second timeout
+    - ''
+    - 46-49
+    - ''
+    - ''
+  - - '0:33.0'
+    - E. Snow makes 2-pt shot from 2 ft (assist by R. Buford)
+    - "+2"
+    - 48-49
+    - ''
+    - ''
+  - - '0:33.0'
+    - Shooting foul by W. McCarty
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '0:33.0'
+    - E. Snow misses free throw 1 of 1
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Defensive rebound by A. Walker
+  - - '0:19.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Personal foul by R. Buford
+  - - '0:19.0'
+    - ''
+    - ''
+    - 48-50
+    - "+1"
+    - E. Williams makes free throw 1 of 2
+  - - '0:19.0'
+    - K. Ollie enters the game for R. Buford
+    - ''
+    - 48-50
+    - ''
+    - ''
+  - - '0:19.0'
+    - ''
+    - ''
+    - 48-51
+    - "+1"
+    - E. Williams makes free throw 2 of 2
+  - - '0:03.3'
+    - E. Snow makes 2-pt shot from 2 ft
+    - "+2"
+    - 50-51
+    - ''
+    - ''
+  - - '0:00.3'
+    - ''
+    - ''
+    - 50-51
+    - ''
+    - M. Palacio misses 3-pt shot from 30 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 50-51
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:40.0'
+    - G. Lynch makes 2-pt shot from 21 ft (assist by E. Snow)
+    - "+2"
+    - 52-51
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Turnover by A. Walker (bad pass)
+  - - '10:58.0'
+    - G. Lynch makes 2-pt shot from 21 ft (assist by D. Mutombo)
+    - "+2"
+    - 54-51
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 54-51
+    - ''
+    - A. Walker misses 2-pt shot from 10 ft
+  - - '10:23.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 54-51
+    - ''
+    - ''
+  - - '10:17.0'
+    - T. Hill makes 2-pt shot from 3 ft (assist by E. Snow)
+    - "+2"
+    - 56-51
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - B. Stith misses 3-pt shot from 26 ft
+  - - '9:51.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '9:49.0'
+    - Turnover by D. Mutombo (bad pass; steal by M. Blount)
+    - ''
+    - 56-51
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 56-51
+    - ''
+    - Shooting foul by E. Snow
+  - - '9:36.0'
+    - ''
+    - ''
+    - 56-52
+    - "+1"
+    - A. Walker makes free throw 1 of 2
+  - - '9:36.0'
+    - ''
+    - ''
+    - 56-53
+    - "+1"
+    - A. Walker makes free throw 2 of 2
+  - - '9:21.0'
+    - T. Hill misses 2-pt shot from 2 ft
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Defensive rebound by P. Pierce
+  - - '9:19.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Personal foul by A. McKie
+  - - '9:06.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Turnover by A. Walker (bad pass; steal by A. McKie)
+  - - '9:01.0'
+    - Turnover by E. Snow (lost ball; steal by R. Brown)
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Turnover by A. Walker (bad pass)
+  - - '8:44.0'
+    - Shooting foul by A. Walker
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '8:44.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 57-53
+    - ''
+    - ''
+  - - '8:44.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 58-53
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - P. Pierce misses 2-pt shot from 13 ft
+  - - '8:24.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - Offensive rebound by M. Blount
+  - - '8:17.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - P. Pierce misses 2-pt shot from 3 ft
+  - - '8:15.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '8:11.0'
+    - A. McKie makes 2-pt shot from 2 ft (assist by E. Snow)
+    - "+2"
+    - 60-53
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 60-53
+    - ''
+    - Boston full timeout
+  - - '7:53.0'
+    - ''
+    - ''
+    - 60-53
+    - ''
+    - Turnover by P. Pierce (bad pass; steal by E. Snow)
+  - - '7:38.0'
+    - Turnover by E. Snow (bad pass)
+    - ''
+    - 60-53
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 60-55
+    - "+2"
+    - A. Walker makes 2-pt shot from 5 ft (assist by B. Stith)
+  - - '6:47.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - B. Stith misses 2-pt shot from 8 ft (block by A. McKie)
+  - - '6:28.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '6:24.0'
+    - Turnover by A. McKie (bad pass; steal by A. Walker)
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - Shooting foul by E. Snow
+  - - '6:21.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - A. Walker misses free throw 1 of 2
+  - - '6:21.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - Offensive rebound by Team
+  - - '6:21.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - E. Williams enters the game for B. Stith
+  - - '6:21.0'
+    - ''
+    - ''
+    - 60-56
+    - "+1"
+    - A. Walker makes free throw 2 of 2
+  - - '6:08.0'
+    - T. Hill makes 2-pt shot from 17 ft (assist by A. McKie)
+    - "+2"
+    - 62-56
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 62-59
+    - "+3"
+    - P. Pierce makes 3-pt shot from 24 ft (assist by R. Brown)
+  - - '5:30.0'
+    - T. Hill makes 2-pt shot from 2 ft (assist by E. Snow)
+    - "+2"
+    - 64-59
+    - ''
+    - ''
+  - - '5:30.0'
+    - Shooting foul by A. Walker
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '5:30.0'
+    - K. Ollie enters the game for E. Snow
+    - ''
+    - 64-59
+    - ''
+    - ''
+  - - '5:30.0'
+    - T. Hill makes free throw 1 of 1
+    - "+1"
+    - 65-59
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - Personal foul by A. McKie
+  - - '5:20.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - V. Potapenko enters the game for M. Blount
+  - - '5:09.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - A. Walker misses 2-pt shot from 20 ft
+  - - '5:07.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '4:50.0'
+    - G. Lynch misses 2-pt shot from 17 ft
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '4:41.0'
+    - Philadelphia full timeout
+    - ''
+    - 65-59
+    - ''
+    - ''
+  - - '4:41.0'
+    - ''
+    - ''
+    - 65-59
+    - ''
+    - M. Palacio enters the game for R. Brown
+  - - '4:33.0'
+    - A. McKie makes 2-pt shot from 22 ft (assist by K. Ollie)
+    - "+2"
+    - 67-59
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 67-61
+    - "+2"
+    - V. Potapenko makes 2-pt shot from 15 ft (assist by E. Williams)
+  - - '3:51.0'
+    - Shooting foul by P. Pierce
+    - ''
+    - 67-61
+    - ''
+    - ''
+  - - '3:51.0'
+    - A. McKie misses free throw 1 of 2
+    - ''
+    - 67-61
+    - ''
+    - ''
+  - - '3:51.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-61
+    - ''
+    - ''
+  - - '3:51.0'
+    - A. McKie makes free throw 2 of 2
+    - "+1"
+    - 68-61
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 68-61
+    - ''
+    - A. Walker misses 3-pt shot from 24 ft
+  - - '3:33.0'
+    - Defensive rebound by Team
+    - ''
+    - 68-61
+    - ''
+    - ''
+  - - '3:18.0'
+    - Turnover by A. McKie (bad pass; steal by V. Potapenko)
+    - ''
+    - 68-61
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 68-61
+    - ''
+    - Turnover by M. Palacio (bad pass; steal by T. Hill)
+  - - '2:50.0'
+    - Shooting foul by V. Potapenko
+    - ''
+    - 68-61
+    - ''
+    - ''
+  - - '2:50.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 69-61
+    - ''
+    - ''
+  - - '2:50.0'
+    - E. Snow enters the game for A. McKie
+    - ''
+    - 69-61
+    - ''
+    - ''
+  - - '2:50.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 70-61
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 70-61
+    - ''
+    - Turnover by A. Walker (traveling)
+  - - '2:37.0'
+    - ''
+    - ''
+    - 70-61
+    - ''
+    - Violation by Team (delay of game)
+  - - '2:21.0'
+    - Turnover by D. Mutombo (bad pass; steal by V. Potapenko)
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 70-61
+    - ''
+    - M. Palacio misses 2-pt shot from 21 ft
+  - - '2:04.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:04.0'
+    - Personal foul by A. Walker
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:04.0'
+    - J. Jones enters the game for G. Lynch
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:04.0'
+    - T. Hill misses free throw 1 of 2
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 70-61
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 70-61
+    - ''
+    - B. Stith enters the game for A. Walker
+  - - '2:04.0'
+    - T. Hill makes free throw 2 of 2
+    - "+1"
+    - 71-61
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 71-61
+    - ''
+    - Shooting foul by E. Snow
+  - - '1:52.0'
+    - G. Lynch enters the game for T. Hill
+    - ''
+    - 71-61
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 71-61
+    - ''
+    - E. Williams misses free throw 1 of 2
+  - - '1:52.0'
+    - ''
+    - ''
+    - 71-61
+    - ''
+    - Offensive rebound by Team
+  - - '1:52.0'
+    - ''
+    - ''
+    - 71-62
+    - "+1"
+    - E. Williams makes free throw 2 of 2
+  - - '1:35.0'
+    - Offensive foul by D. Mutombo
+    - ''
+    - 71-62
+    - ''
+    - ''
+  - - '1:35.0'
+    - Turnover by D. Mutombo (foul)
+    - ''
+    - 71-62
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 71-62
+    - ''
+    - Personal foul by J. Jones
+  - - '1:27.0'
+    - ''
+    - ''
+    - 71-63
+    - "+1"
+    - E. Williams makes free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 71-63
+    - ''
+    - E. Williams misses free throw 2 of 2
+  - - '1:25.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 71-63
+    - ''
+    - ''
+  - - '1:02.0'
+    - Turnover by D. Mutombo (off goaltending)
+    - ''
+    - 71-63
+    - ''
+    - ''
+  - - '0:50.8'
+    - ''
+    - ''
+    - 71-65
+    - "+2"
+    - P. Pierce makes 2-pt shot from 2 ft (assist by B. Stith)
+  - - '0:50.8'
+    - ''
+    - ''
+    - 71-65
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '0:50.8'
+    - Technical foul by Team
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '0:50.8'
+    - ''
+    - ''
+    - 71-66
+    - "+1"
+    - B. Stith makes free throw technical
+  - - '0:50.8'
+    - ''
+    - ''
+    - 71-66
+    - ''
+    - P. Pierce misses free throw 1 of 1
+  - - '0:48.9'
+    - Defensive rebound by J. Jones
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:36.9'
+    - K. Ollie misses 2-pt shot from 1 ft
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:34.8'
+    - Offensive rebound by Team
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:32.9'
+    - G. Lynch misses 2-pt shot from 3 ft
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:29.9'
+    - ''
+    - ''
+    - 71-66
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '0:21.9'
+    - ''
+    - ''
+    - 71-66
+    - ''
+    - Offensive foul by E. Williams
+  - - '0:21.9'
+    - ''
+    - ''
+    - 71-66
+    - ''
+    - Turnover by E. Williams (foul)
+  - - '0:21.9'
+    - A. McKie enters the game for G. Lynch
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:21.9'
+    - R. Buford enters the game for D. Mutombo
+    - ''
+    - 71-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - R. Buford makes 2-pt shot from 22 ft (assist by E. Snow)
+    - "+2"
+    - 73-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 73-66
+    - ''
+    - Personal foul by T. Hill
+  - - '11:45.0'
+    - ''
+    - ''
+    - 73-66
+    - ''
+    - Turnover by P. Pierce (lost ball)
+  - - '11:31.0'
+    - E. Snow misses 2-pt shot from 17 ft
+    - ''
+    - 73-66
+    - ''
+    - ''
+  - - '11:30.0'
+    - ''
+    - ''
+    - 73-66
+    - ''
+    - Defensive rebound by P. Pierce
+  - - '11:26.0'
+    - ''
+    - ''
+    - 73-68
+    - "+2"
+    - M. Palacio makes 2-pt shot from 1 ft
+  - - '11:26.0'
+    - ''
+    - ''
+    - 73-68
+    - ''
+    - Shooting foul by R. Buford
+  - - '11:26.0'
+    - ''
+    - ''
+    - 73-69
+    - "+1"
+    - M. Palacio makes free throw 1 of 1
+  - - '11:03.0'
+    - T. Hill misses 2-pt shot from 15 ft
+    - ''
+    - 73-69
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 73-69
+    - ''
+    - Defensive rebound by B. Stith
+  - - '10:50.0'
+    - ''
+    - ''
+    - 73-71
+    - "+2"
+    - A. Walker makes 2-pt shot from 3 ft
+  - - '10:26.0'
+    - E. Snow makes 2-pt shot from 19 ft
+    - "+2"
+    - 75-71
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 75-71
+    - ''
+    - Shooting foul by R. Buford
+  - - '10:06.0'
+    - D. Mutombo enters the game for T. Hill
+    - ''
+    - 75-71
+    - ''
+    - ''
+  - - '10:06.0'
+    - A. McKie enters the game for R. Buford
+    - ''
+    - 75-71
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 75-72
+    - "+1"
+    - M. Palacio makes free throw 1 of 2
+  - - '10:06.0'
+    - ''
+    - ''
+    - 75-73
+    - "+1"
+    - M. Palacio makes free throw 2 of 2
+  - - '9:50.0'
+    - Personal foul by M. Palacio
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '9:40.0'
+    - A. McKie misses 2-pt shot from 8 ft
+    - ''
+    - 75-73
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 75-73
+    - ''
+    - Defensive rebound by B. Stith
+  - - '9:31.0'
+    - ''
+    - ''
+    - 75-76
+    - "+3"
+    - P. Pierce makes 3-pt shot from 25 ft (assist by M. Palacio)
+  - - '9:13.0'
+    - E. Snow misses 2-pt shot from 20 ft
+    - ''
+    - 75-76
+    - ''
+    - ''
+  - - '9:11.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 75-76
+    - ''
+    - ''
+  - - '8:56.0'
+    - Personal foul by A. Walker
+    - ''
+    - 75-76
+    - ''
+    - ''
+  - - '8:56.0'
+    - Official timeout
+    - ''
+    - 75-76
+    - ''
+    - ''
+  - - '8:56.0'
+    - E. Snow makes free throw 1 of 2
+    - "+1"
+    - 76-76
+    - ''
+    - ''
+  - - '8:56.0'
+    - E. Snow misses free throw 2 of 2
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - Defensive rebound by A. Walker
+  - - '8:42.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - P. Pierce misses 3-pt shot from 24 ft
+  - - '8:39.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '8:35.0'
+    - G. Lynch makes 2-pt shot from 2 ft (assist by A. McKie)
+    - "+2"
+    - 78-76
+    - ''
+    - ''
+  - - '8:35.0'
+    - Shooting foul by P. Pierce
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:35.0'
+    - K. Ollie enters the game for E. Snow
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:35.0'
+    - G. Lynch misses free throw 1 of 1
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:34.0'
+    - ''
+    - ''
+    - 78-76
+    - ''
+    - Defensive rebound by V. Potapenko
+  - - '8:12.0'
+    - ''
+    - ''
+    - 78-76
+    - ''
+    - A. Walker misses 3-pt shot from 25 ft
+  - - '8:09.0'
+    - Defensive rebound by A. McKie
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:09.0'
+    - Loose ball foul by V. Potapenko
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:09.0'
+    - Philadelphia full timeout
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '8:09.0'
+    - E. Snow enters the game for A. McKie
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:58.0'
+    - K. Ollie misses 2-pt shot from 20 ft
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:56.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:38.0'
+    - E. Snow misses 2-pt shot from 21 ft
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:37.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:29.0'
+    - Turnover by E. Snow (bad pass)
+    - ''
+    - 78-76
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 78-78
+    - "+2"
+    - P. Pierce makes 2-pt shot from 3 ft (assist by A. Walker)
+  - - '7:17.0'
+    - ''
+    - ''
+    - 78-78
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '7:17.0'
+    - ''
+    - ''
+    - 78-78
+    - ''
+    - P. Pierce misses free throw 1 of 1
+  - - '7:17.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 78-78
+    - ''
+    - ''
+  - - '6:59.0'
+    - E. Snow makes 2-pt shot from 21 ft
+    - "+2"
+    - 80-78
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - Shooting foul by E. Snow
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - A. Walker misses free throw 1 of 2
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - Offensive rebound by Team
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - R. Brown enters the game for M. Palacio
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - M. Blount enters the game for V. Potapenko
+  - - '6:38.0'
+    - T. Hill enters the game for G. Lynch
+    - ''
+    - 80-78
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 80-79
+    - "+1"
+    - A. Walker makes free throw 2 of 2
+  - - '6:22.0'
+    - E. Snow misses 2-pt shot from 12 ft
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '6:20.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 80-79
+    - ''
+    - ''
+  - - '6:19.0'
+    - D. Mutombo makes 2-pt shot from 1 ft
+    - "+2"
+    - 82-79
+    - ''
+    - ''
+  - - '6:05.0'
+    - ''
+    - ''
+    - 82-82
+    - "+3"
+    - P. Pierce makes 3-pt shot from 25 ft
+  - - '5:48.0'
+    - E. Snow misses 2-pt shot from 20 ft
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - Defensive rebound by M. Blount
+  - - '5:43.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - Personal foul by E. Snow
+  - - '5:43.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - E. Williams enters the game for B. Stith
+  - - '5:43.0'
+    - ''
+    - ''
+    - 82-83
+    - "+1"
+    - M. Blount makes free throw 1 of 2
+  - - '5:43.0'
+    - R. Buford enters the game for E. Snow
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 82-84
+    - "+1"
+    - M. Blount makes free throw 2 of 2
+  - - '5:25.0'
+    - Offensive foul by K. Ollie
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '5:25.0'
+    - Turnover by K. Ollie (foul)
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - R. Brown misses 2-pt shot from 20 ft
+  - - '5:02.0'
+    - Defensive rebound by Team
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '5:02.0'
+    - Loose ball foul by M. Blount
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '5:02.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 83-84
+    - ''
+    - ''
+  - - '5:02.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 84-84
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - E. Williams misses 3-pt shot from 23 ft
+  - - '4:41.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '4:19.0'
+    - K. Ollie makes 2-pt shot from 22 ft (assist by J. Jones)
+    - "+2"
+    - 86-84
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - R. Brown misses 2-pt shot from 18 ft
+  - - '3:57.0'
+    - Defensive rebound by J. Jones
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - B. Stith enters the game for E. Williams
+  - - '3:57.0'
+    - E. Snow enters the game for K. Ollie
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:46.0'
+    - Philadelphia full timeout
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - V. Potapenko enters the game for M. Blount
+  - - '3:46.0'
+    - G. Lynch enters the game for J. Jones
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:37.0'
+    - R. Buford misses 2-pt shot from 19 ft
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Defensive rebound by P. Pierce
+  - - '3:20.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Personal foul by G. Lynch
+  - - '3:20.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - A. Walker misses free throw 1 of 2
+  - - '3:20.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Offensive rebound by Team
+  - - '3:20.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - M. Palacio enters the game for R. Brown
+  - - '3:20.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - A. Walker misses free throw 2 of 2
+  - - '3:19.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '3:05.0'
+    - E. Snow makes 2-pt shot from 18 ft
+    - "+2"
+    - 88-84
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 88-84
+    - ''
+    - P. Pierce misses 2-pt shot from 10 ft (block by D. Mutombo)
+  - - '2:48.0'
+    - Defensive rebound by T. Hill
+    - ''
+    - 88-84
+    - ''
+    - ''
+  - - '2:44.0'
+    - R. Buford misses 2-pt shot from 2 ft
+    - ''
+    - 88-84
+    - ''
+    - ''
+  - - '2:42.0'
+    - Offensive rebound by G. Lynch
+    - ''
+    - 88-84
+    - ''
+    - ''
+  - - '2:40.0'
+    - G. Lynch makes 2-pt shot from 2 ft
+    - "+2"
+    - 90-84
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 90-84
+    - ''
+    - Boston full timeout
+  - - '2:39.0'
+    - ''
+    - ''
+    - 90-84
+    - ''
+    - W. McCarty enters the game for V. Potapenko
+  - - '2:39.0'
+    - K. Ollie enters the game for R. Buford
+    - ''
+    - 90-84
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 90-84
+    - ''
+    - M. Palacio misses 2-pt shot from 2 ft
+  - - '2:10.0'
+    - ''
+    - ''
+    - 90-86
+    - "+2"
+    - B. Stith makes 2-pt shot at rim
+  - - '2:10.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Offensive rebound by B. Stith
+  - - '1:52.0'
+    - T. Hill misses 2-pt shot from 1 ft
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Defensive rebound by Team
+  - - '1:35.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Turnover by P. Pierce (traveling)
+  - - '1:35.0'
+    - R. Buford enters the game for T. Hill
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '1:28.0'
+    - Turnover by G. Lynch (bad pass; steal by A. Walker)
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - A. Walker misses 2-pt shot from 3 ft
+  - - '1:21.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:59.9'
+    - E. Snow misses 2-pt shot from 18 ft
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:59.1'
+    - Offensive rebound by Team
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:59.1'
+    - Loose ball foul by B. Stith
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '0:59.1'
+    - G. Lynch makes free throw 1 of 2
+    - "+1"
+    - 91-86
+    - ''
+    - ''
+  - - '0:59.1'
+    - T. Hill enters the game for R. Buford
+    - ''
+    - 91-86
+    - ''
+    - ''
+  - - '0:59.1'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - E. Williams enters the game for B. Stith
+  - - '0:59.1'
+    - G. Lynch misses free throw 2 of 2
+    - ''
+    - 91-86
+    - ''
+    - ''
+  - - '0:58.6'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - Defensive rebound by E. Williams
+  - - '0:56.6'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - Boston full timeout
+  - - '0:42.7'
+    - ''
+    - ''
+    - 91-86
+    - ''
+    - Shooting foul by K. Ollie
+  - - '0:42.7'
+    - ''
+    - ''
+    - 91-87
+    - "+1"
+    - P. Pierce makes free throw 1 of 2
+  - - '0:42.7'
+    - R. Buford enters the game for T. Hill
+    - ''
+    - 91-87
+    - ''
+    - ''
+  - - '0:42.7'
+    - ''
+    - ''
+    - 91-88
+    - "+1"
+    - P. Pierce makes free throw 2 of 2
+  - - '0:22.9'
+    - K. Ollie misses 2-pt shot from 3 ft
+    - ''
+    - 91-88
+    - ''
+    - ''
+  - - '0:20.8'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 91-88
+    - ''
+    - ''
+  - - '0:16.4'
+    - Personal foul by M. Palacio
+    - ''
+    - 91-88
+    - ''
+    - ''
+  - - '0:16.4'
+    - E. Snow makes free throw 1 of 2
+    - "+1"
+    - 92-88
+    - ''
+    - ''
+  - - '0:16.4'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - V. Potapenko enters the game for W. McCarty
+  - - '0:16.4'
+    - E. Snow makes free throw 2 of 2
+    - "+1"
+    - 93-88
+    - ''
+    - ''
+  - - '0:16.4'
+    - ''
+    - ''
+    - 93-88
+    - ''
+    - Boston full timeout
+  - - '0:16.4'
+    - ''
+    - ''
+    - 93-88
+    - ''
+    - W. McCarty enters the game for M. Palacio
+  - - '0:16.4'
+    - ''
+    - ''
+    - 93-88
+    - ''
+    - B. Stith enters the game for V. Potapenko
+  - - '0:16.4'
+    - T. Hill enters the game for R. Buford
+    - ''
+    - 93-88
+    - ''
+    - ''
+  - - '0:14.9'
+    - ''
+    - ''
+    - 93-88
+    - ''
+    - B. Stith misses 2-pt shot from 22 ft
+  - - '0:11.8'
+    - Defensive rebound by G. Lynch
+    - ''
+    - 93-88
+    - ''
+    - ''
+  - - '0:10.8'
+    - Personal foul by W. McCarty
+    - ''
+    - 93-88
+    - ''
+    - ''
+  - - '0:10.8'
+    - E. Snow makes free throw 1 of 2
+    - "+1"
+    - 94-88
+    - ''
+    - ''
+  - - '0:10.8'
+    - E. Snow makes free throw 2 of 2
+    - "+1"
+    - 95-88
+    - ''
+    - ''
+  - - '0:03.4'
+    - ''
+    - ''
+    - 95-91
+    - "+3"
+    - B. Stith makes 3-pt shot from 25 ft (assist by P. Pierce)
+  - - '0:01.8'
+    - Personal foul by E. Williams
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '0:01.8'
+    - T. MacCulloch enters the game for D. Mutombo
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '0:01.8'
+    - J. Jones enters the game for E. Snow
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '0:01.8'
+    - R. Buford enters the game for G. Lynch
+    - ''
+    - 95-91
+    - ''
+    - ''
+  - - '0:01.8'
+    - K. Ollie makes free throw 1 of 2
+    - "+1"
+    - 96-91
+    - ''
+    - ''
+  - - '0:01.8'
+    - K. Ollie makes free throw 2 of 2
+    - "+1"
+    - 97-91
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

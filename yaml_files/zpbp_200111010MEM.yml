@@ -1,0 +1,2778 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: S. Swift vs. B. Wallace (D. Barros gains possession)'
+  - - '11:42.0'
+    - C. Robinson makes 2-pt shot from 18 ft (assist by D. Barros)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:31.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Turnover by M. Dickerson (traveling)
+  - - '11:21.0'
+    - D. Barros misses 2-pt shot from 9 ft
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '11:09.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - J. Williams misses 2-pt shot from 18 ft
+  - - '11:07.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:54.0'
+    - J. Stackhouse makes 2-pt shot from 12 ft
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - M. Dickerson misses 3-pt shot from 26 ft
+  - - '10:38.0'
+    - Defensive rebound by D. Barros
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:30.0'
+    - J. Stackhouse makes 2-pt shot from 11 ft (assist by D. Barros)
+    - "+2"
+    - 6-0
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 6-3
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 24 ft (assist by S. Battier)
+  - - '10:05.0'
+    - Defensive three seconds by L. Wright
+    - ''
+    - 6-3
+    - ''
+    - ''
+  - - '10:05.0'
+    - J. Stackhouse makes technical free throw
+    - "+1"
+    - 7-3
+    - ''
+    - ''
+  - - '10:05.0'
+    - Turnover by Team (5 sec)
+    - ''
+    - 7-3
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 7-5
+    - "+2"
+    - L. Wright makes 2-pt shot at rim (assist by S. Swift)
+  - - '9:55.0'
+    - ''
+    - ''
+    - 7-5
+    - ''
+    - Shooting foul by C. Robinson
+  - - '9:55.0'
+    - ''
+    - ''
+    - 7-6
+    - "+1"
+    - L. Wright makes free throw 1 of 1
+  - - '9:44.0'
+    - D. Barros makes 2-pt shot from 17 ft
+    - "+2"
+    - 9-6
+    - ''
+    - ''
+  - - '9:32.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - S. Battier misses 3-pt shot from 23 ft
+  - - '9:27.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '9:19.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '9:13.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - J. Williams misses 3-pt shot from 26 ft
+  - - '9:09.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Offensive rebound by L. Wright
+  - - '9:02.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Turnover by L. Wright (dbl dribble)
+  - - '8:47.0'
+    - Turnover by J. Stackhouse (dbl dribble)
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Turnover by S. Swift (bad pass; steal by C. Robinson)
+  - - '8:30.0'
+    - Turnover by C. Robinson (bad pass; steal by J. Williams)
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Turnover by J. Williams (bad pass)
+  - - '8:15.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by J. Williams
+  - - '8:08.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - L. Wright misses 2-pt shot at rim (block by B. Wallace)
+  - - '8:08.0'
+    - Defensive rebound by Team
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '7:56.0'
+    - M. Curry misses 2-pt shot from 17 ft
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by J. Williams
+  - - '7:44.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - L. Wright misses 2-pt shot from 9 ft (block by C. Robinson)
+  - - '7:42.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - M. Dickerson misses 2-pt shot at rim (block by B. Wallace)
+  - - '7:42.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Offensive rebound by M. Dickerson
+  - - '7:38.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Offensive rebound by M. Dickerson
+  - - '7:36.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - M. Dickerson misses 2-pt shot at rim
+  - - '7:33.0'
+    - ''
+    - ''
+    - 9-8
+    - "+2"
+    - L. Wright makes 2-pt shot at rim
+  - - '7:33.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Offensive rebound by L. Wright
+  - - '7:21.0'
+    - C. Robinson misses 2-pt shot from 14 ft
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Defensive rebound by L. Wright
+  - - '7:08.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - J. Williams misses 2-pt shot at rim
+  - - '7:03.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '6:58.0'
+    - J. Stackhouse makes 2-pt shot from 15 ft (assist by M. Curry)
+    - "+2"
+    - 11-8
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 11-10
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 20 ft (assist by J. Williams)
+  - - '6:29.0'
+    - J. Stackhouse misses 3-pt shot from 28 ft
+    - ''
+    - 11-10
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 11-10
+    - ''
+    - Defensive rebound by S. Swift
+  - - '6:20.0'
+    - ''
+    - ''
+    - 11-12
+    - "+2"
+    - J. Williams makes 2-pt shot from 21 ft
+  - - '6:14.0'
+    - Detroit full timeout
+    - ''
+    - 11-12
+    - ''
+    - ''
+  - - '6:06.0'
+    - D. Barros misses 2-pt shot from 20 ft
+    - ''
+    - 11-12
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - Defensive rebound by L. Wright
+  - - '5:52.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - Turnover by S. Battier (bad pass)
+  - - '5:26.0'
+    - M. Curry misses 3-pt shot from 42 ft
+    - ''
+    - 11-12
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - Defensive rebound by Team
+  - - '5:14.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - Personal foul by M. Curry
+  - - '5:01.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - M. Dickerson misses 2-pt shot from 15 ft
+  - - '4:59.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - Offensive rebound by S. Swift
+  - - '4:49.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - M. Dickerson misses 2-pt shot from 18 ft
+  - - '4:47.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 11-12
+    - ''
+    - ''
+  - - '4:32.0'
+    - C. Robinson makes 2-pt shot from 7 ft
+    - "+2"
+    - 13-12
+    - ''
+    - ''
+  - - '4:32.0'
+    - Shooting foul by L. Wright
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '4:32.0'
+    - C. Robinson makes free throw 1 of 1
+    - "+1"
+    - 14-12
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - L. Wright misses 2-pt shot at rim (block by B. Wallace)
+  - - '4:10.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Offensive rebound by L. Wright
+  - - '4:03.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - L. Wright misses 2-pt shot at rim
+  - - '4:02.0'
+    - Defensive rebound by D. Barros
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:57.0'
+    - Turnover by B. Wallace (3 sec)
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Personal foul by J. Stackhouse
+  - - '3:35.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Turnover by M. Dickerson (bad pass; steal by B. Wallace)
+  - - '3:35.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - P. Gasol enters the game for S. Swift
+  - - '3:24.0'
+    - J. Stackhouse misses 2-pt shot from 7 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Defensive rebound by P. Gasol
+  - - '3:14.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Memphis full timeout
+  - - '3:14.0'
+    - C. Atkins enters the game for B. Wallace
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:14.0'
+    - Z. Rebraca enters the game for D. Barros
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - L. Wright misses 2-pt shot from 11 ft
+  - - '3:11.0'
+    - Defensive rebound by Team
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - B. Knight enters the game for J. Williams
+  - - '2:52.0'
+    - C. Robinson misses 2-pt shot from 7 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '2:50.0'
+    - Offensive rebound by Z. Rebraca
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '2:48.0'
+    - Z. Rebraca makes 2-pt shot at rim
+    - "+2"
+    - 16-12
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Turnover by M. Dickerson (lost ball; steal by C. Atkins)
+  - - '2:31.0'
+    - M. Curry misses 2-pt shot at rim
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Defensive rebound by S. Battier
+  - - '2:23.0'
+    - ''
+    - ''
+    - 16-15
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 25 ft (assist by B. Knight)
+  - - '2:08.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - N. Anderson enters the game for M. Dickerson
+  - - '2:08.0'
+    - J. Barry enters the game for M. Curry
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '1:55.0'
+    - J. Stackhouse misses 2-pt shot from 19 ft
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Violation by P. Gasol (kicked ball)
+  - - '1:52.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Defensive rebound by B. Knight
+  - - '1:45.0'
+    - ''
+    - ''
+    - 16-18
+    - "+3"
+    - N. Anderson makes 3-pt shot from 25 ft (assist by B. Knight)
+  - - '1:29.0'
+    - Z. Rebraca makes 2-pt shot from 6 ft (assist by C. Atkins)
+    - "+2"
+    - 18-18
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 18-18
+    - ''
+    - Defensive three seconds by C. Robinson
+  - - '1:18.0'
+    - ''
+    - ''
+    - 18-19
+    - "+1"
+    - B. Knight makes technical free throw
+  - - '1:18.0'
+    - R. White enters the game for J. Stackhouse
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Turnover by P. Gasol (traveling)
+  - - '0:44.2'
+    - Z. Rebraca misses 2-pt shot from 7 ft (block by B. Knight)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '0:44.2'
+    - Offensive rebound by C. Robinson
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '0:43.2'
+    - Turnover by Team (shot clock)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '0:28.5'
+    - ''
+    - ''
+    - 18-21
+    - "+2"
+    - N. Anderson makes 2-pt shot from 17 ft (assist by P. Gasol)
+  - - '0:16.0'
+    - Personal foul by P. Gasol
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '0:04.8'
+    - Offensive foul by C. Atkins
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '0:04.8'
+    - Turnover by C. Atkins (offensive foul)
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '0:04.8'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - J. Williams enters the game for L. Wright
+  - - '0:02.4'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Personal foul by J. Barry
+  - - '0:02.4'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - L. Wright enters the game for J. Williams
+  - - '0:00.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - B. Knight misses 2-pt shot from 19 ft
+  - - '0:00.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - L. Wright misses 2-pt shot at rim
+  - - '11:34.0'
+    - Defensive rebound by C. Atkins
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '11:31.0'
+    - C. Atkins misses 2-pt shot at rim
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Defensive rebound by S. Battier
+  - - '11:22.0'
+    - ''
+    - ''
+    - 18-23
+    - "+2"
+    - L. Wright makes 2-pt shot at rim (assist by N. Anderson)
+  - - '10:59.0'
+    - Turnover by R. White (lost ball)
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - G. Long enters the game for S. Battier
+  - - '10:50.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Offensive foul by N. Anderson
+  - - '10:50.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Turnover by N. Anderson (offensive foul)
+  - - '10:32.0'
+    - Turnover by R. White (lost ball; steal by G. Long)
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - L. Wright misses 2-pt shot at rim
+  - - '10:24.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - G. Long misses 2-pt shot at rim
+  - - '10:24.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Offensive rebound by G. Long
+  - - '10:21.0'
+    - Defensive rebound by Z. Rebraca
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '10:18.0'
+    - R. White makes 2-pt shot at rim (assist by C. Atkins)
+    - "+2"
+    - 20-23
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - N. Anderson misses 2-pt shot from 19 ft (block by J. Barry)
+  - - '10:03.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '10:03.0'
+    - B. Wallace enters the game for C. Robinson
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '10:03.0'
+    - Offensive foul by J. Barry
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '10:03.0'
+    - Turnover by J. Barry (offensive foul)
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '10:03.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - T. Massenburg enters the game for L. Wright
+  - - '9:44.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - N. Anderson misses 3-pt shot from 26 ft
+  - - '9:40.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - Offensive rebound by B. Knight
+  - - '9:33.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - Personal foul by Z. Rebraca
+  - - '9:24.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - Turnover by P. Gasol (traveling)
+  - - '9:08.0'
+    - R. White misses 2-pt shot from 19 ft
+    - ''
+    - 20-23
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 20-23
+    - ''
+    - Defensive rebound by B. Knight
+  - - '8:46.0'
+    - ''
+    - ''
+    - 20-25
+    - "+2"
+    - T. Massenburg makes 2-pt shot from 11 ft (assist by N. Anderson)
+  - - '8:27.0'
+    - Z. Rebraca makes 2-pt shot from 10 ft (assist by J. Barry)
+    - "+2"
+    - 22-25
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Shooting foul by Z. Rebraca
+  - - '8:18.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Official timeout
+  - - '8:18.0'
+    - J. Stackhouse enters the game for C. Atkins
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '8:18.0'
+    - D. Barros enters the game for R. White
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - P. Gasol misses free throw 1 of 2
+  - - '8:18.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Offensive rebound by Team
+  - - '8:18.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - P. Gasol misses free throw 2 of 2
+  - - '8:16.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '8:06.0'
+    - Turnover by J. Barry (traveling)
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Personal foul by Z. Rebraca
+  - - '7:54.0'
+    - C. Robinson enters the game for Z. Rebraca
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - P. Gasol misses 2-pt shot from 8 ft
+  - - '7:46.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '7:38.0'
+    - Personal foul by B. Knight
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '7:29.0'
+    - D. Barros misses 2-pt shot from 21 ft
+    - ''
+    - 22-25
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Defensive rebound by P. Gasol
+  - - '7:20.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Personal foul by B. Wallace
+  - - '7:20.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - M. Dickerson enters the game for N. Anderson
+  - - '7:20.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - J. Williams enters the game for B. Knight
+  - - '7:10.0'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Turnover by M. Dickerson (bad pass; steal by B. Wallace)
+  - - '7:05.2'
+    - ''
+    - ''
+    - 22-25
+    - ''
+    - Violation by P. Gasol (def goaltending)
+  - - '7:05.0'
+    - D. Barros makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 24-25
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - M. Dickerson misses 2-pt shot from 22 ft
+  - - '6:49.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '6:31.0'
+    - J. Barry misses 3-pt shot from 26 ft
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - Defensive rebound by P. Gasol
+  - - '6:25.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - J. Williams misses 3-pt shot from 25 ft
+  - - '6:23.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '6:16.0'
+    - J. Barry misses 3-pt shot from 25 ft
+    - ''
+    - 24-25
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 24-25
+    - ''
+    - Defensive rebound by J. Williams
+  - - '6:10.0'
+    - ''
+    - ''
+    - 24-27
+    - "+2"
+    - P. Gasol makes 2-pt shot at rim (assist by J. Williams)
+  - - '5:53.0'
+    - J. Stackhouse makes 2-pt shot from 15 ft (assist by D. Barros)
+    - "+2"
+    - 26-27
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 26-27
+    - ''
+    - T. Massenburg misses 2-pt shot from 13 ft
+  - - '5:34.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 26-27
+    - ''
+    - ''
+  - - '5:26.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 26-27
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 26-27
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '5:19.0'
+    - ''
+    - ''
+    - 26-29
+    - "+2"
+    - J. Williams makes 2-pt shot from 20 ft
+  - - '5:10.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - S. Battier enters the game for G. Long
+  - - '5:10.0'
+    - Detroit 20 second timeout
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '5:10.0'
+    - Detroit full timeout
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '4:52.0'
+    - J. Stackhouse misses 2-pt shot from 9 ft
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '4:49.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '4:49.0'
+    - Turnover by C. Robinson (lost ball)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Offensive foul by P. Gasol
+  - - '4:39.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - Turnover by P. Gasol (offensive foul)
+  - - '4:39.0'
+    - ''
+    - ''
+    - 26-29
+    - ''
+    - L. Wright enters the game for T. Massenburg
+  - - '4:28.0'
+    - Turnover by D. Barros (bad pass; steal by J. Williams)
+    - ''
+    - 26-29
+    - ''
+    - ''
+  - - '4:22.0'
+    - ''
+    - ''
+    - 26-32
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 25 ft (assist by J. Williams)
+  - - '4:14.0'
+    - Shooting foul by M. Dickerson
+    - ''
+    - 26-32
+    - ''
+    - ''
+  - - '4:14.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 27-32
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - S. Swift enters the game for P. Gasol
+  - - '4:14.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 28-32
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - Offensive foul by M. Dickerson
+  - - '3:53.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - Turnover by M. Dickerson (offensive foul)
+  - - '3:53.0'
+    - ''
+    - ''
+    - 28-32
+    - ''
+    - N. Anderson enters the game for M. Dickerson
+  - - '3:38.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '3:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '3:37.0'
+    - Loose ball foul by S. Battier
+    - ''
+    - 28-32
+    - ''
+    - ''
+  - - '3:24.0'
+    - J. Barry makes 2-pt shot at rim
+    - "+2"
+    - 30-32
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 30-32
+    - ''
+    - J. Williams misses 3-pt shot from 26 ft
+  - - '3:04.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 30-32
+    - ''
+    - ''
+  - - '3:01.0'
+    - Turnover by J. Stackhouse (lost ball; steal by J. Williams)
+    - ''
+    - 30-32
+    - ''
+    - ''
+  - - '3:00.0'
+    - Technical foul by J. Stackhouse
+    - ''
+    - 30-32
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 30-33
+    - "+1"
+    - J. Williams makes technical free throw
+  - - '2:50.0'
+    - ''
+    - ''
+    - 30-35
+    - "+2"
+    - S. Battier makes 2-pt shot at rim (assist by J. Williams)
+  - - '2:34.0'
+    - Shooting foul by L. Wright
+    - ''
+    - 30-35
+    - ''
+    - ''
+  - - '2:34.0'
+    - Detroit full timeout
+    - ''
+    - 30-35
+    - ''
+    - ''
+  - - '2:34.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 31-35
+    - ''
+    - ''
+  - - '2:34.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 32-35
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 32-37
+    - "+2"
+    - S. Battier makes 2-pt shot from 9 ft (assist by N. Anderson)
+  - - '2:07.0'
+    - Personal foul by S. Swift
+    - ''
+    - 32-37
+    - ''
+    - ''
+  - - '2:07.0'
+    - C. Robinson makes free throw 1 of 2
+    - "+1"
+    - 33-37
+    - ''
+    - ''
+  - - '2:07.0'
+    - C. Robinson makes free throw 2 of 2
+    - "+1"
+    - 34-37
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - L. Wright misses 2-pt shot at rim (block by B. Wallace)
+  - - '1:51.0'
+    - M. Curry enters the game for J. Barry
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - Offensive rebound by Team
+  - - '1:51.0'
+    - 'Jump ball: L. Wright vs. B. Wallace (S. Battier gains possession)'
+  - - '1:43.0'
+    - ''
+    - ''
+    - 34-37
+    - ''
+    - Personal foul by D. Barros
+  - - '1:43.0'
+    - ''
+    - ''
+    - 34-38
+    - "+1"
+    - J. Williams makes free throw 1 of 2
+  - - '1:43.0'
+    - ''
+    - ''
+    - 34-39
+    - "+1"
+    - J. Williams makes free throw 2 of 2
+  - - '1:33.0'
+    - Turnover by C. Robinson (bad pass; steal by L. Wright)
+    - ''
+    - 34-39
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 34-39
+    - ''
+    - N. Anderson misses 3-pt shot from 24 ft
+  - - '1:21.0'
+    - ''
+    - ''
+    - 34-39
+    - ''
+    - Offensive rebound by S. Swift
+  - - '1:18.0'
+    - ''
+    - ''
+    - 34-41
+    - "+2"
+    - S. Swift makes 2-pt shot from 2 ft
+  - - '0:56.9'
+    - B. Wallace makes 2-pt shot at rim (assist by C. Robinson)
+    - "+2"
+    - 36-41
+    - ''
+    - ''
+  - - '0:42.9'
+    - ''
+    - ''
+    - 36-41
+    - ''
+    - J. Williams misses 3-pt shot from 26 ft
+  - - '0:40.7'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 36-41
+    - ''
+    - ''
+  - - '0:34.2'
+    - J. Stackhouse misses 2-pt shot from 12 ft
+    - ''
+    - 36-41
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 36-41
+    - ''
+    - Defensive rebound by L. Wright
+  - - '0:27.6'
+    - ''
+    - ''
+    - 36-43
+    - "+2"
+    - J. Williams makes 2-pt shot from 9 ft
+  - - '0:06.4'
+    - M. Curry misses 3-pt shot from 24 ft
+    - ''
+    - 36-43
+    - ''
+    - ''
+  - - '0:03.1'
+    - ''
+    - ''
+    - 36-43
+    - ''
+    - Defensive rebound by J. Williams
+  - - '0:00.0'
+    - ''
+    - ''
+    - 36-43
+    - ''
+    - J. Williams misses 3-pt shot from 26 ft
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - ''
+    - ''
+    - 36-43
+    - ''
+    - Offensive rebound by Team
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 36-45
+    - "+2"
+    - S. Swift makes 2-pt shot from 5 ft (assist by J. Williams)
+  - - '11:20.0'
+    - D. Barros misses 3-pt shot from 26 ft
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '11:12.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Offensive foul by M. Dickerson
+  - - '11:12.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Turnover by M. Dickerson (offensive foul)
+  - - '11:12.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - N. Anderson enters the game for M. Dickerson
+  - - '10:52.0'
+    - Personal foul by N. Anderson
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '10:45.0'
+    - J. Stackhouse misses 2-pt shot from 7 ft
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '10:43.0'
+    - Offensive rebound by J. Stackhouse
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '10:40.0'
+    - J. Stackhouse misses 2-pt shot from 11 ft
+    - ''
+    - 36-45
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Defensive rebound by N. Anderson
+  - - '10:33.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - L. Wright misses 2-pt shot at rim
+  - - '10:32.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Offensive rebound by S. Swift
+  - - '10:32.0'
+    - ''
+    - ''
+    - 36-45
+    - ''
+    - Shooting foul by D. Barros
+  - - '10:32.0'
+    - ''
+    - ''
+    - 36-46
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '10:32.0'
+    - ''
+    - ''
+    - 36-47
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '10:22.0'
+    - D. Barros misses 2-pt shot from 17 ft
+    - ''
+    - 36-47
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 36-47
+    - ''
+    - Defensive rebound by S. Battier
+  - - '10:16.0'
+    - ''
+    - ''
+    - 36-47
+    - ''
+    - Shooting foul by B. Wallace
+  - - '10:16.0'
+    - ''
+    - ''
+    - 36-48
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '10:16.0'
+    - ''
+    - ''
+    - 36-48
+    - ''
+    - S. Swift misses free throw 2 of 2
+  - - '10:15.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '9:53.0'
+    - J. Stackhouse misses 2-pt shot from 18 ft
+    - ''
+    - 36-48
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 36-48
+    - ''
+    - Defensive rebound by L. Wright
+  - - '9:46.0'
+    - ''
+    - ''
+    - 36-48
+    - ''
+    - Turnover by J. Williams (bad pass; steal by C. Robinson)
+  - - '9:36.0'
+    - C. Robinson makes 3-pt shot from 24 ft (assist by M. Curry)
+    - "+3"
+    - 39-48
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - S. Battier misses 3-pt shot from 23 ft
+  - - '9:15.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '9:10.0'
+    - Personal foul by S. Battier
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '8:58.0'
+    - J. Stackhouse misses 2-pt shot from 8 ft
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - Defensive rebound by J. Williams
+  - - '8:48.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - Turnover by N. Anderson (bad pass; steal by B. Wallace)
+  - - '8:44.0'
+    - Turnover by B. Wallace (bad pass; steal by J. Williams)
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 39-48
+    - ''
+    - J. Williams misses 2-pt shot from 11 ft
+  - - '8:37.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 39-48
+    - ''
+    - ''
+  - - '8:19.0'
+    - D. Barros makes 3-pt shot from 25 ft (assist by J. Stackhouse)
+    - "+3"
+    - 42-48
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 42-48
+    - ''
+    - Memphis full timeout
+  - - '8:04.0'
+    - ''
+    - ''
+    - 42-50
+    - "+2"
+    - J. Williams makes 2-pt shot at rim
+  - - '7:50.0'
+    - D. Barros makes 2-pt shot from 15 ft
+    - "+2"
+    - 44-50
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 44-50
+    - ''
+    - Turnover by S. Swift (lost ball; steal by B. Wallace)
+  - - '7:24.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 46-50
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 46-50
+    - ''
+    - Shooting foul by B. Wallace
+  - - '7:03.0'
+    - ''
+    - ''
+    - 46-51
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '7:03.0'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - S. Swift misses free throw 2 of 2
+  - - '7:01.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 46-51
+    - ''
+    - ''
+  - - '6:49.0'
+    - J. Stackhouse makes 2-pt shot from 11 ft
+    - "+2"
+    - 48-51
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - N. Anderson misses 2-pt shot from 10 ft
+  - - '6:32.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - Offensive rebound by L. Wright
+  - - '6:32.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - Personal foul by J. Stackhouse
+  - - '6:22.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - J. Williams misses 2-pt shot from 19 ft
+  - - '6:20.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 48-51
+    - ''
+    - ''
+  - - '6:15.0'
+    - J. Stackhouse misses 2-pt shot from 14 ft (block by J. Williams)
+    - ''
+    - 48-51
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - Defensive rebound by N. Anderson
+  - - '6:01.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - Personal foul by C. Robinson
+  - - '6:01.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - S. Battier misses free throw 1 of 2
+  - - '6:01.0'
+    - ''
+    - ''
+    - 48-51
+    - ''
+    - Offensive rebound by Team
+  - - '6:01.0'
+    - ''
+    - ''
+    - 48-52
+    - "+1"
+    - S. Battier makes free throw 2 of 2
+  - - '5:46.0'
+    - D. Barros makes 2-pt shot from 18 ft
+    - "+2"
+    - 50-52
+    - ''
+    - ''
+  - - '5:19.0'
+    - ''
+    - ''
+    - 50-52
+    - ''
+    - J. Williams misses 3-pt shot from 24 ft
+  - - '5:16.0'
+    - Defensive rebound by M. Curry
+    - ''
+    - 50-52
+    - ''
+    - ''
+  - - '5:14.0'
+    - J. Stackhouse makes 2-pt shot at rim (assist by M. Curry)
+    - "+2"
+    - 52-52
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Personal foul by C. Robinson
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - L. Wright misses free throw 1 of 2
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Offensive rebound by Team
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - B. Knight enters the game for J. Williams
+  - - '5:03.0'
+    - ''
+    - ''
+    - 52-53
+    - "+1"
+    - L. Wright makes free throw 2 of 2
+  - - '4:50.0'
+    - Personal foul by N. Anderson
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - G. Long enters the game for N. Anderson
+  - - '4:41.0'
+    - C. Robinson misses 3-pt shot from 24 ft
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Defensive rebound by G. Long
+  - - '4:20.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - B. Knight misses 2-pt shot from 12 ft
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - S. Battier misses 2-pt shot at rim
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Offensive rebound by S. Battier
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - L. Wright misses 2-pt shot at rim (block by C. Robinson)
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Offensive rebound by L. Wright
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Offensive rebound by L. Wright
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Shooting foul by B. Wallace
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - L. Wright misses free throw 1 of 2
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Offensive rebound by Team
+  - - '4:14.0'
+    - Z. Rebraca enters the game for B. Wallace
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - L. Wright misses free throw 2 of 2
+  - - '4:13.0'
+    - Defensive rebound by Z. Rebraca
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '4:01.0'
+    - C. Robinson makes 2-pt shot from 9 ft
+    - "+2"
+    - 54-53
+    - ''
+    - ''
+  - - '3:48.0'
+    - ''
+    - ''
+    - 54-55
+    - "+2"
+    - S. Swift makes 2-pt shot from 12 ft (assist by B. Knight)
+  - - '3:32.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '3:30.0'
+    - Offensive rebound by Z. Rebraca
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '3:30.0'
+    - Turnover by Z. Rebraca (traveling)
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 54-55
+    - ''
+    - Personal foul by Z. Rebraca
+  - - '3:22.0'
+    - ''
+    - ''
+    - 54-56
+    - "+1"
+    - L. Wright makes free throw 1 of 2
+  - - '3:22.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - P. Gasol enters the game for S. Swift
+  - - '3:22.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - L. Wright misses free throw 2 of 2
+  - - '3:20.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '3:09.0'
+    - Personal foul by B. Knight
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '3:09.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Defensive rebound by L. Wright
+  - - '2:52.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Memphis full timeout
+  - - '2:52.0'
+    - J. Barry enters the game for J. Stackhouse
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Offensive foul by P. Gasol
+  - - '2:47.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Turnover by P. Gasol (offensive foul)
+  - - '2:47.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Violation by Team (delay of game)
+  - - '2:31.0'
+    - Turnover by Z. Rebraca (traveling)
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '2:14.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - G. Long misses 2-pt shot from 21 ft
+  - - '2:11.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '1:55.0'
+    - Offensive foul by J. Barry
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '1:55.0'
+    - Turnover by J. Barry (offensive foul)
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '1:55.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 54-56
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Offensive foul by S. Battier
+  - - '1:45.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Turnover by S. Battier (offensive foul)
+  - - '1:23.0'
+    - C. Robinson makes 2-pt shot from 5 ft
+    - "+2"
+    - 56-56
+    - ''
+    - ''
+  - - '0:59.9'
+    - ''
+    - ''
+    - 56-56
+    - ''
+    - Shooting foul by D. Barros
+  - - '0:59.9'
+    - ''
+    - ''
+    - 56-57
+    - "+1"
+    - B. Knight makes free throw 1 of 2
+  - - '0:59.9'
+    - ''
+    - ''
+    - 56-58
+    - "+1"
+    - B. Knight makes free throw 2 of 2
+  - - '0:49.3'
+    - C. Robinson makes 2-pt shot from 17 ft (assist by D. Barros)
+    - "+2"
+    - 58-58
+    - ''
+    - ''
+  - - '0:32.0'
+    - ''
+    - ''
+    - 58-58
+    - ''
+    - P. Gasol misses 2-pt shot at rim
+  - - '0:30.0'
+    - ''
+    - ''
+    - 58-60
+    - "+2"
+    - L. Wright makes 2-pt shot at rim
+  - - '0:30.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Offensive rebound by L. Wright
+  - - '0:14.6'
+    - C. Robinson makes 3-pt shot from 26 ft (assist by D. Barros)
+    - "+3"
+    - 61-60
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:45.0'
+    - D. Barros misses 3-pt shot from 25 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by Z. Rebraca
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '11:41.0'
+    - Z. Rebraca misses 2-pt shot from 5 ft
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - Defensive rebound by P. Gasol
+  - - '11:28.0'
+    - C. Atkins enters the game for D. Barros
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 61-60
+    - ''
+    - L. Wright misses 2-pt shot from 5 ft
+  - - '11:22.0'
+    - Defensive rebound by Z. Rebraca
+    - ''
+    - 61-60
+    - ''
+    - ''
+  - - '11:07.0'
+    - J. Barry makes 3-pt shot from 25 ft (assist by C. Atkins)
+    - "+3"
+    - 64-60
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 64-60
+    - ''
+    - Personal foul by Z. Rebraca
+  - - '10:55.0'
+    - B. Wallace enters the game for Z. Rebraca
+    - ''
+    - 64-60
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 64-62
+    - "+2"
+    - P. Gasol makes 2-pt shot from 22 ft (assist by B. Knight)
+  - - '10:24.0'
+    - C. Robinson misses 2-pt shot from 3 ft (block by P. Gasol)
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - Defensive rebound by B. Knight
+  - - '10:11.0'
+    - ''
+    - ''
+    - 64-62
+    - ''
+    - P. Gasol misses 2-pt shot from 3 ft
+  - - '10:08.0'
+    - Defensive rebound by J. Barry
+    - ''
+    - 64-62
+    - ''
+    - ''
+  - - '9:54.0'
+    - C. Robinson makes 3-pt shot from 25 ft (assist by B. Wallace)
+    - "+3"
+    - 67-62
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - Shooting foul by C. Robinson
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - J. Williams enters the game for S. Battier
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - S. Swift enters the game for P. Gasol
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-62
+    - ''
+    - N. Anderson enters the game for B. Knight
+  - - '9:23.0'
+    - M. Moore enters the game for C. Robinson
+    - ''
+    - 67-62
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-63
+    - "+1"
+    - L. Wright makes free throw 1 of 2
+  - - '9:23.0'
+    - ''
+    - ''
+    - 67-64
+    - "+1"
+    - L. Wright makes free throw 2 of 2
+  - - '9:07.0'
+    - Turnover by M. Moore (lost ball; steal by S. Swift)
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 67-64
+    - ''
+    - N. Anderson misses 3-pt shot from 22 ft
+  - - '8:48.0'
+    - Defensive rebound by Team
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '8:48.0'
+    - Loose ball foul by L. Wright
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '8:39.0'
+    - Shooting foul by L. Wright
+    - ''
+    - 67-64
+    - ''
+    - ''
+  - - '8:39.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 68-64
+    - ''
+    - ''
+  - - '8:39.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 69-64
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 69-64
+    - ''
+    - M. Dickerson misses 2-pt shot from 17 ft
+  - - '8:20.0'
+    - ''
+    - ''
+    - 69-66
+    - "+2"
+    - S. Swift makes 2-pt shot at rim
+  - - '8:20.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Offensive rebound by S. Swift
+  - - '8:05.0'
+    - J. Stackhouse misses 2-pt shot from 20 ft
+    - ''
+    - 69-66
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Defensive rebound by S. Swift
+  - - '7:53.0'
+    - 'Jump ball: L. Wright vs. M. Moore (S. Swift gains possession)'
+  - - '7:38.0'
+    - ''
+    - ''
+    - 69-66
+    - ''
+    - Shooting foul by M. Moore
+  - - '7:38.0'
+    - ''
+    - ''
+    - 69-67
+    - "+1"
+    - L. Wright makes free throw 1 of 2
+  - - '7:38.0'
+    - ''
+    - ''
+    - 69-68
+    - "+1"
+    - L. Wright makes free throw 2 of 2
+  - - '7:27.0'
+    - J. Stackhouse misses 2-pt shot from 13 ft
+    - ''
+    - 69-68
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Defensive rebound by S. Swift
+  - - '7:12.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - M. Dickerson misses 2-pt shot at rim (block by B. Wallace)
+  - - '7:08.0'
+    - ''
+    - ''
+    - 69-68
+    - ''
+    - Offensive rebound by S. Swift
+  - - '7:04.0'
+    - ''
+    - ''
+    - 69-70
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 20 ft
+  - - '6:48.0'
+    - B. Wallace makes 2-pt shot at rim (assist by J. Barry)
+    - "+2"
+    - 71-70
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 71-70
+    - ''
+    - Violation by S. Swift (def goaltending)
+  - - '6:37.0'
+    - ''
+    - ''
+    - 71-70
+    - ''
+    - Turnover by J. Williams (lost ball)
+  - - '6:20.0'
+    - C. Atkins makes 2-pt shot from 15 ft
+    - "+2"
+    - 73-70
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 73-70
+    - ''
+    - Memphis full timeout
+  - - '6:19.0'
+    - C. Robinson enters the game for M. Moore
+    - ''
+    - 73-70
+    - ''
+    - ''
+  - - '6:05.0'
+    - ''
+    - ''
+    - 73-70
+    - ''
+    - J. Williams misses 2-pt shot from 16 ft
+  - - '6:04.0'
+    - Defensive rebound by J. Barry
+    - ''
+    - 73-70
+    - ''
+    - ''
+  - - '5:57.0'
+    - C. Robinson makes 2-pt shot at rim (assist by J. Barry)
+    - "+2"
+    - 75-70
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 75-72
+    - "+2"
+    - S. Swift makes 2-pt shot from 18 ft (assist by J. Williams)
+  - - '5:18.0'
+    - C. Atkins misses 3-pt shot from 24 ft
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Defensive rebound by N. Anderson
+  - - '5:06.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Turnover by J. Williams (lost ball; steal by J. Barry)
+  - - '4:53.0'
+    - C. Robinson misses 3-pt shot from 26 ft
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Defensive rebound by J. Williams
+  - - '4:42.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - M. Dickerson misses 3-pt shot from 24 ft
+  - - '4:40.0'
+    - Defensive rebound by C. Robinson
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:23.0'
+    - 'Jump ball: M. Dickerson vs. J. Stackhouse (B. Wallace gains possession)'
+  - - '4:23.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - S. Battier enters the game for N. Anderson
+  - - '4:15.0'
+    - C. Robinson misses 2-pt shot at rim (block by L. Wright)
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - Defensive rebound by S. Battier
+  - - '4:00.0'
+    - ''
+    - ''
+    - 75-72
+    - ''
+    - S. Swift misses 2-pt shot at rim (block by B. Wallace)
+  - - '3:59.0'
+    - Defensive rebound by J. Barry
+    - ''
+    - 75-72
+    - ''
+    - ''
+  - - '3:35.0'
+    - J. Stackhouse makes 2-pt shot from 22 ft (assist by C. Atkins)
+    - "+2"
+    - 77-72
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 77-74
+    - "+2"
+    - L. Wright makes 2-pt shot at rim (assist by M. Dickerson)
+  - - '3:10.0'
+    - Detroit full timeout
+    - ''
+    - 77-74
+    - ''
+    - ''
+  - - '3:10.0'
+    - M. Moore enters the game for C. Robinson
+    - ''
+    - 77-74
+    - ''
+    - ''
+  - - '2:56.0'
+    - J. Stackhouse makes 2-pt shot at rim
+    - "+2"
+    - 79-74
+    - ''
+    - ''
+  - - '2:40.0'
+    - ''
+    - ''
+    - 79-74
+    - ''
+    - S. Swift misses 2-pt shot at rim
+  - - '2:38.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '2:28.0'
+    - J. Stackhouse makes 2-pt shot from 6 ft
+    - "+2"
+    - 81-74
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - Turnover by L. Wright (bad pass; steal by B. Wallace)
+  - - '1:56.0'
+    - Detroit 20 second timeout
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '1:52.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - Defensive rebound by S. Swift
+  - - '1:35.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - Shooting foul by J. Barry
+  - - '1:35.0'
+    - ''
+    - ''
+    - 81-75
+    - "+1"
+    - S. Swift makes free throw 1 of 2
+  - - '1:35.0'
+    - ''
+    - ''
+    - 81-76
+    - "+1"
+    - S. Swift makes free throw 2 of 2
+  - - '1:24.0'
+    - Turnover by M. Moore (bad pass; steal by S. Swift)
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 81-78
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 20 ft (assist by J. Williams)
+  - - '1:05.0'
+    - J. Stackhouse makes 3-pt shot from 24 ft (assist by M. Moore)
+    - "+3"
+    - 84-78
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - Memphis full timeout
+  - - '1:02.0'
+    - D. Barros enters the game for C. Atkins
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '1:02.0'
+    - C. Robinson enters the game for M. Moore
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '0:57.3'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - Turnover by J. Williams (bad pass; steal by C. Robinson)
+  - - '0:37.6'
+    - C. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '0:35.4'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - Defensive rebound by S. Swift
+  - - '0:30.4'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - Turnover by S. Battier (out of bounds)
+  - - '0:28.7'
+    - Personal foul by J. Williams
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '0:28.7'
+    - M. Curry enters the game for B. Wallace
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '0:28.7'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - B. Knight enters the game for L. Wright
+  - - '0:27.8'
+    - Personal foul by S. Battier
+    - ''
+    - 84-78
+    - ''
+    - ''
+  - - '0:27.8'
+    - ''
+    - ''
+    - 84-78
+    - ''
+    - L. Wright enters the game for B. Knight
+  - - '0:27.8'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 85-78
+    - ''
+    - ''
+  - - '0:27.8'
+    - B. Wallace enters the game for M. Curry
+    - ''
+    - 85-78
+    - ''
+    - ''
+  - - '0:27.8'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 86-78
+    - ''
+    - ''
+  - - '0:27.8'
+    - ''
+    - ''
+    - 86-78
+    - ''
+    - Memphis 20 second timeout
+  - - '0:24.3'
+    - ''
+    - ''
+    - 86-78
+    - ''
+    - M. Dickerson misses 3-pt shot from 24 ft
+  - - '0:22.6'
+    - ''
+    - ''
+    - 86-80
+    - "+2"
+    - S. Battier makes 2-pt shot at rim
+  - - '0:22.6'
+    - ''
+    - ''
+    - 86-80
+    - ''
+    - Offensive rebound by S. Battier
+  - - '0:18.9'
+    - Personal foul by M. Dickerson
+    - ''
+    - 86-80
+    - ''
+    - ''
+  - - '0:18.9'
+    - J. Barry makes free throw 1 of 2
+    - "+1"
+    - 87-80
+    - ''
+    - ''
+  - - '0:18.9'
+    - J. Barry makes free throw 2 of 2
+    - "+1"
+    - 88-80
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 88-80
+    - ''
+    - Turnover by J. Williams (bad pass; steal by J. Stackhouse)
+  - - '0:06.2'
+    - J. Stackhouse makes 2-pt shot at rim (assist by J. Barry)
+    - "+2"
+    - 90-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

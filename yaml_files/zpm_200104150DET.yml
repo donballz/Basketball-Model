@@ -1,0 +1,230 @@
+---
+- name: Plus-Minus
+  data:
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: -6&#9642;Off: +15&#9642;Net: -21)'
+    - |2-
+
+      +5
+    - 220/+5
+    - 143/
+    - 136/-2
+    - 232/-8
+    - 114/
+    - 153/-1
+    - 'Elden Campbell (On: +9&#9642;Off: 0&#9642;Net: +9)'
+    - |2-
+
+      0
+    - 106/0
+    - 143/
+    - 196/+7
+    - 53/
+    - 114/-2
+    - 86/
+    - 40/+2
+    - 28/
+    - 229/+2
+    - 'Baron Davis (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 62/
+    - 170/-1
+    - 17/
+    - 63/-2
+    - 187/
+    - 249/0
+    - 'Jamal Mashburn (On: +13&#9642;Off: -4&#9642;Net: +17)'
+    - |2-
+
+      +8
+    - 249/+8
+    - 56/+6
+    - 102/
+    - 91/0
+    - 187/-5
+    - 50/
+    - 12/+4
+    - 249/0
+    - 'David Wesley (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - |2-
+
+      +8
+    - 250/+8
+    - 159/
+    - 90/0
+    - 250/-4
+    - 112/
+    - 137/+1
+    - 'Jamaal Magloire (On: +6&#9642;Off: +3&#9642;Net: +3)'
+    - "\n"
+    - 113/
+    - 137/+8
+    - 197/
+    - 53/-2
+    - 499/
+    - 'Derrick Coleman (On: +7&#9642;Off: +2&#9642;Net: +5)'
+    - "\n"
+    - 224/
+    - 25/+3
+    - 110/+7
+    - 260/
+    - 73/-6
+    - 47/
+    - 8/+2
+    - 89/+1
+    - 159/
+    - 'Hersey Hawkins (On: +5&#9642;Off: +4&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 67/+5
+    - 684/
+    - 'Eddie Robinson (On: +2&#9642;Off: +7&#9642;Net: -5)'
+    - "\n"
+    - 249/
+    - 158/+5
+    - 74/
+    - 17/0
+    - 68/
+    - 181/-2
+    - 109/-1
+    - 140/
+    - 'Scott Burrell (On: -1&#9642;Off: +10&#9642;Net: -11)'
+    - "\n"
+    - 321/
+    - 84/0
+    - 287/
+    - 56/+1
+    - 13/-2
+    - 237/
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: +3&#9642;Off: -12&#9642;Net: +15)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 133/
+    - 116/+4
+    - 241/+6
+    - 105/
+    - 153/+1
+    - 'Joe Smith (On: 0&#9642;Off: -9&#9642;Net: +9)'
+    - |2-
+
+      -5
+    - 218/-5
+    - 78/
+    - 147/-1
+    - 53/
+    - 114/+2
+    - 64/
+    - 62/+5
+    - 9/
+    - 50/-1
+    - 48/
+    - 104/0
+    - 45/
+    - 'Jerry Stackhouse (On: +3&#9642;Off: -12&#9642;Net: +15)'
+    - |2-
+
+      -8
+    - 250/-8
+    - 103/
+    - 146/+4
+    - 241/+6
+    - 67/
+    - 191/+1
+    - 'Ben Wallace (On: +1&#9642;Off: -10&#9642;Net: +11)'
+    - |2-
+
+      -5
+    - 220/-5
+    - 133/
+    - 146/+4
+    - 174/+1
+    - 133/
+    - 192/+1
+    - 'Corliss Williamson (On: -5&#9642;Off: -4&#9642;Net: -1)'
+    - |2-
+
+      -3
+    - 155/-3
+    - 136/
+    - 190/-1
+    - 17/
+    - 174/+1
+    - 67/
+    - 8/-2
+    - 249/0
+    - 'Kornel David (On: -9&#9642;Off: 0&#9642;Net: -9)'
+    - "\n"
+    - 157/
+    - 93/-5
+    - 37/-4
+    - 713/
+    - 'Brian Cardinal (On: -9&#9642;Off: 0&#9642;Net: -9)'
+    - "\n"
+    - 224/
+    - 25/-3
+    - 42/-6
+    - 154/
+    - 52/+2
+    - 241/
+    - 8/-2
+    - 250/
+    - 'Mikki Moore (On: -11&#9642;Off: +2&#9642;Net: -13)'
+    - "\n"
+    - 224/
+    - 25/-3
+    - 101/-9
+    - 131/
+    - 17/0
+    - 121/
+    - 128/+2
+    - 97/-1
+    - 151/
+    - 'Dana Barros (On: -9&#9642;Off: 0&#9642;Net: -9)'
+    - "\n"
+    - 250/
+    - 132/-9
+    - 117/
+    - 0/0
+    - 500/
+    - 'Mateen Cleaves (On: -12&#9642;Off: +3&#9642;Net: -15)'
+    - "\n"
+    - 250/
+    - 101/-9
+    - 389/
+    - 8/-2
+    - 89/-1
+    - 161/
+    - 'Jud Buechler (On: +3&#9642;Off: -12&#9642;Net: +15)'
+    - "\n"
+    - 678/
+    - 71/+3
+    - 50/-1
+    - 157/
+    - 43/+1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,3125 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. B. Wallace (C. Atkins gains possession)'
+  - - '11:43.0'
+    - C. Williamson makes 2-pt shot from 7 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:43.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:43.0'
+    - C. Williamson makes free throw 1 of 1
+    - "+1"
+    - 3-0
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 3-2
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by A. Williams)
+  - - '11:11.0'
+    - C. Williamson misses 2-pt shot from 14 ft (block by A. Davis)
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 3-2
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '10:54.0'
+    - ''
+    - ''
+    - 3-2
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '10:52.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '10:43.0'
+    - C. Williamson misses 2-pt shot from 11 ft
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 3-2
+    - ''
+    - Defensive rebound by A. Davis
+  - - '10:35.0'
+    - ''
+    - ''
+    - 3-5
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by A. Williams)
+  - - '10:14.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 3-5
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 3-5
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '10:05.0'
+    - ''
+    - ''
+    - 3-7
+    - "+2"
+    - M. Peterson makes 2-pt shot from 22 ft
+  - - '9:56.0'
+    - J. Smith makes 2-pt shot from 6 ft (assist by C. Williamson)
+    - "+2"
+    - 5-7
+    - ''
+    - ''
+  - - '9:56.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 5-7
+    - ''
+    - ''
+  - - '9:56.0'
+    - J. Smith makes free throw 1 of 1
+    - "+1"
+    - 6-7
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - A. Davis misses 2-pt shot from 5 ft
+  - - '9:39.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '9:37.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - M. Peterson misses 2-pt shot at rim
+  - - '9:35.0'
+    - Defensive rebound by C. Atkins
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '9:25.0'
+    - J. Stackhouse misses 2-pt shot from 13 ft (block by V. Carter)
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '9:23.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '9:13.0'
+    - J. Smith makes 2-pt shot from 14 ft
+    - "+2"
+    - 8-7
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 8-7
+    - ''
+    - M. Peterson misses 2-pt shot from 14 ft
+  - - '8:58.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:49.0'
+    - C. Williamson misses 2-pt shot from 14 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:47.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:46.0'
+    - C. Williamson makes 2-pt shot at rim (assist by B. Wallace)
+    - "+2"
+    - 10-7
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Offensive foul by A. Davis
+  - - '8:27.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Turnover by A. Davis (foul)
+  - - '8:13.0'
+    - J. Smith misses 2-pt shot at rim
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:11.0'
+    - Offensive rebound by J. Smith
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:11.0'
+    - 'Jump ball: M. Peterson vs. J. Smith (C. Atkins gains possession)'
+  - - '8:06.0'
+    - Turnover by B. Wallace (lost ball; steal by V. Carter)
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Turnover by V. Carter (bad pass)
+  - - '7:55.0'
+    - C. Atkins misses 2-pt shot from 20 ft
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '7:40.0'
+    - ''
+    - ''
+    - 10-9
+    - "+2"
+    - A. Davis makes 2-pt shot from 16 ft (assist by A. Williams)
+  - - '7:19.0'
+    - Offensive foul by C. Williamson
+    - ''
+    - 10-9
+    - ''
+    - ''
+  - - '7:19.0'
+    - Turnover by C. Williamson (foul)
+    - ''
+    - 10-9
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 10-11
+    - "+2"
+    - C. Oakley makes 2-pt shot from 17 ft (assist by V. Carter)
+  - - '6:59.0'
+    - J. Stackhouse misses 3-pt shot from 26 ft
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Defensive rebound by Team
+  - - '6:57.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Loose ball foul by J. Smith
+  - - '6:42.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '6:41.0'
+    - Defensive rebound by C. Atkins
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:29.0'
+    - J. Smith misses 2-pt shot from 17 ft
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - Defensive rebound by A. Davis
+  - - '6:18.0'
+    - ''
+    - ''
+    - 10-11
+    - ''
+    - M. Peterson misses 3-pt shot from 24 ft
+  - - '6:16.0'
+    - Defensive rebound by Team
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '6:06.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 10-11
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 10-13
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by A. Williams)
+  - - '5:41.0'
+    - C. Williamson misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:39.0'
+    - Offensive rebound by J. Smith
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:36.0'
+    - J. Smith makes 2-pt shot at rim
+    - "+2"
+    - 12-13
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - M. Peterson misses 3-pt shot from 23 ft
+  - - '5:19.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '5:17.0'
+    - ''
+    - ''
+    - 12-15
+    - "+2"
+    - M. Peterson makes 2-pt shot at rim
+  - - '4:50.0'
+    - J. Smith makes 2-pt shot from 16 ft (assist by C. Atkins)
+    - "+2"
+    - 14-15
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '4:30.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:19.0'
+    - Official timeout
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:17.0'
+    - J. Stackhouse misses 2-pt shot from 20 ft
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Defensive rebound by A. Davis
+  - - '4:08.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - V. Carter misses 2-pt shot from 22 ft
+  - - '4:06.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '4:00.0'
+    - C. Atkins makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 16-15
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - V. Carter misses 2-pt shot from 11 ft
+  - - '3:39.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '3:31.0'
+    - J. Smith misses 2-pt shot at rim (block by V. Carter)
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Defensive rebound by Team
+  - - '3:16.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Personal foul by C. Williamson
+  - - '3:07.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '3:05.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '2:52.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '2:50.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Offensive rebound by A. Davis
+  - - '2:49.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - A. Davis misses 2-pt shot at rim (block by B. Wallace)
+  - - '2:47.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '2:40.0'
+    - J. Smith makes 2-pt shot from 20 ft (assist by J. Stackhouse)
+    - "+2"
+    - 18-15
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 18-17
+    - "+2"
+    - A. Williams makes 2-pt shot at rim (assist by V. Carter)
+  - - '2:19.0'
+    - Detroit full timeout
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '2:19.0'
+    - J. Buechler enters the game for C. Williamson
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - K. Clark enters the game for C. Oakley
+  - - '2:11.0'
+    - C. Atkins misses 2-pt shot from 20 ft
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '2:10.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '2:03.0'
+    - B. Wallace makes 2-pt shot from 17 ft (assist by J. Stackhouse)
+    - "+2"
+    - 20-17
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - A. Davis misses 2-pt shot at rim (block by B. Wallace)
+  - - '1:43.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - Offensive rebound by A. Davis
+  - - '1:41.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - Shooting foul by J. Smith
+  - - '1:41.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '1:41.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - Offensive rebound by Team
+  - - '1:41.0'
+    - M. Moore enters the game for J. Smith
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 20-17
+    - ''
+    - V. Carter misses free throw 2 of 2
+  - - '1:41.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '1:26.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 20-17
+    - ''
+    - ''
+  - - '1:26.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 21-17
+    - ''
+    - ''
+  - - '1:26.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - D. Curry enters the game for M. Peterson
+  - - '1:26.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 22-17
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 22-19
+    - "+2"
+    - K. Clark makes 2-pt shot from 8 ft (assist by A. Williams)
+  - - '1:03.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '1:01.0'
+    - Offensive rebound by M. Moore
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '0:59.9'
+    - M. Moore misses 2-pt shot from 6 ft
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '0:57.9'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 22-19
+    - ''
+    - ''
+  - - '0:57.9'
+    - B. Wallace makes 2-pt shot at rim
+    - "+2"
+    - 24-19
+    - ''
+    - ''
+  - - '0:45.9'
+    - ''
+    - ''
+    - 24-19
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '0:43.3'
+    - ''
+    - ''
+    - 24-19
+    - ''
+    - Offensive rebound by K. Clark
+  - - '0:43.2'
+    - ''
+    - ''
+    - 24-21
+    - "+2"
+    - K. Clark makes 2-pt shot from 4 ft
+  - - '0:34.3'
+    - Detroit 20 second timeout
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '0:34.3'
+    - Turnover by Team (5 second)
+    - ''
+    - 24-21
+    - ''
+    - ''
+  - - '0:22.2'
+    - ''
+    - ''
+    - 24-23
+    - "+2"
+    - K. Clark makes 2-pt shot from 15 ft
+  - - '0:22.2'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Shooting foul by M. Moore
+  - - '0:22.2'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - K. Clark misses free throw 1 of 1
+  - - '0:21.8'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '0:02.8'
+    - Turnover by J. Stackhouse (traveling)
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - A. Williams misses 3-pt shot from 30 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - Personal foul by M. Moore
+  - - '11:37.0'
+    - ''
+    - ''
+    - 24-23
+    - ''
+    - K. Clark misses 2-pt shot from 10 ft
+  - - '11:35.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 24-23
+    - ''
+    - ''
+  - - '11:19.0'
+    - J. Stackhouse makes 2-pt shot from 8 ft
+    - "+2"
+    - 26-23
+    - ''
+    - ''
+  - - '11:19.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '11:19.0'
+    - J. Stackhouse makes free throw 1 of 1
+    - "+1"
+    - 27-23
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 27-25
+    - "+2"
+    - D. Curry makes 2-pt shot from 14 ft (assist by A. Williams)
+  - - '10:54.0'
+    - Personal foul by A. Williams
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - C. Childs enters the game for V. Carter
+  - - '10:41.0'
+    - J. Stackhouse misses 2-pt shot from 13 ft
+    - ''
+    - 27-25
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 27-25
+    - ''
+    - Defensive rebound by K. Clark
+  - - '10:33.0'
+    - ''
+    - ''
+    - 27-27
+    - "+2"
+    - C. Childs makes 2-pt shot from 19 ft (assist by K. Clark)
+  - - '10:21.0'
+    - M. Moore makes 2-pt shot from 19 ft (assist by D. Barros)
+    - "+2"
+    - 29-27
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 29-27
+    - ''
+    - D. Curry misses 3-pt shot from 23 ft
+  - - '10:06.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '9:53.0'
+    - Offensive foul by M. Moore
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '9:53.0'
+    - Turnover by M. Moore (foul)
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '9:53.0'
+    - B. Cardinal enters the game for B. Wallace
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '9:53.0'
+    - J. Smith enters the game for M. Moore
+    - ''
+    - 29-27
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 29-29
+    - "+2"
+    - C. Childs makes 2-pt shot from 20 ft (assist by A. Davis)
+  - - '9:27.0'
+    - B. Cardinal makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 31-29
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - Turnover by K. Clark (lost ball; steal by D. Barros)
+  - - '9:06.0'
+    - Personal foul by C. Childs
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 31-29
+    - ''
+    - J. Williams enters the game for A. Davis
+  - - '8:59.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '8:59.0'
+    - Official timeout
+    - ''
+    - 31-29
+    - ''
+    - ''
+  - - '8:59.0'
+    - B. Cardinal makes free throw 1 of 2
+    - "+1"
+    - 32-29
+    - ''
+    - ''
+  - - '8:59.0'
+    - B. Cardinal makes free throw 2 of 2
+    - "+1"
+    - 33-29
+    - ''
+    - ''
+  - - '8:45.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - D. Curry misses 2-pt shot from 17 ft
+  - - '8:43.0'
+    - Defensive rebound by D. Barros
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '8:39.0'
+    - D. Barros misses 2-pt shot from 18 ft
+    - ''
+    - 33-29
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 33-29
+    - ''
+    - Defensive rebound by A. Williams
+  - - '8:23.0'
+    - ''
+    - ''
+    - 33-31
+    - "+2"
+    - K. Clark makes 2-pt shot at rim
+  - - '8:10.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 33-31
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - C. Oakley enters the game for K. Clark
+  - - '8:10.0'
+    - ''
+    - ''
+    - 33-31
+    - ''
+    - V. Carter enters the game for A. Williams
+  - - '8:10.0'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 34-31
+    - ''
+    - ''
+  - - '8:10.0'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 35-31
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - C. Childs misses 2-pt shot from 15 ft
+  - - '7:49.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 35-31
+    - ''
+    - ''
+  - - '7:43.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 35-31
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - Defensive rebound by D. Curry
+  - - '7:31.0'
+    - ''
+    - ''
+    - 35-34
+    - "+3"
+    - D. Curry makes 3-pt shot from 23 ft (assist by C. Oakley)
+  - - '7:13.0'
+    - Turnover by J. Stackhouse (bad pass; steal by J. Williams)
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - D. Curry misses 2-pt shot from 22 ft
+  - - '7:05.0'
+    - Defensive rebound by Team
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '7:04.0'
+    - C. Atkins enters the game for J. Stackhouse
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '7:04.0'
+    - C. Williamson enters the game for J. Buechler
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '6:48.0'
+    - C. Williamson makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 37-34
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - Offensive foul by V. Carter
+  - - '6:34.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - Turnover by V. Carter (foul)
+  - - '6:34.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - A. Williams enters the game for D. Curry
+  - - '6:22.0'
+    - B. Cardinal misses 2-pt shot at rim (block by V. Carter)
+    - ''
+    - 37-34
+    - ''
+    - ''
+  - - '6:21.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - Defensive rebound by J. Williams
+  - - '6:09.0'
+    - ''
+    - ''
+    - 37-34
+    - ''
+    - V. Carter misses 2-pt shot from 11 ft
+  - - '6:07.0'
+    - Defensive rebound by B. Cardinal
+    - ''
+    - 37-34
+    - ''
+    - ''
+  - - '5:54.0'
+    - C. Williamson makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 39-34
+    - ''
+    - ''
+  - - '5:54.0'
+    - Shooting foul by J. Williams
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '5:54.0'
+    - Official timeout
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 39-34
+    - ''
+    - A. Davis enters the game for V. Carter
+  - - '5:54.0'
+    - C. Williamson makes free throw 1 of 1
+    - "+1"
+    - 40-34
+    - ''
+    - ''
+  - - '5:36.0'
+    - Violation by C. Atkins (illegal defense)
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '5:32.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - A. Williams misses 2-pt shot from 19 ft
+  - - '5:30.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '5:17.0'
+    - C. Williamson misses 2-pt shot from 19 ft
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '5:16.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - Defensive rebound by J. Williams
+  - - '4:58.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - Personal foul by J. Smith
+  - - '4:58.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - K. Clark enters the game for J. Williams
+  - - '4:58.0'
+    - B. Wallace enters the game for J. Smith
+    - ''
+    - 40-34
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 40-34
+    - ''
+    - Shooting foul by B. Cardinal
+  - - '4:49.0'
+    - ''
+    - ''
+    - 40-35
+    - "+1"
+    - C. Childs makes free throw 1 of 2
+  - - '4:49.0'
+    - ''
+    - ''
+    - 40-36
+    - "+1"
+    - C. Childs makes free throw 2 of 2
+  - - '4:35.0'
+    - C. Williamson makes 2-pt shot from 6 ft
+    - "+2"
+    - 42-36
+    - ''
+    - ''
+  - - '4:14.0'
+    - ''
+    - ''
+    - 42-38
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by A. Williams)
+  - - '3:58.0'
+    - C. Williamson misses 2-pt shot from 9 ft
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '3:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '3:55.0'
+    - D. Barros misses 3-pt shot from 27 ft
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - Defensive rebound by A. Davis
+  - - '3:46.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - A. Williams misses 2-pt shot from 21 ft
+  - - '3:44.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '3:38.0'
+    - C. Atkins makes 2-pt shot at rim (assist by B. Wallace)
+    - "+2"
+    - 44-38
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 44-40
+    - "+2"
+    - A. Davis makes 2-pt shot from 15 ft (assist by A. Williams)
+  - - '3:00.0'
+    - Detroit full timeout
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '3:00.0'
+    - J. Stackhouse enters the game for D. Barros
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 44-40
+    - ''
+    - Violation by K. Clark (kicked ball)
+  - - '2:51.0'
+    - Turnover by C. Atkins (bad pass; steal by A. Williams)
+    - ''
+    - 44-40
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 44-42
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '2:47.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - Shooting foul by B. Cardinal
+  - - '2:47.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - A. Williams misses free throw 1 of 1
+  - - '2:45.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 44-42
+    - ''
+    - ''
+  - - '2:30.0'
+    - C. Atkins misses 3-pt shot from 25 ft
+    - ''
+    - 44-42
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - Defensive rebound by A. Davis
+  - - '2:18.0'
+    - ''
+    - ''
+    - 44-42
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by B. Wallace)
+  - - '2:10.0'
+    - C. Atkins makes 2-pt shot at rim
+    - "+2"
+    - 46-42
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - A. Williams misses 2-pt shot at rim (block by B. Cardinal)
+  - - '1:44.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Offensive rebound by Team
+  - - '1:44.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Toronto 20 second timeout
+  - - '1:44.0'
+    - K. David enters the game for C. Williamson
+    - ''
+    - 46-42
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Turnover by Team (shot clock)
+  - - '1:26.0'
+    - B. Cardinal misses 3-pt shot from 23 ft
+    - ''
+    - 46-42
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Defensive rebound by K. Clark
+  - - '1:16.0'
+    - ''
+    - ''
+    - 46-42
+    - ''
+    - Personal foul by C. Atkins
+  - - '1:16.0'
+    - ''
+    - ''
+    - 46-43
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '1:16.0'
+    - ''
+    - ''
+    - 46-44
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '1:00.0'
+    - J. Stackhouse makes 2-pt shot from 12 ft
+    - "+2"
+    - 48-44
+    - ''
+    - ''
+  - - '0:48.9'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - K. Clark misses 2-pt shot from 9 ft (block by B. Wallace)
+  - - '0:47.8'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '0:42.5'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '0:21.9'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '0:00.9'
+    - K. David misses 2-pt shot from 17 ft
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Defensive rebound by A. Williams
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - V. Carter misses 2-pt shot at rim
+  - - '11:46.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Offensive rebound by A. Davis
+  - - '11:44.0'
+    - ''
+    - ''
+    - 48-46
+    - "+2"
+    - A. Davis makes 2-pt shot at rim
+  - - '11:41.0'
+    - J. Stackhouse misses 2-pt shot from 16 ft
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '11:34.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - V. Carter misses 3-pt shot from 23 ft
+  - - '11:32.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Offensive rebound by A. Davis
+  - - '11:21.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '11:19.0'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '11:08.0'
+    - J. Smith misses 2-pt shot from 21 ft
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 48-46
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '10:55.0'
+    - ''
+    - ''
+    - 48-48
+    - "+2"
+    - A. Davis makes 2-pt shot from 14 ft (assist by A. Williams)
+  - - '10:38.0'
+    - Turnover by C. Williamson (bad pass; steal by C. Oakley)
+    - ''
+    - 48-48
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - Shooting foul by J. Smith
+  - - '10:26.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - K. Clark misses free throw 1 of 2
+  - - '10:26.0'
+    - ''
+    - ''
+    - 48-48
+    - ''
+    - Offensive rebound by Team
+  - - '10:26.0'
+    - ''
+    - ''
+    - 48-49
+    - "+1"
+    - K. Clark makes free throw 2 of 2
+  - - '10:11.0'
+    - Turnover by J. Stackhouse (lost ball; steal by V. Carter)
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by J. Smith)
+  - - '9:53.0'
+    - C. Atkins makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 50-49
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '9:27.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '9:13.0'
+    - J. Smith makes 2-pt shot from 18 ft
+    - "+2"
+    - 52-49
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 52-49
+    - ''
+    - Shooting foul by B. Wallace
+  - - '8:56.0'
+    - ''
+    - ''
+    - 52-50
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '8:56.0'
+    - ''
+    - ''
+    - 52-51
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '8:40.0'
+    - Personal foul by C. Oakley
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '8:29.0'
+    - J. Smith misses 2-pt shot at rim
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '8:19.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - A. Williams misses 2-pt shot from 18 ft
+  - - '8:18.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '7:58.0'
+    - C. Atkins misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 52-51
+    - ''
+    - Defensive rebound by V. Carter
+  - - '7:53.0'
+    - ''
+    - ''
+    - 52-53
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '7:38.0'
+    - J. Stackhouse makes 2-pt shot from 19 ft
+    - "+2"
+    - 54-53
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 54-53
+    - ''
+    - Turnover by A. Davis (bad pass; steal by J. Smith)
+  - - '7:13.0'
+    - J. Stackhouse makes 2-pt shot at rim (assist by J. Smith)
+    - "+2"
+    - 56-53
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 56-53
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by C. Williamson)
+  - - '6:43.0'
+    - Personal foul by A. Davis
+    - ''
+    - 56-53
+    - ''
+    - ''
+  - - '6:27.0'
+    - B. Wallace makes 2-pt shot at rim (assist by J. Stackhouse)
+    - "+2"
+    - 58-53
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - A. Davis misses 2-pt shot from 8 ft
+  - - '6:05.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - Offensive rebound by K. Clark
+  - - '6:03.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '6:02.0'
+    - Defensive rebound by J. Smith
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - Official timeout
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - B. Cardinal enters the game for J. Smith
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - C. Williamson makes free throw 1 of 2
+    - "+1"
+    - 59-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - C. Williamson misses free throw 2 of 2
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '5:58.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - Defensive rebound by A. Davis
+  - - '5:44.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - Personal foul by J. Stackhouse
+  - - '5:33.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '5:32.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '5:16.0'
+    - J. Stackhouse misses 2-pt shot from 22 ft
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - Defensive rebound by Team
+  - - '5:04.0'
+    - ''
+    - ''
+    - 59-56
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by A. Williams)
+  - - '4:40.0'
+    - Turnover by J. Stackhouse (bad pass; steal by V. Carter)
+    - ''
+    - 59-56
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - A. Williams misses 2-pt shot from 15 ft
+  - - '4:33.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Offensive rebound by V. Carter
+  - - '4:33.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Shooting foul by J. Stackhouse
+  - - '4:33.0'
+    - ''
+    - ''
+    - 59-57
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '4:33.0'
+    - ''
+    - ''
+    - 59-58
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '4:21.0'
+    - J. Stackhouse misses 3-pt shot from 23 ft
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - B. Wallace misses free throw 1 of 2
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - B. Wallace misses free throw 2 of 2
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:19.0'
+    - Offensive rebound by B. Cardinal
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:11.0'
+    - B. Cardinal misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - Defensive rebound by Team
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-58
+    - ''
+    - Loose ball foul by C. Williamson
+  - - '4:10.0'
+    - Technical foul by Team
+    - ''
+    - 59-58
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-59
+    - "+1"
+    - C. Oakley makes free throw technical
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - C. Oakley misses free throw technical
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - Offensive rebound by Team
+  - - '4:10.0'
+    - Technical foul by C. Williamson
+    - ''
+    - 59-59
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-60
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '4:10.0'
+    - ''
+    - ''
+    - 59-61
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '4:10.0'
+    - Detroit full timeout
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:56.0'
+    - Turnover by C. Williamson (bad pass; steal by C. Oakley)
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 59-61
+    - ''
+    - Personal foul by C. Williamson
+  - - '3:54.0'
+    - ''
+    - ''
+    - 59-62
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '3:54.0'
+    - M. Moore enters the game for C. Williamson
+    - ''
+    - 59-62
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 59-63
+    - "+1"
+    - C. Oakley makes free throw 2 of 2
+  - - '3:39.0'
+    - B. Cardinal misses 2-pt shot from 17 ft
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '3:37.0'
+    - Offensive rebound by B. Cardinal
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '3:28.0'
+    - C. Atkins misses 2-pt shot from 18 ft
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '3:27.0'
+    - Offensive rebound by M. Moore
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '3:15.0'
+    - B. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '2:57.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - V. Carter misses 2-pt shot from 17 ft
+  - - '2:55.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '2:43.0'
+    - B. Cardinal misses 2-pt shot at rim (block by C. Oakley)
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Defensive rebound by V. Carter
+  - - '2:35.0'
+    - ''
+    - ''
+    - 59-65
+    - "+2"
+    - A. Williams makes 2-pt shot from 17 ft (assist by V. Carter)
+  - - '2:16.0'
+    - C. Atkins misses 2-pt shot at rim
+    - ''
+    - 59-65
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 59-65
+    - ''
+    - Defensive rebound by Team
+  - - '1:56.0'
+    - ''
+    - ''
+    - 59-65
+    - ''
+    - Personal foul by B. Cardinal
+  - - '1:56.0'
+    - D. Barros enters the game for C. Atkins
+    - ''
+    - 59-65
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 59-65
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '1:56.0'
+    - ''
+    - ''
+    - 59-65
+    - ''
+    - Offensive rebound by Team
+  - - '1:56.0'
+    - ''
+    - ''
+    - 59-66
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '1:42.0'
+    - D. Barros misses 2-pt shot from 8 ft
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '1:35.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - Turnover by C. Oakley (lost ball; steal by D. Barros)
+  - - '1:21.0'
+    - J. Stackhouse makes 3-pt shot from 25 ft (assist by M. Moore)
+    - "+3"
+    - 62-66
+    - ''
+    - ''
+  - - '0:55.9'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - C. Oakley misses 3-pt shot from 24 ft
+  - - '0:53.9'
+    - Defensive rebound by D. Barros
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - Personal foul by V. Carter
+    - ''
+    - 62-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - ''
+    - ''
+    - 62-66
+    - ''
+    - C. Childs enters the game for V. Carter
+  - - '0:49.5'
+    - J. Stackhouse makes free throw 1 of 2
+    - "+1"
+    - 63-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - K. David enters the game for M. Moore
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - J. Stackhouse makes free throw 2 of 2
+    - "+1"
+    - 64-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - J. Buechler enters the game for B. Cardinal
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '0:49.5'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - M. Peterson enters the game for K. Clark
+  - - '0:38.9'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - A. Davis misses 2-pt shot from 15 ft
+  - - '0:36.9'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '0:34.9'
+    - ''
+    - ''
+    - 64-66
+    - ''
+    - C. Oakley misses 2-pt shot at rim
+  - - '0:33.6'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '0:33.6'
+    - Turnover by B. Wallace (out of bounds)
+    - ''
+    - 64-66
+    - ''
+    - ''
+  - - '0:24.6'
+    - ''
+    - ''
+    - 64-68
+    - "+2"
+    - A. Williams makes 2-pt shot at rim
+  - - '0:24.6'
+    - Turnover by B. Wallace (inbound)
+    - ''
+    - 64-68
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 64-68
+    - ''
+    - A. Williams misses 2-pt shot from 22 ft
+  - - '0:01.6'
+    - Defensive rebound by Team
+    - ''
+    - 64-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - D. Barros makes 2-pt shot from 14 ft
+    - "+2"
+    - 66-68
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 66-68
+    - ''
+    - C. Childs misses 2-pt shot from 5 ft
+  - - '11:14.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '11:06.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 66-68
+    - ''
+    - M. Peterson misses 2-pt shot at rim (block by M. Moore)
+  - - '10:50.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '10:37.0'
+    - J. Stackhouse makes 2-pt shot from 10 ft
+    - "+2"
+    - 68-68
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 68-70
+    - "+2"
+    - A. Davis makes 2-pt shot from 15 ft
+  - - '9:59.0'
+    - J. Stackhouse makes 2-pt shot from 15 ft
+    - "+2"
+    - 70-70
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 70-72
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by A. Williams)
+  - - '9:22.0'
+    - Turnover by D. Barros (bad pass)
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - V. Carter enters the game for M. Peterson
+  - - '9:03.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - A. Davis misses 2-pt shot from 4 ft (block by M. Moore)
+  - - '8:59.0'
+    - Defensive rebound by J. Buechler
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - Flagrant foul type 1 by M. Moore
+  - - '8:54.0'
+    - Turnover by J. Stackhouse (lost ball)
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 70-72
+    - ''
+    - Official timeout
+  - - '8:54.0'
+    - C. Atkins enters the game for B. Wallace
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '8:54.0'
+    - J. Smith enters the game for J. Stackhouse
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '8:54.0'
+    - C. Williamson enters the game for J. Buechler
+    - ''
+    - 70-72
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 70-73
+    - "+1"
+    - V. Carter makes free throw flagrant 2 of 2
+  - - '8:54.0'
+    - ''
+    - ''
+    - 70-74
+    - "+1"
+    - V. Carter makes no shot
+  - - '8:43.0'
+    - ''
+    - ''
+    - 70-74
+    - ''
+    - C. Childs misses 3-pt shot from 26 ft
+  - - '8:40.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 70-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 70-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - M. Moore makes free throw 1 of 2
+    - "+1"
+    - 71-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 71-74
+    - ''
+    - J. Williams enters the game for A. Davis
+  - - '8:26.0'
+    - M. Moore makes free throw 2 of 2
+    - "+1"
+    - 72-74
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '8:10.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:45.0'
+    - D. Barros misses 3-pt shot from 26 ft
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:44.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - A. Williams misses 2-pt shot from 9 ft
+  - - '7:30.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:17.0'
+    - C. Williamson misses 2-pt shot from 15 ft
+    - ''
+    - 72-74
+    - ''
+    - ''
+  - - '7:15.0'
+    - ''
+    - ''
+    - 72-74
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '7:02.0'
+    - ''
+    - ''
+    - 72-76
+    - "+2"
+    - V. Carter makes 2-pt shot from 9 ft
+  - - '6:48.0'
+    - Turnover by C. Williamson (bad pass; steal by C. Childs)
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '6:42.0'
+    - ''
+    - ''
+    - 72-76
+    - ''
+    - A. Williams misses 2-pt shot at rim
+  - - '6:40.0'
+    - Defensive rebound by M. Moore
+    - ''
+    - 72-76
+    - ''
+    - ''
+  - - '6:37.0'
+    - C. Atkins makes 2-pt shot at rim (assist by M. Moore)
+    - "+2"
+    - 74-76
+    - ''
+    - ''
+  - - '6:37.0'
+    - Shooting foul by C. Childs
+    - ''
+    - 74-76
+    - ''
+    - ''
+  - - '6:37.0'
+    - C. Atkins makes free throw 1 of 1
+    - "+1"
+    - 75-76
+    - ''
+    - ''
+  - - '6:27.0'
+    - ''
+    - ''
+    - 75-78
+    - "+2"
+    - C. Childs makes 2-pt shot from 20 ft (assist by A. Williams)
+  - - '6:15.0'
+    - M. Moore makes 2-pt shot at rim (assist by D. Barros)
+    - "+2"
+    - 77-78
+    - ''
+    - ''
+  - - '5:57.0'
+    - ''
+    - ''
+    - 77-78
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '5:56.0'
+    - ''
+    - ''
+    - 77-78
+    - ''
+    - Offensive rebound by Team
+  - - '5:56.0'
+    - ''
+    - ''
+    - 77-78
+    - ''
+    - Official timeout
+  - - '5:56.0'
+    - B. Wallace enters the game for M. Moore
+    - ''
+    - 77-78
+    - ''
+    - ''
+  - - '5:56.0'
+    - J. Stackhouse enters the game for D. Barros
+    - ''
+    - 77-78
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 77-78
+    - ''
+    - A. Davis enters the game for A. Williams
+  - - '5:38.0'
+    - ''
+    - ''
+    - 77-78
+    - ''
+    - Shooting foul by J. Smith
+  - - '5:38.0'
+    - ''
+    - ''
+    - 77-79
+    - "+1"
+    - J. Williams makes free throw 1 of 2
+  - - '5:38.0'
+    - B. Cardinal enters the game for J. Smith
+    - ''
+    - 77-79
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 77-80
+    - "+1"
+    - J. Williams makes free throw 2 of 2
+  - - '5:27.0'
+    - Personal foul by V. Carter
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:20.0'
+    - C. Atkins misses 2-pt shot from 21 ft
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - Defensive rebound by J. Williams
+  - - '5:12.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '5:11.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - Offensive rebound by V. Carter
+  - - '5:08.0'
+    - ''
+    - ''
+    - 77-80
+    - ''
+    - V. Carter misses 2-pt shot from 9 ft
+  - - '5:08.0'
+    - 'Jump ball: J. Williams vs. C. Williamson (B. Wallace gains possession)'
+  - - '5:08.0'
+    - Defensive rebound by C. Williamson
+    - ''
+    - 77-80
+    - ''
+    - ''
+  - - '5:03.0'
+    - B. Cardinal makes 2-pt shot from 9 ft (assist by J. Stackhouse)
+    - "+2"
+    - 79-80
+    - ''
+    - ''
+  - - '5:03.0'
+    - Shooting foul by C. Childs
+    - ''
+    - 79-80
+    - ''
+    - ''
+  - - '5:03.0'
+    - B. Cardinal makes free throw 1 of 1
+    - "+1"
+    - 80-80
+    - ''
+    - ''
+  - - '4:47.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - V. Carter misses 2-pt shot from 16 ft (block by J. Stackhouse)
+  - - '4:45.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '4:26.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Defensive rebound by A. Davis
+  - - '4:13.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Turnover by C. Childs (bad pass; steal by B. Wallace)
+  - - '4:06.0'
+    - Turnover by C. Atkins (bad pass; steal by V. Carter)
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - V. Carter misses 2-pt shot from 6 ft
+  - - '3:55.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Offensive rebound by V. Carter
+  - - '3:41.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Shooting foul by B. Wallace
+  - - '3:41.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - V. Carter misses free throw 1 of 2
+  - - '3:41.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Offensive rebound by Team
+  - - '3:41.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Toronto full timeout
+  - - '3:41.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - V. Carter misses free throw 2 of 2
+  - - '3:40.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '3:37.0'
+    - Turnover by B. Wallace (bad pass)
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Toronto 20 second timeout
+  - - '3:37.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - A. Williams enters the game for J. Williams
+  - - '3:20.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - C. Childs misses 2-pt shot from 21 ft
+  - - '3:18.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Offensive rebound by Team
+  - - '3:00.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Shooting foul by B. Wallace
+  - - '3:00.0'
+    - ''
+    - ''
+    - 80-81
+    - "+1"
+    - V. Carter makes free throw 1 of 2
+  - - '3:00.0'
+    - ''
+    - ''
+    - 80-82
+    - "+1"
+    - V. Carter makes free throw 2 of 2
+  - - '2:43.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 80-82
+    - ''
+    - ''
+  - - '2:42.0'
+    - ''
+    - ''
+    - 80-82
+    - ''
+    - Defensive rebound by Team
+  - - '2:28.0'
+    - ''
+    - ''
+    - 80-82
+    - ''
+    - C. Oakley misses 2-pt shot from 19 ft
+  - - '2:27.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 80-82
+    - ''
+    - ''
+  - - '2:09.0'
+    - C. Williamson makes 2-pt shot from 6 ft (assist by C. Atkins)
+    - "+2"
+    - 82-82
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - A. Williams misses 2-pt shot from 11 ft
+  - - '1:45.0'
+    - Defensive rebound by B. Cardinal
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '1:44.0'
+    - Personal foul by A. Davis
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - K. Clark enters the game for A. Davis
+  - - '1:44.0'
+    - B. Cardinal misses free throw 1 of 2
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '1:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '1:44.0'
+    - B. Cardinal misses free throw 2 of 2
+    - ''
+    - 82-82
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '1:40.0'
+    - ''
+    - ''
+    - 82-82
+    - ''
+    - Personal foul by B. Cardinal
+  - - '1:40.0'
+    - ''
+    - ''
+    - 82-83
+    - "+1"
+    - C. Childs makes free throw 1 of 2
+  - - '1:40.0'
+    - D. Barros enters the game for B. Cardinal
+    - ''
+    - 82-83
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 82-84
+    - "+1"
+    - C. Childs makes free throw 2 of 2
+  - - '1:26.0'
+    - C. Atkins misses 3-pt shot from 25 ft
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - Defensive rebound by V. Carter
+  - - '1:12.0'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - Turnover by C. Childs (bad pass; steal by C. Williamson)
+  - - '0:48.9'
+    - J. Stackhouse misses 3-pt shot from 24 ft
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '0:48.0'
+    - Offensive rebound by C. Williamson
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '0:48.0'
+    - C. Williamson makes 2-pt shot at rim
+    - "+2"
+    - 84-84
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - C. Oakley misses 2-pt shot from 15 ft
+  - - '0:28.4'
+    - Defensive rebound by J. Stackhouse
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:05.9'
+    - J. Stackhouse misses 2-pt shot from 13 ft
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:02.6'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:01.0'
+    - Turnover by B. Wallace (bad pass)
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Toronto full timeout
+  - - '0:01.0'
+    - M. Moore enters the game for C. Williamson
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: K. Clark vs. B. Wallace (C. Atkins gains possession)'
+  - - '4:43.0'
+    - J. Stackhouse misses 2-pt shot from 15 ft
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Defensive rebound by K. Clark
+  - - '4:31.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - A. Williams misses 2-pt shot from 13 ft
+  - - '4:29.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '4:17.0'
+    - J. Stackhouse misses 3-pt shot from 24 ft
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '3:59.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Shooting foul by C. Williamson
+  - - '3:59.0'
+    - ''
+    - ''
+    - 84-85
+    - "+1"
+    - K. Clark makes free throw 1 of 2
+  - - '3:59.0'
+    - ''
+    - ''
+    - 84-85
+    - ''
+    - K. Clark misses free throw 2 of 2
+  - - '3:59.0'
+    - Defensive rebound by Team
+    - ''
+    - 84-85
+    - ''
+    - ''
+  - - '3:58.0'
+    - Loose ball foul by C. Oakley
+    - ''
+    - 84-85
+    - ''
+    - ''
+  - - '3:41.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 84-85
+    - ''
+    - ''
+  - - '3:41.0'
+    - B. Wallace makes free throw 1 of 2
+    - "+1"
+    - 85-85
+    - ''
+    - ''
+  - - '3:41.0'
+    - D. Barros enters the game for B. Cardinal
+    - ''
+    - 85-85
+    - ''
+    - ''
+  - - '3:41.0'
+    - B. Wallace misses free throw 2 of 2
+    - ''
+    - 85-85
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 85-85
+    - ''
+    - Defensive rebound by K. Clark
+  - - '3:27.0'
+    - ''
+    - ''
+    - 85-87
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by K. Clark)
+  - - '3:11.0'
+    - B. Wallace makes 2-pt shot at rim (assist by C. Williamson)
+    - "+2"
+    - 87-87
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 87-87
+    - ''
+    - Turnover by C. Childs (bad pass; steal by C. Atkins)
+  - - '2:45.0'
+    - D. Barros misses 3-pt shot from 25 ft
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '2:44.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 87-87
+    - ''
+    - ''
+  - - '2:41.0'
+    - C. Atkins makes 3-pt shot from 23 ft (assist by B. Wallace)
+    - "+3"
+    - 90-87
+    - ''
+    - ''
+  - - '2:34.0'
+    - ''
+    - ''
+    - 90-87
+    - ''
+    - Toronto full timeout
+  - - '2:34.0'
+    - B. Cardinal enters the game for C. Williamson
+    - ''
+    - 90-87
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 90-89
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '2:12.0'
+    - Detroit full timeout
+    - ''
+    - 90-89
+    - ''
+    - ''
+  - - '2:12.0'
+    - C. Williamson enters the game for B. Cardinal
+    - ''
+    - 90-89
+    - ''
+    - ''
+  - - '2:01.0'
+    - D. Barros makes 2-pt shot from 16 ft
+    - "+2"
+    - 92-89
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 92-89
+    - ''
+    - V. Carter misses 2-pt shot from 9 ft
+  - - '1:35.0'
+    - Defensive rebound by B. Wallace
+    - ''
+    - 92-89
+    - ''
+    - ''
+  - - '1:17.0'
+    - J. Stackhouse misses 2-pt shot at rim
+    - ''
+    - 92-89
+    - ''
+    - ''
+  - - '1:16.0'
+    - Offensive rebound by B. Wallace
+    - ''
+    - 92-89
+    - ''
+    - ''
+  - - '1:16.0'
+    - Loose ball foul by K. Clark
+    - ''
+    - 92-89
+    - ''
+    - ''
+  - - '1:04.0'
+    - J. Stackhouse misses 3-pt shot from 25 ft
+    - ''
+    - 92-89
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 92-89
+    - ''
+    - Defensive rebound by V. Carter
+  - - '0:44.9'
+    - ''
+    - ''
+    - 92-92
+    - "+3"
+    - A. Williams makes 3-pt shot from 24 ft (assist by C. Oakley)
+  - - '0:29.9'
+    - C. Atkins misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:27.9'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Defensive rebound by C. Childs
+  - - '0:08.9'
+    - ''
+    - ''
+    - 92-94
+    - "+2"
+    - V. Carter makes 2-pt shot from 15 ft (assist by C. Childs)
+  - - '0:07.6'
+    - Detroit full timeout
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '0:04.9'
+    - Turnover by C. Atkins (bad pass; steal by A. Williams)
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '0:03.0'
+    - ''
+    - ''
+    - 92-94
+    - ''
+    - Personal foul by B. Wallace
+  - - '0:00.0'
+    - End of 1st overtime

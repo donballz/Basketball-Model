@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +21&#9642;Off: -4&#9642;Net: +25)'
+    - |2-
+
+      0
+    - 249/0
+    - 95/+1
+    - 53/
+    - 101/+4
+    - 249/+12
+    - 125/+4
+    - 125/
+    - 'Antonio Davis (On: +13&#9642;Off: +4&#9642;Net: +9)'
+    - |2-
+
+      0
+    - 250/0
+    - 95/+1
+    - 53/
+    - 101/+4
+    - 196/+8
+    - 303/
+    - 'Charles Oakley (On: +23&#9642;Off: -6&#9642;Net: +29)'
+    - |2-
+
+      0
+    - 166/0
+    - 183/
+    - 150/+5
+    - 250/+12
+    - 72/+6
+    - 177/
+    - 'Morris Peterson (On: +7&#9642;Off: +10&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 234/-1
+    - 266/
+    - 197/+8
+    - 303/
+    - 'Alvin Williams (On: +14&#9642;Off: +3&#9642;Net: +11)'
+    - |2-
+
+      0
+    - 250/0
+    - 16/+2
+    - 234/
+    - 250/+12
+    - 249/
+    - 'Keon Clark (On: +9&#9642;Off: +8&#9642;Net: +1)'
+    - "\n"
+    - 170/
+    - 79/0
+    - 144/+2
+    - 306/
+    - 48/+4
+    - 151/+3
+    - 99/
+    - 'Dell Curry (On: +2&#9642;Off: +15&#9642;Net: -13)'
+    - "\n"
+    - 235/
+    - 15/+1
+    - 145/+2
+    - 355/
+    - 249/-1
+    - 'Chris Childs (On: +7&#9642;Off: +10&#9642;Net: -3)'
+    - "\n"
+    - 268/
+    - 231/+4
+    - 202/
+    - 48/+4
+    - 250/-1
+    - 'Jerome Williams (On: +1&#9642;Off: +16&#9642;Net: -15)'
+    - "\n"
+    - 349/
+    - 150/+5
+    - 328/
+    - 90/-4
+    - 82/
+    - 'Tracy Murray (On: -5&#9642;Off: +22&#9642;Net: -27)'
+    - "\n"
+    - 878/
+    - 124/-5
+    - 'Michael Stewart (On: -4&#9642;Off: +21&#9642;Net: -25)'
+    - "\n"
+    - 904/
+    - 98/-4
+    - 'Eric Montross (On: -3&#9642;Off: +20&#9642;Net: -23)'
+    - "\n"
+    - 921/
+    - 81/-3
+  - - Vancouver Grizzlies
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -21&#9642;Off: +4&#9642;Net: -25)'
+    - |2-
+
+      0
+    - 166/0
+    - 84/
+    - 250/-6
+    - 250/-12
+    - 152/-3
+    - 96/
+    - 'Mike Bibby (On: -21&#9642;Off: +4&#9642;Net: -25)'
+    - |2-
+
+      0
+    - 249/0
+    - 123/
+    - 126/-6
+    - 249/-12
+    - 37/-6
+    - 51/
+    - 63/+3
+    - 98/
+    - 'Michael Dickerson (On: -14&#9642;Off: -3&#9642;Net: -11)'
+    - |2-
+
+      0
+    - 249/0
+    - 99/
+    - 150/-5
+    - 249/-12
+    - 43/
+    - 109/+3
+    - 98/
+    - 'Kevin Edwards (On: -9&#9642;Off: -8&#9642;Net: -1)'
+    - |2-
+
+      -1
+    - 148/-1
+    - 351/
+    - 0/0
+    - 134/-9
+    - 115/
+    - 250/+1
+    - 'Tony Massenburg (On: -5&#9642;Off: -12&#9642;Net: +7)'
+    - |2-
+
+      +1
+    - 233/+1
+    - 151/
+    - 113/-4
+    - 2/
+    - 87/-9
+    - 205/
+    - 206/+7
+    - 'Stromile Swift (On: -10&#9642;Off: -7&#9642;Net: -3)'
+    - "\n"
+    - 151/
+    - 98/+1
+    - 249/-6
+    - 139/
+    - 110/-3
+    - 37/-6
+    - 119/
+    - 93/+4
+    - 'Erick Strickland (On: -1&#9642;Off: -16&#9642;Net: +15)'
+    - "\n"
+    - 171/
+    - 79/0
+    - 95/-1
+    - 655/
+    - 'Isaac Austin (On: -6&#9642;Off: -11&#9642;Net: +5)'
+    - "\n"
+    - 235/
+    - 15/-1
+    - 131/-2
+    - 210/
+    - 50/-3
+    - 357/
+    - 'Mahmoud Abdul-Rauf (On: -2&#9642;Off: -15&#9642;Net: +13)'
+    - "\n"
+    - 249/
+    - 115/0
+    - 280/
+    - 103/0
+    - 83/-6
+    - 69/
+    - 98/+4
+    - 'Damon Jones (On: +4&#9642;Off: -21&#9642;Net: +25)'
+    - "\n"
+    - 904/
+    - 98/+4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,228 @@
+---
+- name: Plus-Minus
+  data:
+  - - Indiana Pacers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Al Harrington (On: +11&#9642;Off: -25&#9642;Net: +36)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 47/-9
+    - 202/
+    - 63/-6
+    - 125/
+    - 61/+4
+    - 90/+3
+    - 123/
+    - 35/+2
+    - 'Reggie Miller (On: -14&#9642;Off: 0&#9642;Net: -14)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 77/-5
+    - 117/
+    - 55/-8
+    - 249/-7
+    - 32/+2
+    - 62/
+    - 113/-13
+    - 41/
+    - 'Jermaine O''Neal (On: -7&#9642;Off: -7&#9642;Net: 0)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 77/-5
+    - 117/
+    - 55/-8
+    - 55/-6
+    - 230/
+    - 134/-5
+    - 79/
+    - 'Sam Perkins (On: +3&#9642;Off: -17&#9642;Net: +20)'
+    - |2-
+
+      +17
+    - 249/+17
+    - 242/
+    - 7/0
+    - 63/-6
+    - 341/
+    - 54/-8
+    - 41/
+    - 'Jalen Rose (On: -11&#9642;Off: -3&#9642;Net: -8)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 82/
+    - 167/-11
+    - 250/-7
+    - 209/-10
+    - 40/
+    - 'Travis Best (On: -18&#9642;Off: +4&#9642;Net: -22)'
+    - "\n"
+    - 249/
+    - 189/-8
+    - 44/
+    - 16/-2
+    - 63/
+    - 123/-5
+    - 35/
+    - 29/+5
+    - 247/-8
+    - 'Zan Tabak (On: -8&#9642;Off: -6&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 70/-8
+    - 681/
+    - 'Austin Croshere (On: -5&#9642;Off: -9&#9642;Net: +4)'
+    - "\n"
+    - 299/
+    - 141/+1
+    - 124/
+    - 153/-6
+    - 282/
+    - 'Jeff Foster (On: -14&#9642;Off: 0&#9642;Net: -14)'
+    - "\n"
+    - 327/
+    - 151/-6
+    - 84/
+    - 186/-1
+    - 150/-2
+    - 27/
+    - 72/-5
+    - 'Derrick McKey (On: -11&#9642;Off: -3&#9642;Net: -8)'
+    - "\n"
+    - 333/
+    - 156/-11
+    - 512/
+    - 'Jonathan Bender (On: +2&#9642;Off: -16&#9642;Net: +18)'
+    - "\n"
+    - 966/
+    - 36/+2
+    - 'Bruno Sundov (On: +2&#9642;Off: -16&#9642;Net: +18)'
+    - "\n"
+    - 966/
+    - 36/+2
+  - - New York Knicks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Marcus Camby (On: +18&#9642;Off: -4&#9642;Net: +22)'
+    - |2-
+
+      -13
+    - 206/-13
+    - 121/
+    - 172/+8
+    - 104/+10
+    - 229/
+    - 129/+13
+    - 36/
+    - 'Allan Houston (On: +13&#9642;Off: +1&#9642;Net: +12)'
+    - |2-
+
+      -11
+    - 170/-11
+    - 170/
+    - 136/+7
+    - 21/
+    - 194/+10
+    - 34/
+    - 20/-3
+    - 230/+10
+    - 20/
+    - 'Mark Jackson (On: +2&#9642;Off: +12&#9642;Net: -10)'
+    - |2-
+
+      -13
+    - 186/-13
+    - 259/
+    - 55/+8
+    - 250/+7
+    - 249/
+    - 'Larry Johnson (On: -9&#9642;Off: +23&#9642;Net: -32)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 70/+8
+    - 681/
+    - 'Latrell Sprewell (On: +10&#9642;Off: +4&#9642;Net: +6)'
+    - |2-
+
+      -17
+    - 249/-17
+    - 90/+7
+    - 104/
+    - 55/+8
+    - 249/+7
+    - 78/-3
+    - 76/
+    - 64/+8
+    - 30/
+    - 'Glen Rice (On: +3&#9642;Off: +11&#9642;Net: -8)'
+    - "\n"
+    - 176/
+    - 73/-6
+    - 189/+8
+    - 39/
+    - 20/+2
+    - 194/
+    - 55/-3
+    - 150/+2
+    - 99/
+    - 'Charlie Ward (On: +12&#9642;Off: +2&#9642;Net: +10)'
+    - "\n"
+    - 190/
+    - 60/-4
+    - 190/+8
+    - 310/
+    - 249/+8
+    - 'Kurt Thomas (On: +32&#9642;Off: -18&#9642;Net: +50)'
+    - "\n"
+    - 213/
+    - 36/-4
+    - 249/+16
+    - 221/+10
+    - 28/
+    - 218/+10
+    - 32/
+    - 'Othella Harrington (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 607/
+    - 143/-3
+    - 219/
+    - 31/-2
+    - 'Travis Knight (On: -2&#9642;Off: +16&#9642;Net: -18)'
+    - "\n"
+    - 971/
+    - 31/-2
+    - 'Lavor Postell (On: -2&#9642;Off: +16&#9642;Net: -18)'
+    - "\n"
+    - 971/
+    - 31/-2
+    - 'Felton Spencer (On: -2&#9642;Off: +16&#9642;Net: -18)'
+    - "\n"
+    - 990/
+    - 12/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

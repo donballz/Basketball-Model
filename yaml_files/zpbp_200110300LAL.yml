@@ -1,0 +1,2732 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: S. O''Neal vs. D. Davis (L. Hunter gains possession)'
+  - - '11:43.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by R. Fox (lost ball)
+  - - '11:27.0'
+    - R. Wallace misses 2-pt shot from 11 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '11:09.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 9 ft (assist by L. Hunter)
+  - - '10:50.0'
+    - D. Anderson misses 2-pt shot from 18 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '10:34.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - K. Bryant misses 2-pt shot from 19 ft
+  - - '10:31.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:14.0'
+    - D. Stoudamire misses 2-pt shot from 5 ft (block by S. O'Neal)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by S. Walker
+  - - '10:06.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - K. Bryant makes 2-pt shot from 15 ft
+  - - '9:55.0'
+    - Personal foul by R. Fox
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - D. Anderson misses 2-pt shot from 17 ft
+    - ''
+    - 0-4
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 0-4
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '9:42.0'
+    - ''
+    - ''
+    - 0-6
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim (assist by S. O'Neal)
+  - - '9:27.0'
+    - Personal foul by S. Walker
+    - ''
+    - 0-6
+    - ''
+    - ''
+  - - '9:16.0'
+    - Shooting foul by S. Walker
+    - ''
+    - 0-6
+    - ''
+    - ''
+  - - '9:16.0'
+    - R. Wallace makes free throw 1 of 2
+    - "+1"
+    - 1-6
+    - ''
+    - ''
+  - - '9:16.0'
+    - ''
+    - ''
+    - 1-6
+    - ''
+    - R. Horry enters the game for S. Walker
+  - - '9:16.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 2-6
+    - ''
+    - ''
+  - - '8:56.0'
+    - ''
+    - ''
+    - 2-8
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 7 ft
+  - - '8:39.0'
+    - R. Wallace makes 2-pt shot from 8 ft
+    - "+2"
+    - 4-8
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 4-11
+    - "+3"
+    - R. Fox makes 3-pt shot from 27 ft (assist by L. Hunter)
+  - - '8:10.0'
+    - D. Davis misses 2-pt shot from 8 ft
+    - ''
+    - 4-11
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 4-11
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '7:54.0'
+    - ''
+    - ''
+    - 4-11
+    - ''
+    - K. Bryant misses 2-pt shot from 14 ft
+  - - '7:52.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 4-11
+    - ''
+    - ''
+  - - '7:48.0'
+    - Personal foul by R. Horry
+    - ''
+    - 4-11
+    - ''
+    - ''
+  - - '7:36.0'
+    - R. Wallace makes 2-pt shot from 7 ft (assist by S. Pippen)
+    - "+2"
+    - 6-11
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 6-13
+    - "+2"
+    - R. Fox makes 2-pt shot from 23 ft (assist by S. O'Neal)
+  - - '7:02.0'
+    - R. Wallace misses 2-pt shot from 20 ft
+    - ''
+    - 6-13
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 6-13
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '6:54.0'
+    - ''
+    - ''
+    - 6-15
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by L. Hunter)
+  - - '6:45.0'
+    - Portland full timeout
+    - ''
+    - 6-15
+    - ''
+    - ''
+  - - '6:32.0'
+    - D. Anderson misses 2-pt shot from 10 ft (block by K. Bryant)
+    - ''
+    - 6-15
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 6-15
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '6:21.0'
+    - ''
+    - ''
+    - 6-15
+    - ''
+    - K. Bryant misses 2-pt shot from 7 ft
+  - - '6:18.0'
+    - ''
+    - ''
+    - 6-17
+    - "+2"
+    - R. Horry makes 2-pt shot at rim
+  - - '6:18.0'
+    - ''
+    - ''
+    - 6-17
+    - ''
+    - Offensive rebound by R. Horry
+  - - '6:03.0'
+    - D. Stoudamire misses 2-pt shot from 14 ft
+    - ''
+    - 6-17
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 6-17
+    - ''
+    - Defensive rebound by R. Fox
+  - - '5:55.0'
+    - ''
+    - ''
+    - 6-17
+    - ''
+    - L. Hunter misses 3-pt shot from 25 ft
+  - - '5:52.0'
+    - ''
+    - ''
+    - 6-17
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '5:50.0'
+    - ''
+    - ''
+    - 6-19
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim (assist by S. O'Neal)
+  - - '5:41.0'
+    - Portland 20 second timeout
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '5:25.0'
+    - Turnover by R. Wallace (bad pass; steal by S. O'Neal)
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 6-19
+    - ''
+    - Turnover by K. Bryant (out of bounds)
+  - - '5:11.0'
+    - Turnover by D. Anderson (bad pass)
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 6-19
+    - ''
+    - Turnover by L. Hunter (lost ball; steal by D. Stoudamire)
+  - - '4:52.0'
+    - R. Wallace misses 2-pt shot from 7 ft
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 6-19
+    - ''
+    - Defensive rebound by R. Horry
+  - - '4:41.0'
+    - ''
+    - ''
+    - 6-19
+    - ''
+    - R. Fox misses 3-pt shot from 24 ft
+  - - '4:37.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '4:24.0'
+    - Turnover by R. Wallace (bad pass; steal by K. Bryant)
+    - ''
+    - 6-19
+    - ''
+    - ''
+  - - '4:19.0'
+    - ''
+    - ''
+    - 6-21
+    - "+2"
+    - R. Fox makes 2-pt shot at rim (assist by S. O'Neal)
+  - - '3:58.0'
+    - Shooting foul by R. Horry
+    - ''
+    - 6-21
+    - ''
+    - ''
+  - - '3:58.0'
+    - B. Wells enters the game for S. Pippen
+    - ''
+    - 6-21
+    - ''
+    - ''
+  - - '3:58.0'
+    - D. Anderson makes free throw 1 of 2
+    - "+1"
+    - 7-21
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 7-21
+    - ''
+    - S. Medvedenko enters the game for R. Horry
+  - - '3:58.0'
+    - D. Anderson makes free throw 2 of 2
+    - "+1"
+    - 8-21
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 8-21
+    - ''
+    - S. O'Neal misses 2-pt shot from 7 ft (block by D. Davis)
+  - - '3:37.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 8-21
+    - ''
+    - ''
+  - - '3:23.0'
+    - D. Anderson makes 3-pt shot from 26 ft (assist by D. Davis)
+    - "+3"
+    - 11-21
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 11-21
+    - ''
+    - LA Lakers full timeout
+  - - '3:11.0'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 11-21
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 11-21
+    - ''
+    - M. Richmond enters the game for R. Fox
+  - - '2:58.0'
+    - ''
+    - ''
+    - 11-24
+    - "+3"
+    - L. Hunter makes 3-pt shot from 27 ft (assist by K. Bryant)
+  - - '2:39.0'
+    - Turnover by D. Anderson (bad pass; steal by L. Hunter)
+    - ''
+    - 11-24
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 11-24
+    - ''
+    - Turnover by L. Hunter (lost ball; steal by B. Wells)
+  - - '2:32.0'
+    - B. Wells makes 2-pt shot at rim
+    - "+2"
+    - 13-24
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Personal foul by S. Kemp
+  - - '2:06.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - S. O'Neal misses 2-pt shot at rim (block by R. Wallace)
+  - - '2:02.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '2:00.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '1:58.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Offensive rebound by K. Bryant
+  - - '1:56.0'
+    - ''
+    - ''
+    - 13-24
+    - ''
+    - Turnover by S. O'Neal (bad pass; steal by D. Anderson)
+  - - '1:52.0'
+    - D. Stoudamire makes 2-pt shot from 11 ft (assist by D. Anderson)
+    - "+2"
+    - 15-24
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 15-24
+    - ''
+    - Shooting foul by D. Anderson
+  - - '1:42.0'
+    - ''
+    - ''
+    - 15-25
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '1:42.0'
+    - ''
+    - ''
+    - 15-26
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '1:22.0'
+    - D. Anderson makes 2-pt shot at rim
+    - "+2"
+    - 17-26
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 17-26
+    - ''
+    - Shooting foul by S. Kemp
+  - - '1:12.0'
+    - ''
+    - ''
+    - 17-27
+    - "+1"
+    - S. Medvedenko makes free throw 1 of 2
+  - - '1:12.0'
+    - R. Boumtje-Boumtje enters the game for R. Wallace
+    - ''
+    - 17-27
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 17-27
+    - ''
+    - J. McCoy enters the game for S. O'Neal
+  - - '1:12.0'
+    - ''
+    - ''
+    - 17-27
+    - ''
+    - S. Medvedenko misses free throw 2 of 2
+  - - '1:11.0'
+    - Defensive rebound by R. Boumtje-Boumtje
+    - ''
+    - 17-27
+    - ''
+    - ''
+  - - '0:58.1'
+    - S. Kemp misses 2-pt shot from 21 ft
+    - ''
+    - 17-27
+    - ''
+    - ''
+  - - '0:56.0'
+    - Offensive rebound by D. Stoudamire
+    - ''
+    - 17-27
+    - ''
+    - ''
+  - - '0:52.0'
+    - D. Anderson makes 3-pt shot from 25 ft (assist by D. Stoudamire)
+    - "+3"
+    - 20-27
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 20-29
+    - "+2"
+    - K. Bryant makes 2-pt shot from 20 ft
+  - - '0:24.8'
+    - D. Stoudamire misses 2-pt shot from 7 ft
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '0:23.5'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - Defensive rebound by M. Richmond
+  - - '0:03.0'
+    - ''
+    - ''
+    - 20-29
+    - ''
+    - M. Richmond misses 3-pt shot from 26 ft
+  - - '0:00.4'
+    - Defensive rebound by R. Boumtje-Boumtje
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - Shooting foul by M. Richmond
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '11:47.0'
+    - B. Wells misses free throw 1 of 2
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '11:47.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '11:47.0'
+    - R. Wallace enters the game for R. Boumtje-Boumtje
+    - ''
+    - 20-29
+    - ''
+    - ''
+  - - '11:47.0'
+    - B. Wells makes free throw 2 of 2
+    - "+1"
+    - 21-29
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Turnover by M. Richmond (bad pass)
+  - - '11:24.0'
+    - Personal foul by S. Walker
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - S. O'Neal enters the game for S. Walker
+  - - '11:15.0'
+    - Shooting foul by S. O'Neal
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '11:15.0'
+    - S. Kemp makes free throw 1 of 2
+    - "+1"
+    - 22-29
+    - ''
+    - ''
+  - - '11:15.0'
+    - S. Kemp makes free throw 2 of 2
+    - "+1"
+    - 23-29
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Turnover by Team (10 second)
+  - - '11:07.0'
+    - S. Pippen enters the game for D. Stoudamire
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '10:58.0'
+    - D. Anderson misses 2-pt shot at rim (block by S. O'Neal)
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '10:42.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Personal foul by B. Wells
+  - - '10:34.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - S. Medvedenko misses 2-pt shot from 12 ft
+  - - '10:32.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '10:26.0'
+    - Turnover by D. Anderson (bad pass; steal by S. Medvedenko)
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 23-31
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim
+  - - '10:06.0'
+    - Personal foul by M. Richmond
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '10:06.0'
+    - D. Stoudamire enters the game for D. Anderson
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '9:56.0'
+    - S. Pippen misses 2-pt shot from 14 ft
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '9:42.0'
+    - ''
+    - ''
+    - 23-31
+    - ''
+    - B. Shaw misses 3-pt shot from 26 ft
+  - - '9:40.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 23-31
+    - ''
+    - ''
+  - - '9:23.0'
+    - S. Kemp makes 2-pt shot from 12 ft (assist by D. Stoudamire)
+    - "+2"
+    - 25-31
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 25-33
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim
+  - - '8:49.0'
+    - B. Wells misses 2-pt shot from 18 ft
+    - ''
+    - 25-33
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '8:47.0'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - Personal foul by B. Wells
+  - - '8:47.0'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - Official timeout
+  - - '8:47.0'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - R. Fox enters the game for K. Bryant
+  - - '8:38.0'
+    - ''
+    - ''
+    - 25-35
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 7 ft (assist by R. Fox)
+  - - '8:23.0'
+    - R. Wallace misses 2-pt shot at rim
+    - ''
+    - 25-35
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '8:06.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '8:05.0'
+    - ''
+    - ''
+    - 25-35
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '8:04.0'
+    - ''
+    - ''
+    - 25-37
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim
+  - - '7:49.0'
+    - S. Kemp misses 2-pt shot at rim (block by S. O'Neal)
+    - ''
+    - 25-37
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 25-37
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '7:39.0'
+    - ''
+    - ''
+    - 25-39
+    - "+2"
+    - S. Medvedenko makes 2-pt shot from 10 ft (assist by B. Shaw)
+  - - '7:22.0'
+    - D. Stoudamire misses 2-pt shot at rim
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 25-39
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '7:15.0'
+    - ''
+    - ''
+    - 25-42
+    - "+3"
+    - M. Richmond makes 3-pt shot from 26 ft (assist by B. Shaw)
+  - - '7:05.0'
+    - Portland full timeout
+    - ''
+    - 25-42
+    - ''
+    - ''
+  - - '6:56.0'
+    - B. Wells misses 2-pt shot at rim
+    - ''
+    - 25-42
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 25-42
+    - ''
+    - Defensive rebound by Team
+  - - '6:35.0'
+    - ''
+    - ''
+    - 25-42
+    - ''
+    - M. Richmond misses 2-pt shot from 16 ft
+  - - '6:32.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 25-42
+    - ''
+    - ''
+  - - '6:30.0'
+    - B. Wells makes 2-pt shot at rim (assist by D. Stoudamire)
+    - "+2"
+    - 27-42
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 27-42
+    - ''
+    - S. Medvedenko misses 2-pt shot from 18 ft
+  - - '6:13.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 27-42
+    - ''
+    - ''
+  - - '6:07.0'
+    - R. Wallace misses 3-pt shot from 27 ft
+    - ''
+    - 27-42
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 27-42
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '6:01.0'
+    - ''
+    - ''
+    - 27-42
+    - ''
+    - S. Medvedenko misses 2-pt shot at rim
+  - - '5:59.0'
+    - ''
+    - ''
+    - 27-42
+    - ''
+    - Offensive rebound by M. Richmond
+  - - '5:49.0'
+    - ''
+    - ''
+    - 27-44
+    - "+2"
+    - S. Medvedenko makes 2-pt shot at rim (assist by B. Shaw)
+  - - '5:49.0'
+    - ''
+    - ''
+    - 27-44
+    - ''
+    - Shooting foul by S. Kemp
+  - - '5:49.0'
+    - D. Anderson enters the game for B. Wells
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '5:49.0'
+    - ''
+    - ''
+    - 27-44
+    - ''
+    - S. Medvedenko misses free throw 1 of 1
+  - - '5:47.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '5:39.0'
+    - Personal foul by R. Fox
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '5:39.0'
+    - D. Davis enters the game for S. Kemp
+    - ''
+    - 27-44
+    - ''
+    - ''
+  - - '5:39.0'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 28-44
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 28-44
+    - ''
+    - R. Horry enters the game for S. Medvedenko
+  - - '5:39.0'
+    - ''
+    - ''
+    - 28-44
+    - ''
+    - K. Bryant enters the game for B. Shaw
+  - - '5:39.0'
+    - ''
+    - ''
+    - 28-44
+    - ''
+    - L. Hunter enters the game for M. Richmond
+  - - '5:39.0'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 29-44
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - S. O'Neal misses 2-pt shot from 4 ft
+  - - '5:16.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '5:13.0'
+    - Turnover by D. Anderson (lost ball; steal by K. Bryant)
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - Personal foul by R. Wallace
+  - - '4:58.0'
+    - ''
+    - ''
+    - 29-44
+    - ''
+    - K. Bryant misses 2-pt shot at rim
+  - - '4:52.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 29-44
+    - ''
+    - ''
+  - - '4:47.0'
+    - R. Wallace makes 2-pt shot from 13 ft (assist by S. Pippen)
+    - "+2"
+    - 31-44
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 31-44
+    - ''
+    - R. Horry misses 2-pt shot from 6 ft (block by D. Davis)
+  - - '4:24.0'
+    - ''
+    - ''
+    - 31-44
+    - ''
+    - Offensive rebound by R. Horry
+  - - '4:23.0'
+    - ''
+    - ''
+    - 31-44
+    - ''
+    - Ill def tech foul by D. Davis
+  - - '4:23.0'
+    - ''
+    - ''
+    - 31-45
+    - "+1"
+    - K. Bryant makes free throw technical
+  - - '4:18.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - K. Bryant misses 2-pt shot from 15 ft
+  - - '4:16.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '4:09.0'
+    - D. Stoudamire makes 2-pt shot from 13 ft
+    - "+2"
+    - 33-45
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 33-45
+    - ''
+    - Shooting foul by R. Wallace
+  - - '3:56.0'
+    - ''
+    - ''
+    - 33-46
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '3:56.0'
+    - ''
+    - ''
+    - 33-47
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '3:34.0'
+    - Turnover by R. Wallace (lost ball)
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '3:31.0'
+    - Technical foul by R. Wallace
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 33-48
+    - "+1"
+    - K. Bryant makes free throw technical
+  - - '3:22.0'
+    - ''
+    - ''
+    - 33-50
+    - "+2"
+    - R. Fox makes 2-pt shot from 17 ft (assist by K. Bryant)
+  - - '3:11.0'
+    - D. Davis makes 2-pt shot from 13 ft (assist by S. Pippen)
+    - "+2"
+    - 35-50
+    - ''
+    - ''
+  - - '3:00.0'
+    - ''
+    - ''
+    - 35-50
+    - ''
+    - Turnover by S. O'Neal (bad pass)
+  - - '2:48.0'
+    - D. Stoudamire makes 2-pt shot from 18 ft
+    - "+2"
+    - 37-50
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 37-50
+    - ''
+    - S. O'Neal misses 2-pt shot from 8 ft
+  - - '2:24.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '2:16.0'
+    - R. Wallace makes 2-pt shot from 20 ft (assist by S. Pippen)
+    - "+2"
+    - 39-50
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - LA Lakers full timeout
+  - - '2:02.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - Shooting foul by D. Davis
+  - - '2:02.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - S. O'Neal misses free throw 1 of 2
+  - - '2:02.0'
+    - ''
+    - ''
+    - 39-50
+    - ''
+    - Offensive rebound by Team
+  - - '2:02.0'
+    - ''
+    - ''
+    - 39-51
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '1:46.0'
+    - D. Stoudamire misses 2-pt shot at rim (block by S. O'Neal)
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:42.0'
+    - Offensive rebound by S. Pippen
+    - ''
+    - 39-51
+    - ''
+    - ''
+  - - '1:38.0'
+    - R. Wallace makes 2-pt shot at rim (assist by D. Anderson)
+    - "+2"
+    - 41-51
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 41-51
+    - ''
+    - L. Hunter misses 3-pt shot from 26 ft
+  - - '1:15.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 41-51
+    - ''
+    - ''
+  - - '0:59.2'
+    - D. Anderson makes 3-pt shot from 24 ft (assist by D. Stoudamire)
+    - "+3"
+    - 44-51
+    - ''
+    - ''
+  - - '0:48.0'
+    - ''
+    - ''
+    - 44-53
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim
+  - - '0:26.8'
+    - Shooting foul by L. Hunter
+    - ''
+    - 44-53
+    - ''
+    - ''
+  - - '0:26.8'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 45-53
+    - ''
+    - ''
+  - - '0:26.8'
+    - R. Boumtje-Boumtje enters the game for R. Wallace
+    - ''
+    - 45-53
+    - ''
+    - ''
+  - - '0:26.8'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 46-53
+    - ''
+    - ''
+  - - '0:04.6'
+    - ''
+    - ''
+    - 46-53
+    - ''
+    - K. Bryant misses 2-pt shot at rim
+  - - '0:00.3'
+    - ''
+    - ''
+    - 46-53
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '0:00.1'
+    - ''
+    - ''
+    - 46-55
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 5 ft
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:39.0'
+    - R. Wallace misses 2-pt shot from 11 ft
+    - ''
+    - 46-55
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 46-55
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '11:19.0'
+    - ''
+    - ''
+    - 46-55
+    - ''
+    - Turnover by S. O'Neal (bad pass; steal by D. Stoudamire)
+  - - '11:14.0'
+    - D. Anderson makes 2-pt shot at rim (assist by D. Stoudamire)
+    - "+2"
+    - 48-55
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - K. Bryant misses 2-pt shot from 16 ft
+  - - '10:57.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - Offensive rebound by Team
+  - - '10:51.0'
+    - ''
+    - ''
+    - 48-55
+    - ''
+    - K. Bryant misses 2-pt shot from 13 ft
+  - - '10:49.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:44.0'
+    - Personal foul by R. Fox
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:36.0'
+    - Portland 20 second timeout
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:32.0'
+    - Shooting foul by L. Hunter
+    - ''
+    - 48-55
+    - ''
+    - ''
+  - - '10:32.0'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 49-55
+    - ''
+    - ''
+  - - '10:32.0'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 50-55
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 50-55
+    - ''
+    - S. O'Neal misses 2-pt shot from 7 ft (block by R. Wallace)
+  - - '10:11.0'
+    - ''
+    - ''
+    - 50-57
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim
+  - - '10:11.0'
+    - ''
+    - ''
+    - 50-57
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '10:11.0'
+    - ''
+    - ''
+    - 50-57
+    - ''
+    - Shooting foul by S. Pippen
+  - - '10:11.0'
+    - ''
+    - ''
+    - 50-57
+    - ''
+    - S. O'Neal misses free throw 1 of 1
+  - - '10:09.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 50-57
+    - ''
+    - ''
+  - - '9:59.0'
+    - S. Pippen misses 2-pt shot at rim
+    - ''
+    - 50-57
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 50-57
+    - ''
+    - Defensive rebound by R. Fox
+  - - '9:52.0'
+    - ''
+    - ''
+    - 50-59
+    - "+2"
+    - L. Hunter makes 2-pt shot from 12 ft (assist by K. Bryant)
+  - - '9:35.0'
+    - D. Anderson misses 3-pt shot from 25 ft
+    - ''
+    - 50-59
+    - ''
+    - ''
+  - - '9:30.0'
+    - ''
+    - ''
+    - 50-59
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '9:19.0'
+    - ''
+    - ''
+    - 50-62
+    - "+3"
+    - L. Hunter makes 3-pt shot from 24 ft (assist by S. O'Neal)
+  - - '8:57.0'
+    - Turnover by D. Stoudamire (lost ball; steal by L. Hunter)
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 50-64
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim (assist by R. Fox)
+  - - '8:42.0'
+    - Portland full timeout
+    - ''
+    - 50-64
+    - ''
+    - ''
+  - - '8:28.0'
+    - R. Wallace makes 2-pt shot at rim
+    - "+2"
+    - 52-64
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - Turnover by S. Walker (double dribble)
+  - - '7:57.0'
+    - Ill def tech foul by S. O'Neal
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:57.0'
+    - D. Stoudamire misses free throw technical
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:43.0'
+    - S. Pippen misses 3-pt shot from 26 ft
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:41.0'
+    - Offensive rebound by D. Davis
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:40.0'
+    - D. Davis misses 2-pt shot from 7 ft (block by S. O'Neal)
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - Defensive rebound by R. Fox
+  - - '7:26.0'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - K. Bryant misses 2-pt shot at rim
+  - - '7:22.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:21.0'
+    - Offensive foul by D. Davis
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:21.0'
+    - Turnover by D. Davis (foul)
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - Turnover by L. Hunter (bad pass; steal by D. Davis)
+  - - '6:49.0'
+    - Shooting foul by S. O'Neal
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '6:49.0'
+    - Portland full timeout
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '6:49.0'
+    - B. Wells enters the game for S. Pippen
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '6:49.0'
+    - D. Anderson makes free throw 1 of 2
+    - "+1"
+    - 53-64
+    - ''
+    - ''
+  - - '6:49.0'
+    - D. Anderson makes free throw 2 of 2
+    - "+1"
+    - 54-64
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - Personal foul by D. Stoudamire
+  - - '6:39.0'
+    - S. Kerr enters the game for D. Anderson
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:39.0'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 54-66
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 8 ft (assist by K. Bryant)
+  - - '6:08.0'
+    - R. Wallace misses 2-pt shot from 10 ft
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 54-66
+    - ''
+    - Defensive rebound by S. Walker
+  - - '5:56.0'
+    - ''
+    - ''
+    - 54-66
+    - ''
+    - R. Fox misses 3-pt shot from 25 ft
+  - - '5:53.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 54-66
+    - ''
+    - ''
+  - - '5:49.0'
+    - D. Stoudamire makes 3-pt shot from 27 ft
+    - "+3"
+    - 57-66
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - LA Lakers full timeout
+  - - '5:44.0'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - R. Horry enters the game for S. Walker
+  - - '5:36.0'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - LA Lakers full timeout
+  - - '5:21.0'
+    - ''
+    - ''
+    - 57-66
+    - ''
+    - K. Bryant misses 2-pt shot from 10 ft (block by R. Wallace)
+  - - '5:18.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '5:14.0'
+    - Portland full timeout
+    - ''
+    - 57-66
+    - ''
+    - ''
+  - - '5:07.0'
+    - S. Kemp makes 2-pt shot from 14 ft
+    - "+2"
+    - 59-66
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - S. O'Neal misses 2-pt shot at rim (block by S. Kemp)
+  - - '4:47.0'
+    - Defensive rebound by S. Kerr
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '4:38.0'
+    - Ill def tech foul by S. O'Neal
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '4:38.0'
+    - S. Kerr makes free throw technical
+    - "+1"
+    - 60-66
+    - ''
+    - ''
+  - - '4:28.0'
+    - Personal foul by S. O'Neal
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '4:22.0'
+    - D. Stoudamire misses 2-pt shot from 12 ft
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '4:13.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - L. Hunter misses 3-pt shot from 24 ft
+  - - '4:09.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '3:54.0'
+    - R. Wallace misses 2-pt shot from 7 ft
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Shooting foul by S. Kemp
+  - - '3:46.0'
+    - E. Barkley enters the game for D. Stoudamire
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - B. Shaw enters the game for L. Hunter
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - K. Bryant misses free throw 1 of 2
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Offensive rebound by Team
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - M. Richmond enters the game for R. Fox
+  - - '3:46.0'
+    - ''
+    - ''
+    - 60-67
+    - "+1"
+    - K. Bryant makes free throw 2 of 2
+  - - '3:28.0'
+    - B. Wells makes 2-pt shot from 17 ft
+    - "+2"
+    - 62-67
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 62-67
+    - ''
+    - K. Bryant misses 2-pt shot at rim
+  - - '3:10.0'
+    - Defensive rebound by Team
+    - ''
+    - 62-67
+    - ''
+    - ''
+  - - '2:59.0'
+    - Offensive foul by B. Wells
+    - ''
+    - 62-67
+    - ''
+    - ''
+  - - '2:59.0'
+    - Turnover by B. Wells (foul)
+    - ''
+    - 62-67
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 62-67
+    - ''
+    - Shooting foul by S. Kerr
+  - - '2:48.0'
+    - ''
+    - ''
+    - 62-68
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '2:48.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - S. O'Neal misses free throw 2 of 2
+  - - '2:45.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '2:27.0'
+    - R. Wallace makes 2-pt shot from 10 ft
+    - "+2"
+    - 64-68
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 64-68
+    - ''
+    - Turnover by B. Shaw (lost ball; steal by E. Barkley)
+  - - '2:00.0'
+    - B. Wells misses 2-pt shot from 12 ft (block by R. Horry)
+    - ''
+    - 64-68
+    - ''
+    - ''
+  - - '2:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-68
+    - ''
+    - ''
+  - - '1:53.0'
+    - R. Wallace makes 2-pt shot at rim (assist by E. Barkley)
+    - "+2"
+    - 66-68
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 66-68
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '1:36.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - Shooting foul by M. Richmond
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - B. Wells misses free throw 1 of 2
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - Offensive rebound by Team
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - R. Boumtje-Boumtje enters the game for R. Wallace
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - B. Wells misses free throw 2 of 2
+    - ''
+    - 66-68
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 66-68
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '1:20.0'
+    - ''
+    - ''
+    - 66-71
+    - "+3"
+    - R. Horry makes 3-pt shot from 22 ft (assist by M. Richmond)
+  - - '1:04.0'
+    - B. Wells misses 2-pt shot from 12 ft
+    - ''
+    - 66-71
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 66-71
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '0:55.0'
+    - ''
+    - ''
+    - 66-73
+    - "+2"
+    - K. Bryant makes 2-pt shot from 7 ft
+  - - '0:55.0'
+    - ''
+    - ''
+    - 66-73
+    - ''
+    - Shooting foul by S. Kerr
+  - - '0:55.0'
+    - ''
+    - ''
+    - 66-73
+    - ''
+    - S. Walker enters the game for S. O'Neal
+  - - '0:55.0'
+    - ''
+    - ''
+    - 66-74
+    - "+1"
+    - K. Bryant makes free throw 1 of 1
+  - - '0:43.6'
+    - Shooting foul by R. Horry
+    - ''
+    - 66-74
+    - ''
+    - ''
+  - - '0:43.6'
+    - S. Kemp makes free throw 1 of 2
+    - "+1"
+    - 67-74
+    - ''
+    - ''
+  - - '0:43.6'
+    - S. Kemp makes free throw 2 of 2
+    - "+1"
+    - 68-74
+    - ''
+    - ''
+  - - '0:36.0'
+    - ''
+    - ''
+    - 68-76
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim (assist by B. Shaw)
+  - - '0:14.4'
+    - S. Kerr misses 2-pt shot from 9 ft
+    - ''
+    - 68-76
+    - ''
+    - ''
+  - - '0:11.3'
+    - ''
+    - ''
+    - 68-76
+    - ''
+    - Defensive rebound by S. Walker
+  - - '0:03.6'
+    - ''
+    - ''
+    - 68-79
+    - "+3"
+    - K. Bryant makes 3-pt shot from 25 ft
+  - - '0:00.1'
+    - B. Wells misses 3-pt shot from 54 ft
+    - ''
+    - 68-79
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-79
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - 'Jump ball: S. Walker vs. S. Kemp (D. Davis gains possession)'
+  - - '11:47.0'
+    - ''
+    - ''
+    - 68-79
+    - ''
+    - Turnover by M. Richmond (lost ball; steal by S. Kemp)
+  - - '11:27.0'
+    - S. Kemp makes 2-pt shot from 9 ft
+    - "+2"
+    - 70-79
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 70-82
+    - "+3"
+    - R. Horry makes 3-pt shot from 26 ft
+  - - '10:47.0'
+    - S. Kemp makes 2-pt shot from 15 ft (assist by S. Kerr)
+    - "+2"
+    - 72-82
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 72-84
+    - "+2"
+    - R. Horry makes 2-pt shot from 23 ft
+  - - '10:11.0'
+    - S. Kerr makes 2-pt shot from 20 ft (assist by D. Stoudamire)
+    - "+2"
+    - 74-84
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 74-86
+    - "+2"
+    - M. Richmond makes 2-pt shot from 14 ft (assist by S. Walker)
+  - - '9:33.0'
+    - S. Kerr misses 3-pt shot from 27 ft
+    - ''
+    - 74-86
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 74-86
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '9:29.0'
+    - ''
+    - ''
+    - 74-86
+    - ''
+    - Personal foul by S. Kerr
+  - - '9:29.0'
+    - R. Wallace enters the game for S. Kerr
+    - ''
+    - 74-86
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 74-86
+    - ''
+    - B. Shaw misses 2-pt shot from 17 ft
+  - - '9:13.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 74-86
+    - ''
+    - ''
+  - - '9:05.0'
+    - Ill def tech foul by K. Bryant
+    - ''
+    - 74-86
+    - ''
+    - ''
+  - - '9:05.0'
+    - D. Stoudamire makes free throw technical
+    - "+1"
+    - 75-86
+    - ''
+    - ''
+  - - '8:54.0'
+    - D. Davis misses 2-pt shot at rim
+    - ''
+    - 75-86
+    - ''
+    - ''
+  - - '8:52.0'
+    - S. Kemp misses 2-pt shot at rim
+    - ''
+    - 75-86
+    - ''
+    - ''
+  - - '8:52.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 75-86
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '8:48.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - Shooting foul by D. Davis
+  - - '8:48.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - Official timeout
+  - - '8:48.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - R. Fox enters the game for K. Bryant
+  - - '8:48.0'
+    - ''
+    - ''
+    - 75-87
+    - "+1"
+    - S. Walker makes free throw 1 of 2
+  - - '8:48.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - S. Walker misses free throw 2 of 2
+  - - '8:45.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '8:30.0'
+    - Offensive foul by R. Wallace
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '8:30.0'
+    - Turnover by R. Wallace (foul)
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '8:30.0'
+    - S. Pippen enters the game for B. Wells
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - R. Horry misses 3-pt shot from 26 ft
+  - - '8:12.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '7:55.0'
+    - S. Kemp misses 2-pt shot at rim
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '7:54.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - Personal foul by S. Kemp
+  - - '7:54.0'
+    - S. Kerr enters the game for S. Kemp
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - S. O'Neal enters the game for S. Walker
+  - - '7:47.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - Personal foul by R. Wallace
+  - - '7:36.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - R. Fox misses 3-pt shot from 27 ft
+  - - '7:34.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '7:19.0'
+    - R. Wallace makes 2-pt shot from 19 ft
+    - "+2"
+    - 77-87
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - S. O'Neal misses 2-pt shot from 8 ft
+  - - '6:57.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 77-87
+    - ''
+    - ''
+  - - '6:51.0'
+    - S. Pippen misses 3-pt shot from 26 ft
+    - ''
+    - 77-87
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - Defensive rebound by Team
+  - - '6:32.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - Personal foul by D. Davis
+  - - '6:32.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - K. Bryant enters the game for M. Richmond
+  - - '6:32.0'
+    - ''
+    - ''
+    - 77-88
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '6:32.0'
+    - ''
+    - ''
+    - 77-88
+    - ''
+    - L. Hunter enters the game for B. Shaw
+  - - '6:32.0'
+    - ''
+    - ''
+    - 77-89
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '6:23.0'
+    - R. Wallace makes 2-pt shot at rim (assist by S. Pippen)
+    - "+2"
+    - 79-89
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '6:00.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '5:52.0'
+    - R. Wallace misses 3-pt shot from 27 ft
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '5:42.0'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - Ill def tech foul by D. Davis
+  - - '5:42.0'
+    - ''
+    - ''
+    - 79-89
+    - ''
+    - LA Lakers full timeout
+  - - '5:42.0'
+    - ''
+    - ''
+    - 79-90
+    - "+1"
+    - K. Bryant makes free throw technical
+  - - '5:33.0'
+    - ''
+    - ''
+    - 79-90
+    - ''
+    - K. Bryant misses 2-pt shot from 22 ft
+  - - '5:31.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '5:15.0'
+    - R. Wallace misses 2-pt shot from 17 ft
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 79-90
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '4:55.0'
+    - ''
+    - ''
+    - 79-90
+    - ''
+    - Personal foul by S. Kerr
+  - - '4:55.0'
+    - ''
+    - ''
+    - 79-91
+    - "+1"
+    - K. Bryant makes free throw 1 of 2
+  - - '4:55.0'
+    - E. Barkley enters the game for S. Kerr
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - K. Bryant misses free throw 2 of 2
+  - - '4:52.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '4:45.0'
+    - D. Stoudamire makes 2-pt shot from 11 ft
+    - "+2"
+    - 81-91
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 81-91
+    - ''
+    - K. Bryant misses 2-pt shot at rim
+  - - '4:28.0'
+    - Defensive rebound by E. Barkley
+    - ''
+    - 81-91
+    - ''
+    - ''
+  - - '4:27.0'
+    - Offensive foul by E. Barkley
+    - ''
+    - 81-91
+    - ''
+    - ''
+  - - '4:27.0'
+    - Turnover by E. Barkley (foul)
+    - ''
+    - 81-91
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 81-93
+    - "+2"
+    - L. Hunter makes 2-pt shot at rim (assist by R. Horry)
+  - - '3:58.0'
+    - S. Pippen makes 2-pt shot from 15 ft (assist by E. Barkley)
+    - "+2"
+    - 83-93
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 83-93
+    - ''
+    - Personal foul by D. Davis
+  - - '3:42.0'
+    - ''
+    - ''
+    - 83-93
+    - ''
+    - S. O'Neal misses free throw 1 of 2
+  - - '3:42.0'
+    - ''
+    - ''
+    - 83-93
+    - ''
+    - Offensive rebound by Team
+  - - '3:42.0'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 83-93
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 83-94
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '3:37.0'
+    - Turnover by D. Stoudamire (bad pass; steal by R. Fox)
+    - ''
+    - 83-94
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 83-94
+    - ''
+    - L. Hunter misses 2-pt shot at rim (block by S. Pippen)
+  - - '3:32.0'
+    - ''
+    - ''
+    - 83-94
+    - ''
+    - Offensive rebound by R. Fox
+  - - '3:29.0'
+    - ''
+    - ''
+    - 83-94
+    - ''
+    - Turnover by R. Fox (bad pass; steal by E. Barkley)
+  - - '3:26.0'
+    - Shooting foul by R. Fox
+    - ''
+    - 83-94
+    - ''
+    - ''
+  - - '3:26.0'
+    - E. Barkley makes free throw 1 of 2
+    - "+1"
+    - 84-94
+    - ''
+    - ''
+  - - '3:26.0'
+    - E. Barkley misses free throw 2 of 2
+    - ''
+    - 84-94
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - Defensive rebound by R. Fox
+  - - '3:10.0'
+    - ''
+    - ''
+    - 84-94
+    - ''
+    - S. O'Neal misses 2-pt shot from 8 ft
+  - - '3:07.0'
+    - ''
+    - ''
+    - 84-96
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim
+  - - '3:07.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Offensive rebound by K. Bryant
+  - - '2:50.0'
+    - E. Barkley misses 3-pt shot from 25 ft
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Defensive rebound by Team
+  - - '2:50.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - LA Lakers full timeout
+  - - '2:31.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Turnover by R. Fox (lost ball; steal by D. Stoudamire)
+  - - '2:30.0'
+    - Personal foul by R. Fox
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '2:23.0'
+    - Offensive foul by S. Kemp
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '2:23.0'
+    - Turnover by S. Kemp (foul)
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '2:23.0'
+    - R. Boumtje-Boumtje enters the game for S. Kemp
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - S. O'Neal misses 2-pt shot from 9 ft
+  - - '2:08.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '1:54.0'
+    - R. Wallace misses 2-pt shot from 12 ft
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '1:30.0'
+    - ''
+    - ''
+    - 84-98
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by R. Horry)
+  - - '1:30.0'
+    - ''
+    - ''
+    - 84-98
+    - ''
+    - Shooting foul by R. Boumtje-Boumtje
+  - - '1:30.0'
+    - ''
+    - ''
+    - 84-98
+    - ''
+    - S. O'Neal misses free throw 1 of 1
+  - - '1:28.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 84-98
+    - ''
+    - ''
+  - - '1:20.0'
+    - D. Stoudamire makes 2-pt shot at rim
+    - "+2"
+    - 86-98
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Shooting foul by R. Boumtje-Boumtje
+  - - '1:01.0'
+    - Z. Randolph enters the game for R. Wallace
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - S. O'Neal misses free throw 1 of 2
+  - - '1:01.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Offensive rebound by Team
+  - - '1:01.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - S. O'Neal misses free throw 2 of 2
+  - - '1:00.0'
+    - Defensive rebound by R. Boumtje-Boumtje
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '1:00.0'
+    - Personal foul by R. Fox
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - S. Medvedenko enters the game for S. O'Neal
+  - - '1:00.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - D. George enters the game for R. Fox
+  - - '0:48.5'
+    - Shooting foul by D. George
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '0:48.5'
+    - Z. Randolph misses free throw 1 of 2
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '0:48.5'
+    - Offensive rebound by Team
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '0:48.5'
+    - Z. Randolph makes free throw 2 of 2
+    - "+1"
+    - 87-98
+    - ''
+    - ''
+  - - '0:36.5'
+    - ''
+    - ''
+    - 87-98
+    - ''
+    - Turnover by K. Bryant (lost ball; steal by E. Barkley)
+  - - '0:27.9'
+    - Z. Randolph misses 2-pt shot from 5 ft
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '0:25.7'
+    - Offensive rebound by Z. Randolph
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '0:23.5'
+    - Turnover by Z. Randolph (bad pass; steal by K. Bryant)
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

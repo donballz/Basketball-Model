@@ -1,0 +1,2502 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Camby vs. P. Ewing (L. Johnson gains possession)'
+  - - '11:43.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - M. Camby makes 2-pt shot from 6 ft (assist by M. Jackson)
+  - - '11:26.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 2-2
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Turnover by L. Sprewell (lost ball; steal by R. Lewis)
+  - - '11:02.0'
+    - R. Lewis misses 2-pt shot from 14 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '10:52.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 19 ft
+  - - '10:32.0'
+    - Personal foul by M. Camby
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:23.0'
+    - V. Baker misses 2-pt shot from 17 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:21.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '10:15.0'
+    - ''
+    - ''
+    - 2-6
+    - "+2"
+    - A. Houston makes 2-pt shot from 19 ft (assist by M. Jackson)
+  - - '10:00.0'
+    - Shooting foul by L. Johnson
+    - ''
+    - 2-6
+    - ''
+    - ''
+  - - '10:00.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 3-6
+    - ''
+    - ''
+  - - '10:00.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 4-6
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Turnover by M. Jackson (lost ball; steal by S. Williams)
+  - - '9:29.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 4-6
+    - ''
+    - Defensive rebound by M. Camby
+  - - '9:21.0'
+    - ''
+    - ''
+    - 4-8
+    - "+2"
+    - A. Houston makes 2-pt shot from 12 ft (assist by L. Johnson)
+  - - '9:14.0'
+    - S. Williams makes 3-pt shot from 25 ft
+    - "+3"
+    - 7-8
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 7-10
+    - "+2"
+    - A. Houston makes 2-pt shot from 16 ft (assist by M. Jackson)
+  - - '8:49.0'
+    - Shooting foul by L. Johnson
+    - ''
+    - 7-10
+    - ''
+    - ''
+  - - '8:49.0'
+    - V. Baker makes free throw 1 of 2
+    - "+1"
+    - 8-10
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - K. Thomas enters the game for L. Johnson
+  - - '8:49.0'
+    - V. Baker misses free throw 2 of 2
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '8:35.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - A. Houston misses 2-pt shot from 11 ft
+  - - '8:33.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '8:24.0'
+    - P. Ewing makes 2-pt shot at rim (assist by G. Payton)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - K. Thomas misses 2-pt shot from 14 ft
+  - - '8:04.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '7:47.0'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '7:45.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 12-10
+    - ''
+    - ''
+  - - '7:45.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 12-10
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 12-13
+    - "+3"
+    - M. Jackson makes 3-pt shot from 24 ft (assist by A. Houston)
+  - - '7:01.0'
+    - P. Ewing misses 2-pt shot at rim
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '6:57.0'
+    - P. Ewing misses 2-pt shot at rim
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '6:57.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '6:56.0'
+    - P. Ewing makes 2-pt shot at rim
+    - "+2"
+    - 14-13
+    - ''
+    - ''
+  - - '6:56.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 14-13
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 14-15
+    - "+2"
+    - M. Camby makes 2-pt shot from 16 ft (assist by K. Thomas)
+  - - '6:31.0'
+    - V. Baker makes 2-pt shot at rim (assist by R. Lewis)
+    - "+2"
+    - 16-15
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Personal foul by R. Lewis
+  - - '6:07.0'
+    - Violation by P. Ewing (illegal defense)
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 16-17
+    - "+2"
+    - M. Camby makes 2-pt shot from 5 ft (assist by K. Thomas)
+  - - '5:37.0'
+    - S. Williams misses 2-pt shot from 14 ft
+    - ''
+    - 16-17
+    - ''
+    - ''
+  - - '5:36.0'
+    - R. Lewis misses 2-pt shot at rim
+    - ''
+    - 16-17
+    - ''
+    - ''
+  - - '5:36.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 16-17
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 16-17
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:28.0'
+    - ''
+    - ''
+    - 16-20
+    - "+3"
+    - A. Houston makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '5:10.0'
+    - P. Ewing misses 2-pt shot at rim
+    - ''
+    - 16-20
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:05.0'
+    - ''
+    - ''
+    - 16-20
+    - ''
+    - L. Sprewell misses 2-pt shot at rim
+  - - '5:03.0'
+    - ''
+    - ''
+    - 16-22
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim
+  - - '5:03.0'
+    - ''
+    - ''
+    - 16-22
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '4:45.0'
+    - Shooting foul by M. Jackson
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '4:45.0'
+    - Seattle full timeout
+    - ''
+    - 16-22
+    - ''
+    - ''
+  - - '4:45.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 17-22
+    - ''
+    - ''
+  - - '4:45.0'
+    - S. Williams makes free throw 2 of 2
+    - "+1"
+    - 18-22
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 18-24
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by K. Thomas)
+  - - '4:16.0'
+    - Offensive foul by V. Baker
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '4:16.0'
+    - Turnover by V. Baker (foul)
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 18-24
+    - ''
+    - M. Camby misses 2-pt shot from 17 ft
+  - - '3:53.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '3:46.0'
+    - Personal foul by K. Thomas
+    - ''
+    - 18-24
+    - ''
+    - ''
+  - - '3:46.0'
+    - V. Baker makes free throw 1 of 2
+    - "+1"
+    - 19-24
+    - ''
+    - ''
+  - - '3:46.0'
+    - V. Baker misses free throw 2 of 2
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '3:45.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '3:45.0'
+    - Personal foul by A. Houston
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '3:45.0'
+    - R. Patterson enters the game for V. Baker
+    - ''
+    - 19-24
+    - ''
+    - ''
+  - - '3:45.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 20-24
+    - ''
+    - ''
+  - - '3:45.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 21-24
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 21-24
+    - ''
+    - Personal foul by S. Williams
+  - - '3:22.0'
+    - ''
+    - ''
+    - 21-26
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '3:22.0'
+    - Violation by P. Ewing (def goaltending)
+    - ''
+    - 21-26
+    - ''
+    - ''
+  - - '3:04.0'
+    - S. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 21-26
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 21-26
+    - ''
+    - Defensive rebound by M. Camby
+  - - '2:50.0'
+    - ''
+    - ''
+    - 21-29
+    - "+3"
+    - M. Jackson makes 3-pt shot from 25 ft (assist by L. Sprewell)
+  - - '2:26.0'
+    - R. Lewis misses 2-pt shot from 13 ft
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '2:14.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by S. Williams)
+  - - '2:04.0'
+    - G. Payton makes 2-pt shot from 14 ft (assist by R. Patterson)
+    - "+2"
+    - 23-29
+    - ''
+    - ''
+  - - '1:45.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - L. Sprewell misses 2-pt shot from 15 ft
+  - - '1:44.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Offensive rebound by Team
+  - - '1:44.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - Loose ball foul by R. Lewis
+  - - '1:44.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - New York full timeout
+  - - '1:44.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - G. Rice enters the game for A. Houston
+  - - '1:44.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '1:44.0'
+    - J. McCoy enters the game for P. Ewing
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 23-29
+    - ''
+    - M. Camby misses 2-pt shot from 6 ft
+  - - '1:38.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 23-29
+    - ''
+    - ''
+  - - '1:23.0'
+    - R. Patterson makes 2-pt shot from 11 ft
+    - "+2"
+    - 25-29
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - Personal foul by D. Mason
+  - - '1:09.0'
+    - ''
+    - ''
+    - 25-30
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '1:09.0'
+    - ''
+    - ''
+    - 25-31
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '0:55.6'
+    - R. Patterson misses 2-pt shot from 15 ft
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '0:53.4'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - Defensive rebound by M. Camby
+  - - '0:34.9'
+    - ''
+    - ''
+    - 25-31
+    - ''
+    - L. Sprewell misses 2-pt shot from 18 ft
+  - - '0:32.8'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '0:21.6'
+    - Shooting foul by M. Jackson
+    - ''
+    - 25-31
+    - ''
+    - ''
+  - - '0:21.6'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 26-31
+    - ''
+    - ''
+  - - '0:21.6'
+    - ''
+    - ''
+    - 26-31
+    - ''
+    - A. Houston enters the game for K. Thomas
+  - - '0:21.6'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 27-31
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 27-31
+    - ''
+    - G. Rice misses 2-pt shot from 22 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 27-31
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:43.0'
+    - G. Payton misses 2-pt shot from 12 ft
+    - ''
+    - 27-31
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 27-31
+    - ''
+    - Defensive rebound by C. Ward
+  - - '11:36.0'
+    - ''
+    - ''
+    - 27-31
+    - ''
+    - Turnover by C. Ward (bad pass; steal by D. Mason)
+  - - '11:29.0'
+    - D. Mason makes 2-pt shot from 16 ft (assist by S. Williams)
+    - "+2"
+    - 29-31
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 29-31
+    - ''
+    - Turnover by C. Ward (bad pass; steal by J. McCoy)
+  - - '10:58.0'
+    - G. Payton makes 3-pt shot from 24 ft
+    - "+3"
+    - 32-31
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - Turnover by C. Ward (lost ball; steal by D. Mason)
+  - - '10:30.0'
+    - R. Patterson misses 2-pt shot from 14 ft
+    - ''
+    - 32-31
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - Defensive rebound by M. Camby
+  - - '10:22.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - Personal foul by J. McCoy
+  - - '10:22.0'
+    - V. Baker enters the game for S. Williams
+    - ''
+    - 32-31
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - L. Johnson enters the game for M. Camby
+  - - '10:18.0'
+    - ''
+    - ''
+    - 32-33
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 15 ft
+  - - '10:08.0'
+    - D. Mason makes 3-pt shot from 23 ft (assist by G. Payton)
+    - "+3"
+    - 35-33
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 35-33
+    - ''
+    - Turnover by C. Ward (bad pass; steal by J. McCoy)
+  - - '9:39.0'
+    - J. McCoy makes 2-pt shot from 4 ft (assist by G. Payton)
+    - "+2"
+    - 37-33
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 37-33
+    - ''
+    - New York full timeout
+  - - '9:15.0'
+    - ''
+    - ''
+    - 37-33
+    - ''
+    - C. Ward misses 2-pt shot from 18 ft
+  - - '9:12.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 37-33
+    - ''
+    - ''
+  - - '9:02.0'
+    - G. Payton makes 2-pt shot from 14 ft
+    - "+2"
+    - 39-33
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 39-35
+    - "+2"
+    - K. Thomas makes 2-pt shot from 14 ft (assist by L. Sprewell)
+  - - '8:20.0'
+    - G. Payton makes 2-pt shot from 14 ft
+    - "+2"
+    - 41-35
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - Ill def tech foul by D. Mason
+  - - '8:07.0'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - M. Jackson enters the game for C. Ward
+  - - '8:07.0'
+    - ''
+    - ''
+    - 41-35
+    - ''
+    - A. Houston enters the game for L. Sprewell
+  - - '8:07.0'
+    - ''
+    - ''
+    - 41-36
+    - "+1"
+    - G. Rice makes free throw technical
+  - - '7:58.0'
+    - ''
+    - ''
+    - 41-36
+    - ''
+    - A. Houston misses 2-pt shot from 6 ft
+  - - '7:55.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 41-36
+    - ''
+    - ''
+  - - '7:47.0'
+    - Offensive foul by V. Baker
+    - ''
+    - 41-36
+    - ''
+    - ''
+  - - '7:47.0'
+    - Turnover by V. Baker (foul)
+    - ''
+    - 41-36
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 41-38
+    - "+2"
+    - G. Rice makes 2-pt shot from 18 ft (assist by M. Jackson)
+  - - '7:13.0'
+    - V. Baker misses 2-pt shot from 6 ft
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:11.0'
+    - Offensive rebound by J. McCoy
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:09.0'
+    - J. McCoy misses 2-pt shot at rim
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:07.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - M. Camby enters the game for L. Johnson
+  - - '7:07.0'
+    - Personal foul by L. Johnson
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:00.0'
+    - Shooting foul by G. Rice
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:00.0'
+    - V. Baker misses free throw 1 of 2
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '7:00.0'
+    - V. Baker makes free throw 2 of 2
+    - "+1"
+    - 42-38
+    - ''
+    - ''
+  - - '7:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - G. Rice misses 2-pt shot from 12 ft
+  - - '6:37.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '6:28.0'
+    - V. Baker misses 2-pt shot from 11 ft (block by K. Thomas)
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '6:22.0'
+    - ''
+    - ''
+    - 42-38
+    - ''
+    - K. Thomas misses 2-pt shot at rim (block by V. Baker)
+  - - '6:17.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 42-38
+    - ''
+    - ''
+  - - '5:58.0'
+    - R. Patterson makes 2-pt shot at rim
+    - "+2"
+    - 44-38
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 44-40
+    - "+2"
+    - A. Houston makes 2-pt shot from 18 ft (assist by M. Jackson)
+  - - '5:23.0'
+    - G. Payton makes 3-pt shot from 25 ft (assist by R. Patterson)
+    - "+3"
+    - 47-40
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 47-42
+    - "+2"
+    - A. Houston makes 2-pt shot from 15 ft (assist by M. Jackson)
+  - - '4:55.0'
+    - Personal foul by K. Thomas
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '4:55.0'
+    - Official timeout
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '4:55.0'
+    - P. Ewing enters the game for V. Baker
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '4:55.0'
+    - R. Lewis enters the game for R. Patterson
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '4:47.0'
+    - P. Ewing misses 2-pt shot from 16 ft
+    - ''
+    - 47-42
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 47-42
+    - ''
+    - Defensive rebound by A. Houston
+  - - '4:31.0'
+    - ''
+    - ''
+    - 47-42
+    - ''
+    - G. Rice misses 2-pt shot at rim (block by P. Ewing)
+  - - '4:29.0'
+    - ''
+    - ''
+    - 47-42
+    - ''
+    - Offensive rebound by M. Camby
+  - - '4:28.0'
+    - ''
+    - ''
+    - 47-44
+    - "+2"
+    - M. Camby makes 2-pt shot from 4 ft
+  - - '4:06.0'
+    - Turnover by P. Ewing (lost ball)
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - Shooting foul by R. Lewis
+  - - '3:51.0'
+    - ''
+    - ''
+    - 47-45
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '3:51.0'
+    - R. Patterson enters the game for R. Lewis
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 47-45
+    - ''
+    - G. Rice misses free throw 2 of 2
+  - - '3:49.0'
+    - Defensive rebound by D. Mason
+    - ''
+    - 47-45
+    - ''
+    - ''
+  - - '3:35.0'
+    - P. Ewing makes 2-pt shot from 13 ft (assist by G. Payton)
+    - "+2"
+    - 49-45
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - G. Rice misses 2-pt shot from 19 ft
+  - - '3:16.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '3:15.0'
+    - V. Baker enters the game for J. McCoy
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Personal foul by P. Ewing
+  - - '3:08.0'
+    - ''
+    - ''
+    - 49-45
+    - ''
+    - Turnover by A. Houston (lost ball; steal by D. Mason)
+  - - '3:04.0'
+    - Shooting foul by M. Camby
+    - ''
+    - 49-45
+    - ''
+    - ''
+  - - '3:04.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 50-45
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 50-45
+    - ''
+    - L. Sprewell enters the game for G. Rice
+  - - '3:04.0'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 51-45
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 51-45
+    - ''
+    - Personal foul by D. Mason
+  - - '2:53.0'
+    - ''
+    - ''
+    - 51-45
+    - ''
+    - New York full timeout
+  - - '2:41.0'
+    - ''
+    - ''
+    - 51-48
+    - "+3"
+    - L. Sprewell makes 3-pt shot from 24 ft (assist by M. Jackson)
+  - - '2:23.0'
+    - Shooting foul by M. Jackson
+    - ''
+    - 51-48
+    - ''
+    - ''
+  - - '2:23.0'
+    - D. Mason misses free throw 1 of 2
+    - ''
+    - 51-48
+    - ''
+    - ''
+  - - '2:23.0'
+    - Offensive rebound by Team
+    - ''
+    - 51-48
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 51-48
+    - ''
+    - G. Rice enters the game for M. Jackson
+  - - '2:23.0'
+    - D. Mason makes free throw 2 of 2
+    - "+1"
+    - 52-48
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Personal foul by R. Patterson
+  - - '2:17.0'
+    - ''
+    - ''
+    - 52-49
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '2:17.0'
+    - ''
+    - ''
+    - 52-50
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '1:53.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 52-50
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Defensive rebound by G. Rice
+  - - '1:40.0'
+    - ''
+    - ''
+    - 52-50
+    - ''
+    - Personal foul by R. Patterson
+  - - '1:40.0'
+    - ''
+    - ''
+    - 52-51
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '1:40.0'
+    - ''
+    - ''
+    - 52-52
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '1:20.0'
+    - R. Patterson misses 2-pt shot from 19 ft
+    - ''
+    - 52-52
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 52-52
+    - ''
+    - Defensive rebound by M. Camby
+  - - '1:02.0'
+    - ''
+    - ''
+    - 52-54
+    - "+2"
+    - A. Houston makes 2-pt shot at rim
+  - - '0:46.2'
+    - V. Baker misses 2-pt shot from 7 ft
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Defensive rebound by M. Camby
+  - - '0:39.8'
+    - ''
+    - ''
+    - 52-56
+    - "+2"
+    - G. Rice makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '0:26.3'
+    - Turnover by P. Ewing (lost ball)
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '0:06.1'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - A. Houston misses 2-pt shot from 9 ft
+  - - '0:04.7'
+    - ''
+    - ''
+    - 52-56
+    - ''
+    - Offensive rebound by M. Camby
+  - - '0:00.8'
+    - ''
+    - ''
+    - 52-59
+    - "+3"
+    - A. Houston makes 3-pt shot from 25 ft (assist by M. Camby)
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:39.0'
+    - R. Lewis misses 2-pt shot from 11 ft
+    - ''
+    - 52-59
+    - ''
+    - ''
+  - - '11:38.0'
+    - Offensive rebound by P. Ewing
+    - ''
+    - 52-59
+    - ''
+    - ''
+  - - '11:37.0'
+    - P. Ewing misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 52-59
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 52-59
+    - ''
+    - Defensive rebound by M. Camby
+  - - '11:18.0'
+    - ''
+    - ''
+    - 52-61
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '10:59.0'
+    - G. Payton misses 3-pt shot from 23 ft
+    - ''
+    - 52-61
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 52-61
+    - ''
+    - Defensive rebound by A. Houston
+  - - '10:57.0'
+    - ''
+    - ''
+    - 52-61
+    - ''
+    - Turnover by A. Houston (lost ball)
+  - - '10:46.0'
+    - P. Ewing misses 2-pt shot from 9 ft
+    - ''
+    - 52-61
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 52-61
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '10:40.0'
+    - ''
+    - ''
+    - 52-61
+    - ''
+    - L. Sprewell misses 2-pt shot at rim
+  - - '10:38.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 52-61
+    - ''
+    - ''
+  - - '10:26.0'
+    - S. Williams misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 52-61
+    - ''
+    - ''
+  - - '10:25.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 52-61
+    - ''
+    - ''
+  - - '10:24.0'
+    - V. Baker makes 2-pt shot at rim
+    - "+2"
+    - 54-61
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 54-63
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by M. Jackson)
+  - - '9:47.0'
+    - P. Ewing misses 2-pt shot from 11 ft
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - - '9:46.0'
+    - Offensive rebound by V. Baker
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - - '9:46.0'
+    - Shooting foul by L. Johnson
+    - ''
+    - 54-63
+    - ''
+    - ''
+  - - '9:46.0'
+    - V. Baker makes free throw 1 of 2
+    - "+1"
+    - 55-63
+    - ''
+    - ''
+  - - '9:46.0'
+    - Turnover by P. Ewing (lane violation)
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 55-63
+    - ''
+    - Turnover by L. Sprewell (lost ball; steal by G. Payton)
+  - - '9:21.0'
+    - G. Payton misses 2-pt shot at rim (block by A. Houston)
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '9:20.0'
+    - Offensive rebound by R. Lewis
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '9:20.0'
+    - Shooting foul by A. Houston
+    - ''
+    - 55-63
+    - ''
+    - ''
+  - - '9:20.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 56-63
+    - ''
+    - ''
+  - - '9:20.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 57-63
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 57-63
+    - ''
+    - M. Camby misses 2-pt shot from 13 ft
+  - - '9:00.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 57-63
+    - ''
+    - ''
+  - - '8:52.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 59-63
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Turnover by A. Houston (traveling)
+  - - '8:14.0'
+    - G. Payton misses 2-pt shot from 17 ft
+    - ''
+    - 59-63
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '7:52.0'
+    - ''
+    - ''
+    - 59-63
+    - ''
+    - Shooting foul by P. Ewing
+  - - '7:52.0'
+    - ''
+    - ''
+    - 59-64
+    - "+1"
+    - M. Camby makes free throw 1 of 2
+  - - '7:52.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - M. Camby misses free throw 2 of 2
+  - - '7:51.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '7:37.0'
+    - R. Lewis misses 3-pt shot from 24 ft
+    - ''
+    - 59-64
+    - ''
+    - ''
+  - - '7:34.0'
+    - ''
+    - ''
+    - 59-64
+    - ''
+    - Defensive rebound by A. Houston
+  - - '7:26.0'
+    - ''
+    - ''
+    - 59-66
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 15 ft (assist by M. Camby)
+  - - '7:06.0'
+    - V. Baker misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - Defensive rebound by M. Camby
+  - - '6:57.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - L. Sprewell misses 2-pt shot from 12 ft
+  - - '6:55.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '6:40.0'
+    - Offensive foul by R. Lewis
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '6:40.0'
+    - Turnover by R. Lewis (foul)
+    - ''
+    - 59-66
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 59-66
+    - ''
+    - New York full timeout
+  - - '6:28.0'
+    - ''
+    - ''
+    - 59-68
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by A. Houston)
+  - - '6:03.0'
+    - G. Payton makes 3-pt shot from 23 ft (assist by R. Lewis)
+    - "+3"
+    - 62-68
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 62-68
+    - ''
+    - M. Jackson misses 3-pt shot from 25 ft
+  - - '5:40.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 62-68
+    - ''
+    - ''
+  - - '5:25.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by S. Williams)
+    - "+3"
+    - 65-68
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - M. Jackson misses 2-pt shot from 5 ft
+  - - '5:00.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '5:00.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Offensive rebound by M. Jackson
+  - - '4:58.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '4:50.0'
+    - V. Baker misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '4:47.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '4:45.0'
+    - G. Payton misses 2-pt shot from 3 ft
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Defensive rebound by M. Camby
+  - - '4:37.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Turnover by A. Houston (bad pass; steal by S. Williams)
+  - - '4:36.0'
+    - G. Payton misses 2-pt shot from 13 ft
+    - ''
+    - 65-68
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '4:28.0'
+    - ''
+    - ''
+    - 65-70
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 16 ft (assist by A. Houston)
+  - - '4:07.0'
+    - S. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Defensive rebound by Team
+  - - '4:04.0'
+    - D. Mason enters the game for R. Lewis
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - L. Sprewell misses 2-pt shot from 22 ft
+  - - '3:44.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:40.0'
+    - Turnover by G. Payton (bad pass)
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:40.0'
+    - R. Patterson enters the game for V. Baker
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 65-72
+    - "+2"
+    - M. Camby makes 2-pt shot at rim
+  - - '3:08.0'
+    - S. Williams misses 2-pt shot at rim
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '3:07.0'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '3:07.0'
+    - Personal foul by L. Johnson
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - K. Thomas enters the game for M. Camby
+  - - '3:07.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - G. Rice enters the game for L. Johnson
+  - - '2:59.0'
+    - D. Mason misses 2-pt shot from 22 ft
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Defensive rebound by A. Houston
+  - - '2:34.0'
+    - ''
+    - ''
+    - 65-75
+    - "+3"
+    - G. Rice makes 3-pt shot from 23 ft (assist by M. Jackson)
+  - - '2:07.0'
+    - P. Ewing misses 2-pt shot from 12 ft
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '2:01.0'
+    - ''
+    - ''
+    - 65-77
+    - "+2"
+    - A. Houston makes 2-pt shot from 17 ft (assist by M. Jackson)
+  - - '1:57.0'
+    - Seattle full timeout
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:57.0'
+    - J. McCoy enters the game for P. Ewing
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:35.0'
+    - Shooting foul by A. Houston
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:35.0'
+    - G. Payton misses free throw 1 of 2
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:35.0'
+    - G. Payton misses free throw 2 of 2
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Defensive rebound by G. Rice
+  - - '1:18.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Personal foul by J. McCoy
+  - - '1:10.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Shooting foul by S. Williams
+  - - '1:10.0'
+    - ''
+    - ''
+    - 65-78
+    - "+1"
+    - M. Jackson makes free throw 1 of 2
+  - - '1:10.0'
+    - ''
+    - ''
+    - 65-78
+    - ''
+    - M. Jackson misses free throw 2 of 2
+  - - '1:09.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '0:52.4'
+    - S. Williams misses 2-pt shot at rim
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '0:50.3'
+    - ''
+    - ''
+    - 65-78
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '0:42.6'
+    - ''
+    - ''
+    - 65-80
+    - "+2"
+    - A. Houston makes 2-pt shot from 23 ft (assist by M. Jackson)
+  - - '0:30.7'
+    - R. Patterson misses 2-pt shot at rim
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:28.6'
+    - Offensive rebound by S. Williams
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:18.8'
+    - G. Payton misses 2-pt shot at rim
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:16.2'
+    - Offensive rebound by R. Patterson
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:15.4'
+    - R. Patterson misses 2-pt shot at rim (block by K. Thomas)
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:13.0'
+    - ''
+    - ''
+    - 65-80
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '0:02.4'
+    - ''
+    - ''
+    - 65-80
+    - ''
+    - L. Sprewell misses 2-pt shot from 7 ft
+  - - '0:01.0'
+    - Defensive rebound by J. McCoy
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 65-80
+    - ''
+    - G. Rice misses 3-pt shot from 24 ft
+  - - '11:42.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 65-80
+    - ''
+    - ''
+  - - '11:29.0'
+    - R. Patterson makes 2-pt shot at rim (assist by S. Williams)
+    - "+2"
+    - 67-80
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 67-80
+    - ''
+    - M. Jackson misses 2-pt shot from 5 ft
+  - - '11:14.0'
+    - ''
+    - ''
+    - 67-80
+    - ''
+    - Offensive rebound by M. Jackson
+  - - '11:13.0'
+    - ''
+    - ''
+    - 67-80
+    - ''
+    - Personal foul by J. McCoy
+  - - '11:13.0'
+    - ''
+    - ''
+    - 67-80
+    - ''
+    - C. Ward enters the game for M. Jackson
+  - - '11:13.0'
+    - R. Lewis enters the game for J. McCoy
+    - ''
+    - 67-80
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 67-82
+    - "+2"
+    - A. Houston makes 2-pt shot from 21 ft (assist by C. Ward)
+  - - '10:45.0'
+    - V. Baker makes 2-pt shot at rim (assist by R. Lewis)
+    - "+2"
+    - 69-82
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 69-82
+    - ''
+    - G. Rice misses 3-pt shot from 24 ft
+  - - '10:28.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 69-82
+    - ''
+    - ''
+  - - '10:22.0'
+    - V. Baker makes 2-pt shot at rim (assist by S. Williams)
+    - "+2"
+    - 71-82
+    - ''
+    - ''
+  - - '9:58.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - A. Houston misses 2-pt shot at rim
+  - - '9:56.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '9:55.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '9:54.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '9:54.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '9:52.0'
+    - Defensive rebound by V. Baker
+    - ''
+    - 71-82
+    - ''
+    - ''
+  - - '9:43.0'
+    - V. Baker misses 2-pt shot from 14 ft
+    - ''
+    - 71-82
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '9:36.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - A. Houston misses 2-pt shot at rim (block by R. Lewis)
+  - - '9:34.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 71-82
+    - ''
+    - ''
+  - - '9:22.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 71-82
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 71-82
+    - ''
+    - M. Camby enters the game for A. Houston
+  - - '9:22.0'
+    - R. Patterson makes free throw 1 of 2
+    - "+1"
+    - 72-82
+    - ''
+    - ''
+  - - '9:22.0'
+    - R. Patterson makes free throw 2 of 2
+    - "+1"
+    - 73-82
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 73-84
+    - "+2"
+    - G. Rice makes 2-pt shot at rim
+  - - '8:44.0'
+    - Personal foul by K. Thomas
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '8:44.0'
+    - Official timeout
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '8:41.0'
+    - Personal foul by C. Ward
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '8:34.0'
+    - Offensive foul by S. Williams
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '8:34.0'
+    - Turnover by S. Williams (foul)
+    - ''
+    - 73-84
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 73-86
+    - "+2"
+    - C. Ward makes 2-pt shot at rim
+  - - '7:57.0'
+    - V. Baker misses 2-pt shot from 5 ft
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:56.0'
+    - Offensive rebound by Team
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:56.0'
+    - Loose ball foul by G. Rice
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:56.0'
+    - G. Payton enters the game for S. Williams
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:41.0'
+    - V. Baker misses 2-pt shot from 12 ft
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 73-86
+    - ''
+    - Defensive rebound by M. Camby
+  - - '7:25.0'
+    - ''
+    - ''
+    - 73-86
+    - ''
+    - C. Ward misses 2-pt shot from 22 ft
+  - - '7:24.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:15.0'
+    - Shooting foul by M. Camby
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:15.0'
+    - P. Ewing enters the game for V. Baker
+    - ''
+    - 73-86
+    - ''
+    - ''
+  - - '7:15.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 74-86
+    - ''
+    - ''
+  - - '7:15.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 75-86
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - New York full timeout
+  - - '7:03.0'
+    - ''
+    - ''
+    - 75-86
+    - ''
+    - Turnover by M. Camby (bad pass; steal by D. Mason)
+  - - '6:46.0'
+    - R. Lewis makes 3-pt shot from 23 ft (assist by R. Patterson)
+    - "+3"
+    - 78-86
+    - ''
+    - ''
+  - - '6:23.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - L. Sprewell misses 3-pt shot from 25 ft
+  - - '6:21.0'
+    - Defensive rebound by R. Lewis
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '6:05.0'
+    - R. Lewis misses 3-pt shot from 23 ft
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:58.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - Shooting foul by P. Ewing
+  - - '5:58.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - M. Jackson enters the game for C. Ward
+  - - '5:58.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - A. Houston enters the game for L. Sprewell
+  - - '5:58.0'
+    - ''
+    - ''
+    - 78-87
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '5:58.0'
+    - ''
+    - ''
+    - 78-88
+    - "+1"
+    - G. Rice makes free throw 2 of 2
+  - - '5:39.0'
+    - R. Lewis makes 3-pt shot from 23 ft (assist by R. Patterson)
+    - "+3"
+    - 81-88
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 81-88
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by R. Patterson)
+  - - '5:12.0'
+    - R. Patterson makes 2-pt shot at rim
+    - "+2"
+    - 83-88
+    - ''
+    - ''
+  - - '5:12.0'
+    - Shooting foul by M. Jackson
+    - ''
+    - 83-88
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 83-88
+    - ''
+    - L. Sprewell enters the game for K. Thomas
+  - - '5:12.0'
+    - R. Patterson misses free throw 1 of 1
+    - ''
+    - 83-88
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 83-88
+    - ''
+    - Defensive rebound by M. Camby
+  - - '4:55.0'
+    - ''
+    - ''
+    - 83-90
+    - "+2"
+    - G. Rice makes 2-pt shot from 10 ft
+  - - '4:36.0'
+    - Personal foul by L. Sprewell
+    - ''
+    - 83-90
+    - ''
+    - ''
+  - - '4:36.0'
+    - R. Lewis makes free throw 1 of 2
+    - "+1"
+    - 84-90
+    - ''
+    - ''
+  - - '4:36.0'
+    - R. Lewis makes free throw 2 of 2
+    - "+1"
+    - 85-90
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 85-90
+    - ''
+    - Turnover by A. Houston (lost ball; steal by G. Payton)
+  - - '4:08.0'
+    - G. Payton misses 3-pt shot from 25 ft
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '4:06.0'
+    - Offensive rebound by D. Mason
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '4:05.0'
+    - D. Mason misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '4:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '4:04.0'
+    - Seattle full timeout
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '3:48.0'
+    - R. Lewis makes 3-pt shot from 25 ft (assist by D. Mason)
+    - "+3"
+    - 88-90
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 88-92
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 21 ft (assist by G. Rice)
+  - - '3:06.0'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - Violation by A. Houston (kicked ball)
+  - - '2:58.0'
+    - R. Lewis misses 2-pt shot from 18 ft
+    - ''
+    - 88-92
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 88-92
+    - ''
+    - Defensive rebound by M. Camby
+  - - '2:44.0'
+    - ''
+    - ''
+    - 88-94
+    - "+2"
+    - M. Camby makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '2:23.0'
+    - G. Payton makes 2-pt shot at rim
+    - "+2"
+    - 90-94
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 90-94
+    - ''
+    - L. Sprewell misses 2-pt shot from 15 ft
+  - - '1:55.0'
+    - Defensive rebound by G. Payton
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '1:32.0'
+    - R. Patterson misses 3-pt shot from 26 ft
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '1:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '1:31.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 90-94
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 90-97
+    - "+3"
+    - G. Rice makes 3-pt shot from 24 ft (assist by L. Sprewell)
+  - - '1:14.0'
+    - Seattle 20 second timeout
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '1:14.0'
+    - S. Williams enters the game for R. Patterson
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:57.4'
+    - G. Payton misses 2-pt shot from 8 ft (block by L. Sprewell)
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:55.2'
+    - ''
+    - ''
+    - 90-97
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '0:43.6'
+    - ''
+    - ''
+    - 90-97
+    - ''
+    - G. Rice misses 2-pt shot from 11 ft
+  - - '0:42.0'
+    - Defensive rebound by D. Mason
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:32.7'
+    - D. Mason misses 3-pt shot from 25 ft
+    - ''
+    - 90-97
+    - ''
+    - ''
+  - - '0:30.2'
+    - ''
+    - ''
+    - 90-97
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '0:22.8'
+    - ''
+    - ''
+    - 90-97
+    - ''
+    - Personal foul by D. Mason
+  - - '0:20.2'
+    - ''
+    - ''
+    - 90-99
+    - "+2"
+    - G. Rice makes 2-pt shot at rim (assist by M. Camby)
+  - - '0:12.3'
+    - P. Ewing makes 2-pt shot from 14 ft (assist by G. Payton)
+    - "+2"
+    - 92-99
+    - ''
+    - ''
+  - - '0:02.3'
+    - ''
+    - ''
+    - 92-99
+    - ''
+    - Personal foul by G. Payton
+  - - '0:02.3'
+    - ''
+    - ''
+    - 92-100
+    - "+1"
+    - L. Sprewell makes free throw 1 of 2
+  - - '0:02.3'
+    - ''
+    - ''
+    - 92-101
+    - "+1"
+    - L. Sprewell makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 4th quarter

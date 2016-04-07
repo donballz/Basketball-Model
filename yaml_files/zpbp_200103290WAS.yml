@@ -1,0 +1,2706 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. White vs. A. Foyle (C. Porter gains possession)'
+  - - '11:40.0'
+    - A. Foyle makes 2-pt shot from 4 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - Personal foul by A. Foyle
+  - - '11:17.0'
+    - ''
+    - ''
+    - 2-2
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 4 ft
+  - - '10:58.0'
+    - C. Porter misses 2-pt shot from 14 ft
+    - ''
+    - 2-2
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-2
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '10:52.0'
+    - ''
+    - ''
+    - 2-4
+    - "+2"
+    - C. Alexander makes 2-pt shot from 14 ft
+  - - '10:33.0'
+    - A. Jamison misses 2-pt shot from 21 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:30.0'
+    - Offensive rebound by M. Blaylock
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:28.0'
+    - M. Blaylock misses 2-pt shot from 7 ft
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:27.0'
+    - Offensive rebound by A. Keefe
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:26.0'
+    - A. Keefe makes 2-pt shot from 3 ft
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '10:10.0'
+    - ''
+    - ''
+    - 4-6
+    - "+2"
+    - J. White makes 2-pt shot from 4 ft (assist by C. Laettner)
+  - - '9:53.0'
+    - A. Jamison misses 2-pt shot from 6 ft
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '9:51.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '9:49.0'
+    - A. Jamison makes 2-pt shot from 4 ft
+    - "+2"
+    - 6-6
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - C. Laettner misses 2-pt shot from 19 ft
+  - - '9:25.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '9:17.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Turnover by C. Alexander (lost ball; steal by A. Foyle)
+  - - '9:13.0'
+    - C. Porter misses 2-pt shot from 7 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:12.0'
+    - Offensive rebound by A. Keefe
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:11.0'
+    - A. Keefe misses 2-pt shot from 4 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:09.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:07.0'
+    - A. Foyle makes 2-pt shot from 3 ft
+    - "+2"
+    - 8-6
+    - ''
+    - ''
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - J. White misses 2-pt shot from 3 ft (block by A. Foyle)
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Shooting foul by C. Porter
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - R. Hamilton misses free throw 1 of 2
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-6
+    - ''
+    - Offensive rebound by Team
+  - - '9:04.0'
+    - ''
+    - ''
+    - 8-7
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '8:55.0'
+    - A. Jamison misses 2-pt shot from 11 ft
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:53.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 8-7
+    - ''
+    - ''
+  - - '8:51.0'
+    - A. Jamison makes 2-pt shot from 9 ft
+    - "+2"
+    - 10-7
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - C. Alexander misses 2-pt shot from 10 ft
+  - - '8:32.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:16.0'
+    - A. Keefe misses 2-pt shot from 11 ft
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:14.0'
+    - Offensive rebound by C. Porter
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:13.0'
+    - C. Porter misses 2-pt shot from 4 ft
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '8:09.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Turnover by R. Hamilton (bad pass)
+  - - '7:55.0'
+    - C. Porter makes 2-pt shot from 8 ft (assist by A. Jamison)
+    - "+2"
+    - 12-7
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - Turnover by C. Alexander (lost ball; steal by A. Keefe)
+  - - '7:20.0'
+    - Turnover by M. Blaylock (bad pass; steal by R. Hamilton)
+    - ''
+    - 12-7
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 12-9
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 17 ft (assist by C. Alexander)
+  - - '6:58.0'
+    - C. Porter makes 2-pt shot from 4 ft (assist by A. Keefe)
+    - "+2"
+    - 14-9
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 14-9
+    - ''
+    - Turnover by J. White (lost ball; steal by A. Foyle)
+  - - '6:38.0'
+    - A. Jamison makes 2-pt shot from 6 ft (assist by M. Blaylock)
+    - "+2"
+    - 16-9
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Washington full timeout
+  - - '6:15.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Turnover by R. Hamilton (bad pass; steal by M. Blaylock)
+  - - '6:07.0'
+    - M. Blaylock makes 2-pt shot from 21 ft
+    - "+2"
+    - 18-9
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 18-11
+    - "+2"
+    - C. Alexander makes 2-pt shot from 19 ft (assist by L. Profit)
+  - - '5:38.0'
+    - Personal foul by C. Alexander
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '5:34.0'
+    - M. Blaylock misses 2-pt shot from 22 ft
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '5:32.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '5:28.0'
+    - C. Porter misses 2-pt shot from 15 ft
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '5:26.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '5:16.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Personal foul by A. Jamison
+  - - '5:16.0'
+    - P. McPherson enters the game for C. Porter
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Personal foul by P. McPherson
+  - - '5:04.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - R. Hamilton misses 2-pt shot from 18 ft
+  - - '5:02.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Offensive rebound by J. White
+  - - '4:39.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - C. Laettner misses 2-pt shot from 14 ft
+  - - '4:37.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '4:18.0'
+    - A. Foyle misses 2-pt shot from 5 ft (block by J. White)
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '4:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - M. Smith enters the game for J. White
+  - - '4:18.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - P. Jones enters the game for C. Laettner
+  - - '4:14.0'
+    - M. Blaylock misses 2-pt shot from 18 ft
+    - ''
+    - 18-11
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 18-11
+    - ''
+    - Defensive rebound by P. Jones
+  - - '4:07.0'
+    - ''
+    - ''
+    - 18-13
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 2 ft
+  - - '3:53.0'
+    - A. Jamison makes 2-pt shot from 4 ft (assist by A. Keefe)
+    - "+2"
+    - 20-13
+    - ''
+    - ''
+  - - '3:53.0'
+    - Shooting foul by P. Jones
+    - ''
+    - 20-13
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - D. Vanterpool enters the game for L. Profit
+  - - '3:53.0'
+    - A. Jamison makes free throw 1 of 1
+    - "+1"
+    - 21-13
+    - ''
+    - ''
+  - - '3:34.0'
+    - ''
+    - ''
+    - 21-15
+    - "+2"
+    - C. Alexander makes 2-pt shot from 14 ft
+  - - '3:22.0'
+    - Turnover by A. Keefe (bad pass; steal by M. Smith)
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Turnover by M. Smith (bad pass; steal by M. Blaylock)
+  - - '3:14.0'
+    - Personal foul by D. Vanterpool
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '3:14.0'
+    - E. Dampier enters the game for A. Foyle
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '3:01.0'
+    - P. McPherson makes 2-pt shot from 7 ft
+    - "+2"
+    - 23-15
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 23-15
+    - ''
+    - R. Hamilton misses 2-pt shot from 19 ft
+  - - '2:48.0'
+    - ''
+    - ''
+    - 23-15
+    - ''
+    - Offensive rebound by D. Vanterpool
+  - - '2:44.0'
+    - ''
+    - ''
+    - 23-17
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 9 ft
+  - - '2:31.0'
+    - A. Jamison makes 2-pt shot from 19 ft (assist by M. Blaylock)
+    - "+2"
+    - 25-17
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 25-19
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 3 ft
+  - - '2:00.0'
+    - M. Blaylock makes 2-pt shot from 19 ft (assist by E. Dampier)
+    - "+2"
+    - 27-19
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 27-21
+    - "+2"
+    - C. Alexander makes 2-pt shot from 5 ft (assist by R. Hamilton)
+  - - '1:21.0'
+    - E. Dampier makes 2-pt shot from 10 ft (assist by A. Jamison)
+    - "+2"
+    - 29-21
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 29-21
+    - ''
+    - Turnover by M. Smith (bad pass; steal by A. Keefe)
+  - - '1:07.0'
+    - E. Dampier misses 2-pt shot from 13 ft
+    - ''
+    - 29-21
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 29-21
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '0:52.0'
+    - ''
+    - ''
+    - 29-21
+    - ''
+    - R. Hamilton misses 2-pt shot from 14 ft
+  - - '0:49.9'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 29-21
+    - ''
+    - ''
+  - - '0:41.9'
+    - E. Dampier makes 2-pt shot from 7 ft (assist by M. Blaylock)
+    - "+2"
+    - 31-21
+    - ''
+    - ''
+  - - '0:33.4'
+    - ''
+    - ''
+    - 31-23
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 3 ft
+  - - '0:33.4'
+    - ''
+    - ''
+    - 31-23
+    - ''
+    - Shooting foul by M. Blaylock
+  - - '0:33.4'
+    - ''
+    - ''
+    - 31-23
+    - ''
+    - Washington full timeout
+  - - '0:33.4'
+    - C. Blount enters the game for A. Jamison
+    - ''
+    - 31-23
+    - ''
+    - ''
+  - - '0:33.4'
+    - V. Cummings enters the game for M. Blaylock
+    - ''
+    - 31-23
+    - ''
+    - ''
+  - - '0:33.4'
+    - ''
+    - ''
+    - 31-24
+    - "+1"
+    - D. Vanterpool makes free throw 1 of 1
+  - - '0:10.9'
+    - V. Cummings makes 3-pt shot from 26 ft (assist by C. Blount)
+    - "+3"
+    - 34-24
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Turnover by D. Vanterpool (bad pass; steal by E. Dampier)
+  - - '0:00.3'
+    - E. Dampier misses 3-pt shot from 44 ft
+    - ''
+    - 34-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - J. White misses 2-pt shot from 8 ft
+  - - '11:35.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Offensive rebound by J. White
+  - - '11:30.0'
+    - ''
+    - ''
+    - 34-24
+    - ''
+    - Turnover by J. White (lost ball; steal by A. Keefe)
+  - - '11:17.0'
+    - P. McPherson makes 2-pt shot from 4 ft (assist by A. Keefe)
+    - "+2"
+    - 36-24
+    - ''
+    - ''
+  - - '11:00.0'
+    - ''
+    - ''
+    - 36-26
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 4 ft
+  - - '10:49.0'
+    - C. Blount misses 2-pt shot from 16 ft
+    - ''
+    - 36-26
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Defensive rebound by M. Smith
+  - - '10:42.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Shooting foul by A. Keefe
+  - - '10:42.0'
+    - ''
+    - ''
+    - 36-27
+    - "+1"
+    - D. Vanterpool makes free throw 1 of 2
+  - - '10:42.0'
+    - ''
+    - ''
+    - 36-28
+    - "+1"
+    - D. Vanterpool makes free throw 2 of 2
+  - - '10:27.0'
+    - Personal foul by J. White
+    - ''
+    - 36-28
+    - ''
+    - ''
+  - - '10:25.0'
+    - Turnover by E. Dampier (bad pass)
+    - ''
+    - 36-28
+    - ''
+    - ''
+  - - '10:18.0'
+    - ''
+    - ''
+    - 36-30
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 4 ft
+  - - '10:18.0'
+    - Violation by E. Dampier (def goaltending)
+    - ''
+    - 36-30
+    - ''
+    - ''
+  - - '9:55.0'
+    - E. Dampier misses 2-pt shot from 10 ft
+    - ''
+    - 36-30
+    - ''
+    - ''
+  - - '9:53.0'
+    - ''
+    - ''
+    - 36-30
+    - ''
+    - Defensive rebound by J. White
+  - - '9:48.0'
+    - ''
+    - ''
+    - 36-32
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 15 ft (assist by D. Vanterpool)
+  - - '9:34.0'
+    - Offensive foul by V. Cummings
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '9:34.0'
+    - Turnover by V. Cummings (foul)
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '9:24.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - R. Hamilton misses 2-pt shot from 16 ft
+  - - '9:22.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '9:18.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by E. Dampier)
+  - - '9:04.0'
+    - A. Keefe misses 2-pt shot from 12 ft
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Defensive rebound by M. Smith
+  - - '8:56.0'
+    - ''
+    - ''
+    - 36-34
+    - "+2"
+    - M. Smith makes 2-pt shot from 3 ft (assist by R. Hamilton)
+  - - '8:48.0'
+    - Golden State full timeout
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '8:48.0'
+    - A. Jamison enters the game for A. Keefe
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '8:29.0'
+    - V. Cummings misses 2-pt shot from 6 ft
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Defensive rebound by M. Smith
+  - - '8:22.0'
+    - ''
+    - ''
+    - 36-36
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 5 ft (assist by M. Smith)
+  - - '8:15.0'
+    - V. Cummings misses 2-pt shot from 21 ft
+    - ''
+    - 36-36
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 36-36
+    - ''
+    - Defensive rebound by M. Smith
+  - - '8:07.0'
+    - ''
+    - ''
+    - 36-36
+    - ''
+    - Shooting foul by E. Dampier
+  - - '8:07.0'
+    - ''
+    - ''
+    - 36-37
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '8:07.0'
+    - M. Blaylock enters the game for V. Cummings
+    - ''
+    - 36-37
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 36-37
+    - ''
+    - C. Alexander enters the game for R. Hamilton
+  - - '8:07.0'
+    - ''
+    - ''
+    - 36-38
+    - "+1"
+    - J. White makes free throw 2 of 2
+  - - '7:50.0'
+    - P. McPherson misses 2-pt shot from 7 ft
+    - ''
+    - 36-38
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Defensive rebound by M. Smith
+  - - '7:41.0'
+    - ''
+    - ''
+    - 36-38
+    - ''
+    - Turnover by C. Alexander (lost ball; steal by M. Blaylock)
+  - - '7:37.0'
+    - Turnover by A. Jamison (bad pass; steal by D. Vanterpool)
+    - ''
+    - 36-38
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 36-40
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 4 ft
+  - - '7:16.0'
+    - A. Jamison misses 2-pt shot from 15 ft
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '7:10.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - L. Profit misses 2-pt shot from 3 ft
+  - - '7:09.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Offensive rebound by J. White
+  - - '7:08.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Shooting foul by C. Blount
+  - - '7:08.0'
+    - C. Porter enters the game for P. McPherson
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 36-41
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '7:08.0'
+    - ''
+    - ''
+    - 36-41
+    - ''
+    - J. White misses free throw 2 of 2
+  - - '7:06.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 36-41
+    - ''
+    - ''
+  - - '6:54.0'
+    - E. Dampier makes 2-pt shot from 11 ft (assist by M. Blaylock)
+    - "+2"
+    - 38-41
+    - ''
+    - ''
+  - - '6:54.0'
+    - Shooting foul by J. White
+    - ''
+    - 38-41
+    - ''
+    - ''
+  - - '6:54.0'
+    - E. Dampier makes free throw 1 of 1
+    - "+1"
+    - 39-41
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 39-43
+    - "+2"
+    - J. White makes 2-pt shot from 4 ft (assist by L. Profit)
+  - - '6:15.0'
+    - E. Dampier misses 2-pt shot from 5 ft
+    - ''
+    - 39-43
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 39-43
+    - ''
+    - Defensive rebound by D. Vanterpool
+  - - '6:09.0'
+    - ''
+    - ''
+    - 39-43
+    - ''
+    - Shooting foul by E. Dampier
+  - - '6:09.0'
+    - A. Foyle enters the game for E. Dampier
+    - ''
+    - 39-43
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 39-43
+    - ''
+    - M. Smith misses free throw 1 of 2
+  - - '6:09.0'
+    - ''
+    - ''
+    - 39-43
+    - ''
+    - Offensive rebound by Team
+  - - '6:09.0'
+    - ''
+    - ''
+    - 39-44
+    - "+1"
+    - M. Smith makes free throw 2 of 2
+  - - '5:57.0'
+    - C. Porter misses 2-pt shot from 11 ft
+    - ''
+    - 39-44
+    - ''
+    - ''
+  - - '5:55.0'
+    - ''
+    - ''
+    - 39-44
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '5:48.0'
+    - ''
+    - ''
+    - 39-44
+    - ''
+    - D. Vanterpool misses 2-pt shot from 3 ft
+  - - '5:45.0'
+    - ''
+    - ''
+    - 39-44
+    - ''
+    - Offensive rebound by M. Smith
+  - - '5:41.0'
+    - ''
+    - ''
+    - 39-47
+    - "+3"
+    - C. Alexander makes 3-pt shot from 26 ft (assist by M. Smith)
+  - - '5:34.0'
+    - Golden State 20 second timeout
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '5:34.0'
+    - Official timeout
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - R. Hamilton enters the game for D. Vanterpool
+  - - '5:22.0'
+    - A. Jamison misses 3-pt shot from 27 ft
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '5:11.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - M. Smith misses 2-pt shot from 6 ft
+  - - '5:08.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '5:02.0'
+    - M. Blaylock misses 3-pt shot from 28 ft
+    - ''
+    - 39-47
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 39-47
+    - ''
+    - Defensive rebound by M. Smith
+  - - '4:51.0'
+    - ''
+    - ''
+    - 39-50
+    - "+3"
+    - C. Alexander makes 3-pt shot from 25 ft (assist by R. Hamilton)
+  - - '4:32.0'
+    - A. Jamison makes 2-pt shot from 14 ft (assist by M. Blaylock)
+    - "+2"
+    - 41-50
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - C. Alexander misses 2-pt shot from 12 ft
+  - - '4:14.0'
+    - ''
+    - ''
+    - 41-50
+    - ''
+    - Offensive rebound by M. Smith
+  - - '4:11.0'
+    - ''
+    - ''
+    - 41-52
+    - "+2"
+    - C. Alexander makes 2-pt shot from 3 ft (assist by M. Smith)
+  - - '4:01.0'
+    - M. Blaylock makes 2-pt shot from 21 ft
+    - "+2"
+    - 43-52
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 43-52
+    - ''
+    - Shooting foul by A. Foyle
+  - - '3:45.0'
+    - ''
+    - ''
+    - 43-53
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '3:45.0'
+    - ''
+    - ''
+    - 43-53
+    - ''
+    - J. White misses free throw 2 of 2
+  - - '3:45.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 43-53
+    - ''
+    - ''
+  - - '3:30.0'
+    - C. Blount makes 2-pt shot from 7 ft (assist by C. Porter)
+    - "+2"
+    - 45-53
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 45-55
+    - "+2"
+    - J. White makes 2-pt shot from 4 ft (assist by M. Smith)
+  - - '2:59.0'
+    - Turnover by C. Porter (bad pass; steal by M. Smith)
+    - ''
+    - 45-55
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - Shooting foul by C. Porter
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - Washington full timeout
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - C. Laettner enters the game for J. White
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - R. Hamilton misses free throw 1 of 2
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-55
+    - ''
+    - Offensive rebound by Team
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-56
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '2:38.0'
+    - A. Jamison makes 2-pt shot from 4 ft (assist by C. Blount)
+    - "+2"
+    - 47-56
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 47-56
+    - ''
+    - Turnover by L. Profit (bad pass; steal by C. Blount)
+  - - '2:21.0'
+    - Turnover by A. Jamison (bad pass; steal by L. Profit)
+    - ''
+    - 47-56
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 47-58
+    - "+2"
+    - C. Laettner makes 2-pt shot from 4 ft (assist by L. Profit)
+  - - '1:57.0'
+    - Shooting foul by C. Alexander
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '1:57.0'
+    - A. Jamison misses free throw 1 of 2
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '1:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 47-58
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 47-58
+    - ''
+    - D. Vanterpool enters the game for C. Alexander
+  - - '1:57.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 48-58
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 48-58
+    - ''
+    - Turnover by C. Laettner (lost ball)
+  - - '1:37.0'
+    - M. Blaylock makes 2-pt shot from 22 ft
+    - "+2"
+    - 50-58
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 50-60
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 10 ft
+  - - '1:21.0'
+    - ''
+    - ''
+    - 50-60
+    - ''
+    - Shooting foul by C. Blount
+  - - '1:21.0'
+    - ''
+    - ''
+    - 50-61
+    - "+1"
+    - R. Hamilton makes free throw 1 of 1
+  - - '1:04.0'
+    - Turnover by C. Blount (lost ball; steal by L. Profit)
+    - ''
+    - 50-61
+    - ''
+    - ''
+  - - '0:58.9'
+    - ''
+    - ''
+    - 50-63
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 3 ft (assist by M. Smith)
+  - - '0:51.7'
+    - M. Blaylock makes 3-pt shot from 25 ft
+    - "+3"
+    - 53-63
+    - ''
+    - ''
+  - - '0:32.9'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - D. Vanterpool misses 2-pt shot from 17 ft
+  - - '0:29.9'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 53-63
+    - ''
+    - ''
+  - - '0:08.9'
+    - C. Porter misses 2-pt shot from 20 ft
+    - ''
+    - 53-63
+    - ''
+    - ''
+  - - '0:06.1'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Defensive rebound by Team
+  - - '0:06.1'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Washington 20 second timeout
+  - - '0:01.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - C. Laettner misses 3-pt shot from 23 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - J. White misses 2-pt shot from 4 ft
+  - - '11:40.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Offensive rebound by J. White
+  - - '11:39.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - J. White misses 2-pt shot from 4 ft
+  - - '11:37.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 53-63
+    - ''
+    - ''
+  - - '11:30.0'
+    - C. Porter misses 2-pt shot from 9 ft
+    - ''
+    - 53-63
+    - ''
+    - ''
+  - - '11:27.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Defensive rebound by J. White
+  - - '11:20.0'
+    - ''
+    - ''
+    - 53-63
+    - ''
+    - Turnover by C. Alexander (lost ball; steal by M. Blaylock)
+  - - '11:11.0'
+    - A. Jamison makes 3-pt shot from 26 ft (assist by M. Blaylock)
+    - "+3"
+    - 56-63
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 56-65
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 13 ft (assist by L. Profit)
+  - - '10:38.0'
+    - A. Jamison misses 2-pt shot from 9 ft
+    - ''
+    - 56-65
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - Defensive rebound by J. White
+  - - '10:29.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - R. Hamilton misses 3-pt shot from 23 ft
+  - - '10:27.0'
+    - ''
+    - ''
+    - 56-65
+    - ''
+    - Offensive rebound by M. Smith
+  - - '10:24.0'
+    - ''
+    - ''
+    - 56-67
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 4 ft (assist by M. Smith)
+  - - '10:04.0'
+    - A. Foyle misses 2-pt shot from 16 ft
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - Defensive rebound by J. White
+  - - '9:58.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - Shooting foul by A. Foyle
+  - - '9:58.0'
+    - ''
+    - ''
+    - 56-68
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '9:58.0'
+    - ''
+    - ''
+    - 56-68
+    - ''
+    - J. White misses free throw 2 of 2
+  - - '9:58.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 56-68
+    - ''
+    - ''
+  - - '9:47.0'
+    - C. Porter makes 2-pt shot from 12 ft (assist by M. Blaylock)
+    - "+2"
+    - 58-68
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 58-70
+    - "+2"
+    - C. Alexander makes 2-pt shot from 17 ft (assist by L. Profit)
+  - - '9:28.0'
+    - Golden State full timeout
+    - ''
+    - 58-70
+    - ''
+    - ''
+  - - '9:25.0'
+    - C. Porter misses 2-pt shot from 13 ft
+    - ''
+    - 58-70
+    - ''
+    - ''
+  - - '9:23.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 58-70
+    - ''
+    - ''
+  - - '9:16.0'
+    - A. Foyle makes 2-pt shot from 4 ft (assist by A. Keefe)
+    - "+2"
+    - 60-70
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 60-70
+    - ''
+    - Personal foul by M. Blaylock
+  - - '8:57.0'
+    - ''
+    - ''
+    - 60-72
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 11 ft
+  - - '8:44.0'
+    - Personal foul by L. Profit
+    - ''
+    - 60-72
+    - ''
+    - ''
+  - - '8:33.0'
+    - A. Jamison makes 2-pt shot from 6 ft
+    - "+2"
+    - 62-72
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 62-72
+    - ''
+    - Shooting foul by A. Keefe
+  - - '8:10.0'
+    - ''
+    - ''
+    - 62-72
+    - ''
+    - M. Smith misses free throw 1 of 2
+  - - '8:10.0'
+    - ''
+    - ''
+    - 62-72
+    - ''
+    - Offensive rebound by Team
+  - - '8:10.0'
+    - ''
+    - ''
+    - 62-73
+    - "+1"
+    - M. Smith makes free throw 2 of 2
+  - - '8:00.0'
+    - M. Blaylock misses 2-pt shot from 3 ft
+    - ''
+    - 62-73
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 62-73
+    - ''
+    - Defensive rebound by J. White
+  - - '7:40.0'
+    - ''
+    - ''
+    - 62-75
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 4 ft
+  - - '7:20.0'
+    - Personal foul by L. Profit
+    - ''
+    - 62-75
+    - ''
+    - ''
+  - - '7:16.0'
+    - M. Blaylock makes 2-pt shot from 20 ft
+    - "+2"
+    - 64-75
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 64-77
+    - "+2"
+    - C. Alexander makes 2-pt shot from 13 ft
+  - - '6:43.0'
+    - A. Foyle makes 2-pt shot from 12 ft (assist by M. Blaylock)
+    - "+2"
+    - 66-77
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - J. White misses 2-pt shot from 5 ft
+  - - '6:24.0'
+    - ''
+    - ''
+    - 66-77
+    - ''
+    - Offensive rebound by Team
+  - - '6:20.0'
+    - ''
+    - ''
+    - 66-79
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 9 ft
+  - - '6:09.0'
+    - A. Jamison makes 2-pt shot from 13 ft (assist by M. Blaylock)
+    - "+2"
+    - 68-79
+    - ''
+    - ''
+  - - '6:09.0'
+    - Shooting foul by C. Alexander
+    - ''
+    - 68-79
+    - ''
+    - ''
+  - - '6:09.0'
+    - A. Jamison makes free throw 1 of 1
+    - "+1"
+    - 69-79
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - R. Hamilton misses 2-pt shot from 15 ft
+  - - '5:49.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - Offensive rebound by J. White
+  - - '5:44.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - R. Hamilton misses 2-pt shot from 8 ft (block by A. Foyle)
+  - - '5:42.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - Offensive rebound by R. Hamilton
+  - - '5:35.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - J. White misses 2-pt shot from 5 ft (block by A. Foyle)
+  - - '5:33.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - Offensive rebound by J. White
+  - - '5:29.0'
+    - ''
+    - ''
+    - 69-81
+    - "+2"
+    - J. White makes 2-pt shot from 4 ft
+  - - '5:21.0'
+    - A. Jamison makes 2-pt shot from 5 ft (assist by M. Blaylock)
+    - "+2"
+    - 71-81
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 71-81
+    - ''
+    - C. Alexander misses 2-pt shot from 20 ft
+  - - '5:06.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 71-81
+    - ''
+    - ''
+  - - '4:55.0'
+    - M. Blaylock makes 3-pt shot from 25 ft (assist by A. Keefe)
+    - "+3"
+    - 74-81
+    - ''
+    - ''
+  - - '4:36.0'
+    - ''
+    - ''
+    - 74-83
+    - "+2"
+    - J. White makes 2-pt shot from 10 ft (assist by R. Hamilton)
+  - - '4:10.0'
+    - A. Foyle makes 2-pt shot from 9 ft (assist by M. Blaylock)
+    - "+2"
+    - 76-83
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - J. White misses 2-pt shot from 7 ft
+  - - '3:53.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:47.0'
+    - M. Blaylock misses 3-pt shot from 26 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '3:43.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Washington full timeout
+  - - '3:43.0'
+    - V. Cummings enters the game for C. Porter
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - C. Laettner enters the game for J. White
+  - - '3:43.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - P. Jones enters the game for L. Profit
+  - - '3:43.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - D. Vanterpool enters the game for M. Smith
+  - - '3:28.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - C. Alexander misses 2-pt shot from 19 ft
+  - - '3:26.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:08.0'
+    - A. Foyle misses 2-pt shot from 7 ft
+    - ''
+    - 76-83
+    - ''
+    - ''
+  - - '3:06.0'
+    - ''
+    - ''
+    - 76-83
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '3:00.0'
+    - ''
+    - ''
+    - 76-85
+    - "+2"
+    - C. Alexander makes 2-pt shot from 9 ft
+  - - '2:48.0'
+    - Turnover by A. Foyle (bad pass; steal by C. Alexander)
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 76-85
+    - ''
+    - Turnover by C. Laettner (bad pass; steal by V. Cummings)
+  - - '2:45.0'
+    - Shooting foul by C. Laettner
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:45.0'
+    - V. Cummings misses free throw 1 of 2
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:45.0'
+    - E. Dampier enters the game for A. Foyle
+    - ''
+    - 76-85
+    - ''
+    - ''
+  - - '2:45.0'
+    - V. Cummings makes free throw 2 of 2
+    - "+1"
+    - 77-85
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - C. Laettner misses 2-pt shot from 20 ft
+  - - '2:24.0'
+    - ''
+    - ''
+    - 77-85
+    - ''
+    - Offensive rebound by Team
+  - - '2:23.0'
+    - ''
+    - ''
+    - 77-87
+    - "+2"
+    - C. Laettner makes 2-pt shot from 15 ft (assist by C. Alexander)
+  - - '2:23.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - Shooting foul by A. Keefe
+  - - '2:23.0'
+    - ''
+    - ''
+    - 77-88
+    - "+1"
+    - C. Laettner makes free throw 1 of 1
+  - - '2:13.0'
+    - Personal foul by C. Alexander
+    - ''
+    - 77-88
+    - ''
+    - ''
+  - - '2:13.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 78-88
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 78-88
+    - ''
+    - L. Profit enters the game for C. Alexander
+  - - '2:13.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 79-88
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 79-88
+    - ''
+    - L. Profit misses 3-pt shot from 26 ft
+  - - '1:53.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:37.0'
+    - M. Blaylock misses 2-pt shot from 21 ft
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 79-88
+    - ''
+    - Defensive rebound by P. Jones
+  - - '1:27.0'
+    - ''
+    - ''
+    - 79-88
+    - ''
+    - Turnover by D. Vanterpool (bad pass)
+  - - '1:12.0'
+    - V. Cummings misses 2-pt shot from 20 ft
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:10.0'
+    - Offensive rebound by M. Blaylock
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:03.0'
+    - A. Jamison misses 2-pt shot from 21 ft
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:01.0'
+    - Offensive rebound by M. Blaylock
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:00.0'
+    - Turnover by M. Blaylock (lost ball; steal by D. Vanterpool)
+    - ''
+    - 79-88
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 79-88
+    - ''
+    - Personal foul by A. Jamison
+  - - '1:00.0'
+    - ''
+    - ''
+    - 79-89
+    - "+1"
+    - D. Vanterpool makes free throw 1 of 2
+  - - '1:00.0'
+    - ''
+    - ''
+    - 79-90
+    - "+1"
+    - D. Vanterpool makes free throw 2 of 2
+  - - '0:48.9'
+    - M. Blaylock misses 2-pt shot from 15 ft
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:47.3'
+    - Offensive rebound by Team
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:47.3'
+    - Loose ball foul by P. Jones
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:47.3'
+    - E. Dampier misses free throw 1 of 2
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:47.3'
+    - Offensive rebound by Team
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:47.3'
+    - E. Dampier misses free throw 2 of 2
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:46.9'
+    - ''
+    - ''
+    - 79-90
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '0:34.9'
+    - ''
+    - ''
+    - 79-90
+    - ''
+    - Turnover by R. Hamilton (lost ball; steal by A. Jamison)
+  - - '0:25.8'
+    - Shooting foul by L. Profit
+    - ''
+    - 79-90
+    - ''
+    - ''
+  - - '0:25.8'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 80-90
+    - ''
+    - ''
+  - - '0:25.8'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 81-90
+    - ''
+    - ''
+  - - '0:06.1'
+    - ''
+    - ''
+    - 81-90
+    - ''
+    - Turnover by L. Profit (traveling)
+  - - '0:02.9'
+    - V. Cummings misses 2-pt shot from 11 ft
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 81-90
+    - ''
+    - Defensive rebound by P. Jones
+  - - '0:00.0'
+    - ''
+    - ''
+    - 81-90
+    - ''
+    - P. Jones misses 3-pt shot from 43 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 81-90
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:39.0'
+    - A. Jamison misses 2-pt shot from 12 ft (block by L. Profit)
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '11:38.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '11:38.0'
+    - Shooting foul by C. Laettner
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '11:38.0'
+    - A. Jamison misses free throw 1 of 2
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '11:38.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-90
+    - ''
+    - ''
+  - - '11:38.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 82-90
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 82-90
+    - ''
+    - L. Profit misses 2-pt shot from 6 ft
+  - - '11:24.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '11:18.0'
+    - A. Jamison misses 2-pt shot from 15 ft
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '11:07.0'
+    - Offensive rebound by V. Cummings
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '11:07.0'
+    - Personal foul by P. Jones
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '10:56.0'
+    - A. Jamison misses 3-pt shot from 29 ft
+    - ''
+    - 82-90
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 82-90
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '10:51.0'
+    - ''
+    - ''
+    - 82-90
+    - ''
+    - Shooting foul by C. Blount
+  - - '10:51.0'
+    - ''
+    - ''
+    - 82-91
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '10:51.0'
+    - ''
+    - ''
+    - 82-92
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '10:33.0'
+    - P. McPherson makes 2-pt shot from 5 ft
+    - "+2"
+    - 84-92
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 84-92
+    - ''
+    - Shooting foul by V. Cummings
+  - - '10:16.0'
+    - ''
+    - ''
+    - 84-92
+    - ''
+    - C. Laettner misses free throw 1 of 2
+  - - '10:16.0'
+    - ''
+    - ''
+    - 84-92
+    - ''
+    - Offensive rebound by Team
+  - - '10:16.0'
+    - ''
+    - ''
+    - 84-92
+    - ''
+    - C. Laettner misses free throw 2 of 2
+  - - '10:15.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 84-92
+    - ''
+    - ''
+  - - '9:55.0'
+    - C. Blount makes 2-pt shot from 15 ft (assist by P. McPherson)
+    - "+2"
+    - 86-92
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 86-92
+    - ''
+    - Personal foul by P. McPherson
+  - - '9:38.0'
+    - ''
+    - ''
+    - 86-92
+    - ''
+    - C. Alexander enters the game for L. Profit
+  - - '9:38.0'
+    - ''
+    - ''
+    - 86-92
+    - ''
+    - J. White enters the game for P. Jones
+  - - '9:29.0'
+    - ''
+    - ''
+    - 86-94
+    - "+2"
+    - J. White makes 2-pt shot from 4 ft (assist by R. Hamilton)
+  - - '9:14.0'
+    - E. Dampier makes 2-pt shot from 7 ft (assist by P. McPherson)
+    - "+2"
+    - 88-94
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 88-96
+    - "+2"
+    - C. Alexander makes 2-pt shot from 6 ft
+  - - '8:41.0'
+    - E. Dampier misses 2-pt shot from 6 ft
+    - ''
+    - 88-96
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 88-96
+    - ''
+    - Defensive rebound by C. Alexander
+  - - '8:33.0'
+    - ''
+    - ''
+    - 88-96
+    - ''
+    - Turnover by C. Alexander (bad pass; steal by V. Cummings)
+  - - '8:27.0'
+    - P. McPherson makes 2-pt shot from 2 ft (assist by V. Cummings)
+    - "+2"
+    - 90-96
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 90-96
+    - ''
+    - Washington full timeout
+  - - '8:24.0'
+    - C. Porter enters the game for A. Jamison
+    - ''
+    - 90-96
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 90-96
+    - ''
+    - Shooting foul by E. Dampier
+  - - '8:14.0'
+    - ''
+    - ''
+    - 90-97
+    - "+1"
+    - D. Vanterpool makes free throw 1 of 2
+  - - '8:14.0'
+    - ''
+    - ''
+    - 90-98
+    - "+1"
+    - D. Vanterpool makes free throw 2 of 2
+  - - '7:55.0'
+    - E. Dampier misses 2-pt shot from 7 ft (block by J. White)
+    - ''
+    - 90-98
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 90-98
+    - ''
+    - Defensive rebound by C. Laettner
+  - - '7:42.0'
+    - ''
+    - ''
+    - 90-98
+    - ''
+    - J. White misses 2-pt shot from 13 ft
+  - - '7:41.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 90-98
+    - ''
+    - ''
+  - - '7:29.0'
+    - C. Porter makes 2-pt shot from 8 ft (assist by C. Blount)
+    - "+2"
+    - 92-98
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 92-100
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 13 ft
+  - - '7:06.0'
+    - P. McPherson misses 2-pt shot from 12 ft
+    - ''
+    - 92-100
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 92-100
+    - ''
+    - Defensive rebound by J. White
+  - - '6:46.0'
+    - ''
+    - ''
+    - 92-102
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 21 ft (assist by R. Hamilton)
+  - - '6:20.0'
+    - C. Porter misses 2-pt shot from 17 ft
+    - ''
+    - 92-102
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 92-102
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '6:13.0'
+    - ''
+    - ''
+    - 92-102
+    - ''
+    - R. Hamilton misses 2-pt shot from 14 ft
+  - - '6:11.0'
+    - Defensive rebound by Team
+    - ''
+    - 92-102
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 92-102
+    - ''
+    - M. Smith enters the game for C. Laettner
+  - - '5:52.0'
+    - E. Dampier makes 2-pt shot from 11 ft
+    - "+2"
+    - 94-102
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 94-102
+    - ''
+    - J. White misses 2-pt shot from 4 ft
+  - - '5:32.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:25.0'
+    - P. McPherson misses 3-pt shot from 25 ft
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:22.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:22.0'
+    - Official timeout
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:22.0'
+    - M. Blaylock enters the game for P. McPherson
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:11.0'
+    - V. Cummings misses 2-pt shot from 20 ft
+    - ''
+    - 94-102
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 94-102
+    - ''
+    - Defensive rebound by M. Smith
+  - - '4:55.0'
+    - ''
+    - ''
+    - 94-104
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 19 ft (assist by C. Alexander)
+  - - '4:38.0'
+    - C. Blount misses 2-pt shot from 5 ft
+    - ''
+    - 94-104
+    - ''
+    - ''
+  - - '4:37.0'
+    - ''
+    - ''
+    - 94-104
+    - ''
+    - Defensive rebound by J. White
+  - - '4:16.0'
+    - ''
+    - ''
+    - 94-106
+    - "+2"
+    - R. Hamilton makes 2-pt shot from 12 ft
+  - - '4:04.0'
+    - M. Blaylock makes 2-pt shot from 22 ft
+    - "+2"
+    - 96-106
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 96-106
+    - ''
+    - C. Alexander misses 2-pt shot from 13 ft
+  - - '3:39.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 96-106
+    - ''
+    - ''
+  - - '3:32.0'
+    - M. Blaylock misses 3-pt shot from 23 ft
+    - ''
+    - 96-106
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 96-106
+    - ''
+    - Defensive rebound by M. Smith
+  - - '3:09.0'
+    - ''
+    - ''
+    - 96-108
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 4 ft
+  - - '2:56.0'
+    - Shooting foul by J. White
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - A. Jamison enters the game for C. Blount
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - Golden State full timeout
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - A. Foyle enters the game for E. Dampier
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - C. Porter misses free throw 1 of 2
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - Offensive rebound by Team
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:56.0'
+    - C. Porter misses free throw 2 of 2
+    - ''
+    - 96-108
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 96-108
+    - ''
+    - Defensive rebound by M. Smith
+  - - '2:36.0'
+    - ''
+    - ''
+    - 96-108
+    - ''
+    - Shooting foul by M. Blaylock
+  - - '2:36.0'
+    - ''
+    - ''
+    - 96-109
+    - "+1"
+    - J. White makes free throw 1 of 2
+  - - '2:36.0'
+    - ''
+    - ''
+    - 96-110
+    - "+1"
+    - J. White makes free throw 2 of 2
+  - - '2:20.0'
+    - A. Jamison misses 2-pt shot from 16 ft
+    - ''
+    - 96-110
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 96-110
+    - ''
+    - Defensive rebound by J. White
+  - - '2:04.0'
+    - ''
+    - ''
+    - 96-110
+    - ''
+    - Turnover by C. Alexander (lost ball; steal by V. Cummings)
+  - - '1:59.0'
+    - Offensive foul by C. Porter
+    - ''
+    - 96-110
+    - ''
+    - ''
+  - - '1:59.0'
+    - Turnover by C. Porter (foul)
+    - ''
+    - 96-110
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 96-110
+    - ''
+    - Personal foul by C. Porter
+  - - '1:47.0'
+    - ''
+    - ''
+    - 96-111
+    - "+1"
+    - R. Hamilton makes free throw 1 of 2
+  - - '1:47.0'
+    - ''
+    - ''
+    - 96-112
+    - "+1"
+    - R. Hamilton makes free throw 2 of 2
+  - - '1:42.0'
+    - Golden State full timeout
+    - ''
+    - 96-112
+    - ''
+    - ''
+  - - '1:37.0'
+    - A. Jamison misses 3-pt shot from 24 ft
+    - ''
+    - 96-112
+    - ''
+    - ''
+  - - '1:35.0'
+    - ''
+    - ''
+    - 96-112
+    - ''
+    - Defensive rebound by J. White
+  - - '1:34.0'
+    - ''
+    - ''
+    - 96-112
+    - ''
+    - Offensive foul by J. White
+  - - '1:34.0'
+    - ''
+    - ''
+    - 96-112
+    - ''
+    - Turnover by J. White (foul)
+  - - '1:32.0'
+    - V. Cummings misses 2-pt shot from 11 ft
+    - ''
+    - 96-112
+    - ''
+    - ''
+  - - '1:31.0'
+    - Offensive rebound by V. Cummings
+    - ''
+    - 96-112
+    - ''
+    - ''
+  - - '1:18.0'
+    - A. Foyle makes 2-pt shot from 6 ft (assist by V. Cummings)
+    - "+2"
+    - 98-112
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 98-112
+    - ''
+    - Turnover by J. White (bad pass)
+  - - '1:10.0'
+    - A. Foyle makes 2-pt shot from 5 ft (assist by A. Jamison)
+    - "+2"
+    - 100-112
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 100-114
+    - "+2"
+    - J. White makes 2-pt shot from 5 ft (assist by R. Hamilton)
+  - - '0:53.9'
+    - A. Jamison misses 2-pt shot from 6 ft (block by J. White)
+    - ''
+    - 100-114
+    - ''
+    - ''
+  - - '0:50.3'
+    - ''
+    - ''
+    - 100-114
+    - ''
+    - Defensive rebound by R. Hamilton
+  - - '0:29.5'
+    - ''
+    - ''
+    - 100-116
+    - "+2"
+    - D. Vanterpool makes 2-pt shot from 18 ft (assist by R. Hamilton)
+  - - '0:23.9'
+    - M. Blaylock misses 3-pt shot from 28 ft
+    - ''
+    - 100-116
+    - ''
+    - ''
+  - - '0:21.9'
+    - ''
+    - ''
+    - 100-116
+    - ''
+    - Defensive rebound by J. White
+  - - '0:00.0'
+    - End of 4th quarter

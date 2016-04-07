@@ -1,0 +1,223 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +10&#9642;Off: +2&#9642;Net: +8)'
+    - |2-
+
+      +8
+    - 221/+8
+    - 164/
+    - 114/-12
+    - 230/+4
+    - 86/
+    - 183/+10
+    - 'Donyell Marshall (On: +14&#9642;Off: -2&#9642;Net: +16)'
+    - |2-
+
+      +2
+    - 183/+2
+    - 167/
+    - 149/-10
+    - 166/+10
+    - 84/
+    - 249/+12
+    - 'Olden Polynice (On: +9&#9642;Off: +3&#9642;Net: +6)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 184/
+    - 62/-3
+    - 3/
+    - 185/+6
+    - 314/
+    - 'John Starks (On: +2&#9642;Off: +10&#9642;Net: -8)'
+    - |2-
+
+      +6
+    - 250/+6
+    - 155/
+    - 94/-8
+    - 250/+4
+    - 221/
+    - 28/0
+    - 'John Stockton (On: +13&#9642;Off: -1&#9642;Net: +14)'
+    - |2-
+
+      +1
+    - 133/+1
+    - 217/
+    - 149/-10
+    - 166/+10
+    - 123/
+    - 210/+12
+    - 'Jacque Vaughn (On: -1&#9642;Off: +13&#9642;Net: -14)'
+    - "\n"
+    - 136/
+    - 114/+5
+    - 92/0
+    - 328/
+    - 79/-6
+    - 36/0
+    - 212/
+    - 'Bryon Russell (On: +5&#9642;Off: +7&#9642;Net: -2)'
+    - "\n"
+    - 183/
+    - 66/+4
+    - 149/-2
+    - 17/
+    - 12/-3
+    - 240/
+    - 79/-6
+    - 250/+12
+    - 'Danny Manning (On: -2&#9642;Off: +14&#9642;Net: -16)'
+    - "\n"
+    - 221/
+    - 28/-2
+    - 165/-2
+    - 322/
+    - 12/0
+    - 61/+2
+    - 188/
+    - 'John Crotty (On: 0&#9642;Off: +12&#9642;Net: -12)'
+    - "\n"
+    - 250/
+    - 92/0
+    - 659/
+    - 'Greg Ostertag (On: +10&#9642;Off: +2&#9642;Net: +8)'
+    - "\n"
+    - 250/
+    - 131/+2
+    - 334/
+    - 35/-4
+    - 217/+12
+    - 31/
+    - 'Scott Padgett (On: 0&#9642;Off: +12&#9642;Net: -12)'
+    - "\n"
+    - 499/
+    - 1/-2
+    - 191/
+    - 16/+2
+    - 292/
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vin Baker (On: -16&#9642;Off: +4&#9642;Net: -20)'
+    - |2-
+
+      -8
+    - 221/-8
+    - 28/
+    - 109/+1
+    - 141/
+    - 100/-9
+    - 399/
+    - 'Brent Barry (On: -10&#9642;Off: -2&#9642;Net: -8)'
+    - |2-
+
+      -2
+    - 183/-2
+    - 167/
+    - 149/+10
+    - 166/-10
+    - 249/
+    - 84/-8
+    - 'Patrick Ewing (On: -13&#9642;Off: +1&#9642;Net: -14)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 114/
+    - 131/+7
+    - 3/
+    - 249/-4
+    - 67/
+    - 150/-10
+    - 33/
+    - 'Rashard Lewis (On: -14&#9642;Off: +2&#9642;Net: -16)'
+    - |2-
+
+      -2
+    - 182/-2
+    - 38/
+    - 28/+2
+    - 130/-2
+    - 118/
+    - 1/+2
+    - 249/-4
+    - 67/
+    - 182/-10
+    - 'Gary Payton (On: -10&#9642;Off: -2&#9642;Net: -8)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 100/
+    - 149/+10
+    - 249/-4
+    - 36/0
+    - 32/
+    - 182/-10
+    - 'Emanual Davis (On: -2&#9642;Off: -10&#9642;Net: +8)'
+    - "\n"
+    - 183/
+    - 66/-4
+    - 92/0
+    - 328/
+    - 79/+6
+    - 67/-4
+    - 182/
+    - 'Ruben Patterson (On: +4&#9642;Off: -16&#9642;Net: +20)'
+    - "\n"
+    - 183/
+    - 66/-4
+    - 249/+10
+    - 102/
+    - 147/+5
+    - 61/-2
+    - 59/
+    - 129/-5
+    - 'Shammond Williams (On: 0&#9642;Off: -12&#9642;Net: +12)'
+    - "\n"
+    - 248/
+    - 92/0
+    - 156/
+    - 1/+2
+    - 288/
+    - 22/-2
+    - 11/
+    - 88/0
+    - 60/
+    - 28/0
+    - 'Desmond Mason (On: +3&#9642;Off: -15&#9642;Net: +18)'
+    - "\n"
+    - 385/
+    - 111/+10
+    - 253/
+    - 116/-7
+    - 134/
+    - 'Olumide Oyedeji (On: -2&#9642;Off: -10&#9642;Net: +8)'
+    - "\n"
+    - 751/
+    - 62/-2
+    - 188/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

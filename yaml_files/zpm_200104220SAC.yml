@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      0
+    - 163/0
+    - 241/
+    - 93/-6
+    - 159/+9
+    - 63/
+    - 27/-3
+    - 100/+1
+    - 73/
+    - 76/0
+    - 'Jason Kidd (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 71/-4
+    - 85/
+    - 94/-6
+    - 250/+6
+    - 248/+3
+    - 'Shawn Marion (On: +11&#9642;Off: -8&#9642;Net: +19)'
+    - |2-
+
+      +2
+    - 220/+2
+    - 77/
+    - 202/-7
+    - 222/+9
+    - 75/
+    - 202/+7
+    - 'Clifford Robinson (On: +7&#9642;Off: -4&#9642;Net: +11)'
+    - |2-
+
+      +2
+    - 173/+2
+    - 101/
+    - 140/-5
+    - 84/
+    - 154/+7
+    - 121/
+    - 224/+3
+    - 'Jake Tsakalidis (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      -2
+    - 131/-2
+    - 93/
+    - 25/+1
+    - 21/0
+    - 135/
+    - 82/-6
+    - 12/
+    - 128/+8
+    - 368/
+    - 'Rodney Rogers (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - "\n"
+    - 136/
+    - 113/+5
+    - 150/-3
+    - 233/
+    - 114/-2
+    - 23/0
+    - 91/
+    - 136/+4
+    - 'Tony Delk (On: -5&#9642;Off: +8&#9642;Net: -13)'
+    - "\n"
+    - 170/
+    - 78/+3
+    - 150/-3
+    - 87/
+    - 11/0
+    - 159/
+    - 89/-3
+    - 43/-4
+    - 61/
+    - 67/+2
+    - 78/
+    - 'Tom Gugliotta (On: -7&#9642;Off: +10&#9642;Net: -17)'
+    - "\n"
+    - 175/
+    - 74/+1
+    - 43/-2
+    - 126/
+    - 79/-4
+    - 154/
+    - 95/-1
+    - 110/-1
+    - 139/
+    - 'Vinny Del Negro (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - "\n"
+    - 325/
+    - 76/+1
+    - 600/
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 71/+4
+    - 99/
+    - 80/+4
+    - 250/-6
+    - 248/-3
+    - 'Vlade Divac (On: -8&#9642;Off: +5&#9642;Net: -13)'
+    - |2-
+
+      -2
+    - 220/-2
+    - 55/
+    - 222/+9
+    - 2/
+    - 182/-7
+    - 172/
+    - 86/-8
+    - 57/
+    - 'Peja Stojakovic (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - |2-
+
+      -2
+    - 220/-2
+    - 84/
+    - 195/+7
+    - 222/-9
+    - 132/
+    - 145/-2
+    - 'Chris Webber (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - |2-
+
+      -3
+    - 250/-3
+    - 21/0
+    - 98/
+    - 130/+6
+    - 250/-6
+    - 249/-3
+    - 'Jason Williams (On: -1&#9642;Off: -2&#9642;Net: +1)'
+    - |2-
+
+      -2
+    - 220/-2
+    - 199/
+    - 80/+4
+    - 222/-9
+    - 222/
+    - 55/+6
+    - 'Bobby Jackson (On: -2&#9642;Off: -1&#9642;Net: -1)'
+    - "\n"
+    - 224/
+    - 25/-1
+    - 165/+5
+    - 83/
+    - 1/0
+    - 222/
+    - 27/+3
+    - 190/-9
+    - 58/
+    - 'Scot Pollard (On: +2&#9642;Off: -5&#9642;Net: +7)'
+    - "\n"
+    - 224/
+    - 25/-1
+    - 110/+3
+    - 324/
+    - 64/+1
+    - 100/-1
+    - 150/
+    - 'Hedo Turkoglu (On: +9&#9642;Off: -12&#9642;Net: +21)'
+    - "\n"
+    - 224/
+    - 25/-1
+    - 48/+2
+    - 423/
+    - 27/+3
+    - 100/-1
+    - 95/
+    - 54/+6
+    - 'Jon Barry (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - "\n"
+    - 325/
+    - 91/+1
+    - 585/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

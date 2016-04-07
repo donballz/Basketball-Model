@@ -1,0 +1,212 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: +6&#9642;Off: -1&#9642;Net: +7)'
+    - |2-
+
+      +8
+    - 214/+8
+    - 159/
+    - 103/-2
+    - 16/
+    - 7/+2
+    - 182/-3
+    - 86/
+    - 229/+1
+    - 'Jason Kidd (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 32/+2
+    - 106/
+    - 112/-4
+    - 250/-4
+    - 248/-2
+    - 'Shawn Marion (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 124/
+    - 125/-3
+    - 249/-4
+    - 117/-2
+    - 69/
+    - 64/+8
+    - 'Clifford Robinson (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - |2-
+
+      +5
+    - 147/+5
+    - 102/
+    - 50/+6
+    - 119/
+    - 67/-4
+    - 13/
+    - 127/0
+    - 245/
+    - 56/-8
+    - 68/
+    - 'Jake Tsakalidis (On: -5&#9642;Off: +10&#9642;Net: -15)'
+    - |2-
+
+      +3
+    - 175/+3
+    - 126/
+    - 176/-4
+    - 22/
+    - 250/-4
+    - 249/
+    - 'Tom Gugliotta (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - "\n"
+    - 147/
+    - 102/+5
+    - 122/+4
+    - 107/
+    - 20/-1
+    - 130/
+    - 119/-4
+    - 249/-2
+    - 'Rodney Rogers (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - "\n"
+    - 178/
+    - 71/+7
+    - 169/+3
+    - 61/
+    - 20/-1
+    - 249/
+    - 166/-8
+    - 82/
+    - 'Tony Delk (On: +8&#9642;Off: -3&#9642;Net: +11)'
+    - "\n"
+    - 222/
+    - 27/+2
+    - 122/+4
+    - 312/
+    - 64/-1
+    - 19/-3
+    - 151/
+    - 79/+6
+    - 'Vinny Del Negro (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - "\n"
+    - 283/
+    - 97/+3
+    - 621/
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - |2-
+
+      -10
+    - 249/-10
+    - 169/
+    - 80/+2
+    - 249/+4
+    - 117/+2
+    - 122/
+    - 11/-2
+    - 'Arvydas Sabonis (On: -6&#9642;Off: +1&#9642;Net: -7)'
+    - |2-
+
+      -8
+    - 215/-8
+    - 217/
+    - 54/+4
+    - 13/
+    - 128/0
+    - 368/
+    - 2/-2
+    - 'Damon Stoudamire (On: +4&#9642;Off: -9&#9642;Net: +13)'
+    - |2-
+
+      -4
+    - 189/-4
+    - 173/
+    - 136/+1
+    - 249/+4
+    - 72/+3
+    - 52/
+    - 126/0
+    - 'Rasheed Wallace (On: +8&#9642;Off: -13&#9642;Net: +21)'
+    - |2-
+
+      -3
+    - 175/-3
+    - 112/
+    - 212/+1
+    - 249/+4
+    - 72/+3
+    - 40/
+    - 137/+3
+    - 'Bonzi Wells (On: +6&#9642;Off: -11&#9642;Net: +17)'
+    - |2-
+
+      -4
+    - 189/-4
+    - 198/
+    - 112/+4
+    - 249/+4
+    - 124/
+    - 118/+2
+    - 7/
+    - 'Dale Davis (On: -7&#9642;Off: +2&#9642;Net: -9)'
+    - "\n"
+    - 178/
+    - 71/-7
+    - 181/-3
+    - 199/
+    - 119/+4
+    - 105/-1
+    - 144/
+    - 'Steve Smith (On: -11&#9642;Off: +6&#9642;Net: -17)'
+    - "\n"
+    - 190/
+    - 59/-6
+    - 130/-5
+    - 113/
+    - 7/-2
+    - 249/
+    - 249/+2
+    - 'Rod Strickland (On: -9&#9642;Off: +4&#9642;Net: -13)'
+    - "\n"
+    - 190/
+    - 59/-6
+    - 108/-2
+    - 467/
+    - 41/-1
+    - 133/
+    - 'Shawn Kemp (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - "\n"
+    - 223/
+    - 27/-2
+    - 36/-2
+    - 714/
+    - 'Detlef Schrempf (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 250/
+    - 163/-3
+    - 412/
+    - 157/+1
+    - 17/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

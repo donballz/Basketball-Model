@@ -1,0 +1,2606 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: S. O''Neal vs. J. Tsakalidis (D. Fisher gains possession)'
+  - - '11:38.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - D. Fisher misses 3-pt shot from 25 ft
+  - - '11:35.0'
+    - Defensive rebound by J. Tsakalidis
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:27.0'
+    - J. Kidd misses 2-pt shot from 17 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:25.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '11:07.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - S. O'Neal misses 2-pt shot from 8 ft
+  - - '11:03.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:01.0'
+    - Turnover by J. Kidd (bad pass)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:48.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - K. Bryant misses 2-pt shot from 12 ft
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by K. Bryant
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - K. Bryant makes 2-pt shot from 13 ft
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Shooting foul by M. Elie
+  - - '10:47.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - K. Bryant misses free throw 1 of 1
+  - - '10:47.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:28.0'
+    - Shooting foul by D. Fisher
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '10:28.0'
+    - C. Robinson makes free throw 1 of 2
+    - "+1"
+    - 1-2
+    - ''
+    - ''
+  - - '10:28.0'
+    - C. Robinson misses free throw 2 of 2
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '10:04.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:47.0'
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+    - "+2"
+    - 3-2
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 3-2
+    - ''
+    - D. Fisher misses 2-pt shot from 15 ft
+  - - '9:24.0'
+    - Defensive rebound by J. Tsakalidis
+    - ''
+    - 3-2
+    - ''
+    - ''
+  - - '9:08.0'
+    - J. Kidd makes 2-pt shot from 15 ft
+    - "+2"
+    - 5-2
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 5-4
+    - "+2"
+    - H. Grant makes 2-pt shot at rim (assist by R. Fox)
+  - - '8:33.0'
+    - J. Tsakalidis makes 2-pt shot from 20 ft
+    - "+2"
+    - 7-4
+    - ''
+    - ''
+  - - '8:11.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - D. Fisher misses 2-pt shot from 19 ft
+  - - '8:08.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '8:04.0'
+    - Shooting foul by R. Fox
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '8:04.0'
+    - S. Marion makes free throw 1 of 2
+    - "+1"
+    - 8-4
+    - ''
+    - ''
+  - - '8:04.0'
+    - S. Marion makes free throw 2 of 2
+    - "+1"
+    - 9-4
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-6
+    - "+2"
+    - H. Grant makes 2-pt shot at rim (assist by D. Fisher)
+  - - '7:36.0'
+    - S. Marion makes 2-pt shot at rim (assist by J. Kidd)
+    - "+2"
+    - 11-6
+    - ''
+    - ''
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - S. O'Neal misses 2-pt shot from 6 ft
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Personal foul by J. Kidd
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - S. O'Neal misses free throw 1 of 2
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Offensive rebound by Team
+  - - '7:18.0'
+    - ''
+    - ''
+    - 11-7
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '7:04.0'
+    - S. Marion misses 2-pt shot from 9 ft
+    - ''
+    - 11-7
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 11-7
+    - ''
+    - ''
+  - - '7:00.0'
+    - J. Kidd makes 3-pt shot from 24 ft (assist by M. Elie)
+    - "+3"
+    - 14-7
+    - ''
+    - ''
+  - - '6:38.0'
+    - ''
+    - ''
+    - 14-7
+    - ''
+    - Personal foul by J. Kidd
+  - - '6:38.0'
+    - T. Delk enters the game for J. Kidd
+    - ''
+    - 14-7
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 14-9
+    - "+2"
+    - K. Bryant makes 2-pt shot from 20 ft (assist by D. Fisher)
+  - - '6:14.0'
+    - S. Marion makes 2-pt shot from 16 ft (assist by T. Delk)
+    - "+2"
+    - 16-9
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - Personal foul by J. Tsakalidis
+  - - '6:03.0'
+    - ''
+    - ''
+    - 16-9
+    - ''
+    - LA Lakers full timeout
+  - - '5:59.0'
+    - ''
+    - ''
+    - 16-11
+    - "+2"
+    - K. Bryant makes 2-pt shot from 17 ft (assist by D. Fisher)
+  - - '5:59.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - Away from play foul by M. Elie
+  - - '5:59.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - R. Fox misses free throw 1 of 1
+  - - '5:59.0'
+    - Defensive rebound by J. Tsakalidis
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '5:39.0'
+    - S. Marion misses 2-pt shot from 18 ft (block by R. Fox)
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '5:34.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - Turnover by S. O'Neal (bad pass; steal by M. Elie)
+  - - '5:30.0'
+    - C. Robinson misses 2-pt shot from 8 ft (block by H. Grant)
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 16-11
+    - ''
+    - Defensive rebound by Team
+  - - '5:29.0'
+    - R. Rogers enters the game for M. Elie
+    - ''
+    - 16-11
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 16-13
+    - "+2"
+    - K. Bryant makes 2-pt shot from 17 ft (assist by R. Fox)
+  - - '5:01.0'
+    - Personal foul by D. Fisher
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - B. Shaw enters the game for D. Fisher
+  - - '4:55.0'
+    - T. Delk misses 2-pt shot from 21 ft
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:53.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - S. O'Neal misses 2-pt shot at rim (block by C. Robinson)
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Offensive rebound by S. O'Neal
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Personal foul by J. Tsakalidis
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-14
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '4:39.0'
+    - T. Gugliotta enters the game for J. Tsakalidis
+    - ''
+    - 16-14
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 16-14
+    - ''
+    - S. O'Neal misses free throw 2 of 2
+  - - '4:38.0'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 16-14
+    - ''
+    - ''
+  - - '4:19.0'
+    - Personal foul by K. Bryant
+    - ''
+    - 16-14
+    - ''
+    - ''
+  - - '4:08.0'
+    - R. Rogers makes 2-pt shot from 21 ft (assist by T. Gugliotta)
+    - "+2"
+    - 18-14
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 18-16
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by B. Shaw)
+  - - '3:50.0'
+    - ''
+    - ''
+    - 18-16
+    - ''
+    - Shooting foul by R. Rogers
+  - - '3:50.0'
+    - ''
+    - ''
+    - 18-17
+    - "+1"
+    - S. O'Neal makes free throw 1 of 1
+  - - '3:32.0'
+    - C. Robinson misses 3-pt shot from 24 ft
+    - ''
+    - 18-17
+    - ''
+    - ''
+  - - '3:29.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '3:26.0'
+    - ''
+    - ''
+    - 18-19
+    - "+2"
+    - K. Bryant makes 2-pt shot at rim (assist by B. Shaw)
+  - - '3:18.0'
+    - Phoenix full timeout
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '3:09.0'
+    - Turnover by S. Marion (lost ball; steal by K. Bryant)
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Turnover by B. Shaw (bad pass; steal by R. Rogers)
+  - - '2:50.0'
+    - T. Gugliotta misses 2-pt shot from 19 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by R. Fox
+  - - '2:44.0'
+    - ''
+    - ''
+    - 18-21
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by B. Shaw)
+  - - '2:24.0'
+    - T. Gugliotta misses 2-pt shot from 20 ft
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 18-21
+    - ''
+    - Defensive rebound by R. Fox
+  - - '2:17.0'
+    - ''
+    - ''
+    - 18-23
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by B. Shaw)
+  - - '2:17.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Shooting foul by T. Gugliotta
+  - - '2:17.0'
+    - C. Dudley enters the game for T. Gugliotta
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:17.0'
+    - V. Del Negro enters the game for C. Robinson
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:17.0'
+    - Technical foul by C. Robinson
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 18-24
+    - "+1"
+    - K. Bryant makes free throw technical
+  - - '2:17.0'
+    - ''
+    - ''
+    - 18-24
+    - ''
+    - D. George enters the game for R. Fox
+  - - '2:17.0'
+    - ''
+    - ''
+    - 18-25
+    - "+1"
+    - S. O'Neal makes free throw 1 of 1
+  - - '2:00.0'
+    - T. Delk misses 2-pt shot from 20 ft
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '1:58.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '1:47.0'
+    - Turnover by T. Delk (lost ball; steal by K. Bryant)
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 18-25
+    - ''
+    - Shooting foul by R. Rogers
+  - - '1:43.0'
+    - ''
+    - ''
+    - 18-25
+    - ''
+    - K. Bryant misses free throw 1 of 2
+  - - '1:43.0'
+    - ''
+    - ''
+    - 18-25
+    - ''
+    - Offensive rebound by Team
+  - - '1:43.0'
+    - ''
+    - ''
+    - 18-25
+    - ''
+    - M. Madsen enters the game for S. O'Neal
+  - - '1:43.0'
+    - ''
+    - ''
+    - 18-26
+    - "+1"
+    - K. Bryant makes free throw 2 of 2
+  - - '1:25.0'
+    - S. Marion makes 2-pt shot from 8 ft (assist by V. Del Negro)
+    - "+2"
+    - 20-26
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 20-26
+    - ''
+    - Turnover by B. Shaw (bad pass; steal by C. Dudley)
+  - - '0:38.6'
+    - S. Marion misses 2-pt shot from 14 ft
+    - ''
+    - 20-26
+    - ''
+    - ''
+  - - '0:36.5'
+    - ''
+    - ''
+    - 20-26
+    - ''
+    - Defensive rebound by D. George
+  - - '0:25.7'
+    - ''
+    - ''
+    - 20-26
+    - ''
+    - B. Shaw misses 2-pt shot from 9 ft
+  - - '0:22.2'
+    - Defensive rebound by S. Marion
+    - ''
+    - 20-26
+    - ''
+    - ''
+  - - '0:04.4'
+    - Shooting foul by M. Madsen
+    - ''
+    - 20-26
+    - ''
+    - ''
+  - - '0:04.4'
+    - R. Rogers makes free throw 1 of 2
+    - "+1"
+    - 21-26
+    - ''
+    - ''
+  - - '0:04.4'
+    - ''
+    - ''
+    - 21-26
+    - ''
+    - R. Horry enters the game for H. Grant
+  - - '0:04.4'
+    - ''
+    - ''
+    - 21-26
+    - ''
+    - M. Penberthy enters the game for M. Madsen
+  - - '0:04.4'
+    - R. Rogers makes free throw 2 of 2
+    - "+1"
+    - 22-26
+    - ''
+    - ''
+  - - '0:04.4'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Turnover by R. Horry (bad pass)
+  - - '0:01.0'
+    - C. Dudley misses 2-pt shot from 14 ft
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '0:00.1'
+    - Offensive rebound by Team
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:48.0'
+    - Personal foul by K. Bryant
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:35.0'
+    - S. Marion misses 2-pt shot from 11 ft
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:33.0'
+    - Offensive rebound by S. Marion
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:29.0'
+    - Personal foul by B. Shaw
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:29.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - D. Fisher enters the game for K. Bryant
+  - - '11:21.0'
+    - V. Del Negro misses 2-pt shot from 16 ft
+    - ''
+    - 22-26
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Defensive rebound by D. George
+  - - '11:06.0'
+    - ''
+    - ''
+    - 22-26
+    - ''
+    - Shooting foul by C. Dudley
+  - - '11:06.0'
+    - ''
+    - ''
+    - 22-27
+    - "+1"
+    - S. O'Neal makes free throw 1 of 2
+  - - '11:06.0'
+    - J. Kidd enters the game for T. Delk
+    - ''
+    - 22-27
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - S. O'Neal misses free throw 2 of 2
+  - - '11:05.0'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 22-27
+    - ''
+    - ''
+  - - '10:53.0'
+    - R. Rogers misses 2-pt shot from 6 ft
+    - ''
+    - 22-27
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 22-27
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '10:40.0'
+    - ''
+    - ''
+    - 22-29
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by B. Shaw)
+  - - '10:36.0'
+    - Technical foul by C. Dudley
+    - ''
+    - 22-29
+    - ''
+    - ''
+  - - '10:36.0'
+    - ''
+    - ''
+    - 22-29
+    - ''
+    - D. Fisher misses free throw technical
+  - - '10:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-29
+    - ''
+    - ''
+  - - '10:36.0'
+    - J. Tsakalidis enters the game for C. Dudley
+    - ''
+    - 22-29
+    - ''
+    - ''
+  - - '10:20.0'
+    - V. Del Negro makes 2-pt shot from 13 ft
+    - "+2"
+    - 24-29
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 24-31
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 8 ft
+  - - '9:38.0'
+    - J. Kidd misses 2-pt shot from 16 ft
+    - ''
+    - 24-31
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 24-31
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '9:20.0'
+    - ''
+    - ''
+    - 24-33
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 7 ft
+  - - '9:05.0'
+    - R. Rogers misses 2-pt shot from 13 ft
+    - ''
+    - 24-33
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 24-33
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '8:53.0'
+    - ''
+    - ''
+    - 24-35
+    - "+2"
+    - D. George makes 2-pt shot from 20 ft
+  - - '8:35.0'
+    - R. Rogers misses 2-pt shot from 8 ft (block by R. Horry)
+    - ''
+    - 24-35
+    - ''
+    - ''
+  - - '8:33.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-35
+    - ''
+    - ''
+  - - '8:33.0'
+    - Official timeout
+    - ''
+    - 24-35
+    - ''
+    - ''
+  - - '8:33.0'
+    - C. Robinson enters the game for S. Marion
+    - ''
+    - 24-35
+    - ''
+    - ''
+  - - '8:24.0'
+    - R. Rogers makes 2-pt shot at rim
+    - "+2"
+    - 26-35
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 26-35
+    - ''
+    - S. O'Neal misses 2-pt shot from 14 ft
+  - - '8:12.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 26-35
+    - ''
+    - ''
+  - - '7:54.0'
+    - C. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 26-35
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 26-35
+    - ''
+    - Defensive rebound by D. Fisher
+  - - '7:36.0'
+    - ''
+    - ''
+    - 26-35
+    - ''
+    - Personal foul by C. Robinson
+  - - '7:28.0'
+    - ''
+    - ''
+    - 26-37
+    - "+2"
+    - D. Fisher makes 2-pt shot at rim (assist by S. O'Neal)
+  - - '7:12.0'
+    - Shooting foul by R. Horry
+    - ''
+    - 26-37
+    - ''
+    - ''
+  - - '7:12.0'
+    - C. Robinson makes free throw 1 of 2
+    - "+1"
+    - 27-37
+    - ''
+    - ''
+  - - '7:12.0'
+    - T. Gugliotta enters the game for R. Rogers
+    - ''
+    - 27-37
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 27-37
+    - ''
+    - H. Grant enters the game for R. Horry
+  - - '7:12.0'
+    - C. Robinson makes free throw 2 of 2
+    - "+1"
+    - 28-37
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 28-37
+    - ''
+    - H. Grant misses 2-pt shot at rim
+  - - '6:56.0'
+    - Defensive rebound by J. Tsakalidis
+    - ''
+    - 28-37
+    - ''
+    - ''
+  - - '6:50.0'
+    - J. Kidd misses 2-pt shot from 14 ft
+    - ''
+    - 28-37
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 28-37
+    - ''
+    - Defensive rebound by H. Grant
+  - - '6:44.0'
+    - ''
+    - ''
+    - 28-39
+    - "+2"
+    - H. Grant makes 2-pt shot at rim (assist by D. Fisher)
+  - - '6:24.0'
+    - Turnover by C. Robinson (lost ball; steal by D. Fisher)
+    - ''
+    - 28-39
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 28-41
+    - "+2"
+    - D. Fisher makes 2-pt shot from 18 ft
+  - - '6:11.0'
+    - Phoenix full timeout
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '6:11.0'
+    - T. Delk enters the game for V. Del Negro
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 28-41
+    - ''
+    - K. Bryant enters the game for B. Shaw
+  - - '5:59.0'
+    - T. Delk misses 2-pt shot from 14 ft (block by D. George)
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '5:56.0'
+    - Offensive rebound by T. Delk
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '5:52.0'
+    - J. Kidd misses 3-pt shot from 23 ft
+    - ''
+    - 28-41
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 28-41
+    - ''
+    - Defensive rebound by Team
+  - - '5:46.0'
+    - ''
+    - ''
+    - 28-43
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim (assist by D. George)
+  - - '5:25.0'
+    - T. Gugliotta misses 2-pt shot from 16 ft
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 28-43
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '5:17.0'
+    - ''
+    - ''
+    - 28-43
+    - ''
+    - S. O'Neal misses 2-pt shot from 6 ft (block by J. Tsakalidis)
+  - - '5:13.0'
+    - Defensive rebound by T. Gugliotta
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:11.0'
+    - Personal foul by D. George
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '5:11.0'
+    - S. Marion enters the game for T. Gugliotta
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '4:58.0'
+    - T. Delk misses 2-pt shot from 13 ft
+    - ''
+    - 28-43
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 28-43
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '4:46.0'
+    - ''
+    - ''
+    - 28-43
+    - ''
+    - Turnover by Team (10 second)
+  - - '4:31.0'
+    - J. Kidd makes 2-pt shot from 12 ft
+    - "+2"
+    - 30-43
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 30-43
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '4:12.0'
+    - Defensive rebound by Team
+    - ''
+    - 30-43
+    - ''
+    - ''
+  - - '4:10.0'
+    - J. Kidd misses 2-pt shot at rim (block by H. Grant)
+    - ''
+    - 30-43
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 30-43
+    - ''
+    - Defensive rebound by D. George
+  - - '3:55.0'
+    - ''
+    - ''
+    - 30-43
+    - ''
+    - D. Fisher misses 2-pt shot from 14 ft
+  - - '3:52.0'
+    - Defensive rebound by J. Kidd
+    - ''
+    - 30-43
+    - ''
+    - ''
+  - - '3:50.0'
+    - Shooting foul by D. George
+    - ''
+    - 30-43
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 30-43
+    - ''
+    - M. Madsen enters the game for S. O'Neal
+  - - '3:50.0'
+    - J. Kidd makes free throw 1 of 2
+    - "+1"
+    - 31-43
+    - ''
+    - ''
+  - - '3:50.0'
+    - R. Rogers enters the game for J. Tsakalidis
+    - ''
+    - 31-43
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 31-43
+    - ''
+    - R. Fox enters the game for D. George
+  - - '3:50.0'
+    - J. Kidd makes free throw 2 of 2
+    - "+1"
+    - 32-43
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 32-45
+    - "+2"
+    - K. Bryant makes 2-pt shot from 14 ft (assist by D. Fisher)
+  - - '3:20.0'
+    - Turnover by C. Robinson (lost ball; steal by K. Bryant)
+    - ''
+    - 32-45
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 32-47
+    - "+2"
+    - D. Fisher makes 2-pt shot at rim (assist by M. Madsen)
+  - - '3:15.0'
+    - ''
+    - ''
+    - 32-47
+    - ''
+    - Shooting foul by J. Kidd
+  - - '3:15.0'
+    - V. Del Negro enters the game for J. Kidd
+    - ''
+    - 32-47
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 32-48
+    - "+1"
+    - D. Fisher makes free throw 1 of 1
+  - - '2:56.0'
+    - T. Delk makes 2-pt shot from 18 ft
+    - "+2"
+    - 34-48
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 34-50
+    - "+2"
+    - H. Grant makes 2-pt shot from 20 ft (assist by R. Fox)
+  - - '2:15.0'
+    - R. Rogers makes 2-pt shot from 19 ft (assist by T. Delk)
+    - "+2"
+    - 36-50
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - K. Bryant misses 2-pt shot from 13 ft
+  - - '1:48.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 36-50
+    - ''
+    - ''
+  - - '1:42.0'
+    - Turnover by V. Del Negro (lost ball; steal by K. Bryant)
+    - ''
+    - 36-50
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - D. Fisher misses 2-pt shot from 17 ft
+  - - '1:32.0'
+    - Defensive rebound by V. Del Negro
+    - ''
+    - 36-50
+    - ''
+    - ''
+  - - '1:20.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 36-50
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - Defensive rebound by H. Grant
+  - - '1:14.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - LA Lakers full timeout
+  - - '1:14.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - S. Medvedenko enters the game for H. Grant
+  - - '1:14.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - M. Penberthy enters the game for D. Fisher
+  - - '1:01.0'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - S. Medvedenko misses 2-pt shot from 18 ft
+  - - '0:58.8'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - Offensive rebound by M. Madsen
+  - - '0:50.2'
+    - ''
+    - ''
+    - 36-50
+    - ''
+    - S. Medvedenko misses 2-pt shot at rim (block by V. Del Negro)
+  - - '0:49.5'
+    - 'Jump ball: S. Medvedenko vs. R. Rogers (T. Delk gains possession)'
+  - - '0:49.5'
+    - Defensive rebound by Team
+    - ''
+    - 36-50
+    - ''
+    - ''
+  - - '0:28.3'
+    - S. Marion makes 2-pt shot from 5 ft
+    - "+2"
+    - 38-50
+    - ''
+    - ''
+  - - '0:04.5'
+    - ''
+    - ''
+    - 38-50
+    - ''
+    - R. Fox misses 3-pt shot from 25 ft
+  - - '0:02.2'
+    - ''
+    - ''
+    - 38-50
+    - ''
+    - Offensive rebound by M. Madsen
+  - - '0:01.8'
+    - ''
+    - ''
+    - 38-52
+    - "+2"
+    - M. Madsen makes 2-pt shot at rim
+  - - '0:00.4'
+    - C. Robinson misses 3-pt shot from 43 ft
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '0:00.1'
+    - Offensive rebound by Team
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '12:00.0'
+    - C. Robinson misses 2-pt shot from 13 ft
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '11:59.0'
+    - Offensive rebound by M. Elie
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '11:42.0'
+    - Personal foul by R. Fox
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '11:42.0'
+    - J. Kidd misses 2-pt shot from 12 ft
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '11:40.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '11:11.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Offensive foul by S. O'Neal
+  - - '11:11.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Turnover by S. O'Neal (foul)
+  - - '10:53.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 38-52
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Defensive rebound by H. Grant
+  - - '10:43.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Shooting foul by J. Kidd
+  - - '10:43.0'
+    - ''
+    - ''
+    - 38-53
+    - "+1"
+    - K. Bryant makes free throw 1 of 2
+  - - '10:43.0'
+    - ''
+    - ''
+    - 38-54
+    - "+1"
+    - K. Bryant makes free throw 2 of 2
+  - - '10:30.0'
+    - Turnover by J. Kidd (bad pass; steal by K. Bryant)
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 38-54
+    - ''
+    - LA Lakers 20 second timeout
+  - - '10:11.0'
+    - ''
+    - ''
+    - 38-54
+    - ''
+    - D. Fisher misses 3-pt shot from 23 ft
+  - - '10:08.0'
+    - Defensive rebound by M. Elie
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '9:50.0'
+    - M. Elie misses 2-pt shot from 7 ft
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '9:48.0'
+    - C. Robinson misses 2-pt shot at rim
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '9:48.0'
+    - Offensive rebound by C. Robinson
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 38-54
+    - ''
+    - Defensive rebound by H. Grant
+  - - '9:42.0'
+    - ''
+    - ''
+    - 38-56
+    - "+2"
+    - R. Fox makes 2-pt shot from 14 ft
+  - - '9:20.0'
+    - Turnover by C. Robinson (bad pass; steal by K. Bryant)
+    - ''
+    - 38-56
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 38-58
+    - "+2"
+    - R. Fox makes 2-pt shot at rim (assist by K. Bryant)
+  - - '9:14.0'
+    - Phoenix full timeout
+    - ''
+    - 38-58
+    - ''
+    - ''
+  - - '9:05.0'
+    - J. Tsakalidis misses 2-pt shot at rim (block by H. Grant)
+    - ''
+    - 38-58
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 38-58
+    - ''
+    - Defensive rebound by R. Fox
+  - - '8:52.0'
+    - ''
+    - ''
+    - 38-58
+    - ''
+    - R. Fox misses 2-pt shot from 7 ft
+  - - '8:50.0'
+    - Defensive rebound by J. Tsakalidis
+    - ''
+    - 38-58
+    - ''
+    - ''
+  - - '8:50.0'
+    - Personal foul by R. Fox
+    - ''
+    - 38-58
+    - ''
+    - ''
+  - - '8:39.0'
+    - J. Kidd misses 2-pt shot from 19 ft
+    - ''
+    - 38-58
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 38-58
+    - ''
+    - Defensive rebound by Team
+  - - '8:33.0'
+    - ''
+    - ''
+    - 38-60
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 6 ft
+  - - '8:16.0'
+    - Turnover by C. Robinson (bad pass; steal by S. O'Neal)
+    - ''
+    - 38-60
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 38-63
+    - "+3"
+    - R. Fox makes 3-pt shot from 25 ft (assist by K. Bryant)
+  - - '7:51.0'
+    - C. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 38-63
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - Defensive rebound by R. Fox
+  - - '7:34.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - K. Bryant misses 2-pt shot from 15 ft (block by S. Marion)
+  - - '7:34.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - Offensive rebound by Team
+  - - '7:34.0'
+    - C. Dudley enters the game for C. Robinson
+    - ''
+    - 38-63
+    - ''
+    - ''
+  - - '7:34.0'
+    - T. Delk enters the game for J. Tsakalidis
+    - ''
+    - 38-63
+    - ''
+    - ''
+  - - '7:34.0'
+    - R. Rogers enters the game for M. Elie
+    - ''
+    - 38-63
+    - ''
+    - ''
+  - - '7:34.0'
+    - E. Perry enters the game for J. Kidd
+    - ''
+    - 38-63
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - Shooting foul by C. Dudley
+  - - '7:32.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - S. O'Neal misses free throw 1 of 2
+  - - '7:32.0'
+    - ''
+    - ''
+    - 38-63
+    - ''
+    - Offensive rebound by Team
+  - - '7:32.0'
+    - ''
+    - ''
+    - 38-64
+    - "+1"
+    - S. O'Neal makes free throw 2 of 2
+  - - '7:19.0'
+    - S. Marion makes 2-pt shot from 12 ft (assist by E. Perry)
+    - "+2"
+    - 40-64
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 40-66
+    - "+2"
+    - H. Grant makes 2-pt shot at rim (assist by K. Bryant)
+  - - '6:47.0'
+    - T. Delk makes 2-pt shot from 14 ft
+    - "+2"
+    - 42-66
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 42-66
+    - ''
+    - S. O'Neal misses 2-pt shot at rim
+  - - '6:26.0'
+    - ''
+    - ''
+    - 42-66
+    - ''
+    - Offensive rebound by H. Grant
+  - - '6:23.0'
+    - ''
+    - ''
+    - 42-66
+    - ''
+    - R. Fox misses 3-pt shot from 26 ft
+  - - '6:21.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 42-66
+    - ''
+    - ''
+  - - '6:11.0'
+    - R. Rogers makes 3-pt shot from 26 ft (assist by T. Delk)
+    - "+3"
+    - 45-66
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 45-66
+    - ''
+    - K. Bryant misses 3-pt shot from 23 ft
+  - - '5:44.0'
+    - ''
+    - ''
+    - 45-66
+    - ''
+    - Offensive rebound by H. Grant
+  - - '5:39.0'
+    - ''
+    - ''
+    - 45-66
+    - ''
+    - Personal foul by C. Dudley
+  - - '5:26.0'
+    - ''
+    - ''
+    - 45-68
+    - "+2"
+    - K. Bryant makes 2-pt shot from 17 ft
+  - - '5:12.0'
+    - T. Delk misses 2-pt shot from 18 ft
+    - ''
+    - 45-68
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 45-68
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '5:04.0'
+    - ''
+    - ''
+    - 45-68
+    - ''
+    - Turnover by D. Fisher (bad pass; steal by C. Dudley)
+  - - '4:54.0'
+    - Turnover by T. Delk (lost ball)
+    - ''
+    - 45-68
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 45-68
+    - ''
+    - LA Lakers full timeout
+  - - '4:40.0'
+    - ''
+    - ''
+    - 45-71
+    - "+3"
+    - R. Fox makes 3-pt shot from 23 ft (assist by D. Fisher)
+  - - '4:22.0'
+    - Personal foul by H. Grant
+    - ''
+    - 45-71
+    - ''
+    - ''
+  - - '4:17.0'
+    - E. Perry misses 2-pt shot from 22 ft
+    - ''
+    - 45-71
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 45-71
+    - ''
+    - Defensive rebound by S. O'Neal
+  - - '3:55.0'
+    - ''
+    - ''
+    - 45-73
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 8 ft (assist by H. Grant)
+  - - '3:43.0'
+    - T. Delk misses 2-pt shot from 16 ft
+    - ''
+    - 45-73
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 45-73
+    - ''
+    - Defensive rebound by H. Grant
+  - - '3:34.0'
+    - ''
+    - ''
+    - 45-73
+    - ''
+    - Turnover by K. Bryant (lost ball; steal by R. Rogers)
+  - - '3:25.0'
+    - E. Perry makes 2-pt shot from 18 ft (assist by R. Rogers)
+    - "+2"
+    - 47-73
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 47-75
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 4 ft (assist by K. Bryant)
+  - - '2:41.0'
+    - S. Marion makes 2-pt shot from 15 ft (assist by R. Rogers)
+    - "+2"
+    - 49-75
+    - ''
+    - ''
+  - - '2:33.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - Turnover by S. O'Neal (bad pass)
+  - - '2:33.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - M. Madsen enters the game for S. O'Neal
+  - - '2:33.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - D. George enters the game for R. Fox
+  - - '2:33.0'
+    - V. Del Negro enters the game for T. Delk
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '2:14.0'
+    - Turnover by E. Perry (bad pass)
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 49-75
+    - ''
+    - K. Bryant misses 2-pt shot from 20 ft
+  - - '2:04.0'
+    - Defensive rebound by E. Perry
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '2:04.0'
+    - Personal foul by H. Grant
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '1:56.0'
+    - Personal foul by D. George
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '1:56.0'
+    - S. Marion misses free throw 1 of 2
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '1:56.0'
+    - Offensive rebound by Team
+    - ''
+    - 49-75
+    - ''
+    - ''
+  - - '1:56.0'
+    - S. Marion makes free throw 2 of 2
+    - "+1"
+    - 50-75
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - M. Madsen misses 2-pt shot from 11 ft (block by C. Dudley)
+  - - '1:37.0'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - Offensive rebound by D. George
+  - - '1:33.0'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - D. George misses 2-pt shot at rim
+  - - '1:32.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '1:27.0'
+    - S. Marion misses 2-pt shot from 6 ft
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - Defensive rebound by M. Madsen
+  - - '1:05.0'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - D. Fisher misses 3-pt shot from 24 ft
+  - - '1:03.0'
+    - Defensive rebound by S. Marion
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '0:50.9'
+    - E. Perry misses 2-pt shot from 17 ft
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '0:48.8'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - Defensive rebound by K. Bryant
+  - - '0:36.8'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - D. George misses 2-pt shot from 16 ft
+  - - '0:34.6'
+    - Defensive rebound by S. Marion
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '0:29.4'
+    - Shooting foul by K. Bryant
+    - ''
+    - 50-75
+    - ''
+    - ''
+  - - '0:29.4'
+    - ''
+    - ''
+    - 50-75
+    - ''
+    - S. Medvedenko enters the game for H. Grant
+  - - '0:29.4'
+    - S. Marion makes free throw 1 of 2
+    - "+1"
+    - 51-75
+    - ''
+    - ''
+  - - '0:29.4'
+    - S. Marion makes free throw 2 of 2
+    - "+1"
+    - 52-75
+    - ''
+    - ''
+  - - '0:14.8'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - K. Bryant misses 2-pt shot from 18 ft
+  - - '0:13.6'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 52-75
+    - ''
+    - ''
+  - - '0:08.2'
+    - S. Marion misses 2-pt shot from 11 ft
+    - ''
+    - 52-75
+    - ''
+    - ''
+  - - '0:04.9'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - Defensive rebound by M. Madsen
+  - - '0:01.6'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - D. George misses 2-pt shot from 17 ft
+  - - '0:00.6'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.6'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - Loose ball foul by C. Dudley
+  - - '0:00.6'
+    - ''
+    - ''
+    - 52-75
+    - ''
+    - Turnover by D. George (bad pass)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 52-77
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 11 ft (assist by D. George)
+  - - '11:27.0'
+    - V. Del Negro makes 2-pt shot from 16 ft (assist by E. Perry)
+    - "+2"
+    - 54-77
+    - ''
+    - ''
+  - - '11:01.0'
+    - ''
+    - ''
+    - 54-77
+    - ''
+    - K. Bryant misses 2-pt shot from 15 ft
+  - - '10:59.0'
+    - Defensive rebound by R. Rogers
+    - ''
+    - 54-77
+    - ''
+    - ''
+  - - '10:42.0'
+    - R. Rogers makes 3-pt shot from 26 ft
+    - "+3"
+    - 57-77
+    - ''
+    - ''
+  - - '10:20.0'
+    - ''
+    - ''
+    - 57-79
+    - "+2"
+    - M. Madsen makes 2-pt shot at rim (assist by B. Shaw)
+  - - '10:08.0'
+    - T. Delk misses 3-pt shot from 24 ft
+    - ''
+    - 57-79
+    - ''
+    - ''
+  - - '10:06.0'
+    - Offensive rebound by E. Perry
+    - ''
+    - 57-79
+    - ''
+    - ''
+  - - '9:53.0'
+    - T. Delk misses 2-pt shot from 18 ft
+    - ''
+    - 57-79
+    - ''
+    - ''
+  - - '9:50.0'
+    - Offensive rebound by R. Rogers
+    - ''
+    - 57-79
+    - ''
+    - ''
+  - - '9:46.0'
+    - E. Perry misses 2-pt shot from 17 ft
+    - ''
+    - 57-79
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 57-79
+    - ''
+    - Defensive rebound by M. Madsen
+  - - '9:28.0'
+    - ''
+    - ''
+    - 57-81
+    - "+2"
+    - B. Shaw makes 2-pt shot at rim (assist by S. O'Neal)
+  - - '9:04.0'
+    - T. Delk makes 2-pt shot from 18 ft (assist by V. Del Negro)
+    - "+2"
+    - 59-81
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 59-83
+    - "+2"
+    - S. O'Neal makes 2-pt shot from 6 ft (assist by D. George)
+  - - '8:20.0'
+    - R. Rogers makes 3-pt shot from 25 ft
+    - "+3"
+    - 62-83
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Shooting foul by T. Delk
+  - - '7:59.0'
+    - ''
+    - ''
+    - 62-83
+    - ''
+    - Official timeout
+  - - '7:59.0'
+    - D. Santiago enters the game for T. Gugliotta
+    - ''
+    - 62-83
+    - ''
+    - ''
+  - - '7:59.0'
+    - ''
+    - ''
+    - 62-84
+    - "+1"
+    - K. Bryant makes free throw 1 of 2
+  - - '7:59.0'
+    - ''
+    - ''
+    - 62-85
+    - "+1"
+    - K. Bryant makes free throw 2 of 2
+  - - '7:46.0'
+    - ''
+    - ''
+    - 62-85
+    - ''
+    - M. Penberthy enters the game for K. Bryant
+  - - '7:40.0'
+    - Shooting foul by S. O'Neal
+    - ''
+    - 62-85
+    - ''
+    - ''
+  - - '7:40.0'
+    - R. Rogers makes free throw 1 of 2
+    - "+1"
+    - 63-85
+    - ''
+    - ''
+  - - '7:40.0'
+    - R. Rogers makes free throw 2 of 2
+    - "+1"
+    - 64-85
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 64-85
+    - ''
+    - Turnover by S. O'Neal (lost ball; steal by E. Perry)
+  - - '7:17.0'
+    - Shooting foul by B. Shaw
+    - ''
+    - 64-85
+    - ''
+    - ''
+  - - '7:17.0'
+    - T. Delk misses free throw 1 of 2
+    - ''
+    - 64-85
+    - ''
+    - ''
+  - - '7:17.0'
+    - Offensive rebound by Team
+    - ''
+    - 64-85
+    - ''
+    - ''
+  - - '7:17.0'
+    - T. Delk makes free throw 2 of 2
+    - "+1"
+    - 65-85
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 65-87
+    - "+2"
+    - S. O'Neal makes 2-pt shot at rim
+  - - '6:49.0'
+    - T. Delk misses 2-pt shot from 17 ft
+    - ''
+    - 65-87
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 65-87
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '6:33.0'
+    - ''
+    - ''
+    - 65-87
+    - ''
+    - M. Penberthy misses 2-pt shot at rim
+  - - '6:30.0'
+    - ''
+    - ''
+    - 65-87
+    - ''
+    - D. George misses 2-pt shot at rim
+  - - '6:30.0'
+    - ''
+    - ''
+    - 65-87
+    - ''
+    - Offensive rebound by D. George
+  - - '6:28.0'
+    - ''
+    - ''
+    - 65-89
+    - "+2"
+    - D. George makes 2-pt shot at rim
+  - - '6:28.0'
+    - ''
+    - ''
+    - 65-89
+    - ''
+    - Offensive rebound by D. George
+  - - '6:26.0'
+    - C. Dudley enters the game for R. Rogers
+    - ''
+    - 65-89
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 65-89
+    - ''
+    - S. Medvedenko enters the game for S. O'Neal
+  - - '6:13.0'
+    - T. Delk misses 2-pt shot from 8 ft
+    - ''
+    - 65-89
+    - ''
+    - ''
+  - - '6:10.0'
+    - C. Dudley misses 2-pt shot at rim
+    - ''
+    - 65-89
+    - ''
+    - ''
+  - - '6:10.0'
+    - Offensive rebound by C. Dudley
+    - ''
+    - 65-89
+    - ''
+    - ''
+  - - '6:08.0'
+    - Offensive rebound by T. Delk
+    - ''
+    - 65-89
+    - ''
+    - ''
+  - - '6:06.0'
+    - D. Santiago makes 2-pt shot at rim (assist by T. Delk)
+    - "+2"
+    - 67-89
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 67-92
+    - "+3"
+    - M. Penberthy makes 3-pt shot from 27 ft (assist by D. George)
+  - - '5:36.0'
+    - T. Delk misses 3-pt shot from 26 ft
+    - ''
+    - 67-92
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 67-92
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '5:15.0'
+    - ''
+    - ''
+    - 67-94
+    - "+2"
+    - M. Madsen makes 2-pt shot from 6 ft
+  - - '4:58.0'
+    - C. Dudley misses 2-pt shot from 9 ft
+    - ''
+    - 67-94
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 67-94
+    - ''
+    - Defensive rebound by M. Madsen
+  - - '4:48.0'
+    - ''
+    - ''
+    - 67-94
+    - ''
+    - S. Medvedenko misses 2-pt shot at rim (block by D. Santiago)
+  - - '4:45.0'
+    - Defensive rebound by E. Perry
+    - ''
+    - 67-94
+    - ''
+    - ''
+  - - '4:37.0'
+    - V. Del Negro makes 2-pt shot from 9 ft
+    - "+2"
+    - 69-94
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 69-94
+    - ''
+    - M. Madsen misses 2-pt shot from 18 ft
+  - - '4:19.0'
+    - ''
+    - ''
+    - 69-94
+    - ''
+    - D. George misses 2-pt shot at rim
+  - - '4:19.0'
+    - ''
+    - ''
+    - 69-94
+    - ''
+    - Offensive rebound by D. George
+  - - '4:19.0'
+    - Defensive rebound by V. Del Negro
+    - ''
+    - 69-94
+    - ''
+    - ''
+  - - '4:19.0'
+    - Personal foul by S. Medvedenko
+    - ''
+    - 69-94
+    - ''
+    - ''
+  - - '4:19.0'
+    - Phoenix full timeout
+    - ''
+    - 69-94
+    - ''
+    - ''
+  - - '4:04.0'
+    - E. Perry misses 3-pt shot from 26 ft
+    - ''
+    - 69-94
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 69-94
+    - ''
+    - Defensive rebound by S. Medvedenko
+  - - '4:00.0'
+    - ''
+    - ''
+    - 69-96
+    - "+2"
+    - M. Madsen makes 2-pt shot at rim (assist by B. Shaw)
+  - - '3:41.0'
+    - Turnover by E. Perry (lost ball; steal by M. Penberthy)
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 69-96
+    - ''
+    - M. Madsen misses 2-pt shot from 8 ft
+  - - '3:21.0'
+    - Defensive rebound by E. Perry
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '3:16.0'
+    - V. Del Negro misses 2-pt shot from 18 ft
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '3:14.0'
+    - Offensive rebound by V. Del Negro
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '3:13.0'
+    - V. Del Negro misses 2-pt shot from 16 ft
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 69-96
+    - ''
+    - Defensive rebound by D. George
+  - - '3:01.0'
+    - ''
+    - ''
+    - 69-96
+    - ''
+    - Turnover by S. Medvedenko (bad pass; steal by V. Del Negro)
+  - - '2:52.0'
+    - Turnover by T. Delk (lost ball; steal by M. Penberthy)
+    - ''
+    - 69-96
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 69-98
+    - "+2"
+    - S. Medvedenko makes 2-pt shot from 18 ft (assist by B. Shaw)
+  - - '2:17.0'
+    - T. Delk misses 2-pt shot from 16 ft
+    - ''
+    - 69-98
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 69-98
+    - ''
+    - Defensive rebound by D. George
+  - - '2:07.0'
+    - ''
+    - ''
+    - 69-100
+    - "+2"
+    - S. Medvedenko makes 2-pt shot from 15 ft (assist by B. Shaw)
+  - - '1:54.0'
+    - V. Del Negro makes 2-pt shot from 15 ft (assist by E. Perry)
+    - "+2"
+    - 71-100
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 71-102
+    - "+2"
+    - B. Shaw makes 2-pt shot from 14 ft (assist by M. Madsen)
+  - - '1:26.0'
+    - E. Perry makes 2-pt shot from 8 ft
+    - "+2"
+    - 73-102
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 73-102
+    - ''
+    - S. Medvedenko misses 2-pt shot from 20 ft
+  - - '1:14.0'
+    - Defensive rebound by V. Del Negro
+    - ''
+    - 73-102
+    - ''
+    - ''
+  - - '1:06.0'
+    - C. Dudley makes 2-pt shot from 10 ft (assist by D. Santiago)
+    - "+2"
+    - 75-102
+    - ''
+    - ''
+  - - '0:54.4'
+    - ''
+    - ''
+    - 75-102
+    - ''
+    - Offensive foul by S. Medvedenko
+  - - '0:54.4'
+    - ''
+    - ''
+    - 75-102
+    - ''
+    - Turnover by S. Medvedenko (foul)
+  - - '0:54.4'
+    - Phoenix full timeout
+    - ''
+    - 75-102
+    - ''
+    - ''
+  - - '0:42.5'
+    - C. Dudley misses 2-pt shot from 6 ft (block by M. Madsen)
+    - ''
+    - 75-102
+    - ''
+    - ''
+  - - '0:38.8'
+    - ''
+    - ''
+    - 75-102
+    - ''
+    - Defensive rebound by B. Shaw
+  - - '0:35.9'
+    - ''
+    - ''
+    - 75-104
+    - "+2"
+    - S. Medvedenko makes 2-pt shot from 18 ft (assist by B. Shaw)
+  - - '0:30.0'
+    - V. Del Negro makes 2-pt shot at rim
+    - "+2"
+    - 77-104
+    - ''
+    - ''
+  - - '0:23.6'
+    - ''
+    - ''
+    - 77-104
+    - ''
+    - D. George misses 3-pt shot from 26 ft
+  - - '0:21.4'
+    - Defensive rebound by C. Dudley
+    - ''
+    - 77-104
+    - ''
+    - ''
+  - - '0:14.7'
+    - V. Del Negro makes 2-pt shot from 20 ft (assist by T. Delk)
+    - "+2"
+    - 79-104
+    - ''
+    - ''
+  - - '0:14.7'
+    - Shooting foul by D. George
+    - ''
+    - 79-104
+    - ''
+    - ''
+  - - '0:14.7'
+    - V. Del Negro makes free throw 1 of 1
+    - "+1"
+    - 80-104
+    - ''
+    - ''
+  - - '0:05.1'
+    - ''
+    - ''
+    - 80-104
+    - ''
+    - Shooting foul by E. Perry
+  - - '0:05.1'
+    - ''
+    - ''
+    - 80-105
+    - "+1"
+    - S. Medvedenko makes free throw 1 of 2
+  - - '0:05.1'
+    - ''
+    - ''
+    - 80-106
+    - "+1"
+    - S. Medvedenko makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 4th quarter

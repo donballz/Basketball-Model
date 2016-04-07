@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: -9&#9642;Off: +6&#9642;Net: -15)'
+    - |2-
+
+      0
+    - 215/0
+    - 139/
+    - 146/-6
+    - 163/-4
+    - 324/
+    - 11/+1
+    - 'Michael Curry (On: -5&#9642;Off: +2&#9642;Net: -7)'
+    - |2-
+
+      0
+    - 215/0
+    - 180/
+    - 36/0
+    - 69/
+    - 117/-5
+    - 381/
+    - 'Jerry Stackhouse (On: +3&#9642;Off: -6&#9642;Net: +9)'
+    - |2-
+
+      0
+    - 249/0
+    - 89/+3
+    - 96/
+    - 65/0
+    - 249/-5
+    - 59/
+    - 190/+5
+    - 'Ben Wallace (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - |2-
+
+      +6
+    - 105/+6
+    - 144/
+    - 54/-2
+    - 40/
+    - 107/-3
+    - 48/
+    - 249/-5
+    - 249/+5
+    - 'Corliss Williamson (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - |2-
+
+      +2
+    - 203/+2
+    - 16/
+    - 30/0
+    - 59/
+    - 190/-1
+    - 64/-5
+    - 185/
+    - 249/+5
+    - 'Mikki Moore (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 110/
+    - 104/-6
+    - 238/
+    - 24/+2
+    - 88/
+    - 127/+1
+    - 306/
+    - 'Billy Owens (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - "\n"
+    - 208/
+    - 40/-2
+    - 88/+3
+    - 141/
+    - 19/-5
+    - 198/
+    - 51/-1
+    - 247/+5
+    - 3/
+    - 'Jud Buechler (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 219/
+    - 30/0
+    - 141/-3
+    - 230/
+    - 128/0
+    - 52/0
+    - 197/
+    - 'Mateen Cleaves (On: +6&#9642;Off: -9&#9642;Net: +15)'
+    - "\n"
+    - 219/
+    - 30/0
+    - 99/+3
+    - 320/
+    - 80/-1
+    - 234/+4
+    - 15/
+    - 'Dana Barros (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - "\n"
+    - 344/
+    - 156/-6
+    - 500/
+    - 0/0
+  - - Miami Heat
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      0
+    - 249/0
+    - 184/
+    - 51/-4
+    - 13/
+    - 249/+5
+    - 47/0
+    - 59/
+    - 144/0
+    - 'Brian Grant (On: +1&#9642;Off: +2&#9642;Net: -1)'
+    - |2-
+
+      -5
+    - 190/-5
+    - 119/
+    - 190/+1
+    - 249/+5
+    - 47/0
+    - 60/
+    - 142/0
+    - 'Tim Hardaway (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - |2-
+
+      -5
+    - 190/-5
+    - 153/
+    - 156/+6
+    - 198/+4
+    - 123/
+    - 178/-5
+    - 'Eddie Jones (On: -11&#9642;Off: +14&#9642;Net: -25)'
+    - |2-
+
+      -8
+    - 127/-8
+    - 123/
+    - 99/-3
+    - 651/
+    - 'Anthony Mason (On: +7&#9642;Off: -4&#9642;Net: +11)'
+    - |2-
+
+      0
+    - 249/0
+    - 54/+2
+    - 40/
+    - 155/+6
+    - 198/+4
+    - 103/
+    - 198/-5
+    - 'Dan Majerle (On: +13&#9642;Off: -10&#9642;Net: +23)'
+    - "\n"
+    - 132/
+    - 117/+8
+    - 181/+3
+    - 56/
+    - 13/+4
+    - 205/+3
+    - 95/
+    - 197/-5
+    - 'Anthony Carter (On: +9&#9642;Off: -6&#9642;Net: +15)'
+    - "\n"
+    - 193/
+    - 55/+5
+    - 88/-3
+    - 15/
+    - 145/+6
+    - 200/
+    - 48/+1
+    - 67/0
+    - 184/
+    - 'A.C. Green (On: -2&#9642;Off: +5&#9642;Net: -7)'
+    - "\n"
+    - 194/
+    - 55/+5
+    - 89/-3
+    - 361/
+    - 48/+1
+    - 99/-5
+    - 151/
+    - 'Cedric Ceballos (On: -3&#9642;Off: +6&#9642;Net: -9)'
+    - "\n"
+    - 713/
+    - 37/+2
+    - 100/-5
+    - 150/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

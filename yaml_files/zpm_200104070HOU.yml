@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Alan Henderson (On: +1&#9642;Off: -14&#9642;Net: +15)'
+    - |2-
+
+      -4
+    - 130/-4
+    - 186/
+    - 62/+2
+    - 77/
+    - 42/+4
+    - 127/
+    - 122/+1
+    - 120/
+    - 129/-2
+    - 'DerMarr Johnson (On: -5&#9642;Off: -8&#9642;Net: +3)'
+    - |2-
+
+      -4
+    - 131/-4
+    - 83/
+    - 35/+2
+    - 130/-2
+    - 246/
+    - 89/-1
+    - 283/
+    - 'Brevin Knight (On: -4&#9642;Off: -9&#9642;Net: +5)'
+    - |2-
+
+      -4
+    - 130/-4
+    - 119/
+    - 130/-2
+    - 117/
+    - 2/+3
+    - 127/
+    - 122/+1
+    - 71/-2
+    - 177/
+    - 'Nazr Mohammed (On: -5&#9642;Off: -8&#9642;Net: +3)'
+    - |2-
+
+      -2
+    - 92/-2
+    - 157/
+    - 130/-2
+    - 246/
+    - 122/+1
+    - 120/
+    - 130/-2
+    - 'Jason Terry (On: -16&#9642;Off: +3&#9642;Net: -19)'
+    - |2-
+
+      -12
+    - 209/-12
+    - 40/
+    - 241/+5
+    - 8/
+    - 249/-2
+    - 75/
+    - 175/-7
+    - 'Lorenzen Wright (On: -10&#9642;Off: -3&#9642;Net: -7)'
+    - "\n"
+    - 98/
+    - 111/-10
+    - 171/
+    - 118/+10
+    - 124/-3
+    - 124/
+    - 116/-7
+    - 134/
+    - 'Dion Glover (On: -6&#9642;Off: -7&#9642;Net: +1)'
+    - "\n"
+    - 134/
+    - 115/-6
+    - 131/
+    - 118/+10
+    - 124/-3
+    - 95/
+    - 29/+2
+    - 250/-9
+    - 'Matt Maloney (On: -8&#9642;Off: -5&#9642;Net: -3)'
+    - "\n"
+    - 134/
+    - 115/-6
+    - 131/
+    - 118/+10
+    - 125/-3
+    - 125/
+    - 249/-9
+    - 'Hanno Mottola (On: -14&#9642;Off: +1&#9642;Net: -15)'
+    - "\n"
+    - 134/
+    - 115/-6
+    - 65/-4
+    - 66/
+    - 72/+6
+    - 46/
+    - 124/-3
+    - 124/
+    - 116/-7
+    - 132/
+    - 'Cal Bowdler (On: +2&#9642;Off: -15&#9642;Net: +17)'
+    - "\n"
+    - 215/
+    - 35/+2
+    - 751/
+  - - Houston Rockets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shandon Anderson (On: +15&#9642;Off: -2&#9642;Net: +17)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 40/+5
+    - 209/
+    - 250/+2
+    - 52/-2
+    - 197/
+    - 'Steve Francis (On: +11&#9642;Off: +2&#9642;Net: +9)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 104/
+    - 146/-10
+    - 250/+2
+    - 249/+9
+    - 'Cuttino Mobley (On: +20&#9642;Off: -7&#9642;Net: +27)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 98/+2
+    - 101/
+    - 50/-5
+    - 249/+2
+    - 54/
+    - 196/+11
+    - 'Hakeem Olajuwon (On: +7&#9642;Off: +6&#9642;Net: +1)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 165/
+    - 85/-10
+    - 196/+3
+    - 202/
+    - 100/+4
+    - 'Kenny Thomas (On: +14&#9642;Off: -1&#9642;Net: +15)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 65/+4
+    - 144/
+    - 40/-5
+    - 249/+2
+    - 34/0
+    - 147/
+    - 68/+3
+    - 'Kelvin Cato (On: +6&#9642;Off: +7&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 162/+2
+    - 288/
+    - 49/-1
+    - 142/+5
+    - 107/
+    - 'Moochie Norris (On: +6&#9642;Off: +7&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 197/-3
+    - 303/
+    - 250/+9
+    - 'Dan Langhi (On: -13&#9642;Off: +26&#9642;Net: -39)'
+    - "\n"
+    - 295/
+    - 205/-13
+    - 501/
+    - 'Matt Bullard (On: -1&#9642;Off: +14&#9642;Net: -15)'
+    - "\n"
+    - 318/
+    - 140/-7
+    - 330/
+    - 137/+6
+    - 74/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

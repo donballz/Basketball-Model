@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Darrell Armstrong (On: +24&#9642;Off: -10&#9642;Net: +34)'
+    - |2-
+
+      +6
+    - 244/+6
+    - 111/
+    - 144/-7
+    - 218/+14
+    - 58/
+    - 223/+11
+    - 'Andrew DeClercq (On: +9&#9642;Off: +5&#9642;Net: +4)'
+    - |2-
+
+      +5
+    - 127/+5
+    - 269/
+    - 11/0
+    - 92/
+    - 56/-3
+    - 252/
+    - 144/+7
+    - 45/
+    - 'Tracy McGrady (On: +20&#9642;Off: -6&#9642;Net: +26)'
+    - |2-
+
+      +5
+    - 223/+5
+    - 94/
+    - 182/-11
+    - 207/+14
+    - 102/
+    - 190/+12
+    - 'Mike Miller (On: +5&#9642;Off: +9&#9642;Net: -4)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 106/
+    - 144/-7
+    - 91/-1
+    - 120/
+    - 38/0
+    - 249/+7
+    - 'Bo Outlaw (On: +24&#9642;Off: -10&#9642;Net: +34)'
+    - |2-
+
+      +5
+    - 223/+5
+    - 117/
+    - 159/-7
+    - 229/+14
+    - 79/
+    - 191/+12
+    - 'Pat Garrity (On: -10&#9642;Off: +24&#9642;Net: -34)'
+    - "\n"
+    - 127/
+    - 122/+1
+    - 104/-6
+    - 378/
+    - 16/0
+    - 56/-5
+    - 194/
+    - 'John Amaechi (On: +4&#9642;Off: +10&#9642;Net: -6)'
+    - "\n"
+    - 226/
+    - 23/+1
+    - 143/-9
+    - 163/
+    - 192/+17
+    - 56/-5
+    - 194/
+    - 'Monty Williams (On: -10&#9642;Off: +24&#9642;Net: -34)'
+    - "\n"
+    - 227/
+    - 23/+1
+    - 84/-6
+    - 415/
+    - 56/-5
+    - 193/
+    - 'Troy Hudson (On: -10&#9642;Off: +24&#9642;Net: -34)'
+    - "\n"
+    - 248/
+    - 1/0
+    - 104/-6
+    - 370/
+    - 25/0
+    - 22/-4
+    - 227/
+    - 'James Robinson (On: +13&#9642;Off: +1&#9642;Net: +12)'
+    - "\n"
+    - 250/
+    - 64/-2
+    - 282/
+    - 154/+15
+    - 249/
+    - 'Michael Doleac (On: -4&#9642;Off: +18&#9642;Net: -22)'
+    - "\n"
+    - 414/
+    - 87/-4
+    - 500/
+    - 'Don Reid (On: +5&#9642;Off: +9&#9642;Net: -4)'
+    - "\n"
+    - 961/
+    - 41/+5
+  - - New Jersey Nets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Lucious Harris (On: -22&#9642;Off: +8&#9642;Net: -30)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 25/0
+    - 114/
+    - 110/+6
+    - 207/-14
+    - 223/
+    - 69/-8
+    - 'Stephen Jackson (On: +2&#9642;Off: -16&#9642;Net: +18)'
+    - |2-
+
+      -4
+    - 177/-4
+    - 100/
+    - 108/+7
+    - 39/
+    - 74/+8
+    - 165/-12
+    - 84/
+    - 153/+3
+    - 95/
+    - 'Stephon Marbury (On: -24&#9642;Off: +10&#9642;Net: -34)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 117/
+    - 132/+9
+    - 250/-14
+    - 112/
+    - 137/-13
+    - 'Kenyon Martin (On: -26&#9642;Off: +12&#9642;Net: -38)'
+    - |2-
+
+      -6
+    - 250/-6
+    - 106/
+    - 144/+7
+    - 207/-14
+    - 155/
+    - 136/-13
+    - 'Keith Van Horn (On: -16&#9642;Off: +2&#9642;Net: -18)'
+    - |2-
+
+      -4
+    - 177/-4
+    - 71/
+    - 170/+5
+    - 79/
+    - 163/-13
+    - 47/
+    - 38/0
+    - 109/+6
+    - 44/
+    - 96/-10
+    - 'Johnny Newman (On: +3&#9642;Off: -17&#9642;Net: +20)'
+    - "\n"
+    - 184/
+    - 65/-2
+    - 104/+6
+    - 318/
+    - 77/-2
+    - 176/+1
+    - 73/
+    - 'Aaron Williams (On: +3&#9642;Off: -17&#9642;Net: +20)'
+    - "\n"
+    - 184/
+    - 65/-2
+    - 250/+13
+    - 165/
+    - 84/-1
+    - 250/-7
+    - 'Sherman Douglas (On: +10&#9642;Off: -24&#9642;Net: +34)'
+    - "\n"
+    - 250/
+    - 112/+4
+    - 348/
+    - 38/0
+    - 109/+6
+    - 141/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,211 @@
+---
+- name: Plus-Minus
+  data:
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: -2&#9642;Off: -8&#9642;Net: +6)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 89/+4
+    - 73/
+    - 87/-5
+    - 186/+1
+    - 63/
+    - 250/-3
+    - 'Sam Cassell (On: -12&#9642;Off: +2&#9642;Net: -14)'
+    - |2-
+
+      +1
+    - 237/+1
+    - 106/
+    - 155/-5
+    - 249/-7
+    - 93/
+    - 142/-1
+    - 15/
+    - 'Darvin Ham (On: +1&#9642;Off: -11&#9642;Net: +12)'
+    - |2-
+
+      +3
+    - 212/+3
+    - 288/
+    - 134/-2
+    - 359/
+    - 6/0
+    - 'Glenn Robinson (On: -14&#9642;Off: +4&#9642;Net: -18)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 89/+4
+    - 110/
+    - 50/-7
+    - 249/-7
+    - 84/
+    - 166/-5
+    - 'Scott Williams (On: -9&#9642;Off: -1&#9642;Net: -8)'
+    - |2-
+
+      +1
+    - 237/+1
+    - 211/
+    - 49/-7
+    - 134/-2
+    - 281/
+    - 58/+1
+    - 13/
+    - 1/-2
+    - 11/
+    - 'Tim Thomas (On: -11&#9642;Off: +1&#9642;Net: -12)'
+    - "\n"
+    - 217/
+    - 32/-2
+    - 195/+6
+    - 35/
+    - 19/-7
+    - 135/
+    - 114/-5
+    - 108/-2
+    - 57/
+    - 82/-1
+    - 'Lindsey Hunter (On: -6&#9642;Off: -4&#9642;Net: -2)'
+    - "\n"
+    - 243/
+    - 6/0
+    - 155/+4
+    - 287/
+    - 56/-8
+    - 86/0
+    - 142/
+    - 21/-2
+    - 'Ervin Johnson (On: +3&#9642;Off: -13&#9642;Net: +16)'
+    - "\n"
+    - 243/
+    - 6/0
+    - 195/+6
+    - 189/
+    - 114/-5
+    - 80/+2
+    - 33/
+    - 52/0
+    - 83/
+    - 'Jason Caffey (On: 0&#9642;Off: -10&#9642;Net: +10)'
+    - "\n"
+    - 344/
+    - 136/+2
+    - 269/
+    - 165/-2
+    - 85/
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 94/
+    - 155/+5
+    - 249/+7
+    - 35/0
+    - 79/
+    - 136/+1
+    - 'Elden Campbell (On: -3&#9642;Off: +13&#9642;Net: -16)'
+    - |2-
+
+      +1
+    - 129/+1
+    - 119/
+    - 194/-6
+    - 54/
+    - 134/+2
+    - 114/
+    - 71/0
+    - 73/
+    - 79/-2
+    - 13/
+    - 13/+2
+    - 'Baron Davis (On: +7&#9642;Off: +3&#9642;Net: +4)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 94/
+    - 101/-2
+    - 54/
+    - 249/+7
+    - 54/+2
+    - 59/
+    - 136/+1
+    - 'Jamal Mashburn (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 89/-4
+    - 56/
+    - 104/+8
+    - 249/+7
+    - 59/
+    - 191/+1
+    - 'David Wesley (On: +1&#9642;Off: +9&#9642;Net: -8)'
+    - |2-
+
+      -3
+    - 212/-3
+    - 38/
+    - 250/+1
+    - 194/0
+    - 55/
+    - 249/+3
+    - 'Jamaal Magloire (On: +13&#9642;Off: -3&#9642;Net: +16)'
+    - "\n"
+    - 132/
+    - 116/-2
+    - 199/
+    - 49/+7
+    - 139/
+    - 110/+5
+    - 75/
+    - 65/+3
+    - 110/
+    - 'Eddie Robinson (On: +11&#9642;Off: -1&#9642;Net: +12)'
+    - "\n"
+    - 217/
+    - 32/+2
+    - 140/-7
+    - 59/
+    - 49/+7
+    - 198/
+    - 50/+7
+    - 108/+2
+    - 119/
+    - 6/0
+    - 15/
+    - 'Otis Thorpe (On: -2&#9642;Off: +12&#9642;Net: -14)'
+    - "\n"
+    - 250/
+    - 89/-4
+    - 451/
+    - 68/+2
+    - 141/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,2622 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: E. Campbell vs. A. Mourning (J. Mashburn gains possession)'
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Shooting foul by A. Carter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-1
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-1
+    - ''
+    - E. Campbell misses free throw 2 of 2
+  - - '11:44.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 0-1
+    - ''
+    - ''
+  - - '11:27.0'
+    - A. Carter makes 2-pt shot from 16 ft (assist by E. Jones)
+    - "+2"
+    - 2-1
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 2-1
+    - ''
+    - D. Wesley misses 2-pt shot from 18 ft
+  - - '11:03.0'
+    - ''
+    - ''
+    - 2-3
+    - "+2"
+    - P. Brown makes 2-pt shot at rim
+  - - '11:03.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - Offensive rebound by P. Brown
+  - - '10:48.0'
+    - A. Mourning makes 2-pt shot from 6 ft
+    - "+2"
+    - 4-3
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - P. Brown misses 2-pt shot at rim
+  - - '10:33.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '10:25.0'
+    - E. Jones misses 2-pt shot from 17 ft
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - Defensive rebound by P. Brown
+  - - '10:16.0'
+    - ''
+    - ''
+    - 4-6
+    - "+3"
+    - D. Wesley makes 3-pt shot from 24 ft (assist by B. Davis)
+  - - '10:05.0'
+    - Turnover by A. Carter (lost ball; steal by B. Davis)
+    - ''
+    - 4-6
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 4-8
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim
+  - - '9:33.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:33.0'
+    - A. Mourning makes free throw 1 of 2
+    - "+1"
+    - 5-8
+    - ''
+    - ''
+  - - '9:33.0'
+    - A. Mourning makes free throw 2 of 2
+    - "+1"
+    - 6-8
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - P. Brown misses 2-pt shot at rim (block by A. Mourning)
+  - - '9:17.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Offensive rebound by D. Wesley
+  - - '9:15.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - D. Wesley misses 2-pt shot from 17 ft
+  - - '9:12.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '9:03.0'
+    - A. Mourning misses 2-pt shot at rim
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '9:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '8:51.0'
+    - E. Jones misses 2-pt shot from 18 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '8:48.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '8:33.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - J. Mashburn misses 2-pt shot from 15 ft
+  - - '8:31.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '8:30.0'
+    - Turnover by A. Carter (double dribble)
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Personal foul by A. Carter
+  - - '8:13.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - J. Mashburn misses 3-pt shot from 24 ft
+  - - '8:11.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:59.0'
+    - A. Mason misses 2-pt shot from 14 ft
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '7:41.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - B. Davis misses 3-pt shot from 29 ft
+  - - '7:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:39.0'
+    - Loose ball foul by E. Campbell
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - J. Magloire enters the game for E. Campbell
+  - - '7:25.0'
+    - Turnover by A. Mason (lost ball)
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:18.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Turnover by P. Brown (traveling)
+  - - '7:06.0'
+    - B. Bowen misses 2-pt shot at rim (block by J. Magloire)
+    - ''
+    - 6-8
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Defensive rebound by Team
+  - - '6:55.0'
+    - ''
+    - ''
+    - 6-8
+    - ''
+    - Turnover by J. Magloire (3 second)
+  - - '6:43.0'
+    - E. Jones makes 2-pt shot from 20 ft (assist by A. Carter)
+    - "+2"
+    - 8-8
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - B. Davis misses 2-pt shot at rim (block by A. Mourning)
+  - - '6:22.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:18.0'
+    - E. Jones misses 2-pt shot from 18 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '6:16.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '6:05.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - D. Wesley misses 2-pt shot from 20 ft
+  - - '6:02.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '5:49.0'
+    - A. Mourning misses 2-pt shot from 8 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '5:25.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - B. Davis makes 2-pt shot from 18 ft
+  - - '5:11.0'
+    - Offensive foul by A. Mourning
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '5:11.0'
+    - Turnover by A. Mourning (foul)
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 8-10
+    - ''
+    - Charlotte full timeout
+  - - '5:11.0'
+    - B. Grant enters the game for A. Mourning
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 8-12
+    - "+2"
+    - B. Davis makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '4:39.0'
+    - E. Jones makes 2-pt shot from 21 ft (assist by A. Carter)
+    - "+2"
+    - 10-12
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 10-14
+    - "+2"
+    - P. Brown makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '4:19.0'
+    - Turnover by A. Carter (bad pass; steal by P. Brown)
+    - ''
+    - 10-14
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 10-16
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '3:57.0'
+    - E. Jones misses 3-pt shot from 28 ft
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 10-16
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '3:47.0'
+    - ''
+    - ''
+    - 10-16
+    - ''
+    - P. Brown misses 2-pt shot from 15 ft
+  - - '3:45.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '3:28.0'
+    - Turnover by B. Grant (lost ball; steal by D. Wesley)
+    - ''
+    - 10-16
+    - ''
+    - ''
+  - - '3:13.0'
+    - ''
+    - ''
+    - 10-18
+    - "+2"
+    - J. Mashburn makes 2-pt shot at rim
+  - - '3:05.0'
+    - Miami full timeout
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '3:05.0'
+    - D. Majerle enters the game for B. Bowen
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '3:05.0'
+    - A. Mourning enters the game for A. Mason
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '3:05.0'
+    - E. House enters the game for A. Carter
+    - ''
+    - 10-18
+    - ''
+    - ''
+  - - '2:54.0'
+    - B. Grant makes 2-pt shot from 8 ft
+    - "+2"
+    - 12-18
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 12-18
+    - ''
+    - Turnover by B. Davis (bad pass; steal by E. Jones)
+  - - '2:30.0'
+    - E. Jones makes 2-pt shot from 18 ft
+    - "+2"
+    - 14-18
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 14-21
+    - "+3"
+    - J. Mashburn makes 3-pt shot from 29 ft
+  - - '1:57.0'
+    - Personal foul by J. Magloire
+    - ''
+    - 14-21
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 14-21
+    - ''
+    - E. Robinson enters the game for D. Wesley
+  - - '1:47.0'
+    - B. Grant makes 2-pt shot from 17 ft (assist by E. House)
+    - "+2"
+    - 16-21
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Personal foul by D. Majerle
+  - - '1:25.0'
+    - ''
+    - ''
+    - 16-23
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 17 ft (assist by P. Brown)
+  - - '1:15.0'
+    - Offensive foul by A. Mourning
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '1:15.0'
+    - Turnover by A. Mourning (foul)
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:57.5'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - J. Mashburn misses 2-pt shot from 16 ft
+  - - '0:55.3'
+    - Defensive rebound by E. Jones
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:44.4'
+    - B. Grant misses 2-pt shot from 7 ft (block by P. Brown)
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - Offensive rebound by B. Grant
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - Shooting foul by J. Magloire
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - A. Green enters the game for A. Mourning
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - B. Grant misses free throw 1 of 2
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - Offensive rebound by Team
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - A. Mason enters the game for E. Jones
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '0:43.4'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - D. Coleman enters the game for J. Magloire
+  - - '0:43.4'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 17-23
+    - ''
+    - ''
+  - - '0:28.7'
+    - ''
+    - ''
+    - 17-23
+    - ''
+    - Personal foul by E. House
+  - - '0:28.7'
+    - ''
+    - ''
+    - 17-24
+    - "+1"
+    - B. Davis makes free throw 1 of 2
+  - - '0:28.7'
+    - ''
+    - ''
+    - 17-25
+    - "+1"
+    - B. Davis makes free throw 2 of 2
+  - - '0:07.6'
+    - Turnover by D. Majerle (bad pass; steal by B. Davis)
+    - ''
+    - 17-25
+    - ''
+    - ''
+  - - '0:04.4'
+    - ''
+    - ''
+    - 17-27
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - E. House makes 2-pt shot from 16 ft
+    - "+2"
+    - 19-27
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 19-29
+    - "+2"
+    - E. Robinson makes 2-pt shot from 19 ft (assist by J. Mashburn)
+  - - '11:08.0'
+    - B. Grant makes 2-pt shot from 19 ft (assist by A. Mason)
+    - "+2"
+    - 21-29
+    - ''
+    - ''
+  - - '10:47.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - E. Robinson misses 2-pt shot from 13 ft
+  - - '10:45.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '10:27.0'
+    - A. Green misses 2-pt shot from 16 ft
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '10:25.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '10:15.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - D. Coleman misses 2-pt shot from 15 ft
+  - - '10:14.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Offensive rebound by D. Coleman
+  - - '10:14.0'
+    - ''
+    - ''
+    - 21-29
+    - ''
+    - Shooting foul by B. Grant
+  - - '10:14.0'
+    - C. Ceballos enters the game for A. Green
+    - ''
+    - 21-29
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 21-30
+    - "+1"
+    - D. Coleman makes free throw 1 of 2
+  - - '10:14.0'
+    - ''
+    - ''
+    - 21-30
+    - ''
+    - D. Coleman misses free throw 2 of 2
+  - - '10:13.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 21-30
+    - ''
+    - ''
+  - - '9:56.0'
+    - B. Grant misses 2-pt shot from 6 ft
+    - ''
+    - 21-30
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 21-30
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '9:44.0'
+    - ''
+    - ''
+    - 21-30
+    - ''
+    - H. Hawkins misses 3-pt shot from 27 ft
+  - - '9:41.0'
+    - ''
+    - ''
+    - 21-30
+    - ''
+    - Offensive rebound by J. Mashburn
+  - - '9:38.0'
+    - ''
+    - ''
+    - 21-32
+    - "+2"
+    - E. Campbell makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '9:29.0'
+    - E. House misses 2-pt shot from 9 ft
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '9:20.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - D. Coleman misses 3-pt shot from 26 ft
+  - - '9:18.0'
+    - Defensive rebound by C. Ceballos
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '9:08.0'
+    - Personal foul by E. Campbell
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '9:08.0'
+    - A. Mourning enters the game for B. Grant
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - P. Brown enters the game for E. Campbell
+  - - '8:56.0'
+    - C. Ceballos misses 2-pt shot from 7 ft
+    - ''
+    - 21-32
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '8:35.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - Shooting foul by C. Ceballos
+  - - '8:35.0'
+    - ''
+    - ''
+    - 21-32
+    - ''
+    - Official timeout
+  - - '8:35.0'
+    - ''
+    - ''
+    - 21-33
+    - "+1"
+    - J. Mashburn makes free throw 1 of 2
+  - - '8:35.0'
+    - ''
+    - ''
+    - 21-34
+    - "+1"
+    - J. Mashburn makes free throw 2 of 2
+  - - '8:18.0'
+    - E. House misses 3-pt shot from 26 ft
+    - ''
+    - 21-34
+    - ''
+    - ''
+  - - '8:16.0'
+    - ''
+    - ''
+    - 21-34
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '7:56.0'
+    - ''
+    - ''
+    - 21-36
+    - "+2"
+    - E. Robinson makes 2-pt shot from 18 ft (assist by J. Mashburn)
+  - - '7:38.0'
+    - A. Mourning makes 2-pt shot from 16 ft (assist by D. Majerle)
+    - "+2"
+    - 23-36
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 23-38
+    - "+2"
+    - E. Robinson makes 2-pt shot from 18 ft (assist by D. Coleman)
+  - - '7:03.0'
+    - Miami 20 second timeout
+    - ''
+    - 23-38
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 23-38
+    - ''
+    - B. Davis enters the game for J. Mashburn
+  - - '7:03.0'
+    - E. Jones enters the game for D. Majerle
+    - ''
+    - 23-38
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 23-38
+    - ''
+    - Violation by E. Robinson (kicked ball)
+  - - '6:52.0'
+    - A. Carter enters the game for E. House
+    - ''
+    - 23-38
+    - ''
+    - ''
+  - - '6:42.0'
+    - A. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 23-38
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 23-38
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '6:36.0'
+    - ''
+    - ''
+    - 23-40
+    - "+2"
+    - E. Robinson makes 2-pt shot at rim (assist by H. Hawkins)
+  - - '6:20.0'
+    - A. Mason makes 2-pt shot from 14 ft (assist by A. Carter)
+    - "+2"
+    - 25-40
+    - ''
+    - ''
+  - - '6:01.0'
+    - ''
+    - ''
+    - 25-40
+    - ''
+    - B. Davis misses 2-pt shot at rim
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-40
+    - ''
+    - Offensive rebound by P. Brown
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-40
+    - ''
+    - Shooting foul by A. Carter
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-40
+    - ''
+    - P. Brown misses free throw 1 of 2
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-40
+    - ''
+    - Offensive rebound by Team
+  - - '6:00.0'
+    - B. Grant enters the game for A. Mourning
+    - ''
+    - 25-40
+    - ''
+    - ''
+  - - '6:00.0'
+    - B. Bowen enters the game for C. Ceballos
+    - ''
+    - 25-40
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 25-41
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '5:39.0'
+    - B. Grant misses 2-pt shot at rim
+    - ''
+    - 25-41
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 25-41
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '5:31.0'
+    - ''
+    - ''
+    - 25-43
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '5:22.0'
+    - Miami full timeout
+    - ''
+    - 25-43
+    - ''
+    - ''
+  - - '5:13.0'
+    - Shooting foul by D. Coleman
+    - ''
+    - 25-43
+    - ''
+    - ''
+  - - '5:13.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 26-43
+    - ''
+    - ''
+  - - '5:13.0'
+    - ''
+    - ''
+    - 26-43
+    - ''
+    - D. Wesley enters the game for E. Robinson
+  - - '5:13.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 27-43
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 27-45
+    - "+2"
+    - D. Coleman makes 2-pt shot from 13 ft (assist by B. Davis)
+  - - '4:33.0'
+    - Turnover by A. Carter (bad pass)
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 27-45
+    - ''
+    - D. Coleman misses 2-pt shot from 14 ft
+  - - '4:14.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '4:05.0'
+    - A. Carter misses 2-pt shot from 17 ft
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 27-45
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '3:57.0'
+    - Double technical foul by B. Davis and A. Carter
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 27-45
+    - ''
+    - Charlotte full timeout
+  - - '3:57.0'
+    - E. House enters the game for B. Bowen
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '3:57.0'
+    - A. Mourning enters the game for A. Carter
+    - ''
+    - 27-45
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 27-45
+    - ''
+    - J. Mashburn enters the game for H. Hawkins
+  - - '3:43.0'
+    - ''
+    - ''
+    - 27-45
+    - ''
+    - Shooting foul by A. Mason
+  - - '3:43.0'
+    - ''
+    - ''
+    - 27-46
+    - "+1"
+    - J. Mashburn makes free throw 1 of 2
+  - - '3:43.0'
+    - ''
+    - ''
+    - 27-47
+    - "+1"
+    - J. Mashburn makes free throw 2 of 2
+  - - '3:30.0'
+    - Turnover by E. House (lost ball; steal by D. Wesley)
+    - ''
+    - 27-47
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 27-49
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim
+  - - '3:28.0'
+    - ''
+    - ''
+    - 27-49
+    - ''
+    - Shooting foul by E. Jones
+  - - '3:28.0'
+    - ''
+    - ''
+    - 27-50
+    - "+1"
+    - D. Wesley makes free throw 1 of 1
+  - - '3:09.0'
+    - E. House makes 2-pt shot from 20 ft (assist by A. Mason)
+    - "+2"
+    - 29-50
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 29-52
+    - "+2"
+    - D. Wesley makes 2-pt shot from 19 ft
+  - - '2:38.0'
+    - Turnover by A. Mason (bad pass)
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 29-52
+    - ''
+    - J. Mashburn misses 2-pt shot from 18 ft
+  - - '2:13.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '2:08.0'
+    - E. House misses 2-pt shot at rim
+    - ''
+    - 29-52
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 29-52
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '2:00.0'
+    - ''
+    - ''
+    - 29-54
+    - "+2"
+    - B. Davis makes 2-pt shot at rim (assist by D. Wesley)
+  - - '1:44.0'
+    - D. Majerle enters the game for A. Mason
+    - ''
+    - 29-54
+    - ''
+    - ''
+  - - '1:38.0'
+    - E. House makes 2-pt shot from 20 ft (assist by A. Mourning)
+    - "+2"
+    - 31-54
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 31-54
+    - ''
+    - Turnover by B. Davis (bad pass)
+  - - '1:08.0'
+    - Turnover by E. House (bad pass; steal by D. Wesley)
+    - ''
+    - 31-54
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 31-56
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim
+  - - '0:44.7'
+    - D. Majerle misses 3-pt shot from 27 ft
+    - ''
+    - 31-56
+    - ''
+    - ''
+  - - '0:41.4'
+    - ''
+    - ''
+    - 31-56
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:40.0'
+    - ''
+    - ''
+    - 31-56
+    - ''
+    - Personal foul by B. Grant
+  - - '0:40.0'
+    - ''
+    - ''
+    - 31-57
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '0:40.0'
+    - ''
+    - ''
+    - 31-58
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '0:27.3'
+    - E. House misses 2-pt shot from 17 ft
+    - ''
+    - 31-58
+    - ''
+    - ''
+  - - '0:25.1'
+    - ''
+    - ''
+    - 31-58
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:02.8'
+    - ''
+    - ''
+    - 31-58
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:00.3'
+    - E. House misses 2-pt shot at rim (block by P. Brown)
+    - ''
+    - 31-58
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 31-58
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - E. Jones makes 3-pt shot from 27 ft (assist by A. Carter)
+    - "+3"
+    - 34-58
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 34-58
+    - ''
+    - J. Mashburn misses 2-pt shot from 18 ft
+  - - '11:17.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 34-58
+    - ''
+    - ''
+  - - '11:00.0'
+    - Personal foul by E. Campbell
+    - ''
+    - 34-58
+    - ''
+    - ''
+  - - '10:45.0'
+    - A. Carter misses 2-pt shot at rim
+    - ''
+    - 34-58
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 34-58
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '10:26.0'
+    - ''
+    - ''
+    - 34-58
+    - ''
+    - B. Davis misses 3-pt shot from 26 ft
+  - - '10:24.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 34-58
+    - ''
+    - ''
+  - - '10:15.0'
+    - Turnover by E. Jones (bad pass; steal by B. Davis)
+    - ''
+    - 34-58
+    - ''
+    - ''
+  - - '10:11.0'
+    - ''
+    - ''
+    - 34-60
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '9:52.0'
+    - A. Carter makes 2-pt shot from 19 ft (assist by E. Jones)
+    - "+2"
+    - 36-60
+    - ''
+    - ''
+  - - '9:37.0'
+    - ''
+    - ''
+    - 36-62
+    - "+2"
+    - E. Campbell makes 2-pt shot at rim (assist by J. Mashburn)
+  - - '9:34.0'
+    - Miami 20 second timeout
+    - ''
+    - 36-62
+    - ''
+    - ''
+  - - '9:19.0'
+    - E. Jones makes 2-pt shot from 18 ft
+    - "+2"
+    - 38-62
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 38-62
+    - ''
+    - E. Campbell misses 2-pt shot from 18 ft
+  - - '8:51.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 38-62
+    - ''
+    - ''
+  - - '8:48.0'
+    - Shooting foul by D. Wesley
+    - ''
+    - 38-62
+    - ''
+    - ''
+  - - '8:48.0'
+    - E. Jones makes free throw 1 of 2
+    - "+1"
+    - 39-62
+    - ''
+    - ''
+  - - '8:48.0'
+    - E. Jones makes free throw 2 of 2
+    - "+1"
+    - 40-62
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 40-62
+    - ''
+    - D. Wesley misses 3-pt shot from 26 ft
+  - - '8:21.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 40-62
+    - ''
+    - ''
+  - - '8:15.0'
+    - E. Jones makes 2-pt shot at rim (assist by A. Carter)
+    - "+2"
+    - 42-62
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - Charlotte full timeout
+  - - '7:51.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - Turnover by P. Brown (traveling)
+  - - '7:32.0'
+    - Turnover by Team (back court)
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - E. Robinson enters the game for P. Brown
+  - - '7:20.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - D. Wesley misses 2-pt shot from 19 ft
+  - - '7:19.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '7:06.0'
+    - A. Carter misses 2-pt shot from 19 ft
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - Defensive rebound by E. Robinson
+  - - '6:52.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - Turnover by E. Campbell (lost ball; steal by A. Mason)
+  - - '6:45.0'
+    - Turnover by A. Carter (bad pass; steal by D. Wesley)
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '6:26.0'
+    - ''
+    - ''
+    - 42-62
+    - ''
+    - Personal foul by B. Bowen
+  - - '6:26.0'
+    - E. House enters the game for A. Carter
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '6:26.0'
+    - D. Majerle enters the game for B. Bowen
+    - ''
+    - 42-62
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 42-64
+    - "+2"
+    - J. Mashburn makes 2-pt shot from 17 ft (assist by D. Wesley)
+  - - '5:53.0'
+    - A. Mason misses 2-pt shot at rim (block by E. Campbell)
+    - ''
+    - 42-64
+    - ''
+    - ''
+  - - '5:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 42-64
+    - ''
+    - ''
+  - - '5:51.0'
+    - E. House misses 2-pt shot from 17 ft
+    - ''
+    - 42-64
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 42-64
+    - ''
+    - Defensive rebound by E. Robinson
+  - - '5:45.0'
+    - ''
+    - ''
+    - 42-64
+    - ''
+    - Shooting foul by E. House
+  - - '5:45.0'
+    - ''
+    - ''
+    - 42-65
+    - "+1"
+    - B. Davis makes free throw 1 of 2
+  - - '5:45.0'
+    - B. Grant enters the game for A. Mason
+    - ''
+    - 42-65
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 42-65
+    - ''
+    - B. Davis misses free throw 2 of 2
+  - - '5:43.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 42-65
+    - ''
+    - ''
+  - - '5:34.0'
+    - E. Jones makes 2-pt shot from 18 ft
+    - "+2"
+    - 44-65
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 44-67
+    - "+2"
+    - E. Robinson makes 2-pt shot from 15 ft (assist by J. Mashburn)
+  - - '4:53.0'
+    - Personal foul by B. Davis
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:48.0'
+    - B. Grant misses 2-pt shot at rim
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:48.0'
+    - Offensive rebound by Team
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:45.0'
+    - E. House misses 2-pt shot from 17 ft
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 44-67
+    - ''
+    - Defensive rebound by Team
+  - - '4:20.0'
+    - ''
+    - ''
+    - 44-67
+    - ''
+    - E. Robinson misses 2-pt shot from 19 ft
+  - - '4:18.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:12.0'
+    - B. Grant misses 2-pt shot from 6 ft
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - D. Majerle misses 2-pt shot at rim
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - Offensive rebound by D. Majerle
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - Offensive rebound by D. Majerle
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 44-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - D. Majerle makes free throw 1 of 2
+    - "+1"
+    - 45-67
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 45-67
+    - ''
+    - D. Coleman enters the game for E. Campbell
+  - - '4:08.0'
+    - D. Majerle misses free throw 2 of 2
+    - ''
+    - 45-67
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 45-67
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '3:52.0'
+    - ''
+    - ''
+    - 45-67
+    - ''
+    - J. Mashburn misses 2-pt shot from 17 ft
+  - - '3:50.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 45-67
+    - ''
+    - ''
+  - - '3:36.0'
+    - B. Grant makes 2-pt shot from 16 ft (assist by E. Jones)
+    - "+2"
+    - 47-67
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 47-67
+    - ''
+    - Shooting foul by B. Grant
+  - - '3:19.0'
+    - ''
+    - ''
+    - 47-68
+    - "+1"
+    - J. Mashburn makes free throw 1 of 2
+  - - '3:19.0'
+    - ''
+    - ''
+    - 47-69
+    - "+1"
+    - J. Mashburn makes free throw 2 of 2
+  - - '3:08.0'
+    - Personal foul by D. Coleman
+    - ''
+    - 47-69
+    - ''
+    - ''
+  - - '3:08.0'
+    - Miami full timeout
+    - ''
+    - 47-69
+    - ''
+    - ''
+  - - '3:08.0'
+    - A. Mourning makes free throw 1 of 2
+    - "+1"
+    - 48-69
+    - ''
+    - ''
+  - - '3:08.0'
+    - A. Mourning makes free throw 2 of 2
+    - "+1"
+    - 49-69
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 49-69
+    - ''
+    - D. Wesley misses 2-pt shot from 16 ft
+  - - '2:46.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 49-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - Personal foul by D. Coleman
+    - ''
+    - 49-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - A. Mourning misses free throw 1 of 2
+    - ''
+    - 49-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - Offensive rebound by Team
+    - ''
+    - 49-69
+    - ''
+    - ''
+  - - '2:41.0'
+    - A. Mourning misses free throw 2 of 2
+    - ''
+    - 49-69
+    - ''
+    - ''
+  - - '2:39.0'
+    - ''
+    - ''
+    - 49-69
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '2:22.0'
+    - ''
+    - ''
+    - 49-69
+    - ''
+    - J. Mashburn misses 2-pt shot at rim
+  - - '2:20.0'
+    - ''
+    - ''
+    - 49-69
+    - ''
+    - D. Coleman misses 2-pt shot at rim
+  - - '2:20.0'
+    - ''
+    - ''
+    - 49-69
+    - ''
+    - Offensive rebound by D. Coleman
+  - - '2:17.0'
+    - ''
+    - ''
+    - 49-71
+    - "+2"
+    - D. Coleman makes 2-pt shot at rim
+  - - '2:17.0'
+    - ''
+    - ''
+    - 49-71
+    - ''
+    - Offensive rebound by D. Coleman
+  - - '2:00.0'
+    - B. Grant makes 2-pt shot from 8 ft (assist by E. Jones)
+    - "+2"
+    - 51-71
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 51-71
+    - ''
+    - Charlotte 20 second timeout
+  - - '1:49.0'
+    - ''
+    - ''
+    - 51-71
+    - ''
+    - P. Brown enters the game for D. Wesley
+  - - '1:40.0'
+    - ''
+    - ''
+    - 51-73
+    - "+2"
+    - E. Robinson makes 2-pt shot from 10 ft (assist by J. Mashburn)
+  - - '1:21.0'
+    - E. Jones makes 2-pt shot from 16 ft (assist by E. House)
+    - "+2"
+    - 53-73
+    - ''
+    - ''
+  - - '0:57.0'
+    - ''
+    - ''
+    - 53-73
+    - ''
+    - J. Mashburn misses 2-pt shot from 16 ft
+  - - '0:54.7'
+    - Defensive rebound by B. Grant
+    - ''
+    - 53-73
+    - ''
+    - ''
+  - - '0:39.8'
+    - Shooting foul by E. Robinson
+    - ''
+    - 53-73
+    - ''
+    - ''
+  - - '0:39.8'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 54-73
+    - ''
+    - ''
+  - - '0:39.8'
+    - ''
+    - ''
+    - 54-73
+    - ''
+    - H. Hawkins enters the game for J. Mashburn
+  - - '0:39.8'
+    - A. Mason enters the game for A. Mourning
+    - ''
+    - 54-73
+    - ''
+    - ''
+  - - '0:39.8'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 55-73
+    - ''
+    - ''
+  - - '0:24.6'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - B. Davis misses 2-pt shot from 16 ft
+  - - '0:22.4'
+    - Defensive rebound by A. Mason
+    - ''
+    - 55-73
+    - ''
+    - ''
+  - - '0:12.7'
+    - E. House misses 3-pt shot from 24 ft
+    - ''
+    - 55-73
+    - ''
+    - ''
+  - - '0:12.3'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - Defensive rebound by Team
+  - - '0:00.4'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - Turnover by D. Coleman (lost ball)
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:53.0'
+    - ''
+    - ''
+    - 55-73
+    - ''
+    - Shooting foul by A. Mason
+  - - '11:53.0'
+    - ''
+    - ''
+    - 55-74
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '11:53.0'
+    - ''
+    - ''
+    - 55-75
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '11:31.0'
+    - E. Jones misses 2-pt shot from 16 ft (block by E. Robinson)
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '11:29.0'
+    - Offensive rebound by E. Jones
+    - ''
+    - 55-75
+    - ''
+    - ''
+  - - '11:26.0'
+    - E. Jones makes 3-pt shot from 24 ft
+    - "+3"
+    - 58-75
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 58-77
+    - "+2"
+    - P. Brown makes 2-pt shot from 18 ft (assist by E. Robinson)
+  - - '10:44.0'
+    - B. Grant misses 2-pt shot at rim
+    - ''
+    - 58-77
+    - ''
+    - ''
+  - - '10:42.0'
+    - B. Grant misses 2-pt shot at rim
+    - ''
+    - 58-77
+    - ''
+    - ''
+  - - '10:42.0'
+    - Offensive rebound by B. Grant
+    - ''
+    - 58-77
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 58-77
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '10:34.0'
+    - ''
+    - ''
+    - 58-79
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '10:17.0'
+    - B. Grant misses 2-pt shot from 19 ft
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Defensive rebound by P. Brown
+  - - '10:02.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - D. Coleman misses 3-pt shot from 24 ft
+  - - '9:59.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Offensive rebound by P. Brown
+  - - '9:59.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Shooting foul by E. Jones
+  - - '9:59.0'
+    - A. Mourning enters the game for B. Grant
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - P. Brown misses free throw 1 of 2
+  - - '9:59.0'
+    - ''
+    - ''
+    - 58-79
+    - ''
+    - Offensive rebound by Team
+  - - '9:59.0'
+    - B. Bowen enters the game for E. Jones
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '9:59.0'
+    - A. Green enters the game for A. Mason
+    - ''
+    - 58-79
+    - ''
+    - ''
+  - - '9:59.0'
+    - ''
+    - ''
+    - 58-80
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '9:48.0'
+    - E. House misses 2-pt shot from 10 ft
+    - ''
+    - 58-80
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Defensive rebound by P. Brown
+  - - '9:25.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - B. Davis misses 3-pt shot from 25 ft
+  - - '9:23.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 58-80
+    - ''
+    - ''
+  - - '9:07.0'
+    - A. Mourning misses 2-pt shot from 17 ft
+    - ''
+    - 58-80
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Defensive rebound by E. Robinson
+  - - '8:51.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Personal foul by D. Majerle
+  - - '8:51.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Official timeout
+  - - '8:38.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - D. Coleman misses 2-pt shot from 16 ft
+  - - '8:36.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Offensive rebound by J. Mashburn
+  - - '8:36.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:24.0'
+    - Turnover by D. Majerle (lost ball; steal by E. Robinson)
+    - ''
+    - 58-80
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 58-80
+    - ''
+    - Shooting foul by D. Majerle
+  - - '8:21.0'
+    - ''
+    - ''
+    - 58-81
+    - "+1"
+    - E. Robinson makes free throw 1 of 2
+  - - '8:21.0'
+    - ''
+    - ''
+    - 58-82
+    - "+1"
+    - E. Robinson makes free throw 2 of 2
+  - - '8:07.0'
+    - D. Majerle makes 3-pt shot from 26 ft (assist by A. Mourning)
+    - "+3"
+    - 61-82
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 61-82
+    - ''
+    - Personal foul by A. Mourning
+  - - '7:51.0'
+    - ''
+    - ''
+    - 61-83
+    - "+1"
+    - J. Mashburn makes free throw 1 of 2
+  - - '7:51.0'
+    - ''
+    - ''
+    - 61-84
+    - "+1"
+    - J. Mashburn makes free throw 2 of 2
+  - - '7:38.0'
+    - D. Majerle makes 3-pt shot from 27 ft
+    - "+3"
+    - 64-84
+    - ''
+    - ''
+  - - '7:38.0'
+    - Away from play foul by J. Mashburn
+    - ''
+    - 64-84
+    - ''
+    - ''
+  - - '7:38.0'
+    - E. Jones enters the game for B. Bowen
+    - ''
+    - 64-84
+    - ''
+    - ''
+  - - '7:38.0'
+    - A. Green makes free throw 1 of 1
+    - "+1"
+    - 65-84
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - Turnover by Team (shot clock)
+  - - '7:03.0'
+    - Shooting foul by E. Robinson
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '7:03.0'
+    - A. Mourning misses free throw 1 of 2
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '7:03.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '7:03.0'
+    - B. Grant enters the game for A. Green
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - E. Campbell enters the game for D. Coleman
+  - - '7:03.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - D. Wesley enters the game for E. Robinson
+  - - '7:03.0'
+    - A. Mourning misses free throw 2 of 2
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '6:39.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - E. Campbell misses 2-pt shot from 8 ft
+  - - '6:37.0'
+    - Defensive rebound by A. Mourning
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '6:16.0'
+    - D. Majerle misses 3-pt shot from 28 ft
+    - ''
+    - 65-84
+    - ''
+    - ''
+  - - '6:13.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - Defensive rebound by B. Davis
+  - - '6:10.0'
+    - ''
+    - ''
+    - 65-84
+    - ''
+    - Shooting foul by E. House
+  - - '6:10.0'
+    - ''
+    - ''
+    - 65-85
+    - "+1"
+    - J. Mashburn makes free throw 1 of 2
+  - - '6:10.0'
+    - ''
+    - ''
+    - 65-86
+    - "+1"
+    - J. Mashburn makes free throw 2 of 2
+  - - '5:56.0'
+    - E. House misses 2-pt shot from 10 ft
+    - ''
+    - 65-86
+    - ''
+    - ''
+  - - '5:54.0'
+    - Offensive rebound by A. Mourning
+    - ''
+    - 65-86
+    - ''
+    - ''
+  - - '5:50.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 65-86
+    - ''
+    - ''
+  - - '5:50.0'
+    - Miami full timeout
+    - ''
+    - 65-86
+    - ''
+    - ''
+  - - '5:50.0'
+    - B. Grant makes free throw 1 of 2
+    - "+1"
+    - 66-86
+    - ''
+    - ''
+  - - '5:50.0'
+    - B. Grant makes free throw 2 of 2
+    - "+1"
+    - 67-86
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 67-86
+    - ''
+    - P. Brown misses 2-pt shot at rim (block by A. Mourning)
+  - - '5:43.0'
+    - ''
+    - ''
+    - 67-86
+    - ''
+    - Offensive rebound by P. Brown
+  - - '5:31.0'
+    - ''
+    - ''
+    - 67-86
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '5:28.0'
+    - Defensive rebound by E. Jones
+    - ''
+    - 67-86
+    - ''
+    - ''
+  - - '5:10.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 67-86
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 67-86
+    - ''
+    - D. Coleman enters the game for E. Campbell
+  - - '5:10.0'
+    - D. Majerle misses free throw 1 of 2
+    - ''
+    - 67-86
+    - ''
+    - ''
+  - - '5:10.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-86
+    - ''
+    - ''
+  - - '5:10.0'
+    - D. Majerle makes free throw 2 of 2
+    - "+1"
+    - 68-86
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Turnover by B. Davis (bad pass; steal by E. House)
+  - - '4:52.0'
+    - E. House misses 2-pt shot from 7 ft
+    - ''
+    - 68-86
+    - ''
+    - ''
+  - - '4:49.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '4:36.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Personal foul by E. Jones
+  - - '4:36.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - D. Wesley misses free throw 1 of 2
+  - - '4:36.0'
+    - ''
+    - ''
+    - 68-86
+    - ''
+    - Offensive rebound by Team
+  - - '4:36.0'
+    - ''
+    - ''
+    - 68-87
+    - "+1"
+    - D. Wesley makes free throw 2 of 2
+  - - '4:19.0'
+    - B. Grant misses 2-pt shot at rim (block by D. Coleman)
+    - ''
+    - 68-87
+    - ''
+    - ''
+  - - '4:16.0'
+    - ''
+    - ''
+    - 68-87
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '4:12.0'
+    - Flagrant foul type 2 by D. Coleman
+    - ''
+    - 68-87
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 68-87
+    - ''
+    - Turnover by D. Coleman (foul)
+  - - '4:12.0'
+    - D. Coleman ejected from game
+    - ''
+    - 68-87
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 68-87
+    - ''
+    - E. Robinson enters the game for D. Coleman
+  - - '4:12.0'
+    - A. Mourning misses free throw flagrant 2 of 2
+    - ''
+    - 68-87
+    - ''
+    - ''
+  - - '4:12.0'
+    - Offensive rebound by Team
+    - ''
+    - 68-87
+    - ''
+    - ''
+  - - '4:12.0'
+    - A. Mourning makes no shot
+    - "+1"
+    - 69-87
+    - ''
+    - ''
+  - - '4:04.0'
+    - Personal foul by J. Mashburn
+    - ''
+    - 69-87
+    - ''
+    - ''
+  - - '4:04.0'
+    - A. Mourning misses free throw 1 of 2
+    - ''
+    - 69-87
+    - ''
+    - ''
+  - - '4:04.0'
+    - Offensive rebound by Team
+    - ''
+    - 69-87
+    - ''
+    - ''
+  - - '4:04.0'
+    - A. Mourning makes free throw 2 of 2
+    - "+1"
+    - 70-87
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 70-87
+    - ''
+    - E. Robinson misses 2-pt shot from 16 ft
+  - - '3:43.0'
+    - Defensive rebound by E. House
+    - ''
+    - 70-87
+    - ''
+    - ''
+  - - '3:36.0'
+    - E. House makes 2-pt shot from 19 ft
+    - "+2"
+    - 72-87
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 72-87
+    - ''
+    - J. Mashburn misses 2-pt shot from 14 ft
+  - - '3:12.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 72-87
+    - ''
+    - ''
+  - - '3:06.0'
+    - E. House makes 3-pt shot from 27 ft
+    - "+3"
+    - 75-87
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 75-87
+    - ''
+    - Charlotte full timeout
+  - - '2:56.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 75-87
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 75-89
+    - "+2"
+    - D. Wesley makes 2-pt shot from 21 ft (assist by B. Davis)
+  - - '2:25.0'
+    - A. Mourning makes 2-pt shot from 20 ft (assist by D. Majerle)
+    - "+2"
+    - 77-89
+    - ''
+    - ''
+  - - '2:00.0'
+    - ''
+    - ''
+    - 77-89
+    - ''
+    - D. Wesley misses 2-pt shot from 16 ft
+  - - '1:58.0'
+    - ''
+    - ''
+    - 77-89
+    - ''
+    - Offensive rebound by P. Brown
+  - - '1:40.0'
+    - ''
+    - ''
+    - 77-89
+    - ''
+    - Turnover by J. Mashburn (bad pass; steal by A. Green)
+  - - '1:20.0'
+    - A. Green misses 2-pt shot from 16 ft
+    - ''
+    - 77-89
+    - ''
+    - ''
+  - - '1:20.0'
+    - E. House makes 2-pt shot at rim
+    - "+2"
+    - 79-89
+    - ''
+    - ''
+  - - '1:20.0'
+    - Offensive rebound by E. House
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 79-91
+    - "+2"
+    - J. Mashburn makes 2-pt shot at rim (assist by E. Robinson)
+  - - '1:08.0'
+    - Miami full timeout
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '0:59.0'
+    - A. Mourning misses 2-pt shot at rim (block by P. Brown)
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '0:53.6'
+    - Offensive rebound by A. Mourning
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '0:52.7'
+    - A. Mourning misses 2-pt shot at rim
+    - ''
+    - 79-91
+    - ''
+    - ''
+  - - '0:52.7'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:52.7'
+    - ''
+    - ''
+    - 79-91
+    - ''
+    - Personal foul by A. Mourning
+  - - '0:52.7'
+    - ''
+    - ''
+    - 79-92
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '0:52.7'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - P. Brown misses free throw 2 of 2
+  - - '0:51.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 79-92
+    - ''
+    - ''
+  - - '0:34.7'
+    - E. House misses 2-pt shot from 9 ft
+    - ''
+    - 79-92
+    - ''
+    - ''
+  - - '0:31.4'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Defensive rebound by J. Mashburn
+  - - '0:07.7'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - D. Wesley misses 2-pt shot from 12 ft
+  - - '0:06.7'
+    - ''
+    - ''
+    - 79-94
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '0:06.7'
+    - ''
+    - ''
+    - 79-94
+    - ''
+    - Offensive rebound by B. Davis
+  - - '0:00.0'
+    - End of 4th quarter

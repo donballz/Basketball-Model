@@ -1,0 +1,201 @@
+---
+- name: Plus-Minus
+  data:
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Scottie Pippen (On: +4&#9642;Off: -2&#9642;Net: +6)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 203/
+    - 47/-4
+    - 249/+2
+    - 45/+3
+    - 96/
+    - 108/+5
+    - 'Arvydas Sabonis (On: -7&#9642;Off: +9&#9642;Net: -16)'
+    - |2-
+
+      -6
+    - 120/-6
+    - 207/
+    - 173/-2
+    - 152/+1
+    - 347/
+    - 'Damon Stoudamire (On: -6&#9642;Off: +8&#9642;Net: -14)'
+    - |2-
+
+      -4
+    - 158/-4
+    - 210/
+    - 100/-4
+    - 30/
+    - 50/+1
+    - 240/
+    - 96/+1
+    - 112/
+    - 'Rasheed Wallace (On: +5&#9642;Off: -3&#9642;Net: +8)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 58/
+    - 192/-4
+    - 250/+2
+    - 249/+9
+    - 'Bonzi Wells (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - |2-
+
+      -1
+    - 223/-1
+    - 27/
+    - 196/-3
+    - 53/
+    - 151/+1
+    - 150/
+    - 197/+6
+    - 'Dale Davis (On: +11&#9642;Off: -9&#9642;Net: +20)'
+    - "\n"
+    - 120/
+    - 129/+4
+    - 58/-3
+    - 347/
+    - 94/+1
+    - 250/+9
+    - 'Rod Strickland (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - "\n"
+    - 163/
+    - 86/+2
+    - 116/-2
+    - 109/
+    - 23/-1
+    - 55/
+    - 65/0
+    - 34/
+    - 94/+1
+    - 38/+3
+    - 210/
+    - 'Steve Smith (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - "\n"
+    - 226/
+    - 24/-1
+    - 250/-7
+    - 124/
+    - 125/+1
+    - 249/+9
+    - 'Detlef Schrempf (On: -5&#9642;Off: +7&#9642;Net: -12)'
+    - "\n"
+    - 250/
+    - 71/-5
+    - 680/
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +4&#9642;Off: -6&#9642;Net: +10)'
+    - |2-
+
+      +1
+    - 223/+1
+    - 166/
+    - 110/+9
+    - 236/0
+    - 65/
+    - 198/-6
+    - 'Donyell Marshall (On: -8&#9642;Off: +6&#9642;Net: -14)'
+    - |2-
+
+      +1
+    - 223/+1
+    - 104/
+    - 172/+2
+    - 249/-2
+    - 45/-3
+    - 86/
+    - 118/-6
+    - 'Olden Polynice (On: +4&#9642;Off: -6&#9642;Net: +10)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 203/
+    - 47/+4
+    - 250/-2
+    - 249/
+    - 'John Starks (On: +2&#9642;Off: -4&#9642;Net: +6)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 249/
+    - 161/0
+    - 140/
+    - 73/0
+    - 125/
+    - 0/0
+    - 'John Stockton (On: +1&#9642;Off: -3&#9642;Net: +4)'
+    - |2-
+
+      +4
+    - 158/+4
+    - 149/
+    - 192/+4
+    - 151/-1
+    - 170/
+    - 178/-6
+    - 'Jacque Vaughn (On: -3&#9642;Off: +1&#9642;Net: -4)'
+    - "\n"
+    - 163/
+    - 86/-2
+    - 57/+3
+    - 347/
+    - 94/-1
+    - 68/-3
+    - 182/
+    - 'Danny Manning (On: -10&#9642;Off: +8&#9642;Net: -18)'
+    - "\n"
+    - 226/
+    - 24/+1
+    - 134/-2
+    - 353/
+    - 11/-2
+    - 247/-7
+    - 2/
+    - 'Bryon Russell (On: -3&#9642;Off: +1&#9642;Net: -4)'
+    - "\n"
+    - 226/
+    - 24/+1
+    - 250/+7
+    - 169/
+    - 80/-2
+    - 249/-9
+    - 'Greg Ostertag (On: -2&#9642;Off: 0&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 196/+3
+    - 303/
+    - 45/-3
+    - 205/
+    - 'Scott Padgett (On: +5&#9642;Off: -7&#9642;Net: +12)'
+    - "\n"
+    - 250/
+    - 71/+5
+    - 680/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,219 @@
+---
+- name: Plus-Minus
+  data:
+  - - Milwaukee Bucks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Ray Allen (On: +23&#9642;Off: -9&#9642;Net: +32)'
+    - |2-
+
+      +16
+    - 249/+16
+    - 85/0
+    - 65/
+    - 100/0
+    - 249/0
+    - 213/+7
+    - 36/
+    - 'Sam Cassell (On: +18&#9642;Off: -4&#9642;Net: +22)'
+    - |2-
+
+      +14
+    - 232/+14
+    - 107/
+    - 160/-4
+    - 223/0
+    - 55/
+    - 184/+8
+    - 36/
+    - 'Ervin Johnson (On: +21&#9642;Off: -7&#9642;Net: +28)'
+    - |2-
+
+      +16
+    - 249/+16
+    - 85/0
+    - 47/
+    - 117/0
+    - 1/
+    - 249/0
+    - 191/+5
+    - 57/
+    - 'Glenn Robinson (On: +15&#9642;Off: -1&#9642;Net: +16)'
+    - |2-
+
+      +16
+    - 249/+16
+    - 102/
+    - 147/-4
+    - 249/0
+    - 28/-1
+    - 118/
+    - 67/+4
+    - 36/
+    - 'Scott Williams (On: +16&#9642;Off: -2&#9642;Net: +18)'
+    - |2-
+
+      +14
+    - 218/+14
+    - 205/
+    - 60/0
+    - 15/
+    - 195/0
+    - 252/
+    - 14/+2
+    - 37/
+    - 'Tim Thomas (On: +8&#9642;Off: +6&#9642;Net: +2)'
+    - "\n"
+    - 219/
+    - 30/+2
+    - 127/-4
+    - 112/
+    - 10/+3
+    - 198/
+    - 50/0
+    - 212/+7
+    - 37/
+    - 'Lindsey Hunter (On: -4&#9642;Off: +18&#9642;Net: -22)'
+    - "\n"
+    - 239/
+    - 10/+2
+    - 147/-4
+    - 325/
+    - 26/0
+    - 140/+3
+    - 81/
+    - 28/-5
+    - 'Darvin Ham (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 250/
+    - 98/0
+    - 623/
+    - 29/-5
+    - 'Jason Caffey (On: -7&#9642;Off: +21&#9642;Net: -28)'
+    - "\n"
+    - 340/
+    - 82/-7
+    - 579/
+    - 'Rafer Alston (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 973/
+    - 29/-5
+    - 'Mark Pope (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 973/
+    - 29/-5
+    - 'Joel Przybilla (On: -5&#9642;Off: +19&#9642;Net: -24)'
+    - "\n"
+    - 973/
+    - 29/-5
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: -12&#9642;Off: -2&#9642;Net: -10)'
+    - |2-
+
+      -14
+    - 232/-14
+    - 107/
+    - 160/+4
+    - 196/0
+    - 149/
+    - 27/-2
+    - 126/
+    - 'Allen Iverson (On: -15&#9642;Off: +1&#9642;Net: -16)'
+    - |2-
+
+      -16
+    - 250/-16
+    - 250/+4
+    - 250/0
+    - 175/-3
+    - 74/
+    - 'Jumaine Jones (On: -9&#9642;Off: -5&#9642;Net: -4)'
+    - |2-
+
+      -7
+    - 138/-7
+    - 101/
+    - 9/-2
+    - 149/+5
+    - 99/
+    - 46/-5
+    - 152/
+    - 50/0
+    - 95/-1
+    - 31/
+    - 123/+1
+    - 'Aaron McKie (On: -18&#9642;Off: +4&#9642;Net: -22)'
+    - |2-
+
+      -16
+    - 249/-16
+    - 85/0
+    - 48/
+    - 116/0
+    - 249/0
+    - 67/0
+    - 28/
+    - 79/-2
+    - 74/
+    - 'Dikembe Mutombo (On: -12&#9642;Off: -2&#9642;Net: -10)'
+    - |2-
+
+      -16
+    - 250/-16
+    - 234/+7
+    - 15/
+    - 250/0
+    - 175/-3
+    - 74/
+    - 'Eric Snow (On: -3&#9642;Off: -11&#9642;Net: +8)'
+    - "\n"
+    - 142/
+    - 106/-9
+    - 131/+4
+    - 20/
+    - 97/-1
+    - 50/
+    - 198/+5
+    - 28/+1
+    - 47/
+    - 100/-3
+    - 74/
+    - 'Todd MacCulloch (On: -2&#9642;Off: -12&#9642;Net: +10)'
+    - "\n"
+    - 490/
+    - 9/-3
+    - 433/
+    - 68/+1
+    - 'Rodney Buford (On: -1&#9642;Off: -13&#9642;Net: +12)'
+    - "\n"
+    - 779/
+    - 67/-2
+    - 86/
+    - 68/+1
+    - 'Raja Bell (On: +1&#9642;Off: -15&#9642;Net: +16)'
+    - "\n"
+    - 933/
+    - 69/+1
+    - 'Kevin Ollie (On: +1&#9642;Off: -15&#9642;Net: +16)'
+    - "\n"
+    - 933/
+    - 69/+1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

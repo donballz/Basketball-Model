@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: +1&#9642;Off: +5&#9642;Net: -4)'
+    - |2-
+
+      +5
+    - 151/+5
+    - 349/
+    - 123/-4
+    - 377/
+    - 'Jason Kidd (On: +9&#9642;Off: -3&#9642;Net: +12)'
+    - |2-
+
+      +3
+    - 177/+3
+    - 119/
+    - 186/+2
+    - 16/
+    - 249/-2
+    - 247/+6
+    - 3/
+    - 'Shawn Marion (On: +9&#9642;Off: -3&#9642;Net: +12)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 43/-4
+    - 85/
+    - 122/+7
+    - 250/-2
+    - 248/+6
+    - 'Clifford Robinson (On: +2&#9642;Off: +4&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 226/+1
+    - 71/
+    - 122/+2
+    - 80/
+    - 151/-5
+    - 276/
+    - 71/+4
+    - 'Jake Tsakalidis (On: -1&#9642;Off: +7&#9642;Net: -8)'
+    - |2-
+
+      +5
+    - 151/+5
+    - 78/
+    - 21/+1
+    - 120/-7
+    - 129/
+    - 24/0
+    - 474/
+    - 'Tony Delk (On: +5&#9642;Off: +1&#9642;Net: +4)'
+    - "\n"
+    - 153/
+    - 96/-3
+    - 250/0
+    - 128/
+    - 122/+2
+    - 249/+6
+    - 'Rodney Rogers (On: +5&#9642;Off: +1&#9642;Net: +4)'
+    - "\n"
+    - 153/
+    - 96/-3
+    - 250/0
+    - 99/
+    - 150/+2
+    - 250/+6
+    - 'Vinny Del Negro (On: +2&#9642;Off: +4&#9642;Net: -2)'
+    - "\n"
+    - 180/
+    - 68/-1
+    - 43/-4
+    - 192/
+    - 13/+2
+    - 156/
+    - 93/+3
+    - 174/+2
+    - 76/
+    - 'Daniel Santiago (On: -2&#9642;Off: +8&#9642;Net: -10)'
+    - "\n"
+    - 424/
+    - 76/+2
+    - 30/
+    - 65/-4
+    - 404/
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Darrell Armstrong (On: -4&#9642;Off: -2&#9642;Net: -2)'
+    - |2-
+
+      -1
+    - 213/-1
+    - 172/
+    - 89/-4
+    - 23/
+    - 228/0
+    - 20/
+    - 0/+2
+    - 50/
+    - 200/-1
+    - 'Andrew DeClercq (On: +1&#9642;Off: -7&#9642;Net: +8)'
+    - |2-
+
+      -3
+    - 48/-3
+    - 452/
+    - 94/+4
+    - 406/
+    - 'Tracy McGrady (On: -7&#9642;Off: +1&#9642;Net: -8)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 68/+3
+    - 69/
+    - 113/-4
+    - 250/+2
+    - 248/-6
+    - 'Mike Miller (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - |2-
+
+      -1
+    - 214/-1
+    - 110/
+    - 99/-2
+    - 76/
+    - 228/0
+    - 68/
+    - 202/-2
+    - 'Bo Outlaw (On: +1&#9642;Off: -7&#9642;Net: +8)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 101/+7
+    - 149/
+    - 247/0
+    - 41/
+    - 207/-4
+    - 3/
+    - 'Michael Doleac (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - "\n"
+    - 54/
+    - 139/+5
+    - 808/
+    - 'John Amaechi (On: -8&#9642;Off: +2&#9642;Net: -10)'
+    - "\n"
+    - 195/
+    - 54/-4
+    - 249/0
+    - 100/
+    - 150/-2
+    - 38/-2
+    - 211/
+    - 'Troy Hudson (On: -7&#9642;Off: +1&#9642;Net: -8)'
+    - "\n"
+    - 214/
+    - 35/-1
+    - 482/
+    - 16/+2
+    - 47/-5
+    - 194/
+    - 9/-3
+    - 'Monty Williams (On: 0&#9642;Off: -6&#9642;Net: +6)'
+    - "\n"
+    - 214/
+    - 35/-1
+    - 133/+4
+    - 43/
+    - 72/-1
+    - 233/
+    - 16/+2
+    - 42/-4
+    - 207/
+    - 'Cory Alexander (On: +4&#9642;Off: -10&#9642;Net: +14)'
+    - "\n"
+    - 250/
+    - 134/+4
+    - 98/
+    - 17/0
+    - 497/
+    - 2/0
+    - 'Don Reid (On: -10&#9642;Off: +4&#9642;Net: -14)'
+    - "\n"
+    - 354/
+    - 146/-7
+    - 250/
+    - 241/-3
+    - 8/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

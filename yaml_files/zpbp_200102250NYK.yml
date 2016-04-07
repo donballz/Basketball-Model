@@ -1,0 +1,2230 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: M. Camby vs. V. Divac (M. Jackson gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Camby misses 2-pt shot from 8 ft
+  - - '11:41.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - P. Stojakovic misses 2-pt shot from 20 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:20.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by L. Johnson
+  - - '11:09.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - A. Houston misses 3-pt shot from 24 ft
+  - - '11:07.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - Shooting foul by M. Camby
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - V. Divac misses free throw 1 of 2
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '10:53.0'
+    - V. Divac makes free throw 2 of 2
+    - "+1"
+    - 1-0
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 1-2
+    - "+2"
+    - A. Houston makes 2-pt shot from 13 ft (assist by L. Johnson)
+  - - '10:26.0'
+    - S. Pollard misses 2-pt shot from 6 ft
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:24.0'
+    - Offensive rebound by D. Christie
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:15.0'
+    - J. Williams misses 3-pt shot from 25 ft
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Defensive rebound by A. Houston
+  - - '10:00.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - L. Johnson misses 3-pt shot from 25 ft
+  - - '9:58.0'
+    - Defensive rebound by Team
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '9:43.0'
+    - D. Christie misses 2-pt shot from 20 ft
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Defensive rebound by M. Camby
+  - - '9:28.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - L. Sprewell misses 2-pt shot from 19 ft
+  - - '9:26.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '9:17.0'
+    - P. Stojakovic makes 2-pt shot at rim (assist by V. Divac)
+    - "+2"
+    - 3-2
+    - ''
+    - ''
+  - - '8:58.0'
+    - ''
+    - ''
+    - 3-2
+    - ''
+    - Turnover by M. Camby (bad pass; steal by P. Stojakovic)
+  - - '8:49.0'
+    - V. Divac makes 2-pt shot from 16 ft (assist by P. Stojakovic)
+    - "+2"
+    - 5-2
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 5-4
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 15 ft
+  - - '8:09.0'
+    - S. Pollard makes 2-pt shot at rim (assist by P. Stojakovic)
+    - "+2"
+    - 7-4
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 7-4
+    - ''
+    - L. Sprewell misses 3-pt shot from 24 ft
+  - - '7:40.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 7-4
+    - ''
+    - ''
+  - - '7:34.0'
+    - D. Christie makes 3-pt shot from 23 ft (assist by V. Divac)
+    - "+3"
+    - 10-4
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 10-4
+    - ''
+    - New York full timeout
+  - - '7:17.0'
+    - ''
+    - ''
+    - 10-6
+    - "+2"
+    - A. Houston makes 2-pt shot from 16 ft
+  - - '7:03.0'
+    - Turnover by D. Christie (bad pass)
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - Turnover by M. Camby (off goaltending)
+  - - '6:34.0'
+    - V. Divac misses 2-pt shot from 19 ft
+    - ''
+    - 10-6
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - Defensive rebound by A. Houston
+  - - '6:23.0'
+    - ''
+    - ''
+    - 10-6
+    - ''
+    - L. Sprewell misses 2-pt shot at rim
+  - - '6:21.0'
+    - ''
+    - ''
+    - 10-8
+    - "+2"
+    - M. Camby makes 2-pt shot at rim
+  - - '6:21.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - Offensive rebound by M. Camby
+  - - '6:14.0'
+    - Turnover by J. Williams (bad pass; steal by A. Houston)
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 10-8
+    - ''
+    - L. Sprewell misses 2-pt shot from 15 ft
+  - - '6:10.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '6:09.0'
+    - Personal foul by L. Sprewell
+    - ''
+    - 10-8
+    - ''
+    - ''
+  - - '5:56.0'
+    - P. Stojakovic makes 3-pt shot from 24 ft
+    - "+3"
+    - 13-8
+    - ''
+    - ''
+  - - '5:37.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - L. Johnson misses 2-pt shot from 5 ft (block by S. Pollard)
+  - - '5:32.0'
+    - 'Jump ball: M. Jackson vs. D. Christie (V. Divac gains possession)'
+  - - '5:32.0'
+    - Defensive rebound by Team
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '5:13.0'
+    - Turnover by D. Christie (bad pass; steal by A. Houston)
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '5:07.0'
+    - ''
+    - ''
+    - 13-10
+    - "+2"
+    - A. Houston makes 2-pt shot from 12 ft
+  - - '4:53.0'
+    - J. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 13-10
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 13-10
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '4:39.0'
+    - ''
+    - ''
+    - 13-12
+    - "+2"
+    - A. Houston makes 2-pt shot from 15 ft
+  - - '4:27.0'
+    - V. Divac makes 2-pt shot from 5 ft (assist by D. Christie)
+    - "+2"
+    - 15-12
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Turnover by A. Houston (bad pass; steal by V. Divac)
+  - - '4:03.0'
+    - D. Christie misses 2-pt shot at rim
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '3:58.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Personal foul by D. Christie
+  - - '3:46.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - M. Jackson misses 2-pt shot from 5 ft
+  - - '3:44.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:28.0'
+    - D. Christie misses 3-pt shot from 25 ft
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Defensive rebound by M. Camby
+  - - '3:15.0'
+    - ''
+    - ''
+    - 15-14
+    - "+2"
+    - L. Johnson makes 2-pt shot at rim (assist by L. Sprewell)
+  - - '3:01.0'
+    - S. Pollard misses 2-pt shot from 5 ft
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - Defensive rebound by M. Camby
+  - - '2:44.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - Turnover by M. Jackson (lost ball; steal by V. Divac)
+  - - '2:43.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '2:43.0'
+    - Sacramento full timeout
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - K. Thomas enters the game for L. Johnson
+  - - '2:24.0'
+    - V. Divac misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '2:22.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - Defensive rebound by M. Camby
+  - - '2:15.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - A. Houston misses 2-pt shot from 19 ft
+  - - '2:13.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 15-14
+    - ''
+    - ''
+  - - '2:01.0'
+    - D. Christie makes 2-pt shot at rim
+    - "+2"
+    - 17-14
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - A. Houston misses 2-pt shot from 22 ft
+  - - '1:40.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '1:28.0'
+    - P. Stojakovic misses 3-pt shot from 25 ft
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '1:13.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - K. Thomas misses 2-pt shot from 14 ft
+  - - '1:11.0'
+    - Defensive rebound by J. Williams
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '1:06.0'
+    - Shooting foul by M. Jackson
+    - ''
+    - 17-14
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 17-14
+    - ''
+    - G. Rice enters the game for A. Houston
+  - - '1:06.0'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 18-14
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 18-14
+    - ''
+    - C. Ward enters the game for M. Jackson
+  - - '1:06.0'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 19-14
+    - ''
+    - ''
+  - - '0:51.0'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - K. Thomas misses 2-pt shot from 18 ft
+  - - '0:48.8'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Offensive rebound by C. Ward
+  - - '0:43.4'
+    - ''
+    - ''
+    - 19-14
+    - ''
+    - Turnover by C. Ward (lost ball; steal by J. Williams)
+  - - '0:29.2'
+    - V. Divac makes 2-pt shot from 15 ft (assist by P. Stojakovic)
+    - "+2"
+    - 21-14
+    - ''
+    - ''
+  - - '0:17.1'
+    - ''
+    - ''
+    - 21-14
+    - ''
+    - Personal foul by D. Christie
+  - - '0:17.1'
+    - H. Turkoglu enters the game for D. Christie
+    - ''
+    - 21-14
+    - ''
+    - ''
+  - - '0:05.9'
+    - ''
+    - ''
+    - 21-16
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 12 ft
+  - - '0:01.1'
+    - H. Turkoglu misses 3-pt shot from 28 ft
+    - ''
+    - 21-16
+    - ''
+    - ''
+  - - '0:00.2'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - Defensive rebound by M. Camby
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - P. Stojakovic makes 2-pt shot from 16 ft
+    - "+2"
+    - 23-16
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 23-18
+    - "+2"
+    - G. Rice makes 2-pt shot from 19 ft
+  - - '11:04.0'
+    - S. Pollard misses 2-pt shot at rim
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Defensive rebound by M. Camby
+  - - '10:50.0'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Shooting foul by B. Jackson
+  - - '10:50.0'
+    - ''
+    - ''
+    - 23-19
+    - "+1"
+    - M. Camby makes free throw 1 of 2
+  - - '10:50.0'
+    - ''
+    - ''
+    - 23-20
+    - "+1"
+    - M. Camby makes free throw 2 of 2
+  - - '10:31.0'
+    - L. Funderburke misses 2-pt shot at rim
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '10:29.0'
+    - S. Pollard makes 2-pt shot at rim
+    - "+2"
+    - 25-20
+    - ''
+    - ''
+  - - '10:29.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - M. Camby misses 2-pt shot from 5 ft
+  - - '10:06.0'
+    - Defensive rebound by L. Funderburke
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '9:57.0'
+    - S. Pollard makes 2-pt shot at rim (assist by P. Stojakovic)
+    - "+2"
+    - 27-20
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 27-20
+    - ''
+    - New York full timeout
+  - - '9:36.0'
+    - ''
+    - ''
+    - 27-22
+    - "+2"
+    - C. Ward makes 2-pt shot from 23 ft (assist by L. Sprewell)
+  - - '9:25.0'
+    - B. Jackson makes 2-pt shot from 8 ft
+    - "+2"
+    - 29-22
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 29-22
+    - ''
+    - L. Sprewell misses 2-pt shot from 9 ft
+  - - '8:59.0'
+    - ''
+    - ''
+    - 29-24
+    - "+2"
+    - M. Camby makes 2-pt shot from 3 ft
+  - - '8:59.0'
+    - ''
+    - ''
+    - 29-24
+    - ''
+    - Offensive rebound by M. Camby
+  - - '8:49.0'
+    - P. Stojakovic makes 2-pt shot from 22 ft
+    - "+2"
+    - 31-24
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 31-24
+    - ''
+    - G. Rice misses 2-pt shot from 8 ft
+  - - '8:27.0'
+    - Defensive rebound by H. Turkoglu
+    - ''
+    - 31-24
+    - ''
+    - ''
+  - - '8:07.0'
+    - S. Pollard makes 2-pt shot from 13 ft (assist by P. Stojakovic)
+    - "+2"
+    - 33-24
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 33-24
+    - ''
+    - Shooting foul by S. Pollard
+  - - '7:52.0'
+    - ''
+    - ''
+    - 33-24
+    - ''
+    - A. Houston enters the game for L. Sprewell
+  - - '7:52.0'
+    - ''
+    - ''
+    - 33-25
+    - "+1"
+    - K. Thomas makes free throw 1 of 2
+  - - '7:52.0'
+    - ''
+    - ''
+    - 33-25
+    - ''
+    - L. Johnson enters the game for M. Camby
+  - - '7:52.0'
+    - ''
+    - ''
+    - 33-26
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '7:39.0'
+    - P. Stojakovic makes 3-pt shot from 24 ft (assist by S. Pollard)
+    - "+3"
+    - 36-26
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 36-26
+    - ''
+    - Turnover by G. Rice (lost ball; steal by P. Stojakovic)
+  - - '7:19.0'
+    - B. Jackson makes 2-pt shot from 17 ft (assist by P. Stojakovic)
+    - "+2"
+    - 38-26
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 38-26
+    - ''
+    - New York 20 second timeout
+  - - '7:01.0'
+    - ''
+    - ''
+    - 38-28
+    - "+2"
+    - C. Ward makes 2-pt shot from 21 ft
+  - - '6:54.0'
+    - H. Turkoglu misses 3-pt shot from 25 ft
+    - ''
+    - 38-28
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 38-28
+    - ''
+    - Defensive rebound by Team
+  - - '6:36.0'
+    - ''
+    - ''
+    - 38-30
+    - "+2"
+    - K. Thomas makes 2-pt shot from 11 ft (assist by L. Johnson)
+  - - '6:20.0'
+    - B. Jackson misses 2-pt shot from 21 ft
+    - ''
+    - 38-30
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 38-30
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '6:11.0'
+    - ''
+    - ''
+    - 38-32
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by A. Houston)
+  - - '5:58.0'
+    - Personal foul by L. Johnson
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:58.0'
+    - Official timeout
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:58.0'
+    - D. Christie enters the game for P. Stojakovic
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:58.0'
+    - V. Divac enters the game for S. Pollard
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:45.0'
+    - H. Turkoglu misses 3-pt shot from 23 ft
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 38-32
+    - ''
+    - Defensive rebound by A. Houston
+  - - '5:40.0'
+    - ''
+    - ''
+    - 38-32
+    - ''
+    - Personal foul by B. Jackson
+  - - '5:29.0'
+    - ''
+    - ''
+    - 38-32
+    - ''
+    - C. Ward misses 3-pt shot from 24 ft
+  - - '5:26.0'
+    - Defensive rebound by L. Funderburke
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:10.0'
+    - Shooting foul by C. Ward
+    - ''
+    - 38-32
+    - ''
+    - ''
+  - - '5:10.0'
+    - B. Jackson makes free throw 1 of 2
+    - "+1"
+    - 39-32
+    - ''
+    - ''
+  - - '5:10.0'
+    - B. Jackson makes free throw 2 of 2
+    - "+1"
+    - 40-32
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 40-32
+    - ''
+    - Shooting foul by H. Turkoglu
+  - - '4:58.0'
+    - ''
+    - ''
+    - 40-33
+    - "+1"
+    - G. Rice makes free throw 1 of 2
+  - - '4:58.0'
+    - ''
+    - ''
+    - 40-34
+    - "+1"
+    - G. Rice makes free throw 2 of 2
+  - - '4:39.0'
+    - L. Funderburke makes 2-pt shot from 20 ft (assist by D. Christie)
+    - "+2"
+    - 42-34
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 42-34
+    - ''
+    - Turnover by L. Johnson (bad pass)
+  - - '4:24.0'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 42-34
+    - ''
+    - ''
+  - - '4:10.0'
+    - V. Divac makes 2-pt shot at rim (assist by D. Christie)
+    - "+2"
+    - 44-34
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 44-37
+    - "+3"
+    - C. Ward makes 3-pt shot from 24 ft (assist by L. Johnson)
+  - - '3:30.0'
+    - H. Turkoglu misses 3-pt shot from 24 ft
+    - ''
+    - 44-37
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 44-37
+    - ''
+    - Defensive rebound by A. Houston
+  - - '3:22.0'
+    - ''
+    - ''
+    - 44-39
+    - "+2"
+    - A. Houston makes 2-pt shot at rim
+  - - '3:14.0'
+    - Sacramento full timeout
+    - ''
+    - 44-39
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 44-39
+    - ''
+    - M. Jackson enters the game for C. Ward
+  - - '3:14.0'
+    - P. Stojakovic enters the game for H. Turkoglu
+    - ''
+    - 44-39
+    - ''
+    - ''
+  - - '2:56.0'
+    - D. Christie misses 3-pt shot from 23 ft
+    - ''
+    - 44-39
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 44-39
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '2:33.0'
+    - ''
+    - ''
+    - 44-41
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim (assist by L. Johnson)
+  - - '2:18.0'
+    - P. Stojakovic misses 2-pt shot from 21 ft
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - Defensive rebound by L. Johnson
+  - - '1:53.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - Shooting foul by L. Funderburke
+  - - '1:53.0'
+    - S. Pollard enters the game for L. Funderburke
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - L. Johnson misses free throw 1 of 2
+  - - '1:53.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - Offensive rebound by Team
+  - - '1:53.0'
+    - ''
+    - ''
+    - 44-41
+    - ''
+    - L. Johnson misses free throw 2 of 2
+  - - '1:52.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '1:33.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 44-41
+    - ''
+    - ''
+  - - '1:33.0'
+    - V. Divac makes free throw 1 of 2
+    - "+1"
+    - 45-41
+    - ''
+    - ''
+  - - '1:33.0'
+    - V. Divac makes free throw 2 of 2
+    - "+1"
+    - 46-41
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 46-43
+    - "+2"
+    - G. Rice makes 2-pt shot from 20 ft (assist by M. Jackson)
+  - - '1:01.0'
+    - ''
+    - ''
+    - 46-43
+    - ''
+    - Violation by L. Johnson (illegal defense)
+  - - '0:48.3'
+    - Shooting foul by L. Johnson
+    - ''
+    - 46-43
+    - ''
+    - ''
+  - - '0:48.3'
+    - D. Christie makes free throw 1 of 2
+    - "+1"
+    - 47-43
+    - ''
+    - ''
+  - - '0:48.3'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - M. Camby enters the game for L. Johnson
+  - - '0:48.3'
+    - D. Christie makes free throw 2 of 2
+    - "+1"
+    - 48-43
+    - ''
+    - ''
+  - - '0:31.3'
+    - ''
+    - ''
+    - 48-43
+    - ''
+    - A. Houston misses 2-pt shot from 8 ft
+  - - '0:29.7'
+    - ''
+    - ''
+    - 48-43
+    - ''
+    - Offensive rebound by A. Houston
+  - - '0:29.6'
+    - ''
+    - ''
+    - 48-43
+    - ''
+    - Personal foul by P. Stojakovic
+  - - '0:29.6'
+    - ''
+    - ''
+    - 48-44
+    - "+1"
+    - A. Houston makes free throw 1 of 2
+  - - '0:29.6'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - C. Ward enters the game for M. Jackson
+  - - '0:29.6'
+    - ''
+    - ''
+    - 48-45
+    - "+1"
+    - A. Houston makes free throw 2 of 2
+  - - '0:14.5'
+    - D. Christie makes 3-pt shot from 23 ft (assist by V. Divac)
+    - "+3"
+    - 51-45
+    - ''
+    - ''
+  - - '0:06.0'
+    - ''
+    - ''
+    - 51-47
+    - "+2"
+    - A. Houston makes 2-pt shot from 20 ft
+  - - '0:00.9'
+    - D. Christie misses 2-pt shot from 21 ft
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - D. Christie misses 3-pt shot from 25 ft
+    - ''
+    - 51-47
+    - ''
+    - ''
+  - - '11:46.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - Defensive rebound by M. Camby
+  - - '11:34.0'
+    - ''
+    - ''
+    - 51-47
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by D. Christie)
+  - - '11:20.0'
+    - P. Stojakovic makes 3-pt shot from 24 ft (assist by V. Divac)
+    - "+3"
+    - 54-47
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 54-49
+    - "+2"
+    - L. Sprewell makes 2-pt shot at rim
+  - - '10:35.0'
+    - V. Divac makes 2-pt shot from 13 ft (assist by J. Williams)
+    - "+2"
+    - 56-49
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 56-52
+    - "+3"
+    - L. Johnson makes 3-pt shot from 24 ft (assist by A. Houston)
+  - - '10:05.0'
+    - 'Jump ball: M. Camby vs. V. Divac (D. Christie gains possession)'
+  - - '9:52.0'
+    - V. Divac misses 3-pt shot from 25 ft
+    - ''
+    - 56-52
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 56-52
+    - ''
+    - Defensive rebound by A. Houston
+  - - '9:45.0'
+    - ''
+    - ''
+    - 56-54
+    - "+2"
+    - A. Houston makes 2-pt shot from 22 ft
+  - - '9:30.0'
+    - J. Williams makes 2-pt shot from 23 ft (assist by V. Divac)
+    - "+2"
+    - 58-54
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 58-56
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim (assist by M. Camby)
+  - - '8:50.0'
+    - P. Stojakovic makes 2-pt shot from 20 ft
+    - "+2"
+    - 60-56
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 60-58
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 5 ft
+  - - '8:23.0'
+    - J. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 60-58
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Defensive rebound by M. Camby
+  - - '8:11.0'
+    - ''
+    - ''
+    - 60-58
+    - ''
+    - Turnover by A. Houston (bad pass; steal by D. Christie)
+  - - '8:04.0'
+    - P. Stojakovic makes 2-pt shot from 22 ft (assist by D. Christie)
+    - "+2"
+    - 62-58
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - M. Jackson misses 2-pt shot from 5 ft
+  - - '7:45.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:45.0'
+    - Loose ball foul by L. Johnson
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:29.0'
+    - P. Stojakovic misses 2-pt shot from 16 ft
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:27.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - Defensive rebound by A. Houston
+  - - '7:18.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - M. Camby misses 2-pt shot at rim
+  - - '7:15.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:10.0'
+    - D. Christie misses 2-pt shot from 11 ft
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - Defensive rebound by M. Camby
+  - - '6:44.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - L. Johnson misses 3-pt shot from 25 ft
+  - - '6:41.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '6:21.0'
+    - V. Divac misses 2-pt shot from 14 ft
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '6:20.0'
+    - Offensive rebound by S. Pollard
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '6:18.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - A. Houston misses 3-pt shot from 24 ft
+  - - '6:00.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '5:49.0'
+    - V. Divac misses 2-pt shot at rim (block by M. Camby)
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - Defensive rebound by M. Camby
+  - - '5:40.0'
+    - ''
+    - ''
+    - 62-58
+    - ''
+    - L. Sprewell misses 2-pt shot from 19 ft
+  - - '5:38.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '5:35.0'
+    - Turnover by V. Divac (bad pass; steal by M. Jackson)
+    - ''
+    - 62-58
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 62-60
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '5:30.0'
+    - Sacramento full timeout
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '5:14.0'
+    - P. Stojakovic makes 3-pt shot from 25 ft (assist by J. Williams)
+    - "+3"
+    - 65-60
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - L. Johnson misses 3-pt shot from 23 ft
+  - - '4:48.0'
+    - ''
+    - ''
+    - 65-60
+    - ''
+    - Offensive rebound by M. Camby
+  - - '4:44.0'
+    - ''
+    - ''
+    - 65-62
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 6 ft
+  - - '4:25.0'
+    - J. Williams misses 3-pt shot from 26 ft
+    - ''
+    - 65-62
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 65-62
+    - ''
+    - Defensive rebound by L. Sprewell
+  - - '4:00.0'
+    - ''
+    - ''
+    - 65-65
+    - "+3"
+    - A. Houston makes 3-pt shot from 25 ft (assist by L. Johnson)
+  - - '3:47.0'
+    - V. Divac makes 2-pt shot from 11 ft
+    - "+2"
+    - 67-65
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 67-65
+    - ''
+    - Personal foul by J. Williams
+  - - '3:23.0'
+    - ''
+    - ''
+    - 67-68
+    - "+3"
+    - L. Johnson makes 3-pt shot from 24 ft (assist by L. Sprewell)
+  - - '3:07.0'
+    - D. Christie makes 3-pt shot from 23 ft (assist by V. Divac)
+    - "+3"
+    - 70-68
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 70-68
+    - ''
+    - L. Sprewell misses 2-pt shot from 8 ft
+  - - '2:39.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 70-68
+    - ''
+    - ''
+  - - '2:38.0'
+    - Turnover by J. Williams (bad pass; steal by L. Johnson)
+    - ''
+    - 70-68
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 70-68
+    - ''
+    - Personal foul by D. Christie
+  - - '2:32.0'
+    - ''
+    - ''
+    - 70-68
+    - ''
+    - New York full timeout
+  - - '2:32.0'
+    - ''
+    - ''
+    - 70-68
+    - ''
+    - G. Rice enters the game for A. Houston
+  - - '2:28.0'
+    - ''
+    - ''
+    - 70-68
+    - ''
+    - Turnover by L. Sprewell (bad pass; steal by D. Christie)
+  - - '2:04.0'
+    - P. Stojakovic makes 2-pt shot from 20 ft
+    - "+2"
+    - 72-68
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - Offensive foul by L. Sprewell
+  - - '1:44.0'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - Turnover by L. Sprewell (foul)
+  - - '1:28.0'
+    - Offensive foul by P. Stojakovic
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '1:28.0'
+    - Turnover by P. Stojakovic (foul)
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '1:28.0'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - K. Thomas enters the game for L. Johnson
+  - - '1:28.0'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - C. Ward enters the game for M. Jackson
+  - - '1:18.0'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - C. Ward misses 2-pt shot from 18 ft
+  - - '1:16.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '1:11.0'
+    - Turnover by D. Christie (lost ball)
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '0:58.6'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - Offensive foul by G. Rice
+  - - '0:58.6'
+    - ''
+    - ''
+    - 72-68
+    - ''
+    - Turnover by G. Rice (foul)
+  - - '0:44.3'
+    - Personal foul by M. Camby
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '0:39.4'
+    - Shooting foul by G. Rice
+    - ''
+    - 72-68
+    - ''
+    - ''
+  - - '0:39.4'
+    - V. Divac makes free throw 1 of 2
+    - "+1"
+    - 73-68
+    - ''
+    - ''
+  - - '0:39.4'
+    - H. Turkoglu enters the game for D. Christie
+    - ''
+    - 73-68
+    - ''
+    - ''
+  - - '0:39.4'
+    - V. Divac makes free throw 2 of 2
+    - "+1"
+    - 74-68
+    - ''
+    - ''
+  - - '0:21.3'
+    - ''
+    - ''
+    - 74-70
+    - "+2"
+    - K. Thomas makes 2-pt shot from 5 ft (assist by G. Rice)
+  - - '0:00.4'
+    - V. Divac makes 3-pt shot from 24 ft (assist by J. Williams)
+    - "+3"
+    - 77-70
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 77-70
+    - ''
+    - G. Rice misses 2-pt shot from 19 ft
+  - - '11:40.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 77-70
+    - ''
+    - ''
+  - - '11:22.0'
+    - P. Stojakovic makes 2-pt shot from 14 ft
+    - "+2"
+    - 79-70
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - C. Ward misses 3-pt shot from 24 ft
+  - - '11:04.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - Offensive rebound by M. Camby
+  - - '10:55.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - K. Thomas misses 2-pt shot from 7 ft
+  - - '10:53.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '10:53.0'
+    - Loose ball foul by M. Camby
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '10:29.0'
+    - B. Jackson misses 2-pt shot from 22 ft
+    - ''
+    - 79-70
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 79-70
+    - ''
+    - Defensive rebound by M. Camby
+  - - '10:21.0'
+    - ''
+    - ''
+    - 79-72
+    - "+2"
+    - C. Ward makes 2-pt shot at rim
+  - - '10:02.0'
+    - L. Funderburke misses 2-pt shot from 21 ft
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '10:00.0'
+    - Offensive rebound by L. Funderburke
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '9:53.0'
+    - H. Turkoglu misses 2-pt shot from 15 ft
+    - ''
+    - 79-72
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 79-72
+    - ''
+    - Defensive rebound by M. Camby
+  - - '9:40.0'
+    - ''
+    - ''
+    - 79-74
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 9 ft
+  - - '9:37.0'
+    - Sacramento full timeout
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '9:37.0'
+    - D. Christie enters the game for S. Pollard
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '9:37.0'
+    - V. Divac enters the game for P. Stojakovic
+    - ''
+    - 79-74
+    - ''
+    - ''
+  - - '9:13.0'
+    - D. Christie makes 2-pt shot from 7 ft
+    - "+2"
+    - 81-74
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 81-76
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 14 ft (assist by C. Ward)
+  - - '8:31.0'
+    - D. Christie misses 3-pt shot from 24 ft
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Defensive rebound by C. Ward
+  - - '8:20.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Turnover by K. Thomas (lost ball; steal by B. Jackson)
+  - - '8:18.0'
+    - Offensive foul by B. Jackson
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '8:18.0'
+    - Turnover by B. Jackson (foul)
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - L. Johnson enters the game for M. Camby
+  - - '8:03.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Personal foul by H. Turkoglu
+  - - '7:49.0'
+    - ''
+    - ''
+    - 81-78
+    - "+2"
+    - G. Rice makes 2-pt shot at rim
+  - - '7:32.0'
+    - B. Jackson misses 3-pt shot from 23 ft
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 81-78
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '7:24.0'
+    - ''
+    - ''
+    - 81-78
+    - ''
+    - Offensive foul by K. Thomas
+  - - '7:24.0'
+    - ''
+    - ''
+    - 81-78
+    - ''
+    - Turnover by K. Thomas (foul)
+  - - '7:24.0'
+    - ''
+    - ''
+    - 81-78
+    - ''
+    - A. Houston enters the game for L. Sprewell
+  - - '7:24.0'
+    - P. Stojakovic enters the game for H. Turkoglu
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '7:24.0'
+    - S. Pollard enters the game for L. Funderburke
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '7:05.0'
+    - Turnover by V. Divac (bad pass; steal by C. Ward)
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 81-78
+    - ''
+    - A. Houston misses 3-pt shot from 23 ft
+  - - '6:52.0'
+    - Defensive rebound by B. Jackson
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '6:38.0'
+    - Turnover by S. Pollard (lost ball; steal by G. Rice)
+    - ''
+    - 81-78
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 81-80
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by G. Rice)
+  - - '6:11.0'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '6:03.0'
+    - Personal foul by K. Thomas
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:53.0'
+    - Turnover by V. Divac (3 second)
+    - ''
+    - 81-80
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Official timeout
+  - - '5:33.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - G. Rice misses 2-pt shot at rim
+  - - '5:32.0'
+    - ''
+    - ''
+    - 81-80
+    - ''
+    - Offensive rebound by G. Rice
+  - - '5:31.0'
+    - ''
+    - ''
+    - 81-82
+    - "+2"
+    - G. Rice makes 2-pt shot from 4 ft
+  - - '5:10.0'
+    - V. Divac misses 2-pt shot from 18 ft
+    - ''
+    - 81-82
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Defensive rebound by C. Ward
+  - - '5:03.0'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - G. Rice misses 2-pt shot from 21 ft
+  - - '5:01.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 81-82
+    - ''
+    - ''
+  - - '4:42.0'
+    - Turnover by V. Divac (bad pass; steal by C. Ward)
+    - ''
+    - 81-82
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 81-84
+    - "+2"
+    - A. Houston makes 2-pt shot at rim (assist by C. Ward)
+  - - '4:33.0'
+    - Sacramento 20 second timeout
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '4:21.0'
+    - Personal foul by A. Houston
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '4:16.0'
+    - P. Stojakovic misses 3-pt shot from 24 ft
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 81-84
+    - ''
+    - Defensive rebound by L. Johnson
+  - - '4:02.0'
+    - ''
+    - ''
+    - 81-84
+    - ''
+    - Turnover by G. Rice (3 second)
+  - - '3:48.0'
+    - Offensive foul by P. Stojakovic
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '3:48.0'
+    - Turnover by P. Stojakovic (foul)
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 81-84
+    - ''
+    - A. Houston misses 2-pt shot at rim
+  - - '3:35.0'
+    - Defensive rebound by S. Pollard
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '3:22.0'
+    - V. Divac makes 2-pt shot at rim
+    - "+2"
+    - 83-84
+    - ''
+    - ''
+  - - '3:22.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '3:22.0'
+    - Sacramento full timeout
+    - ''
+    - 83-84
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 83-84
+    - ''
+    - M. Camby enters the game for K. Thomas
+  - - '3:22.0'
+    - ''
+    - ''
+    - 83-84
+    - ''
+    - M. Jackson enters the game for G. Rice
+  - - '3:22.0'
+    - ''
+    - ''
+    - 83-84
+    - ''
+    - L. Sprewell enters the game for C. Ward
+  - - '3:22.0'
+    - V. Divac makes free throw 1 of 1
+    - "+1"
+    - 84-84
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - L. Johnson misses 3-pt shot from 24 ft
+  - - '3:07.0'
+    - Defensive rebound by P. Stojakovic
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '2:50.0'
+    - D. Christie misses 3-pt shot from 23 ft
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Defensive rebound by M. Camby
+  - - '2:31.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - M. Jackson misses 3-pt shot from 23 ft
+  - - '2:29.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '2:11.0'
+    - S. Pollard makes 2-pt shot at rim (assist by P. Stojakovic)
+    - "+2"
+    - 86-84
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - L. Johnson misses 3-pt shot from 24 ft
+  - - '1:44.0'
+    - Defensive rebound by V. Divac
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '1:27.0'
+    - P. Stojakovic misses 3-pt shot from 23 ft
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by V. Divac
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '1:08.0'
+    - V. Divac misses 2-pt shot from 17 ft
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '1:02.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - New York full timeout
+  - - '1:02.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - G. Rice enters the game for L. Johnson
+  - - '1:02.0'
+    - B. Jackson enters the game for J. Williams
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '1:02.0'
+    - H. Turkoglu enters the game for S. Pollard
+    - ''
+    - 86-84
+    - ''
+    - ''
+  - - '0:51.1'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Personal foul by B. Jackson
+  - - '0:46.4'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - L. Sprewell misses 2-pt shot at rim
+  - - '0:44.7'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Offensive rebound by L. Sprewell
+  - - '0:40.1'
+    - ''
+    - ''
+    - 86-86
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 16 ft
+  - - '0:40.1'
+    - Sacramento full timeout
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '0:40.1'
+    - S. Pollard enters the game for H. Turkoglu
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '0:40.1'
+    - J. Williams enters the game for B. Jackson
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '0:40.1'
+    - ''
+    - ''
+    - 86-86
+    - ''
+    - L. Johnson enters the game for M. Jackson
+  - - '0:40.1'
+    - ''
+    - ''
+    - 86-86
+    - ''
+    - C. Ward enters the game for G. Rice
+  - - '0:30.3'
+    - V. Divac misses 2-pt shot from 17 ft
+    - ''
+    - 86-86
+    - ''
+    - ''
+  - - '0:28.7'
+    - ''
+    - ''
+    - 86-86
+    - ''
+    - Defensive rebound by Team
+  - - '0:07.2'
+    - ''
+    - ''
+    - 86-88
+    - "+2"
+    - L. Sprewell makes 2-pt shot from 20 ft
+  - - '0:07.2'
+    - Sacramento full timeout
+    - ''
+    - 86-88
+    - ''
+    - ''
+  - - '0:07.2'
+    - Sacramento 20 second timeout
+    - ''
+    - 86-88
+    - ''
+    - ''
+  - - '0:01.8'
+    - J. Williams misses 2-pt shot at rim
+    - ''
+    - 86-88
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 86-88
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

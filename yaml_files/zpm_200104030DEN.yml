@@ -1,0 +1,203 @@
+---
+- name: Plus-Minus
+  data:
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dale Davis (On: -7&#9642;Off: +5&#9642;Net: -12)'
+    - |2-
+
+      -1
+    - 124/-1
+    - 72/
+    - 53/+6
+    - 249/0
+    - 119/-3
+    - 90/
+    - 40/-7
+    - 67/-2
+    - 181/
+    - 'Scottie Pippen (On: -11&#9642;Off: +9&#9642;Net: -20)'
+    - |2-
+
+      -4
+    - 163/-4
+    - 195/
+    - 141/-2
+    - 249/-9
+    - 44/-2
+    - 96/
+    - 109/+6
+    - 'Arvydas Sabonis (On: -7&#9642;Off: +5&#9642;Net: -12)'
+    - |2-
+
+      -5
+    - 193/-5
+    - 307/
+    - 210/-2
+    - 290/
+    - "-1/0"
+    - 'Damon Stoudamire (On: -6&#9642;Off: +4&#9642;Net: -10)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 30/-4
+    - 100/
+    - 119/0
+    - 241/-7
+    - 119/
+    - 139/+4
+    - 'Bonzi Wells (On: 0&#9642;Off: -2&#9642;Net: +2)'
+    - |2-
+
+      -1
+    - 242/-1
+    - 137/
+    - 119/0
+    - 140/-3
+    - 158/
+    - 185/+4
+    - 16/
+    - 'Detlef Schrempf (On: -6&#9642;Off: +4&#9642;Net: -10)'
+    - "\n"
+    - 130/
+    - 119/+2
+    - 210/-4
+    - 163/
+    - 118/-4
+    - 258/
+    - 'Steve Smith (On: +9&#9642;Off: -11&#9642;Net: +20)'
+    - "\n"
+    - 170/
+    - 79/+5
+    - 130/0
+    - 84/
+    - 35/+4
+    - 145/
+    - 104/-6
+    - 249/+6
+    - 'Stacey Augmon (On: +2&#9642;Off: -4&#9642;Net: +6)'
+    - "\n"
+    - 248/
+    - 1/+2
+    - 105/+2
+    - 385/
+    - 9/-2
+    - 134/0
+    - 115/
+    - 'Greg Anthony (On: +8&#9642;Off: -10&#9642;Net: +18)'
+    - "\n"
+    - 283/
+    - 95/+4
+    - 367/
+    - 2/-2
+    - 104/+2
+    - 129/
+    - 14/+4
+    - 2/
+    - 'Shawn Kemp (On: +8&#9642;Off: -10&#9642;Net: +18)'
+    - "\n"
+    - 822/
+    - 180/+8
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Calbert Cheaney (On: +9&#9642;Off: -7&#9642;Net: +16)'
+    - |2-
+
+      +5
+    - 192/+5
+    - 246/
+    - 60/-1
+    - 119/+3
+    - 241/
+    - 74/+2
+    - 65/
+    - 'Raef LaFrentz (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - |2-
+
+      +5
+    - 192/+5
+    - 57/
+    - 182/+1
+    - 67/
+    - 187/-1
+    - 132/
+    - 64/-2
+    - 115/
+    - 'Robert Pack (On: +4&#9642;Off: -2&#9642;Net: +6)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 109/
+    - 141/+2
+    - 250/+9
+    - 249/-6
+    - 'James Posey (On: +5&#9642;Off: -3&#9642;Net: +8)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 30/+4
+    - 159/
+    - 60/-1
+    - 250/+9
+    - 249/-6
+    - 'Kevin Willis (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - |2-
+
+      -1
+    - 249/-1
+    - 189/
+    - 60/-1
+    - 249/+9
+    - 67/+2
+    - 72/
+    - 111/-6
+    - 'Voshon Lenard (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - "\n"
+    - 196/
+    - 53/-6
+    - 182/+1
+    - 261/
+    - 56/+10
+    - 104/-2
+    - 145/
+    - 'George McCloud (On: -6&#9642;Off: +8&#9642;Net: -14)'
+    - "\n"
+    - 196/
+    - 53/-6
+    - 250/0
+    - 123/
+    - 127/+6
+    - 249/-6
+    - 'Anthony Goldwire (On: -2&#9642;Off: +4&#9642;Net: -6)'
+    - "\n"
+    - 250/
+    - 105/-2
+    - 646/
+    - 'Ryan Bowen (On: -9&#9642;Off: +11&#9642;Net: -20)'
+    - "\n"
+    - 284/
+    - 148/-3
+    - 504/
+    - 64/-6
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

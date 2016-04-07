@@ -1,0 +1,205 @@
+---
+- name: Plus-Minus
+  data:
+  - - Portland Trail Blazers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Dale Davis (On: +8&#9642;Off: 0&#9642;Net: +8)'
+    - |2-
+
+      -7
+    - 194/-7
+    - 236/
+    - 69/0
+    - 128/+7
+    - 289/
+    - 82/+8
+    - 'Scottie Pippen (On: +17&#9642;Off: -9&#9642;Net: +26)'
+    - |2-
+
+      -4
+    - 167/-4
+    - 128/
+    - 204/+2
+    - 218/+15
+    - 77/
+    - 204/+4
+    - 'Damon Stoudamire (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      -11
+    - 249/-11
+    - 41/-2
+    - 137/
+    - 71/0
+    - 249/+17
+    - 90/+2
+    - 77/
+    - 82/+8
+    - 'Rasheed Wallace (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - |2-
+
+      -9
+    - 235/-9
+    - 125/
+    - 138/+2
+    - 212/+13
+    - 91/
+    - 197/+1
+    - 'Bonzi Wells (On: +21&#9642;Off: -13&#9642;Net: +34)'
+    - |2-
+
+      -4
+    - 176/-4
+    - 184/
+    - 104/+2
+    - 34/
+    - 249/+17
+    - 44/-2
+    - 123/
+    - 82/+8
+    - 'Detlef Schrempf (On: -17&#9642;Off: +25&#9642;Net: -42)'
+    - "\n"
+    - 170/
+    - 79/-7
+    - 107/-2
+    - 483/
+    - 70/-8
+    - 89/
+    - 'Steve Smith (On: -11&#9642;Off: +19&#9642;Net: -30)'
+    - "\n"
+    - 178/
+    - 70/-7
+    - 175/0
+    - 44/
+    - 30/0
+    - 222/
+    - 27/+2
+    - 161/-6
+    - 88/
+    - 'Shawn Kemp (On: -1&#9642;Off: +9&#9642;Net: -10)'
+    - "\n"
+    - 201/
+    - 48/-4
+    - 107/-2
+    - 360/
+    - 31/+4
+    - 49/+1
+    - 201/
+    - 'Arvydas Sabonis (On: +2&#9642;Off: +6&#9642;Net: -4)'
+    - "\n"
+    - 239/
+    - 11/-2
+    - 178/0
+    - 201/
+    - 120/+10
+    - 161/-6
+    - 87/
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      +11
+    - 250/+11
+    - 68/+2
+    - 90/
+    - 91/0
+    - 250/-17
+    - 249/-2
+    - 'Tim Duncan (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - |2-
+
+      +9
+    - 235/+9
+    - 125/
+    - 138/-2
+    - 212/-13
+    - 65/
+    - 223/0
+    - 'Sean Elliott (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - |2-
+
+      +4
+    - 167/+4
+    - 170/
+    - 64/-4
+    - 98/
+    - 123/-9
+    - 376/
+    - 'Terry Porter (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      +4
+    - 167/+4
+    - 157/
+    - 175/-2
+    - 136/-7
+    - 205/
+    - 158/0
+    - 'David Robinson (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      +6
+    - 183/+6
+    - 55/
+    - 11/+2
+    - 178/0
+    - 71/
+    - 124/-7
+    - 93/
+    - 31/-4
+    - 249/-2
+    - 'Antonio Daniels (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - "\n"
+    - 361/
+    - 138/-2
+    - 125/
+    - 87/-4
+    - 288/
+    - 'Avery Johnson (On: -1&#9642;Off: -7&#9642;Net: +6)'
+    - "\n"
+    - 170/
+    - 79/+7
+    - 86/+4
+    - 303/
+    - 109/-10
+    - 90/-2
+    - 160/
+    - 'Danny Ferry (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - "\n"
+    - 173/
+    - 77/+7
+    - 107/+2
+    - 360/
+    - 31/-4
+    - 250/-2
+    - 'Samaki Walker (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - "\n"
+    - 188/
+    - 61/+5
+    - 107/+2
+    - 73/
+    - 68/0
+    - 128/
+    - 121/-10
+    - 23/-2
+    - 226/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

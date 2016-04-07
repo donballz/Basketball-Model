@@ -1,0 +1,221 @@
+---
+- name: Plus-Minus
+  data:
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Howard Eisley (On: +9&#9642;Off: +11&#9642;Net: -2)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 29/0
+    - 30/
+    - 190/+6
+    - 90/-5
+    - 160/
+    - 249/-2
+    - 'Michael Finley (On: +25&#9642;Off: -5&#9642;Net: +30)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 126/+3
+    - 52/
+    - 72/0
+    - 249/+7
+    - 132/+5
+    - 117/
+    - 'Christian Laettner (On: +11&#9642;Off: +9&#9642;Net: +2)'
+    - |2-
+
+      +7
+    - 196/+7
+    - 255/
+    - 49/0
+    - 183/+4
+    - 316/
+    - 'Steve Nash (On: +23&#9642;Off: -3&#9642;Net: +26)'
+    - |2-
+
+      +7
+    - 127/+7
+    - 153/
+    - 138/+5
+    - 80/
+    - 249/+7
+    - 115/+4
+    - 135/
+    - 'Dirk Nowitzki (On: +23&#9642;Off: -3&#9642;Net: +26)'
+    - |2-
+
+      +5
+    - 93/+5
+    - 37/
+    - 119/+3
+    - 200/+5
+    - 49/
+    - 249/+7
+    - 136/+3
+    - 113/
+    - 'Shawn Bradley (On: +27&#9642;Off: -7&#9642;Net: +34)'
+    - "\n"
+    - 93/
+    - 156/+5
+    - 212/+5
+    - 128/
+    - 159/+12
+    - 132/+5
+    - 117/
+    - 'Gary Trent (On: -2&#9642;Off: +22&#9642;Net: -24)'
+    - "\n"
+    - 201/
+    - 48/+3
+    - 57/-1
+    - 380/
+    - 61/+3
+    - 136/
+    - 114/-7
+    - 'Hubert Davis (On: -4&#9642;Off: +24&#9642;Net: -28)'
+    - "\n"
+    - 382/
+    - 118/+2
+    - 369/
+    - 131/-6
+    - 'Loy Vaught (On: 0&#9642;Off: +20&#9642;Net: -20)'
+    - "\n"
+    - 471/
+    - 29/0
+    - 501/
+    - 'Courtney Alexander (On: -7&#9642;Off: +27&#9642;Net: -34)'
+    - "\n"
+    - 888/
+    - 114/-7
+    - 'Donnell Harvey (On: -5&#9642;Off: +25&#9642;Net: -30)'
+    - "\n"
+    - 892/
+    - 110/-5
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +7&#9642;Off: -27&#9642;Net: +34)'
+    - |2-
+
+      -7
+    - 196/-7
+    - 102/
+    - 200/-1
+    - 123/+5
+    - 250/
+    - 82/+10
+    - 44/
+    - 'LaPhonso Ellis (On: -16&#9642;Off: -4&#9642;Net: -12)'
+    - |2-
+
+      -9
+    - 115/-9
+    - 266/
+    - 118/-2
+    - 171/
+    - 78/-5
+    - 171/0
+    - 78/
+    - 'Kevin Garnett (On: -16&#9642;Off: -4&#9642;Net: -12)'
+    - |2-
+
+      -10
+    - 249/-10
+    - 212/-5
+    - 37/
+    - 245/-5
+    - 61/
+    - 118/+4
+    - 75/
+    - 'Anthony Peeler (On: -14&#9642;Off: -6&#9642;Net: -8)'
+    - |2-
+
+      -7
+    - 196/-7
+    - 255/
+    - 49/0
+    - 250/-7
+    - 249/
+    - 'Wally Szczerbiak (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - |2-
+
+      -10
+    - 215/-10
+    - 128/
+    - 156/-2
+    - 154/0
+    - 96/
+    - 136/-3
+    - 112/
+    - 'Rasho Nesterovic (On: -5&#9642;Off: -15&#9642;Net: +10)'
+    - "\n"
+    - 121/
+    - 128/-1
+    - 46/-4
+    - 174/
+    - 29/0
+    - 165/-2
+    - 259/
+    - 74/+2
+    - 'Chauncey Billups (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - "\n"
+    - 201/
+    - 48/-3
+    - 200/-5
+    - 176/
+    - 100/-11
+    - 106/
+    - 166/+4
+    - 'Sam Mitchell (On: -15&#9642;Off: -5&#9642;Net: -10)'
+    - "\n"
+    - 201/
+    - 48/-3
+    - 91/-3
+    - 315/
+    - 93/-7
+    - 80/-2
+    - 169/
+    - 'Todd Day (On: +1&#9642;Off: -21&#9642;Net: +22)'
+    - "\n"
+    - 219/
+    - 31/0
+    - 46/-4
+    - 594/
+    - 109/+5
+    - 'Reggie Slater (On: -3&#9642;Off: -17&#9642;Net: +14)'
+    - "\n"
+    - 298/
+    - 77/+1
+    - 369/
+    - 4/-2
+    - 54/-4
+    - 125/
+    - 70/+2
+    - 'William Avery (On: -9&#9642;Off: -11&#9642;Net: +2)'
+    - "\n"
+    - 728/
+    - 21/-1
+    - 119/-4
+    - 88/
+    - 43/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

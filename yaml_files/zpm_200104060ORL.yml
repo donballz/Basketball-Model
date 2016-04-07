@@ -1,0 +1,217 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +12&#9642;Off: -4&#9642;Net: +16)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 52/-1
+    - 91/
+    - 106/-1
+    - 250/-8
+    - 249/+17
+    - 'Antonio Davis (On: +14&#9642;Off: -6&#9642;Net: +20)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 70/-4
+    - 120/
+    - 60/+4
+    - 250/-8
+    - 248/+17
+    - 'Charles Oakley (On: 0&#9642;Off: +8&#9642;Net: -8)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 77/
+    - 173/-2
+    - 162/-3
+    - 338/
+    - 'Morris Peterson (On: -9&#9642;Off: +17&#9642;Net: -26)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 57/-4
+    - 193/
+    - 237/-10
+    - 262/
+    - 'Alvin Williams (On: +6&#9642;Off: +2&#9642;Net: +4)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 70/-4
+    - 120/
+    - 60/+4
+    - 162/-3
+    - 323/
+    - 13/+4
+    - 'Dell Curry (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - "\n"
+    - 326/
+    - 110/-6
+    - 306/
+    - 7/+2
+    - 232/+13
+    - 17/
+    - 'Eric Montross (On: -4&#9642;Off: +12&#9642;Net: -16)'
+    - "\n"
+    - 250/
+    - 57/-4
+    - 694/
+    - 'Chris Childs (On: +7&#9642;Off: +1&#9642;Net: +6)'
+    - "\n"
+    - 306/
+    - 185/-5
+    - 174/
+    - 83/-5
+    - 251/+17
+    - 'Keon Clark (On: -8&#9642;Off: +16&#9642;Net: -24)'
+    - "\n"
+    - 319/
+    - 66/-1
+    - 281/
+    - 70/-7
+    - 263/
+    - 'Jerome Williams (On: +13&#9642;Off: -5&#9642;Net: +18)'
+    - "\n"
+    - 318/
+    - 116/-6
+    - 57/
+    - 7/0
+    - 242/
+    - 7/+2
+    - 250/+17
+  - - Orlando Magic
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Andrew DeClercq (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 202/
+    - 39/-2
+    - 8/
+    - 129/-2
+    - 282/
+    - 37/+1
+    - 50/
+    - 'Troy Hudson (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 70/+4
+    - 120/
+    - 60/-4
+    - 228/+6
+    - 78/
+    - 192/-10
+    - 'Tracy McGrady (On: -13&#9642;Off: +5&#9642;Net: -18)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 190/
+    - 60/-4
+    - 229/+6
+    - 78/
+    - 192/-10
+    - 'Mike Miller (On: -5&#9642;Off: -3&#9642;Net: -2)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 76/
+    - 173/+2
+    - 249/+8
+    - 52/-7
+    - 109/
+    - 89/-3
+    - 'Bo Outlaw (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - |2-
+
+      -5
+    - 249/-5
+    - 250/
+    - 236/+10
+    - 135/
+    - 117/-2
+    - 11/
+    - 'John Amaechi (On: -4&#9642;Off: -4&#9642;Net: 0)'
+    - "\n"
+    - 250/
+    - 196/+8
+    - 295/
+    - 7/-2
+    - 86/-10
+    - 164/
+    - 'Dee Brown (On: -3&#9642;Off: -5&#9642;Net: +2)'
+    - "\n"
+    - 249/
+    - 186/+10
+    - 295/
+    - 18/+2
+    - 117/-13
+    - 124/
+    - 8/-2
+    - 'Pat Garrity (On: -9&#9642;Off: +1&#9642;Net: -10)'
+    - "\n"
+    - 249/
+    - 135/+5
+    - 107/
+    - 6/0
+    - 299/
+    - 105/-10
+    - 47/
+    - 48/-4
+    - 'Monty Williams (On: +2&#9642;Off: -10&#9642;Net: +12)'
+    - "\n"
+    - 249/
+    - 97/+2
+    - 46/
+    - 42/+5
+    - 295/
+    - 18/+2
+    - 52/-7
+    - 197/
+    - 'Don Reid (On: +12&#9642;Off: -20&#9642;Net: +32)'
+    - "\n"
+    - 353/
+    - 93/+6
+    - 186/
+    - 116/+10
+    - 42/-4
+    - 208/
+    - 'Michael Doleac (On: -6&#9642;Off: -2&#9642;Net: -4)'
+    - "\n"
+    - 452/
+    - 47/-2
+    - 342/
+    - 62/-4
+    - 96/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

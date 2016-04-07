@@ -1,0 +1,2532 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: T. Massenburg vs. O. Polynice (J. Stockton gains possession)'
+  - - '11:44.0'
+    - J. Stockton makes 2-pt shot from 3 ft (assist by K. Malone)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Bibby misses 2-pt shot from 18 ft
+  - - '11:25.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - K. Malone makes 2-pt shot from 3 ft (assist by J. Stockton)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 20 ft (block by D. Marshall)
+  - - '10:54.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '10:53.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Turnover by M. Dickerson (lost ball; steal by B. Russell)
+  - - '10:52.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:45.0'
+    - Personal foul by M. Bibby
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:35.0'
+    - K. Malone misses 2-pt shot from 16 ft
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '10:22.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Turnover by T. Massenburg (traveling)
+  - - '10:07.0'
+    - O. Polynice makes 2-pt shot from 2 ft (assist by K. Malone)
+    - "+2"
+    - 6-0
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 6-0
+    - ''
+    - Turnover by S. Abdur-Rahim (traveling)
+  - - '9:40.0'
+    - B. Russell makes 2-pt shot from 2 ft (assist by J. Stockton)
+    - "+2"
+    - 8-0
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 8-0
+    - ''
+    - Vancouver full timeout
+  - - '9:21.0'
+    - ''
+    - ''
+    - 8-2
+    - "+2"
+    - M. Bibby makes 2-pt shot from 18 ft (assist by M. Dickerson)
+  - - '9:02.0'
+    - J. Stockton misses 2-pt shot from 17 ft
+    - ''
+    - 8-2
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 8-2
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '8:46.0'
+    - ''
+    - ''
+    - 8-5
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 26 ft (assist by M. Bibby)
+  - - '8:23.0'
+    - D. Marshall misses 2-pt shot from 17 ft
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 8-5
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '8:10.0'
+    - ''
+    - ''
+    - 8-7
+    - "+2"
+    - M. Bibby makes 2-pt shot from 21 ft (assist by S. Abdur-Rahim)
+  - - '7:54.0'
+    - K. Malone makes 2-pt shot from 16 ft (assist by D. Marshall)
+    - "+2"
+    - 10-7
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 10-9
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 5 ft (assist by M. Dickerson)
+  - - '7:14.0'
+    - J. Stockton makes 2-pt shot from 3 ft
+    - "+2"
+    - 12-9
+    - ''
+    - ''
+  - - '7:03.0'
+    - ''
+    - ''
+    - 12-12
+    - "+3"
+    - M. Dickerson makes 3-pt shot from 26 ft (assist by S. Abdur-Rahim)
+  - - '6:43.0'
+    - Shooting foul by B. Reeves
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:43.0'
+    - O. Polynice misses free throw 1 of 2
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:43.0'
+    - O. Polynice makes free throw 2 of 2
+    - "+1"
+    - 13-12
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Offensive foul by B. Reeves
+  - - '6:30.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Turnover by B. Reeves (foul)
+  - - '6:21.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Violation by B. Reeves (illegal defense)
+  - - '6:21.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - I. Austin enters the game for B. Reeves
+  - - '6:10.0'
+    - K. Malone misses 2-pt shot from 13 ft (block by T. Massenburg)
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Defensive rebound by Team
+  - - '5:59.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Offensive foul by T. Massenburg
+  - - '5:59.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Turnover by T. Massenburg (foul)
+  - - '5:48.0'
+    - B. Russell misses 2-pt shot from 10 ft
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:46.0'
+    - Offensive rebound by O. Polynice
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:43.0'
+    - Turnover by O. Polynice (bad pass; steal by M. Dickerson)
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:39.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - M. Dickerson misses 2-pt shot from 3 ft (block by K. Malone)
+  - - '5:37.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:29.0'
+    - B. Russell misses 2-pt shot from 17 ft
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '5:23.0'
+    - ''
+    - ''
+    - 13-12
+    - ''
+    - I. Austin misses 2-pt shot from 17 ft
+  - - '5:21.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 13-12
+    - ''
+    - ''
+  - - '5:12.0'
+    - K. Malone makes 2-pt shot from 3 ft (assist by B. Russell)
+    - "+2"
+    - 15-12
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Personal foul by D. Marshall
+  - - '4:54.0'
+    - J. Vaughn enters the game for J. Stockton
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - S. Swift enters the game for T. Massenburg
+  - - '4:48.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 19 ft
+  - - '4:46.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Offensive rebound by I. Austin
+  - - '4:34.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - M. Dickerson misses 2-pt shot from 14 ft (block by K. Malone)
+  - - '4:34.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Offensive rebound by Team
+  - - '4:34.0'
+    - J. Starks enters the game for D. Marshall
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:32.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '4:29.0'
+    - ''
+    - ''
+    - 15-14
+    - "+2"
+    - S. Swift makes 2-pt shot from 2 ft
+  - - '4:29.0'
+    - ''
+    - ''
+    - 15-14
+    - ''
+    - Offensive rebound by S. Swift
+  - - '4:03.0'
+    - J. Starks makes 2-pt shot from 7 ft
+    - "+2"
+    - 17-14
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 17-16
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 10 ft (assist by M. Bibby)
+  - - '3:22.0'
+    - K. Malone misses 2-pt shot from 15 ft
+    - ''
+    - 17-16
+    - ''
+    - ''
+  - - '3:20.0'
+    - Offensive rebound by O. Polynice
+    - ''
+    - 17-16
+    - ''
+    - ''
+  - - '3:20.0'
+    - O. Polynice makes 2-pt shot from 9 ft
+    - "+2"
+    - 19-16
+    - ''
+    - ''
+  - - '3:20.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - Violation by S. Swift (def goaltending)
+  - - '3:06.0'
+    - ''
+    - ''
+    - 19-16
+    - ''
+    - Turnover by M. Bibby (lost ball; steal by K. Malone)
+  - - '3:02.0'
+    - B. Russell makes 2-pt shot from 2 ft (assist by J. Starks)
+    - "+2"
+    - 21-16
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - Vancouver 20 second timeout
+  - - '2:56.0'
+    - ''
+    - ''
+    - 21-16
+    - ''
+    - Vancouver full timeout
+  - - '2:37.0'
+    - ''
+    - ''
+    - 21-18
+    - "+2"
+    - M. Bibby makes 2-pt shot from 17 ft (assist by S. Abdur-Rahim)
+  - - '2:21.0'
+    - K. Malone misses 2-pt shot from 7 ft (block by I. Austin)
+    - ''
+    - 21-18
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - Defensive rebound by M. Dickerson
+  - - '2:13.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - Turnover by S. Swift (out of bounds)
+  - - '2:13.0'
+    - ''
+    - ''
+    - 21-18
+    - ''
+    - D. Jones enters the game for M. Dickerson
+  - - '1:54.0'
+    - J. Starks makes 2-pt shot from 18 ft (assist by K. Malone)
+    - "+2"
+    - 23-18
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Turnover by S. Swift (lost ball; steal by O. Polynice)
+  - - '1:17.0'
+    - K. Malone misses 2-pt shot from 18 ft
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Defensive rebound by S. Swift
+  - - '1:07.0'
+    - ''
+    - ''
+    - 23-20
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 20 ft (assist by M. Bibby)
+  - - '0:49.0'
+    - Personal foul by I. Austin
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '0:49.0'
+    - D. Manning enters the game for K. Malone
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '0:49.0'
+    - G. Ostertag enters the game for O. Polynice
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '0:36.9'
+    - D. Manning misses 2-pt shot from 16 ft (block by S. Swift)
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '0:34.9'
+    - ''
+    - ''
+    - 23-20
+    - ''
+    - Defensive rebound by Team
+  - - '0:28.6'
+    - ''
+    - ''
+    - 23-22
+    - "+2"
+    - M. Bibby makes 2-pt shot from 2 ft
+  - - '0:08.5'
+    - D. Manning makes 2-pt shot from 16 ft (assist by J. Vaughn)
+    - "+2"
+    - 25-22
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 25-22
+    - ''
+    - S. Abdur-Rahim misses 3-pt shot from 29 ft
+  - - '0:00.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:38.0'
+    - ''
+    - ''
+    - 25-22
+    - ''
+    - D. Jones misses 3-pt shot from 27 ft
+  - - '11:36.0'
+    - Defensive rebound by J. Vaughn
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '11:22.0'
+    - D. Manning misses 2-pt shot from 13 ft
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '11:22.0'
+    - Offensive rebound by G. Ostertag
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '11:22.0'
+    - Loose ball foul by S. Swift
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '11:13.0'
+    - D. Manning makes 2-pt shot from 7 ft (assist by J. Starks)
+    - "+2"
+    - 27-22
+    - ''
+    - ''
+  - - '10:59.0'
+    - ''
+    - ''
+    - 27-22
+    - ''
+    - Turnover by S. Abdur-Rahim (bad pass; steal by J. Starks)
+  - - '10:56.0'
+    - Turnover by J. Starks (bad pass; steal by D. Jones)
+    - ''
+    - 27-22
+    - ''
+    - ''
+  - - '10:46.0'
+    - ''
+    - ''
+    - 27-24
+    - "+2"
+    - S. Swift makes 2-pt shot from 2 ft (assist by M. Bibby)
+  - - '10:25.0'
+    - J. Starks misses 3-pt shot from 23 ft
+    - ''
+    - 27-24
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 27-24
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '10:06.0'
+    - ''
+    - ''
+    - 27-26
+    - "+2"
+    - I. Austin makes 2-pt shot from 21 ft (assist by S. Swift)
+  - - '9:42.0'
+    - Turnover by J. Vaughn (bad pass; steal by S. Swift)
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 27-26
+    - ''
+    - M. Bibby misses 2-pt shot from 22 ft
+  - - '9:27.0'
+    - Defensive rebound by J. Starks
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '9:20.0'
+    - Ill def tech foul by Team
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 27-26
+    - ''
+    - M. Dickerson enters the game for M. Bibby
+  - - '9:20.0'
+    - D. Marshall enters the game for B. Russell
+    - ''
+    - 27-26
+    - ''
+    - ''
+  - - '9:20.0'
+    - J. Vaughn makes free throw technical
+    - "+1"
+    - 28-26
+    - ''
+    - ''
+  - - '9:10.0'
+    - G. Ostertag makes 2-pt shot from 2 ft (assist by D. Marshall)
+    - "+2"
+    - 30-26
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - D. Jones misses 2-pt shot from 7 ft
+  - - '8:40.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Offensive rebound by D. Jones
+  - - '8:40.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:40.0'
+    - Official timeout
+    - ''
+    - 30-26
+    - ''
+    - ''
+  - - '8:22.0'
+    - J. Vaughn makes 2-pt shot from 6 ft
+    - "+2"
+    - 32-26
+    - ''
+    - ''
+  - - '8:08.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 32-26
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - T. Massenburg enters the game for S. Swift
+  - - '7:53.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - Turnover by Team (shot clock)
+  - - '7:39.0'
+    - J. Starks misses 2-pt shot from 20 ft
+    - ''
+    - 32-26
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '7:31.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - Turnover by T. Massenburg (lost ball; steal by J. Starks)
+  - - '7:23.0'
+    - D. Manning misses 2-pt shot from 10 ft
+    - ''
+    - 32-26
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - Defensive rebound by I. Austin
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - Shooting foul by D. Marshall
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-26
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '7:04.0'
+    - J. Stockton enters the game for J. Vaughn
+    - ''
+    - 32-26
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-27
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - B. Reeves enters the game for I. Austin
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-28
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '6:39.0'
+    - D. Marshall misses 2-pt shot from 22 ft
+    - ''
+    - 32-28
+    - ''
+    - ''
+  - - '6:37.0'
+    - Offensive rebound by J. Stockton
+    - ''
+    - 32-28
+    - ''
+    - ''
+  - - '6:24.0'
+    - Turnover by J. Stockton (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 32-28
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 32-30
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 9 ft (assist by M. Bibby)
+  - - '5:44.0'
+    - Turnover by D. Manning (bad pass; steal by S. Abdur-Rahim)
+    - ''
+    - 32-30
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 32-32
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 3 ft (assist by M. Bibby)
+  - - '5:40.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Shooting foul by J. Starks
+  - - '5:40.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Vancouver full timeout
+  - - '5:40.0'
+    - K. Malone enters the game for D. Manning
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - S. Abdur-Rahim misses free throw 1 of 1
+  - - '5:38.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '5:20.0'
+    - J. Starks misses 3-pt shot from 26 ft
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Defensive rebound by T. Massenburg
+  - - '5:07.0'
+    - Violation by G. Ostertag (kicked ball)
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '4:58.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - B. Reeves misses 2-pt shot from 18 ft
+  - - '4:57.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '4:49.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 17 ft
+  - - '4:46.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Offensive rebound by T. Massenburg
+  - - '4:46.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Shooting foul by J. Stockton
+  - - '4:46.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - T. Massenburg misses free throw 1 of 2
+  - - '4:46.0'
+    - ''
+    - ''
+    - 32-32
+    - ''
+    - Offensive rebound by Team
+  - - '4:46.0'
+    - B. Russell enters the game for J. Starks
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 32-33
+    - "+1"
+    - T. Massenburg makes free throw 2 of 2
+  - - '4:36.0'
+    - K. Malone misses 2-pt shot from 17 ft
+    - ''
+    - 32-33
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 32-33
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '4:19.0'
+    - ''
+    - ''
+    - 32-35
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 19 ft
+  - - '4:08.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 32-35
+    - ''
+    - ''
+  - - '3:58.0'
+    - D. Marshall makes 2-pt shot from 2 ft (assist by J. Stockton)
+    - "+2"
+    - 34-35
+    - ''
+    - ''
+  - - '3:37.0'
+    - ''
+    - ''
+    - 34-35
+    - ''
+    - Personal foul by B. Russell
+  - - '3:32.0'
+    - ''
+    - ''
+    - 34-37
+    - "+2"
+    - B. Reeves makes 2-pt shot from 18 ft (assist by M. Bibby)
+  - - '3:17.0'
+    - Personal foul by T. Massenburg
+    - ''
+    - 34-37
+    - ''
+    - ''
+  - - '3:07.0'
+    - B. Russell makes 2-pt shot from 21 ft (assist by J. Stockton)
+    - "+2"
+    - 36-37
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 36-37
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 8 ft
+  - - '2:41.0'
+    - ''
+    - ''
+    - 36-37
+    - ''
+    - Offensive rebound by B. Reeves
+  - - '2:41.0'
+    - ''
+    - ''
+    - 36-37
+    - ''
+    - Shooting foul by G. Ostertag
+  - - '2:41.0'
+    - ''
+    - ''
+    - 36-37
+    - ''
+    - Vancouver full timeout
+  - - '2:41.0'
+    - O. Polynice enters the game for G. Ostertag
+    - ''
+    - 36-37
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 36-38
+    - "+1"
+    - B. Reeves makes free throw 1 of 2
+  - - '2:41.0'
+    - ''
+    - ''
+    - 36-39
+    - "+1"
+    - B. Reeves makes free throw 2 of 2
+  - - '2:31.0'
+    - K. Malone makes 2-pt shot from 3 ft (assist by B. Russell)
+    - "+2"
+    - 38-39
+    - ''
+    - ''
+  - - '2:31.0'
+    - Shooting foul by T. Massenburg
+    - ''
+    - 38-39
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 38-39
+    - ''
+    - I. Austin enters the game for T. Massenburg
+  - - '2:31.0'
+    - K. Malone makes free throw 1 of 1
+    - "+1"
+    - 39-39
+    - ''
+    - ''
+  - - '2:18.0'
+    - ''
+    - ''
+    - 39-42
+    - "+3"
+    - M. Bibby makes 3-pt shot from 27 ft (assist by M. Dickerson)
+  - - '2:04.0'
+    - Offensive foul by B. Russell
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '2:04.0'
+    - Turnover by B. Russell (foul)
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '1:51.0'
+    - Violation by B. Russell (kicked ball)
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 39-42
+    - ''
+    - M. Dickerson misses 2-pt shot from 4 ft
+  - - '1:43.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 39-42
+    - ''
+    - ''
+  - - '1:32.0'
+    - B. Russell makes 2-pt shot from 3 ft (assist by J. Stockton)
+    - "+2"
+    - 41-42
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - B. Reeves misses 2-pt shot from 17 ft
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-42
+    - ''
+    - Shooting foul by K. Malone
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-43
+    - "+1"
+    - S. Abdur-Rahim makes free throw 1 of 2
+  - - '1:17.0'
+    - S. Padgett enters the game for D. Marshall
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - D. Jones enters the game for M. Dickerson
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - S. Swift enters the game for B. Reeves
+  - - '1:17.0'
+    - ''
+    - ''
+    - 41-44
+    - "+1"
+    - S. Abdur-Rahim makes free throw 2 of 2
+  - - '0:59.9'
+    - K. Malone misses 2-pt shot from 14 ft
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:57.9'
+    - S. Padgett misses 2-pt shot from 4 ft (block by S. Swift)
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:57.9'
+    - Offensive rebound by S. Padgett
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:55.8'
+    - Offensive rebound by S. Padgett
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:53.5'
+    - S. Padgett misses 2-pt shot from 3 ft (block by S. Abdur-Rahim)
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:50.9'
+    - Offensive rebound by B. Russell
+    - ''
+    - 41-44
+    - ''
+    - ''
+  - - '0:48.9'
+    - J. Stockton makes 2-pt shot from 3 ft
+    - "+2"
+    - 43-44
+    - ''
+    - ''
+  - - '0:47.9'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - Turnover by S. Abdur-Rahim (bad pass; steal by B. Russell)
+  - - '0:39.0'
+    - Turnover by J. Stockton (bad pass)
+    - ''
+    - 43-44
+    - ''
+    - ''
+  - - '0:29.4'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - Shooting foul by S. Padgett
+  - - '0:29.4'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - S. Swift misses free throw 1 of 2
+  - - '0:29.4'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - Offensive rebound by Team
+  - - '0:29.4'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - S. Swift misses free throw 2 of 2
+  - - '0:28.9'
+    - Defensive rebound by S. Padgett
+    - ''
+    - 43-44
+    - ''
+    - ''
+  - - '0:05.9'
+    - K. Malone makes 2-pt shot from 3 ft (assist by J. Stockton)
+    - "+2"
+    - 45-44
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 45-44
+    - ''
+    - Personal foul by B. Russell
+  - - '0:01.4'
+    - ''
+    - ''
+    - 45-44
+    - ''
+    - D. Jones misses free throw 1 of 2
+  - - '0:01.4'
+    - ''
+    - ''
+    - 45-44
+    - ''
+    - Offensive rebound by Team
+  - - '0:01.4'
+    - ''
+    - ''
+    - 45-45
+    - "+1"
+    - D. Jones makes free throw 2 of 2
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:45.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - B. Reeves misses 2-pt shot from 7 ft
+  - - '11:43.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Offensive rebound by T. Massenburg
+  - - '11:32.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - M. Dickerson misses 3-pt shot from 26 ft
+  - - '11:30.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '11:24.0'
+    - D. Marshall misses 2-pt shot from 2 ft
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '11:19.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Personal foul by O. Polynice
+  - - '11:08.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - T. Massenburg misses 2-pt shot from 6 ft
+  - - '11:06.0'
+    - Defensive rebound by Team
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '10:55.0'
+    - Personal foul by T. Massenburg
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '10:48.0'
+    - Turnover by O. Polynice (3 second)
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '10:27.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - B. Reeves misses 2-pt shot from 11 ft
+  - - '10:24.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '10:15.0'
+    - K. Malone misses 2-pt shot from 3 ft
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '10:04.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 11 ft
+  - - '10:02.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:54.0'
+    - D. Marshall misses 2-pt shot from 7 ft (block by B. Reeves)
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:53.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:52.0'
+    - Shooting foul by T. Massenburg
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:52.0'
+    - J. Stockton misses free throw 1 of 2
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:52.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-45
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 45-45
+    - ''
+    - I. Austin enters the game for T. Massenburg
+  - - '9:52.0'
+    - J. Stockton makes free throw 2 of 2
+    - "+1"
+    - 46-45
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 46-47
+    - "+2"
+    - M. Bibby makes 2-pt shot from 22 ft (assist by M. Dickerson)
+  - - '9:28.0'
+    - K. Malone makes 2-pt shot from 3 ft (assist by B. Russell)
+    - "+2"
+    - 48-47
+    - ''
+    - ''
+  - - '9:13.0'
+    - ''
+    - ''
+    - 48-49
+    - "+2"
+    - B. Reeves makes 2-pt shot from 3 ft (assist by I. Austin)
+  - - '9:13.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Shooting foul by D. Marshall
+  - - '9:13.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - B. Reeves misses free throw 1 of 1
+  - - '9:12.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '8:57.0'
+    - Turnover by D. Marshall (lost ball; steal by B. Reeves)
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Personal foul by O. Polynice
+  - - '8:40.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - B. Reeves misses 2-pt shot from 8 ft
+  - - '8:38.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - Offensive rebound by I. Austin
+  - - '8:36.0'
+    - ''
+    - ''
+    - 48-49
+    - ''
+    - I. Austin misses 2-pt shot from 10 ft
+  - - '8:34.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 48-49
+    - ''
+    - ''
+  - - '8:18.0'
+    - O. Polynice makes 2-pt shot from 3 ft (assist by K. Malone)
+    - "+2"
+    - 50-49
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - Turnover by M. Dickerson (lost ball; steal by B. Russell)
+  - - '7:56.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '7:56.0'
+    - K. Malone makes free throw 1 of 2
+    - "+1"
+    - 51-49
+    - ''
+    - ''
+  - - '7:56.0'
+    - K. Malone makes free throw 2 of 2
+    - "+1"
+    - 52-49
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 52-49
+    - ''
+    - M. Dickerson misses 2-pt shot from 19 ft
+  - - '7:37.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '7:37.0'
+    - Turnover by B. Russell (out of bounds)
+    - ''
+    - 52-49
+    - ''
+    - ''
+  - - '7:23.0'
+    - ''
+    - ''
+    - 52-51
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 9 ft
+  - - '6:59.0'
+    - Shooting foul by I. Austin
+    - ''
+    - 52-51
+    - ''
+    - ''
+  - - '6:59.0'
+    - D. Marshall makes free throw 1 of 2
+    - "+1"
+    - 53-51
+    - ''
+    - ''
+  - - '6:59.0'
+    - D. Marshall misses free throw 2 of 2
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '6:45.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 10 ft
+  - - '6:44.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '6:38.0'
+    - O. Polynice makes 2-pt shot from 1 ft (assist by K. Malone)
+    - "+2"
+    - 55-51
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - Vancouver full timeout
+  - - '6:18.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - I. Austin misses 2-pt shot from 11 ft
+  - - '6:16.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '6:10.0'
+    - K. Malone makes 2-pt shot from 14 ft (assist by J. Stockton)
+    - "+2"
+    - 57-51
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - M. Dickerson misses 2-pt shot from 5 ft
+  - - '5:46.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '5:40.0'
+    - B. Russell misses 2-pt shot from 3 ft (block by B. Reeves)
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '5:37.0'
+    - O. Polynice makes 2-pt shot from 1 ft
+    - "+2"
+    - 59-51
+    - ''
+    - ''
+  - - '5:37.0'
+    - Offensive rebound by O. Polynice
+    - ''
+    - 59-51
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 59-51
+    - ''
+    - Personal foul by B. Russell
+  - - '5:28.0'
+    - J. Starks enters the game for B. Russell
+    - ''
+    - 59-51
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 59-51
+    - ''
+    - S. Swift enters the game for B. Reeves
+  - - '5:17.0'
+    - ''
+    - ''
+    - 59-53
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 6 ft (assist by M. Bibby)
+  - - '4:55.0'
+    - J. Stockton misses 3-pt shot from 24 ft
+    - ''
+    - 59-53
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 59-53
+    - ''
+    - Defensive rebound by I. Austin
+  - - '4:49.0'
+    - ''
+    - ''
+    - 59-55
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 2 ft (assist by M. Bibby)
+  - - '4:45.0'
+    - Shooting foul by S. Swift
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '4:45.0'
+    - J. Vaughn enters the game for J. Stockton
+    - ''
+    - 59-55
+    - ''
+    - ''
+  - - '4:45.0'
+    - K. Malone makes free throw 1 of 2
+    - "+1"
+    - 60-55
+    - ''
+    - ''
+  - - '4:45.0'
+    - K. Malone makes free throw 2 of 2
+    - "+1"
+    - 61-55
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 61-55
+    - ''
+    - Personal foul by O. Polynice
+  - - '4:27.0'
+    - ''
+    - ''
+    - 61-56
+    - "+1"
+    - I. Austin makes free throw 1 of 2
+  - - '4:27.0'
+    - ''
+    - ''
+    - 61-57
+    - "+1"
+    - I. Austin makes free throw 2 of 2
+  - - '4:11.0'
+    - K. Malone makes 2-pt shot from 13 ft
+    - "+2"
+    - 63-57
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 63-57
+    - ''
+    - S. Swift misses 2-pt shot from 12 ft
+  - - '3:45.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 63-57
+    - ''
+    - ''
+  - - '3:38.0'
+    - K. Malone makes 2-pt shot from 3 ft (assist by J. Vaughn)
+    - "+2"
+    - 65-57
+    - ''
+    - ''
+  - - '3:38.0'
+    - Shooting foul by S. Abdur-Rahim
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '3:38.0'
+    - K. Malone misses free throw 1 of 1
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - Defensive rebound by I. Austin
+  - - '3:16.0'
+    - ''
+    - ''
+    - 65-57
+    - ''
+    - I. Austin misses 2-pt shot from 13 ft (block by D. Marshall)
+  - - '3:15.0'
+    - Defensive rebound by J. Vaughn
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '3:15.0'
+    - Personal foul by I. Austin
+    - ''
+    - 65-57
+    - ''
+    - ''
+  - - '3:15.0'
+    - J. Vaughn makes free throw 1 of 2
+    - "+1"
+    - 66-57
+    - ''
+    - ''
+  - - '3:15.0'
+    - J. Vaughn makes free throw 2 of 2
+    - "+1"
+    - 67-57
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 67-57
+    - ''
+    - M. Bibby misses 2-pt shot from 19 ft
+  - - '3:01.0'
+    - Defensive rebound by K. Malone
+    - ''
+    - 67-57
+    - ''
+    - ''
+  - - '2:38.0'
+    - K. Malone misses 2-pt shot from 20 ft
+    - ''
+    - 67-57
+    - ''
+    - ''
+  - - '2:36.0'
+    - ''
+    - ''
+    - 67-57
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '2:33.0'
+    - ''
+    - ''
+    - 67-57
+    - ''
+    - I. Austin misses 2-pt shot from 3 ft
+  - - '2:31.0'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 67-57
+    - ''
+    - ''
+  - - '2:13.0'
+    - D. Marshall makes 2-pt shot from 3 ft (assist by J. Starks)
+    - "+2"
+    - 69-57
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 69-57
+    - ''
+    - Vancouver 20 second timeout
+  - - '2:03.0'
+    - ''
+    - ''
+    - 69-57
+    - ''
+    - Vancouver full timeout
+  - - '1:47.0'
+    - ''
+    - ''
+    - 69-59
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 8 ft
+  - - '1:29.0'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 69-59
+    - ''
+    - ''
+  - - '1:29.0'
+    - ''
+    - ''
+    - 69-59
+    - ''
+    - D. Jones enters the game for M. Bibby
+  - - '1:29.0'
+    - K. Malone makes free throw 1 of 2
+    - "+1"
+    - 70-59
+    - ''
+    - ''
+  - - '1:29.0'
+    - K. Malone makes free throw 2 of 2
+    - "+1"
+    - 71-59
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 71-61
+    - "+2"
+    - S. Swift makes 2-pt shot from 3 ft (assist by D. Jones)
+  - - '0:57.9'
+    - K. Malone makes 2-pt shot from 16 ft
+    - "+2"
+    - 73-61
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - D. Jones misses 2-pt shot from 21 ft
+  - - '0:37.9'
+    - Defensive rebound by O. Polynice
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '0:20.9'
+    - K. Malone misses 2-pt shot from 15 ft
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '0:18.9'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - Defensive rebound by S. Swift
+  - - '0:02.9'
+    - ''
+    - ''
+    - 73-61
+    - ''
+    - M. Dickerson misses 2-pt shot from 20 ft
+  - - '0:00.0'
+    - Defensive rebound by D. Marshall
+    - ''
+    - 73-61
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:35.0'
+    - J. Starks makes 3-pt shot from 26 ft (assist by D. Marshall)
+    - "+3"
+    - 76-61
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 3 ft (block by D. Marshall)
+  - - '11:16.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - Offensive rebound by Team
+  - - '11:13.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - Turnover by B. Reeves (lost ball; steal by D. Manning)
+  - - '11:06.0'
+    - Utah 20 second timeout
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '11:06.0'
+    - S. Padgett enters the game for D. Marshall
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '10:52.0'
+    - D. Manning misses 2-pt shot from 17 ft
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '10:50.0'
+    - Offensive rebound by S. Padgett
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '10:38.0'
+    - Personal foul by B. Reeves
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '10:36.0'
+    - J. Vaughn misses 3-pt shot from 26 ft
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - Defensive rebound by D. Jones
+  - - '10:22.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - Personal foul by D. Manning
+  - - '10:08.0'
+    - ''
+    - ''
+    - 76-61
+    - ''
+    - T. Massenburg misses 2-pt shot from 9 ft (block by D. Manning)
+  - - '10:06.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '9:45.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 76-61
+    - ''
+    - ''
+  - - '9:34.0'
+    - ''
+    - ''
+    - 76-64
+    - "+3"
+    - M. Abdul-Rauf makes 3-pt shot from 26 ft
+  - - '9:19.0'
+    - S. Padgett misses 2-pt shot from 16 ft
+    - ''
+    - 76-64
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '9:04.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - B. Reeves misses 2-pt shot from 15 ft (block by D. Manning)
+  - - '9:01.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - Offensive rebound by T. Massenburg
+  - - '9:00.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - Shooting foul by G. Ostertag
+  - - '9:00.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - T. Massenburg misses free throw 1 of 2
+  - - '9:00.0'
+    - ''
+    - ''
+    - 76-64
+    - ''
+    - Offensive rebound by Team
+  - - '9:00.0'
+    - ''
+    - ''
+    - 76-65
+    - "+1"
+    - T. Massenburg makes free throw 2 of 2
+  - - '8:45.0'
+    - Turnover by D. Manning (out of bounds)
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '8:45.0'
+    - ''
+    - ''
+    - 76-65
+    - ''
+    - Official timeout
+  - - '8:45.0'
+    - B. Russell enters the game for J. Vaughn
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '8:45.0'
+    - J. Stockton enters the game for S. Padgett
+    - ''
+    - 76-65
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 76-67
+    - "+2"
+    - M. Abdul-Rauf makes 2-pt shot from 15 ft (assist by D. Jones)
+  - - '8:06.0'
+    - J. Starks misses 2-pt shot from 13 ft
+    - ''
+    - 76-67
+    - ''
+    - ''
+  - - '8:04.0'
+    - ''
+    - ''
+    - 76-67
+    - ''
+    - Defensive rebound by S. Abdur-Rahim
+  - - '7:52.0'
+    - ''
+    - ''
+    - 76-69
+    - "+2"
+    - T. Massenburg makes 2-pt shot from 7 ft (assist by D. Jones)
+  - - '7:52.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Shooting foul by D. Manning
+  - - '7:52.0'
+    - K. Malone enters the game for D. Manning
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - T. Massenburg misses free throw 1 of 1
+  - - '7:50.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '7:35.0'
+    - K. Malone misses 2-pt shot from 5 ft
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '7:33.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '7:22.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - T. Massenburg misses 2-pt shot from 10 ft
+  - - '7:20.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 76-69
+    - ''
+    - Violation by Team (delay of game)
+  - - '7:09.0'
+    - Ill def tech foul by T. Massenburg
+    - ''
+    - 76-69
+    - ''
+    - ''
+  - - '7:09.0'
+    - J. Stockton makes free throw technical
+    - "+1"
+    - 77-69
+    - ''
+    - ''
+  - - '6:55.0'
+    - J. Starks makes 2-pt shot from 17 ft (assist by K. Malone)
+    - "+2"
+    - 79-69
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 79-69
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 10 ft
+  - - '6:39.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 79-69
+    - ''
+    - ''
+  - - '6:23.0'
+    - J. Stockton misses 2-pt shot from 4 ft
+    - ''
+    - 79-69
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 79-69
+    - ''
+    - Defensive rebound by B. Reeves
+  - - '6:10.0'
+    - ''
+    - ''
+    - 79-69
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 5 ft (block by G. Ostertag)
+  - - '6:07.0'
+    - ''
+    - ''
+    - 79-71
+    - "+2"
+    - S. Abdur-Rahim makes 2-pt shot from 1 ft
+  - - '6:07.0'
+    - ''
+    - ''
+    - 79-71
+    - ''
+    - Offensive rebound by S. Abdur-Rahim
+  - - '5:45.0'
+    - J. Starks makes 2-pt shot from 20 ft (assist by K. Malone)
+    - "+2"
+    - 81-71
+    - ''
+    - ''
+  - - '5:33.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - Vancouver full timeout
+  - - '5:33.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - M. Dickerson enters the game for T. Massenburg
+  - - '5:33.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - M. Bibby enters the game for D. Jones
+  - - '5:20.0'
+    - ''
+    - ''
+    - 81-71
+    - ''
+    - M. Abdul-Rauf misses 2-pt shot from 19 ft
+  - - '5:19.0'
+    - Defensive rebound by J. Stockton
+    - ''
+    - 81-71
+    - ''
+    - ''
+  - - '5:12.0'
+    - K. Malone misses 2-pt shot from 4 ft
+    - ''
+    - 81-71
+    - ''
+    - ''
+  - - '5:09.0'
+    - K. Malone makes 2-pt shot from 4 ft
+    - "+2"
+    - 83-71
+    - ''
+    - ''
+  - - '5:09.0'
+    - Offensive rebound by K. Malone
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '4:56.0'
+    - ''
+    - ''
+    - 83-71
+    - ''
+    - Turnover by M. Abdul-Rauf (bad pass)
+  - - '4:44.0'
+    - Ill def tech foul by Team
+    - ''
+    - 83-71
+    - ''
+    - ''
+  - - '4:44.0'
+    - J. Stockton makes free throw technical
+    - "+1"
+    - 84-71
+    - ''
+    - ''
+  - - '4:36.0'
+    - J. Starks misses 3-pt shot from 23 ft
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '4:34.0'
+    - Offensive rebound by K. Malone
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '4:20.0'
+    - Turnover by J. Stockton (bad pass)
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 84-71
+    - ''
+    - M. Bibby misses 3-pt shot from 24 ft
+  - - '4:02.0'
+    - Defensive rebound by J. Starks
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '3:55.0'
+    - Ill def tech foul by Team
+    - ''
+    - 84-71
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 84-71
+    - ''
+    - T. Massenburg enters the game for M. Abdul-Rauf
+  - - '3:55.0'
+    - J. Stockton makes free throw technical
+    - "+1"
+    - 85-71
+    - ''
+    - ''
+  - - '3:45.0'
+    - K. Malone misses 2-pt shot from 16 ft
+    - ''
+    - 85-71
+    - ''
+    - ''
+  - - '3:44.0'
+    - Offensive rebound by J. Starks
+    - ''
+    - 85-71
+    - ''
+    - ''
+  - - '3:34.0'
+    - K. Malone makes 2-pt shot from 17 ft (assist by J. Stockton)
+    - "+2"
+    - 87-71
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 87-71
+    - ''
+    - Turnover by T. Massenburg (out of bounds)
+  - - '2:59.0'
+    - Turnover by J. Starks (lost ball; steal by M. Bibby)
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:53.0'
+    - ''
+    - ''
+    - 87-71
+    - ''
+    - M. Bibby misses 2-pt shot from 18 ft
+  - - '2:51.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:44.0'
+    - Utah full timeout
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 87-71
+    - ''
+    - S. Swift enters the game for B. Reeves
+  - - '2:34.0'
+    - K. Malone misses 2-pt shot from 13 ft
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:32.0'
+    - G. Ostertag misses 2-pt shot from 3 ft
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by G. Ostertag
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:29.0'
+    - Offensive rebound by B. Russell
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:28.0'
+    - Personal foul by S. Abdur-Rahim
+    - ''
+    - 87-71
+    - ''
+    - ''
+  - - '2:10.0'
+    - J. Starks makes 3-pt shot from 23 ft (assist by B. Russell)
+    - "+3"
+    - 90-71
+    - ''
+    - ''
+  - - '1:43.0'
+    - ''
+    - ''
+    - 90-71
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 11 ft
+  - - '1:41.0'
+    - Defensive rebound by G. Ostertag
+    - ''
+    - 90-71
+    - ''
+    - ''
+  - - '1:30.0'
+    - J. Stockton makes 2-pt shot from 2 ft (assist by K. Malone)
+    - "+2"
+    - 92-71
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - S. Abdur-Rahim misses 2-pt shot from 6 ft
+  - - '1:16.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - Offensive rebound by Team
+  - - '1:16.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - D. Jones enters the game for S. Abdur-Rahim
+  - - '1:16.0'
+    - J. Crotty enters the game for K. Malone
+    - ''
+    - 92-71
+    - ''
+    - ''
+  - - '1:16.0'
+    - Q. Lewis enters the game for J. Stockton
+    - ''
+    - 92-71
+    - ''
+    - ''
+  - - '1:09.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - M. Dickerson misses 3-pt shot from 25 ft
+  - - '1:07.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - Offensive rebound by T. Massenburg
+  - - '1:00.0'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - Personal foul by J. Starks
+  - - '0:55.9'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - D. Jones misses 3-pt shot from 23 ft
+  - - '0:53.9'
+    - Defensive rebound by B. Russell
+    - ''
+    - 92-71
+    - ''
+    - ''
+  - - '0:51.0'
+    - Personal foul by M. Dickerson
+    - ''
+    - 92-71
+    - ''
+    - ''
+  - - '0:38.9'
+    - B. Russell misses 2-pt shot from 15 ft
+    - ''
+    - 92-71
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 92-71
+    - ''
+    - Defensive rebound by M. Bibby
+  - - '0:30.4'
+    - ''
+    - ''
+    - 92-73
+    - "+2"
+    - M. Dickerson makes 2-pt shot from 3 ft
+  - - '0:11.8'
+    - Turnover by J. Starks (out of bounds)
+    - ''
+    - 92-73
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

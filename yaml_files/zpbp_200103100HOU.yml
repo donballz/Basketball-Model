@@ -1,0 +1,2486 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Cato vs. A. Foyle (A. Jamison gains possession)'
+  - - '11:44.0'
+    - C. Porter misses 2-pt shot from 20 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by S. Francis
+  - - '11:37.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Mobley misses 2-pt shot at rim
+  - - '11:35.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:27.0'
+    - B. Sura makes 3-pt shot from 25 ft
+    - "+3"
+    - 3-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - M. Taylor misses 2-pt shot from 12 ft
+  - - '11:08.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '10:56.0'
+    - A. Foyle misses 2-pt shot from 9 ft
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '10:55.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 5-0
+    - ''
+    - ''
+  - - '10:55.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Personal foul by C. Porter
+  - - '10:29.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - K. Cato misses 2-pt shot at rim (block by A. Foyle)
+  - - '10:28.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Offensive rebound by Team
+  - - '10:27.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Turnover by Team (shot clock)
+  - - '10:11.0'
+    - A. Jamison misses 2-pt shot from 7 ft
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - Defensive rebound by K. Cato
+  - - '10:03.0'
+    - ''
+    - ''
+    - 5-2
+    - "+2"
+    - S. Francis makes 2-pt shot from 18 ft
+  - - '9:49.0'
+    - A. Jamison misses 3-pt shot from 25 ft
+    - ''
+    - 5-2
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 5-2
+    - ''
+    - Defensive rebound by K. Cato
+  - - '9:41.0'
+    - ''
+    - ''
+    - 5-4
+    - "+2"
+    - S. Anderson makes 2-pt shot from 12 ft (assist by S. Francis)
+  - - '9:29.0'
+    - B. Sura misses 2-pt shot from 6 ft
+    - ''
+    - 5-4
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 5-4
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '9:22.0'
+    - ''
+    - ''
+    - 5-6
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by S. Anderson)
+  - - '8:59.0'
+    - Personal foul by K. Cato
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:54.0'
+    - B. Sura makes 2-pt shot at rim
+    - "+2"
+    - 7-6
+    - ''
+    - ''
+  - - '8:54.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 7-6
+    - ''
+    - ''
+  - - '8:54.0'
+    - B. Sura makes free throw 1 of 1
+    - "+1"
+    - 8-6
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 8-8
+    - "+2"
+    - K. Cato makes 2-pt shot at rim (assist by S. Francis)
+  - - '8:27.0'
+    - V. Cummings misses 2-pt shot from 20 ft
+    - ''
+    - 8-8
+    - ''
+    - ''
+  - - '8:26.0'
+    - ''
+    - ''
+    - 8-8
+    - ''
+    - Defensive rebound by S. Francis
+  - - '8:16.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by M. Taylor)
+  - - '8:02.0'
+    - A. Jamison makes 2-pt shot from 9 ft (assist by B. Sura)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:48.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - C. Mobley misses 3-pt shot from 23 ft
+  - - '7:46.0'
+    - Defensive rebound by Team
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '7:46.0'
+    - Loose ball foul by K. Cato
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - K. Thomas enters the game for K. Cato
+  - - '7:35.0'
+    - Turnover by B. Sura (lost ball; steal by K. Thomas)
+    - ''
+    - 10-10
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 10-10
+    - ''
+    - Turnover by C. Mobley (bad pass; steal by V. Cummings)
+  - - '7:29.0'
+    - A. Foyle makes 2-pt shot at rim (assist by V. Cummings)
+    - "+2"
+    - 12-10
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 12-12
+    - "+2"
+    - M. Taylor makes 2-pt shot at rim
+  - - '6:51.0'
+    - A. Jamison misses 2-pt shot from 13 ft
+    - ''
+    - 12-12
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '6:41.0'
+    - ''
+    - ''
+    - 12-14
+    - "+2"
+    - M. Taylor makes 2-pt shot from 16 ft (assist by S. Anderson)
+  - - '6:26.0'
+    - B. Sura misses 3-pt shot from 24 ft
+    - ''
+    - 12-14
+    - ''
+    - ''
+  - - '6:24.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '6:23.0'
+    - ''
+    - ''
+    - 12-14
+    - ''
+    - Turnover by M. Taylor (bad pass; steal by V. Cummings)
+  - - '6:19.0'
+    - V. Cummings makes 2-pt shot at rim
+    - "+2"
+    - 14-14
+    - ''
+    - ''
+  - - '6:12.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - Houston full timeout
+  - - '6:00.0'
+    - ''
+    - ''
+    - 14-14
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '5:58.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 14-14
+    - ''
+    - ''
+  - - '5:38.0'
+    - V. Cummings makes 2-pt shot from 21 ft (assist by C. Porter)
+    - "+2"
+    - 16-14
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 16-14
+    - ''
+    - Turnover by S. Anderson (bad pass)
+  - - '5:04.0'
+    - C. Porter makes 2-pt shot from 14 ft
+    - "+2"
+    - 18-14
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 18-14
+    - ''
+    - S. Anderson misses 3-pt shot from 25 ft
+  - - '4:44.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 18-14
+    - ''
+    - ''
+  - - '4:32.0'
+    - A. Foyle makes 2-pt shot at rim (assist by B. Sura)
+    - "+2"
+    - 20-14
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 20-14
+    - ''
+    - C. Mobley misses 2-pt shot from 22 ft
+  - - '4:09.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - Shooting foul by M. Taylor
+    - ''
+    - 20-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - C. Porter makes free throw 1 of 2
+    - "+1"
+    - 21-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - ''
+    - ''
+    - 21-14
+    - ''
+    - C. Rogers enters the game for M. Taylor
+  - - '3:53.0'
+    - E. Dampier enters the game for A. Foyle
+    - ''
+    - 21-14
+    - ''
+    - ''
+  - - '3:53.0'
+    - C. Porter makes free throw 2 of 2
+    - "+1"
+    - 22-14
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 22-14
+    - ''
+    - Personal foul by C. Porter
+  - - '3:31.0'
+    - ''
+    - ''
+    - 22-14
+    - ''
+    - S. Francis misses 2-pt shot at rim
+  - - '3:30.0'
+    - ''
+    - ''
+    - 22-16
+    - "+2"
+    - S. Francis makes 2-pt shot at rim
+  - - '3:30.0'
+    - ''
+    - ''
+    - 22-16
+    - ''
+    - Offensive rebound by S. Francis
+  - - '3:08.0'
+    - C. Porter misses 2-pt shot from 19 ft
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '3:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '3:06.0'
+    - Loose ball foul by K. Thomas
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '3:06.0'
+    - A. Keefe enters the game for C. Porter
+    - ''
+    - 22-16
+    - ''
+    - ''
+  - - '3:06.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 23-16
+    - ''
+    - ''
+  - - '3:06.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 24-16
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Shooting foul by A. Jamison
+  - - '2:51.0'
+    - ''
+    - ''
+    - 24-16
+    - ''
+    - Houston full timeout
+  - - '2:51.0'
+    - ''
+    - ''
+    - 24-17
+    - "+1"
+    - S. Anderson makes free throw 1 of 2
+  - - '2:51.0'
+    - ''
+    - ''
+    - 24-18
+    - "+1"
+    - S. Anderson makes free throw 2 of 2
+  - - '2:40.0'
+    - V. Cummings makes 2-pt shot from 22 ft
+    - "+2"
+    - 26-18
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - Offensive rebound by C. Rogers
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - Shooting foul by A. Keefe
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - W. Williams enters the game for S. Anderson
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - C. Rogers misses free throw 1 of 2
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-18
+    - ''
+    - Offensive rebound by Team
+  - - '2:22.0'
+    - ''
+    - ''
+    - 26-19
+    - "+1"
+    - C. Rogers makes free throw 2 of 2
+  - - '2:05.0'
+    - E. Dampier makes 2-pt shot from 6 ft
+    - "+2"
+    - 28-19
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 28-21
+    - "+2"
+    - C. Rogers makes 2-pt shot from 6 ft (assist by C. Mobley)
+  - - '1:33.0'
+    - E. Dampier makes 2-pt shot at rim
+    - "+2"
+    - 30-21
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 30-21
+    - ''
+    - W. Williams misses 3-pt shot from 26 ft
+  - - '1:16.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 30-21
+    - ''
+    - ''
+  - - '1:09.0'
+    - V. Cummings misses 2-pt shot from 23 ft
+    - ''
+    - 30-21
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 30-21
+    - ''
+    - Defensive rebound by W. Williams
+  - - '0:56.8'
+    - ''
+    - ''
+    - 30-23
+    - "+2"
+    - C. Rogers makes 2-pt shot at rim (assist by C. Mobley)
+  - - '0:39.7'
+    - A. Jamison misses 2-pt shot from 15 ft
+    - ''
+    - 30-23
+    - ''
+    - ''
+  - - '0:37.5'
+    - ''
+    - ''
+    - 30-23
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '0:29.9'
+    - ''
+    - ''
+    - 30-25
+    - "+2"
+    - S. Francis makes 2-pt shot from 18 ft
+  - - '0:10.9'
+    - A. Jamison misses 2-pt shot from 18 ft
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '0:08.5'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '0:00.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - S. Francis misses 2-pt shot from 22 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:42.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Turnover by C. Rogers (lost ball; steal by A. Keefe)
+  - - '11:24.0'
+    - V. Cummings misses 3-pt shot from 23 ft
+    - ''
+    - 30-25
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '11:12.0'
+    - ''
+    - ''
+    - 30-25
+    - ''
+    - Shooting foul by P. McPherson
+  - - '11:12.0'
+    - ''
+    - ''
+    - 30-26
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '11:12.0'
+    - ''
+    - ''
+    - 30-27
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '10:53.0'
+    - Turnover by V. Cummings (bad pass; steal by C. Rogers)
+    - ''
+    - 30-27
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 30-29
+    - "+2"
+    - K. Thomas makes 2-pt shot from 18 ft (assist by S. Francis)
+  - - '10:31.0'
+    - A. Jamison makes 2-pt shot at rim (assist by V. Cummings)
+    - "+2"
+    - 32-29
+    - ''
+    - ''
+  - - '10:09.0'
+    - A. Foyle enters the game for E. Dampier
+    - ''
+    - 32-29
+    - ''
+    - ''
+  - - '10:00.0'
+    - ''
+    - ''
+    - 32-29
+    - ''
+    - C. Mobley misses 2-pt shot from 14 ft
+  - - '9:56.0'
+    - Defensive rebound by A. Keefe
+    - ''
+    - 32-29
+    - ''
+    - ''
+  - - '9:50.0'
+    - Turnover by V. Cummings (lost ball; steal by K. Thomas)
+    - ''
+    - 32-29
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-29
+    - ''
+    - Shooting foul by A. Keefe
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-30
+    - "+1"
+    - C. Rogers makes free throw 1 of 2
+  - - '9:46.0'
+    - B. Sura enters the game for V. Cummings
+    - ''
+    - 32-30
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-30
+    - ''
+    - M. Norris enters the game for C. Mobley
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-30
+    - ''
+    - C. Rogers misses free throw 2 of 2
+  - - '9:46.0'
+    - ''
+    - ''
+    - 32-30
+    - ''
+    - Offensive rebound by K. Thomas
+  - - '9:38.0'
+    - ''
+    - ''
+    - 32-32
+    - "+2"
+    - W. Williams makes 2-pt shot at rim
+  - - '9:18.0'
+    - Turnover by P. McPherson (bad pass; steal by M. Norris)
+    - ''
+    - 32-32
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 32-34
+    - "+2"
+    - M. Norris makes 2-pt shot at rim
+  - - '9:05.0'
+    - Golden State full timeout
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '8:57.0'
+    - B. Sura misses 2-pt shot from 7 ft
+    - ''
+    - 32-34
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - Defensive rebound by W. Williams
+  - - '8:39.0'
+    - ''
+    - ''
+    - 32-34
+    - ''
+    - W. Williams misses 2-pt shot at rim
+  - - '8:38.0'
+    - ''
+    - ''
+    - 32-36
+    - "+2"
+    - C. Rogers makes 2-pt shot at rim
+  - - '8:38.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Offensive rebound by C. Rogers
+  - - '8:22.0'
+    - A. Jamison misses 2-pt shot from 18 ft
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Defensive rebound by S. Francis
+  - - '8:07.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Turnover by S. Francis (lost ball; steal by P. McPherson)
+  - - '8:02.0'
+    - B. Sura misses 2-pt shot from 13 ft
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '8:01.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Defensive rebound by S. Francis
+  - - '7:59.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Turnover by S. Francis (traveling)
+  - - '7:59.0'
+    - C. Blount enters the game for A. Keefe
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '7:59.0'
+    - C. Porter enters the game for P. McPherson
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '7:53.0'
+    - C. Porter misses 2-pt shot at rim (block by C. Rogers)
+    - ''
+    - 32-36
+    - ''
+    - ''
+  - - '7:51.0'
+    - ''
+    - ''
+    - 32-36
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '7:35.0'
+    - ''
+    - ''
+    - 32-38
+    - "+2"
+    - C. Rogers makes 2-pt shot at rim (assist by S. Francis)
+  - - '7:19.0'
+    - A. Jamison misses 2-pt shot from 6 ft
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '7:17.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '7:09.0'
+    - Turnover by B. Sura (lost ball; steal by S. Francis)
+    - ''
+    - 32-38
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-40
+    - "+2"
+    - C. Rogers makes 2-pt shot at rim (assist by M. Norris)
+  - - '6:55.0'
+    - Golden State 20 second timeout
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:43.0'
+    - C. Blount misses 2-pt shot from 6 ft
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:40.0'
+    - A. Foyle misses 2-pt shot from 5 ft
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 32-40
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '6:27.0'
+    - ''
+    - ''
+    - 32-40
+    - ''
+    - M. Norris misses 2-pt shot from 17 ft
+  - - '6:25.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - Shooting foul by S. Francis
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - V. Cummings enters the game for B. Sura
+    - ''
+    - 32-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - C. Porter makes free throw 1 of 2
+    - "+1"
+    - 33-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - E. Dampier enters the game for A. Foyle
+    - ''
+    - 33-40
+    - ''
+    - ''
+  - - '6:17.0'
+    - C. Porter makes free throw 2 of 2
+    - "+1"
+    - 34-40
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 34-40
+    - ''
+    - S. Francis misses 3-pt shot from 26 ft
+  - - '5:52.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 34-40
+    - ''
+    - ''
+  - - '5:50.0'
+    - Turnover by C. Porter (lost ball; steal by S. Francis)
+    - ''
+    - 34-40
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 34-42
+    - "+2"
+    - K. Thomas makes 2-pt shot at rim (assist by M. Norris)
+  - - '5:20.0'
+    - C. Porter makes 2-pt shot from 15 ft (assist by A. Jamison)
+    - "+2"
+    - 36-42
+    - ''
+    - ''
+  - - '4:54.0'
+    - ''
+    - ''
+    - 36-42
+    - ''
+    - S. Francis misses 2-pt shot from 15 ft
+  - - '4:52.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:46.0'
+    - Official timeout
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 36-42
+    - ''
+    - M. Taylor enters the game for K. Thomas
+  - - '4:46.0'
+    - 'Jump ball: M. Norris vs. V. Cummings (C. Blount gains possession)'
+  - - '4:32.0'
+    - Turnover by C. Blount (bad pass; steal by M. Norris)
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 36-42
+    - ''
+    - M. Taylor misses 2-pt shot from 11 ft
+  - - '4:18.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:08.0'
+    - C. Blount misses 2-pt shot from 19 ft
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:06.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '4:04.0'
+    - Turnover by C. Blount (bad pass; steal by C. Rogers)
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '3:56.0'
+    - ''
+    - ''
+    - 36-42
+    - ''
+    - W. Williams misses 3-pt shot from 25 ft
+  - - '3:54.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 36-42
+    - ''
+    - ''
+  - - '3:50.0'
+    - A. Jamison makes 2-pt shot at rim (assist by C. Blount)
+    - "+2"
+    - 38-42
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - W. Williams misses 3-pt shot from 24 ft
+  - - '3:29.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - Offensive rebound by M. Taylor
+  - - '3:26.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - W. Williams misses 3-pt shot from 25 ft
+  - - '3:24.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - Offensive rebound by M. Taylor
+  - - '3:08.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - M. Taylor misses 2-pt shot from 18 ft
+  - - '3:06.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 38-42
+    - ''
+    - ''
+  - - '3:00.0'
+    - A. Jamison misses 2-pt shot from 9 ft
+    - ''
+    - 38-42
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 38-42
+    - ''
+    - Defensive rebound by W. Williams
+  - - '2:50.0'
+    - ''
+    - ''
+    - 38-44
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by W. Williams)
+  - - '2:28.0'
+    - Turnover by A. Jamison (bad pass; steal by S. Francis)
+    - ''
+    - 38-44
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 38-44
+    - ''
+    - Turnover by S. Francis (bad pass)
+  - - '2:21.0'
+    - Golden State full timeout
+    - ''
+    - 38-44
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 38-44
+    - ''
+    - C. Mobley enters the game for M. Norris
+  - - '2:05.0'
+    - A. Jamison makes 2-pt shot from 13 ft
+    - "+2"
+    - 40-44
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 40-44
+    - ''
+    - W. Williams misses 2-pt shot from 11 ft
+  - - '1:47.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 40-44
+    - ''
+    - ''
+  - - '1:32.0'
+    - C. Porter makes 2-pt shot from 16 ft (assist by V. Cummings)
+    - "+2"
+    - 42-44
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - M. Taylor misses 2-pt shot from 14 ft
+  - - '1:13.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - C. Rogers misses 2-pt shot at rim
+  - - '1:13.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Offensive rebound by C. Rogers
+  - - '1:11.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '1:06.0'
+    - Turnover by E. Dampier (lost ball; steal by S. Francis)
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Turnover by C. Rogers (bad pass; steal by C. Blount)
+  - - '0:58.0'
+    - E. Dampier misses 2-pt shot from 10 ft
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:56.8'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '0:51.6'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - W. Williams misses 3-pt shot from 25 ft
+  - - '0:49.4'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:40.8'
+    - C. Blount misses 2-pt shot at rim
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:38.6'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '0:35.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - Personal foul by C. Porter
+  - - '0:35.0'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - S. Anderson enters the game for W. Williams
+  - - '0:35.0'
+    - B. Sura enters the game for C. Porter
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:30.3'
+    - ''
+    - ''
+    - 42-44
+    - ''
+    - S. Francis misses 3-pt shot from 25 ft
+  - - '0:29.1'
+    - Defensive rebound by Team
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:11.8'
+    - E. Dampier misses 2-pt shot from 8 ft
+    - ''
+    - 42-44
+    - ''
+    - ''
+  - - '0:10.4'
+    - C. Blount makes 2-pt shot at rim
+    - "+2"
+    - 44-44
+    - ''
+    - ''
+  - - '0:10.4'
+    - Offensive rebound by C. Blount
+    - ''
+    - 44-44
+    - ''
+    - ''
+  - - '0:04.3'
+    - ''
+    - ''
+    - 44-44
+    - ''
+    - Turnover by S. Francis (bad pass; steal by V. Cummings)
+  - - '0:00.0'
+    - A. Jamison makes 2-pt shot at rim (assist by V. Cummings)
+    - "+2"
+    - 46-44
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:41.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Turnover by M. Taylor (lost ball)
+  - - '11:28.0'
+    - C. Porter misses 2-pt shot from 18 ft
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '11:12.0'
+    - ''
+    - ''
+    - 46-44
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by A. Foyle)
+  - - '11:07.0'
+    - V. Cummings misses 2-pt shot from 18 ft
+    - ''
+    - 46-44
+    - ''
+    - ''
+  - - '11:06.0'
+    - A. Jamison makes 2-pt shot at rim
+    - "+2"
+    - 48-44
+    - ''
+    - ''
+  - - '11:06.0'
+    - Offensive rebound by A. Jamison
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Turnover by C. Mobley (bad pass)
+  - - '10:33.0'
+    - A. Foyle misses 2-pt shot from 8 ft
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '10:23.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - M. Taylor misses 2-pt shot from 19 ft
+  - - '10:21.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '10:02.0'
+    - Turnover by B. Sura (lost ball; steal by S. Francis)
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 48-46
+    - "+2"
+    - S. Francis makes 2-pt shot at rim
+  - - '9:36.0'
+    - A. Jamison misses 2-pt shot from 14 ft
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '9:34.0'
+    - Offensive rebound by A. Foyle
+    - ''
+    - 48-46
+    - ''
+    - ''
+  - - '9:32.0'
+    - A. Foyle makes 2-pt shot from 6 ft
+    - "+2"
+    - 50-46
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 50-49
+    - "+3"
+    - S. Francis makes 3-pt shot from 25 ft (assist by C. Mobley)
+  - - '8:52.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '8:52.0'
+    - C. Porter makes free throw 1 of 2
+    - "+1"
+    - 51-49
+    - ''
+    - ''
+  - - '8:52.0'
+    - C. Porter misses free throw 2 of 2
+    - ''
+    - 51-49
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 51-49
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '8:39.0'
+    - ''
+    - ''
+    - 51-51
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by M. Taylor)
+  - - '8:17.0'
+    - A. Jamison makes 2-pt shot from 6 ft (assist by V. Cummings)
+    - "+2"
+    - 53-51
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Personal foul by A. Foyle
+  - - '7:55.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - S. Anderson misses 2-pt shot from 7 ft
+  - - '7:53.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - Offensive rebound by S. Anderson
+  - - '7:52.0'
+    - ''
+    - ''
+    - 53-51
+    - ''
+    - S. Anderson misses 2-pt shot from 6 ft (block by A. Foyle)
+  - - '7:50.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '7:41.0'
+    - Shooting foul by K. Cato
+    - ''
+    - 53-51
+    - ''
+    - ''
+  - - '7:41.0'
+    - A. Foyle makes free throw 1 of 2
+    - "+1"
+    - 54-51
+    - ''
+    - ''
+  - - '7:41.0'
+    - A. Foyle makes free throw 2 of 2
+    - "+1"
+    - 55-51
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - Personal foul by V. Cummings
+  - - '7:23.0'
+    - ''
+    - ''
+    - 55-51
+    - ''
+    - M. Taylor misses 2-pt shot from 18 ft
+  - - '7:21.0'
+    - Defensive rebound by C. Porter
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '7:05.0'
+    - B. Sura misses 2-pt shot at rim
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '7:03.0'
+    - Offensive rebound by B. Sura
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '7:02.0'
+    - B. Sura makes 2-pt shot at rim
+    - "+2"
+    - 57-51
+    - ''
+    - ''
+  - - '6:43.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - M. Taylor misses 2-pt shot from 18 ft
+  - - '6:41.0'
+    - Defensive rebound by B. Sura
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:37.0'
+    - B. Sura misses 3-pt shot from 25 ft
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:36.0'
+    - Offensive rebound by Team
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:36.0'
+    - Loose ball foul by S. Anderson
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:27.0'
+    - C. Porter misses 2-pt shot from 16 ft
+    - ''
+    - 57-51
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Defensive rebound by Team
+  - - '6:15.0'
+    - ''
+    - ''
+    - 57-51
+    - ''
+    - Shooting foul by A. Jamison
+  - - '6:15.0'
+    - ''
+    - ''
+    - 57-52
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '6:15.0'
+    - ''
+    - ''
+    - 57-53
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '5:59.0'
+    - Turnover by A. Foyle (3 second)
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 57-53
+    - ''
+    - Houston full timeout
+  - - '5:59.0'
+    - E. Dampier enters the game for A. Jamison
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '5:59.0'
+    - C. Blount enters the game for A. Foyle
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 57-55
+    - "+2"
+    - C. Mobley makes 2-pt shot at rim (assist by S. Francis)
+  - - '5:12.0'
+    - V. Cummings makes 2-pt shot from 11 ft
+    - "+2"
+    - 59-55
+    - ''
+    - ''
+  - - '4:53.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Shooting foul by E. Dampier
+  - - '4:53.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - M. Taylor misses free throw 1 of 2
+  - - '4:53.0'
+    - ''
+    - ''
+    - 59-55
+    - ''
+    - Offensive rebound by Team
+  - - '4:53.0'
+    - ''
+    - ''
+    - 59-56
+    - "+1"
+    - M. Taylor makes free throw 2 of 2
+  - - '4:33.0'
+    - V. Cummings misses 3-pt shot from 25 ft
+    - ''
+    - 59-56
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Defensive rebound by M. Taylor
+  - - '4:20.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Turnover by C. Mobley (traveling)
+  - - '4:06.0'
+    - C. Blount misses 2-pt shot from 19 ft
+    - ''
+    - 59-56
+    - ''
+    - ''
+  - - '4:04.0'
+    - ''
+    - ''
+    - 59-56
+    - ''
+    - Defensive rebound by Team
+  - - '3:43.0'
+    - ''
+    - ''
+    - 59-59
+    - "+3"
+    - S. Francis makes 3-pt shot from 25 ft
+  - - '3:16.0'
+    - E. Dampier misses 2-pt shot from 10 ft
+    - ''
+    - 59-59
+    - ''
+    - ''
+  - - '3:15.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 59-59
+    - ''
+    - ''
+  - - '3:15.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 59-59
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - Houston full timeout
+  - - '3:15.0'
+    - ''
+    - ''
+    - 59-59
+    - ''
+    - K. Thomas enters the game for M. Taylor
+  - - '3:00.0'
+    - ''
+    - ''
+    - 59-61
+    - "+2"
+    - K. Thomas makes 2-pt shot from 20 ft (assist by S. Francis)
+  - - '2:36.0'
+    - C. Porter misses 2-pt shot from 18 ft
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '2:34.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 59-61
+    - ''
+    - ''
+  - - '2:23.0'
+    - E. Dampier makes 2-pt shot at rim
+    - "+2"
+    - 61-61
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 61-61
+    - ''
+    - K. Thomas misses 2-pt shot at rim
+  - - '2:05.0'
+    - Defensive rebound by E. Dampier
+    - ''
+    - 61-61
+    - ''
+    - ''
+  - - '1:58.0'
+    - E. Dampier misses 2-pt shot at rim
+    - ''
+    - 61-61
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 61-61
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '1:38.0'
+    - ''
+    - ''
+    - 61-64
+    - "+3"
+    - C. Mobley makes 3-pt shot from 23 ft (assist by S. Francis)
+  - - '1:18.0'
+    - B. Sura misses 3-pt shot from 26 ft
+    - ''
+    - 61-64
+    - ''
+    - ''
+  - - '1:16.0'
+    - ''
+    - ''
+    - 61-64
+    - ''
+    - Defensive rebound by K. Thomas
+  - - '1:09.0'
+    - ''
+    - ''
+    - 61-64
+    - ''
+    - S. Anderson misses 2-pt shot at rim
+  - - '1:07.0'
+    - ''
+    - ''
+    - 61-64
+    - ''
+    - Offensive rebound by S. Francis
+  - - '1:03.0'
+    - ''
+    - ''
+    - 61-64
+    - ''
+    - Turnover by S. Francis (bad pass; steal by V. Cummings)
+  - - '0:53.6'
+    - C. Porter misses 2-pt shot from 20 ft
+    - ''
+    - 61-64
+    - ''
+    - ''
+  - - '0:50.9'
+    - ''
+    - ''
+    - 61-64
+    - ''
+    - Defensive rebound by S. Anderson
+  - - '0:47.2'
+    - ''
+    - ''
+    - 61-66
+    - "+2"
+    - S. Francis makes 2-pt shot at rim (assist by S. Anderson)
+  - - '0:27.9'
+    - Turnover by E. Dampier (traveling)
+    - ''
+    - 61-66
+    - ''
+    - ''
+  - - '0:08.0'
+    - ''
+    - ''
+    - 61-66
+    - ''
+    - S. Anderson misses 3-pt shot from 26 ft
+  - - '0:05.8'
+    - Defensive rebound by C. Porter
+    - ''
+    - 61-66
+    - ''
+    - ''
+  - - '0:02.3'
+    - Personal foul by S. Francis
+    - ''
+    - 61-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:41.0'
+    - Shooting foul by K. Thomas
+    - ''
+    - 61-66
+    - ''
+    - ''
+  - - '11:41.0'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 62-66
+    - ''
+    - ''
+  - - '11:41.0'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 63-66
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 63-68
+    - "+2"
+    - C. Mobley makes 2-pt shot from 14 ft
+  - - '11:15.0'
+    - E. Dampier misses 2-pt shot at rim
+    - ''
+    - 63-68
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 63-68
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '10:53.0'
+    - ''
+    - ''
+    - 63-70
+    - "+2"
+    - S. Anderson makes 2-pt shot at rim (assist by K. Thomas)
+  - - '10:36.0'
+    - A. Jamison misses 2-pt shot from 16 ft
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Defensive rebound by Team
+  - - '10:34.0'
+    - A. Foyle enters the game for E. Dampier
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Personal foul by B. Sura
+  - - '10:09.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - S. Anderson misses 2-pt shot from 18 ft
+  - - '10:07.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '10:00.0'
+    - V. Cummings misses 2-pt shot from 22 ft
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '9:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '9:59.0'
+    - Loose ball foul by S. Anderson
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '9:44.0'
+    - C. Blount makes 2-pt shot at rim (assist by A. Foyle)
+    - "+2"
+    - 65-70
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 65-72
+    - "+2"
+    - M. Norris makes 2-pt shot from 20 ft (assist by C. Mobley)
+  - - '9:12.0'
+    - A. Foyle misses 2-pt shot from 8 ft
+    - ''
+    - 65-72
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Defensive rebound by C. Mobley
+  - - '9:02.0'
+    - ''
+    - ''
+    - 65-72
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by B. Sura)
+  - - '8:51.0'
+    - A. Jamison makes 2-pt shot from 8 ft (assist by V. Cummings)
+    - "+2"
+    - 67-72
+    - ''
+    - ''
+  - - '8:24.0'
+    - ''
+    - ''
+    - 67-72
+    - ''
+    - K. Thomas misses 3-pt shot from 25 ft
+  - - '8:22.0'
+    - Defensive rebound by A. Jamison
+    - ''
+    - 67-72
+    - ''
+    - ''
+  - - '8:10.0'
+    - Turnover by A. Foyle (bad pass; steal by M. Norris)
+    - ''
+    - 67-72
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 67-72
+    - ''
+    - M. Norris misses 2-pt shot from 6 ft (block by A. Foyle)
+  - - '8:03.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 67-72
+    - ''
+    - ''
+  - - '7:59.0'
+    - A. Jamison makes 2-pt shot at rim (assist by V. Cummings)
+    - "+2"
+    - 69-72
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 69-75
+    - "+3"
+    - M. Norris makes 3-pt shot from 23 ft
+  - - '7:10.0'
+    - A. Jamison misses 3-pt shot from 25 ft
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Defensive rebound by M. Norris
+  - - '7:06.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Official timeout
+  - - '7:06.0'
+    - C. Porter enters the game for B. Sura
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '7:06.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - S. Francis enters the game for S. Anderson
+  - - '6:53.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Turnover by M. Norris (bad pass; steal by V. Cummings)
+  - - '6:35.0'
+    - C. Blount misses 2-pt shot from 6 ft
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '6:34.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '6:33.0'
+    - Personal foul by S. Francis
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '6:29.0'
+    - Offensive foul by C. Porter
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '6:29.0'
+    - Turnover by C. Porter (foul)
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - S. Francis misses 3-pt shot from 23 ft
+  - - '6:05.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Offensive rebound by S. Francis
+  - - '6:03.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - S. Francis misses 2-pt shot from 6 ft (block by A. Foyle)
+  - - '6:01.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Offensive rebound by C. Mobley
+  - - '5:59.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - K. Thomas misses 2-pt shot from 8 ft (block by A. Foyle)
+  - - '5:57.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '5:54.0'
+    - Turnover by C. Porter (lost ball)
+    - ''
+    - 69-75
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Houston full timeout
+  - - '5:35.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - K. Thomas misses 2-pt shot from 6 ft (block by A. Foyle)
+  - - '5:32.0'
+    - ''
+    - ''
+    - 69-75
+    - ''
+    - Offensive rebound by M. Norris
+  - - '5:30.0'
+    - ''
+    - ''
+    - 69-77
+    - "+2"
+    - M. Norris makes 2-pt shot from 18 ft
+  - - '5:07.0'
+    - Personal foul by C. Mobley
+    - ''
+    - 69-77
+    - ''
+    - ''
+  - - '4:59.0'
+    - A. Jamison makes 2-pt shot from 18 ft (assist by C. Porter)
+    - "+2"
+    - 71-77
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 71-79
+    - "+2"
+    - M. Norris makes 2-pt shot from 9 ft
+  - - '4:19.0'
+    - V. Cummings misses 2-pt shot from 7 ft
+    - ''
+    - 71-79
+    - ''
+    - ''
+  - - '4:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 71-79
+    - ''
+    - ''
+  - - '4:18.0'
+    - Loose ball foul by S. Francis
+    - ''
+    - 71-79
+    - ''
+    - ''
+  - - '4:18.0'
+    - B. Sura enters the game for C. Blount
+    - ''
+    - 71-79
+    - ''
+    - ''
+  - - '4:18.0'
+    - A. Foyle makes free throw 1 of 2
+    - "+1"
+    - 72-79
+    - ''
+    - ''
+  - - '4:18.0'
+    - A. Foyle makes free throw 2 of 2
+    - "+1"
+    - 73-79
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 73-79
+    - ''
+    - Turnover by S. Francis (lost ball; steal by C. Porter)
+  - - '4:06.0'
+    - Turnover by A. Foyle (bad pass)
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '3:52.0'
+    - ''
+    - ''
+    - 73-79
+    - ''
+    - K. Thomas misses 2-pt shot from 17 ft
+  - - '3:50.0'
+    - Defensive rebound by A. Foyle
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '3:48.0'
+    - Turnover by A. Foyle (bad pass)
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 73-79
+    - ''
+    - Turnover by C. Mobley (lost ball; steal by C. Porter)
+  - - '3:29.0'
+    - Turnover by C. Porter (lost ball; steal by C. Mobley)
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '3:28.0'
+    - Violation by C. Porter (kicked ball)
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 73-79
+    - ''
+    - Turnover by M. Norris (traveling)
+  - - '3:07.0'
+    - Golden State full timeout
+    - ''
+    - 73-79
+    - ''
+    - ''
+  - - '2:52.0'
+    - A. Jamison makes 2-pt shot from 22 ft (assist by C. Porter)
+    - "+2"
+    - 75-79
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Personal foul by B. Sura
+  - - '2:27.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Shooting foul by A. Jamison
+  - - '2:27.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - K. Thomas misses free throw 1 of 2
+  - - '2:27.0'
+    - ''
+    - ''
+    - 75-79
+    - ''
+    - Offensive rebound by Team
+  - - '2:27.0'
+    - ''
+    - ''
+    - 75-80
+    - "+1"
+    - K. Thomas makes free throw 2 of 2
+  - - '2:13.0'
+    - C. Porter misses 2-pt shot from 11 ft
+    - ''
+    - 75-80
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - Defensive rebound by Team
+  - - '2:10.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - Loose ball foul by C. Porter
+  - - '2:01.0'
+    - ''
+    - ''
+    - 75-80
+    - ''
+    - Personal foul by B. Sura
+  - - '2:01.0'
+    - ''
+    - ''
+    - 75-81
+    - "+1"
+    - C. Mobley makes free throw 1 of 2
+  - - '2:01.0'
+    - ''
+    - ''
+    - 75-82
+    - "+1"
+    - C. Mobley makes free throw 2 of 2
+  - - '1:42.0'
+    - A. Jamison makes 2-pt shot from 8 ft (assist by B. Sura)
+    - "+2"
+    - 77-82
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - C. Mobley misses 3-pt shot from 25 ft
+  - - '1:18.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - Offensive rebound by C. Rogers
+  - - '1:03.0'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - M. Norris misses 3-pt shot from 23 ft
+  - - '0:59.7'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 77-82
+    - ''
+    - ''
+  - - '0:48.1'
+    - A. Jamison makes 2-pt shot from 8 ft
+    - "+2"
+    - 79-82
+    - ''
+    - ''
+  - - '0:30.6'
+    - ''
+    - ''
+    - 79-82
+    - ''
+    - S. Francis misses 3-pt shot from 26 ft
+  - - '0:29.5'
+    - Defensive rebound by Team
+    - ''
+    - 79-82
+    - ''
+    - ''
+  - - '0:29.5'
+    - Loose ball foul by K. Thomas
+    - ''
+    - 79-82
+    - ''
+    - ''
+  - - '0:29.5'
+    - A. Jamison makes free throw 1 of 2
+    - "+1"
+    - 80-82
+    - ''
+    - ''
+  - - '0:29.5'
+    - A. Jamison makes free throw 2 of 2
+    - "+1"
+    - 81-82
+    - ''
+    - ''
+  - - '0:29.5'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Houston full timeout
+  - - '0:09.5'
+    - ''
+    - ''
+    - 81-82
+    - ''
+    - Shooting foul by C. Porter
+  - - '0:09.5'
+    - C. Blount enters the game for C. Porter
+    - ''
+    - 81-82
+    - ''
+    - ''
+  - - '0:09.5'
+    - ''
+    - ''
+    - 81-83
+    - "+1"
+    - S. Francis makes free throw 1 of 2
+  - - '0:09.5'
+    - ''
+    - ''
+    - 81-84
+    - "+1"
+    - S. Francis makes free throw 2 of 2
+  - - '0:09.5'
+    - Golden State full timeout
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '0:09.5'
+    - P. McPherson enters the game for A. Foyle
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '0:05.9'
+    - V. Cummings misses 3-pt shot from 26 ft
+    - ''
+    - 81-84
+    - ''
+    - ''
+  - - '0:03.6'
+    - ''
+    - ''
+    - 81-84
+    - ''
+    - Defensive rebound by C. Rogers
+  - - '0:02.0'
+    - ''
+    - ''
+    - 81-84
+    - ''
+    - Personal foul by A. Jamison
+  - - '0:02.0'
+    - ''
+    - ''
+    - 81-85
+    - "+1"
+    - S. Francis makes free throw 1 of 2
+  - - '0:02.0'
+    - ''
+    - ''
+    - 81-86
+    - "+1"
+    - S. Francis makes free throw 2 of 2
+  - - '0:02.0'
+    - Golden State full timeout
+    - ''
+    - 81-86
+    - ''
+    - ''
+  - - '0:00.0'
+    - V. Cummings misses 2-pt shot from 18 ft
+    - ''
+    - 81-86
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-86
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

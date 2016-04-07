@@ -1,0 +1,236 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Brown (On: -3&#9642;Off: -18&#9642;Net: +15)'
+    - |2-
+
+      -6
+    - 164/-6
+    - 233/
+    - 101/+7
+    - 169/+1
+    - 159/
+    - 54/-5
+    - 117/
+    - 'Cedric Henderson (On: -4&#9642;Off: -17&#9642;Net: +13)'
+    - |2-
+
+      -6
+    - 182/-6
+    - 221/
+    - 96/+7
+    - 89/-5
+    - 241/
+    - 81/0
+    - 87/
+    - 'Trajan Langdon (On: -25&#9642;Off: +4&#9642;Net: -29)'
+    - |2-
+
+      -6
+    - 164/-6
+    - 334/
+    - 221/-6
+    - 83/
+    - 77/-9
+    - 109/
+    - 9/-4
+    - 'Andre Miller (On: -5&#9642;Off: -16&#9642;Net: +11)'
+    - |2-
+
+      -8
+    - 203/-8
+    - 159/
+    - 137/+7
+    - 205/-4
+    - 125/
+    - 81/0
+    - 87/
+    - 'Clarence Weatherspoon (On: -9&#9642;Off: -12&#9642;Net: +3)'
+    - |2-
+
+      -10
+    - 248/-10
+    - 113/
+    - 137/+7
+    - 236/-6
+    - 94/
+    - 84/0
+    - 85/
+    - 'Chris Gatling (On: -24&#9642;Off: +3&#9642;Net: -27)'
+    - "\n"
+    - 171/
+    - 78/-4
+    - 105/-3
+    - 320/
+    - 73/-9
+    - 73/-8
+    - 177/
+    - 'Jim Jackson (On: +3&#9642;Off: -24&#9642;Net: +27)'
+    - "\n"
+    - 171/
+    - 78/-4
+    - 249/+4
+    - 90/
+    - 159/-3
+    - 47/-4
+    - 86/
+    - 107/+10
+    - 8/
+    - 'Lamond Murray (On: -17&#9642;Off: -4&#9642;Net: -13)'
+    - "\n"
+    - 187/
+    - 62/-4
+    - 148/-3
+    - 327/
+    - 23/-2
+    - 79/-8
+    - 171/
+    - 'Bimbo Coles (On: -16&#9642;Off: -5&#9642;Net: -11)'
+    - "\n"
+    - 203/
+    - 46/-2
+    - 105/-3
+    - 353/
+    - 40/-4
+    - 79/-8
+    - 86/
+    - 84/+1
+    - 'Robert Traylor (On: -12&#9642;Off: -9&#9642;Net: -3)'
+    - "\n"
+    - 249/
+    - 148/-3
+    - 339/
+    - 11/-2
+    - 79/-8
+    - 92/
+    - 79/+1
+    - 'Chris Mihm (On: +6&#9642;Off: -27&#9642;Net: +33)'
+    - "\n"
+    - 889/
+    - 113/+6
+    - 'Wesley Person (On: +1&#9642;Off: -22&#9642;Net: +23)'
+    - "\n"
+    - 918/
+    - 84/+1
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Howard Eisley (On: +16&#9642;Off: +5&#9642;Net: +11)'
+    - |2-
+
+      +10
+    - 249/+10
+    - 113/
+    - 137/-7
+    - 132/+2
+    - 77/
+    - 40/+4
+    - 249/+7
+    - 'Michael Finley (On: +6&#9642;Off: +15&#9642;Net: -9)'
+    - |2-
+
+      +10
+    - 250/+10
+    - 72/
+    - 177/-8
+    - 206/+4
+    - 294/
+    - 'Christian Laettner (On: +16&#9642;Off: +5&#9642;Net: +11)'
+    - |2-
+
+      +8
+    - 203/+8
+    - 297/
+    - 250/+8
+    - 250/
+    - 'Steve Nash (On: +17&#9642;Off: +4&#9642;Net: +13)'
+    - |2-
+
+      +8
+    - 203/+8
+    - 46/
+    - 105/+3
+    - 76/
+    - 68/0
+    - 236/+6
+    - 263/
+    - 'Dirk Nowitzki (On: +28&#9642;Off: -7&#9642;Net: +35)'
+    - |2-
+
+      +6
+    - 179/+6
+    - 70/
+    - 148/+3
+    - 31/
+    - 70/0
+    - 216/+6
+    - 32/
+    - 131/+13
+    - 118/
+    - 'Gary Trent (On: -9&#9642;Off: +30&#9642;Net: -39)'
+    - "\n"
+    - 182/
+    - 66/+4
+    - 114/
+    - 62/-7
+    - 458/
+    - 116/-6
+    - 'Greg Buckner (On: +14&#9642;Off: +7&#9642;Net: +7)'
+    - "\n"
+    - 202/
+    - 46/+2
+    - 67/+4
+    - 80/
+    - 31/-7
+    - 204/
+    - 115/+6
+    - 186/+9
+    - 64/
+    - 'Shawn Bradley (On: +20&#9642;Off: +1&#9642;Net: +19)'
+    - "\n"
+    - 205/
+    - 44/+2
+    - 105/+3
+    - 74/
+    - 70/0
+    - 220/
+    - 29/+2
+    - 131/+13
+    - 117/
+    - 'Hubert Davis (On: +9&#9642;Off: +12&#9642;Net: -3)'
+    - "\n"
+    - 249/
+    - 174/-4
+    - 313/
+    - 11/+2
+    - 131/+13
+    - 56/
+    - 63/-2
+    - 'Courtney Alexander (On: -6&#9642;Off: +27&#9642;Net: -33)'
+    - "\n"
+    - 885/
+    - 117/-6
+    - 'Mark Bryant (On: -6&#9642;Off: +27&#9642;Net: -33)'
+    - "\n"
+    - 885/
+    - 117/-6
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

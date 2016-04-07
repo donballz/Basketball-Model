@@ -1,0 +1,3419 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. DeClercq vs. S. Williams (G. Robinson gains possession)'
+  - - '11:50.0'
+    - Turnover by S. Cassell (bad pass; steal by T. McGrady)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-3
+    - "+3"
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by B. Outlaw)
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-3
+    - ''
+    - Violation by Team (delay of game)
+  - - '11:27.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 0-3
+    - ''
+    - ''
+  - - '11:27.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 1-3
+    - ''
+    - ''
+  - - '11:27.0'
+    - G. Robinson makes free throw 2 of 2
+    - "+1"
+    - 2-3
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - T. McGrady misses 3-pt shot from 24 ft
+  - - '11:14.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '11:06.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '10:56.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '10:54.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '10:54.0'
+    - ''
+    - ''
+    - 2-5
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim
+  - - '10:33.0'
+    - M. Pope misses 3-pt shot from 25 ft
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '10:31.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '10:30.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Personal foul by S. Williams
+  - - '10:07.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Turnover by T. McGrady (bad pass)
+  - - '9:59.0'
+    - S. Cassell misses 2-pt shot from 14 ft (block by D. Armstrong)
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:57.0'
+    - Offensive rebound by S. Cassell
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:56.0'
+    - S. Cassell misses 2-pt shot from 18 ft
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - Defensive rebound by M. Miller
+  - - '9:50.0'
+    - ''
+    - ''
+    - 2-5
+    - ''
+    - M. Miller misses 2-pt shot at rim
+  - - '9:48.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:43.0'
+    - Shooting foul by B. Outlaw
+    - ''
+    - 2-5
+    - ''
+    - ''
+  - - '9:43.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 3-5
+    - ''
+    - ''
+  - - '9:43.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 4-5
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Turnover by D. Armstrong (bad pass; steal by S. Williams)
+  - - '9:33.0'
+    - Turnover by G. Robinson (bad pass)
+    - ''
+    - 4-5
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - M. Miller misses 3-pt shot from 26 ft
+  - - '9:18.0'
+    - ''
+    - ''
+    - 4-5
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '9:15.0'
+    - 'Jump ball: A. DeClercq vs. R. Allen (D. Armstrong gains possession)'
+  - - '8:58.0'
+    - ''
+    - ''
+    - 4-7
+    - "+2"
+    - T. McGrady makes 2-pt shot from 16 ft
+  - - '8:41.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 4-7
+    - ''
+    - ''
+  - - '8:40.0'
+    - S. Williams makes 2-pt shot at rim
+    - "+2"
+    - 6-7
+    - ''
+    - ''
+  - - '8:40.0'
+    - Offensive rebound by S. Williams
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - M. Miller misses 2-pt shot from 12 ft
+  - - '8:17.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:09.0'
+    - S. Cassell misses 2-pt shot from 11 ft
+    - ''
+    - 6-7
+    - ''
+    - ''
+  - - '8:07.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '8:02.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - T. McGrady misses 2-pt shot from 21 ft
+  - - '8:00.0'
+    - ''
+    - ''
+    - 6-7
+    - ''
+    - Offensive rebound by M. Miller
+  - - '7:59.0'
+    - ''
+    - ''
+    - 6-9
+    - "+2"
+    - M. Miller makes 2-pt shot at rim
+  - - '7:41.0'
+    - Turnover by R. Allen (bad pass; steal by B. Outlaw)
+    - ''
+    - 6-9
+    - ''
+    - ''
+  - - '7:37.0'
+    - ''
+    - ''
+    - 6-11
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim (assist by B. Outlaw)
+  - - '7:21.0'
+    - S. Williams misses 2-pt shot from 12 ft
+    - ''
+    - 6-11
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 6-11
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '7:12.0'
+    - ''
+    - ''
+    - 6-11
+    - ''
+    - Turnover by D. Armstrong (bad pass; steal by G. Robinson)
+  - - '7:08.0'
+    - R. Allen makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 8-11
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 8-13
+    - "+2"
+    - B. Outlaw makes 2-pt shot at rim (assist by T. McGrady)
+  - - '6:43.0'
+    - Turnover by S. Williams (bad pass; steal by B. Outlaw)
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - Shooting foul by S. Williams
+  - - '6:41.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - B. Outlaw misses free throw 1 of 2
+  - - '6:41.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - Offensive rebound by Team
+  - - '6:41.0'
+    - E. Johnson enters the game for S. Williams
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 8-13
+    - ''
+    - B. Outlaw misses free throw 2 of 2
+  - - '6:41.0'
+    - Defensive rebound by M. Pope
+    - ''
+    - 8-13
+    - ''
+    - ''
+  - - '6:24.0'
+    - R. Allen makes 2-pt shot from 15 ft
+    - "+2"
+    - 10-13
+    - ''
+    - ''
+  - - '6:02.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - T. McGrady misses 2-pt shot from 22 ft
+  - - '6:01.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:58.0'
+    - Turnover by S. Cassell (lost ball; steal by B. Outlaw)
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:53.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Turnover by A. DeClercq (bad pass; steal by R. Allen)
+  - - '5:49.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 12-13
+    - ''
+    - ''
+  - - '5:46.0'
+    - ''
+    - ''
+    - 12-13
+    - ''
+    - Turnover by B. Outlaw (bad pass)
+  - - '5:46.0'
+    - Milwaukee full timeout
+    - ''
+    - 12-13
+    - ''
+    - ''
+  - - '5:44.0'
+    - M. Pope makes 2-pt shot at rim (assist by G. Robinson)
+    - "+2"
+    - 14-13
+    - ''
+    - ''
+  - - '5:23.0'
+    - ''
+    - ''
+    - 14-13
+    - ''
+    - B. Outlaw misses 2-pt shot from 6 ft
+  - - '5:21.0'
+    - ''
+    - ''
+    - 14-13
+    - ''
+    - A. DeClercq misses 2-pt shot at rim
+  - - '5:21.0'
+    - ''
+    - ''
+    - 14-13
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '5:19.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 14-13
+    - ''
+    - ''
+  - - '5:12.0'
+    - S. Cassell makes 2-pt shot from 11 ft
+    - "+2"
+    - 16-13
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - M. Miller misses 2-pt shot from 20 ft
+  - - '4:53.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:46.0'
+    - Personal foul by A. DeClercq
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:46.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - M. Doleac enters the game for A. DeClercq
+  - - '4:46.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:40.0'
+    - R. Allen misses 3-pt shot from 24 ft
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '4:22.0'
+    - ''
+    - ''
+    - 16-15
+    - "+2"
+    - T. McGrady makes 2-pt shot from 18 ft
+  - - '4:05.0'
+    - Shooting foul by M. Miller
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '4:05.0'
+    - E. Johnson makes free throw 1 of 2
+    - "+1"
+    - 17-15
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - T. Hudson enters the game for M. Miller
+  - - '4:05.0'
+    - E. Johnson makes free throw 2 of 2
+    - "+1"
+    - 18-15
+    - ''
+    - ''
+  - - '3:47.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - D. Armstrong misses 2-pt shot from 16 ft
+  - - '3:45.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - Offensive rebound by T. Hudson
+  - - '3:41.0'
+    - ''
+    - ''
+    - 18-15
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '3:40.0'
+    - Defensive rebound by Team
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '3:40.0'
+    - Loose ball foul by T. McGrady
+    - ''
+    - 18-15
+    - ''
+    - ''
+  - - '3:40.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 19-15
+    - ''
+    - ''
+  - - '3:40.0'
+    - T. Thomas misses free throw 2 of 2
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '3:17.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - M. Doleac misses 2-pt shot from 18 ft
+  - - '3:16.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '3:09.0'
+    - T. Thomas misses 3-pt shot from 24 ft
+    - ''
+    - 19-15
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Defensive rebound by Team
+  - - '2:45.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - T. McGrady misses 2-pt shot at rim (block by E. Johnson)
+  - - '2:43.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Offensive rebound by T. Hudson
+  - - '2:42.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - T. Hudson misses 2-pt shot from 16 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 19-15
+    - ''
+    - Offensive rebound by M. Doleac
+  - - '2:40.0'
+    - ''
+    - ''
+    - 19-17
+    - "+2"
+    - M. Doleac makes 2-pt shot at rim
+  - - '2:27.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 19-17
+    - ''
+    - Orlando full timeout
+  - - '2:27.0'
+    - L. Hunter enters the game for S. Cassell
+    - ''
+    - 19-17
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 19-19
+    - "+2"
+    - T. McGrady makes 2-pt shot from 17 ft
+  - - '2:10.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Shooting foul by T. Thomas
+  - - '2:10.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - T. McGrady misses free throw 1 of 1
+  - - '2:10.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:52.0'
+    - G. Robinson misses 2-pt shot from 7 ft
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:50.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Defensive rebound by Team
+  - - '1:50.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '1:50.0'
+    - J. Caffey enters the game for G. Robinson
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - M. Doleac misses 2-pt shot from 20 ft
+  - - '1:38.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:37.0'
+    - Turnover by E. Johnson (bad pass; steal by D. Armstrong)
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 19-21
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim
+  - - '1:08.0'
+    - J. Caffey misses 2-pt shot from 17 ft
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:06.0'
+    - T. Thomas misses 2-pt shot at rim
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:06.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:05.0'
+    - E. Johnson misses 2-pt shot at rim
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:05.0'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:03.0'
+    - Personal foul by M. Doleac
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '1:03.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 20-21
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - P. Garrity enters the game for B. Outlaw
+  - - '1:03.0'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 21-21
+    - ''
+    - ''
+  - - '0:51.4'
+    - ''
+    - ''
+    - 21-23
+    - "+2"
+    - T. Hudson makes 2-pt shot at rim
+  - - '0:40.8'
+    - R. Allen misses 2-pt shot from 18 ft
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '0:38.6'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 21-23
+    - ''
+    - ''
+  - - '0:37.9'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 23-23
+    - ''
+    - ''
+  - - '0:30.8'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - T. Hudson misses 2-pt shot at rim
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - Offensive rebound by Team
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - T. Hudson misses free throw 1 of 2
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - Offensive rebound by Team
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-23
+    - ''
+    - M. Williams enters the game for T. McGrady
+  - - '0:29.9'
+    - D. Ham enters the game for E. Johnson
+    - ''
+    - 23-23
+    - ''
+    - ''
+  - - '0:29.9'
+    - ''
+    - ''
+    - 23-24
+    - "+1"
+    - T. Hudson makes free throw 2 of 2
+  - - '0:15.2'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '0:13.7'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '0:11.6'
+    - ''
+    - ''
+    - 23-24
+    - ''
+    - Turnover by M. Doleac (bad pass)
+  - - '0:02.5'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '0:01.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 23-24
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 23-26
+    - "+2"
+    - M. Doleac makes 2-pt shot from 19 ft (assist by T. Hudson)
+  - - '11:47.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - Away from play foul by T. Thomas
+  - - '11:47.0'
+    - ''
+    - ''
+    - 23-26
+    - ''
+    - M. Williams misses free throw 1 of 1
+  - - '11:46.0'
+    - Offensive rebound by Team
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '11:46.0'
+    - Loose ball foul by M. Doleac
+    - ''
+    - 23-26
+    - ''
+    - ''
+  - - '11:29.0'
+    - L. Hunter makes 2-pt shot from 17 ft (assist by T. Thomas)
+    - "+2"
+    - 25-26
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 25-26
+    - ''
+    - Turnover by P. Garrity (lost ball; steal by L. Hunter)
+  - - '11:02.0'
+    - Shooting foul by M. Williams
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '11:02.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 26-26
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 26-26
+    - ''
+    - J. Amaechi enters the game for M. Doleac
+  - - '11:02.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 27-26
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 27-26
+    - ''
+    - Turnover by T. Hudson (lost ball; steal by R. Allen)
+  - - '10:34.0'
+    - L. Hunter makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 30-26
+    - ''
+    - ''
+  - - '10:28.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - Orlando full timeout
+  - - '10:28.0'
+    - ''
+    - ''
+    - 30-26
+    - ''
+    - T. McGrady enters the game for M. Williams
+  - - '10:12.0'
+    - ''
+    - ''
+    - 30-28
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim
+  - - '9:53.0'
+    - L. Hunter misses 2-pt shot from 20 ft
+    - ''
+    - 30-28
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '9:31.0'
+    - ''
+    - ''
+    - 30-28
+    - ''
+    - Turnover by T. Hudson (3 second)
+  - - '9:12.0'
+    - D. Ham makes 2-pt shot at rim (assist by J. Caffey)
+    - "+2"
+    - 32-28
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 32-30
+    - "+2"
+    - M. Miller makes 2-pt shot from 11 ft
+  - - '8:41.0'
+    - R. Allen makes 2-pt shot from 16 ft
+    - "+2"
+    - 34-30
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 34-30
+    - ''
+    - Inbound foul by L. Hunter
+  - - '8:38.0'
+    - ''
+    - ''
+    - 34-31
+    - "+1"
+    - T. Hudson makes free throw 1 of 2
+  - - '8:38.0'
+    - ''
+    - ''
+    - 34-32
+    - "+1"
+    - T. Hudson makes free throw 2 of 2
+  - - '8:16.0'
+    - J. Caffey misses 2-pt shot from 7 ft (block by J. Amaechi)
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '8:07.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - P. Garrity misses 3-pt shot from 24 ft
+  - - '8:06.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '8:02.0'
+    - L. Hunter misses 3-pt shot from 25 ft
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Defensive rebound by Team
+  - - '7:50.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Personal foul by J. Caffey
+  - - '7:50.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - D. Armstrong enters the game for T. Hudson
+  - - '7:50.0'
+    - S. Cassell enters the game for R. Allen
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:42.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - J. Amaechi misses 2-pt shot from 13 ft
+  - - '7:40.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:33.0'
+    - L. Hunter misses 2-pt shot from 8 ft (block by M. Miller)
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:31.0'
+    - Offensive rebound by L. Hunter
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - Flagrant foul type 1 by P. Garrity
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - Technical foul by Team
+  - - '7:21.0'
+    - S. Cassell misses free throw technical
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - D. Ham misses free throw flagrant 2 of 2
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - D. Ham makes no shot
+    - "+1"
+    - 35-32
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - B. Outlaw enters the game for P. Garrity
+  - - '7:03.0'
+    - J. Caffey misses 2-pt shot from 14 ft
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Defensive rebound by M. Miller
+  - - '6:42.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - T. McGrady misses 2-pt shot from 17 ft
+  - - '6:40.0'
+    - Defensive rebound by D. Ham
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '6:32.0'
+    - S. Cassell misses 2-pt shot from 10 ft
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '6:23.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Personal foul by D. Ham
+  - - '6:23.0'
+    - G. Robinson enters the game for T. Thomas
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - B. Outlaw misses 2-pt shot from 5 ft
+  - - '6:07.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '6:02.0'
+    - S. Cassell misses 2-pt shot at rim (block by J. Amaechi)
+    - ''
+    - 35-32
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '5:57.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Shooting foul by G. Robinson
+  - - '5:57.0'
+    - ''
+    - ''
+    - 35-32
+    - ''
+    - Official timeout
+  - - '5:57.0'
+    - ''
+    - ''
+    - 35-33
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '5:57.0'
+    - ''
+    - ''
+    - 35-34
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '5:36.0'
+    - J. Caffey misses 2-pt shot from 3 ft (block by B. Outlaw)
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '5:34.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '5:17.0'
+    - ''
+    - ''
+    - 35-34
+    - ''
+    - Turnover by B. Outlaw (bad pass; steal by G. Robinson)
+  - - '5:14.0'
+    - Turnover by G. Robinson (lost ball; steal by B. Outlaw)
+    - ''
+    - 35-34
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 35-36
+    - "+2"
+    - M. Miller makes 2-pt shot at rim (assist by J. Amaechi)
+  - - '4:55.0'
+    - G. Robinson makes 2-pt shot from 17 ft (assist by L. Hunter)
+    - "+2"
+    - 37-36
+    - ''
+    - ''
+  - - '4:39.0'
+    - ''
+    - ''
+    - 37-38
+    - "+2"
+    - J. Amaechi makes 2-pt shot at rim (assist by B. Outlaw)
+  - - '4:26.0'
+    - E. Johnson enters the game for J. Caffey
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '4:26.0'
+    - R. Allen enters the game for L. Hunter
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - M. Doleac enters the game for J. Amaechi
+  - - '4:20.0'
+    - G. Robinson misses 2-pt shot from 13 ft (block by T. McGrady)
+    - ''
+    - 37-38
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 37-38
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '4:12.0'
+    - ''
+    - ''
+    - 37-41
+    - "+3"
+    - D. Armstrong makes 3-pt shot from 25 ft
+  - - '3:56.0'
+    - Personal foul by T. McGrady
+    - ''
+    - 37-41
+    - ''
+    - ''
+  - - '3:56.0'
+    - S. Williams enters the game for E. Johnson
+    - ''
+    - 37-41
+    - ''
+    - ''
+  - - '3:51.0'
+    - S. Cassell makes 2-pt shot from 15 ft
+    - "+2"
+    - 39-41
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 39-41
+    - ''
+    - T. McGrady misses 2-pt shot from 19 ft
+  - - '3:33.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 39-41
+    - ''
+    - ''
+  - - '3:26.0'
+    - Turnover by G. Robinson (lost ball; steal by M. Doleac)
+    - ''
+    - 39-41
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 39-41
+    - ''
+    - Turnover by M. Doleac (bad pass; steal by S. Cassell)
+  - - '3:18.0'
+    - S. Cassell makes 2-pt shot from 21 ft
+    - "+2"
+    - 41-41
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 41-43
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '3:01.0'
+    - ''
+    - ''
+    - 41-43
+    - ''
+    - Shooting foul by D. Ham
+  - - '3:01.0'
+    - T. Thomas enters the game for G. Robinson
+    - ''
+    - 41-43
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 41-44
+    - "+1"
+    - T. McGrady makes free throw 1 of 1
+  - - '2:38.0'
+    - D. Ham makes 2-pt shot from 16 ft (assist by S. Williams)
+    - "+2"
+    - 43-44
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - Offensive foul by M. Miller
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - Turnover by M. Miller (foul)
+  - - '2:16.0'
+    - Milwaukee full timeout
+    - ''
+    - 43-44
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-44
+    - ''
+    - P. Garrity enters the game for M. Miller
+  - - '1:59.0'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 45-44
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 45-44
+    - ''
+    - D. Armstrong misses 2-pt shot from 15 ft
+  - - '1:40.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 45-44
+    - ''
+    - ''
+  - - '1:32.0'
+    - S. Cassell makes 2-pt shot from 16 ft
+    - "+2"
+    - 47-44
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - T. McGrady misses 2-pt shot from 17 ft
+  - - '1:11.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - B. Outlaw misses 2-pt shot at rim
+  - - '1:11.0'
+    - ''
+    - ''
+    - 47-44
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '1:10.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '1:10.0'
+    - Loose ball foul by B. Outlaw
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '1:10.0'
+    - G. Robinson enters the game for T. Thomas
+    - ''
+    - 47-44
+    - ''
+    - ''
+  - - '1:10.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 48-44
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - T. Hudson enters the game for T. McGrady
+  - - '1:10.0'
+    - S. Cassell misses free throw 2 of 2
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '0:58.1'
+    - ''
+    - ''
+    - 48-44
+    - ''
+    - Turnover by T. Hudson (lost ball; steal by S. Cassell)
+  - - '0:53.8'
+    - Shooting foul by M. Doleac
+    - ''
+    - 48-44
+    - ''
+    - ''
+  - - '0:53.8'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 49-44
+    - ''
+    - ''
+  - - '0:53.8'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 50-44
+    - ''
+    - ''
+  - - '0:34.2'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - D. Armstrong misses 3-pt shot from 25 ft
+  - - '0:31.0'
+    - Defensive rebound by D. Ham
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '0:21.3'
+    - S. Cassell misses 3-pt shot from 24 ft
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '0:18.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - Defensive rebound by Team
+  - - '0:18.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - J. Amaechi enters the game for M. Doleac
+  - - '0:18.0'
+    - M. Pope enters the game for D. Ham
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '0:16.2'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - Orlando 20 second timeout
+  - - '0:16.2'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - M. Miller enters the game for B. Outlaw
+  - - '0:02.4'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - T. Hudson misses 2-pt shot from 4 ft
+  - - '0:01.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 50-44
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - M. Miller misses 2-pt shot from 18 ft
+  - - '11:41.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '11:40.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - A. DeClercq misses 2-pt shot at rim
+  - - '11:38.0'
+    - ''
+    - ''
+    - 50-44
+    - ''
+    - Offensive rebound by A. DeClercq
+  - - '11:37.0'
+    - ''
+    - ''
+    - 50-46
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim
+  - - '11:20.0'
+    - Personal foul by M. Miller
+    - ''
+    - 50-46
+    - ''
+    - ''
+  - - '11:12.0'
+    - R. Allen makes 2-pt shot from 10 ft (assist by S. Cassell)
+    - "+2"
+    - 52-46
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 52-46
+    - ''
+    - M. Miller misses 2-pt shot from 13 ft
+  - - '11:03.0'
+    - Defensive rebound by S. Williams
+    - ''
+    - 52-46
+    - ''
+    - ''
+  - - '11:00.0'
+    - Turnover by S. Cassell (bad pass; steal by T. McGrady)
+    - ''
+    - 52-46
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 52-48
+    - "+2"
+    - A. DeClercq makes 2-pt shot at rim (assist by T. McGrady)
+  - - '10:32.0'
+    - G. Robinson misses 2-pt shot from 7 ft (block by T. McGrady)
+    - ''
+    - 52-48
+    - ''
+    - ''
+  - - '10:30.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '10:11.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Shooting foul by S. Williams
+  - - '10:11.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - T. McGrady misses free throw 1 of 2
+  - - '10:11.0'
+    - ''
+    - ''
+    - 52-48
+    - ''
+    - Offensive rebound by Team
+  - - '10:11.0'
+    - ''
+    - ''
+    - 52-49
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '10:00.0'
+    - G. Robinson makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 55-49
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 55-51
+    - "+2"
+    - T. McGrady makes 2-pt shot from 13 ft
+  - - '9:30.0'
+    - Turnover by S. Cassell (lost ball; steal by D. Armstrong)
+    - ''
+    - 55-51
+    - ''
+    - ''
+  - - '9:25.0'
+    - ''
+    - ''
+    - 55-53
+    - "+2"
+    - D. Armstrong makes 2-pt shot at rim
+  - - '9:10.0'
+    - S. Cassell makes 2-pt shot from 14 ft
+    - "+2"
+    - 57-53
+    - ''
+    - ''
+  - - '8:55.0'
+    - ''
+    - ''
+    - 57-53
+    - ''
+    - Turnover by T. McGrady (lost ball; steal by M. Pope)
+  - - '8:50.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 57-53
+    - ''
+    - ''
+  - - '8:50.0'
+    - S. Williams makes free throw 1 of 2
+    - "+1"
+    - 58-53
+    - ''
+    - ''
+  - - '8:50.0'
+    - S. Williams misses free throw 2 of 2
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '8:50.0'
+    - Offensive rebound by M. Pope
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '8:44.0'
+    - G. Robinson misses 3-pt shot from 25 ft
+    - ''
+    - 58-53
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 58-53
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '8:28.0'
+    - ''
+    - ''
+    - 58-55
+    - "+2"
+    - B. Outlaw makes 2-pt shot at rim (assist by T. McGrady)
+  - - '8:17.0'
+    - S. Williams makes 2-pt shot from 17 ft (assist by R. Allen)
+    - "+2"
+    - 60-55
+    - ''
+    - ''
+  - - '8:17.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - P. Garrity enters the game for A. DeClercq
+  - - '8:17.0'
+    - S. Williams misses free throw 1 of 1
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '8:17.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '7:56.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - Turnover by D. Armstrong (bad pass; steal by R. Allen)
+  - - '7:48.0'
+    - S. Williams misses 2-pt shot from 15 ft
+    - ''
+    - 60-55
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 60-55
+    - ''
+    - Defensive rebound by M. Miller
+  - - '7:23.0'
+    - ''
+    - ''
+    - 60-57
+    - "+2"
+    - D. Armstrong makes 2-pt shot from 7 ft
+  - - '7:15.0'
+    - S. Cassell misses 3-pt shot from 26 ft
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Defensive rebound by Team
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Loose ball foul by S. Cassell
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Double technical foul by S. Cassell and B. Outlaw
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Double technical foul by G. Robinson and T. McGrady
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Double technical foul by S. Williams and D. Armstrong
+  - - '7:12.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - D. Brown enters the game for M. Miller
+  - - '6:56.0'
+    - ''
+    - ''
+    - 60-57
+    - ''
+    - Shooting foul by G. Robinson
+  - - '6:56.0'
+    - T. Thomas enters the game for M. Pope
+    - ''
+    - 60-57
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 60-58
+    - "+1"
+    - P. Garrity makes free throw 1 of 3
+  - - '6:56.0'
+    - ''
+    - ''
+    - 60-59
+    - "+1"
+    - P. Garrity makes free throw 2 of 3
+  - - '6:56.0'
+    - ''
+    - ''
+    - 60-60
+    - "+1"
+    - P. Garrity makes free throw 3 of 3
+  - - '6:45.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:44.0'
+    - 'Jump ball: B. Outlaw vs. S. Cassell'
+  - - '6:44.0'
+    - Offensive rebound by Team
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:44.0'
+    - Violation by S. Cassell (jump ball)
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:44.0'
+    - Turnover by S. Cassell (jump ball violation)
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:34.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - T. McGrady misses 2-pt shot from 21 ft
+  - - '6:32.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:18.0'
+    - T. Thomas misses 3-pt shot from 23 ft
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:16.0'
+    - Offensive rebound by T. Thomas
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:09.0'
+    - Turnover by S. Cassell (bad pass; steal by T. McGrady)
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 60-60
+    - ''
+    - D. Brown misses 3-pt shot from 25 ft
+  - - '6:02.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 60-60
+    - ''
+    - ''
+  - - '5:56.0'
+    - S. Williams makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 62-60
+    - ''
+    - ''
+  - - '5:56.0'
+    - Shooting foul by D. Brown
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '5:56.0'
+    - Milwaukee full timeout
+    - ''
+    - 62-60
+    - ''
+    - ''
+  - - '5:56.0'
+    - S. Williams makes free throw 1 of 1
+    - "+1"
+    - 63-60
+    - ''
+    - ''
+  - - '5:44.0'
+    - ''
+    - ''
+    - 63-63
+    - "+3"
+    - P. Garrity makes 3-pt shot from 24 ft (assist by T. McGrady)
+  - - '5:24.0'
+    - G. Robinson misses 2-pt shot from 14 ft
+    - ''
+    - 63-63
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '5:06.0'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - D. Brown misses 3-pt shot from 25 ft
+  - - '5:04.0'
+    - ''
+    - ''
+    - 63-63
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '5:02.0'
+    - ''
+    - ''
+    - 63-66
+    - "+3"
+    - P. Garrity makes 3-pt shot from 24 ft (assist by D. Armstrong)
+  - - '4:41.0'
+    - R. Allen misses 2-pt shot from 7 ft
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '4:32.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - D. Brown misses 3-pt shot from 25 ft
+  - - '4:30.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - Offensive rebound by D. Armstrong
+  - - '4:27.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - T. McGrady misses 3-pt shot from 26 ft
+  - - '4:25.0'
+    - Defensive rebound by Team
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:07.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:05.0'
+    - Offensive rebound by S. Cassell
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:00.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '3:51.0'
+    - ''
+    - ''
+    - 63-69
+    - "+3"
+    - P. Garrity makes 3-pt shot from 25 ft (assist by T. McGrady)
+  - - '3:50.0'
+    - Milwaukee full timeout
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '3:50.0'
+    - D. Ham enters the game for T. Thomas
+    - ''
+    - 63-69
+    - ''
+    - ''
+  - - '3:31.0'
+    - R. Allen makes 3-pt shot from 23 ft (assist by G. Robinson)
+    - "+3"
+    - 66-69
+    - ''
+    - ''
+  - - '3:16.0'
+    - ''
+    - ''
+    - 66-71
+    - "+2"
+    - T. McGrady makes 2-pt shot from 6 ft
+  - - '3:05.0'
+    - S. Williams makes 2-pt shot at rim (assist by R. Allen)
+    - "+2"
+    - 68-71
+    - ''
+    - ''
+  - - '2:43.0'
+    - ''
+    - ''
+    - 68-71
+    - ''
+    - P. Garrity misses 2-pt shot from 18 ft
+  - - '2:41.0'
+    - ''
+    - ''
+    - 68-73
+    - "+2"
+    - B. Outlaw makes 2-pt shot at rim
+  - - '2:41.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '2:21.0'
+    - Milwaukee 20 second timeout
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '2:21.0'
+    - J. Caffey enters the game for S. Williams
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '2:17.0'
+    - R. Allen misses 3-pt shot from 25 ft
+    - ''
+    - 68-73
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 68-73
+    - ''
+    - Defensive rebound by D. Brown
+  - - '1:56.0'
+    - ''
+    - ''
+    - 68-75
+    - "+2"
+    - T. McGrady makes 2-pt shot from 16 ft
+  - - '1:37.0'
+    - S. Cassell makes 2-pt shot from 19 ft
+    - "+2"
+    - 70-75
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 70-77
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '1:19.0'
+    - ''
+    - ''
+    - 70-77
+    - ''
+    - Shooting foul by G. Robinson
+  - - '1:19.0'
+    - L. Hunter enters the game for S. Cassell
+    - ''
+    - 70-77
+    - ''
+    - ''
+  - - '1:19.0'
+    - E. Johnson enters the game for G. Robinson
+    - ''
+    - 70-77
+    - ''
+    - ''
+  - - '1:19.0'
+    - T. Thomas enters the game for D. Ham
+    - ''
+    - 70-77
+    - ''
+    - ''
+  - - '1:19.0'
+    - ''
+    - ''
+    - 70-78
+    - "+1"
+    - T. McGrady makes free throw 1 of 1
+  - - '1:05.0'
+    - R. Allen misses 2-pt shot from 6 ft (block by B. Outlaw)
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '1:00.0'
+    - ''
+    - ''
+    - 70-78
+    - ''
+    - Turnover by D. Armstrong (bad pass)
+  - - '0:45.3'
+    - T. Thomas misses 2-pt shot from 3 ft
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:43.9'
+    - Offensive rebound by E. Johnson
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:42.0'
+    - E. Johnson misses 2-pt shot at rim
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:41.4'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:39.5'
+    - Shooting foul by B. Outlaw
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:39.5'
+    - S. Cassell enters the game for E. Johnson
+    - ''
+    - 70-78
+    - ''
+    - ''
+  - - '0:39.5'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 71-78
+    - ''
+    - ''
+  - - '0:39.5'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 72-78
+    - ''
+    - ''
+  - - '0:32.5'
+    - ''
+    - ''
+    - 72-78
+    - ''
+    - Personal foul by R. Allen
+  - - '0:32.5'
+    - ''
+    - ''
+    - 72-79
+    - "+1"
+    - D. Armstrong makes free throw 1 of 2
+  - - '0:32.5'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - T. Hudson enters the game for D. Brown
+  - - '0:32.5'
+    - ''
+    - ''
+    - 72-80
+    - "+1"
+    - D. Armstrong makes free throw 2 of 2
+  - - '0:20.6'
+    - Personal foul by P. Garrity
+    - ''
+    - 72-80
+    - ''
+    - ''
+  - - '0:20.6'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 73-80
+    - ''
+    - ''
+  - - '0:20.6'
+    - ''
+    - ''
+    - 73-80
+    - ''
+    - M. Miller enters the game for B. Outlaw
+  - - '0:20.6'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 74-80
+    - ''
+    - ''
+  - - '0:02.2'
+    - ''
+    - ''
+    - 74-80
+    - ''
+    - T. Hudson misses 3-pt shot from 25 ft
+  - - '0:01.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - S. Cassell misses 3-pt shot from 48 ft
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:36.0'
+    - Shooting foul by B. Outlaw
+    - ''
+    - 74-80
+    - ''
+    - ''
+  - - '11:36.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 75-80
+    - ''
+    - ''
+  - - '11:36.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 76-80
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 76-82
+    - "+2"
+    - T. McGrady makes 2-pt shot from 4 ft (assist by D. Armstrong)
+  - - '11:04.0'
+    - J. Caffey misses 2-pt shot from 8 ft
+    - ''
+    - 76-82
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 76-82
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '10:51.0'
+    - ''
+    - ''
+    - 76-84
+    - "+2"
+    - T. McGrady makes 2-pt shot from 7 ft
+  - - '10:30.0'
+    - R. Allen misses 2-pt shot from 8 ft
+    - ''
+    - 76-84
+    - ''
+    - ''
+  - - '10:27.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 76-84
+    - ''
+    - ''
+  - - '10:22.0'
+    - Shooting foul by B. Outlaw
+    - ''
+    - 76-84
+    - ''
+    - ''
+  - - '10:22.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 77-84
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 77-84
+    - ''
+    - A. DeClercq enters the game for B. Outlaw
+  - - '10:22.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 78-84
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 78-84
+    - ''
+    - T. McGrady misses 2-pt shot from 18 ft
+  - - '10:07.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 78-84
+    - ''
+    - ''
+  - - '9:52.0'
+    - T. Thomas misses 2-pt shot from 9 ft (block by A. DeClercq)
+    - ''
+    - 78-84
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 78-84
+    - ''
+    - Defensive rebound by A. DeClercq
+  - - '9:26.0'
+    - ''
+    - ''
+    - 78-86
+    - "+2"
+    - T. McGrady makes 2-pt shot from 18 ft (assist by D. Armstrong)
+  - - '9:08.0'
+    - Personal foul by T. McGrady
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '9:08.0'
+    - G. Robinson enters the game for S. Cassell
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '9:00.0'
+    - G. Robinson misses 2-pt shot from 13 ft
+    - ''
+    - 78-86
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 78-86
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '8:50.0'
+    - ''
+    - ''
+    - 78-89
+    - "+3"
+    - D. Brown makes 3-pt shot from 23 ft (assist by T. McGrady)
+  - - '8:48.0'
+    - Milwaukee full timeout
+    - ''
+    - 78-89
+    - ''
+    - ''
+  - - '8:36.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 78-89
+    - ''
+    - ''
+  - - '8:36.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 79-89
+    - ''
+    - ''
+  - - '8:36.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 80-89
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 80-89
+    - ''
+    - T. McGrady misses 2-pt shot from 22 ft
+  - - '8:19.0'
+    - Defensive rebound by L. Hunter
+    - ''
+    - 80-89
+    - ''
+    - ''
+  - - '8:14.0'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by L. Hunter)
+    - "+3"
+    - 83-89
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 83-92
+    - "+3"
+    - D. Brown makes 3-pt shot from 23 ft (assist by T. McGrady)
+  - - '7:32.0'
+    - R. Allen misses 2-pt shot at rim
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 83-92
+    - ''
+    - Defensive rebound by Team
+  - - '7:31.0'
+    - ''
+    - ''
+    - 83-92
+    - ''
+    - Loose ball foul by J. Caffey
+  - - '7:11.0'
+    - ''
+    - ''
+    - 83-92
+    - ''
+    - D. Armstrong misses 2-pt shot from 10 ft
+  - - '7:09.0'
+    - Defensive rebound by J. Caffey
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:00.0'
+    - Shooting foul by A. DeClercq
+    - ''
+    - 83-92
+    - ''
+    - ''
+  - - '7:00.0'
+    - ''
+    - ''
+    - 83-92
+    - ''
+    - B. Outlaw enters the game for A. DeClercq
+  - - '7:00.0'
+    - J. Caffey makes free throw 1 of 2
+    - "+1"
+    - 84-92
+    - ''
+    - ''
+  - - '7:00.0'
+    - J. Caffey makes free throw 2 of 2
+    - "+1"
+    - 85-92
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 85-92
+    - ''
+    - Personal foul by T. Thomas
+  - - '6:39.0'
+    - ''
+    - ''
+    - 85-95
+    - "+3"
+    - D. Brown makes 3-pt shot from 24 ft (assist by T. McGrady)
+  - - '6:19.0'
+    - G. Robinson misses 2-pt shot from 4 ft
+    - ''
+    - 85-95
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 85-95
+    - ''
+    - Defensive rebound by B. Outlaw
+  - - '6:03.0'
+    - ''
+    - ''
+    - 85-95
+    - ''
+    - Shooting foul by G. Robinson
+  - - '6:03.0'
+    - S. Cassell enters the game for J. Caffey
+    - ''
+    - 85-95
+    - ''
+    - ''
+  - - '6:03.0'
+    - ''
+    - ''
+    - 85-96
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '6:03.0'
+    - ''
+    - ''
+    - 85-97
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '5:43.0'
+    - T. Thomas makes 2-pt shot from 5 ft
+    - "+2"
+    - 87-97
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 87-97
+    - ''
+    - Shooting foul by R. Allen
+  - - '5:22.0'
+    - ''
+    - ''
+    - 87-97
+    - ''
+    - Official timeout
+  - - '5:22.0'
+    - D. Ham enters the game for L. Hunter
+    - ''
+    - 87-97
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 87-98
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '5:22.0'
+    - ''
+    - ''
+    - 87-99
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '5:13.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 87-99
+    - ''
+    - ''
+  - - '5:11.0'
+    - ''
+    - ''
+    - 87-99
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '4:59.0'
+    - ''
+    - ''
+    - 87-101
+    - "+2"
+    - B. Outlaw makes 2-pt shot at rim (assist by D. Armstrong)
+  - - '4:43.0'
+    - R. Allen makes 2-pt shot from 6 ft
+    - "+2"
+    - 89-101
+    - ''
+    - ''
+  - - '4:43.0'
+    - Shooting foul by D. Brown
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '4:43.0'
+    - R. Allen makes free throw 1 of 1
+    - "+1"
+    - 90-101
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 90-101
+    - ''
+    - B. Outlaw misses 2-pt shot from 7 ft (block by G. Robinson)
+  - - '4:27.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 90-101
+    - ''
+    - ''
+  - - '4:24.0'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 92-101
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 92-101
+    - ''
+    - P. Garrity misses 2-pt shot from 18 ft
+  - - '3:57.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 92-101
+    - ''
+    - ''
+  - - '3:50.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 95-101
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 95-101
+    - ''
+    - Orlando full timeout
+  - - '3:34.0'
+    - ''
+    - ''
+    - 95-103
+    - "+2"
+    - P. Garrity makes 2-pt shot at rim
+  - - '3:24.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 95-103
+    - ''
+    - ''
+  - - '3:24.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 96-103
+    - ''
+    - ''
+  - - '3:24.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 97-103
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 97-103
+    - ''
+    - T. McGrady misses 2-pt shot at rim
+  - - '3:09.0'
+    - ''
+    - ''
+    - 97-103
+    - ''
+    - Offensive rebound by B. Outlaw
+  - - '3:01.0'
+    - ''
+    - ''
+    - 97-103
+    - ''
+    - Personal foul by D. Ham
+  - - '3:01.0'
+    - ''
+    - ''
+    - 97-104
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '3:01.0'
+    - ''
+    - ''
+    - 97-105
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '2:49.0'
+    - S. Cassell misses 2-pt shot from 13 ft
+    - ''
+    - 97-105
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 97-105
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '2:25.0'
+    - ''
+    - ''
+    - 97-105
+    - ''
+    - P. Garrity misses 3-pt shot from 23 ft
+  - - '2:23.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 97-105
+    - ''
+    - ''
+  - - '2:15.0'
+    - G. Robinson makes 3-pt shot from 26 ft (assist by S. Cassell)
+    - "+3"
+    - 100-105
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 100-105
+    - ''
+    - T. McGrady misses 2-pt shot from 9 ft (block by D. Ham)
+  - - '1:49.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 100-105
+    - ''
+    - ''
+  - - '1:46.0'
+    - Shooting foul by D. Brown
+    - ''
+    - 100-105
+    - ''
+    - ''
+  - - '1:46.0'
+    - D. Ham makes free throw 1 of 2
+    - "+1"
+    - 101-105
+    - ''
+    - ''
+  - - '1:46.0'
+    - D. Ham makes free throw 2 of 2
+    - "+1"
+    - 102-105
+    - ''
+    - ''
+  - - '1:40.0'
+    - Violation by T. Thomas (kicked ball)
+    - ''
+    - 102-105
+    - ''
+    - ''
+  - - '1:32.0'
+    - ''
+    - ''
+    - 102-105
+    - ''
+    - Personal foul by D. Ham
+  - - '1:32.0'
+    - ''
+    - ''
+    - 102-106
+    - "+1"
+    - T. McGrady makes free throw 1 of 2
+  - - '1:32.0'
+    - ''
+    - ''
+    - 102-107
+    - "+1"
+    - T. McGrady makes free throw 2 of 2
+  - - '1:32.0'
+    - Milwaukee full timeout
+    - ''
+    - 102-107
+    - ''
+    - ''
+  - - '1:26.0'
+    - D. Ham makes 2-pt shot at rim (assist by R. Allen)
+    - "+2"
+    - 104-107
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 104-107
+    - ''
+    - D. Armstrong misses 2-pt shot from 13 ft
+  - - '1:04.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 104-107
+    - ''
+    - ''
+  - - '0:49.4'
+    - G. Robinson makes 2-pt shot at rim (assist by R. Allen)
+    - "+2"
+    - 106-107
+    - ''
+    - ''
+  - - '0:49.4'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - Orlando full timeout
+  - - '0:49.4'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - M. Doleac enters the game for B. Outlaw
+  - - '0:37.3'
+    - ''
+    - ''
+    - 106-107
+    - ''
+    - T. McGrady misses 2-pt shot at rim
+  - - '0:35.7'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 106-107
+    - ''
+    - ''
+  - - '0:15.2'
+    - G. Robinson makes 2-pt shot from 8 ft
+    - "+2"
+    - 108-107
+    - ''
+    - ''
+  - - '0:15.2'
+    - ''
+    - ''
+    - 108-107
+    - ''
+    - Orlando full timeout
+  - - '0:15.2'
+    - ''
+    - ''
+    - 108-107
+    - ''
+    - M. Miller enters the game for M. Doleac
+  - - '0:08.9'
+    - ''
+    - ''
+    - 108-109
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '0:08.9'
+    - ''
+    - ''
+    - 108-109
+    - ''
+    - Shooting foul by D. Ham
+  - - '0:08.9'
+    - ''
+    - ''
+    - 108-109
+    - ''
+    - B. Outlaw enters the game for M. Miller
+  - - '0:08.9'
+    - ''
+    - ''
+    - 108-110
+    - "+1"
+    - T. McGrady makes free throw 1 of 1
+  - - '0:08.9'
+    - Milwaukee full timeout
+    - ''
+    - 108-110
+    - ''
+    - ''
+  - - '0:08.9'
+    - L. Hunter enters the game for D. Ham
+    - ''
+    - 108-110
+    - ''
+    - ''
+  - - '0:08.9'
+    - ''
+    - ''
+    - 108-110
+    - ''
+    - T. Hudson enters the game for P. Garrity
+  - - '0:03.5'
+    - R. Allen makes 2-pt shot at rim
+    - "+2"
+    - 110-110
+    - ''
+    - ''
+  - - '0:03.5'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - Orlando 20 second timeout
+  - - '0:03.5'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - P. Garrity enters the game for B. Outlaw
+  - - '0:03.5'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - M. Miller enters the game for T. Hudson
+  - - '0:03.5'
+    - D. Ham enters the game for L. Hunter
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '0:00.7'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - M. Miller misses 3-pt shot from 28 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: B. Outlaw vs. T. Thomas (T. McGrady gains possession)'
+  - - '4:46.0'
+    - ''
+    - ''
+    - 110-110
+    - ''
+    - T. McGrady misses 2-pt shot from 10 ft
+  - - '4:44.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '4:36.0'
+    - Shooting foul by P. Garrity
+    - ''
+    - 110-110
+    - ''
+    - ''
+  - - '4:36.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 111-110
+    - ''
+    - ''
+  - - '4:36.0'
+    - T. Thomas makes free throw 2 of 2
+    - "+1"
+    - 112-110
+    - ''
+    - ''
+  - - '4:24.0'
+    - ''
+    - ''
+    - 112-110
+    - ''
+    - Personal foul by D. Ham
+  - - '4:24.0'
+    - E. Johnson enters the game for D. Ham
+    - ''
+    - 112-110
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 112-113
+    - "+3"
+    - D. Brown makes 3-pt shot from 25 ft (assist by T. McGrady)
+  - - '3:59.0'
+    - R. Allen misses 3-pt shot from 24 ft
+    - ''
+    - 112-113
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 112-113
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '3:44.0'
+    - ''
+    - ''
+    - 112-113
+    - ''
+    - T. McGrady misses 2-pt shot at rim
+  - - '3:42.0'
+    - ''
+    - ''
+    - 112-113
+    - ''
+    - Offensive rebound by Team
+  - - '3:28.0'
+    - ''
+    - ''
+    - 112-113
+    - ''
+    - T. McGrady misses 2-pt shot at rim
+  - - '3:26.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 112-113
+    - ''
+    - ''
+  - - '3:25.0'
+    - Personal foul by P. Garrity
+    - ''
+    - 112-113
+    - ''
+    - ''
+  - - '3:12.0'
+    - S. Cassell makes 2-pt shot from 5 ft
+    - "+2"
+    - 114-113
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - T. McGrady misses 2-pt shot from 18 ft
+  - - '2:53.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 114-113
+    - ''
+    - ''
+  - - '2:38.0'
+    - Turnover by S. Cassell (bad pass; steal by D. Brown)
+    - ''
+    - 114-113
+    - ''
+    - ''
+  - - '2:31.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - P. Garrity misses 3-pt shot from 25 ft (block by S. Cassell)
+  - - '2:28.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 114-113
+    - ''
+    - ''
+  - - '2:24.0'
+    - S. Cassell misses 3-pt shot from 25 ft
+    - ''
+    - 114-113
+    - ''
+    - ''
+  - - '2:23.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - Defensive rebound by Team
+  - - '2:23.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - Loose ball foul by E. Johnson
+  - - '2:23.0'
+    - ''
+    - ''
+    - 114-113
+    - ''
+    - Orlando full timeout
+  - - '2:09.0'
+    - ''
+    - ''
+    - 114-115
+    - "+2"
+    - P. Garrity makes 2-pt shot from 20 ft (assist by T. McGrady)
+  - - '1:53.0'
+    - Turnover by T. Thomas (bad pass)
+    - ''
+    - 114-115
+    - ''
+    - ''
+  - - '1:39.0'
+    - ''
+    - ''
+    - 114-117
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '1:22.0'
+    - T. Thomas misses 3-pt shot from 24 ft
+    - ''
+    - 114-117
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 114-117
+    - ''
+    - Defensive rebound by T. McGrady
+  - - '1:03.0'
+    - ''
+    - ''
+    - 114-119
+    - "+2"
+    - T. McGrady makes 2-pt shot at rim
+  - - '1:00.0'
+    - Milwaukee full timeout
+    - ''
+    - 114-119
+    - ''
+    - ''
+  - - '1:00.0'
+    - L. Hunter enters the game for E. Johnson
+    - ''
+    - 114-119
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 114-119
+    - ''
+    - T. Hudson enters the game for P. Garrity
+  - - '0:54.7'
+    - R. Allen makes 2-pt shot from 6 ft
+    - "+2"
+    - 116-119
+    - ''
+    - ''
+  - - '0:34.7'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - D. Brown misses 2-pt shot from 6 ft (block by R. Allen)
+  - - '0:31.3'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:28.0'
+    - S. Cassell misses 2-pt shot at rim
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:25.8'
+    - G. Robinson misses 2-pt shot at rim
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:25.8'
+    - Offensive rebound by G. Robinson
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:24.8'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Defensive rebound by D. Armstrong
+  - - '0:15.7'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Personal foul by G. Robinson
+  - - '0:15.7'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - P. Garrity enters the game for B. Outlaw
+  - - '0:15.7'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Orlando full timeout
+  - - '0:15.7'
+    - E. Johnson enters the game for S. Cassell
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:15.0'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Personal foul by G. Robinson
+  - - '0:15.0'
+    - S. Cassell enters the game for G. Robinson
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:15.0'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - T. McGrady misses free throw 1 of 2
+  - - '0:15.0'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Offensive rebound by Team
+  - - '0:15.0'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - T. McGrady misses free throw 2 of 2
+  - - '0:15.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:14.2'
+    - Milwaukee full timeout
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:14.2'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - B. Outlaw enters the game for T. Hudson
+  - - '0:14.2'
+    - S. Williams enters the game for E. Johnson
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:05.5'
+    - T. Thomas misses 2-pt shot from 23 ft
+    - ''
+    - 116-119
+    - ''
+    - ''
+  - - '0:04.2'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Defensive rebound by Team
+  - - '0:01.4'
+    - ''
+    - ''
+    - 116-119
+    - ''
+    - Personal foul by S. Williams
+  - - '0:01.4'
+    - ''
+    - ''
+    - 116-120
+    - "+1"
+    - D. Armstrong makes free throw 1 of 2
+  - - '0:01.4'
+    - ''
+    - ''
+    - 116-120
+    - ''
+    - M. Williams enters the game for T. McGrady
+  - - '0:01.4'
+    - ''
+    - ''
+    - 116-121
+    - "+1"
+    - D. Armstrong makes free throw 2 of 2
+  - - '0:00.0'
+    - R. Allen misses 3-pt shot from 76 ft
+    - ''
+    - 116-121
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 116-121
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime

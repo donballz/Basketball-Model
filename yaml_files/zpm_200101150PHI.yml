@@ -1,0 +1,206 @@
+---
+- name: Plus-Minus
+  data:
+  - - Charlotte Hornets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'P.J. Brown (On: -4&#9642;Off: -1&#9642;Net: -3)'
+    - |2-
+
+      -3
+    - 190/-3
+    - 86/
+    - 222/+4
+    - 135/-1
+    - 155/
+    - 210/-4
+    - 'Elden Campbell (On: -3&#9642;Off: -2&#9642;Net: -1)'
+    - |2-
+
+      -3
+    - 183/-3
+    - 93/
+    - 126/+4
+    - 66/
+    - 30/-1
+    - 135/-1
+    - 114/
+    - 249/-2
+    - 'Baron Davis (On: +5&#9642;Off: -10&#9642;Net: +15)'
+    - |2-
+
+      -1
+    - 214/-1
+    - 35/
+    - 249/+5
+    - 191/-1
+    - 58/
+    - 50/+2
+    - 38/
+    - 161/0
+    - 'Jamal Mashburn (On: -8&#9642;Off: +3&#9642;Net: -11)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 85/
+    - 165/+2
+    - 250/-7
+    - 80/
+    - 168/-2
+    - 'David Wesley (On: -10&#9642;Off: +5&#9642;Net: -15)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 85/
+    - 165/+2
+    - 250/-7
+    - 55/
+    - 193/-4
+    - 'Jamaal Magloire (On: -2&#9642;Off: -3&#9642;Net: +1)'
+    - "\n"
+    - 186/
+    - 63/+2
+    - 24/+1
+    - 135/
+    - 58/+1
+    - 171/
+    - 110/-6
+    - 249/
+    - 'Derrick Coleman (On: -1&#9642;Off: -4&#9642;Net: +3)'
+    - "\n"
+    - 191/
+    - 58/+2
+    - 24/+1
+    - 365/
+    - 110/-6
+    - 37/+2
+    - 212/
+    - 'Hersey Hawkins (On: -5&#9642;Off: 0&#9642;Net: -5)'
+    - "\n"
+    - 217/
+    - 32/0
+    - 84/+3
+    - 364/
+    - 50/-6
+    - 88/-2
+    - 162/
+    - 'Lee Nailon (On: +3&#9642;Off: -8&#9642;Net: +11)'
+    - "\n"
+    - 250/
+    - 84/+3
+    - 415/
+    - 78/0
+    - 172/
+  - - Philadelphia 76ers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Tyrone Hill (On: +9&#9642;Off: -4&#9642;Net: +13)'
+    - |2-
+
+      +3
+    - 186/+3
+    - 63/
+    - 249/-5
+    - 230/+7
+    - 59/
+    - 151/+4
+    - 59/
+    - 'Allen Iverson (On: +6&#9642;Off: -1&#9642;Net: +7)'
+    - |2-
+
+      +1
+    - 242/+1
+    - 6/
+    - 1/0
+    - 159/-5
+    - 59/
+    - 30/+1
+    - 249/+7
+    - 250/+2
+    - 'George Lynch (On: +12&#9642;Off: -7&#9642;Net: +19)'
+    - |2-
+
+      +1
+    - 243/+1
+    - 137/
+    - 119/0
+    - 250/+7
+    - 40/
+    - 209/+4
+    - 'Aaron McKie (On: +3&#9642;Off: +2&#9642;Net: +1)'
+    - |2-
+
+      +1
+    - 209/+1
+    - 37/
+    - 2/0
+    - 84/
+    - 165/-2
+    - 163/0
+    - 133/
+    - 203/+4
+    - 'Theo Ratliff (On: +2&#9642;Off: +3&#9642;Net: -1)'
+    - |2-
+
+      +1
+    - 248/+1
+    - 86/
+    - 165/-2
+    - 249/+7
+    - 37/-2
+    - 88/
+    - 124/-2
+    - 'Todd MacCulloch (On: -7&#9642;Off: +12&#9642;Net: -19)'
+    - "\n"
+    - 190/
+    - 58/-2
+    - 1/
+    - 84/-3
+    - 414/
+    - 37/-2
+    - 213/
+    - 'Kevin Ollie (On: +1&#9642;Off: +4&#9642;Net: -3)'
+    - "\n"
+    - 214/
+    - 35/0
+    - 84/-3
+    - 77/
+    - 56/-1
+    - 199/
+    - 81/+7
+    - 45/-2
+    - 152/
+    - 51/0
+    - 'Toni Kukoc (On: -1&#9642;Off: +6&#9642;Net: -7)'
+    - "\n"
+    - 247/
+    - 2/0
+    - 126/-5
+    - 357/
+    - 15/0
+    - 122/+4
+    - 128/
+    - 'Rodney Buford (On: 0&#9642;Off: +5&#9642;Net: -5)'
+    - "\n"
+    - 249/
+    - 1/0
+    - 751/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,2594 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: C. Robinson vs. K. Cato (M. Taylor gains possession)'
+  - - '11:45.0'
+    - M. Taylor makes 2-pt shot from 6 ft
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:45.0'
+    - Shooting foul by C. Robinson
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '11:45.0'
+    - M. Taylor makes free throw 1 of 1
+    - "+1"
+    - 3-0
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - Offensive foul by J. Tsakalidis
+  - - '11:33.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - Turnover by J. Tsakalidis (foul)
+  - - '11:25.0'
+    - Offensive foul by M. Taylor
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '11:25.0'
+    - Turnover by M. Taylor (foul)
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '11:16.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - Shooting foul by S. Anderson
+  - - '11:16.0'
+    - ''
+    - ''
+    - 3-1
+    - "+1"
+    - S. Marion makes free throw 1 of 2
+  - - '11:16.0'
+    - ''
+    - ''
+    - 3-1
+    - ''
+    - S. Marion misses free throw 2 of 2
+  - - '11:16.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 3-1
+    - ''
+    - ''
+  - - '11:06.0'
+    - ''
+    - ''
+    - 3-1
+    - ''
+    - Violation by Team (illegal defense)
+  - - '10:57.0'
+    - Turnover by S. Francis (bad pass; steal by S. Marion)
+    - ''
+    - 3-1
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 3-1
+    - ''
+    - S. Marion misses 2-pt shot at rim
+  - - '10:51.0'
+    - Defensive rebound by Team
+    - ''
+    - 3-1
+    - ''
+    - ''
+  - - '10:36.0'
+    - C. Mobley misses 2-pt shot from 18 ft
+    - ''
+    - 3-1
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 3-1
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '10:22.0'
+    - ''
+    - ''
+    - 3-1
+    - ''
+    - M. Elie misses 3-pt shot from 24 ft
+  - - '10:19.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 3-1
+    - ''
+    - ''
+  - - '10:08.0'
+    - M. Taylor makes 2-pt shot at rim
+    - "+2"
+    - 5-1
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 5-3
+    - "+2"
+    - S. Marion makes 2-pt shot from 18 ft (assist by M. Elie)
+  - - '9:33.0'
+    - K. Cato makes 2-pt shot at rim (assist by S. Francis)
+    - "+2"
+    - 7-3
+    - ''
+    - ''
+  - - '9:15.0'
+    - ''
+    - ''
+    - 7-3
+    - ''
+    - S. Marion misses 2-pt shot from 7 ft
+  - - '9:12.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 7-3
+    - ''
+    - ''
+  - - '9:04.0'
+    - C. Mobley misses 2-pt shot from 17 ft
+    - ''
+    - 7-3
+    - ''
+    - ''
+  - - '9:01.0'
+    - ''
+    - ''
+    - 7-3
+    - ''
+    - Defensive rebound by J. Tsakalidis
+  - - '8:51.0'
+    - ''
+    - ''
+    - 7-5
+    - "+2"
+    - C. Robinson makes 2-pt shot from 17 ft (assist by J. Kidd)
+  - - '8:31.0'
+    - Shooting foul by M. Elie
+    - ''
+    - 7-5
+    - ''
+    - ''
+  - - '8:31.0'
+    - K. Cato makes free throw 1 of 2
+    - "+1"
+    - 8-5
+    - ''
+    - ''
+  - - '8:31.0'
+    - K. Cato makes free throw 2 of 2
+    - "+1"
+    - 9-5
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 9-7
+    - "+2"
+    - J. Kidd makes 2-pt shot from 9 ft
+  - - '8:05.0'
+    - Personal foul by J. Tsakalidis
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - R. Rogers enters the game for J. Tsakalidis
+  - - '7:53.0'
+    - Turnover by S. Anderson (out of bounds)
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - Turnover by C. Robinson (lost ball; steal by K. Cato)
+  - - '7:24.0'
+    - M. Taylor makes 2-pt shot from 18 ft (assist by S. Francis)
+    - "+2"
+    - 11-7
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 11-10
+    - "+3"
+    - M. Elie makes 3-pt shot from 24 ft (assist by C. Robinson)
+  - - '6:53.0'
+    - S. Francis makes 2-pt shot from 10 ft
+    - "+2"
+    - 13-10
+    - ''
+    - ''
+  - - '6:53.0'
+    - Shooting foul by S. Marion
+    - ''
+    - 13-10
+    - ''
+    - ''
+  - - '6:53.0'
+    - S. Francis makes free throw 1 of 1
+    - "+1"
+    - 14-10
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - R. Rogers misses 2-pt shot from 17 ft
+  - - '6:36.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '6:34.0'
+    - Turnover by C. Mobley (traveling)
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '6:25.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - C. Robinson misses 2-pt shot from 17 ft
+  - - '6:23.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '6:09.0'
+    - M. Taylor makes 2-pt shot from 19 ft (assist by S. Anderson)
+    - "+2"
+    - 16-10
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 16-10
+    - ''
+    - S. Marion misses 2-pt shot from 18 ft
+  - - '5:50.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '5:50.0'
+    - Personal foul by R. Rogers
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '5:50.0'
+    - Houston full timeout
+    - ''
+    - 16-10
+    - ''
+    - ''
+  - - '5:50.0'
+    - M. Taylor makes free throw 1 of 2
+    - "+1"
+    - 17-10
+    - ''
+    - ''
+  - - '5:50.0'
+    - M. Taylor makes free throw 2 of 2
+    - "+1"
+    - 18-10
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 18-10
+    - ''
+    - Shooting foul by K. Cato
+  - - '5:36.0'
+    - ''
+    - ''
+    - 18-10
+    - ''
+    - C. Robinson misses free throw 1 of 2
+  - - '5:36.0'
+    - ''
+    - ''
+    - 18-10
+    - ''
+    - Offensive rebound by Team
+  - - '5:36.0'
+    - ''
+    - ''
+    - 18-11
+    - "+1"
+    - C. Robinson makes free throw 2 of 2
+  - - '5:17.0'
+    - M. Taylor makes 2-pt shot from 15 ft
+    - "+2"
+    - 20-11
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 20-11
+    - ''
+    - R. Rogers misses 2-pt shot from 8 ft
+  - - '5:00.0'
+    - Defensive rebound by Team
+    - ''
+    - 20-11
+    - ''
+    - ''
+  - - '4:35.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 20-11
+    - ''
+    - ''
+  - - '4:27.0'
+    - ''
+    - ''
+    - 20-13
+    - "+2"
+    - J. Kidd makes 2-pt shot from 13 ft
+  - - '4:13.0'
+    - C. Mobley misses 2-pt shot at rim (block by C. Robinson)
+    - ''
+    - 20-13
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - Defensive rebound by M. Elie
+  - - '4:03.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - Turnover by R. Rogers (lost ball; steal by K. Cato)
+  - - '3:59.0'
+    - Shooting foul by S. Marion
+    - ''
+    - 20-13
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - T. Delk enters the game for M. Elie
+  - - '3:59.0'
+    - S. Anderson misses free throw 1 of 2
+    - ''
+    - 20-13
+    - ''
+    - ''
+  - - '3:59.0'
+    - Offensive rebound by Team
+    - ''
+    - 20-13
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 20-13
+    - ''
+    - T. Gugliotta enters the game for S. Marion
+  - - '3:59.0'
+    - S. Anderson makes free throw 2 of 2
+    - "+1"
+    - 21-13
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim
+  - - '3:45.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:39.0'
+    - S. Francis misses 2-pt shot from 5 ft
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:38.0'
+    - S. Francis misses 2-pt shot at rim
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:38.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:36.0'
+    - Offensive rebound by M. Taylor
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:34.0'
+    - M. Taylor misses 2-pt shot from 5 ft
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '3:33.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Personal foul by K. Cato
+  - - '3:33.0'
+    - K. Thomas enters the game for K. Cato
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:15.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Turnover by J. Kidd (bad pass)
+  - - '3:15.0'
+    - Houston full timeout
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:05.0'
+    - S. Anderson misses 2-pt shot at rim
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '2:56.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - R. Rogers misses 2-pt shot at rim (block by S. Francis)
+  - - '2:56.0'
+    - 'Jump ball: R. Rogers vs. S. Francis (J. Kidd gains possession)'
+  - - '2:56.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Offensive rebound by Team
+  - - '2:43.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - R. Rogers misses 2-pt shot from 21 ft
+  - - '2:40.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Offensive rebound by C. Robinson
+  - - '2:30.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim
+  - - '2:28.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim
+  - - '2:28.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Offensive rebound by T. Gugliotta
+  - - '2:27.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - T. Gugliotta misses 2-pt shot at rim
+  - - '2:27.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Offensive rebound by T. Gugliotta
+  - - '2:26.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '2:10.0'
+    - K. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 23-13
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 23-13
+    - ''
+    - C. Robinson misses 2-pt shot from 14 ft
+  - - '1:53.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 23-13
+    - ''
+    - ''
+  - - '1:42.0'
+    - M. Taylor misses 2-pt shot from 18 ft
+    - ''
+    - 23-13
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 23-13
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '1:34.0'
+    - ''
+    - ''
+    - 23-15
+    - "+2"
+    - J. Kidd makes 2-pt shot at rim
+  - - '1:08.0'
+    - M. Taylor misses 2-pt shot from 17 ft
+    - ''
+    - 23-15
+    - ''
+    - ''
+  - - '1:06.0'
+    - ''
+    - ''
+    - 23-15
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '1:02.0'
+    - ''
+    - ''
+    - 23-17
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+  - - '1:02.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Shooting foul by M. Taylor
+  - - '1:02.0'
+    - C. Rogers enters the game for M. Taylor
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 23-18
+    - "+1"
+    - C. Robinson makes free throw 1 of 1
+  - - '0:47.9'
+    - C. Mobley misses 2-pt shot from 17 ft
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '0:45.9'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '0:30.8'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Offensive foul by J. Kidd
+  - - '0:30.8'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Turnover by J. Kidd (foul)
+  - - '0:30.8'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - V. Del Negro enters the game for C. Robinson
+  - - '0:30.8'
+    - W. Williams enters the game for S. Anderson
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '0:11.9'
+    - C. Mobley misses 2-pt shot from 15 ft
+    - ''
+    - 23-18
+    - ''
+    - ''
+  - - '0:09.9'
+    - ''
+    - ''
+    - 23-18
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-20
+    - "+2"
+    - T. Delk makes 2-pt shot from 18 ft (assist by J. Kidd)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 23-20
+    - ''
+    - Turnover by E. Perry (lost ball; steal by S. Francis)
+  - - '11:36.0'
+    - Turnover by M. Norris (bad pass; steal by T. Delk)
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 23-20
+    - ''
+    - E. Perry misses 2-pt shot from 15 ft
+  - - '11:13.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 23-20
+    - ''
+    - ''
+  - - '10:58.0'
+    - K. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 25-20
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - T. Delk misses 2-pt shot from 13 ft
+  - - '10:35.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - Offensive rebound by T. Delk
+  - - '10:34.0'
+    - ''
+    - ''
+    - 25-22
+    - "+2"
+    - T. Delk makes 2-pt shot at rim
+  - - '10:19.0'
+    - Turnover by K. Thomas (bad pass)
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 25-24
+    - "+2"
+    - T. Delk makes 2-pt shot from 10 ft (assist by R. Rogers)
+  - - '9:37.0'
+    - Turnover by K. Thomas (bad pass; steal by E. Perry)
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 25-26
+    - "+2"
+    - E. Perry makes 2-pt shot at rim
+  - - '9:33.0'
+    - ''
+    - ''
+    - 25-26
+    - ''
+    - Shooting foul by M. Norris
+  - - '9:33.0'
+    - C. Mobley enters the game for C. Rogers
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 25-27
+    - "+1"
+    - E. Perry makes free throw 1 of 1
+  - - '9:18.0'
+    - Shooting foul by R. Rogers
+    - ''
+    - 25-27
+    - ''
+    - ''
+  - - '9:18.0'
+    - S. Francis makes free throw 1 of 2
+    - "+1"
+    - 26-27
+    - ''
+    - ''
+  - - '9:18.0'
+    - S. Francis makes free throw 2 of 2
+    - "+1"
+    - 27-27
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 27-27
+    - ''
+    - Shooting foul by C. Mobley
+  - - '9:06.0'
+    - ''
+    - ''
+    - 27-28
+    - "+1"
+    - V. Del Negro makes free throw 1 of 2
+  - - '9:06.0'
+    - ''
+    - ''
+    - 27-29
+    - "+1"
+    - V. Del Negro makes free throw 2 of 2
+  - - '8:57.0'
+    - Personal foul by E. Perry
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '8:57.0'
+    - Official timeout
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '8:57.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - S. Marion enters the game for R. Rogers
+  - - '8:46.0'
+    - K. Thomas misses 2-pt shot from 18 ft
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - Defensive rebound by S. Marion
+  - - '8:28.0'
+    - ''
+    - ''
+    - 27-29
+    - ''
+    - S. Marion misses 2-pt shot from 7 ft
+  - - '8:27.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 27-29
+    - ''
+    - ''
+  - - '8:19.0'
+    - W. Williams makes 2-pt shot from 17 ft (assist by C. Mobley)
+    - "+2"
+    - 29-29
+    - ''
+    - ''
+  - - '7:55.0'
+    - ''
+    - ''
+    - 29-29
+    - ''
+    - E. Perry misses 2-pt shot from 23 ft
+  - - '7:52.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 29-29
+    - ''
+    - ''
+  - - '7:39.0'
+    - M. Norris makes 2-pt shot at rim (assist by W. Williams)
+    - "+2"
+    - 31-29
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 31-31
+    - "+2"
+    - E. Perry makes 2-pt shot from 18 ft
+  - - '7:04.0'
+    - Ill def tech foul by Team
+    - ''
+    - 31-31
+    - ''
+    - ''
+  - - '7:04.0'
+    - W. Williams makes free throw technical
+    - "+1"
+    - 32-31
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - J. Kidd enters the game for E. Perry
+  - - '7:04.0'
+    - ''
+    - ''
+    - 32-31
+    - ''
+    - C. Robinson enters the game for T. Gugliotta
+  - - '6:57.0'
+    - W. Williams makes 3-pt shot from 25 ft (assist by M. Norris)
+    - "+3"
+    - 35-31
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 35-31
+    - ''
+    - V. Del Negro misses 2-pt shot from 14 ft
+  - - '6:35.0'
+    - Defensive rebound by W. Williams
+    - ''
+    - 35-31
+    - ''
+    - ''
+  - - '6:24.0'
+    - C. Mobley makes 2-pt shot from 7 ft
+    - "+2"
+    - 37-31
+    - ''
+    - ''
+  - - '6:08.0'
+    - ''
+    - ''
+    - 37-34
+    - "+3"
+    - T. Delk makes 3-pt shot from 25 ft (assist by J. Kidd)
+  - - '5:43.0'
+    - M. Norris makes 2-pt shot from 7 ft
+    - "+2"
+    - 39-34
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 39-36
+    - "+2"
+    - S. Marion makes 2-pt shot from 7 ft
+  - - '5:10.0'
+    - M. Norris misses 2-pt shot at rim
+    - ''
+    - 39-36
+    - ''
+    - ''
+  - - '5:08.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Defensive rebound by S. Marion
+  - - '5:00.0'
+    - ''
+    - ''
+    - 39-36
+    - ''
+    - Turnover by T. Delk (lost ball; steal by M. Norris)
+  - - '4:54.0'
+    - Turnover by M. Norris (lost ball; steal by T. Delk)
+    - ''
+    - 39-36
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 39-38
+    - "+2"
+    - J. Kidd makes 2-pt shot at rim
+  - - '4:50.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Shooting foul by W. Williams
+  - - '4:50.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Phoenix full timeout
+  - - '4:50.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Technical foul by V. Del Negro
+  - - '4:50.0'
+    - ''
+    - ''
+    - 39-38
+    - ''
+    - Technical foul by Team
+  - - '4:50.0'
+    - C. Mobley makes free throw technical
+    - "+1"
+    - 40-38
+    - ''
+    - ''
+  - - '4:50.0'
+    - C. Mobley makes free throw technical
+    - "+1"
+    - 41-38
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 41-38
+    - ''
+    - M. Elie enters the game for V. Del Negro
+  - - '4:50.0'
+    - M. Taylor enters the game for K. Thomas
+    - ''
+    - 41-38
+    - ''
+    - ''
+  - - '4:50.0'
+    - ''
+    - ''
+    - 41-39
+    - "+1"
+    - J. Kidd makes free throw 1 of 1
+  - - '4:33.0'
+    - S. Francis makes 2-pt shot from 18 ft
+    - "+2"
+    - 43-39
+    - ''
+    - ''
+  - - '4:17.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Turnover by S. Marion (bad pass)
+  - - '3:57.0'
+    - W. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 43-39
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 43-39
+    - ''
+    - Defensive rebound by S. Marion
+  - - '3:48.0'
+    - ''
+    - ''
+    - 43-41
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+  - - '3:32.0'
+    - Turnover by C. Mobley (traveling)
+    - ''
+    - 43-41
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 43-41
+    - ''
+    - T. Delk misses 2-pt shot from 18 ft
+  - - '3:18.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 43-41
+    - ''
+    - ''
+  - - '3:09.0'
+    - C. Mobley makes 2-pt shot at rim
+    - "+2"
+    - 45-41
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - S. Marion misses 2-pt shot from 9 ft
+  - - '2:51.0'
+    - Defensive rebound by W. Williams
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '2:28.0'
+    - C. Mobley misses 3-pt shot from 26 ft
+    - ''
+    - 45-41
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '2:19.0'
+    - ''
+    - ''
+    - 45-41
+    - ''
+    - C. Robinson misses 3-pt shot from 25 ft
+  - - '2:17.0'
+    - ''
+    - ''
+    - 45-43
+    - "+2"
+    - T. Delk makes 2-pt shot at rim
+  - - '2:17.0'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - Offensive rebound by T. Delk
+  - - '2:09.0'
+    - Houston full timeout
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - T. Gugliotta enters the game for S. Marion
+  - - '1:58.0'
+    - Offensive foul by M. Taylor
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '1:58.0'
+    - Turnover by M. Taylor (foul)
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 45-43
+    - ''
+    - T. Gugliotta misses 2-pt shot from 13 ft
+  - - '1:40.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '1:26.0'
+    - W. Williams misses 2-pt shot at rim
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '1:24.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 45-43
+    - ''
+    - ''
+  - - '1:21.0'
+    - S. Francis makes 2-pt shot from 10 ft
+    - "+2"
+    - 47-43
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 47-43
+    - ''
+    - T. Gugliotta misses 2-pt shot from 8 ft
+  - - '1:01.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '0:56.9'
+    - M. Norris misses 2-pt shot from 15 ft
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '0:55.8'
+    - Offensive rebound by C. Mobley
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '0:53.9'
+    - C. Mobley misses 2-pt shot at rim (block by C. Robinson)
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '0:51.9'
+    - Offensive rebound by M. Taylor
+    - ''
+    - 47-43
+    - ''
+    - ''
+  - - '0:46.9'
+    - W. Williams makes 3-pt shot from 25 ft (assist by M. Taylor)
+    - "+3"
+    - 50-43
+    - ''
+    - ''
+  - - '0:45.4'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - Phoenix 20 second timeout
+  - - '0:39.9'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - J. Kidd misses 2-pt shot from 14 ft
+  - - '0:38.7'
+    - Defensive rebound by S. Francis
+    - ''
+    - 50-43
+    - ''
+    - ''
+  - - '0:20.9'
+    - S. Francis misses 3-pt shot from 24 ft
+    - ''
+    - 50-43
+    - ''
+    - ''
+  - - '0:18.9'
+    - Offensive rebound by S. Francis
+    - ''
+    - 50-43
+    - ''
+    - ''
+  - - '0:16.4'
+    - M. Taylor makes 2-pt shot from 5 ft (assist by S. Francis)
+    - "+2"
+    - 52-43
+    - ''
+    - ''
+  - - '0:16.4'
+    - Shooting foul by J. Kidd
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '0:16.4'
+    - Violation by Team (delay of game)
+    - ''
+    - 52-43
+    - ''
+    - ''
+  - - '0:16.4'
+    - M. Taylor makes free throw 1 of 1
+    - "+1"
+    - 53-43
+    - ''
+    - ''
+  - - '0:06.5'
+    - ''
+    - ''
+    - 53-43
+    - ''
+    - Personal foul by S. Francis
+  - - '0:06.5'
+    - K. Thomas enters the game for M. Taylor
+    - ''
+    - 53-43
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 53-45
+    - "+2"
+    - M. Elie makes 2-pt shot from 15 ft (assist by J. Kidd)
+  - - '0:00.0'
+    - W. Williams misses 3-pt shot from 40 ft
+    - ''
+    - 53-45
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 53-45
+    - ''
+    - ''
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 53-45
+    - ''
+    - C. Robinson misses 2-pt shot from 16 ft
+  - - '11:44.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 53-45
+    - ''
+    - ''
+  - - '11:27.0'
+    - M. Taylor makes 2-pt shot at rim (assist by S. Francis)
+    - "+2"
+    - 55-45
+    - ''
+    - ''
+  - - '11:03.0'
+    - ''
+    - ''
+    - 55-45
+    - ''
+    - Turnover by J. Tsakalidis (traveling)
+  - - '10:52.0'
+    - Personal foul by C. Robinson
+    - ''
+    - 55-45
+    - ''
+    - ''
+  - - '10:41.0'
+    - M. Taylor makes 2-pt shot from 9 ft
+    - "+2"
+    - 57-45
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - S. Marion misses 2-pt shot from 8 ft
+  - - '10:25.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - Offensive rebound by M. Elie
+  - - '10:24.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - M. Elie misses 2-pt shot at rim
+  - - '10:22.0'
+    - ''
+    - ''
+    - 57-45
+    - ''
+    - Offensive rebound by J. Tsakalidis
+  - - '10:20.0'
+    - ''
+    - ''
+    - 57-47
+    - "+2"
+    - J. Tsakalidis makes 2-pt shot at rim
+  - - '9:59.0'
+    - C. Mobley makes 2-pt shot at rim
+    - "+2"
+    - 59-47
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 59-47
+    - ''
+    - S. Marion misses 2-pt shot from 15 ft
+  - - '9:45.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 59-47
+    - ''
+    - ''
+  - - '9:36.0'
+    - S. Francis makes 2-pt shot from 16 ft
+    - "+2"
+    - 61-47
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 61-47
+    - ''
+    - C. Robinson misses 2-pt shot from 17 ft
+  - - '9:17.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 61-47
+    - ''
+    - ''
+  - - '9:00.0'
+    - S. Francis makes 2-pt shot from 23 ft
+    - "+2"
+    - 63-47
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 63-47
+    - ''
+    - Phoenix full timeout
+  - - '8:42.0'
+    - ''
+    - ''
+    - 63-47
+    - ''
+    - M. Elie misses 2-pt shot at rim
+  - - '8:40.0'
+    - ''
+    - ''
+    - 63-47
+    - ''
+    - Offensive rebound by J. Tsakalidis
+  - - '8:36.0'
+    - ''
+    - ''
+    - 63-50
+    - "+3"
+    - J. Kidd makes 3-pt shot from 24 ft (assist by J. Tsakalidis)
+  - - '8:07.0'
+    - M. Taylor misses 2-pt shot from 17 ft
+    - ''
+    - 63-50
+    - ''
+    - ''
+  - - '8:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-50
+    - ''
+    - ''
+  - - '8:06.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 63-50
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 63-50
+    - ''
+    - C. Robinson misses 2-pt shot from 7 ft
+  - - '7:53.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 63-50
+    - ''
+    - ''
+  - - '7:45.0'
+    - S. Francis makes 2-pt shot from 15 ft
+    - "+2"
+    - 65-50
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 65-50
+    - ''
+    - Turnover by J. Tsakalidis (lost ball; steal by K. Cato)
+  - - '7:20.0'
+    - Turnover by S. Francis (discontinued dribble)
+    - ''
+    - 65-50
+    - ''
+    - ''
+  - - '7:13.0'
+    - ''
+    - ''
+    - 65-52
+    - "+2"
+    - J. Kidd makes 2-pt shot from 18 ft
+  - - '6:59.0'
+    - C. Mobley misses 3-pt shot from 24 ft
+    - ''
+    - 65-52
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - Defensive rebound by Team
+  - - '6:57.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - Loose ball foul by M. Taylor
+  - - '6:57.0'
+    - K. Thomas enters the game for M. Taylor
+    - ''
+    - 65-52
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - S. Marion misses 2-pt shot from 11 ft
+  - - '6:45.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - J. Tsakalidis misses 2-pt shot at rim
+  - - '6:45.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - Offensive rebound by J. Tsakalidis
+  - - '6:43.0'
+    - ''
+    - ''
+    - 65-52
+    - ''
+    - Offensive rebound by J. Kidd
+  - - '6:31.0'
+    - ''
+    - ''
+    - 65-54
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+  - - '6:05.0'
+    - S. Francis makes 3-pt shot from 25 ft
+    - "+3"
+    - 68-54
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 68-54
+    - ''
+    - Personal foul by S. Francis
+  - - '5:52.0'
+    - ''
+    - ''
+    - 68-54
+    - ''
+    - J. Kidd misses 2-pt shot from 14 ft
+  - - '5:51.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 68-54
+    - ''
+    - ''
+  - - '5:33.0'
+    - Shooting foul by C. Robinson
+    - ''
+    - 68-54
+    - ''
+    - ''
+  - - '5:33.0'
+    - K. Thomas makes free throw 1 of 2
+    - "+1"
+    - 69-54
+    - ''
+    - ''
+  - - '5:33.0'
+    - K. Thomas makes free throw 2 of 2
+    - "+1"
+    - 70-54
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 70-56
+    - "+2"
+    - S. Marion makes 2-pt shot from 10 ft (assist by J. Kidd)
+  - - '4:57.0'
+    - Turnover by S. Anderson (bad pass; steal by S. Marion)
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 70-56
+    - ''
+    - J. Kidd misses 2-pt shot at rim
+  - - '4:50.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '4:41.0'
+    - Turnover by S. Francis (bad pass)
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 70-56
+    - ''
+    - J. Kidd misses 2-pt shot from 15 ft
+  - - '4:29.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '4:10.0'
+    - Turnover by K. Thomas (traveling)
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 70-56
+    - ''
+    - S. Marion misses 2-pt shot from 7 ft
+  - - '3:56.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '3:36.0'
+    - S. Francis misses 2-pt shot from 12 ft (block by S. Marion)
+    - ''
+    - 70-56
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 70-56
+    - ''
+    - Defensive rebound by J. Tsakalidis
+  - - '3:27.0'
+    - ''
+    - ''
+    - 70-58
+    - "+2"
+    - S. Marion makes 2-pt shot at rim (assist by J. Kidd)
+  - - '3:18.0'
+    - Houston full timeout
+    - ''
+    - 70-58
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - R. Rogers enters the game for J. Tsakalidis
+  - - '3:18.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - T. Gugliotta enters the game for C. Robinson
+  - - '3:06.0'
+    - K. Thomas misses 2-pt shot at rim (block by R. Rogers)
+    - ''
+    - 70-58
+    - ''
+    - ''
+  - - '3:04.0'
+    - ''
+    - ''
+    - 70-58
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '2:57.0'
+    - ''
+    - ''
+    - 70-60
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 15 ft (assist by R. Rogers)
+  - - '2:36.0'
+    - Turnover by C. Mobley (lost ball; steal by M. Elie)
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '2:36.0'
+    - W. Williams enters the game for S. Anderson
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '2:28.0'
+    - Violation by S. Francis (kicked ball)
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 70-60
+    - ''
+    - T. Delk enters the game for M. Elie
+  - - '2:28.0'
+    - S. Anderson enters the game for K. Cato
+    - ''
+    - 70-60
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 70-62
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 21 ft (assist by J. Kidd)
+  - - '1:58.0'
+    - S. Francis misses 3-pt shot from 24 ft
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '1:56.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '1:53.0'
+    - W. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 70-62
+    - ''
+    - ''
+  - - '1:52.0'
+    - ''
+    - ''
+    - 70-62
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '1:49.0'
+    - ''
+    - ''
+    - 70-64
+    - "+2"
+    - R. Rogers makes 2-pt shot at rim (assist by J. Kidd)
+  - - '1:46.0'
+    - Houston 20 second timeout
+    - ''
+    - 70-64
+    - ''
+    - ''
+  - - '1:25.0'
+    - S. Francis misses 2-pt shot from 13 ft
+    - ''
+    - 70-64
+    - ''
+    - ''
+  - - '1:23.0'
+    - Offensive rebound by S. Francis
+    - ''
+    - 70-64
+    - ''
+    - ''
+  - - '1:19.0'
+    - Shooting foul by T. Gugliotta
+    - ''
+    - 70-64
+    - ''
+    - ''
+  - - '1:19.0'
+    - S. Francis makes free throw 1 of 2
+    - "+1"
+    - 71-64
+    - ''
+    - ''
+  - - '1:19.0'
+    - S. Francis makes free throw 2 of 2
+    - "+1"
+    - 72-64
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 72-64
+    - ''
+    - J. Kidd misses 2-pt shot at rim
+  - - '1:06.0'
+    - ''
+    - ''
+    - 72-64
+    - ''
+    - Offensive rebound by T. Gugliotta
+  - - '1:04.0'
+    - ''
+    - ''
+    - 72-64
+    - ''
+    - Turnover by T. Gugliotta (lost ball)
+  - - '0:44.9'
+    - S. Francis misses 3-pt shot from 25 ft
+    - ''
+    - 72-64
+    - ''
+    - ''
+  - - '0:42.9'
+    - ''
+    - ''
+    - 72-64
+    - ''
+    - Defensive rebound by S. Marion
+  - - '0:36.9'
+    - ''
+    - ''
+    - 72-66
+    - "+2"
+    - J. Kidd makes 2-pt shot from 17 ft
+  - - '0:15.9'
+    - Turnover by W. Williams (bad pass; steal by J. Kidd)
+    - ''
+    - 72-66
+    - ''
+    - ''
+  - - '0:04.2'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - Offensive foul by T. Gugliotta
+  - - '0:04.2'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - Turnover by T. Gugliotta (foul)
+  - - '0:00.0'
+    - S. Francis makes 2-pt shot from 19 ft
+    - "+2"
+    - 74-66
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - W. Williams misses 2-pt shot at rim
+    - ''
+    - 74-66
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by K. Thomas
+    - ''
+    - 74-66
+    - ''
+    - ''
+  - - '11:42.0'
+    - Shooting foul by T. Gugliotta
+    - ''
+    - 74-66
+    - ''
+    - ''
+  - - '11:42.0'
+    - K. Thomas makes free throw 1 of 2
+    - "+1"
+    - 75-66
+    - ''
+    - ''
+  - - '11:42.0'
+    - K. Thomas misses free throw 2 of 2
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '11:42.0'
+    - Offensive rebound by W. Williams
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '11:35.0'
+    - Shooting foul by J. Kidd
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '11:35.0'
+    - K. Thomas misses free throw 1 of 2
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '11:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 75-66
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 75-66
+    - ''
+    - C. Robinson enters the game for S. Marion
+  - - '11:35.0'
+    - K. Thomas makes free throw 2 of 2
+    - "+1"
+    - 76-66
+    - ''
+    - ''
+  - - '11:23.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - T. Delk misses 2-pt shot from 10 ft
+  - - '11:21.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - R. Rogers misses 2-pt shot at rim (block by K. Thomas)
+  - - '11:21.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Offensive rebound by R. Rogers
+  - - '11:19.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Offensive rebound by J. Kidd
+  - - '11:15.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - T. Delk misses 2-pt shot from 21 ft
+  - - '11:13.0'
+    - Defensive rebound by K. Thomas
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '10:51.0'
+    - M. Norris misses 2-pt shot from 13 ft
+    - ''
+    - 76-66
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Defensive rebound by R. Rogers
+  - - '10:37.0'
+    - ''
+    - ''
+    - 76-66
+    - ''
+    - Shooting foul by K. Thomas
+  - - '10:37.0'
+    - ''
+    - ''
+    - 76-67
+    - "+1"
+    - T. Gugliotta makes free throw 1 of 2
+  - - '10:37.0'
+    - ''
+    - ''
+    - 76-68
+    - "+1"
+    - T. Gugliotta makes free throw 2 of 2
+  - - '10:21.0'
+    - Turnover by W. Williams (traveling)
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '10:09.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - J. Kidd misses 2-pt shot from 23 ft
+  - - '10:08.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Offensive rebound by Team
+  - - '10:08.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Loose ball foul by W. Williams
+  - - '10:08.0'
+    - Technical foul by W. Williams
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - J. Kidd misses free throw technical
+  - - '10:08.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Offensive rebound by Team
+  - - '10:01.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - R. Rogers misses 2-pt shot from 6 ft (block by W. Williams)
+  - - '9:59.0'
+    - Defensive rebound by S. Anderson
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '9:59.0'
+    - Personal foul by R. Rogers
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '9:37.0'
+    - S. Francis enters the game for S. Anderson
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '9:34.0'
+    - M. Norris misses 2-pt shot from 9 ft
+    - ''
+    - 76-68
+    - ''
+    - ''
+  - - '9:33.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '9:25.0'
+    - ''
+    - ''
+    - 76-68
+    - ''
+    - Shooting foul by C. Mobley
+  - - '9:25.0'
+    - ''
+    - ''
+    - 76-69
+    - "+1"
+    - T. Delk makes free throw 1 of 2
+  - - '9:25.0'
+    - ''
+    - ''
+    - 76-70
+    - "+1"
+    - T. Delk makes free throw 2 of 2
+  - - '9:04.0'
+    - W. Williams misses 3-pt shot from 24 ft
+    - ''
+    - 76-70
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 76-70
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '8:55.0'
+    - ''
+    - ''
+    - 76-72
+    - "+2"
+    - C. Robinson makes 2-pt shot from 6 ft (assist by J. Kidd)
+  - - '8:55.0'
+    - ''
+    - ''
+    - 76-72
+    - ''
+    - Shooting foul by W. Williams
+  - - '8:55.0'
+    - ''
+    - ''
+    - 76-72
+    - ''
+    - Official timeout
+  - - '8:55.0'
+    - ''
+    - ''
+    - 76-73
+    - "+1"
+    - C. Robinson makes free throw 1 of 1
+  - - '8:42.0'
+    - C. Mobley misses 2-pt shot from 11 ft
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '8:41.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '8:32.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - C. Robinson misses 2-pt shot from 8 ft
+  - - '8:30.0'
+    - Defensive rebound by S. Francis
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '8:13.0'
+    - Personal foul by T. Gugliotta
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '8:02.0'
+    - M. Norris misses 2-pt shot at rim
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - Defensive rebound by C. Robinson
+  - - '7:55.0'
+    - ''
+    - ''
+    - 76-73
+    - ''
+    - J. Kidd misses 2-pt shot at rim
+  - - '7:54.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '7:49.0'
+    - Offensive foul by S. Francis
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '7:49.0'
+    - Turnover by S. Francis (foul)
+    - ''
+    - 76-73
+    - ''
+    - ''
+  - - '7:29.0'
+    - ''
+    - ''
+    - 76-75
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 18 ft (assist by R. Rogers)
+  - - '7:03.0'
+    - C. Mobley makes 2-pt shot at rim (assist by M. Norris)
+    - "+2"
+    - 78-75
+    - ''
+    - ''
+  - - '6:54.0'
+    - ''
+    - ''
+    - 78-75
+    - ''
+    - T. Delk misses 2-pt shot from 7 ft
+  - - '6:52.0'
+    - Defensive rebound by C. Mobley
+    - ''
+    - 78-75
+    - ''
+    - ''
+  - - '6:38.0'
+    - Turnover by M. Norris (lost ball; steal by C. Robinson)
+    - ''
+    - 78-75
+    - ''
+    - ''
+  - - '6:35.0'
+    - Technical foul by Team
+    - ''
+    - 78-75
+    - ''
+    - ''
+  - - '6:35.0'
+    - M. Taylor enters the game for K. Thomas
+    - ''
+    - 78-75
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 78-75
+    - ''
+    - M. Elie enters the game for T. Delk
+  - - '6:35.0'
+    - ''
+    - ''
+    - 78-76
+    - "+1"
+    - J. Kidd makes free throw technical
+  - - '6:35.0'
+    - ''
+    - ''
+    - 78-76
+    - ''
+    - Phoenix full timeout
+  - - '6:21.0'
+    - ''
+    - ''
+    - 78-78
+    - "+2"
+    - C. Robinson makes 2-pt shot from 11 ft (assist by J. Kidd)
+  - - '6:00.0'
+    - C. Mobley makes 3-pt shot from 25 ft (assist by M. Norris)
+    - "+3"
+    - 81-78
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 81-80
+    - "+2"
+    - T. Gugliotta makes 2-pt shot at rim (assist by J. Kidd)
+  - - '5:21.0'
+    - C. Mobley makes 2-pt shot from 18 ft
+    - "+2"
+    - 83-80
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 83-82
+    - "+2"
+    - C. Robinson makes 2-pt shot at rim (assist by J. Kidd)
+  - - '4:51.0'
+    - C. Mobley makes 2-pt shot from 15 ft
+    - "+2"
+    - 85-82
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 85-82
+    - ''
+    - R. Rogers misses 3-pt shot from 23 ft
+  - - '4:24.0'
+    - Defensive rebound by M. Norris
+    - ''
+    - 85-82
+    - ''
+    - ''
+  - - '4:09.0'
+    - C. Mobley makes 2-pt shot at rim
+    - "+2"
+    - 87-82
+    - ''
+    - ''
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - Shooting foul by C. Mobley
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - S. Marion enters the game for M. Elie
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - T. Delk enters the game for R. Rogers
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - T. Gugliotta misses free throw 1 of 2
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - Offensive rebound by Team
+  - - '3:55.0'
+    - ''
+    - ''
+    - 87-82
+    - ''
+    - T. Gugliotta misses free throw 2 of 2
+  - - '3:55.0'
+    - Defensive rebound by M. Taylor
+    - ''
+    - 87-82
+    - ''
+    - ''
+  - - '3:39.0'
+    - Personal foul by T. Delk
+    - ''
+    - 87-82
+    - ''
+    - ''
+  - - '3:39.0'
+    - C. Mobley makes free throw 1 of 2
+    - "+1"
+    - 88-82
+    - ''
+    - ''
+  - - '3:39.0'
+    - C. Mobley makes free throw 2 of 2
+    - "+1"
+    - 89-82
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 89-82
+    - ''
+    - J. Kidd misses 2-pt shot at rim
+  - - '3:23.0'
+    - ''
+    - ''
+    - 89-82
+    - ''
+    - Offensive rebound by T. Delk
+  - - '3:19.0'
+    - ''
+    - ''
+    - 89-84
+    - "+2"
+    - J. Kidd makes 2-pt shot at rim (assist by C. Robinson)
+  - - '3:02.0'
+    - Turnover by W. Williams (bad pass; steal by J. Kidd)
+    - ''
+    - 89-84
+    - ''
+    - ''
+  - - '2:52.0'
+    - ''
+    - ''
+    - 89-86
+    - "+2"
+    - S. Marion makes 2-pt shot at rim (assist by T. Delk)
+  - - '2:43.0'
+    - Houston full timeout
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '2:29.0'
+    - C. Mobley misses 2-pt shot from 16 ft
+    - ''
+    - 89-86
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '2:21.0'
+    - ''
+    - ''
+    - 89-86
+    - ''
+    - Shooting foul by S. Francis
+  - - '2:21.0'
+    - ''
+    - ''
+    - 89-87
+    - "+1"
+    - S. Marion makes free throw 1 of 2
+  - - '2:21.0'
+    - ''
+    - ''
+    - 89-88
+    - "+1"
+    - S. Marion makes free throw 2 of 2
+  - - '2:04.0'
+    - W. Williams makes 3-pt shot from 25 ft (assist by M. Norris)
+    - "+3"
+    - 92-88
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 92-88
+    - ''
+    - Phoenix full timeout
+  - - '1:50.0'
+    - ''
+    - ''
+    - 92-90
+    - "+2"
+    - S. Marion makes 2-pt shot from 9 ft
+  - - '1:36.0'
+    - S. Francis misses 2-pt shot from 6 ft
+    - ''
+    - 92-90
+    - ''
+    - ''
+  - - '1:34.0'
+    - Offensive rebound by M. Taylor
+    - ''
+    - 92-90
+    - ''
+    - ''
+  - - '1:31.0'
+    - M. Taylor misses 2-pt shot at rim
+    - ''
+    - 92-90
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 92-90
+    - ''
+    - Defensive rebound by J. Kidd
+  - - '1:24.0'
+    - ''
+    - ''
+    - 92-90
+    - ''
+    - Turnover by J. Kidd (bad pass)
+  - - '1:09.0'
+    - C. Mobley misses 2-pt shot from 11 ft
+    - ''
+    - 92-90
+    - ''
+    - ''
+  - - '1:08.0'
+    - ''
+    - ''
+    - 92-90
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '0:54.9'
+    - ''
+    - ''
+    - 92-92
+    - "+2"
+    - S. Marion makes 2-pt shot from 7 ft
+  - - '0:45.8'
+    - Houston full timeout
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:33.9'
+    - C. Mobley misses 2-pt shot at rim
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:32.4'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Defensive rebound by T. Gugliotta
+  - - '0:22.2'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Phoenix full timeout
+  - - '0:22.2'
+    - S. Anderson enters the game for M. Norris
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '0:10.9'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - S. Marion misses 2-pt shot from 13 ft
+  - - '0:08.9'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Offensive rebound by Team
+  - - '0:08.1'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Phoenix 20 second timeout
+  - - '0:01.3'
+    - ''
+    - ''
+    - 92-94
+    - "+2"
+    - T. Gugliotta makes 2-pt shot from 18 ft (assist by J. Kidd)
+  - - '0:01.3'
+    - Houston full timeout
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

@@ -1,0 +1,213 @@
+---
+- name: Plus-Minus
+  data:
+  - - Washington Wizards
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Richard Hamilton (On: +13&#9642;Off: -3&#9642;Net: +16)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 183/
+    - 67/-6
+    - 250/+6
+    - 44/
+    - 204/+8
+    - 'Michael Jordan (On: +6&#9642;Off: +4&#9642;Net: +2)'
+    - |2-
+
+      +3
+    - 175/+3
+    - 74/
+    - 249/-9
+    - 169/+4
+    - 81/
+    - 246/+8
+    - 3/
+    - 'Christian Laettner (On: -2&#9642;Off: +12&#9642;Net: -14)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 58/-5
+    - 125/
+    - 67/-6
+    - 223/+4
+    - 275/
+    - 'Jahidi White (On: +2&#9642;Off: +8&#9642;Net: -6)'
+    - |2-
+
+      +4
+    - 76/+4
+    - 357/
+    - 67/-6
+    - 169/+4
+    - 330/
+    - 'Chris Whitney (On: +15&#9642;Off: -5&#9642;Net: +20)'
+    - |2-
+
+      +8
+    - 184/+8
+    - 176/
+    - 138/-6
+    - 249/+6
+    - 44/0
+    - 50/
+    - 156/+7
+    - 'Tyrone Nesby (On: +3&#9642;Off: +7&#9642;Net: -4)'
+    - "\n"
+    - 77/
+    - 25/0
+    - 569/
+    - 77/+2
+    - 88/+1
+    - 157/
+    - 4/0
+    - 'Popeye Jones (On: +8&#9642;Off: +2&#9642;Net: +6)'
+    - "\n"
+    - 103/
+    - 147/+1
+    - 178/-3
+    - 240/
+    - 81/+2
+    - 249/+8
+    - 'Courtney Alexander (On: -1&#9642;Off: +11&#9642;Net: -12)'
+    - "\n"
+    - 179/
+    - 71/+2
+    - 178/-3
+    - 572/
+    - 'Tyronn Lue (On: -6&#9642;Off: +16&#9642;Net: -22)'
+    - "\n"
+    - 190/
+    - 60/-3
+    - 105/-3
+    - 645/
+    - 'Etan Thomas (On: +12&#9642;Off: -2&#9642;Net: +14)'
+    - "\n"
+    - 310/
+    - 117/+2
+    - 302/
+    - 20/+2
+    - 243/+8
+    - 6/
+    - 'Bobby Simmons (On: 0&#9642;Off: +10&#9642;Net: -10)'
+    - "\n"
+    - 1001/
+    - 1/0
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Shareef Abdur-Rahim (On: -15&#9642;Off: +5&#9642;Net: -20)'
+    - |2-
+
+      -5
+    - 250/-5
+    - 134/
+    - 115/+4
+    - 250/-6
+    - 58/
+    - 191/-8
+    - 'Emanual Davis (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - |2-
+
+      -3
+    - 175/-3
+    - 209/
+    - 73/+2
+    - 42/
+    - 128/-6
+    - 371/
+    - 'Dion Glover (On: -14&#9642;Off: +4&#9642;Net: -18)'
+    - |2-
+
+      -9
+    - 127/-9
+    - 122/
+    - 172/+1
+    - 77/
+    - 128/-6
+    - 372/
+    - 'Theo Ratliff (On: -15&#9642;Off: +5&#9642;Net: -20)'
+    - |2-
+
+      -9
+    - 127/-9
+    - 122/
+    - 127/+5
+    - 83/
+    - 39/+2
+    - 128/-6
+    - 214/
+    - 156/-7
+    - 'Jason Terry (On: -18&#9642;Off: +8&#9642;Net: -26)'
+    - |2-
+
+      -8
+    - 184/-8
+    - 200/
+    - 115/+4
+    - 250/-6
+    - 250/-8
+    - 'Toni Kukoc (On: +4&#9642;Off: -14&#9642;Net: +18)'
+    - "\n"
+    - 133/
+    - 116/+4
+    - 173/
+    - 76/+8
+    - 136/
+    - 113/0
+    - 250/-8
+    - 'Nazr Mohammed (On: +5&#9642;Off: -15&#9642;Net: +20)'
+    - "\n"
+    - 133/
+    - 116/+4
+    - 134/
+    - 73/+2
+    - 178/
+    - 113/0
+    - 87/-1
+    - 162/
+    - 'Jacque Vaughn (On: +3&#9642;Off: -13&#9642;Net: +16)'
+    - "\n"
+    - 178/
+    - 71/-2
+    - 127/+5
+    - 83/
+    - 39/+2
+    - 136/
+    - 63/-2
+    - 299/
+    - 'Chris Crawford (On: +2&#9642;Off: -12&#9642;Net: +14)'
+    - "\n"
+    - 190/
+    - 60/+3
+    - 128/+5
+    - 329/
+    - 43/+2
+    - 248/-8
+    - 'Hanno Mottola (On: +5&#9642;Off: -15&#9642;Net: +20)'
+    - "\n"
+    - 250/
+    - 128/+5
+    - 372/
+    - 55/0
+    - 194/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,215 @@
+---
+- name: Plus-Minus
+  data:
+  - - Toronto Raptors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Vince Carter (On: +6&#9642;Off: +1&#9642;Net: +5)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 75/+2
+    - 62/
+    - 112/0
+    - 249/-2
+    - 36/+2
+    - 34/
+    - 179/0
+    - 'Antonio Davis (On: +4&#9642;Off: +3&#9642;Net: +1)'
+    - |2-
+
+      +5
+    - 205/+5
+    - 126/
+    - 168/-1
+    - 249/-2
+    - 31/0
+    - 68/
+    - 150/+2
+    - 'Charles Oakley (On: +6&#9642;Off: +1&#9642;Net: +5)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 75/+2
+    - 136/
+    - 39/0
+    - 249/-2
+    - 99/
+    - 150/+2
+    - 'Morris Peterson (On: +12&#9642;Off: -5&#9642;Net: +17)'
+    - |2-
+
+      +5
+    - 205/+5
+    - 255/
+    - 39/0
+    - 141/+3
+    - 224/
+    - 134/+4
+    - 'Alvin Williams (On: +11&#9642;Off: -4&#9642;Net: +15)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 81/
+    - 168/-1
+    - 185/+2
+    - 104/
+    - 26/+2
+    - 40/
+    - 143/+4
+    - 'Keon Clark (On: -3&#9642;Off: +10&#9642;Net: -13)'
+    - "\n"
+    - 208/
+    - 41/-1
+    - 205/+1
+    - 191/
+    - 102/-5
+    - 95/+2
+    - 155/
+    - 'Tracy Murray (On: +1&#9642;Off: +6&#9642;Net: -5)'
+    - "\n"
+    - 209/
+    - 41/-1
+    - 125/+2
+    - 625/
+    - 'Chris Childs (On: -3&#9642;Off: +10&#9642;Net: -13)'
+    - "\n"
+    - 250/
+    - 133/+1
+    - 310/
+    - 56/-4
+    - 104/0
+    - 145/
+    - 'Jerome Williams (On: +1&#9642;Off: +6&#9642;Net: -5)'
+    - "\n"
+    - 376/
+    - 79/-1
+    - 294/
+    - 95/+2
+    - 155/
+    - 'Dell Curry (On: 0&#9642;Off: +7&#9642;Net: -7)'
+    - "\n"
+    - 785/
+    - 75/0
+    - 141/
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Crawford (On: -9&#9642;Off: +2&#9642;Net: -11)'
+    - |2-
+
+      -5
+    - 205/-5
+    - 177/
+    - 117/+1
+    - 89/-9
+    - 230/
+    - 59/+4
+    - 120/
+    - 'Alan Henderson (On: -7&#9642;Off: 0&#9642;Net: -7)'
+    - |2-
+
+      -6
+    - 127/-6
+    - 123/
+    - 205/-1
+    - 44/
+    - 233/0
+    - 266/
+    - 'Brevin Knight (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 81/
+    - 168/+1
+    - 250/+2
+    - 70/
+    - 179/0
+    - 'Jason Terry (On: -11&#9642;Off: +4&#9642;Net: -15)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 75/-2
+    - 58/
+    - 117/+1
+    - 249/+2
+    - 67/-4
+    - 67/
+    - 114/-4
+    - 'Lorenzen Wright (On: -17&#9642;Off: +10&#9642;Net: -27)'
+    - |2-
+
+      -6
+    - 127/-6
+    - 122/
+    - 129/-2
+    - 120/
+    - 89/-9
+    - 160/
+    - 109/0
+    - 140/
+    - 'Toni Kukoc (On: +3&#9642;Off: -10&#9642;Net: +13)'
+    - "\n"
+    - 133/
+    - 115/+2
+    - 129/-2
+    - 81/
+    - 39/0
+    - 90/
+    - 158/+11
+    - 67/-4
+    - 67/
+    - 115/-4
+    - 'Nazr Mohammed (On: +11&#9642;Off: -18&#9642;Net: +29)'
+    - "\n"
+    - 133/
+    - 115/+2
+    - 132/
+    - 116/+1
+    - 91/
+    - 158/+11
+    - 115/
+    - 123/-3
+    - 12/
+    - 'DerMarr Johnson (On: +4&#9642;Off: -11&#9642;Net: +15)'
+    - "\n"
+    - 208/
+    - 41/+1
+    - 569/
+    - 59/+4
+    - 114/
+    - 7/-1
+    - 'Dion Glover (On: -6&#9642;Off: -1&#9642;Net: -5)'
+    - "\n"
+    - 250/
+    - 129/-2
+    - 370/
+    - 67/-4
+    - 183/
+    - 'Hanno Mottola (On: -2&#9642;Off: -5&#9642;Net: +3)'
+    - "\n"
+    - 738/
+    - 13/+2
+    - 250/-4
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

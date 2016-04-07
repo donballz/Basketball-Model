@@ -1,0 +1,207 @@
+---
+- name: Plus-Minus
+  data:
+  - - Cleveland Cavaliers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Gatling (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - |2-
+
+      -4
+    - 192/-4
+    - 58/
+    - 250/-1
+    - 250/+1
+    - 249/+1
+    - 'Jim Jackson (On: -4&#9642;Off: +1&#9642;Net: -5)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 107/
+    - 143/-2
+    - 219/+1
+    - 30/
+    - 250/+1
+    - 'Andre Miller (On: +4&#9642;Off: -7&#9642;Net: +11)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 141/+2
+    - 73/
+    - 36/0
+    - 219/+1
+    - 80/
+    - 199/+5
+    - 'Lamond Murray (On: 0&#9642;Off: -3&#9642;Net: +3)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 144/
+    - 105/-3
+    - 250/+1
+    - 94/
+    - 155/+6
+    - 'Clarence Weatherspoon (On: -6&#9642;Off: +3&#9642;Net: -9)'
+    - |2-
+
+      -4
+    - 250/-4
+    - 107/
+    - 143/-2
+    - 126/0
+    - 373/
+    - 'Robert Traylor (On: +5&#9642;Off: -8&#9642;Net: +13)'
+    - "\n"
+    - 196/
+    - 53/0
+    - 103/+1
+    - 279/
+    - 91/-1
+    - 75/
+    - 200/+5
+    - 'Trajan Langdon (On: +1&#9642;Off: -4&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 0/0
+    - 103/+1
+    - 647/
+    - 'Cedric Henderson (On: -3&#9642;Off: 0&#9642;Net: -3)'
+    - "\n"
+    - 250/
+    - 141/+2
+    - 333/
+    - 25/0
+    - 91/-5
+    - 158/
+    - 'Anthony Johnson (On: -7&#9642;Off: +4&#9642;Net: -11)'
+    - "\n"
+    - 394/
+    - 65/-3
+    - 264/
+    - 25/0
+    - 45/-4
+    - 205/
+    - 'Etdrick Bohannon (On: -2&#9642;Off: -1&#9642;Net: -1)'
+    - "\n"
+    - 730/
+    - 20/+2
+    - 45/-4
+    - 205/
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +5&#9642;Off: -2&#9642;Net: +7)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 48/0
+    - 95/
+    - 80/+3
+    - 26/
+    - 249/-1
+    - 248/-1
+    - 1/
+    - 'Rick Fox (On: -4&#9642;Off: +7&#9642;Net: -11)'
+    - |2-
+
+      +2
+    - 173/+2
+    - 131/
+    - 195/+1
+    - 168/-3
+    - 222/
+    - 109/-4
+    - 'Horace Grant (On: +2&#9642;Off: +1&#9642;Net: +1)'
+    - |2-
+
+      +4
+    - 191/+4
+    - 202/
+    - 105/+3
+    - 1/
+    - 168/-3
+    - 208/
+    - 122/-2
+    - 'Ron Harper (On: -1&#9642;Off: +4&#9642;Net: -5)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 250/
+    - 241/-1
+    - 182/
+    - 76/-4
+    - 'Shaquille O''Neal (On: -1&#9642;Off: +4&#9642;Net: -5)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 54/
+    - 195/+1
+    - 236/-1
+    - 63/
+    - 200/-5
+    - 'Robert Horry (On: +5&#9642;Off: -2&#9642;Net: +7)'
+    - "\n"
+    - 177/
+    - 72/+2
+    - 48/0
+    - 369/
+    - 81/+2
+    - 121/+1
+    - 129/
+    - 'Brian Shaw (On: +3&#9642;Off: 0&#9642;Net: +3)'
+    - "\n"
+    - 196/
+    - 53/0
+    - 140/-2
+    - 90/
+    - 18/0
+    - 169/
+    - 81/+2
+    - 133/+3
+    - 115/
+    - 'Mark Madsen (On: -2&#9642;Off: +5&#9642;Net: -7)'
+    - "\n"
+    - 250/
+    - 141/-2
+    - 610/
+    - 'Isaiah Rider (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 250/+1
+    - 250/
+    - 168/+3
+    - 81/
+    - 'Greg Foster (On: +4&#9642;Off: -1&#9642;Net: +5)'
+    - "\n"
+    - 738/
+    - 12/0
+    - 45/+4
+    - 205/
+    - 'Tyronn Lue (On: 0&#9642;Off: +3&#9642;Net: -3)'
+    - "\n"
+    - 750/
+    - 1/0
+    - 250/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

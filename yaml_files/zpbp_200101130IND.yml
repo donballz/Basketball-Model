@@ -1,0 +1,2382 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: J. O''Neal vs. B. Grant (J. Rose gains possession)'
+  - - '11:42.0'
+    - ''
+    - ''
+    - 0-3
+    - "+3"
+    - J. Rose makes 3-pt shot from 23 ft (assist by R. Miller)
+  - - '11:27.0'
+    - Personal foul by R. Miller
+    - ''
+    - 0-3
+    - ''
+    - ''
+  - - '11:22.0'
+    - B. Grant makes 2-pt shot from 16 ft (assist by T. Hardaway)
+    - "+2"
+    - 2-3
+    - ''
+    - ''
+  - - '11:10.0'
+    - ''
+    - ''
+    - 2-3
+    - ''
+    - J. O'Neal misses 2-pt shot from 3 ft
+  - - '11:08.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '11:00.0'
+    - A. Mason makes 2-pt shot from 6 ft
+    - "+2"
+    - 4-3
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '10:39.0'
+    - Defensive rebound by Team
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '10:29.0'
+    - E. Jones makes 3-pt shot from 26 ft (assist by T. Hardaway)
+    - "+3"
+    - 7-3
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 7-5
+    - "+2"
+    - J. Rose makes 2-pt shot from 2 ft (assist by S. Perkins)
+  - - '10:00.0'
+    - Personal foul by D. McKey
+    - ''
+    - 7-5
+    - ''
+    - ''
+  - - '9:56.0'
+    - Personal foul by J. Rose
+    - ''
+    - 7-5
+    - ''
+    - ''
+  - - '9:45.0'
+    - A. Mason misses 2-pt shot from 12 ft
+    - ''
+    - 7-5
+    - ''
+    - ''
+  - - '9:43.0'
+    - ''
+    - ''
+    - 7-5
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '9:31.0'
+    - ''
+    - ''
+    - 7-7
+    - "+2"
+    - R. Miller makes 2-pt shot from 2 ft (assist by J. Rose)
+  - - '9:15.0'
+    - B. Grant misses 2-pt shot from 5 ft (block by J. O'Neal)
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - Defensive rebound by R. Miller
+  - - '9:07.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - J. Rose misses 2-pt shot from 11 ft
+  - - '9:05.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '8:47.0'
+    - E. Jones misses 2-pt shot from 4 ft
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '8:45.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - Defensive rebound by D. McKey
+  - - '8:28.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - D. McKey misses 2-pt shot from 16 ft
+  - - '8:25.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '8:20.0'
+    - T. Hardaway makes 2-pt shot from 22 ft
+    - "+2"
+    - 9-7
+    - ''
+    - ''
+  - - '7:58.0'
+    - ''
+    - ''
+    - 9-7
+    - ''
+    - J. O'Neal misses 2-pt shot from 7 ft
+  - - '7:57.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 9-7
+    - ''
+    - ''
+  - - '7:45.0'
+    - A. Mason makes 2-pt shot from 11 ft (assist by T. Hardaway)
+    - "+2"
+    - 11-7
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - Personal foul by B. Bowen
+  - - '7:22.0'
+    - ''
+    - ''
+    - 11-7
+    - ''
+    - Turnover by R. Miller (bad pass; steal by B. Grant)
+  - - '7:10.0'
+    - A. Mason makes 2-pt shot from 8 ft
+    - "+2"
+    - 13-7
+    - ''
+    - ''
+  - - '6:47.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - J. O'Neal misses 2-pt shot from 4 ft
+  - - '6:46.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '6:33.0'
+    - A. Mason makes 2-pt shot from 14 ft
+    - "+2"
+    - 15-7
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 15-7
+    - ''
+    - Turnover by S. Perkins (bad pass; steal by E. Jones)
+  - - '6:00.0'
+    - Turnover by E. Jones (lost ball; steal by S. Perkins)
+    - ''
+    - 15-7
+    - ''
+    - ''
+  - - '5:54.0'
+    - ''
+    - ''
+    - 15-7
+    - ''
+    - J. Rose misses 2-pt shot from 14 ft
+  - - '5:52.0'
+    - ''
+    - ''
+    - 15-7
+    - ''
+    - Offensive rebound by D. McKey
+  - - '5:51.0'
+    - ''
+    - ''
+    - 15-9
+    - "+2"
+    - D. McKey makes 2-pt shot from 3 ft
+  - - '5:33.0'
+    - A. Mason misses 2-pt shot from 16 ft (block by J. O'Neal)
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '5:30.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '5:21.0'
+    - ''
+    - ''
+    - 15-11
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 1 ft (assist by S. Perkins)
+  - - '5:21.0'
+    - ''
+    - ''
+    - 15-11
+    - ''
+    - Shooting foul by B. Grant
+  - - '5:21.0'
+    - ''
+    - ''
+    - 15-11
+    - ''
+    - Indiana full timeout
+  - - '5:21.0'
+    - ''
+    - ''
+    - 15-12
+    - "+1"
+    - J. O'Neal makes free throw 1 of 1
+  - - '5:08.0'
+    - Personal foul by S. Perkins
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:54.0'
+    - A. Mason misses 2-pt shot from 3 ft
+    - ''
+    - 15-12
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 15-12
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '4:40.0'
+    - ''
+    - ''
+    - 15-15
+    - "+3"
+    - S. Perkins makes 3-pt shot from 25 ft (assist by D. McKey)
+  - - '4:24.0'
+    - A. Mason makes 2-pt shot from 4 ft
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '4:07.0'
+    - ''
+    - ''
+    - 17-17
+    - "+2"
+    - J. Rose makes 2-pt shot from 12 ft
+  - - '3:50.0'
+    - B. Grant makes 2-pt shot from 5 ft
+    - "+2"
+    - 19-17
+    - ''
+    - ''
+  - - '3:28.0'
+    - ''
+    - ''
+    - 19-19
+    - "+2"
+    - J. Rose makes 2-pt shot from 5 ft
+  - - '3:18.0'
+    - Miami full timeout
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '3:11.0'
+    - T. Hardaway misses 2-pt shot from 15 ft
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '2:59.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Personal foul by B. Bowen
+  - - '2:59.0'
+    - D. Majerle enters the game for B. Bowen
+    - ''
+    - 19-19
+    - ''
+    - ''
+  - - '2:48.0'
+    - ''
+    - ''
+    - 19-19
+    - ''
+    - Turnover by J. Rose (traveling)
+  - - '2:27.0'
+    - B. Grant makes 2-pt shot from 7 ft (assist by A. Mason)
+    - "+2"
+    - 21-19
+    - ''
+    - ''
+  - - '2:10.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - Personal foul by T. Hardaway
+  - - '2:04.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - Turnover by D. McKey (bad pass; steal by E. Jones)
+  - - '1:49.0'
+    - Turnover by A. Mason (bad pass)
+    - ''
+    - 21-19
+    - ''
+    - ''
+  - - '1:49.0'
+    - A. Carter enters the game for T. Hardaway
+    - ''
+    - 21-19
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - T. Best enters the game for D. McKey
+  - - '1:42.0'
+    - ''
+    - ''
+    - 21-19
+    - ''
+    - Personal foul by E. Jones
+  - - '1:42.0'
+    - ''
+    - ''
+    - 21-20
+    - "+1"
+    - S. Perkins makes free throw 1 of 2
+  - - '1:42.0'
+    - ''
+    - ''
+    - 21-21
+    - "+1"
+    - S. Perkins makes free throw 2 of 2
+  - - '1:21.0'
+    - Personal foul by J. O'Neal
+    - ''
+    - 21-21
+    - ''
+    - ''
+  - - '1:21.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 22-21
+    - ''
+    - ''
+  - - '1:21.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '1:21.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 23-21
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 23-23
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 14 ft
+  - - '0:47.3'
+    - E. Jones makes 2-pt shot from 23 ft
+    - "+2"
+    - 25-23
+    - ''
+    - ''
+  - - '0:39.3'
+    - ''
+    - ''
+    - 25-25
+    - "+2"
+    - R. Miller makes 2-pt shot from 14 ft
+  - - '0:21.9'
+    - E. Jones misses 2-pt shot from 20 ft
+    - ''
+    - 25-25
+    - ''
+    - ''
+  - - '0:19.3'
+    - ''
+    - ''
+    - 25-25
+    - ''
+    - Defensive rebound by T. Best
+  - - '0:02.0'
+    - ''
+    - ''
+    - 25-27
+    - "+2"
+    - J. Rose makes 2-pt shot from 10 ft
+  - - '0:00.0'
+    - A. Carter misses 3-pt shot from 41 ft
+    - ''
+    - 25-27
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 25-27
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:40.0'
+    - A. Mason misses 2-pt shot from 5 ft
+    - ''
+    - 25-27
+    - ''
+    - ''
+  - - '11:36.0'
+    - ''
+    - ''
+    - 25-27
+    - ''
+    - Defensive rebound by R. Miller
+  - - '11:22.0'
+    - ''
+    - ''
+    - 25-27
+    - ''
+    - Turnover by J. Rose (lost ball; steal by D. Majerle)
+  - - '11:18.0'
+    - Turnover by E. Jones (bad pass; steal by Z. Tabak)
+    - ''
+    - 25-27
+    - ''
+    - ''
+  - - '11:13.0'
+    - ''
+    - ''
+    - 25-27
+    - ''
+    - Shooting foul by A. Green
+  - - '11:13.0'
+    - ''
+    - ''
+    - 25-28
+    - "+1"
+    - T. Best makes free throw 1 of 2
+  - - '11:13.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - A. Harrington enters the game for R. Miller
+  - - '11:13.0'
+    - ''
+    - ''
+    - 25-29
+    - "+1"
+    - T. Best makes free throw 2 of 2
+  - - '10:56.0'
+    - A. Green misses 2-pt shot from 12 ft
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '10:55.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - Defensive rebound by J. Rose
+  - - '10:44.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - J. Rose misses 2-pt shot from 11 ft
+  - - '10:42.0'
+    - Defensive rebound by Team
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '10:31.0'
+    - E. Jones misses 2-pt shot from 20 ft
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '10:29.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - Loose ball foul by A. Green
+  - - '10:29.0'
+    - T. Hardaway enters the game for E. Jones
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '10:23.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - Personal foul by T. Hardaway
+  - - '10:09.0'
+    - ''
+    - ''
+    - 25-29
+    - ''
+    - T. Best misses 3-pt shot from 26 ft
+  - - '10:07.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '10:06.0'
+    - Turnover by A. Mason (lost ball; steal by A. Harrington)
+    - ''
+    - 25-29
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 25-32
+    - "+3"
+    - A. Croshere makes 3-pt shot from 23 ft (assist by J. Rose)
+  - - '9:37.0'
+    - A. Mason misses 2-pt shot from 4 ft
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:28.0'
+    - Personal foul by A. Croshere
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:19.0'
+    - D. Majerle misses 3-pt shot from 24 ft
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:16.0'
+    - Offensive rebound by A. Carter
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:12.0'
+    - A. Green misses 2-pt shot from 18 ft
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - Defensive rebound by Team
+  - - '8:57.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - A. Croshere misses 3-pt shot from 24 ft
+  - - '8:55.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - Shooting foul by A. Harrington
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - Official timeout
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - B. Grant enters the game for A. Green
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - J. O'Neal enters the game for J. Rose
+  - - '8:49.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 26-32
+    - ''
+    - ''
+  - - '8:49.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 27-32
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - Turnover by A. Harrington (traveling)
+  - - '8:17.0'
+    - Turnover by B. Grant (bad pass; steal by T. Best)
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - A. Harrington misses 2-pt shot from 2 ft
+  - - '8:06.0'
+    - ''
+    - ''
+    - 27-34
+    - "+2"
+    - A. Harrington makes 2-pt shot from 2 ft
+  - - '8:06.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Offensive rebound by A. Harrington
+  - - '7:56.0'
+    - T. Hardaway misses 2-pt shot from 18 ft
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '7:44.0'
+    - ''
+    - ''
+    - 27-36
+    - "+2"
+    - T. Best makes 2-pt shot from 17 ft
+  - - '7:35.0'
+    - Miami full timeout
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '7:35.0'
+    - B. Bowen enters the game for D. Majerle
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '7:35.0'
+    - E. Jones enters the game for A. Carter
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '7:22.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '7:22.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 28-36
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Violation by Z. Tabak (lane)
+  - - '7:22.0'
+    - A. Mason misses free throw 2 of 2
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '6:59.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - J. O'Neal misses 2-pt shot from 20 ft
+  - - '6:58.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '6:45.0'
+    - Turnover by E. Jones (bad pass; steal by J. O'Neal)
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '6:41.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - J. O'Neal misses 2-pt shot from 1 ft
+  - - '6:39.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Offensive rebound by T. Best
+  - - '6:37.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - T. Best misses 2-pt shot from 20 ft
+  - - '6:36.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '6:36.0'
+    - Loose ball foul by A. Harrington
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '6:19.0'
+    - E. Jones misses 2-pt shot from 16 ft
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '6:02.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Turnover by Z. Tabak (discontinued dribble)
+  - - '6:02.0'
+    - A. Green enters the game for A. Mason
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '5:43.0'
+    - B. Grant misses 2-pt shot from 16 ft
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '5:42.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '5:33.0'
+    - ''
+    - ''
+    - 28-36
+    - ''
+    - A. Croshere misses 2-pt shot from 5 ft
+  - - '5:31.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 28-36
+    - ''
+    - ''
+  - - '5:25.0'
+    - T. Hardaway makes 3-pt shot from 25 ft
+    - "+3"
+    - 31-36
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - Indiana 20 second timeout
+  - - '5:12.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - R. Miller enters the game for Z. Tabak
+  - - '4:59.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - T. Best misses 2-pt shot from 20 ft
+  - - '4:57.0'
+    - ''
+    - ''
+    - 31-38
+    - "+2"
+    - A. Croshere makes 2-pt shot from 2 ft
+  - - '4:57.0'
+    - ''
+    - ''
+    - 31-38
+    - ''
+    - Offensive rebound by A. Croshere
+  - - '4:37.0'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 31-38
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 31-38
+    - ''
+    - Defensive rebound by A. Croshere
+  - - '4:24.0'
+    - ''
+    - ''
+    - 31-40
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 8 ft
+  - - '4:08.0'
+    - E. Jones makes 2-pt shot from 13 ft (assist by T. Hardaway)
+    - "+2"
+    - 33-40
+    - ''
+    - ''
+  - - '3:54.0'
+    - ''
+    - ''
+    - 33-40
+    - ''
+    - Personal foul by B. Grant
+  - - '3:54.0'
+    - ''
+    - ''
+    - 33-40
+    - ''
+    - J. Rose enters the game for A. Harrington
+  - - '3:54.0'
+    - ''
+    - ''
+    - 33-40
+    - ''
+    - S. Perkins enters the game for T. Best
+  - - '3:54.0'
+    - A. Mason enters the game for A. Green
+    - ''
+    - 33-40
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 33-40
+    - ''
+    - R. Miller misses 2-pt shot from 7 ft
+  - - '3:44.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 33-40
+    - ''
+    - ''
+  - - '3:35.0'
+    - A. Mason makes 2-pt shot from 2 ft
+    - "+2"
+    - 35-40
+    - ''
+    - ''
+  - - '3:35.0'
+    - Shooting foul by J. O'Neal
+    - ''
+    - 35-40
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 35-40
+    - ''
+    - Violation by J. O'Neal (lane)
+  - - '3:35.0'
+    - A. Mason makes free throw 1 of 1
+    - "+1"
+    - 36-40
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - A. Croshere misses 2-pt shot from 12 ft
+  - - '3:22.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '3:18.0'
+    - ''
+    - ''
+    - 36-40
+    - ''
+    - S. Perkins misses 3-pt shot from 23 ft
+  - - '3:16.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '3:10.0'
+    - Personal foul by J. O'Neal
+    - ''
+    - 36-40
+    - ''
+    - ''
+  - - '3:10.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 37-40
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 37-40
+    - ''
+    - A. Harrington enters the game for J. O'Neal
+  - - '3:10.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 38-40
+    - ''
+    - ''
+  - - '2:50.0'
+    - ''
+    - ''
+    - 38-40
+    - ''
+    - A. Croshere misses 2-pt shot from 8 ft
+  - - '2:48.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 38-40
+    - ''
+    - ''
+  - - '2:43.0'
+    - E. Jones makes 2-pt shot from 11 ft (assist by T. Hardaway)
+    - "+2"
+    - 40-40
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - A. Harrington misses 2-pt shot from 3 ft
+  - - '2:19.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Offensive rebound by A. Croshere
+  - - '2:15.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '2:13.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '2:10.0'
+    - B. Bowen misses 2-pt shot from 2 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Defensive rebound by J. Rose
+  - - '1:59.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - J. Rose misses 3-pt shot from 24 ft
+  - - '1:57.0'
+    - Defensive rebound by Team
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '1:57.0'
+    - Miami full timeout
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '1:57.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '1:57.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - T. Best enters the game for A. Croshere
+  - - '1:45.0'
+    - T. Hardaway misses 2-pt shot from 20 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '1:42.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Defensive rebound by Team
+  - - '1:18.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - A. Harrington misses 2-pt shot from 8 ft
+  - - '1:17.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:55.9'
+    - T. Hardaway misses 3-pt shot from 26 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:53.9'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Defensive rebound by T. Best
+  - - '0:50.9'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - J. Rose misses 2-pt shot from 3 ft
+  - - '0:48.5'
+    - Defensive rebound by E. Jones
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:32.9'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:31.4'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Defensive rebound by J. Rose
+  - - '0:07.9'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - J. Rose misses 2-pt shot from 9 ft
+  - - '0:04.9'
+    - Defensive rebound by E. Jones
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:04.8'
+    - Turnover by E. Jones (traveling)
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Turnover by J. Rose (bad pass; steal by B. Bowen)
+  - - '0:00.0'
+    - B. Bowen misses 3-pt shot from 41 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:43.0'
+    - A. Mason misses 2-pt shot from 1 ft
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '11:41.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '11:21.0'
+    - ''
+    - ''
+    - 40-40
+    - ''
+    - J. O'Neal misses 2-pt shot from 5 ft
+  - - '11:18.0'
+    - Defensive rebound by T. Hardaway
+    - ''
+    - 40-40
+    - ''
+    - ''
+  - - '11:11.0'
+    - B. Grant makes 2-pt shot from 1 ft (assist by T. Hardaway)
+    - "+2"
+    - 42-40
+    - ''
+    - ''
+  - - '10:52.0'
+    - ''
+    - ''
+    - 42-40
+    - ''
+    - Shooting foul by A. Mason
+  - - '10:52.0'
+    - ''
+    - ''
+    - 42-41
+    - "+1"
+    - J. O'Neal makes free throw 1 of 2
+  - - '10:52.0'
+    - ''
+    - ''
+    - 42-42
+    - "+1"
+    - J. O'Neal makes free throw 2 of 2
+  - - '10:31.0'
+    - B. Bowen misses 3-pt shot from 24 ft
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - Defensive rebound by R. Miller
+  - - '10:11.0'
+    - ''
+    - ''
+    - 42-42
+    - ''
+    - R. Miller misses 3-pt shot from 25 ft
+  - - '10:09.0'
+    - Defensive rebound by B. Bowen
+    - ''
+    - 42-42
+    - ''
+    - ''
+  - - '10:02.0'
+    - T. Hardaway makes 2-pt shot from 21 ft
+    - "+2"
+    - 44-42
+    - ''
+    - ''
+  - - '9:41.0'
+    - ''
+    - ''
+    - 44-45
+    - "+3"
+    - D. McKey makes 3-pt shot from 24 ft (assist by J. Rose)
+  - - '9:28.0'
+    - A. Mason misses 2-pt shot from 14 ft
+    - ''
+    - 44-45
+    - ''
+    - ''
+  - - '9:26.0'
+    - ''
+    - ''
+    - 44-45
+    - ''
+    - Defensive rebound by R. Miller
+  - - '9:13.0'
+    - ''
+    - ''
+    - 44-47
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 6 ft (assist by D. McKey)
+  - - '8:53.0'
+    - Turnover by A. Mason (lost ball; steal by S. Perkins)
+    - ''
+    - 44-47
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 44-49
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 5 ft (assist by J. Rose)
+  - - '8:10.0'
+    - Turnover by T. Hardaway (lost ball; steal by D. McKey)
+    - ''
+    - 44-49
+    - ''
+    - ''
+  - - '8:08.0'
+    - ''
+    - ''
+    - 44-49
+    - ''
+    - Double personal foul by D. McKey and T. Hardaway
+  - - '7:58.0'
+    - ''
+    - ''
+    - 44-49
+    - ''
+    - Shooting foul by B. Grant
+  - - '7:58.0'
+    - ''
+    - ''
+    - 44-50
+    - "+1"
+    - R. Miller makes free throw 1 of 2
+  - - '7:58.0'
+    - ''
+    - ''
+    - 44-51
+    - "+1"
+    - R. Miller makes free throw 2 of 2
+  - - '7:58.0'
+    - Miami full timeout
+    - ''
+    - 44-51
+    - ''
+    - ''
+  - - '7:46.0'
+    - Personal foul by R. Miller
+    - ''
+    - 44-51
+    - ''
+    - ''
+  - - '7:36.0'
+    - E. Jones makes 2-pt shot from 5 ft
+    - "+2"
+    - 46-51
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Turnover by D. McKey (bad pass)
+  - - '7:00.0'
+    - E. Jones misses 2-pt shot from 10 ft
+    - ''
+    - 46-51
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '6:53.0'
+    - ''
+    - ''
+    - 46-51
+    - ''
+    - Turnover by J. Rose (bad pass; steal by T. Hardaway)
+  - - '6:42.0'
+    - T. Hardaway makes 3-pt shot from 25 ft (assist by A. Mason)
+    - "+3"
+    - 49-51
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Offensive foul by J. O'Neal
+  - - '6:28.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Turnover by J. O'Neal (foul)
+  - - '6:28.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Z. Tabak enters the game for J. O'Neal
+  - - '6:15.0'
+    - B. Bowen misses 3-pt shot from 24 ft
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '6:13.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '6:11.0'
+    - A. Mason misses 2-pt shot from 4 ft
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '6:08.0'
+    - Offensive rebound by B. Grant
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '6:06.0'
+    - B. Grant misses 2-pt shot from 2 ft
+    - ''
+    - 49-51
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Defensive rebound by D. McKey
+  - - '6:06.0'
+    - ''
+    - ''
+    - 49-51
+    - ''
+    - Loose ball foul by A. Mason
+  - - '5:47.0'
+    - ''
+    - ''
+    - 49-54
+    - "+3"
+    - S. Perkins makes 3-pt shot from 26 ft (assist by R. Miller)
+  - - '5:32.0'
+    - T. Hardaway makes 3-pt shot from 26 ft
+    - "+3"
+    - 52-54
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - R. Miller misses 2-pt shot from 19 ft
+  - - '5:09.0'
+    - Defensive rebound by Team
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '5:09.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - T. Best enters the game for D. McKey
+  - - '4:57.0'
+    - T. Hardaway misses 3-pt shot from 25 ft
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '4:55.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '4:46.0'
+    - A. Mason misses 2-pt shot from 3 ft
+    - ''
+    - 52-54
+    - ''
+    - ''
+  - - '4:45.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '4:40.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Personal foul by B. Bowen
+  - - '4:28.0'
+    - ''
+    - ''
+    - 52-56
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft
+  - - '4:07.0'
+    - B. Grant makes 2-pt shot from 2 ft (assist by B. Bowen)
+    - "+2"
+    - 54-56
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 54-59
+    - "+3"
+    - T. Best makes 3-pt shot from 26 ft
+  - - '3:29.0'
+    - B. Grant misses 2-pt shot from 3 ft
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '3:27.0'
+    - ''
+    - ''
+    - 54-59
+    - ''
+    - Defensive rebound by Team
+  - - '3:27.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 54-59
+    - ''
+    - Offensive foul by Z. Tabak
+  - - '3:11.0'
+    - ''
+    - ''
+    - 54-59
+    - ''
+    - Turnover by Z. Tabak (foul)
+  - - '2:59.0'
+    - Offensive foul by E. Jones
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '2:59.0'
+    - Turnover by E. Jones (foul)
+    - ''
+    - 54-59
+    - ''
+    - ''
+  - - '2:59.0'
+    - ''
+    - ''
+    - 54-59
+    - ''
+    - Indiana full timeout
+  - - '2:41.0'
+    - ''
+    - ''
+    - 54-62
+    - "+3"
+    - S. Perkins makes 3-pt shot from 22 ft (assist by J. Rose)
+  - - '2:17.0'
+    - A. Mason makes 2-pt shot from 2 ft
+    - "+2"
+    - 56-62
+    - ''
+    - ''
+  - - '2:17.0'
+    - Shooting foul by Z. Tabak
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '2:17.0'
+    - A. Mason misses free throw 1 of 1
+    - ''
+    - 56-62
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Defensive rebound by S. Perkins
+  - - '1:51.0'
+    - ''
+    - ''
+    - 56-64
+    - "+2"
+    - R. Miller makes 2-pt shot from 5 ft
+  - - '1:31.0'
+    - T. Hardaway makes 3-pt shot from 23 ft (assist by A. Mason)
+    - "+3"
+    - 59-64
+    - ''
+    - ''
+  - - '1:14.0'
+    - ''
+    - ''
+    - 59-66
+    - "+2"
+    - Z. Tabak makes 2-pt shot from 2 ft (assist by S. Perkins)
+  - - '0:56.7'
+    - T. Hardaway makes 2-pt shot from 22 ft
+    - "+2"
+    - 61-66
+    - ''
+    - ''
+  - - '0:36.9'
+    - ''
+    - ''
+    - 61-66
+    - ''
+    - R. Miller misses 3-pt shot from 29 ft
+  - - '0:34.9'
+    - ''
+    - ''
+    - 61-66
+    - ''
+    - Offensive rebound by J. Rose
+  - - '0:33.3'
+    - ''
+    - ''
+    - 61-68
+    - "+2"
+    - J. Rose makes 2-pt shot from 15 ft
+  - - '0:22.9'
+    - E. Jones misses 2-pt shot from 22 ft
+    - ''
+    - 61-68
+    - ''
+    - ''
+  - - '0:20.7'
+    - ''
+    - ''
+    - 61-68
+    - ''
+    - Defensive rebound by R. Miller
+  - - '0:03.9'
+    - ''
+    - ''
+    - 61-68
+    - ''
+    - T. Best misses 3-pt shot from 23 ft
+  - - '0:00.0'
+    - Defensive rebound by B. Grant
+    - ''
+    - 61-68
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:38.0'
+    - ''
+    - ''
+    - 61-68
+    - ''
+    - J. Rose misses 2-pt shot from 8 ft
+  - - '11:36.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 61-68
+    - ''
+    - ''
+  - - '11:22.0'
+    - T. Hardaway misses 3-pt shot from 26 ft
+    - ''
+    - 61-68
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 61-68
+    - ''
+    - Defensive rebound by T. Best
+  - - '11:13.0'
+    - ''
+    - ''
+    - 61-70
+    - "+2"
+    - T. Best makes 2-pt shot from 21 ft
+  - - '10:53.0'
+    - Personal foul by Z. Tabak
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:53.0'
+    - A. Carter enters the game for T. Hardaway
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:42.0'
+    - Personal foul by J. Rose
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:32.0'
+    - A. Mason misses 2-pt shot from 3 ft (block by J. Foster)
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:31.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:31.0'
+    - Turnover by A. Mason (traveling)
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 61-70
+    - ''
+    - T. Best misses 2-pt shot from 7 ft
+  - - '10:11.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '9:59.0'
+    - E. Jones misses 2-pt shot from 3 ft
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '9:57.0'
+    - ''
+    - ''
+    - 61-70
+    - ''
+    - Defensive rebound by Z. Tabak
+  - - '9:45.0'
+    - ''
+    - ''
+    - 61-70
+    - ''
+    - J. Rose misses 2-pt shot from 20 ft
+  - - '9:43.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 61-70
+    - ''
+    - ''
+  - - '9:23.0'
+    - A. Green makes 2-pt shot from 14 ft
+    - "+2"
+    - 63-70
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Personal foul by D. Majerle
+  - - '9:08.0'
+    - B. Bowen enters the game for E. Jones
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '9:08.0'
+    - B. Grant enters the game for A. Mason
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - J. O'Neal enters the game for Z. Tabak
+  - - '8:54.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Turnover by Team (shot clock)
+  - - '8:54.0'
+    - Official timeout
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '8:35.0'
+    - B. Grant misses 2-pt shot from 6 ft
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Defensive rebound by J. Rose
+  - - '8:15.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - R. Miller misses 2-pt shot from 19 ft
+  - - '8:13.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '8:00.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - T. Best misses 2-pt shot from 4 ft
+  - - '7:58.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '7:57.0'
+    - ''
+    - ''
+    - 63-70
+    - ''
+    - J. O'Neal misses 2-pt shot from 1 ft
+  - - '7:55.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 63-70
+    - ''
+    - ''
+  - - '7:51.0'
+    - B. Grant makes 2-pt shot from 3 ft (assist by A. Carter)
+    - "+2"
+    - 65-70
+    - ''
+    - ''
+  - - '7:26.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Turnover by J. O'Neal (lost ball; steal by A. Carter)
+  - - '7:17.0'
+    - D. Majerle misses 2-pt shot from 4 ft (block by J. Rose)
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Defensive rebound by J. Foster
+  - - '7:11.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Offensive foul by J. Foster
+  - - '7:11.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Turnover by J. Foster (foul)
+  - - '6:53.0'
+    - Turnover by B. Grant (lost ball)
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - S. Perkins enters the game for J. Foster
+  - - '6:53.0'
+    - A. Mason enters the game for A. Green
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Flagrant foul type 1 by B. Bowen
+  - - '6:31.0'
+    - Technical foul by Team
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 65-71
+    - "+1"
+    - R. Miller makes free throw technical
+  - - '6:31.0'
+    - ''
+    - ''
+    - 65-72
+    - "+1"
+    - R. Miller makes free throw flagrant 2 of 2
+  - - '6:31.0'
+    - ''
+    - ''
+    - 65-73
+    - "+1"
+    - R. Miller makes no shot
+  - - '6:17.0'
+    - ''
+    - ''
+    - 65-73
+    - ''
+    - S. Perkins misses 3-pt shot from 25 ft
+  - - '6:15.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 65-73
+    - ''
+    - ''
+  - - '6:02.0'
+    - A. Carter misses 2-pt shot from 20 ft
+    - ''
+    - 65-73
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 65-73
+    - ''
+    - Defensive rebound by T. Best
+  - - '5:38.0'
+    - ''
+    - ''
+    - 65-75
+    - "+2"
+    - J. Rose makes 2-pt shot from 17 ft (assist by S. Perkins)
+  - - '5:31.0'
+    - Miami full timeout
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '5:31.0'
+    - E. Jones enters the game for B. Bowen
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '5:17.0'
+    - A. Mason misses 2-pt shot from 3 ft (block by S. Perkins)
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Defensive rebound by T. Best
+  - - '5:03.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - S. Perkins misses 3-pt shot from 24 ft
+  - - '5:00.0'
+    - Defensive rebound by A. Carter
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '4:56.0'
+    - A. Mason makes 2-pt shot from 3 ft (assist by A. Carter)
+    - "+2"
+    - 67-75
+    - ''
+    - ''
+  - - '4:34.0'
+    - ''
+    - ''
+    - 67-75
+    - ''
+    - T. Best misses 2-pt shot from 1 ft
+  - - '4:33.0'
+    - Defensive rebound by D. Majerle
+    - ''
+    - 67-75
+    - ''
+    - ''
+  - - '4:24.0'
+    - E. Jones misses 3-pt shot from 23 ft
+    - ''
+    - 67-75
+    - ''
+    - ''
+  - - '4:22.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 67-75
+    - ''
+    - ''
+  - - '4:14.0'
+    - Turnover by B. Grant (3 second)
+    - ''
+    - 67-75
+    - ''
+    - ''
+  - - '4:14.0'
+    - T. Hardaway enters the game for A. Carter
+    - ''
+    - 67-75
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 67-77
+    - "+2"
+    - J. Rose makes 2-pt shot from 17 ft (assist by T. Best)
+  - - '3:33.0'
+    - B. Grant misses 2-pt shot from 2 ft
+    - ''
+    - 67-77
+    - ''
+    - ''
+  - - '3:33.0'
+    - Offensive rebound by B. Grant
+    - ''
+    - 67-77
+    - ''
+    - ''
+  - - '3:33.0'
+    - B. Grant makes 2-pt shot from 1 ft
+    - "+2"
+    - 69-77
+    - ''
+    - ''
+  - - '3:33.0'
+    - ''
+    - ''
+    - 69-77
+    - ''
+    - Violation by J. O'Neal (def goaltending)
+  - - '3:28.0'
+    - ''
+    - ''
+    - 69-77
+    - ''
+    - Personal foul by B. Grant
+  - - '3:28.0'
+    - A. Green enters the game for B. Grant
+    - ''
+    - 69-77
+    - ''
+    - ''
+  - - '3:10.0'
+    - ''
+    - ''
+    - 69-77
+    - ''
+    - J. Rose misses 2-pt shot from 15 ft
+  - - '3:08.0'
+    - ''
+    - ''
+    - 69-77
+    - ''
+    - Offensive rebound by J. O'Neal
+  - - '2:47.0'
+    - ''
+    - ''
+    - 69-79
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 9 ft
+  - - '2:34.0'
+    - T. Hardaway misses 2-pt shot from 9 ft
+    - ''
+    - 69-79
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - Defensive rebound by J. O'Neal
+  - - '2:26.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - J. Rose misses 2-pt shot from 19 ft
+  - - '2:22.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - Offensive rebound by S. Perkins
+  - - '2:07.0'
+    - ''
+    - ''
+    - 69-79
+    - ''
+    - J. Rose misses 2-pt shot from 18 ft
+  - - '2:05.0'
+    - Defensive rebound by A. Green
+    - ''
+    - 69-79
+    - ''
+    - ''
+  - - '2:02.0'
+    - Personal foul by T. Best
+    - ''
+    - 69-79
+    - ''
+    - ''
+  - - '2:02.0'
+    - Miami full timeout
+    - ''
+    - 69-79
+    - ''
+    - ''
+  - - '1:54.0'
+    - Shooting foul by T. Best
+    - ''
+    - 69-79
+    - ''
+    - ''
+  - - '1:54.0'
+    - T. Hardaway makes free throw 1 of 2
+    - "+1"
+    - 70-79
+    - ''
+    - ''
+  - - '1:54.0'
+    - B. Bowen enters the game for A. Green
+    - ''
+    - 70-79
+    - ''
+    - ''
+  - - '1:54.0'
+    - T. Hardaway makes free throw 2 of 2
+    - "+1"
+    - 71-79
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-79
+    - ''
+    - Flagrant foul type 1 by A. Mason
+  - - '1:36.0'
+    - Technical foul by Team
+    - ''
+    - 71-79
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-79
+    - ''
+    - Team ejected from game
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-80
+    - "+1"
+    - R. Miller makes free throw technical
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-80
+    - ''
+    - J. O'Neal misses free throw flagrant 2 of 2
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-80
+    - ''
+    - Offensive rebound by Team
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-81
+    - "+1"
+    - J. O'Neal makes no shot
+  - - '1:36.0'
+    - ''
+    - ''
+    - 71-81
+    - ''
+    - A. Harrington enters the game for S. Perkins
+  - - '1:24.0'
+    - ''
+    - ''
+    - 71-83
+    - "+2"
+    - J. Rose makes 2-pt shot from 3 ft
+  - - '1:16.0'
+    - Turnover by T. Hardaway (double dribble)
+    - ''
+    - 71-83
+    - ''
+    - ''
+  - - '1:01.0'
+    - Technical foul by T. Hardaway
+    - ''
+    - 71-83
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 71-83
+    - ''
+    - R. Miller misses free throw technical
+  - - '1:01.0'
+    - ''
+    - ''
+    - 71-83
+    - ''
+    - Offensive rebound by Team
+  - - '0:51.1'
+    - ''
+    - ''
+    - 71-85
+    - "+2"
+    - J. O'Neal makes 2-pt shot from 13 ft (assist by J. Rose)
+  - - '0:50.4'
+    - Miami full timeout
+    - ''
+    - 71-85
+    - ''
+    - ''
+  - - '0:45.9'
+    - E. Jones misses 3-pt shot from 24 ft
+    - ''
+    - 71-85
+    - ''
+    - ''
+  - - '0:43.4'
+    - ''
+    - ''
+    - 71-85
+    - ''
+    - Defensive rebound by J. Rose
+  - - '0:33.2'
+    - ''
+    - ''
+    - 71-85
+    - ''
+    - Personal foul by B. Bowen
+  - - '0:33.2'
+    - ''
+    - ''
+    - 71-86
+    - "+1"
+    - T. Best makes free throw 1 of 2
+  - - '0:33.2'
+    - ''
+    - ''
+    - 71-87
+    - "+1"
+    - T. Best makes free throw 2 of 2
+  - - '0:33.2'
+    - Miami full timeout
+    - ''
+    - 71-87
+    - ''
+    - ''
+  - - '0:23.9'
+    - T. Hardaway misses 2-pt shot from 21 ft
+    - ''
+    - 71-87
+    - ''
+    - ''
+  - - '0:21.9'
+    - ''
+    - ''
+    - 71-87
+    - ''
+    - Defensive rebound by R. Miller
+  - - '0:00.0'
+    - End of 4th quarter

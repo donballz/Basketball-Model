@@ -1,0 +1,2490 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: R. LaFrentz vs. M. Pope (N. Van Exel gains possession)'
+  - - '11:46.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - N. Van Exel misses 2-pt shot from 18 ft
+  - - '11:43.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by S. Williams
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - S. Williams misses 2-pt shot from 6 ft (block by M. Pope)
+  - - '11:38.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:29.0'
+    - G. Robinson misses 2-pt shot from 20 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:24.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - R. Allen makes 3-pt shot from 26 ft (assist by A. Mason)
+    - "+3"
+    - 3-0
+    - ''
+    - ''
+  - - '11:05.0'
+    - ''
+    - ''
+    - 3-0
+    - ''
+    - S. Williams misses 2-pt shot from 17 ft
+  - - '11:02.0'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 3-0
+    - ''
+    - ''
+  - - '10:57.0'
+    - G. Robinson makes 2-pt shot from 16 ft (assist by S. Cassell)
+    - "+2"
+    - 5-0
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 5-0
+    - ''
+    - N. Van Exel misses 2-pt shot from 16 ft
+  - - '10:31.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 5-0
+    - ''
+    - ''
+  - - '10:22.0'
+    - M. Pope makes 2-pt shot at rim (assist by S. Cassell)
+    - "+2"
+    - 7-0
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 7-0
+    - ''
+    - R. LaFrentz misses 2-pt shot from 6 ft
+  - - '9:59.0'
+    - ''
+    - ''
+    - 7-0
+    - ''
+    - Offensive rebound by R. LaFrentz
+  - - '9:58.0'
+    - ''
+    - ''
+    - 7-0
+    - ''
+    - Turnover by R. LaFrentz (lost ball; steal by S. Cassell)
+  - - '9:58.0'
+    - Personal foul by N. Van Exel
+    - ''
+    - 7-0
+    - ''
+    - ''
+  - - '9:43.0'
+    - M. Pope misses 3-pt shot from 25 ft
+    - ''
+    - 7-0
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 7-0
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '9:34.0'
+    - ''
+    - ''
+    - 7-0
+    - ''
+    - Turnover by T. Abdul-Wahad (bad pass; steal by G. Robinson)
+  - - '9:27.0'
+    - S. Cassell makes 2-pt shot from 15 ft
+    - "+2"
+    - 9-0
+    - ''
+    - ''
+  - - '9:20.0'
+    - ''
+    - ''
+    - 9-0
+    - ''
+    - Denver full timeout
+  - - '9:10.0'
+    - ''
+    - ''
+    - 9-0
+    - ''
+    - R. LaFrentz misses 2-pt shot from 19 ft
+  - - '9:09.0'
+    - Defensive rebound by Team
+    - ''
+    - 9-0
+    - ''
+    - ''
+  - - '9:09.0'
+    - Loose ball foul by S. Williams
+    - ''
+    - 9-0
+    - ''
+    - ''
+  - - '8:54.0'
+    - A. Mason misses 2-pt shot from 16 ft
+    - ''
+    - 9-0
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 9-0
+    - ''
+    - Defensive rebound by S. Williams
+  - - '8:43.0'
+    - ''
+    - ''
+    - 9-0
+    - ''
+    - Shooting foul by G. Robinson
+  - - '8:43.0'
+    - ''
+    - ''
+    - 9-1
+    - "+1"
+    - T. Abdul-Wahad makes free throw 1 of 2
+  - - '8:43.0'
+    - ''
+    - ''
+    - 9-2
+    - "+1"
+    - T. Abdul-Wahad makes free throw 2 of 2
+  - - '8:26.0'
+    - G. Robinson misses 2-pt shot from 17 ft
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '8:23.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 9-2
+    - ''
+    - ''
+  - - '8:22.0'
+    - R. Allen makes 3-pt shot from 24 ft (assist by A. Mason)
+    - "+3"
+    - 12-2
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 12-4
+    - "+2"
+    - J. Posey makes 2-pt shot from 21 ft (assist by N. Van Exel)
+  - - '7:51.0'
+    - A. Mason misses 2-pt shot from 7 ft
+    - ''
+    - 12-4
+    - ''
+    - ''
+  - - '7:47.0'
+    - ''
+    - ''
+    - 12-4
+    - ''
+    - Defensive rebound by S. Williams
+  - - '7:42.0'
+    - ''
+    - ''
+    - 12-4
+    - ''
+    - Turnover by N. Van Exel (lost ball; steal by A. Mason)
+  - - '7:38.0'
+    - Shooting foul by T. Abdul-Wahad
+    - ''
+    - 12-4
+    - ''
+    - ''
+  - - '7:38.0'
+    - R. Allen misses free throw 1 of 2
+    - ''
+    - 12-4
+    - ''
+    - ''
+  - - '7:38.0'
+    - Offensive rebound by Team
+    - ''
+    - 12-4
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 12-4
+    - ''
+    - G. McCloud enters the game for R. LaFrentz
+  - - '7:38.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 13-4
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - J. Posey misses 2-pt shot from 21 ft
+  - - '7:25.0'
+    - ''
+    - ''
+    - 13-4
+    - ''
+    - Offensive rebound by G. McCloud
+  - - '7:05.0'
+    - ''
+    - ''
+    - 13-7
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 25 ft
+  - - '6:49.0'
+    - S. Cassell misses 2-pt shot from 17 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '6:46.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by S. Williams
+  - - '6:44.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Turnover by S. Williams (bad pass; steal by G. Robinson)
+  - - '6:39.0'
+    - G. Robinson misses 2-pt shot from 11 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by S. Williams
+  - - '6:23.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive three seconds by A. Mason
+  - - '6:23.0'
+    - ''
+    - ''
+    - 13-8
+    - "+1"
+    - N. Van Exel makes technical free throw
+  - - '6:15.0'
+    - ''
+    - ''
+    - 13-8
+    - ''
+    - N. Van Exel misses 3-pt shot from 26 ft
+  - - '6:13.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:08.0'
+    - Personal foul by G. McCloud
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '6:06.0'
+    - Turnover by S. Cassell (bad pass; steal by J. Posey)
+    - ''
+    - 13-8
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 13-11
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 25 ft (assist by J. Posey)
+  - - '5:38.0'
+    - S. Cassell misses 2-pt shot from 15 ft
+    - ''
+    - 13-11
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 13-11
+    - ''
+    - Defensive rebound by T. Abdul-Wahad
+  - - '5:34.0'
+    - ''
+    - ''
+    - 13-13
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim (assist by T. Abdul-Wahad)
+  - - '5:20.0'
+    - Personal foul by T. Abdul-Wahad
+    - ''
+    - 13-13
+    - ''
+    - ''
+  - - '5:20.0'
+    - T. Thomas enters the game for G. Robinson
+    - ''
+    - 13-13
+    - ''
+    - ''
+  - - '5:20.0'
+    - S. Cassell makes free throw 1 of 2
+    - "+1"
+    - 14-13
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 14-13
+    - ''
+    - R. Bowen enters the game for T. Abdul-Wahad
+  - - '5:20.0'
+    - S. Cassell makes free throw 2 of 2
+    - "+1"
+    - 15-13
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 15-15
+    - "+2"
+    - J. Posey makes 2-pt shot at rim
+  - - '4:43.0'
+    - A. Mason makes 2-pt shot at rim
+    - "+2"
+    - 17-15
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 17-15
+    - ''
+    - Personal foul by T. Thomas
+  - - '4:15.0'
+    - ''
+    - ''
+    - 17-17
+    - "+2"
+    - S. Williams makes 2-pt shot from 19 ft (assist by N. Van Exel)
+  - - '4:01.0'
+    - A. Mason misses 2-pt shot from 8 ft
+    - ''
+    - 17-17
+    - ''
+    - ''
+  - - '3:57.0'
+    - ''
+    - ''
+    - 17-17
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '3:50.0'
+    - ''
+    - ''
+    - 17-19
+    - "+2"
+    - G. McCloud makes 2-pt shot at rim
+  - - '3:35.0'
+    - T. Thomas misses 2-pt shot from 7 ft
+    - ''
+    - 17-19
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 17-19
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '3:31.0'
+    - ''
+    - ''
+    - 17-21
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '3:31.0'
+    - ''
+    - ''
+    - 17-21
+    - ''
+    - Shooting foul by R. Allen
+  - - '3:31.0'
+    - E. Johnson enters the game for M. Pope
+    - ''
+    - 17-21
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 17-21
+    - ''
+    - S. Scott enters the game for S. Williams
+  - - '3:31.0'
+    - ''
+    - ''
+    - 17-22
+    - "+1"
+    - N. Van Exel makes free throw 1 of 1
+  - - '3:15.0'
+    - R. Allen makes 2-pt shot from 17 ft (assist by A. Mason)
+    - "+2"
+    - 19-22
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 19-22
+    - ''
+    - Defensive three seconds by A. Mason
+  - - '2:58.0'
+    - ''
+    - ''
+    - 19-22
+    - ''
+    - Denver full timeout
+  - - '2:58.0'
+    - M. Redd enters the game for A. Mason
+    - ''
+    - 19-22
+    - ''
+    - ''
+  - - '2:58.0'
+    - ''
+    - ''
+    - 19-23
+    - "+1"
+    - N. Van Exel makes technical free throw
+  - - '2:55.0'
+    - ''
+    - ''
+    - 19-23
+    - ''
+    - Personal foul by S. Cassell
+  - - '2:45.0'
+    - ''
+    - ''
+    - 19-23
+    - ''
+    - Shooting foul by S. Cassell
+  - - '2:45.0'
+    - R. Alston enters the game for S. Cassell
+    - ''
+    - 19-23
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 19-24
+    - "+1"
+    - N. Van Exel makes free throw 1 of 2
+  - - '2:45.0'
+    - ''
+    - ''
+    - 19-25
+    - "+1"
+    - N. Van Exel makes free throw 2 of 2
+  - - '2:31.0'
+    - R. Alston misses 2-pt shot from 17 ft
+    - ''
+    - 19-25
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 19-25
+    - ''
+    - Defensive rebound by Team
+  - - '2:07.0'
+    - ''
+    - ''
+    - 19-27
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 17 ft
+  - - '1:59.0'
+    - Shooting foul by S. Scott
+    - ''
+    - 19-27
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 19-27
+    - ''
+    - A. Johnson enters the game for N. Van Exel
+  - - '1:59.0'
+    - T. Thomas makes free throw 1 of 2
+    - "+1"
+    - 20-27
+    - ''
+    - ''
+  - - '1:59.0'
+    - T. Thomas misses free throw 2 of 2
+    - ''
+    - 20-27
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 20-27
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '1:44.0'
+    - ''
+    - ''
+    - 20-29
+    - "+2"
+    - G. McCloud makes 2-pt shot from 20 ft (assist by A. Johnson)
+  - - '1:32.0'
+    - T. Thomas makes 2-pt shot from 11 ft
+    - "+2"
+    - 22-29
+    - ''
+    - ''
+  - - '1:15.0'
+    - ''
+    - ''
+    - 22-31
+    - "+2"
+    - J. Posey makes 2-pt shot from 18 ft (assist by G. McCloud)
+  - - '1:05.0'
+    - Turnover by E. Johnson (bad pass; steal by R. Bowen)
+    - ''
+    - 22-31
+    - ''
+    - ''
+  - - '1:02.0'
+    - ''
+    - ''
+    - 22-33
+    - "+2"
+    - R. Bowen makes 2-pt shot at rim
+  - - '0:42.4'
+    - T. Thomas makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 25-33
+    - ''
+    - ''
+  - - '0:23.9'
+    - ''
+    - ''
+    - 25-33
+    - ''
+    - G. McCloud misses 3-pt shot from 23 ft
+  - - '0:20.9'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 25-33
+    - ''
+    - ''
+  - - '0:00.8'
+    - M. Redd makes 2-pt shot from 19 ft (assist by R. Alston)
+    - "+2"
+    - 27-33
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:54.0'
+    - Personal foul by J. Posey
+    - ''
+    - 27-33
+    - ''
+    - ''
+  - - '11:54.0'
+    - ''
+    - ''
+    - 27-33
+    - ''
+    - I. Rider enters the game for J. Posey
+  - - '11:42.0'
+    - T. Thomas makes 2-pt shot from 15 ft (assist by R. Alston)
+    - "+2"
+    - 29-33
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - Turnover by A. Johnson (bad pass; steal by R. Allen)
+  - - '11:15.0'
+    - R. Alston misses 2-pt shot from 17 ft
+    - ''
+    - 29-33
+    - ''
+    - ''
+  - - '11:11.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - Defensive rebound by I. Rider
+  - - '11:02.0'
+    - ''
+    - ''
+    - 29-33
+    - ''
+    - Shooting foul by R. Allen
+  - - '11:02.0'
+    - ''
+    - ''
+    - 29-34
+    - "+1"
+    - G. McCloud makes free throw 1 of 2
+  - - '11:02.0'
+    - A. Mason enters the game for R. Allen
+    - ''
+    - 29-34
+    - ''
+    - ''
+  - - '11:02.0'
+    - ''
+    - ''
+    - 29-34
+    - ''
+    - N. Van Exel enters the game for R. Bowen
+  - - '11:02.0'
+    - ''
+    - ''
+    - 29-35
+    - "+1"
+    - G. McCloud makes free throw 2 of 2
+  - - '10:41.0'
+    - M. Redd misses 2-pt shot from 14 ft
+    - ''
+    - 29-35
+    - ''
+    - ''
+  - - '10:37.0'
+    - Offensive rebound by A. Mason
+    - ''
+    - 29-35
+    - ''
+    - ''
+  - - '10:35.0'
+    - Turnover by A. Mason (lost ball; steal by I. Rider)
+    - ''
+    - 29-35
+    - ''
+    - ''
+  - - '10:26.0'
+    - ''
+    - ''
+    - 29-35
+    - ''
+    - Turnover by G. McCloud (lost ball; steal by M. Redd)
+  - - '10:22.0'
+    - T. Thomas makes 2-pt shot at rim
+    - "+2"
+    - 31-35
+    - ''
+    - ''
+  - - '10:01.0'
+    - ''
+    - ''
+    - 31-35
+    - ''
+    - Defensive three seconds by R. Alston
+  - - '10:01.0'
+    - ''
+    - ''
+    - 31-36
+    - "+1"
+    - N. Van Exel makes technical free throw
+  - - '9:51.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - G. McCloud misses 2-pt shot from 12 ft
+  - - '9:50.0'
+    - Defensive rebound by Team
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '9:50.0'
+    - Loose ball foul by G. McCloud
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '9:40.0'
+    - Personal foul by S. Scott
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '9:40.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - R. LaFrentz enters the game for G. McCloud
+  - - '9:38.0'
+    - Offensive foul by T. Thomas
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '9:38.0'
+    - Turnover by T. Thomas (offensive foul)
+    - ''
+    - 31-36
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 31-36
+    - ''
+    - N. Van Exel misses 2-pt shot from 18 ft
+  - - '9:17.0'
+    - ''
+    - ''
+    - 31-38
+    - "+2"
+    - S. Scott makes 2-pt shot at rim
+  - - '9:17.0'
+    - ''
+    - ''
+    - 31-38
+    - ''
+    - Offensive rebound by S. Scott
+  - - '9:17.0'
+    - ''
+    - ''
+    - 31-39
+    - "+1"
+    - S. Scott makes free throw 1 of 1
+  - - '9:17.0'
+    - T. Thomas misses 2-pt shot from 21 ft
+    - ''
+    - 31-39
+    - ''
+    - ''
+  - - '9:17.0'
+    - ''
+    - ''
+    - 31-39
+    - ''
+    - Shooting foul by J. Caffey
+  - - '8:55.0'
+    - ''
+    - ''
+    - 31-39
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '8:47.0'
+    - ''
+    - ''
+    - 31-39
+    - ''
+    - R. LaFrentz misses 2-pt shot from 20 ft
+  - - '8:45.0'
+    - Defensive rebound by R. Alston
+    - ''
+    - 31-39
+    - ''
+    - ''
+  - - '8:40.0'
+    - Shooting foul by R. LaFrentz
+    - ''
+    - 31-39
+    - ''
+    - ''
+  - - '8:40.0'
+    - Official timeout
+    - ''
+    - 31-39
+    - ''
+    - ''
+  - - '8:40.0'
+    - ''
+    - ''
+    - 31-39
+    - ''
+    - S. Williams enters the game for R. LaFrentz
+  - - '8:40.0'
+    - M. Redd makes free throw 1 of 2
+    - "+1"
+    - 32-39
+    - ''
+    - ''
+  - - '8:40.0'
+    - M. Redd makes free throw 2 of 2
+    - "+1"
+    - 33-39
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 33-39
+    - ''
+    - Turnover by A. Johnson (lost ball; steal by M. Redd)
+  - - '8:21.0'
+    - R. Alston makes 2-pt shot at rim (assist by M. Redd)
+    - "+2"
+    - 35-39
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 35-39
+    - ''
+    - Personal foul by M. Redd
+  - - '8:12.0'
+    - G. Robinson enters the game for M. Redd
+    - ''
+    - 35-39
+    - ''
+    - ''
+  - - '8:03.0'
+    - ''
+    - ''
+    - 35-42
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 25 ft (assist by A. Johnson)
+  - - '7:53.0'
+    - G. Robinson misses 2-pt shot from 17 ft
+    - ''
+    - 35-42
+    - ''
+    - ''
+  - - '7:50.0'
+    - Offensive rebound by J. Caffey
+    - ''
+    - 35-42
+    - ''
+    - ''
+  - - '7:48.0'
+    - G. Robinson misses 2-pt shot from 7 ft (block by S. Scott)
+    - ''
+    - 35-42
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 35-42
+    - ''
+    - Defensive rebound by S. Williams
+  - - '7:42.0'
+    - ''
+    - ''
+    - 35-45
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 25 ft (assist by S. Williams)
+  - - '7:36.0'
+    - Milwaukee full timeout
+    - ''
+    - 35-45
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - T. Abdul-Wahad enters the game for A. Johnson
+  - - '7:36.0'
+    - S. Cassell enters the game for R. Alston
+    - ''
+    - 35-45
+    - ''
+    - ''
+  - - '7:27.0'
+    - J. Caffey misses 2-pt shot from 18 ft
+    - ''
+    - 35-45
+    - ''
+    - ''
+  - - '7:25.0'
+    - ''
+    - ''
+    - 35-45
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '7:18.0'
+    - ''
+    - ''
+    - 35-48
+    - "+3"
+    - I. Rider makes 3-pt shot from 23 ft (assist by N. Van Exel)
+  - - '7:02.0'
+    - T. Thomas misses 2-pt shot from 17 ft
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '6:59.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Defensive rebound by S. Scott
+  - - '6:39.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - I. Rider misses 2-pt shot from 5 ft
+  - - '6:36.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '6:33.0'
+    - T. Thomas makes 2-pt shot at rim (assist by G. Robinson)
+    - "+2"
+    - 37-48
+    - ''
+    - ''
+  - - '6:33.0'
+    - Shooting foul by S. Scott
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '6:33.0'
+    - R. Allen enters the game for J. Caffey
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '6:33.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - R. LaFrentz enters the game for S. Scott
+  - - '6:33.0'
+    - T. Thomas makes free throw 1 of 1
+    - "+1"
+    - 38-48
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 38-48
+    - ''
+    - Turnover by I. Rider (bad pass; steal by G. Robinson)
+  - - '6:09.0'
+    - G. Robinson misses 2-pt shot from 16 ft
+    - ''
+    - 38-48
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 38-48
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '5:52.0'
+    - ''
+    - ''
+    - 38-50
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 6 ft
+  - - '5:36.0'
+    - Turnover by A. Mason (bad pass; steal by T. Abdul-Wahad)
+    - ''
+    - 38-50
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 38-53
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 25 ft
+  - - '5:10.0'
+    - Turnover by R. Allen (lost ball; steal by T. Abdul-Wahad)
+    - ''
+    - 38-53
+    - ''
+    - ''
+  - - '4:55.0'
+    - ''
+    - ''
+    - 38-53
+    - ''
+    - N. Van Exel misses 3-pt shot from 26 ft
+  - - '4:52.0'
+    - Defensive rebound by R. Allen
+    - ''
+    - 38-53
+    - ''
+    - ''
+  - - '4:45.0'
+    - S. Cassell makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 41-53
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 41-53
+    - ''
+    - N. Van Exel misses 3-pt shot from 24 ft
+  - - '4:20.0'
+    - ''
+    - ''
+    - 41-53
+    - ''
+    - Offensive rebound by Team
+  - - '4:20.0'
+    - ''
+    - ''
+    - 41-53
+    - ''
+    - Loose ball foul by S. Cassell
+  - - '4:20.0'
+    - ''
+    - ''
+    - 41-53
+    - ''
+    - J. Posey enters the game for I. Rider
+  - - '4:20.0'
+    - M. Pope enters the game for S. Cassell
+    - ''
+    - 41-53
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 41-56
+    - "+3"
+    - T. Abdul-Wahad makes 3-pt shot from 25 ft (assist by N. Van Exel)
+  - - '3:48.0'
+    - A. Mason makes 2-pt shot at rim (assist by R. Allen)
+    - "+2"
+    - 43-56
+    - ''
+    - ''
+  - - '3:35.0'
+    - ''
+    - ''
+    - 43-56
+    - ''
+    - J. Posey misses 2-pt shot from 19 ft
+  - - '3:34.0'
+    - Defensive rebound by Team
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:34.0'
+    - Loose ball foul by T. Abdul-Wahad
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:34.0'
+    - G. Robinson misses free throw 1 of 2
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:34.0'
+    - Offensive rebound by Team
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:34.0'
+    - G. Robinson misses free throw 2 of 2
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 43-56
+    - ''
+    - Defensive rebound by S. Williams
+  - - '3:17.0'
+    - ''
+    - ''
+    - 43-56
+    - ''
+    - Personal foul by R. Allen
+  - - '3:17.0'
+    - ''
+    - ''
+    - 43-56
+    - ''
+    - R. LaFrentz misses free throw 1 of 2
+  - - '3:17.0'
+    - ''
+    - ''
+    - 43-56
+    - ''
+    - Offensive rebound by Team
+  - - '3:17.0'
+    - R. Alston enters the game for R. Allen
+    - ''
+    - 43-56
+    - ''
+    - ''
+  - - '3:17.0'
+    - ''
+    - ''
+    - 43-57
+    - "+1"
+    - R. LaFrentz makes free throw 2 of 2
+  - - '3:04.0'
+    - G. Robinson makes 3-pt shot from 24 ft (assist by T. Thomas)
+    - "+3"
+    - 46-57
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 46-57
+    - ''
+    - Denver full timeout
+  - - '2:49.0'
+    - M. Redd enters the game for T. Thomas
+    - ''
+    - 46-57
+    - ''
+    - ''
+  - - '2:49.0'
+    - ''
+    - ''
+    - 46-57
+    - ''
+    - R. Bowen enters the game for T. Abdul-Wahad
+  - - '2:36.0'
+    - ''
+    - ''
+    - 46-59
+    - "+2"
+    - J. Posey makes 2-pt shot from 21 ft (assist by N. Van Exel)
+  - - '2:18.0'
+    - M. Pope misses 2-pt shot from 19 ft
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - Defensive rebound by R. LaFrentz
+  - - '1:57.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - J. Posey misses 2-pt shot at rim
+  - - '1:52.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '1:49.0'
+    - G. Robinson misses 2-pt shot from 18 ft
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '1:46.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - Defensive rebound by S. Williams
+  - - '1:25.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - N. Van Exel misses 2-pt shot from 17 ft
+  - - '1:21.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '1:15.0'
+    - M. Redd misses 3-pt shot from 24 ft
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - Defensive rebound by J. Posey
+  - - '1:00.0'
+    - ''
+    - ''
+    - 46-59
+    - ''
+    - R. Bowen misses 2-pt shot from 17 ft
+  - - '0:58.9'
+    - Defensive rebound by R. Alston
+    - ''
+    - 46-59
+    - ''
+    - ''
+  - - '0:51.9'
+    - G. Robinson makes 3-pt shot from 25 ft (assist by R. Alston)
+    - "+3"
+    - 49-59
+    - ''
+    - ''
+  - - '0:32.9'
+    - ''
+    - ''
+    - 49-61
+    - "+2"
+    - R. Bowen makes 2-pt shot at rim (assist by J. Posey)
+  - - '0:14.9'
+    - M. Redd misses 2-pt shot from 8 ft
+    - ''
+    - 49-61
+    - ''
+    - ''
+  - - '0:12.9'
+    - ''
+    - ''
+    - 49-61
+    - ''
+    - Defensive rebound by J. Posey
+  - - '0:01.9'
+    - ''
+    - ''
+    - 49-63
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '0:00.1'
+    - G. Robinson misses 3-pt shot from 82 ft
+    - ''
+    - 49-63
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 49-63
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:39.0'
+    - S. Cassell misses 3-pt shot from 26 ft
+    - ''
+    - 49-63
+    - ''
+    - ''
+  - - '11:37.0'
+    - ''
+    - ''
+    - 49-63
+    - ''
+    - Defensive rebound by S. Williams
+  - - '11:26.0'
+    - ''
+    - ''
+    - 49-63
+    - ''
+    - Personal foul by R. Allen
+  - - '11:16.0'
+    - ''
+    - ''
+    - 49-63
+    - ''
+    - R. LaFrentz misses 2-pt shot from 17 ft
+  - - '11:11.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 49-63
+    - ''
+    - ''
+  - - '11:08.0'
+    - S. Cassell makes 2-pt shot from 15 ft
+    - "+2"
+    - 51-63
+    - ''
+    - ''
+  - - '10:49.0'
+    - ''
+    - ''
+    - 51-65
+    - "+2"
+    - T. Abdul-Wahad makes 2-pt shot from 17 ft (assist by J. Posey)
+  - - '10:42.0'
+    - Personal foul by J. Posey
+    - ''
+    - 51-65
+    - ''
+    - ''
+  - - '10:34.0'
+    - G. Robinson makes 2-pt shot from 5 ft (assist by S. Cassell)
+    - "+2"
+    - 53-65
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 53-67
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 19 ft (assist by S. Williams)
+  - - '9:59.0'
+    - Personal foul by J. Posey
+    - ''
+    - 53-67
+    - ''
+    - ''
+  - - '9:40.0'
+    - R. Allen makes 3-pt shot from 26 ft (assist by T. Thomas)
+    - "+3"
+    - 56-67
+    - ''
+    - ''
+  - - '9:18.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - R. LaFrentz misses 2-pt shot at rim (block by T. Thomas)
+  - - '9:14.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '9:10.0'
+    - S. Cassell misses 2-pt shot from 17 ft
+    - ''
+    - 56-67
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 56-67
+    - ''
+    - Defensive rebound by S. Williams
+  - - '8:52.0'
+    - ''
+    - ''
+    - 56-69
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 7 ft
+  - - '8:34.0'
+    - R. Allen makes 3-pt shot from 30 ft
+    - "+3"
+    - 59-69
+    - ''
+    - ''
+  - - '8:15.0'
+    - ''
+    - ''
+    - 59-71
+    - "+2"
+    - J. Posey makes 2-pt shot from 18 ft (assist by N. Van Exel)
+  - - '8:03.0'
+    - G. Robinson makes 2-pt shot from 16 ft (assist by S. Cassell)
+    - "+2"
+    - 61-71
+    - ''
+    - ''
+  - - '7:46.0'
+    - ''
+    - ''
+    - 61-71
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 10 ft
+  - - '7:42.0'
+    - Defensive rebound by A. Mason
+    - ''
+    - 61-71
+    - ''
+    - ''
+  - - '7:33.0'
+    - G. Robinson misses 2-pt shot from 19 ft
+    - ''
+    - 61-71
+    - ''
+    - ''
+  - - '7:31.0'
+    - ''
+    - ''
+    - 61-71
+    - ''
+    - Defensive rebound by J. Posey
+  - - '7:15.0'
+    - ''
+    - ''
+    - 61-73
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 21 ft (assist by J. Posey)
+  - - '6:53.0'
+    - T. Thomas misses 3-pt shot from 25 ft
+    - ''
+    - 61-73
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 61-73
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '6:31.0'
+    - ''
+    - ''
+    - 61-75
+    - "+2"
+    - N. Van Exel makes 2-pt shot from 17 ft (assist by J. Posey)
+  - - '6:14.0'
+    - G. Robinson misses 2-pt shot from 7 ft
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '6:09.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Defensive rebound by N. Van Exel
+  - - '5:54.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - N. Van Exel misses 3-pt shot from 26 ft
+  - - '5:54.0'
+    - Defensive rebound by Team
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:54.0'
+    - Milwaukee full timeout
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:54.0'
+    - E. Johnson enters the game for G. Robinson
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:38.0'
+    - Offensive foul by E. Johnson
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:38.0'
+    - Turnover by E. Johnson (offensive foul)
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:31.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Personal foul by A. Mason
+  - - '5:16.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - J. Posey misses 2-pt shot from 14 ft (block by E. Johnson)
+  - - '5:12.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Offensive rebound by T. Abdul-Wahad
+  - - '5:11.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 14 ft
+  - - '5:11.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Offensive rebound by J. Posey
+  - - '5:11.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - J. Posey misses 2-pt shot at rim
+  - - '5:10.0'
+    - Defensive rebound by Team
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:09.0'
+    - Loose ball foul by R. LaFrentz
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '4:57.0'
+    - A. Mason makes 2-pt shot from 18 ft (assist by T. Thomas)
+    - "+2"
+    - 63-75
+    - ''
+    - ''
+  - - '4:38.0'
+    - ''
+    - ''
+    - 63-75
+    - ''
+    - J. Posey misses 2-pt shot at rim
+  - - '4:34.0'
+    - ''
+    - ''
+    - 63-75
+    - ''
+    - Offensive rebound by S. Williams
+  - - '4:24.0'
+    - ''
+    - ''
+    - 63-75
+    - ''
+    - N. Van Exel misses 2-pt shot from 20 ft
+  - - '4:21.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 63-75
+    - ''
+    - ''
+  - - '4:12.0'
+    - A. Mason makes 2-pt shot from 18 ft (assist by T. Thomas)
+    - "+2"
+    - 65-75
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by S. Cassell)
+  - - '3:25.0'
+    - A. Mason misses 2-pt shot from 7 ft
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '3:24.0'
+    - Offensive rebound by R. Allen
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '3:23.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '3:23.0'
+    - M. Redd enters the game for T. Thomas
+    - ''
+    - 65-75
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - G. McCloud enters the game for R. LaFrentz
+  - - '3:07.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - Shooting foul by E. Johnson
+  - - '3:07.0'
+    - ''
+    - ''
+    - 65-76
+    - "+1"
+    - S. Williams makes free throw 1 of 2
+  - - '3:07.0'
+    - ''
+    - ''
+    - 65-77
+    - "+1"
+    - S. Williams makes free throw 2 of 2
+  - - '2:52.0'
+    - Personal foul by S. Williams
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '2:52.0'
+    - Milwaukee full timeout
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '2:52.0'
+    - R. Alston enters the game for S. Cassell
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '2:44.0'
+    - R. Allen makes 3-pt shot from 26 ft (assist by R. Alston)
+    - "+3"
+    - 68-77
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 68-77
+    - ''
+    - Turnover by G. McCloud (lost ball; steal by A. Mason)
+  - - '2:02.0'
+    - Personal foul by S. Williams
+    - ''
+    - 68-77
+    - ''
+    - ''
+  - - '2:02.0'
+    - ''
+    - ''
+    - 68-77
+    - ''
+    - A. Johnson enters the game for N. Van Exel
+  - - '2:02.0'
+    - A. Mason makes free throw 1 of 2
+    - "+1"
+    - 69-77
+    - ''
+    - ''
+  - - '2:02.0'
+    - A. Mason makes free throw 2 of 2
+    - "+1"
+    - 70-77
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 70-79
+    - "+2"
+    - S. Williams makes 2-pt shot at rim (assist by G. McCloud)
+  - - '1:30.0'
+    - R. Allen makes 2-pt shot from 15 ft
+    - "+2"
+    - 72-79
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 72-79
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 19 ft
+  - - '1:11.0'
+    - Defensive rebound by E. Johnson
+    - ''
+    - 72-79
+    - ''
+    - ''
+  - - '1:02.0'
+    - R. Alston makes 2-pt shot at rim
+    - "+2"
+    - 74-79
+    - ''
+    - ''
+  - - '0:41.8'
+    - ''
+    - ''
+    - 74-81
+    - "+2"
+    - G. McCloud makes 2-pt shot from 17 ft (assist by A. Johnson)
+  - - '0:32.0'
+    - R. Allen makes 3-pt shot from 25 ft
+    - "+3"
+    - 77-81
+    - ''
+    - ''
+  - - '0:10.9'
+    - ''
+    - ''
+    - 77-81
+    - ''
+    - G. McCloud misses 3-pt shot from 25 ft
+  - - '0:06.9'
+    - ''
+    - ''
+    - 77-81
+    - ''
+    - Offensive rebound by J. Posey
+  - - '0:03.5'
+    - ''
+    - ''
+    - 77-81
+    - ''
+    - Personal foul by E. Johnson
+  - - '0:03.5'
+    - Technical foul by A. Mason
+    - ''
+    - 77-81
+    - ''
+    - ''
+  - - '0:03.5'
+    - ''
+    - ''
+    - 77-82
+    - "+1"
+    - G. McCloud makes technical free throw
+  - - '0:01.9'
+    - ''
+    - ''
+    - 77-82
+    - ''
+    - Shooting foul by A. Mason
+  - - '0:01.9'
+    - ''
+    - ''
+    - 77-83
+    - "+1"
+    - G. McCloud makes free throw 1 of 3
+  - - '0:01.9'
+    - G. Robinson enters the game for A. Mason
+    - ''
+    - 77-83
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 77-84
+    - "+1"
+    - G. McCloud makes free throw 2 of 3
+  - - '0:01.9'
+    - ''
+    - ''
+    - 77-85
+    - "+1"
+    - G. McCloud makes free throw 3 of 3
+  - - '0:00.0'
+    - R. Allen misses 3-pt shot from 55 ft
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 77-85
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:37.0'
+    - ''
+    - ''
+    - 77-87
+    - "+2"
+    - I. Rider makes 2-pt shot from 15 ft
+  - - '11:13.0'
+    - Turnover by R. Allen (lost ball)
+    - ''
+    - 77-87
+    - ''
+    - ''
+  - - '11:13.0'
+    - T. Thomas enters the game for R. Allen
+    - ''
+    - 77-87
+    - ''
+    - ''
+  - - '11:04.0'
+    - ''
+    - ''
+    - 77-87
+    - ''
+    - T. Abdul-Wahad misses 2-pt shot from 22 ft
+  - - '11:02.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 77-87
+    - ''
+    - ''
+  - - '10:50.0'
+    - G. Robinson makes 2-pt shot from 6 ft
+    - "+2"
+    - 79-87
+    - ''
+    - ''
+  - - '10:35.0'
+    - ''
+    - ''
+    - 79-89
+    - "+2"
+    - I. Rider makes 2-pt shot from 23 ft
+  - - '10:21.0'
+    - Shooting foul by G. McCloud
+    - ''
+    - 79-89
+    - ''
+    - ''
+  - - '10:21.0'
+    - G. Robinson makes free throw 1 of 2
+    - "+1"
+    - 80-89
+    - ''
+    - ''
+  - - '10:21.0'
+    - G. Robinson makes free throw 2 of 2
+    - "+1"
+    - 81-89
+    - ''
+    - ''
+  - - '10:04.0'
+    - ''
+    - ''
+    - 81-89
+    - ''
+    - Turnover by I. Rider (lost ball; steal by G. Robinson)
+  - - '9:57.0'
+    - R. Alston makes 2-pt shot from 18 ft (assist by M. Redd)
+    - "+2"
+    - 83-89
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - Shooting foul by M. Redd
+  - - '9:42.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - A. Johnson misses free throw 1 of 2
+  - - '9:42.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - Offensive rebound by Team
+  - - '9:42.0'
+    - ''
+    - ''
+    - 83-89
+    - ''
+    - N. Van Exel enters the game for T. Abdul-Wahad
+  - - '9:42.0'
+    - ''
+    - ''
+    - 83-90
+    - "+1"
+    - A. Johnson makes free throw 2 of 2
+  - - '9:30.0'
+    - G. Robinson makes 2-pt shot from 6 ft (assist by R. Alston)
+    - "+2"
+    - 85-90
+    - ''
+    - ''
+  - - '9:30.0'
+    - Shooting foul by G. McCloud
+    - ''
+    - 85-90
+    - ''
+    - ''
+  - - '9:30.0'
+    - G. Robinson makes free throw 1 of 1
+    - "+1"
+    - 86-90
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - N. Van Exel misses 2-pt shot from 16 ft
+  - - '9:12.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Offensive rebound by I. Rider
+  - - '8:53.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Personal foul by R. Alston
+  - - '8:53.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Official timeout
+  - - '8:44.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Turnover by N. Van Exel (lost ball; steal by M. Redd)
+  - - '8:39.0'
+    - R. Alston misses 2-pt shot from 9 ft
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Defensive rebound by I. Rider
+  - - '8:24.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - S. Scott misses 2-pt shot at rim
+  - - '8:18.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Violation by S. Scott (kicked ball)
+  - - '8:14.0'
+    - S. Cassell enters the game for R. Alston
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '8:05.0'
+    - S. Cassell misses 2-pt shot from 18 ft (block by N. Van Exel)
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Defensive rebound by S. Scott
+  - - '7:46.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - N. Van Exel misses 2-pt shot from 19 ft
+  - - '7:44.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '7:38.0'
+    - M. Redd misses 2-pt shot from 17 ft
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Defensive rebound by I. Rider
+  - - '7:14.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Turnover by Team (shot clock)
+  - - '7:14.0'
+    - R. Allen enters the game for M. Redd
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - S. Williams enters the game for S. Scott
+  - - '6:56.0'
+    - R. Allen misses 2-pt shot from 19 ft
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '6:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - J. Posey enters the game for A. Johnson
+  - - '6:41.0'
+    - G. Robinson misses 2-pt shot from 8 ft
+    - ''
+    - 86-90
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Defensive rebound by G. McCloud
+  - - '6:26.0'
+    - ''
+    - ''
+    - 86-90
+    - ''
+    - Turnover by N. Van Exel (bad pass; steal by E. Johnson)
+  - - '6:21.0'
+    - R. Allen makes 3-pt shot from 25 ft (assist by S. Cassell)
+    - "+3"
+    - 89-90
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 89-90
+    - ''
+    - Denver full timeout
+  - - '6:19.0'
+    - A. Mason enters the game for E. Johnson
+    - ''
+    - 89-90
+    - ''
+    - ''
+  - - '6:04.0'
+    - ''
+    - ''
+    - 89-92
+    - "+2"
+    - J. Posey makes 2-pt shot at rim (assist by N. Van Exel)
+  - - '5:44.0'
+    - R. Allen makes 3-pt shot from 26 ft (assist by A. Mason)
+    - "+3"
+    - 92-92
+    - ''
+    - ''
+  - - '5:27.0'
+    - ''
+    - ''
+    - 92-94
+    - "+2"
+    - N. Van Exel makes 2-pt shot at rim
+  - - '5:27.0'
+    - ''
+    - ''
+    - 92-94
+    - ''
+    - Shooting foul by G. Robinson
+  - - '5:27.0'
+    - ''
+    - ''
+    - 92-94
+    - ''
+    - T. Abdul-Wahad enters the game for I. Rider
+  - - '5:27.0'
+    - ''
+    - ''
+    - 92-94
+    - ''
+    - N. Van Exel misses free throw 1 of 1
+  - - '5:26.0'
+    - Defensive rebound by T. Thomas
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '5:10.0'
+    - G. Robinson makes 2-pt shot from 13 ft
+    - "+2"
+    - 94-94
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 94-96
+    - "+2"
+    - J. Posey makes 2-pt shot from 19 ft (assist by N. Van Exel)
+  - - '4:32.0'
+    - Offensive foul by G. Robinson
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '4:32.0'
+    - Turnover by G. Robinson (offensive foul)
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '4:13.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - N. Van Exel misses 2-pt shot from 20 ft
+  - - '4:11.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - Offensive rebound by Team
+  - - '4:11.0'
+    - E. Johnson enters the game for G. Robinson
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - G. McCloud misses 3-pt shot from 26 ft
+  - - '4:00.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - Offensive rebound by Team
+  - - '4:00.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - Loose ball foul by A. Mason
+  - - '3:52.0'
+    - ''
+    - ''
+    - 94-96
+    - ''
+    - Turnover by S. Williams (lost ball; steal by S. Cassell)
+  - - '3:35.0'
+    - Personal foul by T. Abdul-Wahad
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '3:35.0'
+    - Milwaukee full timeout
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '3:28.0'
+    - Shooting foul by T. Abdul-Wahad
+    - ''
+    - 94-96
+    - ''
+    - ''
+  - - '3:28.0'
+    - R. Allen makes free throw 1 of 2
+    - "+1"
+    - 95-96
+    - ''
+    - ''
+  - - '3:28.0'
+    - R. Allen makes free throw 2 of 2
+    - "+1"
+    - 96-96
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - G. McCloud misses 3-pt shot from 25 ft
+  - - '3:02.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Offensive rebound by T. Abdul-Wahad
+  - - '2:46.0'
+    - ''
+    - ''
+    - 96-96
+    - ''
+    - Shooting foul by T. Thomas
+  - - '2:46.0'
+    - ''
+    - ''
+    - 96-97
+    - "+1"
+    - G. McCloud makes free throw 1 of 2
+  - - '2:46.0'
+    - G. Robinson enters the game for T. Thomas
+    - ''
+    - 96-97
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 96-98
+    - "+1"
+    - G. McCloud makes free throw 2 of 2
+  - - '2:27.0'
+    - S. Cassell makes 3-pt shot from 25 ft (assist by R. Allen)
+    - "+3"
+    - 99-98
+    - ''
+    - ''
+  - - '2:13.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - N. Van Exel misses 2-pt shot at rim (block by E. Johnson)
+  - - '2:12.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Offensive rebound by Team
+  - - '2:05.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - N. Van Exel misses 2-pt shot from 18 ft
+  - - '2:05.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Offensive rebound by Team
+  - - '2:01.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - N. Van Exel misses 3-pt shot from 24 ft
+  - - '1:58.0'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '1:39.0'
+    - S. Cassell misses 3-pt shot from 25 ft
+    - ''
+    - 99-98
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 99-98
+    - ''
+    - Defensive rebound by J. Posey
+  - - '1:13.0'
+    - ''
+    - ''
+    - 99-101
+    - "+3"
+    - N. Van Exel makes 3-pt shot from 28 ft (assist by T. Abdul-Wahad)
+  - - '1:13.0'
+    - Milwaukee full timeout
+    - ''
+    - 99-101
+    - ''
+    - ''
+  - - '0:53.9'
+    - A. Mason makes 2-pt shot from 4 ft (assist by G. Robinson)
+    - "+2"
+    - 101-101
+    - ''
+    - ''
+  - - '0:33.9'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - N. Van Exel misses 2-pt shot from 7 ft
+  - - '0:27.9'
+    - Defensive rebound by G. Robinson
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '0:12.9'
+    - Turnover by S. Cassell (bad pass; steal by G. McCloud)
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '0:06.9'
+    - ''
+    - ''
+    - 101-101
+    - ''
+    - G. McCloud misses 2-pt shot at rim (block by G. Robinson)
+  - - '0:03.9'
+    - Defensive rebound by S. Cassell
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '0:01.7'
+    - Shooting foul by S. Williams
+    - ''
+    - 101-101
+    - ''
+    - ''
+  - - '0:01.7'
+    - E. Johnson makes free throw 1 of 2
+    - "+1"
+    - 102-101
+    - ''
+    - ''
+  - - '0:01.7'
+    - E. Johnson misses free throw 2 of 2
+    - ''
+    - 102-101
+    - ''
+    - ''
+  - - '0:01.7'
+    - ''
+    - ''
+    - 102-101
+    - ''
+    - Defensive rebound by Team
+  - - '0:01.7'
+    - ''
+    - ''
+    - 102-101
+    - ''
+    - Denver full timeout
+  - - '0:01.7'
+    - M. Pope enters the game for G. Robinson
+    - ''
+    - 102-101
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

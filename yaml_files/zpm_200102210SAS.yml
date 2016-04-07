@@ -1,0 +1,218 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Rick Fox (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 88/
+    - 161/-2
+    - 250/+3
+    - 98/
+    - 151/-3
+    - 'Horace Grant (On: -3&#9642;Off: +5&#9642;Net: -8)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 131/
+    - 119/-4
+    - 196/+1
+    - 295/
+    - 7/-4
+    - 'Shaquille O''Neal (On: +12&#9642;Off: -10&#9642;Net: +22)'
+    - |2-
+
+      +4
+    - 167/+4
+    - 31/
+    - 51/+4
+    - 198/0
+    - 51/
+    - 247/+3
+    - 100/
+    - 143/+1
+    - 7/
+    - 'Isaiah Rider (On: +1&#9642;Off: +1&#9642;Net: 0)'
+    - |2-
+
+      0
+    - 195/0
+    - 143/
+    - 161/-2
+    - 250/+3
+    - 250/
+    - 'Brian Shaw (On: +1&#9642;Off: +1&#9642;Net: 0)'
+    - |2-
+
+      +4
+    - 167/+4
+    - 31/
+    - 51/+4
+    - 88/-3
+    - 112/
+    - 49/-5
+    - 196/+1
+    - 53/
+    - 248/0
+    - 'Greg Foster (On: -9&#9642;Off: +11&#9642;Net: -20)'
+    - "\n"
+    - 172/
+    - 23/-4
+    - 255/
+    - 44/-5
+    - 505/
+    - 'Mike Penberthy (On: +2&#9642;Off: 0&#9642;Net: +2)'
+    - "\n"
+    - 172/
+    - 78/0
+    - 198/0
+    - 254/
+    - 46/+2
+    - 250/0
+    - 'Devean George (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 250/
+    - 88/-3
+    - 411/
+    - 95/+3
+    - 155/
+    - 'Robert Horry (On: +1&#9642;Off: +1&#9642;Net: 0)'
+    - "\n"
+    - 250/
+    - 126/-1
+    - 327/
+    - 46/+2
+    - 250/0
+    - 'Mark Madsen (On: +3&#9642;Off: -1&#9642;Net: +4)'
+    - "\n"
+    - 498/
+    - 1/0
+    - 250/
+    - 95/+3
+    - 155/
+    - 'Tyronn Lue (On: 0&#9642;Off: +2&#9642;Net: -2)'
+    - "\n"
+    - 749/
+    - 1/0
+    - 251/
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: +6&#9642;Off: -8&#9642;Net: +14)'
+    - |2-
+
+      -4
+    - 167/-4
+    - 67/
+    - 15/+4
+    - 249/+5
+    - 248/-3
+    - 58/
+    - 193/+4
+    - 'Antonio Daniels (On: -16&#9642;Off: +14&#9642;Net: -30)'
+    - |2-
+
+      -8
+    - 227/-8
+    - 61/
+    - 121/+3
+    - 88/
+    - 249/-3
+    - 50/-4
+    - 48/
+    - 75/-4
+    - 76/
+    - 'Tim Duncan (On: -1&#9642;Off: -1&#9642;Net: 0)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 72/+2
+    - 54/
+    - 123/+4
+    - 248/-3
+    - 2/
+    - 249/0
+    - 'Terry Porter (On: +6&#9642;Off: -8&#9642;Net: +14)'
+    - |2-
+
+      0
+    - 194/0
+    - 196/
+    - 107/+4
+    - 196/-1
+    - 52/
+    - 1/0
+    - 139/
+    - 111/+3
+    - 'David Robinson (On: -12&#9642;Off: +10&#9642;Net: -22)'
+    - |2-
+
+      -4
+    - 167/-4
+    - 159/
+    - 120/-2
+    - 51/
+    - 249/-3
+    - 98/
+    - 144/-3
+    - 8/
+    - 'Danny Ferry (On: +8&#9642;Off: -10&#9642;Net: +18)'
+    - "\n"
+    - 172/
+    - 78/0
+    - 34/-2
+    - 541/
+    - 19/+3
+    - 84/
+    - 69/+7
+    - 'Samaki Walker (On: +6&#9642;Off: -8&#9642;Net: +14)'
+    - "\n"
+    - 171/
+    - 77/0
+    - 125/+1
+    - 74/
+    - 49/+5
+    - 249/
+    - 73/-6
+    - 173/
+    - 4/+6
+    - 'Avery Johnson (On: -8&#9642;Off: +6&#9642;Net: -14)'
+    - "\n"
+    - 198/
+    - 51/-4
+    - 137/+1
+    - 315/
+    - 46/-2
+    - 138/-3
+    - 112/
+    - 'Sean Elliott (On: +1&#9642;Off: -3&#9642;Net: +4)'
+    - "\n"
+    - 418/
+    - 81/+4
+    - 248/
+    - 1/0
+    - 95/-3
+    - 155/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

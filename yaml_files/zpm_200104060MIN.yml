@@ -1,0 +1,228 @@
+---
+- name: Plus-Minus
+  data:
+  - - Phoenix Suns
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mario Elie (On: -10&#9642;Off: -3&#9642;Net: -7)'
+    - |2-
+
+      -2
+    - 150/-2
+    - 20/
+    - 17/+2
+    - 171/
+    - 140/-7
+    - 183/0
+    - 121/
+    - 194/-3
+    - 'Jason Kidd (On: -11&#9642;Off: -2&#9642;Net: -9)'
+    - |2-
+
+      +1
+    - 249/+1
+    - 147/-1
+    - 44/
+    - 59/-6
+    - 179/+2
+    - 70/
+    - 249/-7
+    - 'Shawn Marion (On: -17&#9642;Off: +4&#9642;Net: -21)'
+    - |2-
+
+      -3
+    - 165/-3
+    - 100/
+    - 219/-9
+    - 15/
+    - 250/+2
+    - 249/-7
+    - 'Clifford Robinson (On: -8&#9642;Off: -5&#9642;Net: -3)'
+    - |2-
+
+      +1
+    - 220/+1
+    - 131/
+    - 132/-9
+    - 15/
+    - 170/+2
+    - 136/
+    - 172/-2
+    - 20/
+    - 'Jake Tsakalidis (On: 0&#9642;Off: -13&#9642;Net: +13)'
+    - |2-
+
+      -2
+    - 146/-2
+    - 79/
+    - 25/0
+    - 11/0
+    - 239/
+    - 94/+2
+    - 403/
+    - 'Rodney Rogers (On: -6&#9642;Off: -7&#9642;Net: +1)'
+    - "\n"
+    - 150/
+    - 99/+3
+    - 97/0
+    - 93/
+    - 59/-6
+    - 178/
+    - 71/0
+    - 67/
+    - 181/-3
+    - 'Tony Delk (On: -4&#9642;Off: -9&#9642;Net: +5)'
+    - "\n"
+    - 153/
+    - 96/+3
+    - 103/-2
+    - 135/
+    - 11/0
+    - 188/
+    - 60/+2
+    - 64/-4
+    - 166/
+    - 18/-3
+    - 'Tom Gugliotta (On: -3&#9642;Off: -10&#9642;Net: +7)'
+    - "\n"
+    - 189/
+    - 60/+2
+    - 188/-3
+    - 50/
+    - 11/0
+    - 178/
+    - 71/0
+    - 55/-2
+    - 193/
+    - 'Elliot Perry (On: -2&#9642;Off: -11&#9642;Net: +9)'
+    - "\n"
+    - 405/
+    - 35/-2
+    - 561/
+    - 'Chris Dudley (On: 0&#9642;Off: -13&#9642;Net: +13)'
+    - "\n"
+    - 599/
+    - 73/0
+    - 329/
+    - 'Vinny Del Negro (On: -4&#9642;Off: -9&#9642;Net: +5)'
+    - "\n"
+    - 682/
+    - 68/0
+    - 51/-4
+    - 199/
+  - - Minnesota Timberwolves
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Terrell Brandon (On: +3&#9642;Off: +10&#9642;Net: -7)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 63/+1
+    - 186/
+    - 250/-2
+    - 133/
+    - 116/+5
+    - 'Kevin Garnett (On: +13&#9642;Off: 0&#9642;Net: +13)'
+    - |2-
+
+      -1
+    - 250/-1
+    - 103/
+    - 147/+9
+    - 250/-2
+    - 249/+7
+    - 'Dean Garrett (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - |2-
+
+      +2
+    - 146/+2
+    - 354/
+    - 126/-5
+    - 374/
+    - 'Felipe Lopez (On: +14&#9642;Off: -1&#9642;Net: +15)'
+    - |2-
+
+      +3
+    - 164/+3
+    - 238/
+    - 95/+8
+    - 143/-5
+    - 220/
+    - 11/-1
+    - 50/
+    - 75/+9
+    - 'Wally Szczerbiak (On: +21&#9642;Off: -8&#9642;Net: +29)'
+    - |2-
+
+      +1
+    - 186/+1
+    - 114/
+    - 194/+15
+    - 4/
+    - 116/-3
+    - 200/
+    - 41/-1
+    - 66/
+    - 74/+9
+    - 'Reggie Slater (On: +11&#9642;Off: +2&#9642;Net: +9)'
+    - "\n"
+    - 150/
+    - 99/-3
+    - 98/0
+    - 279/
+    - 121/+3
+    - 100/+2
+    - 75/
+    - 74/+9
+    - 'Anthony Peeler (On: -2&#9642;Off: +15&#9642;Net: -17)'
+    - "\n"
+    - 170/
+    - 79/-4
+    - 147/+1
+    - 249/
+    - 102/+3
+    - 170/-2
+    - 80/
+    - 'Sam Mitchell (On: -7&#9642;Off: +20&#9642;Net: -27)'
+    - "\n"
+    - 189/
+    - 60/-2
+    - 47/-4
+    - 321/
+    - 129/+1
+    - 64/+4
+    - 68/
+    - 37/-4
+    - 80/
+    - 'LaPhonso Ellis (On: +5&#9642;Off: +8&#9642;Net: -3)'
+    - "\n"
+    - 250/
+    - 250/+9
+    - 352/
+    - 67/-4
+    - 80/
+    - 'Chauncey Billups (On: +10&#9642;Off: +3&#9642;Net: +7)'
+    - "\n"
+    - 319/
+    - 180/+8
+    - 250/
+    - 125/+2
+    - 125/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

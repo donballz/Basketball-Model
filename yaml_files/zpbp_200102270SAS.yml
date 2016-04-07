@@ -1,0 +1,2462 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: D. Robinson vs. R. Wallace (T. Duncan gains possession)'
+  - - '11:36.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - D. Anderson makes 2-pt shot from 14 ft
+  - - '11:19.0'
+    - Turnover by S. Pippen (bad pass; steal by D. Robinson)
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:14.0'
+    - ''
+    - ''
+    - 0-5
+    - "+3"
+    - D. Anderson makes 3-pt shot from 24 ft (assist by S. Elliott)
+  - - '10:54.0'
+    - B. Wells makes 2-pt shot from 14 ft
+    - "+2"
+    - 2-5
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 2-8
+    - "+3"
+    - T. Porter makes 3-pt shot from 24 ft (assist by T. Duncan)
+  - - '10:16.0'
+    - D. Stoudamire misses 2-pt shot from 10 ft
+    - ''
+    - 2-8
+    - ''
+    - ''
+  - - '10:16.0'
+    - R. Wallace misses 2-pt shot from 2 ft
+    - ''
+    - 2-8
+    - ''
+    - ''
+  - - '10:16.0'
+    - Offensive rebound by R. Wallace
+    - ''
+    - 2-8
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 2-8
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '9:55.0'
+    - ''
+    - ''
+    - 2-8
+    - ''
+    - D. Anderson misses 3-pt shot from 24 ft
+  - - '9:50.0'
+    - S. Pippen makes 2-pt shot at rim (assist by D. Stoudamire)
+    - "+2"
+    - 4-8
+    - ''
+    - ''
+  - - '9:50.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:31.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - T. Duncan misses 2-pt shot from 4 ft (block by R. Wallace)
+  - - '9:28.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:26.0'
+    - Personal foul by S. Elliott
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:15.0'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 4-8
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '9:06.0'
+    - ''
+    - ''
+    - 4-8
+    - ''
+    - Shooting foul by S. Pippen
+  - - '9:06.0'
+    - ''
+    - ''
+    - 4-9
+    - "+1"
+    - D. Anderson makes free throw 1 of 2
+  - - '9:06.0'
+    - ''
+    - ''
+    - 4-10
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '8:53.0'
+    - R. Wallace misses 2-pt shot from 6 ft (block by T. Duncan)
+    - ''
+    - 4-10
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 4-10
+    - ''
+    - Defensive rebound by T. Porter
+  - - '8:41.0'
+    - ''
+    - ''
+    - 4-10
+    - ''
+    - D. Robinson misses 2-pt shot from 3 ft (block by D. Davis)
+  - - '8:39.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 4-10
+    - ''
+    - ''
+  - - '8:31.0'
+    - D. Stoudamire misses 2-pt shot from 17 ft
+    - ''
+    - 4-10
+    - ''
+    - ''
+  - - '8:28.0'
+    - ''
+    - ''
+    - 4-10
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '8:07.0'
+    - ''
+    - ''
+    - 4-12
+    - "+2"
+    - D. Anderson makes 2-pt shot from 10 ft (assist by D. Robinson)
+  - - '7:44.0'
+    - R. Wallace misses 2-pt shot from 9 ft
+    - ''
+    - 4-12
+    - ''
+    - ''
+  - - '7:43.0'
+    - ''
+    - ''
+    - 4-12
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '7:32.0'
+    - ''
+    - ''
+    - 4-12
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '7:30.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 4-12
+    - ''
+    - ''
+  - - '7:15.0'
+    - D. Stoudamire misses 2-pt shot from 1 ft
+    - ''
+    - 4-12
+    - ''
+    - ''
+  - - '7:13.0'
+    - Offensive rebound by S. Pippen
+    - ''
+    - 4-12
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 4-12
+    - ''
+    - Violation by Team (illegal defense)
+  - - '7:04.0'
+    - S. Pippen makes 2-pt shot from 1 ft
+    - "+2"
+    - 6-12
+    - ''
+    - ''
+  - - '6:48.0'
+    - ''
+    - ''
+    - 6-12
+    - ''
+    - T. Duncan misses 2-pt shot from 7 ft (block by D. Davis)
+  - - '6:46.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 6-12
+    - ''
+    - ''
+  - - '6:40.0'
+    - B. Wells misses 2-pt shot from 2 ft (block by T. Duncan)
+    - ''
+    - 6-12
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 6-12
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '6:21.0'
+    - ''
+    - ''
+    - 6-12
+    - ''
+    - T. Duncan misses 2-pt shot from 8 ft
+  - - '6:20.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 6-12
+    - ''
+    - ''
+  - - '6:14.0'
+    - D. Stoudamire makes 2-pt shot at rim
+    - "+2"
+    - 8-12
+    - ''
+    - ''
+  - - '6:05.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - San Antonio full timeout
+  - - '5:51.0'
+    - ''
+    - ''
+    - 8-12
+    - ''
+    - Turnover by T. Duncan (lost ball; steal by R. Wallace)
+  - - '5:47.0'
+    - B. Wells makes 2-pt shot at rim
+    - "+2"
+    - 10-12
+    - ''
+    - ''
+  - - '5:21.0'
+    - ''
+    - ''
+    - 10-12
+    - ''
+    - Shooting foul by D. Davis
+  - - '5:21.0'
+    - ''
+    - ''
+    - 10-13
+    - "+1"
+    - D. Robinson makes free throw 1 of 2
+  - - '5:21.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - D. Robinson misses free throw 2 of 2
+  - - '5:20.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:02.0'
+    - D. Davis misses 2-pt shot from 12 ft
+    - ''
+    - 10-13
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 10-13
+    - ''
+    - Defensive rebound by S. Elliott
+  - - '4:51.0'
+    - ''
+    - ''
+    - 10-15
+    - "+2"
+    - D. Robinson makes 2-pt shot from 13 ft (assist by T. Porter)
+  - - '4:34.0'
+    - D. Davis makes 2-pt shot from 7 ft (assist by R. Wallace)
+    - "+2"
+    - 12-15
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 12-15
+    - ''
+    - Turnover by T. Porter (bad pass; steal by D. Stoudamire)
+  - - '4:17.0'
+    - B. Wells makes 2-pt shot at rim (assist by D. Stoudamire)
+    - "+2"
+    - 14-15
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - T. Porter misses 3-pt shot from 25 ft
+  - - '4:01.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Offensive rebound by D. Robinson
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-17
+    - "+2"
+    - D. Robinson makes 2-pt shot from 1 ft (assist by D. Anderson)
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Shooting foul by B. Wells
+  - - '3:59.0'
+    - D. Schrempf enters the game for S. Pippen
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - A. Johnson enters the game for T. Porter
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - A. Daniels enters the game for S. Elliott
+  - - '3:59.0'
+    - ''
+    - ''
+    - 14-18
+    - "+1"
+    - D. Robinson makes free throw 1 of 1
+  - - '3:49.0'
+    - Personal foul by D. Anderson
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 14-18
+    - ''
+    - D. Ferry enters the game for A. Daniels
+  - - '3:41.0'
+    - B. Wells misses 2-pt shot from 13 ft
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 14-18
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '3:30.0'
+    - ''
+    - ''
+    - 14-18
+    - ''
+    - Personal foul by B. Wells
+  - - '3:30.0'
+    - S. Smith enters the game for B. Wells
+    - ''
+    - 14-18
+    - ''
+    - ''
+  - - '3:24.0'
+    - ''
+    - ''
+    - 14-20
+    - "+2"
+    - D. Anderson makes 2-pt shot from 17 ft (assist by T. Duncan)
+  - - '3:09.0'
+    - Turnover by S. Smith (out of bounds)
+    - ''
+    - 14-20
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 14-20
+    - ''
+    - S. Walker enters the game for D. Robinson
+  - - '2:57.0'
+    - ''
+    - ''
+    - 14-22
+    - "+2"
+    - D. Ferry makes 2-pt shot from 16 ft (assist by A. Johnson)
+  - - '2:40.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:40.0'
+    - Portland full timeout
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:40.0'
+    - S. Kemp enters the game for D. Davis
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:40.0'
+    - R. Wallace misses free throw 1 of 2
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 14-22
+    - ''
+    - ''
+  - - '2:40.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 15-22
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 15-22
+    - ''
+    - T. Duncan misses 2-pt shot from 8 ft
+  - - '2:18.0'
+    - Defensive rebound by D. Schrempf
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '2:10.0'
+    - S. Kemp misses 2-pt shot from 17 ft
+    - ''
+    - 15-22
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 15-22
+    - ''
+    - Defensive rebound by S. Walker
+  - - '1:52.0'
+    - ''
+    - ''
+    - 15-24
+    - "+2"
+    - A. Johnson makes 2-pt shot from 16 ft (assist by D. Anderson)
+  - - '1:27.0'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 15-24
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 15-24
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '1:11.0'
+    - ''
+    - ''
+    - 15-26
+    - "+2"
+    - S. Walker makes 2-pt shot from 15 ft (assist by D. Ferry)
+  - - '0:50.9'
+    - D. Stoudamire misses 2-pt shot from 21 ft
+    - ''
+    - 15-26
+    - ''
+    - ''
+  - - '0:48.9'
+    - Offensive rebound by R. Wallace
+    - ''
+    - 15-26
+    - ''
+    - ''
+  - - '0:41.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 15-26
+    - ''
+    - ''
+  - - '0:41.0'
+    - S. Kemp makes free throw 1 of 2
+    - "+1"
+    - 16-26
+    - ''
+    - ''
+  - - '0:41.0'
+    - ''
+    - ''
+    - 16-26
+    - ''
+    - D. Robinson enters the game for T. Duncan
+  - - '0:41.0'
+    - A. Sabonis enters the game for R. Wallace
+    - ''
+    - 16-26
+    - ''
+    - ''
+  - - '0:41.0'
+    - S. Kemp makes free throw 2 of 2
+    - "+1"
+    - 17-26
+    - ''
+    - ''
+  - - '0:30.9'
+    - ''
+    - ''
+    - 17-28
+    - "+2"
+    - D. Robinson makes 2-pt shot from 15 ft (assist by A. Johnson)
+  - - '0:13.9'
+    - S. Smith misses 2-pt shot from 15 ft
+    - ''
+    - 17-28
+    - ''
+    - ''
+  - - '0:11.9'
+    - Offensive rebound by D. Schrempf
+    - ''
+    - 17-28
+    - ''
+    - ''
+  - - '0:10.9'
+    - D. Schrempf misses 2-pt shot from 2 ft (block by D. Robinson)
+    - ''
+    - 17-28
+    - ''
+    - ''
+  - - '0:08.8'
+    - ''
+    - ''
+    - 17-28
+    - ''
+    - Defensive rebound by Team
+  - - '0:01.9'
+    - ''
+    - ''
+    - 17-28
+    - ''
+    - A. Johnson misses 2-pt shot from 17 ft
+  - - '0:00.0'
+    - Defensive rebound by D. Schrempf
+    - ''
+    - 17-28
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - A. Sabonis misses 2-pt shot from 4 ft (block by D. Robinson)
+    - ''
+    - 17-28
+    - ''
+    - ''
+  - - '11:43.0'
+    - ''
+    - ''
+    - 17-28
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '11:38.0'
+    - ''
+    - ''
+    - 17-30
+    - "+2"
+    - D. Anderson makes 2-pt shot from 11 ft (assist by A. Johnson)
+  - - '11:21.0'
+    - S. Kemp misses 2-pt shot from 15 ft
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '11:19.0'
+    - Offensive rebound by Team
+    - ''
+    - 17-30
+    - ''
+    - ''
+  - - '11:10.0'
+    - A. Sabonis makes 2-pt shot from 19 ft (assist by D. Schrempf)
+    - "+2"
+    - 19-30
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 19-32
+    - "+2"
+    - D. Ferry makes 2-pt shot from 16 ft (assist by A. Johnson)
+  - - '10:24.0'
+    - S. Smith misses 2-pt shot from 11 ft
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:22.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 19-32
+    - ''
+    - ''
+  - - '10:21.0'
+    - S. Kemp makes 2-pt shot from 2 ft
+    - "+2"
+    - 21-32
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 21-34
+    - "+2"
+    - S. Walker makes 2-pt shot from 1 ft (assist by D. Robinson)
+  - - '10:02.0'
+    - ''
+    - ''
+    - 21-34
+    - ''
+    - Shooting foul by D. Schrempf
+  - - '10:02.0'
+    - S. Pippen enters the game for D. Stoudamire
+    - ''
+    - 21-34
+    - ''
+    - ''
+  - - '10:02.0'
+    - ''
+    - ''
+    - 21-35
+    - "+1"
+    - S. Walker makes free throw 1 of 1
+  - - '10:02.0'
+    - ''
+    - ''
+    - 21-35
+    - ''
+    - Technical foul by D. Ferry
+  - - '10:02.0'
+    - S. Smith makes free throw technical
+    - "+1"
+    - 22-35
+    - ''
+    - ''
+  - - '9:49.0'
+    - Turnover by S. Smith (3 second)
+    - ''
+    - 22-35
+    - ''
+    - ''
+  - - '9:38.0'
+    - ''
+    - ''
+    - 22-35
+    - ''
+    - A. Johnson misses 2-pt shot from 5 ft
+  - - '9:36.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 22-35
+    - ''
+    - ''
+  - - '9:25.0'
+    - S. Smith makes 2-pt shot from 1 ft (assist by S. Kemp)
+    - "+2"
+    - 24-35
+    - ''
+    - ''
+  - - '9:08.0'
+    - ''
+    - ''
+    - 24-37
+    - "+2"
+    - D. Robinson makes 2-pt shot from 16 ft (assist by A. Johnson)
+  - - '8:55.0'
+    - S. Smith misses 2-pt shot from 9 ft
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:52.0'
+    - S. Kemp misses 2-pt shot from 2 ft
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:52.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 24-37
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '8:45.0'
+    - ''
+    - ''
+    - 24-37
+    - ''
+    - D. Ferry misses 3-pt shot from 25 ft
+  - - '8:44.0'
+    - Defensive rebound by Team
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:44.0'
+    - Official timeout
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:44.0'
+    - ''
+    - ''
+    - 24-37
+    - ''
+    - T. Porter enters the game for D. Anderson
+  - - '8:26.0'
+    - A. Sabonis misses 2-pt shot from 10 ft
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:24.0'
+    - Offensive rebound by A. Sabonis
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:23.0'
+    - A. Sabonis misses 2-pt shot from 6 ft (block by D. Robinson)
+    - ''
+    - 24-37
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 24-37
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '8:13.0'
+    - ''
+    - ''
+    - 24-39
+    - "+2"
+    - S. Walker makes 2-pt shot from 16 ft (assist by T. Porter)
+  - - '7:54.0'
+    - S. Pippen misses 2-pt shot from 20 ft
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - Defensive rebound by Team
+  - - '7:52.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - Loose ball foul by S. Kemp
+  - - '7:52.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - S. Elliott enters the game for A. Johnson
+  - - '7:47.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - Personal foul by S. Pippen
+  - - '7:30.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - D. Ferry misses 3-pt shot from 25 ft
+  - - '7:28.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '7:22.0'
+    - ''
+    - ''
+    - 24-39
+    - ''
+    - Violation by D. Robinson (kicked ball)
+  - - '7:16.0'
+    - Personal foul by S. Elliott
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '7:00.0'
+    - S. Smith misses 3-pt shot from 26 ft
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '6:58.0'
+    - Offensive rebound by S. Kemp
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '6:50.0'
+    - Shooting foul by S. Walker
+    - ''
+    - 24-39
+    - ''
+    - ''
+  - - '6:50.0'
+    - S. Pippen makes free throw 1 of 2
+    - "+1"
+    - 25-39
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 25-39
+    - ''
+    - T. Duncan enters the game for S. Walker
+  - - '6:50.0'
+    - B. Wells enters the game for D. Schrempf
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '6:50.0'
+    - R. Wallace enters the game for S. Kemp
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '6:50.0'
+    - ''
+    - ''
+    - 25-39
+    - ''
+    - A. Daniels enters the game for D. Ferry
+  - - '6:50.0'
+    - S. Pippen makes free throw 2 of 2
+    - "+1"
+    - 26-39
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 26-39
+    - ''
+    - T. Duncan misses 2-pt shot from 15 ft
+  - - '6:37.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 26-39
+    - ''
+    - ''
+  - - '6:32.0'
+    - S. Pippen misses 2-pt shot from 1 ft (block by T. Duncan)
+    - ''
+    - 26-39
+    - ''
+    - ''
+  - - '6:29.0'
+    - ''
+    - ''
+    - 26-39
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '6:19.0'
+    - ''
+    - ''
+    - 26-39
+    - ''
+    - S. Elliott misses 3-pt shot from 24 ft
+  - - '6:17.0'
+    - Defensive rebound by A. Sabonis
+    - ''
+    - 26-39
+    - ''
+    - ''
+  - - '5:58.0'
+    - R. Wallace makes 2-pt shot from 17 ft (assist by B. Wells)
+    - "+2"
+    - 28-39
+    - ''
+    - ''
+  - - '5:51.0'
+    - ''
+    - ''
+    - 28-39
+    - ''
+    - San Antonio full timeout
+  - - '5:31.0'
+    - ''
+    - ''
+    - 28-39
+    - ''
+    - T. Porter misses 2-pt shot from 14 ft
+  - - '5:30.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 28-39
+    - ''
+    - ''
+  - - '5:07.0'
+    - R. Wallace makes 2-pt shot from 15 ft
+    - "+2"
+    - 30-39
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 30-39
+    - ''
+    - Shooting foul by R. Wallace
+  - - '4:42.0'
+    - ''
+    - ''
+    - 30-40
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '4:42.0'
+    - ''
+    - ''
+    - 30-40
+    - ''
+    - D. Anderson enters the game for S. Elliott
+  - - '4:42.0'
+    - ''
+    - ''
+    - 30-41
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '4:24.0'
+    - B. Wells makes 2-pt shot from 1 ft (assist by A. Sabonis)
+    - "+2"
+    - 32-41
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - T. Porter misses 3-pt shot from 24 ft
+  - - '4:06.0'
+    - ''
+    - ''
+    - 32-41
+    - ''
+    - Offensive rebound by T. Porter
+  - - '4:00.0'
+    - ''
+    - ''
+    - 32-43
+    - "+2"
+    - A. Daniels makes 2-pt shot from 7 ft (assist by T. Porter)
+  - - '3:38.0'
+    - S. Smith misses 3-pt shot from 24 ft
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:36.0'
+    - Offensive rebound by S. Smith
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:33.0'
+    - Portland 20 second timeout
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:33.0'
+    - D. Stoudamire enters the game for S. Smith
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Violation by D. Robinson (kicked ball)
+  - - '3:26.0'
+    - D. Davis enters the game for A. Sabonis
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:26.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - S. Walker enters the game for D. Robinson
+  - - '3:19.0'
+    - Turnover by S. Pippen (bad pass; steal by T. Porter)
+    - ''
+    - 32-43
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - T. Duncan misses 2-pt shot from 5 ft (block by D. Davis)
+  - - '3:00.0'
+    - ''
+    - ''
+    - 32-43
+    - ''
+    - Offensive rebound by T. Porter
+  - - '2:57.0'
+    - ''
+    - ''
+    - 32-45
+    - "+2"
+    - T. Porter makes 2-pt shot from 1 ft
+  - - '2:48.0'
+    - B. Wells misses 2-pt shot from 5 ft (block by T. Duncan)
+    - ''
+    - 32-45
+    - ''
+    - ''
+  - - '2:46.0'
+    - ''
+    - ''
+    - 32-45
+    - ''
+    - Defensive rebound by S. Walker
+  - - '2:35.0'
+    - ''
+    - ''
+    - 32-45
+    - ''
+    - A. Daniels misses 2-pt shot from 17 ft
+  - - '2:33.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 32-45
+    - ''
+    - ''
+  - - '2:11.0'
+    - R. Wallace makes 2-pt shot from 13 ft
+    - "+2"
+    - 34-45
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 34-45
+    - ''
+    - D. Anderson misses 2-pt shot from 20 ft
+  - - '1:42.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:39.0'
+    - Personal foul by A. Daniels
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:39.0'
+    - Portland full timeout
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:39.0'
+    - S. Smith enters the game for B. Wells
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:27.0'
+    - R. Wallace misses 2-pt shot from 6 ft
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:25.0'
+    - Offensive rebound by S. Pippen
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:13.0'
+    - R. Wallace misses 3-pt shot from 24 ft
+    - ''
+    - 34-45
+    - ''
+    - ''
+  - - '1:10.0'
+    - ''
+    - ''
+    - 34-45
+    - ''
+    - Defensive rebound by T. Porter
+  - - '0:52.9'
+    - ''
+    - ''
+    - 34-47
+    - "+2"
+    - T. Duncan makes 2-pt shot at rim (assist by D. Anderson)
+  - - '0:41.6'
+    - D. Stoudamire misses 2-pt shot from 1 ft
+    - ''
+    - 34-47
+    - ''
+    - ''
+  - - '0:39.9'
+    - D. Davis makes 2-pt shot at rim
+    - "+2"
+    - 36-47
+    - ''
+    - ''
+  - - '0:39.9'
+    - Offensive rebound by D. Davis
+    - ''
+    - 36-47
+    - ''
+    - ''
+  - - '0:23.4'
+    - ''
+    - ''
+    - 36-49
+    - "+2"
+    - T. Duncan makes 2-pt shot from 7 ft
+  - - '0:02.5'
+    - Shooting foul by D. Anderson
+    - ''
+    - 36-49
+    - ''
+    - ''
+  - - '0:02.5'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 37-49
+    - ''
+    - ''
+  - - '0:02.5'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 38-49
+    - ''
+    - ''
+  - - '0:02.5'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - San Antonio 20 second timeout
+  - - '0:02.5'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - D. Ferry enters the game for S. Walker
+  - - '0:00.0'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - D. Anderson misses 3-pt shot from 42 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 38-49
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:38.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 38-49
+    - ''
+    - ''
+  - - '11:38.0'
+    - R. Wallace makes free throw 1 of 2
+    - "+1"
+    - 39-49
+    - ''
+    - ''
+  - - '11:38.0'
+    - R. Wallace makes free throw 2 of 2
+    - "+1"
+    - 40-49
+    - ''
+    - ''
+  - - '11:22.0'
+    - ''
+    - ''
+    - 40-49
+    - ''
+    - Turnover by T. Duncan (out of bounds)
+  - - '11:03.0'
+    - R. Wallace makes 2-pt shot from 14 ft
+    - "+2"
+    - 42-49
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 42-49
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by R. Wallace)
+  - - '10:18.0'
+    - S. Pippen makes 3-pt shot from 24 ft (assist by R. Wallace)
+    - "+3"
+    - 45-49
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - San Antonio full timeout
+  - - '10:01.0'
+    - Violation by Team (illegal defense)
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - T. Duncan misses 2-pt shot from 1 ft (block by D. Davis)
+  - - '9:50.0'
+    - Defensive rebound by Team
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '9:26.0'
+    - S. Pippen misses 2-pt shot from 19 ft
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '9:26.0'
+    - Offensive rebound by Team
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '9:26.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - D. Anderson misses 2-pt shot from 2 ft
+  - - '9:10.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - T. Duncan misses 2-pt shot at rim
+  - - '9:10.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '9:10.0'
+    - 'Jump ball: T. Duncan vs. D. Davis (S. Elliott gains possession)'
+  - - '9:10.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - Offensive rebound by Team
+  - - '9:04.0'
+    - ''
+    - ''
+    - 45-49
+    - ''
+    - S. Elliott misses 3-pt shot from 26 ft
+  - - '9:02.0'
+    - Defensive rebound by D. Davis
+    - ''
+    - 45-49
+    - ''
+    - ''
+  - - '8:56.0'
+    - R. Wallace makes 2-pt shot from 12 ft (assist by D. Stoudamire)
+    - "+2"
+    - 47-49
+    - ''
+    - ''
+  - - '8:38.0'
+    - ''
+    - ''
+    - 47-49
+    - ''
+    - D. Robinson misses 2-pt shot from 17 ft
+  - - '8:36.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 47-49
+    - ''
+    - ''
+  - - '8:19.0'
+    - D. Davis misses 2-pt shot from 13 ft
+    - ''
+    - 47-49
+    - ''
+    - ''
+  - - '8:18.0'
+    - ''
+    - ''
+    - 47-49
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '8:06.0'
+    - ''
+    - ''
+    - 47-51
+    - "+2"
+    - D. Anderson makes 2-pt shot from 16 ft (assist by T. Duncan)
+  - - '7:50.0'
+    - Turnover by D. Stoudamire (bad pass; steal by D. Anderson)
+    - ''
+    - 47-51
+    - ''
+    - ''
+  - - '7:45.0'
+    - ''
+    - ''
+    - 47-51
+    - ''
+    - D. Anderson misses 2-pt shot from 1 ft
+  - - '7:43.0'
+    - ''
+    - ''
+    - 47-51
+    - ''
+    - Offensive rebound by T. Porter
+  - - '7:39.0'
+    - ''
+    - ''
+    - 47-51
+    - ''
+    - Personal foul by D. Davis
+  - - '7:34.0'
+    - ''
+    - ''
+    - 47-53
+    - "+2"
+    - T. Duncan makes 2-pt shot at rim
+  - - '7:34.0'
+    - ''
+    - ''
+    - 47-53
+    - ''
+    - Shooting foul by R. Wallace
+  - - '7:34.0'
+    - ''
+    - ''
+    - 47-54
+    - "+1"
+    - T. Duncan makes free throw 1 of 1
+  - - '7:16.0'
+    - R. Wallace makes 3-pt shot from 23 ft (assist by D. Davis)
+    - "+3"
+    - 50-54
+    - ''
+    - ''
+  - - '6:53.0'
+    - ''
+    - ''
+    - 50-54
+    - ''
+    - D. Anderson misses 2-pt shot from 17 ft
+  - - '6:52.0'
+    - ''
+    - ''
+    - 50-54
+    - ''
+    - Offensive rebound by Team
+  - - '6:52.0'
+    - ''
+    - ''
+    - 50-54
+    - ''
+    - Loose ball foul by D. Davis
+  - - '6:42.0'
+    - ''
+    - ''
+    - 50-54
+    - ''
+    - S. Elliott misses 3-pt shot from 23 ft
+  - - '6:39.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 50-54
+    - ''
+    - ''
+  - - '6:28.0'
+    - R. Wallace makes 2-pt shot from 15 ft
+    - "+2"
+    - 52-54
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - T. Porter misses 2-pt shot from 14 ft
+  - - '6:06.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '6:01.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - A. Daniels enters the game for S. Elliott
+  - - '6:00.0'
+    - ''
+    - ''
+    - 52-54
+    - ''
+    - Shooting foul by D. Stoudamire
+  - - '6:00.0'
+    - ''
+    - ''
+    - 52-55
+    - "+1"
+    - D. Anderson makes free throw 1 of 2
+  - - '6:00.0'
+    - ''
+    - ''
+    - 52-55
+    - ''
+    - S. Walker enters the game for D. Robinson
+  - - '6:00.0'
+    - ''
+    - ''
+    - 52-56
+    - "+1"
+    - D. Anderson makes free throw 2 of 2
+  - - '5:51.0'
+    - Personal foul by A. Daniels
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '5:51.0'
+    - A. Sabonis enters the game for D. Davis
+    - ''
+    - 52-56
+    - ''
+    - ''
+  - - '5:46.0'
+    - B. Wells makes 2-pt shot at rim (assist by R. Wallace)
+    - "+2"
+    - 54-56
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - Personal foul by R. Wallace
+  - - '5:28.0'
+    - ''
+    - ''
+    - 54-56
+    - ''
+    - A. Johnson enters the game for T. Porter
+  - - '5:28.0'
+    - ''
+    - ''
+    - 54-57
+    - "+1"
+    - T. Duncan makes free throw 1 of 2
+  - - '5:28.0'
+    - ''
+    - ''
+    - 54-58
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '5:16.0'
+    - B. Wells makes 2-pt shot from 1 ft (assist by A. Sabonis)
+    - "+2"
+    - 56-58
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 56-58
+    - ''
+    - T. Duncan misses 2-pt shot from 13 ft
+  - - '4:56.0'
+    - Defensive rebound by A. Sabonis
+    - ''
+    - 56-58
+    - ''
+    - ''
+  - - '4:51.0'
+    - B. Wells makes 2-pt shot at rim (assist by S. Pippen)
+    - "+2"
+    - 58-58
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 58-60
+    - "+2"
+    - A. Daniels makes 2-pt shot from 18 ft (assist by A. Johnson)
+  - - '4:09.0'
+    - D. Stoudamire misses 3-pt shot from 25 ft
+    - ''
+    - 58-60
+    - ''
+    - ''
+  - - '4:06.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Defensive rebound by S. Walker
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-60
+    - ''
+    - Personal foul by D. Stoudamire
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-61
+    - "+1"
+    - A. Daniels makes free throw 1 of 2
+  - - '3:59.0'
+    - ''
+    - ''
+    - 58-62
+    - "+1"
+    - A. Daniels makes free throw 2 of 2
+  - - '3:44.0'
+    - S. Pippen makes 2-pt shot at rim (assist by D. Stoudamire)
+    - "+2"
+    - 60-62
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 60-62
+    - ''
+    - T. Duncan misses 2-pt shot from 16 ft
+  - - '3:20.0'
+    - ''
+    - ''
+    - 60-62
+    - ''
+    - Offensive rebound by A. Daniels
+  - - '3:17.0'
+    - ''
+    - ''
+    - 60-62
+    - ''
+    - Shooting foul by A. Sabonis
+  - - '3:17.0'
+    - ''
+    - ''
+    - 60-62
+    - ''
+    - T. Duncan misses free throw 1 of 2
+  - - '3:17.0'
+    - ''
+    - ''
+    - 60-62
+    - ''
+    - Offensive rebound by Team
+  - - '3:17.0'
+    - ''
+    - ''
+    - 60-63
+    - "+1"
+    - T. Duncan makes free throw 2 of 2
+  - - '3:05.0'
+    - D. Stoudamire makes 2-pt shot from 1 ft
+    - "+2"
+    - 62-63
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 62-65
+    - "+2"
+    - A. Johnson makes 2-pt shot from 14 ft
+  - - '2:14.0'
+    - B. Wells makes 2-pt shot from 11 ft (assist by S. Pippen)
+    - "+2"
+    - 64-65
+    - ''
+    - ''
+  - - '1:59.0'
+    - ''
+    - ''
+    - 64-65
+    - ''
+    - D. Anderson misses 2-pt shot from 18 ft
+  - - '1:57.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 64-65
+    - ''
+    - ''
+  - - '1:49.0'
+    - A. Sabonis makes 2-pt shot at rim (assist by S. Pippen)
+    - "+2"
+    - 66-65
+    - ''
+    - ''
+  - - '1:49.0'
+    - Shooting foul by A. Daniels
+    - ''
+    - 66-65
+    - ''
+    - ''
+  - - '1:49.0'
+    - Portland full timeout
+    - ''
+    - 66-65
+    - ''
+    - ''
+  - - '1:49.0'
+    - ''
+    - ''
+    - 66-65
+    - ''
+    - D. Ferry enters the game for T. Duncan
+  - - '1:49.0'
+    - ''
+    - ''
+    - 66-65
+    - ''
+    - D. Robinson enters the game for A. Daniels
+  - - '1:49.0'
+    - S. Kemp enters the game for R. Wallace
+    - ''
+    - 66-65
+    - ''
+    - ''
+  - - '1:49.0'
+    - A. Sabonis makes free throw 1 of 1
+    - "+1"
+    - 67-65
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 67-65
+    - ''
+    - D. Anderson misses 2-pt shot from 15 ft
+  - - '1:30.0'
+    - Defensive rebound by Team
+    - ''
+    - 67-65
+    - ''
+    - ''
+  - - '1:30.0'
+    - Loose ball foul by D. Ferry
+    - ''
+    - 67-65
+    - ''
+    - ''
+  - - '1:30.0'
+    - B. Wells makes free throw 1 of 2
+    - "+1"
+    - 68-65
+    - ''
+    - ''
+  - - '1:30.0'
+    - S. Smith enters the game for S. Pippen
+    - ''
+    - 68-65
+    - ''
+    - ''
+  - - '1:30.0'
+    - B. Wells makes free throw 2 of 2
+    - "+1"
+    - 69-65
+    - ''
+    - ''
+  - - '1:17.0'
+    - ''
+    - ''
+    - 69-65
+    - ''
+    - Turnover by D. Anderson (bad pass)
+  - - '1:02.0'
+    - D. Stoudamire misses 2-pt shot from 4 ft
+    - ''
+    - 69-65
+    - ''
+    - ''
+  - - '1:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 69-65
+    - ''
+    - ''
+  - - '0:53.9'
+    - A. Sabonis misses 2-pt shot from 4 ft
+    - ''
+    - 69-65
+    - ''
+    - ''
+  - - '0:52.4'
+    - Offensive rebound by A. Sabonis
+    - ''
+    - 69-65
+    - ''
+    - ''
+  - - '0:52.4'
+    - Shooting foul by D. Robinson
+    - ''
+    - 69-65
+    - ''
+    - ''
+  - - '0:52.4'
+    - A. Sabonis makes free throw 1 of 2
+    - "+1"
+    - 70-65
+    - ''
+    - ''
+  - - '0:52.4'
+    - A. Sabonis makes free throw 2 of 2
+    - "+1"
+    - 71-65
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 71-65
+    - ''
+    - D. Anderson misses 2-pt shot from 17 ft
+  - - '0:35.8'
+    - Defensive rebound by A. Sabonis
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '0:20.9'
+    - S. Kemp misses 2-pt shot from 18 ft
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '0:17.9'
+    - ''
+    - ''
+    - 71-65
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '0:00.0'
+    - ''
+    - ''
+    - 71-65
+    - ''
+    - S. Walker misses 2-pt shot from 17 ft
+  - - '0:00.0'
+    - Defensive rebound by A. Sabonis
+    - ''
+    - 71-65
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 71-67
+    - "+2"
+    - D. Robinson makes 2-pt shot from 14 ft (assist by S. Walker)
+  - - '11:22.0'
+    - S. Kemp makes 2-pt shot from 20 ft (assist by B. Wells)
+    - "+2"
+    - 73-67
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 73-67
+    - ''
+    - D. Robinson misses 2-pt shot from 16 ft
+  - - '11:03.0'
+    - Defensive rebound by S. Kemp
+    - ''
+    - 73-67
+    - ''
+    - ''
+  - - '10:54.0'
+    - Shooting foul by D. Ferry
+    - ''
+    - 73-67
+    - ''
+    - ''
+  - - '10:54.0'
+    - S. Kemp makes free throw 1 of 2
+    - "+1"
+    - 74-67
+    - ''
+    - ''
+  - - '10:54.0'
+    - S. Kemp makes free throw 2 of 2
+    - "+1"
+    - 75-67
+    - ''
+    - ''
+  - - '10:42.0'
+    - ''
+    - ''
+    - 75-67
+    - ''
+    - T. Duncan enters the game for S. Walker
+  - - '10:36.0'
+    - ''
+    - ''
+    - 75-69
+    - "+2"
+    - D. Robinson makes 2-pt shot from 16 ft
+  - - '10:20.0'
+    - Turnover by D. Stoudamire (bad pass; steal by A. Johnson)
+    - ''
+    - 75-69
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 75-71
+    - "+2"
+    - A. Johnson makes 2-pt shot from 1 ft (assist by D. Robinson)
+  - - '9:56.0'
+    - B. Wells misses 2-pt shot from 7 ft
+    - ''
+    - 75-71
+    - ''
+    - ''
+  - - '9:54.0'
+    - ''
+    - ''
+    - 75-71
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '9:49.0'
+    - S. Pippen enters the game for B. Wells
+    - ''
+    - 75-71
+    - ''
+    - ''
+  - - '9:42.0'
+    - ''
+    - ''
+    - 75-71
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by D. Stoudamire)
+  - - '9:38.0'
+    - S. Pippen makes 2-pt shot from 2 ft (assist by S. Smith)
+    - "+2"
+    - 77-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - Shooting foul by T. Duncan
+    - ''
+    - 77-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - R. Wallace enters the game for S. Kemp
+    - ''
+    - 77-71
+    - ''
+    - ''
+  - - '9:38.0'
+    - S. Pippen makes free throw 1 of 1
+    - "+1"
+    - 78-71
+    - ''
+    - ''
+  - - '9:27.0'
+    - ''
+    - ''
+    - 78-73
+    - "+2"
+    - D. Anderson makes 2-pt shot from 1 ft
+  - - '9:00.0'
+    - S. Smith makes 3-pt shot from 23 ft (assist by S. Pippen)
+    - "+3"
+    - 81-73
+    - ''
+    - ''
+  - - '8:37.0'
+    - ''
+    - ''
+    - 81-73
+    - ''
+    - D. Ferry misses 2-pt shot from 18 ft
+  - - '8:35.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '8:17.0'
+    - S. Smith misses 3-pt shot from 23 ft
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '8:13.0'
+    - ''
+    - ''
+    - 81-73
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '7:57.0'
+    - ''
+    - ''
+    - 81-73
+    - ''
+    - A. Johnson misses 2-pt shot from 15 ft
+  - - '7:53.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:39.0'
+    - S. Smith misses 2-pt shot from 2 ft (block by D. Anderson)
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:39.0'
+    - Offensive rebound by Team
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:39.0'
+    - Official timeout
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:39.0'
+    - D. Schrempf enters the game for D. Stoudamire
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:39.0'
+    - ''
+    - ''
+    - 81-73
+    - ''
+    - T. Porter enters the game for A. Johnson
+  - - '7:36.0'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:35.0'
+    - Offensive rebound by A. Sabonis
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:24.0'
+    - Turnover by A. Sabonis (traveling)
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:24.0'
+    - Technical foul by R. Wallace
+    - ''
+    - 81-73
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 81-74
+    - "+1"
+    - D. Anderson makes free throw technical
+  - - '7:04.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - T. Duncan misses 2-pt shot from 13 ft
+  - - '7:02.0'
+    - Defensive rebound by S. Pippen
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '6:48.0'
+    - S. Pippen misses 2-pt shot from 13 ft
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '6:27.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - T. Porter misses 3-pt shot from 25 ft
+  - - '6:25.0'
+    - Defensive rebound by R. Wallace
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '6:09.0'
+    - R. Wallace misses 3-pt shot from 25 ft
+    - ''
+    - 81-74
+    - ''
+    - ''
+  - - '6:06.0'
+    - ''
+    - ''
+    - 81-74
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '6:01.0'
+    - ''
+    - ''
+    - 81-76
+    - "+2"
+    - T. Porter makes 2-pt shot from 1 ft (assist by D. Anderson)
+  - - '5:43.0'
+    - Offensive foul by S. Smith
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '5:43.0'
+    - Turnover by S. Smith (foul)
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '5:43.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - San Antonio full timeout
+  - - '5:28.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - T. Duncan misses 2-pt shot from 7 ft (block by R. Wallace)
+  - - '5:26.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Offensive rebound by D. Anderson
+  - - '5:24.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by A. Sabonis)
+  - - '5:05.0'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 81-76
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 81-76
+    - ''
+    - Defensive rebound by D. Robinson
+  - - '4:49.0'
+    - ''
+    - ''
+    - 81-79
+    - "+3"
+    - T. Porter makes 3-pt shot from 25 ft (assist by T. Duncan)
+  - - '4:25.0'
+    - R. Wallace misses 3-pt shot from 25 ft
+    - ''
+    - 81-79
+    - ''
+    - ''
+  - - '4:23.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - Defensive rebound by T. Porter
+  - - '4:18.0'
+    - ''
+    - ''
+    - 81-79
+    - ''
+    - T. Porter misses 2-pt shot at rim
+  - - '4:16.0'
+    - ''
+    - ''
+    - 81-81
+    - "+2"
+    - T. Duncan makes 2-pt shot from 1 ft
+  - - '4:16.0'
+    - ''
+    - ''
+    - 81-81
+    - ''
+    - Offensive rebound by T. Duncan
+  - - '4:14.0'
+    - Portland full timeout
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '4:14.0'
+    - D. Stoudamire enters the game for D. Schrempf
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '4:14.0'
+    - B. Wells enters the game for S. Smith
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '4:14.0'
+    - D. Davis enters the game for A. Sabonis
+    - ''
+    - 81-81
+    - ''
+    - ''
+  - - '3:57.0'
+    - R. Wallace makes 2-pt shot from 4 ft
+    - "+2"
+    - 83-81
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - T. Duncan misses 2-pt shot from 6 ft
+  - - '3:30.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - Offensive rebound by D. Ferry
+  - - '3:22.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - D. Anderson misses 2-pt shot from 18 ft
+  - - '3:20.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - Offensive rebound by D. Ferry
+  - - '3:17.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - D. Anderson misses 2-pt shot from 1 ft
+  - - '3:15.0'
+    - Defensive rebound by B. Wells
+    - ''
+    - 83-81
+    - ''
+    - ''
+  - - '3:08.0'
+    - B. Wells misses 2-pt shot from 1 ft
+    - ''
+    - 83-81
+    - ''
+    - ''
+  - - '3:07.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - Defensive rebound by D. Ferry
+  - - '2:48.0'
+    - ''
+    - ''
+    - 83-81
+    - ''
+    - Turnover by T. Duncan (bad pass)
+  - - '2:26.0'
+    - S. Pippen makes 3-pt shot from 26 ft (assist by D. Davis)
+    - "+3"
+    - 86-81
+    - ''
+    - ''
+  - - '2:03.0'
+    - ''
+    - ''
+    - 86-81
+    - ''
+    - D. Ferry misses 3-pt shot from 24 ft
+  - - '2:01.0'
+    - Defensive rebound by D. Stoudamire
+    - ''
+    - 86-81
+    - ''
+    - ''
+  - - '1:41.0'
+    - R. Wallace makes 2-pt shot from 17 ft (assist by B. Wells)
+    - "+2"
+    - 88-81
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 88-81
+    - ''
+    - San Antonio full timeout
+  - - '1:24.0'
+    - ''
+    - ''
+    - 88-83
+    - "+2"
+    - D. Robinson makes 2-pt shot from 15 ft (assist by D. Anderson)
+  - - '1:01.0'
+    - S. Pippen makes 3-pt shot from 29 ft
+    - "+3"
+    - 91-83
+    - ''
+    - ''
+  - - '0:49.0'
+    - ''
+    - ''
+    - 91-85
+    - "+2"
+    - T. Duncan makes 2-pt shot from 6 ft
+  - - '0:27.9'
+    - R. Wallace misses 2-pt shot from 15 ft
+    - ''
+    - 91-85
+    - ''
+    - ''
+  - - '0:25.9'
+    - ''
+    - ''
+    - 91-85
+    - ''
+    - Defensive rebound by T. Duncan
+  - - '0:22.9'
+    - ''
+    - ''
+    - 91-85
+    - ''
+    - Turnover by D. Anderson (bad pass; steal by S. Pippen)
+  - - '0:17.6'
+    - Personal foul by T. Porter
+    - ''
+    - 91-85
+    - ''
+    - ''
+  - - '0:15.9'
+    - Personal foul by D. Anderson
+    - ''
+    - 91-85
+    - ''
+    - ''
+  - - '0:15.9'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 92-85
+    - ''
+    - ''
+  - - '0:15.9'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 93-85
+    - ''
+    - ''
+  - - '0:12.8'
+    - ''
+    - ''
+    - 93-85
+    - ''
+    - Personal foul by D. Stoudamire
+  - - '0:06.9'
+    - ''
+    - ''
+    - 93-87
+    - "+2"
+    - T. Porter makes 2-pt shot from 1 ft
+  - - '0:05.6'
+    - Personal foul by T. Porter
+    - ''
+    - 93-87
+    - ''
+    - ''
+  - - '0:05.6'
+    - D. Stoudamire makes free throw 1 of 2
+    - "+1"
+    - 94-87
+    - ''
+    - ''
+  - - '0:05.6'
+    - D. Stoudamire makes free throw 2 of 2
+    - "+1"
+    - 95-87
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

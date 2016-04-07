@@ -1,0 +1,2826 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: C. Mihm vs. A. McDyess (N. Van Exel gains possession)'
+  - - '11:42.0'
+    - Offensive foul by R. LaFrentz
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:42.0'
+    - Turnover by R. LaFrentz (foul)
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:28.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - W. Person misses 2-pt shot from 6 ft
+  - - '11:26.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:10.0'
+    - A. McDyess makes 2-pt shot from 10 ft (assist by J. Posey)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:08.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:51.0'
+    - ''
+    - ''
+    - 2-0
+    - ''
+    - M. Harpring misses 2-pt shot from 15 ft
+  - - '10:49.0'
+    - Defensive rebound by J. Posey
+    - ''
+    - 2-0
+    - ''
+    - ''
+  - - '10:36.0'
+    - A. McDyess makes 2-pt shot from 15 ft (assist by J. Posey)
+    - "+2"
+    - 4-0
+    - ''
+    - ''
+  - - '10:14.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - W. Person misses 2-pt shot from 13 ft
+  - - '10:12.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:08.0'
+    - R. LaFrentz misses 2-pt shot from 3 ft
+    - ''
+    - 4-0
+    - ''
+    - ''
+  - - '10:05.0'
+    - ''
+    - ''
+    - 4-0
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '10:00.0'
+    - ''
+    - ''
+    - 4-2
+    - "+2"
+    - A. Miller makes 2-pt shot from 1 ft
+  - - '9:41.0'
+    - Turnover by A. McDyess (lost ball; steal by C. Mihm)
+    - ''
+    - 4-2
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 4-2
+    - ''
+    - Shooting foul by R. LaFrentz
+  - - '9:36.0'
+    - ''
+    - ''
+    - 4-3
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '9:36.0'
+    - K. Willis enters the game for R. LaFrentz
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 4-4
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '9:23.0'
+    - A. McDyess misses 2-pt shot from 4 ft
+    - ''
+    - 4-4
+    - ''
+    - ''
+  - - '9:19.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - M. Harpring misses 2-pt shot from 15 ft
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Offensive rebound by C. Mihm
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Shooting foul by V. Lenard
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-5
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '9:14.0'
+    - ''
+    - ''
+    - 4-6
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '9:01.0'
+    - N. Van Exel makes 2-pt shot from 5 ft
+    - "+2"
+    - 6-6
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - C. Weatherspoon misses 2-pt shot from 15 ft
+  - - '8:45.0'
+    - Defensive rebound by K. Willis
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '8:32.0'
+    - A. McDyess misses 2-pt shot from 14 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '8:30.0'
+    - ''
+    - ''
+    - 6-6
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '8:25.0'
+    - ''
+    - ''
+    - 6-8
+    - "+2"
+    - W. Person makes 2-pt shot from 8 ft (assist by A. Miller)
+  - - '8:06.0'
+    - K. Willis makes 2-pt shot from 1 ft (assist by N. Van Exel)
+    - "+2"
+    - 8-8
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 8-10
+    - "+2"
+    - M. Harpring makes 2-pt shot from 1 ft (assist by A. Miller)
+  - - '7:38.0'
+    - K. Willis misses 2-pt shot from 15 ft
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '7:36.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 8-10
+    - ''
+    - ''
+  - - '7:30.0'
+    - N. Van Exel makes 2-pt shot from 18 ft (assist by A. McDyess)
+    - "+2"
+    - 10-10
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 10-12
+    - "+2"
+    - A. Miller makes 2-pt shot from 3 ft (assist by M. Harpring)
+  - - '7:00.0'
+    - Shooting foul by A. Miller
+    - ''
+    - 10-12
+    - ''
+    - ''
+  - - '7:00.0'
+    - N. Van Exel makes free throw 1 of 2
+    - "+1"
+    - 11-12
+    - ''
+    - ''
+  - - '7:00.0'
+    - N. Van Exel makes free throw 2 of 2
+    - "+1"
+    - 12-12
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - W. Person misses 2-pt shot from 7 ft
+  - - '6:43.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Offensive rebound by C. Mihm
+  - - '6:40.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Shooting foul by K. Willis
+  - - '6:40.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - C. Weatherspoon misses free throw 1 of 2
+  - - '6:40.0'
+    - ''
+    - ''
+    - 12-12
+    - ''
+    - Offensive rebound by Team
+  - - '6:40.0'
+    - ''
+    - ''
+    - 12-13
+    - "+1"
+    - C. Weatherspoon makes free throw 2 of 2
+  - - '6:27.0'
+    - V. Lenard makes 2-pt shot from 22 ft (assist by N. Van Exel)
+    - "+2"
+    - 14-13
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 14-15
+    - "+2"
+    - M. Harpring makes 2-pt shot from 2 ft (assist by A. Miller)
+  - - '6:02.0'
+    - V. Lenard misses 2-pt shot from 15 ft
+    - ''
+    - 14-15
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '5:50.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - C. Mihm misses 2-pt shot from 4 ft
+  - - '5:47.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - C. Mihm misses 2-pt shot from 2 ft
+  - - '5:47.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Offensive rebound by C. Mihm
+  - - '5:46.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Offensive rebound by Team
+  - - '5:46.0'
+    - ''
+    - ''
+    - 14-15
+    - ''
+    - Cleveland full timeout
+  - - '5:35.0'
+    - ''
+    - ''
+    - 14-17
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 2 ft (assist by A. Miller)
+  - - '5:19.0'
+    - A. McDyess misses 2-pt shot from 14 ft
+    - ''
+    - 14-17
+    - ''
+    - ''
+  - - '5:17.0'
+    - ''
+    - ''
+    - 14-17
+    - ''
+    - Defensive rebound by W. Person
+  - - '5:05.0'
+    - ''
+    - ''
+    - 14-19
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 9 ft
+  - - '4:43.0'
+    - Turnover by J. Posey (traveling)
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '4:43.0'
+    - G. McCloud enters the game for J. Posey
+    - ''
+    - 14-19
+    - ''
+    - ''
+  - - '4:26.0'
+    - ''
+    - ''
+    - 14-21
+    - "+2"
+    - A. Miller makes 2-pt shot from 7 ft (assist by C. Weatherspoon)
+  - - '4:16.0'
+    - N. Van Exel makes 2-pt shot from 6 ft
+    - "+2"
+    - 16-21
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - A. Miller misses 2-pt shot from 5 ft
+  - - '4:02.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - A. Miller misses 2-pt shot from 3 ft
+  - - '4:02.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Offensive rebound by A. Miller
+  - - '4:00.0'
+    - Defensive rebound by G. McCloud
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '3:49.0'
+    - N. Van Exel misses 3-pt shot from 24 ft
+    - ''
+    - 16-21
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - Defensive rebound by M. Harpring
+  - - '3:41.0'
+    - ''
+    - ''
+    - 16-21
+    - ''
+    - W. Person misses 3-pt shot from 24 ft
+  - - '3:39.0'
+    - ''
+    - ''
+    - 16-23
+    - "+2"
+    - M. Harpring makes 2-pt shot from 1 ft
+  - - '3:39.0'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - Offensive rebound by M. Harpring
+  - - '3:26.0'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - Violation by Team (illegal defense)
+  - - '3:26.0'
+    - ''
+    - ''
+    - 16-23
+    - ''
+    - B. Coles enters the game for A. Miller
+  - - '3:26.0'
+    - R. Bowen enters the game for V. Lenard
+    - ''
+    - 16-23
+    - ''
+    - ''
+  - - '3:19.0'
+    - A. McDyess makes 2-pt shot at rim (assist by N. Van Exel)
+    - "+2"
+    - 18-23
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - T. Langdon enters the game for W. Person
+  - - '2:59.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - C. Weatherspoon misses 2-pt shot from 4 ft (block by A. McDyess)
+  - - '2:57.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Offensive rebound by Team
+  - - '2:57.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Cleveland full timeout
+  - - '2:50.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Offensive foul by C. Mihm
+  - - '2:50.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Turnover by C. Mihm (foul)
+  - - '2:28.0'
+    - R. Bowen misses 2-pt shot from 17 ft
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:26.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '2:22.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Turnover by M. Harpring (lost ball)
+  - - '2:22.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - C. Gatling enters the game for C. Mihm
+  - - '2:09.0'
+    - G. McCloud misses 2-pt shot from 13 ft
+    - ''
+    - 18-23
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 18-23
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '2:01.0'
+    - ''
+    - ''
+    - 18-25
+    - "+2"
+    - M. Harpring makes 2-pt shot at rim (assist by B. Coles)
+  - - '1:46.0'
+    - Turnover by G. McCloud (lost ball; steal by B. Coles)
+    - ''
+    - 18-25
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 18-27
+    - "+2"
+    - M. Harpring makes 2-pt shot from 1 ft (assist by B. Coles)
+  - - '1:41.0'
+    - ''
+    - ''
+    - 18-27
+    - ''
+    - Shooting foul by R. Bowen
+  - - '1:41.0'
+    - R. Pack enters the game for K. Willis
+    - ''
+    - 18-27
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 18-27
+    - ''
+    - A. Miller enters the game for C. Weatherspoon
+  - - '1:41.0'
+    - ''
+    - ''
+    - 18-28
+    - "+1"
+    - M. Harpring makes free throw 1 of 1
+  - - '1:20.0'
+    - A. McDyess makes 2-pt shot from 2 ft (assist by N. Van Exel)
+    - "+2"
+    - 20-28
+    - ''
+    - ''
+  - - '1:05.0'
+    - ''
+    - ''
+    - 20-31
+    - "+3"
+    - T. Langdon makes 3-pt shot from 25 ft (assist by M. Harpring)
+  - - '0:53.0'
+    - G. McCloud makes 2-pt shot from 2 ft (assist by R. Pack)
+    - "+2"
+    - 22-31
+    - ''
+    - ''
+  - - '0:53.0'
+    - Shooting foul by M. Harpring
+    - ''
+    - 22-31
+    - ''
+    - ''
+  - - '0:53.0'
+    - ''
+    - ''
+    - 22-31
+    - ''
+    - L. Murray enters the game for M. Harpring
+  - - '0:53.0'
+    - G. McCloud makes free throw 1 of 1
+    - "+1"
+    - 23-31
+    - ''
+    - ''
+  - - '0:40.6'
+    - ''
+    - ''
+    - 23-33
+    - "+2"
+    - T. Langdon makes 2-pt shot from 5 ft (assist by B. Coles)
+  - - '0:29.8'
+    - A. McDyess makes 2-pt shot from 4 ft
+    - "+2"
+    - 25-33
+    - ''
+    - ''
+  - - '0:08.8'
+    - ''
+    - ''
+    - 25-36
+    - "+3"
+    - C. Gatling makes 3-pt shot from 23 ft (assist by A. Miller)
+  - - '0:00.9'
+    - G. McCloud misses 3-pt shot from 23 ft
+    - ''
+    - 25-36
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by R. Pack
+    - ''
+    - 25-36
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:38.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - L. Murray misses 2-pt shot from 5 ft
+  - - '11:36.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - Offensive rebound by C. Gatling
+  - - '11:33.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - C. Gatling misses 2-pt shot from 3 ft
+  - - '11:28.0'
+    - ''
+    - ''
+    - 25-36
+    - ''
+    - Offensive rebound by A. Miller
+  - - '11:19.0'
+    - ''
+    - ''
+    - 25-39
+    - "+3"
+    - T. Langdon makes 3-pt shot from 25 ft (assist by A. Miller)
+  - - '11:12.0'
+    - Turnover by N. Van Exel (bad pass; steal by C. Gatling)
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 25-39
+    - ''
+    - A. Miller misses 2-pt shot from 2 ft
+  - - '11:02.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 25-39
+    - ''
+    - ''
+  - - '10:58.0'
+    - N. Van Exel makes 2-pt shot from 13 ft (assist by R. Pack)
+    - "+2"
+    - 27-39
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 27-41
+    - "+2"
+    - C. Gatling makes 2-pt shot from 5 ft (assist by A. Miller)
+  - - '10:31.0'
+    - R. Pack misses 2-pt shot from 12 ft
+    - ''
+    - 27-41
+    - ''
+    - ''
+  - - '10:29.0'
+    - ''
+    - ''
+    - 27-41
+    - ''
+    - Defensive rebound by Team
+  - - '10:29.0'
+    - V. Lenard enters the game for N. Van Exel
+    - ''
+    - 27-41
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 27-43
+    - "+2"
+    - C. Gatling makes 2-pt shot from 3 ft (assist by T. Langdon)
+  - - '9:52.0'
+    - R. LaFrentz makes 2-pt shot from 1 ft (assist by R. Pack)
+    - "+2"
+    - 29-43
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 29-45
+    - "+2"
+    - C. Gatling makes 2-pt shot from 18 ft (assist by T. Langdon)
+  - - '9:15.0'
+    - R. Bowen misses 2-pt shot from 2 ft (block by T. Langdon)
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '9:13.0'
+    - Offensive rebound by R. Bowen
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '9:13.0'
+    - R. Bowen misses 2-pt shot from 3 ft
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '9:10.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - Defensive rebound by C. Gatling
+  - - '9:09.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - Turnover by C. Gatling (lost ball; steal by R. Bowen)
+  - - '9:06.0'
+    - T. Davis enters the game for R. LaFrentz
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '9:06.0'
+    - Personal foul by B. Coles
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '8:52.0'
+    - V. Lenard misses 2-pt shot from 3 ft
+    - ''
+    - 29-45
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - Defensive rebound by C. Gatling
+  - - '8:48.0'
+    - ''
+    - ''
+    - 29-45
+    - ''
+    - Turnover by A. Miller (lost ball; steal by R. Pack)
+  - - '8:42.0'
+    - G. McCloud makes 2-pt shot from 4 ft
+    - "+2"
+    - 31-45
+    - ''
+    - ''
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - Personal foul by T. Davis
+  - - '8:23.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - Official timeout
+  - - '8:00.0'
+    - ''
+    - ''
+    - 31-45
+    - ''
+    - C. Gatling misses 2-pt shot from 3 ft
+  - - '7:58.0'
+    - Defensive rebound by V. Lenard
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '7:41.0'
+    - Turnover by R. Pack (lost ball; steal by B. Coles)
+    - ''
+    - 31-45
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 31-47
+    - "+2"
+    - L. Murray makes 2-pt shot from 1 ft (assist by B. Coles)
+  - - '7:16.0'
+    - G. McCloud makes 2-pt shot from 3 ft (assist by R. Pack)
+    - "+2"
+    - 33-47
+    - ''
+    - ''
+  - - '6:58.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - C. Gatling misses 2-pt shot from 3 ft
+  - - '6:54.0'
+    - Defensive rebound by G. McCloud
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '6:51.0'
+    - Turnover by R. Pack (no)
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '6:51.0'
+    - N. Van Exel enters the game for R. Pack
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '6:50.0'
+    - A. McDyess enters the game for R. Bowen
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - L. Murray misses 2-pt shot from 3 ft
+  - - '6:35.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - L. Murray misses 2-pt shot from 1 ft
+  - - '6:35.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Offensive rebound by L. Murray
+  - - '6:35.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Offensive rebound by Team
+  - - '6:35.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - C. Weatherspoon enters the game for B. Coles
+  - - '6:31.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Shooting foul by T. Davis
+  - - '6:31.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - C. Mihm enters the game for C. Gatling
+  - - '6:31.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - C. Weatherspoon misses free throw 1 of 2
+  - - '6:31.0'
+    - ''
+    - ''
+    - 33-47
+    - ''
+    - Offensive rebound by Team
+  - - '6:31.0'
+    - R. LaFrentz enters the game for T. Davis
+    - ''
+    - 33-47
+    - ''
+    - ''
+  - - '6:31.0'
+    - ''
+    - ''
+    - 33-48
+    - "+1"
+    - C. Weatherspoon makes free throw 2 of 2
+  - - '6:21.0'
+    - G. McCloud misses 3-pt shot from 26 ft
+    - ''
+    - 33-48
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 33-48
+    - ''
+    - Defensive rebound by L. Murray
+  - - '6:09.0'
+    - ''
+    - ''
+    - 33-48
+    - ''
+    - L. Murray misses 2-pt shot from 3 ft (block by R. LaFrentz)
+  - - '6:06.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 33-48
+    - ''
+    - ''
+  - - '5:58.0'
+    - G. McCloud makes 2-pt shot from 1 ft (assist by R. LaFrentz)
+    - "+2"
+    - 35-48
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - T. Langdon misses 2-pt shot from 16 ft
+  - - '5:37.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Offensive rebound by C. Weatherspoon
+  - - '5:34.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - T. Langdon misses 2-pt shot from 3 ft (block by R. LaFrentz)
+  - - '5:30.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '5:26.0'
+    - N. Van Exel misses 2-pt shot from 19 ft
+    - ''
+    - 35-48
+    - ''
+    - ''
+  - - '5:24.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '5:19.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - Cleveland full timeout
+  - - '5:19.0'
+    - ''
+    - ''
+    - 35-48
+    - ''
+    - W. Person enters the game for T. Langdon
+  - - '5:10.0'
+    - ''
+    - ''
+    - 35-50
+    - "+2"
+    - A. Miller makes 2-pt shot from 6 ft
+  - - '4:56.0'
+    - Personal foul by C. Mihm
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:50.0'
+    - N. Van Exel misses 2-pt shot from 2 ft
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 35-50
+    - ''
+    - Defensive rebound by W. Person
+  - - '4:36.0'
+    - ''
+    - ''
+    - 35-50
+    - ''
+    - Turnover by A. Miller (bad pass; steal by R. LaFrentz)
+  - - '4:31.0'
+    - N. Van Exel misses 2-pt shot from 3 ft
+    - ''
+    - 35-50
+    - ''
+    - ''
+  - - '4:26.0'
+    - A. McDyess makes 2-pt shot from 1 ft
+    - "+2"
+    - 37-50
+    - ''
+    - ''
+  - - '4:26.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 37-50
+    - ''
+    - ''
+  - - '4:11.0'
+    - ''
+    - ''
+    - 37-52
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 15 ft (assist by W. Person)
+  - - '3:58.0'
+    - Shooting foul by W. Person
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '3:58.0'
+    - ''
+    - ''
+    - 37-52
+    - ''
+    - M. Harpring enters the game for L. Murray
+  - - '3:58.0'
+    - G. McCloud misses free throw 1 of 2
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '3:58.0'
+    - Offensive rebound by Team
+    - ''
+    - 37-52
+    - ''
+    - ''
+  - - '3:58.0'
+    - G. McCloud makes free throw 2 of 2
+    - "+1"
+    - 38-52
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 38-52
+    - ''
+    - Shooting foul by R. LaFrentz
+  - - '3:43.0'
+    - ''
+    - ''
+    - 38-53
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '3:43.0'
+    - K. Willis enters the game for R. LaFrentz
+    - ''
+    - 38-53
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 38-54
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '3:27.0'
+    - A. McDyess misses 2-pt shot from 1 ft
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '3:26.0'
+    - Offensive rebound by Team
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '3:20.0'
+    - K. Willis misses 2-pt shot from 16 ft
+    - ''
+    - 38-54
+    - ''
+    - ''
+  - - '3:19.0'
+    - ''
+    - ''
+    - 38-54
+    - ''
+    - Defensive rebound by W. Person
+  - - '3:13.0'
+    - ''
+    - ''
+    - 38-56
+    - "+2"
+    - A. Miller makes 2-pt shot from 14 ft (assist by W. Person)
+  - - '3:10.0'
+    - Shooting foul by A. Miller
+    - ''
+    - 38-56
+    - ''
+    - ''
+  - - '3:10.0'
+    - A. McDyess makes free throw 1 of 2
+    - "+1"
+    - 39-56
+    - ''
+    - ''
+  - - '3:10.0'
+    - A. McDyess makes free throw 2 of 2
+    - "+1"
+    - 40-56
+    - ''
+    - ''
+  - - '2:54.0'
+    - ''
+    - ''
+    - 40-56
+    - ''
+    - Shooting foul by K. Willis
+  - - '2:54.0'
+    - ''
+    - ''
+    - 40-56
+    - ''
+    - Cleveland full timeout
+  - - '2:54.0'
+    - ''
+    - ''
+    - 40-57
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '2:54.0'
+    - ''
+    - ''
+    - 40-58
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '2:41.0'
+    - A. McDyess misses 2-pt shot from 18 ft
+    - ''
+    - 40-58
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-58
+    - ''
+    - Defensive rebound by M. Harpring
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-58
+    - ''
+    - Personal foul by K. Willis
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-58
+    - ''
+    - C. Mihm misses free throw 1 of 2
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-58
+    - ''
+    - Offensive rebound by Team
+  - - '2:41.0'
+    - T. Davis enters the game for K. Willis
+    - ''
+    - 40-58
+    - ''
+    - ''
+  - - '2:41.0'
+    - ''
+    - ''
+    - 40-59
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '2:26.0'
+    - A. McDyess misses 2-pt shot from 2 ft
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - T. Davis misses 2-pt shot at rim
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by T. Davis
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - Shooting foul by C. Mihm
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 40-59
+    - ''
+    - C. Gatling enters the game for C. Mihm
+  - - '2:21.0'
+    - A. McDyess misses free throw 1 of 2
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 40-59
+    - ''
+    - ''
+  - - '2:21.0'
+    - A. McDyess makes free throw 2 of 2
+    - "+1"
+    - 41-59
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 41-59
+    - ''
+    - Personal foul by T. Davis
+  - - '2:05.0'
+    - ''
+    - ''
+    - 41-60
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '2:05.0'
+    - ''
+    - ''
+    - 41-61
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '1:53.0'
+    - Offensive foul by G. McCloud
+    - ''
+    - 41-61
+    - ''
+    - ''
+  - - '1:53.0'
+    - Turnover by G. McCloud (foul)
+    - ''
+    - 41-61
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 41-63
+    - "+2"
+    - C. Gatling makes 2-pt shot from 17 ft (assist by W. Person)
+  - - '1:25.0'
+    - N. Van Exel makes 2-pt shot from 7 ft
+    - "+2"
+    - 43-63
+    - ''
+    - ''
+  - - '1:07.0'
+    - ''
+    - ''
+    - 43-65
+    - "+2"
+    - C. Gatling makes 2-pt shot from 9 ft
+  - - '0:50.1'
+    - T. Davis makes 2-pt shot from 3 ft (assist by N. Van Exel)
+    - "+2"
+    - 45-65
+    - ''
+    - ''
+  - - '0:50.1'
+    - Shooting foul by M. Harpring
+    - ''
+    - 45-65
+    - ''
+    - ''
+  - - '0:50.1'
+    - ''
+    - ''
+    - 45-65
+    - ''
+    - B. Coles enters the game for A. Miller
+  - - '0:50.1'
+    - T. Davis makes free throw 1 of 1
+    - "+1"
+    - 46-65
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 46-65
+    - ''
+    - C. Gatling misses 2-pt shot from 16 ft
+  - - '0:34.9'
+    - Defensive rebound by V. Lenard
+    - ''
+    - 46-65
+    - ''
+    - ''
+  - - '0:17.9'
+    - N. Van Exel misses 2-pt shot from 17 ft
+    - ''
+    - 46-65
+    - ''
+    - ''
+  - - '0:15.9'
+    - ''
+    - ''
+    - 46-65
+    - ''
+    - Defensive rebound by C. Gatling
+  - - '0:00.9'
+    - ''
+    - ''
+    - 46-65
+    - ''
+    - B. Coles misses 2-pt shot from 10 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 46-65
+    - ''
+    - Offensive rebound by M. Harpring
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:46.0'
+    - ''
+    - ''
+    - 46-65
+    - ''
+    - W. Person misses 2-pt shot from 8 ft
+  - - '11:42.0'
+    - Defensive rebound by N. Van Exel
+    - ''
+    - 46-65
+    - ''
+    - ''
+  - - '11:36.0'
+    - J. Posey makes 2-pt shot from 11 ft (assist by N. Van Exel)
+    - "+2"
+    - 48-65
+    - ''
+    - ''
+  - - '11:19.0'
+    - ''
+    - ''
+    - 48-65
+    - ''
+    - Turnover by C. Mihm (3 second)
+  - - '11:03.0'
+    - Turnover by J. Posey (bad pass)
+    - ''
+    - 48-65
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 48-65
+    - ''
+    - M. Harpring misses 2-pt shot from 14 ft
+  - - '10:53.0'
+    - Defensive rebound by Team
+    - ''
+    - 48-65
+    - ''
+    - ''
+  - - '10:53.0'
+    - Loose ball foul by C. Mihm
+    - ''
+    - 48-65
+    - ''
+    - ''
+  - - '10:53.0'
+    - ''
+    - ''
+    - 48-65
+    - ''
+    - C. Gatling enters the game for C. Mihm
+  - - '10:35.0'
+    - N. Van Exel makes 2-pt shot from 3 ft
+    - "+2"
+    - 50-65
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - Cleveland 20 second timeout
+  - - '10:17.0'
+    - ''
+    - ''
+    - 50-65
+    - ''
+    - C. Gatling misses 2-pt shot from 16 ft
+  - - '10:15.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '10:08.0'
+    - Offensive foul by A. McDyess
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '10:08.0'
+    - Turnover by A. McDyess (foul)
+    - ''
+    - 50-65
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 50-67
+    - "+2"
+    - M. Harpring makes 2-pt shot from 21 ft (assist by W. Person)
+  - - '9:38.0'
+    - A. McDyess misses 2-pt shot from 16 ft
+    - ''
+    - 50-67
+    - ''
+    - ''
+  - - '9:35.0'
+    - ''
+    - ''
+    - 50-67
+    - ''
+    - Defensive rebound by W. Person
+  - - '9:25.0'
+    - ''
+    - ''
+    - 50-69
+    - "+2"
+    - W. Person makes 2-pt shot from 19 ft (assist by M. Harpring)
+  - - '9:08.0'
+    - A. McDyess misses 2-pt shot from 8 ft
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '9:05.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - Defensive rebound by W. Person
+  - - '8:58.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - C. Gatling misses 2-pt shot from 5 ft (block by A. McDyess)
+  - - '8:58.0'
+    - Defensive rebound by Team
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '8:46.0'
+    - Turnover by V. Lenard (bad pass; steal by C. Gatling)
+    - ''
+    - 50-69
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 50-69
+    - ''
+    - Personal foul by N. Van Exel
+  - - '8:31.0'
+    - ''
+    - ''
+    - 50-71
+    - "+2"
+    - C. Gatling makes 2-pt shot from 2 ft (assist by A. Miller)
+  - - '8:20.0'
+    - J. Posey misses 3-pt shot from 23 ft
+    - ''
+    - 50-71
+    - ''
+    - ''
+  - - '8:18.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 50-71
+    - ''
+    - ''
+  - - '8:12.0'
+    - N. Van Exel misses 2-pt shot from 14 ft
+    - ''
+    - 50-71
+    - ''
+    - ''
+  - - '8:09.0'
+    - ''
+    - ''
+    - 50-71
+    - ''
+    - Defensive rebound by W. Person
+  - - '8:07.0'
+    - ''
+    - ''
+    - 50-71
+    - ''
+    - Turnover by A. Miller (lost ball; steal by N. Van Exel)
+  - - '8:05.0'
+    - A. McDyess makes 2-pt shot from 1 ft (assist by J. Posey)
+    - "+2"
+    - 52-71
+    - ''
+    - ''
+  - - '8:05.0'
+    - ''
+    - ''
+    - 52-71
+    - ''
+    - Violation by C. Gatling (def goaltending)
+  - - '7:52.0'
+    - ''
+    - ''
+    - 52-71
+    - ''
+    - Turnover by C. Gatling (back court)
+  - - '7:37.0'
+    - A. McDyess misses 2-pt shot from 4 ft (block by C. Weatherspoon)
+    - ''
+    - 52-71
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 52-71
+    - ''
+    - Defensive rebound by W. Person
+  - - '7:16.0'
+    - ''
+    - ''
+    - 52-73
+    - "+2"
+    - W. Person makes 2-pt shot from 10 ft
+  - - '7:04.0'
+    - V. Lenard makes 2-pt shot from 12 ft
+    - "+2"
+    - 54-73
+    - ''
+    - ''
+  - - '6:57.0'
+    - ''
+    - ''
+    - 54-73
+    - ''
+    - W. Person misses 3-pt shot from 23 ft
+  - - '6:53.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 54-73
+    - ''
+    - ''
+  - - '6:44.0'
+    - N. Van Exel makes 2-pt shot from 10 ft
+    - "+2"
+    - 56-73
+    - ''
+    - ''
+  - - '6:32.0'
+    - ''
+    - ''
+    - 56-73
+    - ''
+    - C. Weatherspoon misses 2-pt shot from 12 ft
+  - - '6:27.0'
+    - Defensive rebound by N. Van Exel
+    - ''
+    - 56-73
+    - ''
+    - ''
+  - - '6:14.0'
+    - N. Van Exel makes 2-pt shot from 5 ft
+    - "+2"
+    - 58-73
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 58-73
+    - ''
+    - C. Gatling misses 2-pt shot from 6 ft
+  - - '5:55.0'
+    - Defensive rebound by J. Posey
+    - ''
+    - 58-73
+    - ''
+    - ''
+  - - '5:55.0'
+    - Personal foul by M. Harpring
+    - ''
+    - 58-73
+    - ''
+    - ''
+  - - '5:55.0'
+    - Denver full timeout
+    - ''
+    - 58-73
+    - ''
+    - ''
+  - - '5:36.0'
+    - J. Posey makes 2-pt shot from 8 ft
+    - "+2"
+    - 60-73
+    - ''
+    - ''
+  - - '5:36.0'
+    - Shooting foul by M. Harpring
+    - ''
+    - 60-73
+    - ''
+    - ''
+  - - '5:36.0'
+    - ''
+    - ''
+    - 60-73
+    - ''
+    - L. Murray enters the game for M. Harpring
+  - - '5:36.0'
+    - J. Posey makes free throw 1 of 1
+    - "+1"
+    - 61-73
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 61-73
+    - ''
+    - A. Miller misses 2-pt shot from 15 ft
+  - - '5:11.0'
+    - Defensive rebound by R. LaFrentz
+    - ''
+    - 61-73
+    - ''
+    - ''
+  - - '5:05.0'
+    - N. Van Exel misses 3-pt shot from 25 ft
+    - ''
+    - 61-73
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 61-73
+    - ''
+    - Defensive rebound by W. Person
+  - - '4:56.0'
+    - ''
+    - ''
+    - 61-75
+    - "+2"
+    - A. Miller makes 2-pt shot from 11 ft
+  - - '4:34.0'
+    - Shooting foul by A. Miller
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '4:34.0'
+    - R. LaFrentz makes free throw 1 of 2
+    - "+1"
+    - 62-75
+    - ''
+    - ''
+  - - '4:34.0'
+    - R. LaFrentz misses free throw 2 of 2
+    - ''
+    - 62-75
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 62-75
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '4:17.0'
+    - ''
+    - ''
+    - 62-78
+    - "+3"
+    - L. Murray makes 3-pt shot from 24 ft (assist by W. Person)
+  - - '3:58.0'
+    - A. McDyess makes 2-pt shot from 8 ft (assist by N. Van Exel)
+    - "+2"
+    - 64-78
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 64-81
+    - "+3"
+    - L. Murray makes 3-pt shot from 23 ft (assist by W. Person)
+  - - '3:21.0'
+    - N. Van Exel makes 2-pt shot from 15 ft
+    - "+2"
+    - 66-81
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 66-83
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 6 ft (assist by A. Miller)
+  - - '2:48.0'
+    - N. Van Exel misses 2-pt shot from 15 ft
+    - ''
+    - 66-83
+    - ''
+    - ''
+  - - '2:45.0'
+    - ''
+    - ''
+    - 66-83
+    - ''
+    - Defensive rebound by W. Person
+  - - '2:44.0'
+    - ''
+    - ''
+    - 66-83
+    - ''
+    - Shooting foul by R. LaFrentz
+  - - '2:44.0'
+    - ''
+    - ''
+    - 66-83
+    - ''
+    - Cleveland full timeout
+  - - '2:44.0'
+    - G. McCloud enters the game for R. LaFrentz
+    - ''
+    - 66-83
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 66-84
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '2:44.0'
+    - ''
+    - ''
+    - 66-84
+    - ''
+    - T. Langdon enters the game for C. Weatherspoon
+  - - '2:44.0'
+    - ''
+    - ''
+    - 66-85
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '2:20.0'
+    - Personal foul by T. Langdon
+    - ''
+    - 66-85
+    - ''
+    - ''
+  - - '2:20.0'
+    - A. McDyess makes free throw 1 of 2
+    - "+1"
+    - 67-85
+    - ''
+    - ''
+  - - '2:20.0'
+    - A. McDyess makes free throw 2 of 2
+    - "+1"
+    - 68-85
+    - ''
+    - ''
+  - - '2:08.0'
+    - ''
+    - ''
+    - 68-85
+    - ''
+    - W. Person misses 2-pt shot from 14 ft
+  - - '2:06.0'
+    - Defensive rebound by J. Posey
+    - ''
+    - 68-85
+    - ''
+    - ''
+  - - '1:46.0'
+    - Turnover by N. Van Exel (bad pass; steal by C. Gatling)
+    - ''
+    - 68-85
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 68-85
+    - ''
+    - Turnover by A. Miller (lost ball; steal by N. Van Exel)
+  - - '1:31.0'
+    - Shooting foul by T. Langdon
+    - ''
+    - 68-85
+    - ''
+    - ''
+  - - '1:31.0'
+    - R. Pack enters the game for V. Lenard
+    - ''
+    - 68-85
+    - ''
+    - ''
+  - - '1:31.0'
+    - N. Van Exel makes free throw 1 of 2
+    - "+1"
+    - 69-85
+    - ''
+    - ''
+  - - '1:31.0'
+    - ''
+    - ''
+    - 69-85
+    - ''
+    - B. Coles enters the game for W. Person
+  - - '1:31.0'
+    - N. Van Exel makes free throw 2 of 2
+    - "+1"
+    - 70-85
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 70-87
+    - "+2"
+    - L. Murray makes 2-pt shot from 2 ft (assist by A. Miller)
+  - - '1:08.0'
+    - Personal foul by C. Gatling
+    - ''
+    - 70-87
+    - ''
+    - ''
+  - - '1:08.0'
+    - A. McDyess makes free throw 1 of 2
+    - "+1"
+    - 71-87
+    - ''
+    - ''
+  - - '1:08.0'
+    - A. McDyess makes free throw 2 of 2
+    - "+1"
+    - 72-87
+    - ''
+    - ''
+  - - '0:48.5'
+    - ''
+    - ''
+    - 72-89
+    - "+2"
+    - L. Murray makes 2-pt shot from 16 ft
+  - - '0:39.8'
+    - R. Pack makes 2-pt shot from 2 ft
+    - "+2"
+    - 74-89
+    - ''
+    - ''
+  - - '0:39.8'
+    - Shooting foul by T. Langdon
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '0:39.8'
+    - R. Pack makes free throw 1 of 1
+    - "+1"
+    - 75-89
+    - ''
+    - ''
+  - - '0:29.5'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - Personal foul by J. Posey
+  - - '0:20.9'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - L. Murray misses 3-pt shot from 25 ft
+  - - '0:17.9'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - Offensive rebound by C. Gatling
+  - - '0:17.2'
+    - ''
+    - ''
+    - 75-91
+    - "+2"
+    - C. Gatling makes 2-pt shot from 3 ft
+  - - '0:17.2'
+    - ''
+    - ''
+    - 75-91
+    - ''
+    - Shooting foul by G. McCloud
+  - - '0:17.2'
+    - ''
+    - ''
+    - 75-91
+    - ''
+    - A. Johnson enters the game for A. Miller
+  - - '0:17.2'
+    - ''
+    - ''
+    - 75-92
+    - "+1"
+    - C. Gatling makes free throw 1 of 1
+  - - '0:02.2'
+    - Shooting foul by A. Johnson
+    - ''
+    - 75-92
+    - ''
+    - ''
+  - - '0:02.2'
+    - N. Van Exel makes free throw 1 of 2
+    - "+1"
+    - 76-92
+    - ''
+    - ''
+  - - '0:02.2'
+    - N. Van Exel makes free throw 2 of 2
+    - "+1"
+    - 77-92
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 77-92
+    - ''
+    - Turnover by C. Gatling (bad pass; steal by J. Posey)
+  - - '0:00.0'
+    - J. Posey misses 3-pt shot from 25 ft
+    - ''
+    - 77-92
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 77-92
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:40.0'
+    - R. Pack misses 2-pt shot from 16 ft
+    - ''
+    - 77-92
+    - ''
+    - ''
+  - - '11:38.0'
+    - ''
+    - ''
+    - 77-92
+    - ''
+    - Defensive rebound by Team
+  - - '11:24.0'
+    - ''
+    - ''
+    - 77-92
+    - ''
+    - T. Langdon misses 2-pt shot from 17 ft
+  - - '11:20.0'
+    - ''
+    - ''
+    - 77-92
+    - ''
+    - Offensive rebound by L. Murray
+  - - '11:17.0'
+    - ''
+    - ''
+    - 77-92
+    - ''
+    - L. Murray misses 2-pt shot from 16 ft
+  - - '11:15.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 77-92
+    - ''
+    - ''
+  - - '11:06.0'
+    - A. McDyess makes 2-pt shot from 14 ft (assist by N. Van Exel)
+    - "+2"
+    - 79-92
+    - ''
+    - ''
+  - - '10:50.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - C. Weatherspoon misses 2-pt shot from 5 ft
+  - - '10:48.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Offensive rebound by L. Murray
+  - - '10:48.0'
+    - ''
+    - ''
+    - 79-92
+    - ''
+    - Shooting foul by A. McDyess
+  - - '10:48.0'
+    - ''
+    - ''
+    - 79-93
+    - "+1"
+    - L. Murray makes free throw 1 of 2
+  - - '10:48.0'
+    - ''
+    - ''
+    - 79-94
+    - "+1"
+    - L. Murray makes free throw 2 of 2
+  - - '10:33.0'
+    - N. Van Exel misses 2-pt shot from 5 ft
+    - ''
+    - 79-94
+    - ''
+    - ''
+  - - '10:31.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 79-94
+    - ''
+    - ''
+  - - '10:31.0'
+    - Shooting foul by L. Murray
+    - ''
+    - 79-94
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. McDyess misses free throw 1 of 2
+    - ''
+    - 79-94
+    - ''
+    - ''
+  - - '10:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 79-94
+    - ''
+    - ''
+  - - '10:31.0'
+    - A. McDyess makes free throw 2 of 2
+    - "+1"
+    - 80-94
+    - ''
+    - ''
+  - - '10:12.0'
+    - ''
+    - ''
+    - 80-94
+    - ''
+    - Shooting foul by A. McDyess
+  - - '10:12.0'
+    - ''
+    - ''
+    - 80-95
+    - "+1"
+    - L. Murray makes free throw 1 of 2
+  - - '10:12.0'
+    - ''
+    - ''
+    - 80-96
+    - "+1"
+    - L. Murray makes free throw 2 of 2
+  - - '9:58.0'
+    - A. McDyess makes 2-pt shot from 13 ft (assist by R. Pack)
+    - "+2"
+    - 82-96
+    - ''
+    - ''
+  - - '9:48.0'
+    - ''
+    - ''
+    - 82-96
+    - ''
+    - Turnover by B. Coles (lost ball; steal by R. Pack)
+  - - '9:47.0'
+    - Clear path foul by L. Murray
+    - ''
+    - 82-96
+    - ''
+    - ''
+  - - '9:47.0'
+    - J. Posey misses free throw flagrant 1 of 2
+    - ''
+    - 82-96
+    - ''
+    - ''
+  - - '9:47.0'
+    - Offensive rebound by Team
+    - ''
+    - 82-96
+    - ''
+    - ''
+  - - '9:27.0'
+    - R. Pack makes 2-pt shot from 15 ft
+    - "+2"
+    - 84-96
+    - ''
+    - ''
+  - - '9:11.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - T. Langdon misses 3-pt shot from 23 ft
+  - - '9:07.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '9:02.0'
+    - R. Pack misses 3-pt shot from 24 ft
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '8:39.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Shooting foul by R. LaFrentz
+  - - '8:39.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - Official timeout
+  - - '8:39.0'
+    - C. Cheaney enters the game for R. LaFrentz
+    - ''
+    - 84-96
+    - ''
+    - ''
+  - - '8:39.0'
+    - ''
+    - ''
+    - 84-96
+    - ''
+    - A. Miller enters the game for B. Coles
+  - - '8:39.0'
+    - ''
+    - ''
+    - 84-97
+    - "+1"
+    - C. Gatling makes free throw 1 of 2
+  - - '8:39.0'
+    - ''
+    - ''
+    - 84-97
+    - ''
+    - C. Gatling misses free throw 2 of 2
+  - - '8:38.0'
+    - ''
+    - ''
+    - 84-97
+    - ''
+    - Offensive rebound by C. Weatherspoon
+  - - '8:19.0'
+    - ''
+    - ''
+    - 84-99
+    - "+2"
+    - T. Langdon makes 2-pt shot from 16 ft (assist by C. Weatherspoon)
+  - - '8:05.0'
+    - R. Pack makes 2-pt shot from 2 ft
+    - "+2"
+    - 86-99
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 86-101
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 2 ft (assist by A. Miller)
+  - - '7:22.0'
+    - R. Pack misses 2-pt shot from 13 ft
+    - ''
+    - 86-101
+    - ''
+    - ''
+  - - '7:20.0'
+    - ''
+    - ''
+    - 86-101
+    - ''
+    - Defensive rebound by L. Murray
+  - - '7:14.0'
+    - ''
+    - ''
+    - 86-103
+    - "+2"
+    - C. Weatherspoon makes 2-pt shot from 2 ft (assist by C. Gatling)
+  - - '7:14.0'
+    - ''
+    - ''
+    - 86-103
+    - ''
+    - Shooting foul by A. McDyess
+  - - '7:14.0'
+    - ''
+    - ''
+    - 86-104
+    - "+1"
+    - C. Weatherspoon makes free throw 1 of 1
+  - - '7:01.0'
+    - Shooting foul by C. Weatherspoon
+    - ''
+    - 86-104
+    - ''
+    - ''
+  - - '7:01.0'
+    - J. Posey makes free throw 1 of 2
+    - "+1"
+    - 87-104
+    - ''
+    - ''
+  - - '7:01.0'
+    - J. Posey makes free throw 2 of 2
+    - "+1"
+    - 88-104
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 88-104
+    - ''
+    - Shooting foul by C. Cheaney
+  - - '6:49.0'
+    - V. Lenard enters the game for J. Posey
+    - ''
+    - 88-104
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 88-105
+    - "+1"
+    - C. Gatling makes free throw 1 of 2
+  - - '6:49.0'
+    - ''
+    - ''
+    - 88-105
+    - ''
+    - C. Gatling misses free throw 2 of 2
+  - - '6:48.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '6:40.0'
+    - R. Pack misses 2-pt shot from 5 ft
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '6:39.0'
+    - A. McDyess misses 2-pt shot at rim
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '6:39.0'
+    - Offensive rebound by A. McDyess
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 88-105
+    - ''
+    - Defensive rebound by Team
+  - - '6:23.0'
+    - ''
+    - ''
+    - 88-105
+    - ''
+    - C. Gatling misses 2-pt shot from 16 ft
+  - - '6:21.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 88-105
+    - ''
+    - ''
+  - - '6:15.0'
+    - N. Van Exel makes 2-pt shot from 4 ft (assist by R. Pack)
+    - "+2"
+    - 90-105
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 90-105
+    - ''
+    - Turnover by C. Weatherspoon (bad pass)
+  - - '5:50.0'
+    - Denver full timeout
+    - ''
+    - 90-105
+    - ''
+    - ''
+  - - '5:50.0'
+    - ''
+    - ''
+    - 90-105
+    - ''
+    - W. Person enters the game for C. Gatling
+  - - '5:34.0'
+    - N. Van Exel misses 3-pt shot from 24 ft
+    - ''
+    - 90-105
+    - ''
+    - ''
+  - - '5:31.0'
+    - Offensive rebound by C. Cheaney
+    - ''
+    - 90-105
+    - ''
+    - ''
+  - - '5:27.0'
+    - V. Lenard makes 3-pt shot from 24 ft (assist by C. Cheaney)
+    - "+3"
+    - 93-105
+    - ''
+    - ''
+  - - '5:10.0'
+    - ''
+    - ''
+    - 93-105
+    - ''
+    - L. Murray misses 3-pt shot from 23 ft
+  - - '5:07.0'
+    - Defensive rebound by A. McDyess
+    - ''
+    - 93-105
+    - ''
+    - ''
+  - - '5:00.0'
+    - N. Van Exel misses 2-pt shot from 4 ft
+    - ''
+    - 93-105
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 93-105
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '4:43.0'
+    - ''
+    - ''
+    - 93-107
+    - "+2"
+    - W. Person makes 2-pt shot from 6 ft (assist by A. Miller)
+  - - '4:32.0'
+    - Shooting foul by W. Person
+    - ''
+    - 93-107
+    - ''
+    - ''
+  - - '4:32.0'
+    - R. Pack makes free throw 1 of 2
+    - "+1"
+    - 94-107
+    - ''
+    - ''
+  - - '4:32.0'
+    - R. Pack misses free throw 2 of 2
+    - ''
+    - 94-107
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - Defensive rebound by L. Murray
+  - - '4:13.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - L. Murray misses 2-pt shot from 5 ft
+  - - '4:11.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - C. Weatherspoon misses 2-pt shot from 2 ft
+  - - '4:11.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - Offensive rebound by C. Weatherspoon
+  - - '4:07.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - Offensive rebound by L. Murray
+  - - '4:04.0'
+    - ''
+    - ''
+    - 94-107
+    - ''
+    - W. Person misses 3-pt shot from 24 ft
+  - - '4:00.0'
+    - Defensive rebound by R. Pack
+    - ''
+    - 94-107
+    - ''
+    - ''
+  - - '3:58.0'
+    - Shooting foul by L. Murray
+    - ''
+    - 94-107
+    - ''
+    - ''
+  - - '3:58.0'
+    - V. Lenard makes free throw 1 of 3
+    - "+1"
+    - 95-107
+    - ''
+    - ''
+  - - '3:58.0'
+    - V. Lenard makes free throw 2 of 3
+    - "+1"
+    - 96-107
+    - ''
+    - ''
+  - - '3:58.0'
+    - V. Lenard makes free throw 3 of 3
+    - "+1"
+    - 97-107
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 97-107
+    - ''
+    - Offensive foul by W. Person
+  - - '3:46.0'
+    - ''
+    - ''
+    - 97-107
+    - ''
+    - Turnover by W. Person (foul)
+  - - '3:46.0'
+    - Denver full timeout
+    - ''
+    - 97-107
+    - ''
+    - ''
+  - - '3:46.0'
+    - ''
+    - ''
+    - 97-107
+    - ''
+    - M. Harpring enters the game for T. Langdon
+  - - '3:29.0'
+    - R. Pack misses 2-pt shot from 3 ft (block by C. Weatherspoon)
+    - ''
+    - 97-107
+    - ''
+    - ''
+  - - '3:24.0'
+    - Offensive rebound by N. Van Exel
+    - ''
+    - 97-107
+    - ''
+    - ''
+  - - '3:23.0'
+    - N. Van Exel misses 2-pt shot from 3 ft
+    - ''
+    - 97-107
+    - ''
+    - ''
+  - - '3:21.0'
+    - ''
+    - ''
+    - 97-107
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '3:05.0'
+    - ''
+    - ''
+    - 97-107
+    - ''
+    - L. Murray misses 2-pt shot from 5 ft
+  - - '3:03.0'
+    - Defensive rebound by C. Cheaney
+    - ''
+    - 97-107
+    - ''
+    - ''
+  - - '3:00.0'
+    - A. McDyess makes 2-pt shot from 1 ft (assist by R. Pack)
+    - "+2"
+    - 99-107
+    - ''
+    - ''
+  - - '2:32.0'
+    - ''
+    - ''
+    - 99-107
+    - ''
+    - Personal foul by C. Cheaney
+  - - '2:32.0'
+    - ''
+    - ''
+    - 99-108
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '2:32.0'
+    - ''
+    - ''
+    - 99-109
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '2:21.0'
+    - N. Van Exel misses 2-pt shot from 5 ft
+    - ''
+    - 99-109
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 99-109
+    - ''
+    - Defensive rebound by L. Murray
+  - - '1:57.0'
+    - ''
+    - ''
+    - 99-109
+    - ''
+    - M. Harpring misses 2-pt shot from 17 ft
+  - - '1:54.0'
+    - Defensive rebound by V. Lenard
+    - ''
+    - 99-109
+    - ''
+    - ''
+  - - '1:47.0'
+    - A. McDyess makes 2-pt shot from 5 ft (assist by V. Lenard)
+    - "+2"
+    - 101-109
+    - ''
+    - ''
+  - - '1:34.0'
+    - ''
+    - ''
+    - 101-109
+    - ''
+    - Shooting foul by V. Lenard
+  - - '1:34.0'
+    - ''
+    - ''
+    - 101-110
+    - "+1"
+    - W. Person makes free throw 1 of 2
+  - - '1:34.0'
+    - ''
+    - ''
+    - 101-111
+    - "+1"
+    - W. Person makes free throw 2 of 2
+  - - '1:34.0'
+    - Denver full timeout
+    - ''
+    - 101-111
+    - ''
+    - ''
+  - - '1:22.0'
+    - V. Lenard misses 3-pt shot from 24 ft
+    - ''
+    - 101-111
+    - ''
+    - ''
+  - - '1:20.0'
+    - ''
+    - ''
+    - 101-111
+    - ''
+    - Defensive rebound by W. Person
+  - - '1:02.0'
+    - ''
+    - ''
+    - 101-113
+    - "+2"
+    - W. Person makes 2-pt shot from 19 ft (assist by A. Miller)
+  - - '0:55.4'
+    - R. Pack makes 3-pt shot from 26 ft
+    - "+3"
+    - 104-113
+    - ''
+    - ''
+  - - '0:52.4'
+    - ''
+    - ''
+    - 104-113
+    - ''
+    - Personal foul by C. Cheaney
+  - - '0:52.4'
+    - J. Posey enters the game for N. Van Exel
+    - ''
+    - 104-113
+    - ''
+    - ''
+  - - '0:52.4'
+    - ''
+    - ''
+    - 104-114
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '0:52.4'
+    - ''
+    - ''
+    - 104-115
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '0:45.7'
+    - Shooting foul by A. Miller
+    - ''
+    - 104-115
+    - ''
+    - ''
+  - - '0:45.7'
+    - V. Lenard makes free throw 1 of 2
+    - "+1"
+    - 105-115
+    - ''
+    - ''
+  - - '0:45.7'
+    - V. Lenard misses free throw 2 of 2
+    - ''
+    - 105-115
+    - ''
+    - ''
+  - - '0:44.9'
+    - ''
+    - ''
+    - 105-115
+    - ''
+    - Defensive rebound by C. Weatherspoon
+  - - '0:29.4'
+    - ''
+    - ''
+    - 105-115
+    - ''
+    - Personal foul by R. Pack
+  - - '0:29.4'
+    - ''
+    - ''
+    - 105-116
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '0:29.4'
+    - ''
+    - ''
+    - 105-117
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '0:22.9'
+    - R. Pack misses 3-pt shot from 25 ft
+    - ''
+    - 105-117
+    - ''
+    - ''
+  - - '0:19.9'
+    - ''
+    - ''
+    - 105-117
+    - ''
+    - Defensive rebound by W. Person
+  - - '0:00.0'
+    - End of 4th quarter

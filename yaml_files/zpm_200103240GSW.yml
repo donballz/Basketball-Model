@@ -1,0 +1,206 @@
+---
+- name: Plus-Minus
+  data:
+  - - Detroit Pistons
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chucky Atkins (On: +4&#9642;Off: -12&#9642;Net: +16)'
+    - |2-
+
+      +5
+    - 250/+5
+    - 188/
+    - 62/-2
+    - 168/+1
+    - 331/
+    - 'Billy Owens (On: -7&#9642;Off: -1&#9642;Net: -6)'
+    - |2-
+
+      0
+    - 208/0
+    - 108/
+    - 171/-5
+    - 12/
+    - 167/+1
+    - 169/
+    - 162/-3
+    - 'Joe Smith (On: +4&#9642;Off: -12&#9642;Net: +16)'
+    - |2-
+
+      +3
+    - 169/+3
+    - 80/
+    - 34/-3
+    - 215/
+    - 173/-1
+    - 77/
+    - 249/+5
+    - 'Jerry Stackhouse (On: +2&#9642;Off: -10&#9642;Net: +12)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 62/-8
+    - 67/
+    - 120/-1
+    - 249/-3
+    - 86/+8
+    - 49/
+    - 114/+1
+    - 'Corliss Williamson (On: +3&#9642;Off: -11&#9642;Net: +14)'
+    - |2-
+
+      +5
+    - 249/+5
+    - 129/
+    - 47/+3
+    - 73/
+    - 226/-4
+    - 127/
+    - 146/-1
+    - 'Mikki Moore (On: -8&#9642;Off: 0&#9642;Net: -8)'
+    - "\n"
+    - 174/
+    - 75/+2
+    - 141/-14
+    - 284/
+    - 74/-2
+    - 97/+6
+    - 152/
+    - 'John Wallace (On: -13&#9642;Off: +5&#9642;Net: -18)'
+    - "\n"
+    - 213/
+    - 37/+5
+    - 125/-14
+    - 54/
+    - 71/-4
+    - 498/
+    - 'Mateen Cleaves (On: -12&#9642;Off: +4&#9642;Net: -16)'
+    - "\n"
+    - 250/
+    - 183/-13
+    - 240/
+    - 77/-4
+    - 249/+5
+    - 'Kornel David (On: -11&#9642;Off: +3&#9642;Net: -14)'
+    - "\n"
+    - 285/
+    - 89/-11
+    - 21/
+    - 103/-1
+    - 230/
+    - 19/+1
+    - 250/
+    - 'Jud Buechler (On: -2&#9642;Off: -6&#9642;Net: +4)'
+    - "\n"
+    - 492/
+    - 7/-2
+    - 173/
+    - 77/-4
+    - 131/+4
+    - 118/
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: +19&#9642;Off: -11&#9642;Net: +30)'
+    - |2-
+
+      +1
+    - 203/+1
+    - 46/
+    - 250/+15
+    - 173/+1
+    - 127/
+    - 199/+2
+    - 'Adonal Foyle (On: +4&#9642;Off: +4&#9642;Net: 0)'
+    - |2-
+
+      -1
+    - 121/-1
+    - 87/
+    - 42/-6
+    - 249/+15
+    - 78/-4
+    - 201/
+    - 219/0
+    - 'Antawn Jamison (On: +18&#9642;Off: -10&#9642;Net: +28)'
+    - |2-
+
+      +1
+    - 203/+1
+    - 44/
+    - 3/-2
+    - 249/+15
+    - 226/+4
+    - 53/
+    - 219/0
+    - 'Adam Keefe (On: -17&#9642;Off: +25&#9642;Net: -42)'
+    - |2-
+
+      -5
+    - 81/-5
+    - 70/
+    - 89/-2
+    - 257/
+    - 78/-4
+    - 152/
+    - 19/-1
+    - 25/-5
+    - 224/
+    - 'Chris Porter (On: +3&#9642;Off: +5&#9642;Net: -2)'
+    - |2-
+
+      +1
+    - 138/+1
+    - 69/
+    - 41/-6
+    - 249/+15
+    - 68/-2
+    - 107/
+    - 74/+2
+    - 141/-7
+    - 108/
+    - 'Corie Blount (On: +9&#9642;Off: -1&#9642;Net: +10)'
+    - "\n"
+    - 86/
+    - 59/+4
+    - 268/
+    - 86/+3
+    - 85/
+    - 164/+7
+    - 249/-5
+    - 'Erick Dampier (On: +10&#9642;Off: -2&#9642;Net: +12)'
+    - "\n"
+    - 125/
+    - 125/-4
+    - 157/+12
+    - 177/
+    - 164/+7
+    - 25/-5
+    - 224/
+    - 'Vonteego Cummings (On: -6&#9642;Off: +14&#9642;Net: -20)'
+    - "\n"
+    - 142/
+    - 107/-6
+    - 319/
+    - 179/+5
+    - 46/-7
+    - 100/
+    - 104/+2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

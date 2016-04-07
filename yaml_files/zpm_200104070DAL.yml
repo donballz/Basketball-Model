@@ -1,0 +1,209 @@
+---
+- name: Plus-Minus
+  data:
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: +12&#9642;Off: +1&#9642;Net: +11)'
+    - |2-
+
+      -4
+    - 219/-4
+    - 99/
+    - 181/+8
+    - 210/+6
+    - 64/
+    - 225/+2
+    - 'Donyell Marshall (On: +10&#9642;Off: +3&#9642;Net: +7)'
+    - |2-
+
+      -4
+    - 161/-4
+    - 218/
+    - 120/+5
+    - 188/+5
+    - 48/
+    - 13/+3
+    - 249/+1
+    - 'Olden Polynice (On: +1&#9642;Off: +12&#9642;Net: -11)'
+    - |2-
+
+      -4
+    - 161/-4
+    - 339/
+    - 118/+5
+    - 382/
+    - 'Bryon Russell (On: +14&#9642;Off: -1&#9642;Net: +15)'
+    - |2-
+
+      -4
+    - 249/-4
+    - 47/+1
+    - 117/
+    - 84/+9
+    - 249/+6
+    - 35/
+    - 216/+2
+    - 'John Stockton (On: +15&#9642;Off: -2&#9642;Net: +17)'
+    - |2-
+
+      -4
+    - 136/-4
+    - 166/
+    - 197/+9
+    - 143/+9
+    - 107/
+    - 249/+1
+    - 'Jacque Vaughn (On: -3&#9642;Off: +16&#9642;Net: -19)'
+    - "\n"
+    - 139/
+    - 110/0
+    - 160/+1
+    - 237/
+    - 102/-3
+    - 21/-1
+    - 228/
+    - 'Greg Ostertag (On: +1&#9642;Off: +12&#9642;Net: -11)'
+    - "\n"
+    - 165/
+    - 84/0
+    - 63/+2
+    - 401/
+    - 34/0
+    - 31/-1
+    - 219/
+    - 'John Starks (On: +12&#9642;Off: +1&#9642;Net: +11)'
+    - "\n"
+    - 165/
+    - 84/0
+    - 250/+10
+    - 120/
+    - 130/+1
+    - 249/+1
+    - 'Danny Manning (On: +3&#9642;Off: +10&#9642;Net: -7)'
+    - "\n"
+    - 221/
+    - 28/0
+    - 125/+5
+    - 318/
+    - 40/-2
+    - 266/
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Calvin Booth (On: -3&#9642;Off: -10&#9642;Net: +7)'
+    - |2-
+
+      +6
+    - 191/+6
+    - 308/
+    - 52/-6
+    - 132/
+    - 9/-1
+    - 236/
+    - 69/-2
+    - 'Michael Finley (On: -16&#9642;Off: +3&#9642;Net: -19)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 250/-10
+    - 250/-6
+    - 67/
+    - 182/-4
+    - 'Juwan Howard (On: -12&#9642;Off: -1&#9642;Net: -11)'
+    - |2-
+
+      +4
+    - 249/+4
+    - 63/-2
+    - 111/
+    - 75/-9
+    - 180/-5
+    - 69/
+    - 227/0
+    - 22/
+    - 'Steve Nash (On: 0&#9642;Off: -13&#9642;Net: +13)'
+    - |2-
+
+      +6
+    - 205/+6
+    - 133/
+    - 114/+5
+    - 46/
+    - 226/-5
+    - 98/
+    - 133/-6
+    - 41/
+    - 'Dirk Nowitzki (On: -9&#9642;Off: -4&#9642;Net: -5)'
+    - |2-
+
+      +4
+    - 250/+4
+    - 69/
+    - 181/-8
+    - 250/-6
+    - 211/+1
+    - 37/
+    - 'Shawn Bradley (On: -10&#9642;Off: -3&#9642;Net: -7)'
+    - "\n"
+    - 195/
+    - 54/-2
+    - 63/-2
+    - 66/
+    - 119/-5
+    - 193/
+    - 56/0
+    - 29/+1
+    - 188/
+    - 31/-2
+    - 'Howard Eisley (On: -9&#9642;Off: -4&#9642;Net: -5)'
+    - "\n"
+    - 207/
+    - 42/-2
+    - 87/-6
+    - 123/
+    - 39/-9
+    - 147/
+    - 102/+3
+    - 72/+4
+    - 138/
+    - 37/+1
+    - 'Vernon Maxwell (On: -4&#9642;Off: -9&#9642;Net: +5)'
+    - "\n"
+    - 249/
+    - 170/-1
+    - 136/
+    - 85/-3
+    - 84/
+    - 23/-1
+    - 177/+1
+    - 72/
+    - 'Eduardo Najera (On: -1&#9642;Off: -12&#9642;Net: +11)'
+    - "\n"
+    - 318/
+    - 56/-3
+    - 405/
+    - 32/+2
+    - 188/
+    - 'Wang Zhizhi (On: -1&#9642;Off: -12&#9642;Net: +11)'
+    - "\n"
+    - 982/
+    - 20/-1
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

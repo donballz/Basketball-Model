@@ -1,0 +1,224 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Elton Brand (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 42/+1
+    - 101/
+    - 106/-1
+    - 191/-1
+    - 89/
+    - 219/+2
+    - 'Jeff McInnis (On: -1&#9642;Off: -10&#9642;Net: +9)'
+    - |2-
+
+      -1
+    - 244/-1
+    - 96/
+    - 160/+1
+    - 236/-8
+    - 106/
+    - 156/+7
+    - 'Lamar Odom (On: -2&#9642;Off: -9&#9642;Net: +7)'
+    - |2-
+
+      -3
+    - 249/-3
+    - 42/+1
+    - 55/
+    - 153/+1
+    - 168/-1
+    - 111/
+    - 116/0
+    - 102/
+    - 'Michael Olowokandi (On: +1&#9642;Off: -12&#9642;Net: +13)'
+    - |2-
+
+      +3
+    - 208/+3
+    - 131/
+    - 160/+1
+    - 120/-3
+    - 380/
+    - 'Eric Piatkowski (On: +9&#9642;Off: -20&#9642;Net: +29)'
+    - |2-
+
+      +4
+    - 195/+4
+    - 212/
+    - 91/+3
+    - 210/-5
+    - 131/
+    - 69/+7
+    - 89/
+    - 'Quentin Richardson (On: -13&#9642;Off: +2&#9642;Net: -15)'
+    - "\n"
+    - 201/
+    - 48/-7
+    - 96/-2
+    - 368/
+    - 34/-1
+    - 27/-3
+    - 136/
+    - 86/0
+    - 'Sean Rooks (On: -14&#9642;Off: +3&#9642;Net: -17)'
+    - "\n"
+    - 216/
+    - 34/-6
+    - 89/-2
+    - 280/
+    - 129/-3
+    - 27/-3
+    - 222/
+    - 'Keyon Dooling (On: -10&#9642;Off: -1&#9642;Net: -9)'
+    - "\n"
+    - 244/
+    - 5/-2
+    - 89/-2
+    - 401/
+    - 8/+2
+    - 86/-8
+    - 164/
+    - 'Corey Maggette (On: -16&#9642;Off: +5&#9642;Net: -21)'
+    - "\n"
+    - 295/
+    - 108/-5
+    - 271/
+    - 74/-5
+    - 86/-8
+    - 66/
+    - 97/+2
+    - 'Darius Miles (On: -7&#9642;Off: -4&#9642;Net: -3)'
+    - "\n"
+    - 296/
+    - 94/-1
+    - 308/
+    - 52/-5
+    - 249/-1
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Bruce Bowen (On: +5&#9642;Off: +6&#9642;Net: -1)'
+    - |2-
+
+      +3
+    - 250/+3
+    - 158/
+    - 92/-3
+    - 210/+5
+    - 289/
+    - 'Antonio Daniels (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - |2-
+
+      -7
+    - 74/-7
+    - 265/
+    - 160/-1
+    - 250/+6
+    - 152/
+    - 97/-2
+    - 'Tim Duncan (On: +19&#9642;Off: -8&#9642;Net: +27)'
+    - |2-
+
+      +3
+    - 249/+3
+    - 89/+2
+    - 50/
+    - 110/-1
+    - 249/+6
+    - 65/+7
+    - 60/
+    - 110/+2
+    - 13/
+    - 'David Robinson (On: -4&#9642;Off: +15&#9642;Net: -19)'
+    - |2-
+
+      -4
+    - 176/-4
+    - 163/
+    - 150/-1
+    - 9/
+    - 126/+3
+    - 192/
+    - 121/-2
+    - 59/
+    - 'Steve Smith (On: +4&#9642;Off: +7&#9642;Net: -3)'
+    - |2-
+
+      -4
+    - 176/-4
+    - 163/
+    - 160/-1
+    - 236/+8
+    - 155/
+    - 94/+1
+    - 13/
+    - 'Tony Parker (On: +12&#9642;Off: -1&#9642;Net: +13)'
+    - "\n"
+    - 79/
+    - 170/+10
+    - 89/+2
+    - 409/
+    - 147/+3
+    - 90/
+    - 13/-3
+    - 'Terry Porter (On: +14&#9642;Off: -3&#9642;Net: +17)'
+    - "\n"
+    - 178/
+    - 71/+7
+    - 89/+2
+    - 375/
+    - 34/+1
+    - 235/+4
+    - 15/
+    - 'Malik Rose (On: +10&#9642;Off: +1&#9642;Net: +9)'
+    - "\n"
+    - 178/
+    - 71/+7
+    - 136/+2
+    - 110/
+    - 2/0
+    - 129/
+    - 120/+3
+    - 120/+2
+    - 76/
+    - 52/-4
+    - 'Danny Ferry (On: +5&#9642;Off: +6&#9642;Net: -1)'
+    - "\n"
+    - 250/
+    - 154/+4
+    - 337/
+    - 8/-2
+    - 133/+3
+    - 116/
+    - 'Stephen Jackson (On: -3&#9642;Off: +14&#9642;Net: -17)'
+    - "\n"
+    - 990/
+    - 12/-3
+    - 'Amal McCaskill (On: -3&#9642;Off: +14&#9642;Net: -17)'
+    - "\n"
+    - 990/
+    - 12/-3
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

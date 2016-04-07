@@ -1,0 +1,2870 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: C. Mihm vs. A. DeClercq (A. Miller gains possession)'
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. Jones misses 2-pt shot from 4 ft (block by T. McGrady)
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by J. Jones
+  - - '11:36.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - J. Jones misses 2-pt shot from 3 ft
+  - - '11:32.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by M. Doleac
+  - - '11:28.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive foul by C. Mihm
+  - - '11:28.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Turnover by C. Mihm (offensive foul)
+  - - '11:11.0'
+    - T. McGrady misses 2-pt shot from 17 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:09.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '11:06.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - C. Mihm misses 2-pt shot from 8 ft
+  - - '11:06.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:02.0'
+    - G. Hill makes 2-pt shot from 7 ft (assist by D. Armstrong)
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 2-3
+    - "+3"
+    - W. Person makes 3-pt shot from 24 ft (assist by A. Miller)
+  - - '10:26.0'
+    - T. McGrady makes 2-pt shot from 3 ft (assist by D. Armstrong)
+    - "+2"
+    - 4-3
+    - ''
+    - ''
+  - - '10:06.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - Turnover by C. Mihm (bad pass)
+  - - '9:51.0'
+    - D. Armstrong misses 2-pt shot from 22 ft
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '9:47.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '9:41.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - M. Doleac misses 2-pt shot from 3 ft (block by G. Hill)
+  - - '9:41.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - Offensive rebound by Team
+  - - '9:35.0'
+    - ''
+    - ''
+    - 4-3
+    - ''
+    - J. Jones misses 2-pt shot from 16 ft
+  - - '9:33.0'
+    - Defensive rebound by A. DeClercq
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '9:27.0'
+    - Personal foul by A. Miller
+    - ''
+    - 4-3
+    - ''
+    - ''
+  - - '9:18.0'
+    - H. Grant makes 2-pt shot from 14 ft (assist by T. McGrady)
+    - "+2"
+    - 6-3
+    - ''
+    - ''
+  - - '8:59.0'
+    - ''
+    - ''
+    - 6-3
+    - ''
+    - Shooting foul by H. Grant
+  - - '8:59.0'
+    - ''
+    - ''
+    - 6-4
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '8:59.0'
+    - ''
+    - ''
+    - 6-5
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '8:44.0'
+    - T. McGrady misses 2-pt shot from 17 ft
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 6-5
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '8:28.0'
+    - ''
+    - ''
+    - 6-5
+    - ''
+    - A. Miller misses 2-pt shot from 11 ft
+  - - '8:25.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:12.0'
+    - T. McGrady misses 2-pt shot from 5 ft
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:09.0'
+    - A. DeClercq misses 2-pt shot from 2 ft
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:09.0'
+    - Offensive rebound by A. DeClercq
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:08.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:08.0'
+    - Shooting foul by M. Doleac
+    - ''
+    - 6-5
+    - ''
+    - ''
+  - - '8:08.0'
+    - T. McGrady makes free throw 1 of 2
+    - "+1"
+    - 7-5
+    - ''
+    - ''
+  - - '8:08.0'
+    - T. McGrady makes free throw 2 of 2
+    - "+1"
+    - 8-5
+    - ''
+    - ''
+  - - '7:57.0'
+    - ''
+    - ''
+    - 8-5
+    - ''
+    - M. Doleac misses 2-pt shot from 2 ft
+  - - '7:56.0'
+    - Defensive rebound by Team
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:56.0'
+    - Loose ball foul by C. Mihm
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:56.0'
+    - ''
+    - ''
+    - 8-5
+    - ''
+    - B. Skinner enters the game for C. Mihm
+  - - '7:40.0'
+    - G. Hill misses 2-pt shot from 12 ft
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:38.0'
+    - Offensive rebound by A. DeClercq
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:36.0'
+    - H. Grant misses 2-pt shot from 7 ft
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:33.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 8-5
+    - ''
+    - ''
+  - - '7:31.0'
+    - G. Hill makes 2-pt shot from 1 ft (assist by T. McGrady)
+    - "+2"
+    - 10-5
+    - ''
+    - ''
+  - - '7:17.0'
+    - ''
+    - ''
+    - 10-5
+    - ''
+    - W. Person misses 2-pt shot from 18 ft
+  - - '7:15.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 10-5
+    - ''
+    - ''
+  - - '7:02.0'
+    - Personal foul by W. Person
+    - ''
+    - 10-5
+    - ''
+    - ''
+  - - '6:55.0'
+    - Shooting foul by J. Jones
+    - ''
+    - 10-5
+    - ''
+    - ''
+  - - '6:55.0'
+    - T. McGrady makes free throw 1 of 2
+    - "+1"
+    - 11-5
+    - ''
+    - ''
+  - - '6:55.0'
+    - T. McGrady makes free throw 2 of 2
+    - "+1"
+    - 12-5
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 12-5
+    - ''
+    - M. Doleac misses 2-pt shot from 14 ft
+  - - '6:36.0'
+    - ''
+    - ''
+    - 12-5
+    - ''
+    - Offensive rebound by B. Skinner
+  - - '6:29.0'
+    - ''
+    - ''
+    - 12-5
+    - ''
+    - B. Skinner misses 2-pt shot from 13 ft
+  - - '6:28.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 12-5
+    - ''
+    - ''
+  - - '6:23.0'
+    - A. DeClercq makes 2-pt shot from 1 ft (assist by T. McGrady)
+    - "+2"
+    - 14-5
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 14-5
+    - ''
+    - Cleveland full timeout
+  - - '6:06.0'
+    - ''
+    - ''
+    - 14-5
+    - ''
+    - Personal foul by D. Armstrong
+  - - '5:58.0'
+    - ''
+    - ''
+    - 14-8
+    - "+3"
+    - J. Jones makes 3-pt shot from 25 ft (assist by A. Miller)
+  - - '5:43.0'
+    - H. Grant misses 2-pt shot from 3 ft
+    - ''
+    - 14-8
+    - ''
+    - ''
+  - - '5:40.0'
+    - ''
+    - ''
+    - 14-8
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '5:36.0'
+    - ''
+    - ''
+    - 14-10
+    - "+2"
+    - A. Miller makes 2-pt shot from 1 ft (assist by M. Doleac)
+  - - '5:20.0'
+    - Turnover by T. McGrady (bad pass; steal by A. Miller)
+    - ''
+    - 14-10
+    - ''
+    - ''
+  - - '5:03.0'
+    - ''
+    - ''
+    - 14-10
+    - ''
+    - Turnover by M. Doleac (bad pass; steal by D. Armstrong)
+  - - '4:58.0'
+    - D. Armstrong makes 2-pt shot from 1 ft
+    - "+2"
+    - 16-10
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-10
+    - ''
+    - B. Skinner misses 2-pt shot from 1 ft (block by A. DeClercq)
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-10
+    - ''
+    - Offensive rebound by B. Skinner
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-12
+    - "+2"
+    - B. Skinner makes 2-pt shot from 1 ft
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Shooting foul by A. DeClercq
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - B. Coles enters the game for A. Miller
+  - - '4:48.0'
+    - ''
+    - ''
+    - 16-13
+    - "+1"
+    - B. Skinner makes free throw 1 of 1
+  - - '4:40.0'
+    - Shooting foul by W. Person
+    - ''
+    - 16-13
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 16-13
+    - ''
+    - L. Murray enters the game for W. Person
+  - - '4:40.0'
+    - G. Hill makes free throw 1 of 2
+    - "+1"
+    - 17-13
+    - ''
+    - ''
+  - - '4:40.0'
+    - P. Ewing enters the game for A. DeClercq
+    - ''
+    - 17-13
+    - ''
+    - ''
+  - - '4:40.0'
+    - G. Hill makes free throw 2 of 2
+    - "+1"
+    - 18-13
+    - ''
+    - ''
+  - - '4:18.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - J. Jones misses 2-pt shot from 16 ft
+  - - '4:16.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '4:10.0'
+    - D. Armstrong misses 3-pt shot from 25 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '4:08.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by J. Jones
+  - - '3:47.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - B. Skinner misses 2-pt shot from 5 ft (block by T. McGrady)
+  - - '3:44.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:41.0'
+    - G. Hill misses 2-pt shot from 1 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:41.0'
+    - Offensive rebound by Team
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:41.0'
+    - T. Hudson enters the game for D. Armstrong
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:41.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - R. Davis enters the game for J. Jones
+  - - '3:34.0'
+    - T. McGrady misses 2-pt shot from 5 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by L. Murray
+  - - '3:20.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - L. Murray misses 2-pt shot from 14 ft
+  - - '3:19.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:13.0'
+    - T. McGrady misses 2-pt shot from 2 ft
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '3:11.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - Defensive rebound by R. Davis
+  - - '2:51.0'
+    - ''
+    - ''
+    - 18-13
+    - ''
+    - R. Davis misses 2-pt shot from 13 ft
+  - - '2:49.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:46.0'
+    - Orlando full timeout
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:46.0'
+    - P. Garrity enters the game for H. Grant
+    - ''
+    - 18-13
+    - ''
+    - ''
+  - - '2:32.0'
+    - G. Hill makes 2-pt shot from 4 ft (assist by T. Hudson)
+    - "+2"
+    - 20-13
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 20-15
+    - "+2"
+    - R. Davis makes 2-pt shot from 19 ft (assist by M. Doleac)
+  - - '1:53.0'
+    - P. Ewing misses 2-pt shot from 3 ft
+    - ''
+    - 20-15
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '1:38.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - Personal foul by P. Ewing
+  - - '1:30.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - M. Doleac misses 2-pt shot from 16 ft
+  - - '1:24.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - Offensive rebound by B. Skinner
+  - - '1:20.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - R. Davis misses 2-pt shot from 9 ft
+  - - '1:18.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - M. Doleac misses 2-pt shot from 2 ft
+  - - '1:18.0'
+    - ''
+    - ''
+    - 20-15
+    - ''
+    - Offensive rebound by M. Doleac
+  - - '1:16.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 20-15
+    - ''
+    - ''
+  - - '1:04.0'
+    - T. McGrady makes 2-pt shot at rim (assist by T. Hudson)
+    - "+2"
+    - 22-15
+    - ''
+    - ''
+  - - '1:04.0'
+    - Shooting foul by L. Murray
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 22-15
+    - ''
+    - A. Miller enters the game for B. Skinner
+  - - '1:04.0'
+    - T. McGrady misses free throw 1 of 1
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '1:04.0'
+    - Offensive rebound by P. Garrity
+    - ''
+    - 22-15
+    - ''
+    - ''
+  - - '1:04.0'
+    - P. Garrity makes 2-pt shot at rim
+    - "+2"
+    - 24-15
+    - ''
+    - ''
+  - - '0:49.3'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - R. Davis misses 2-pt shot from 3 ft (block by T. Hudson)
+  - - '0:43.8'
+    - Defensive rebound by P. Garrity
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '0:36.3'
+    - T. Hudson misses 3-pt shot from 25 ft
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Defensive rebound by R. Davis
+  - - '0:28.7'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Turnover by R. Davis (bad pass; steal by T. McGrady)
+  - - '0:25.3'
+    - Turnover by T. McGrady (bad pass)
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '0:01.3'
+    - ''
+    - ''
+    - 24-15
+    - ''
+    - Turnover by Team (shot clock)
+  - - '0:00.0'
+    - T. Hudson misses 3-pt shot from 34 ft
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:43.0'
+    - P. Garrity misses 3-pt shot from 25 ft
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '11:41.0'
+    - Offensive rebound by Team
+    - ''
+    - 24-15
+    - ''
+    - ''
+  - - '11:30.0'
+    - T. McGrady makes 2-pt shot from 2 ft (assist by T. Hudson)
+    - "+2"
+    - 26-15
+    - ''
+    - ''
+  - - '11:17.0'
+    - ''
+    - ''
+    - 26-15
+    - ''
+    - Defensive three seconds by B. Outlaw
+  - - '11:17.0'
+    - ''
+    - ''
+    - 26-16
+    - "+1"
+    - A. Miller makes technical free throw
+  - - '11:08.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - R. Davis misses 2-pt shot from 18 ft
+  - - '11:07.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '10:46.0'
+    - P. Ewing misses 2-pt shot from 14 ft
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '10:45.0'
+    - Offensive rebound by B. Outlaw
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '10:44.0'
+    - Personal foul by R. Davis
+    - ''
+    - 26-16
+    - ''
+    - ''
+  - - '10:44.0'
+    - ''
+    - ''
+    - 26-16
+    - ''
+    - B. Stith enters the game for R. Davis
+  - - '10:26.0'
+    - B. Outlaw makes 2-pt shot from 1 ft
+    - "+2"
+    - 28-16
+    - ''
+    - ''
+  - - '10:13.0'
+    - ''
+    - ''
+    - 28-16
+    - ''
+    - Personal foul by T. McGrady
+  - - '9:58.0'
+    - ''
+    - ''
+    - 28-16
+    - ''
+    - Turnover by Team (shot clock)
+  - - '9:43.0'
+    - B. Outlaw makes 2-pt shot from 1 ft (assist by T. Hudson)
+    - "+2"
+    - 30-16
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 30-16
+    - ''
+    - Cleveland 20 second timeout
+  - - '9:36.0'
+    - ''
+    - ''
+    - 30-16
+    - ''
+    - W. Person enters the game for B. Coles
+  - - '9:22.0'
+    - ''
+    - ''
+    - 30-16
+    - ''
+    - C. Mihm misses 2-pt shot from 15 ft
+  - - '9:20.0'
+    - ''
+    - ''
+    - 30-16
+    - ''
+    - Offensive rebound by L. Murray
+  - - '9:18.0'
+    - ''
+    - ''
+    - 30-16
+    - ''
+    - L. Murray misses 2-pt shot from 6 ft
+  - - '9:12.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 30-16
+    - ''
+    - ''
+  - - '9:09.0'
+    - P. Ewing makes 2-pt shot at rim (assist by T. McGrady)
+    - "+2"
+    - 32-16
+    - ''
+    - ''
+  - - '8:47.0'
+    - ''
+    - ''
+    - 32-16
+    - ''
+    - W. Person misses 2-pt shot from 21 ft
+  - - '8:45.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 32-16
+    - ''
+    - ''
+  - - '8:38.0'
+    - T. McGrady makes 2-pt shot from 1 ft (assist by T. Hudson)
+    - "+2"
+    - 34-16
+    - ''
+    - ''
+  - - '8:22.0'
+    - ''
+    - ''
+    - 34-18
+    - "+2"
+    - C. Mihm makes 2-pt shot from 15 ft
+  - - '8:06.0'
+    - B. Outlaw makes 2-pt shot from 2 ft
+    - "+2"
+    - 36-18
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 36-18
+    - ''
+    - Personal foul by P. Ewing
+  - - '7:54.0'
+    - ''
+    - ''
+    - 36-18
+    - ''
+    - Official timeout
+  - - '7:54.0'
+    - G. Hill enters the game for T. McGrady
+    - ''
+    - 36-18
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 36-18
+    - ''
+    - B. Skinner enters the game for B. Stith
+  - - '7:42.0'
+    - ''
+    - ''
+    - 36-20
+    - "+2"
+    - A. Miller makes 2-pt shot from 7 ft
+  - - '7:21.0'
+    - P. Garrity misses 3-pt shot from 23 ft
+    - ''
+    - 36-20
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 36-20
+    - ''
+    - Defensive rebound by W. Person
+  - - '7:11.0'
+    - ''
+    - ''
+    - 36-20
+    - ''
+    - B. Skinner misses 2-pt shot from 2 ft (block by B. Outlaw)
+  - - '7:08.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 36-20
+    - ''
+    - ''
+  - - '7:05.0'
+    - Turnover by P. Garrity (traveling)
+    - ''
+    - 36-20
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 36-20
+    - ''
+    - Shooting foul by T. Hudson
+  - - '6:52.0'
+    - H. Grant enters the game for P. Ewing
+    - ''
+    - 36-20
+    - ''
+    - ''
+  - - '6:52.0'
+    - D. Armstrong enters the game for T. Hudson
+    - ''
+    - 36-20
+    - ''
+    - ''
+  - - '6:52.0'
+    - ''
+    - ''
+    - 36-20
+    - ''
+    - A. Miller misses free throw 1 of 2
+  - - '6:52.0'
+    - ''
+    - ''
+    - 36-20
+    - ''
+    - Offensive rebound by Team
+  - - '6:52.0'
+    - ''
+    - ''
+    - 36-21
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '6:40.0'
+    - G. Hill misses 2-pt shot from 11 ft
+    - ''
+    - 36-21
+    - ''
+    - ''
+  - - '6:35.0'
+    - ''
+    - ''
+    - 36-21
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '6:28.0'
+    - ''
+    - ''
+    - 36-21
+    - ''
+    - Shooting foul by H. Grant
+  - - '6:28.0'
+    - ''
+    - ''
+    - 36-22
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '6:28.0'
+    - ''
+    - ''
+    - 36-23
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '6:09.0'
+    - P. Garrity misses 2-pt shot from 19 ft
+    - ''
+    - 36-23
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 36-23
+    - ''
+    - Defensive rebound by W. Person
+  - - '5:57.0'
+    - ''
+    - ''
+    - 36-23
+    - ''
+    - Turnover by A. Miller (lost ball)
+  - - '5:57.0'
+    - Orlando full timeout
+    - ''
+    - 36-23
+    - ''
+    - ''
+  - - '5:57.0'
+    - T. McGrady enters the game for P. Garrity
+    - ''
+    - 36-23
+    - ''
+    - ''
+  - - '5:46.0'
+    - H. Grant makes 2-pt shot from 14 ft (assist by G. Hill)
+    - "+2"
+    - 38-23
+    - ''
+    - ''
+  - - '5:28.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - Shooting foul by B. Outlaw
+  - - '5:28.0'
+    - ''
+    - ''
+    - 38-24
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '5:28.0'
+    - ''
+    - ''
+    - 38-25
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '5:14.0'
+    - H. Grant misses 2-pt shot from 15 ft
+    - ''
+    - 38-25
+    - ''
+    - ''
+  - - '5:12.0'
+    - ''
+    - ''
+    - 38-25
+    - ''
+    - Defensive rebound by W. Person
+  - - '5:02.0'
+    - ''
+    - ''
+    - 38-27
+    - "+2"
+    - A. Miller makes 2-pt shot from 13 ft
+  - - '4:48.0'
+    - T. McGrady misses 2-pt shot from 17 ft
+    - ''
+    - 38-27
+    - ''
+    - ''
+  - - '4:44.0'
+    - ''
+    - ''
+    - 38-27
+    - ''
+    - Defensive rebound by L. Murray
+  - - '4:36.0'
+    - ''
+    - ''
+    - 38-29
+    - "+2"
+    - C. Mihm makes 2-pt shot from 16 ft (assist by L. Murray)
+  - - '4:13.0'
+    - H. Grant makes 2-pt shot from 2 ft (assist by T. McGrady)
+    - "+2"
+    - 40-29
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 40-29
+    - ''
+    - C. Mihm misses 2-pt shot from 4 ft
+  - - '3:51.0'
+    - Defensive rebound by Team
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:51.0'
+    - Loose ball foul by B. Skinner
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:51.0'
+    - Orlando full timeout
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 40-29
+    - ''
+    - J. Jones enters the game for B. Skinner
+  - - '3:51.0'
+    - T. McGrady misses 2-pt shot from 5 ft (block by W. Person)
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:51.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:35.0'
+    - Personal foul by A. Miller
+    - ''
+    - 40-29
+    - ''
+    - ''
+  - - '3:29.0'
+    - D. Armstrong makes 3-pt shot from 25 ft (assist by T. McGrady)
+    - "+3"
+    - 43-29
+    - ''
+    - ''
+  - - '3:03.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - J. Jones misses 3-pt shot from 26 ft
+  - - '3:00.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 43-29
+    - ''
+    - ''
+  - - '2:52.0'
+    - T. McGrady makes 2-pt shot from 1 ft
+    - "+2"
+    - 45-29
+    - ''
+    - ''
+  - - '2:34.0'
+    - ''
+    - ''
+    - 45-29
+    - ''
+    - W. Person misses 2-pt shot from 12 ft (block by G. Hill)
+  - - '2:24.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 45-29
+    - ''
+    - ''
+  - - '2:18.0'
+    - Turnover by H. Grant (bad pass; steal by L. Murray)
+    - ''
+    - 45-29
+    - ''
+    - ''
+  - - '2:15.0'
+    - ''
+    - ''
+    - 45-29
+    - ''
+    - L. Murray misses 2-pt shot from 17 ft
+  - - '2:14.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 45-29
+    - ''
+    - ''
+  - - '2:09.0'
+    - D. Armstrong makes 3-pt shot from 24 ft (assist by H. Grant)
+    - "+3"
+    - 48-29
+    - ''
+    - ''
+  - - '2:09.0'
+    - 'Jump ball: A. Miller vs. D. Armstrong (J. Jones gains possession)'
+  - - '1:50.0'
+    - ''
+    - ''
+    - 48-29
+    - ''
+    - J. Jones misses 3-pt shot from 25 ft
+  - - '1:48.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 48-29
+    - ''
+    - ''
+  - - '1:43.0'
+    - B. Outlaw makes 2-pt shot from 2 ft (assist by D. Armstrong)
+    - "+2"
+    - 50-29
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 50-29
+    - ''
+    - Cleveland full timeout
+  - - '1:26.0'
+    - ''
+    - ''
+    - 50-31
+    - "+2"
+    - W. Person makes 2-pt shot from 17 ft (assist by A. Miller)
+  - - '1:09.0'
+    - G. Hill misses 2-pt shot from 4 ft
+    - ''
+    - 50-31
+    - ''
+    - ''
+  - - '1:06.0'
+    - Offensive rebound by G. Hill
+    - ''
+    - 50-31
+    - ''
+    - ''
+  - - '1:03.0'
+    - G. Hill misses 2-pt shot from 3 ft
+    - ''
+    - 50-31
+    - ''
+    - ''
+  - - '1:02.0'
+    - G. Hill makes 2-pt shot from 1 ft
+    - "+2"
+    - 52-31
+    - ''
+    - ''
+  - - '1:02.0'
+    - Offensive rebound by G. Hill
+    - ''
+    - 52-31
+    - ''
+    - ''
+  - - '0:53.0'
+    - A. DeClercq enters the game for H. Grant
+    - ''
+    - 52-31
+    - ''
+    - ''
+  - - '0:48.2'
+    - ''
+    - ''
+    - 52-31
+    - ''
+    - Turnover by A. Miller (bad pass; steal by D. Armstrong)
+  - - '0:45.2'
+    - Shooting foul by J. Jones
+    - ''
+    - 52-31
+    - ''
+    - ''
+  - - '0:45.2'
+    - B. Outlaw misses free throw 1 of 2
+    - ''
+    - 52-31
+    - ''
+    - ''
+  - - '0:45.2'
+    - Offensive rebound by Team
+    - ''
+    - 52-31
+    - ''
+    - ''
+  - - '0:45.2'
+    - B. Outlaw makes free throw 2 of 2
+    - "+1"
+    - 53-31
+    - ''
+    - ''
+  - - '0:30.0'
+    - ''
+    - ''
+    - 53-31
+    - ''
+    - Shooting foul by A. DeClercq
+  - - '0:30.0'
+    - ''
+    - ''
+    - 53-32
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '0:30.0'
+    - P. Garrity enters the game for A. DeClercq
+    - ''
+    - 53-32
+    - ''
+    - ''
+  - - '0:30.0'
+    - ''
+    - ''
+    - 53-33
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '0:11.5'
+    - Shooting foul by J. Jones
+    - ''
+    - 53-33
+    - ''
+    - ''
+  - - '0:11.5'
+    - G. Hill makes free throw 1 of 2
+    - "+1"
+    - 54-33
+    - ''
+    - ''
+  - - '0:11.5'
+    - T. Hudson enters the game for P. Garrity
+    - ''
+    - 54-33
+    - ''
+    - ''
+  - - '0:11.5'
+    - G. Hill makes free throw 2 of 2
+    - "+1"
+    - 55-33
+    - ''
+    - ''
+  - - '0:03.2'
+    - ''
+    - ''
+    - 55-33
+    - ''
+    - A. Miller misses 2-pt shot from 2 ft (block by B. Outlaw)
+  - - '0:00.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:47.0'
+    - T. McGrady misses 2-pt shot from 14 ft
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '11:44.0'
+    - Offensive rebound by A. DeClercq
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '11:36.0'
+    - A. DeClercq misses 2-pt shot from 7 ft
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '11:33.0'
+    - ''
+    - ''
+    - 55-33
+    - ''
+    - Defensive rebound by J. Jones
+  - - '11:29.0'
+    - ''
+    - ''
+    - 55-33
+    - ''
+    - M. Doleac misses 2-pt shot from 12 ft
+  - - '11:26.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '11:20.0'
+    - T. McGrady misses 2-pt shot from 8 ft
+    - ''
+    - 55-33
+    - ''
+    - ''
+  - - '11:15.0'
+    - ''
+    - ''
+    - 55-33
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '11:09.0'
+    - ''
+    - ''
+    - 55-35
+    - "+2"
+    - C. Mihm makes 2-pt shot from 8 ft (assist by A. Miller)
+  - - '11:00.0'
+    - Personal foul by W. Person
+    - ''
+    - 55-35
+    - ''
+    - ''
+  - - '10:55.0'
+    - G. Hill makes 2-pt shot from 15 ft
+    - "+2"
+    - 57-35
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 57-35
+    - ''
+    - Turnover by C. Mihm (bad pass)
+  - - '10:16.0'
+    - G. Hill misses 2-pt shot from 7 ft
+    - ''
+    - 57-35
+    - ''
+    - ''
+  - - '10:13.0'
+    - T. McGrady makes 2-pt shot at rim
+    - "+2"
+    - 59-35
+    - ''
+    - ''
+  - - '10:13.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 59-35
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 59-38
+    - "+3"
+    - J. Jones makes 3-pt shot from 26 ft (assist by A. Miller)
+  - - '9:38.0'
+    - D. Armstrong misses 2-pt shot from 13 ft
+    - ''
+    - 59-38
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - Defensive rebound by M. Doleac
+  - - '9:25.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - Shooting foul by A. DeClercq
+  - - '9:25.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - M. Doleac misses free throw 1 of 2
+  - - '9:25.0'
+    - ''
+    - ''
+    - 59-38
+    - ''
+    - Offensive rebound by Team
+  - - '9:25.0'
+    - ''
+    - ''
+    - 59-39
+    - "+1"
+    - M. Doleac makes free throw 2 of 2
+  - - '9:04.0'
+    - H. Grant makes 2-pt shot from 17 ft (assist by D. Armstrong)
+    - "+2"
+    - 61-39
+    - ''
+    - ''
+  - - '8:51.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - C. Mihm misses 2-pt shot from 17 ft
+  - - '8:49.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 61-39
+    - ''
+    - ''
+  - - '8:43.0'
+    - Turnover by H. Grant (traveling)
+    - ''
+    - 61-39
+    - ''
+    - ''
+  - - '8:36.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - Personal foul by G. Hill
+  - - '8:31.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - Personal foul by G. Hill
+  - - '8:24.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - Turnover by W. Person (lost ball; steal by H. Grant)
+  - - '8:17.0'
+    - D. Armstrong misses 3-pt shot from 26 ft
+    - ''
+    - 61-39
+    - ''
+    - ''
+  - - '8:14.0'
+    - T. McGrady misses 2-pt shot from 1 ft
+    - ''
+    - 61-39
+    - ''
+    - ''
+  - - '8:14.0'
+    - Offensive rebound by T. McGrady
+    - ''
+    - 61-39
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - Defensive rebound by J. Jones
+  - - '8:07.0'
+    - ''
+    - ''
+    - 61-39
+    - ''
+    - Turnover by J. Jones (traveling)
+  - - '7:57.0'
+    - H. Grant makes 2-pt shot from 19 ft (assist by D. Armstrong)
+    - "+2"
+    - 63-39
+    - ''
+    - ''
+  - - '7:40.0'
+    - ''
+    - ''
+    - 63-39
+    - ''
+    - A. Miller misses 2-pt shot from 17 ft
+  - - '7:37.0'
+    - Defensive rebound by G. Hill
+    - ''
+    - 63-39
+    - ''
+    - ''
+  - - '7:31.0'
+    - H. Grant makes 2-pt shot from 17 ft (assist by T. McGrady)
+    - "+2"
+    - 65-39
+    - ''
+    - ''
+  - - '7:30.0'
+    - ''
+    - ''
+    - 65-39
+    - ''
+    - T. Langdon enters the game for J. Jones
+  - - '7:30.0'
+    - ''
+    - ''
+    - 65-39
+    - ''
+    - B. Skinner enters the game for M. Doleac
+  - - '7:30.0'
+    - ''
+    - ''
+    - 65-39
+    - ''
+    - Cleveland full timeout
+  - - '7:19.0'
+    - ''
+    - ''
+    - 65-39
+    - ''
+    - Shooting foul by D. Armstrong
+  - - '7:19.0'
+    - ''
+    - ''
+    - 65-40
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '7:19.0'
+    - ''
+    - ''
+    - 65-41
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '7:03.0'
+    - H. Grant misses 2-pt shot from 21 ft
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - Defensive rebound by Team
+  - - '6:45.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - T. Langdon misses 2-pt shot from 12 ft
+  - - '6:43.0'
+    - Defensive rebound by H. Grant
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '6:31.0'
+    - G. Hill misses 2-pt shot at rim (block by W. Person)
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '6:21.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - Turnover by C. Mihm (bad pass; steal by D. Armstrong)
+  - - '6:12.0'
+    - H. Grant misses 2-pt shot from 19 ft
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - Defensive rebound by Team
+  - - '5:58.0'
+    - P. Garrity enters the game for H. Grant
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '5:52.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - C. Mihm misses 2-pt shot from 1 ft
+  - - '5:46.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - Offensive rebound by B. Skinner
+  - - '5:45.0'
+    - ''
+    - ''
+    - 65-41
+    - ''
+    - W. Person misses 2-pt shot from 1 ft
+  - - '5:43.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 65-41
+    - ''
+    - ''
+  - - '5:35.0'
+    - T. McGrady makes 2-pt shot from 16 ft
+    - "+2"
+    - 67-41
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 67-41
+    - ''
+    - Shooting foul by A. DeClercq
+  - - '5:18.0'
+    - ''
+    - ''
+    - 67-41
+    - ''
+    - R. Davis enters the game for W. Person
+  - - '5:18.0'
+    - ''
+    - ''
+    - 67-42
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '5:18.0'
+    - P. Ewing enters the game for A. DeClercq
+    - ''
+    - 67-42
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 67-42
+    - ''
+    - C. Mihm misses free throw 2 of 2
+  - - '5:16.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 67-42
+    - ''
+    - ''
+  - - '5:08.0'
+    - T. McGrady misses 2-pt shot from 18 ft
+    - ''
+    - 67-42
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 67-42
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '4:57.0'
+    - ''
+    - ''
+    - 67-42
+    - ''
+    - Shooting foul by P. Garrity
+  - - '4:57.0'
+    - ''
+    - ''
+    - 67-42
+    - ''
+    - B. Skinner misses free throw 1 of 2
+  - - '4:57.0'
+    - ''
+    - ''
+    - 67-42
+    - ''
+    - Offensive rebound by Team
+  - - '4:57.0'
+    - ''
+    - ''
+    - 67-43
+    - "+1"
+    - B. Skinner makes free throw 2 of 2
+  - - '4:42.0'
+    - P. Garrity misses 3-pt shot from 26 ft
+    - ''
+    - 67-43
+    - ''
+    - ''
+  - - '4:40.0'
+    - ''
+    - ''
+    - 67-43
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '4:30.0'
+    - ''
+    - ''
+    - 67-43
+    - ''
+    - C. Mihm misses 3-pt shot from 26 ft
+  - - '4:28.0'
+    - Defensive rebound by T. McGrady
+    - ''
+    - 67-43
+    - ''
+    - ''
+  - - '4:15.0'
+    - P. Ewing misses 2-pt shot from 14 ft
+    - ''
+    - 67-43
+    - ''
+    - ''
+  - - '4:13.0'
+    - Offensive rebound by P. Garrity
+    - ''
+    - 67-43
+    - ''
+    - ''
+  - - '4:05.0'
+    - P. Garrity makes 3-pt shot from 26 ft (assist by D. Armstrong)
+    - "+3"
+    - 70-43
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - Turnover by T. Langdon (bad pass)
+  - - '3:44.0'
+    - D. Armstrong misses 3-pt shot from 26 ft
+    - ''
+    - 70-43
+    - ''
+    - ''
+  - - '3:39.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '3:29.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - T. Langdon misses 3-pt shot from 26 ft
+  - - '3:27.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - Offensive rebound by B. Skinner
+  - - '3:22.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - C. Mihm misses 2-pt shot from 5 ft (block by D. Armstrong)
+  - - '3:20.0'
+    - Defensive rebound by D. Armstrong
+    - ''
+    - 70-43
+    - ''
+    - ''
+  - - '3:16.0'
+    - P. Garrity misses 3-pt shot from 23 ft
+    - ''
+    - 70-43
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '3:09.0'
+    - ''
+    - ''
+    - 70-43
+    - ''
+    - Shooting foul by D. Armstrong
+  - - '3:09.0'
+    - ''
+    - ''
+    - 70-44
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '3:09.0'
+    - T. Hudson enters the game for D. Armstrong
+    - ''
+    - 70-44
+    - ''
+    - ''
+  - - '3:09.0'
+    - ''
+    - ''
+    - 70-45
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '2:51.0'
+    - Offensive foul by P. Ewing
+    - ''
+    - 70-45
+    - ''
+    - ''
+  - - '2:51.0'
+    - Turnover by P. Ewing (offensive foul)
+    - ''
+    - 70-45
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 70-45
+    - ''
+    - Cleveland full timeout
+  - - '2:41.0'
+    - ''
+    - ''
+    - 70-45
+    - ''
+    - Personal foul by T. Hudson
+  - - '2:41.0'
+    - ''
+    - ''
+    - 70-46
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '2:41.0'
+    - ''
+    - ''
+    - 70-47
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '2:29.0'
+    - P. Garrity misses 2-pt shot from 1 ft (block by C. Mihm)
+    - ''
+    - 70-47
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 70-47
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '2:20.0'
+    - ''
+    - ''
+    - 70-47
+    - ''
+    - Shooting foul by T. Hudson
+  - - '2:20.0'
+    - ''
+    - ''
+    - 70-48
+    - "+1"
+    - A. Miller makes free throw 1 of 2
+  - - '2:20.0'
+    - B. Outlaw enters the game for G. Hill
+    - ''
+    - 70-48
+    - ''
+    - ''
+  - - '2:20.0'
+    - ''
+    - ''
+    - 70-49
+    - "+1"
+    - A. Miller makes free throw 2 of 2
+  - - '2:03.0'
+    - T. Hudson misses 3-pt shot from 26 ft
+    - ''
+    - 70-49
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 70-49
+    - ''
+    - Defensive rebound by C. Mihm
+  - - '1:52.0'
+    - ''
+    - ''
+    - 70-49
+    - ''
+    - R. Davis misses 2-pt shot from 16 ft
+  - - '1:48.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 70-49
+    - ''
+    - ''
+  - - '1:37.0'
+    - T. McGrady makes 2-pt shot from 2 ft
+    - "+2"
+    - 72-49
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 72-49
+    - ''
+    - Turnover by T. Langdon (bad pass)
+  - - '1:06.0'
+    - P. Garrity misses 2-pt shot from 6 ft (block by C. Mihm)
+    - ''
+    - 72-49
+    - ''
+    - ''
+  - - '1:00.0'
+    - ''
+    - ''
+    - 72-49
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '0:55.3'
+    - ''
+    - ''
+    - 72-49
+    - ''
+    - Turnover by T. Langdon (traveling)
+  - - '0:35.5'
+    - T. McGrady makes 2-pt shot from 8 ft
+    - "+2"
+    - 74-49
+    - ''
+    - ''
+  - - '0:24.6'
+    - ''
+    - ''
+    - 74-49
+    - ''
+    - R. Davis misses 2-pt shot from 14 ft
+  - - '0:21.3'
+    - ''
+    - ''
+    - 74-49
+    - ''
+    - Offensive rebound by A. Miller
+  - - '0:17.2'
+    - ''
+    - ''
+    - 74-49
+    - ''
+    - Shooting foul by P. Ewing
+  - - '0:17.2'
+    - ''
+    - ''
+    - 74-50
+    - "+1"
+    - C. Mihm makes free throw 1 of 2
+  - - '0:17.2'
+    - D. Armstrong enters the game for B. Outlaw
+    - ''
+    - 74-50
+    - ''
+    - ''
+  - - '0:17.2'
+    - ''
+    - ''
+    - 74-51
+    - "+1"
+    - C. Mihm makes free throw 2 of 2
+  - - '0:01.0'
+    - T. Hudson misses 2-pt shot from 3 ft
+    - ''
+    - 74-51
+    - ''
+    - ''
+  - - '0:00.0'
+    - ''
+    - ''
+    - 74-51
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:40.0'
+    - ''
+    - ''
+    - 74-53
+    - "+2"
+    - R. Davis makes 2-pt shot from 13 ft (assist by B. Coles)
+  - - '11:31.0'
+    - T. Hudson makes 2-pt shot at rim
+    - "+2"
+    - 76-53
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 76-53
+    - ''
+    - R. Davis misses 2-pt shot from 19 ft
+  - - '11:08.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 76-53
+    - ''
+    - ''
+  - - '11:05.0'
+    - Personal foul by T. Langdon
+    - ''
+    - 76-53
+    - ''
+    - ''
+  - - '10:59.0'
+    - T. Hudson misses 2-pt shot from 17 ft
+    - ''
+    - 76-53
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 76-53
+    - ''
+    - Defensive rebound by R. Davis
+  - - '10:45.0'
+    - ''
+    - ''
+    - 76-53
+    - ''
+    - Shooting foul by M. Williams
+  - - '10:45.0'
+    - ''
+    - ''
+    - 76-54
+    - "+1"
+    - T. Langdon makes free throw 1 of 2
+  - - '10:45.0'
+    - ''
+    - ''
+    - 76-55
+    - "+1"
+    - T. Langdon makes free throw 2 of 2
+  - - '10:33.0'
+    - M. Williams misses 2-pt shot from 4 ft
+    - ''
+    - 76-55
+    - ''
+    - ''
+  - - '10:32.0'
+    - ''
+    - ''
+    - 76-55
+    - ''
+    - Defensive rebound by R. Davis
+  - - '10:26.0'
+    - ''
+    - ''
+    - 76-57
+    - "+2"
+    - J. Jones makes 2-pt shot from 1 ft (assist by R. Davis)
+  - - '10:09.0'
+    - P. Garrity makes 3-pt shot from 23 ft (assist by M. Williams)
+    - "+3"
+    - 79-57
+    - ''
+    - ''
+  - - '9:52.0'
+    - ''
+    - ''
+    - 79-57
+    - ''
+    - R. Davis misses 2-pt shot from 14 ft
+  - - '9:50.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '9:33.0'
+    - Turnover by B. Outlaw (3 sec)
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 79-57
+    - ''
+    - C. Mihm misses 2-pt shot from 3 ft
+  - - '9:21.0'
+    - Defensive rebound by P. Garrity
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '9:14.0'
+    - P. Garrity misses 2-pt shot from 13 ft
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '9:12.0'
+    - ''
+    - ''
+    - 79-57
+    - ''
+    - Defensive rebound by J. Jones
+  - - '9:06.0'
+    - ''
+    - ''
+    - 79-57
+    - ''
+    - J. Jones misses 3-pt shot from 24 ft
+  - - '9:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '8:48.0'
+    - Shooting foul by C. Mihm
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '8:48.0'
+    - Official timeout
+    - ''
+    - 79-57
+    - ''
+    - ''
+  - - '8:48.0'
+    - P. Ewing makes free throw 1 of 2
+    - "+1"
+    - 80-57
+    - ''
+    - ''
+  - - '8:48.0'
+    - P. Ewing makes free throw 2 of 2
+    - "+1"
+    - 81-57
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - C. Mihm misses 2-pt shot from 2 ft (block by P. Ewing)
+  - - '8:29.0'
+    - Defensive rebound by M. Williams
+    - ''
+    - 81-57
+    - ''
+    - ''
+  - - '8:17.0'
+    - P. Ewing misses 2-pt shot from 6 ft
+    - ''
+    - 81-57
+    - ''
+    - ''
+  - - '8:14.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - Defensive rebound by J. Jones
+  - - '8:04.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - R. Davis misses 2-pt shot from 19 ft
+  - - '8:01.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - Offensive rebound by C. Mihm
+  - - '8:00.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - T. Langdon misses 3-pt shot from 25 ft
+  - - '7:56.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - Offensive rebound by T. Langdon
+  - - '7:53.0'
+    - ''
+    - ''
+    - 81-57
+    - ''
+    - R. Davis misses 2-pt shot from 3 ft (block by P. Ewing)
+  - - '7:50.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 81-57
+    - ''
+    - ''
+  - - '7:50.0'
+    - B. Outlaw makes 2-pt shot from 1 ft (assist by P. Ewing)
+    - "+2"
+    - 83-57
+    - ''
+    - ''
+  - - '7:50.0'
+    - Shooting foul by B. Coles
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:50.0'
+    - B. Outlaw misses free throw 1 of 1
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:49.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '7:35.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - T. Langdon misses 2-pt shot from 10 ft
+  - - '7:33.0'
+    - Defensive rebound by P. Ewing
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:27.0'
+    - Turnover by B. Outlaw (traveling)
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:14.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - Turnover by J. Jones (bad pass; steal by T. Hudson)
+  - - '7:04.0'
+    - P. Ewing misses 2-pt shot from 17 ft
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive rebound by M. Williams
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - Shooting foul by T. Langdon
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - D. Reid enters the game for P. Garrity
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - M. Williams misses free throw 1 of 2
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - Offensive rebound by Team
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - S. Hunter enters the game for P. Ewing
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:02.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - B. Skinner enters the game for C. Mihm
+  - - '7:02.0'
+    - M. Williams misses free throw 2 of 2
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '7:01.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - Defensive rebound by J. Jones
+  - - '6:51.0'
+    - ''
+    - ''
+    - 83-57
+    - ''
+    - B. Coles misses 2-pt shot from 2 ft
+  - - '6:50.0'
+    - Defensive rebound by M. Williams
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '6:50.0'
+    - Personal foul by B. Skinner
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '6:50.0'
+    - Orlando full timeout
+    - ''
+    - 83-57
+    - ''
+    - ''
+  - - '6:50.0'
+    - M. Williams makes free throw 1 of 2
+    - "+1"
+    - 84-57
+    - ''
+    - ''
+  - - '6:50.0'
+    - M. Williams makes free throw 2 of 2
+    - "+1"
+    - 85-57
+    - ''
+    - ''
+  - - '6:39.0'
+    - ''
+    - ''
+    - 85-57
+    - ''
+    - Personal foul by D. Reid
+  - - '6:35.0'
+    - ''
+    - ''
+    - 85-59
+    - "+2"
+    - J. Jones makes 2-pt shot from 14 ft (assist by R. Davis)
+  - - '6:35.0'
+    - ''
+    - ''
+    - 85-59
+    - ''
+    - Away from play foul by D. Reid
+  - - '6:35.0'
+    - ''
+    - ''
+    - 85-59
+    - ''
+    - B. Skinner misses free throw 1 of 1
+  - - '6:35.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 85-59
+    - ''
+    - ''
+  - - '6:19.0'
+    - D. Reid makes 2-pt shot from 4 ft
+    - "+2"
+    - 87-59
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 87-59
+    - ''
+    - J. Jones misses 3-pt shot from 23 ft
+  - - '5:54.0'
+    - ''
+    - ''
+    - 87-59
+    - ''
+    - T. Langdon misses 2-pt shot from 18 ft
+  - - '5:54.0'
+    - ''
+    - ''
+    - 87-59
+    - ''
+    - Offensive rebound by T. Langdon
+  - - '5:50.0'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 87-59
+    - ''
+    - ''
+  - - '5:45.0'
+    - T. Hudson makes 2-pt shot from 16 ft
+    - "+2"
+    - 89-59
+    - ''
+    - ''
+  - - '5:38.0'
+    - ''
+    - ''
+    - 89-59
+    - ''
+    - Cleveland full timeout
+  - - '5:21.0'
+    - ''
+    - ''
+    - 89-59
+    - ''
+    - Turnover by R. Davis (lost ball; steal by M. Williams)
+  - - '5:01.0'
+    - S. Hunter misses 2-pt shot from 13 ft (block by B. Skinner)
+    - ''
+    - 89-59
+    - ''
+    - ''
+  - - '5:00.0'
+    - Offensive rebound by S. Hunter
+    - ''
+    - 89-59
+    - ''
+    - ''
+  - - '5:00.0'
+    - T. Hudson misses 3-pt shot from 26 ft
+    - ''
+    - 89-59
+    - ''
+    - ''
+  - - '5:00.0'
+    - ''
+    - ''
+    - 89-59
+    - ''
+    - Defensive rebound by Team
+  - - '4:47.0'
+    - ''
+    - ''
+    - 89-59
+    - ''
+    - T. Langdon misses 3-pt shot from 26 ft
+  - - '4:43.0'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 89-59
+    - ''
+    - ''
+  - - '4:33.0'
+    - D. Reid makes 2-pt shot from 3 ft
+    - "+2"
+    - 91-59
+    - ''
+    - ''
+  - - '4:33.0'
+    - ''
+    - ''
+    - 91-59
+    - ''
+    - Violation by B. Skinner (def goaltending)
+  - - '4:16.0'
+    - ''
+    - ''
+    - 91-59
+    - ''
+    - Personal foul by D. Reid
+  - - '4:10.0'
+    - ''
+    - ''
+    - 91-59
+    - ''
+    - R. Davis misses 2-pt shot from 9 ft
+  - - '4:05.0'
+    - Defensive rebound by T. Hudson
+    - ''
+    - 91-59
+    - ''
+    - ''
+  - - '4:02.0'
+    - Shooting foul by T. Langdon
+    - ''
+    - 91-59
+    - ''
+    - ''
+  - - '4:02.0'
+    - D. Reid misses free throw 1 of 2
+    - ''
+    - 91-59
+    - ''
+    - ''
+  - - '4:02.0'
+    - Offensive rebound by Team
+    - ''
+    - 91-59
+    - ''
+    - ''
+  - - '4:02.0'
+    - D. Reid makes free throw 2 of 2
+    - "+1"
+    - 92-59
+    - ''
+    - ''
+  - - '3:51.0'
+    - ''
+    - ''
+    - 92-61
+    - "+2"
+    - J. Jones makes 2-pt shot from 20 ft (assist by T. Langdon)
+  - - '3:40.0'
+    - Turnover by B. Outlaw (bad pass; steal by B. Skinner)
+    - ''
+    - 92-61
+    - ''
+    - ''
+  - - '3:32.0'
+    - ''
+    - ''
+    - 92-63
+    - "+2"
+    - B. Coles makes 2-pt shot from 14 ft (assist by J. Jones)
+  - - '3:15.0'
+    - S. Hunter misses 2-pt shot from 2 ft
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '3:14.0'
+    - Offensive rebound by S. Hunter
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '3:14.0'
+    - Orlando full timeout
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '3:07.0'
+    - Turnover by T. Hudson (palming)
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '2:51.0'
+    - ''
+    - ''
+    - 92-63
+    - ''
+    - T. Langdon misses 2-pt shot from 19 ft
+  - - '2:49.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '2:36.0'
+    - D. Reid misses 2-pt shot from 9 ft
+    - ''
+    - 92-63
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 92-63
+    - ''
+    - Defensive rebound by T. Langdon
+  - - '2:26.0'
+    - ''
+    - ''
+    - 92-65
+    - "+2"
+    - J. Jones makes 2-pt shot from 13 ft
+  - - '2:16.0'
+    - S. Hunter makes 2-pt shot from 6 ft (assist by B. Outlaw)
+    - "+2"
+    - 94-65
+    - ''
+    - ''
+  - - '1:51.0'
+    - ''
+    - ''
+    - 94-67
+    - "+2"
+    - B. Coles makes 2-pt shot from 16 ft (assist by T. Langdon)
+  - - '1:44.0'
+    - Shooting foul by T. Langdon
+    - ''
+    - 94-67
+    - ''
+    - ''
+  - - '1:44.0'
+    - M. Williams makes free throw 1 of 2
+    - "+1"
+    - 95-67
+    - ''
+    - ''
+  - - '1:44.0'
+    - M. Williams misses free throw 2 of 2
+    - ''
+    - 95-67
+    - ''
+    - ''
+  - - '1:41.0'
+    - ''
+    - ''
+    - 95-67
+    - ''
+    - Defensive rebound by B. Skinner
+  - - '1:22.0'
+    - ''
+    - ''
+    - 95-67
+    - ''
+    - Shooting foul by T. Hudson
+  - - '1:22.0'
+    - ''
+    - ''
+    - 95-67
+    - ''
+    - J. Jones misses free throw 1 of 2
+  - - '1:22.0'
+    - ''
+    - ''
+    - 95-67
+    - ''
+    - Offensive rebound by Team
+  - - '1:22.0'
+    - ''
+    - ''
+    - 95-67
+    - ''
+    - J. Jones misses free throw 2 of 2
+  - - '1:22.0'
+    - Defensive rebound by D. Reid
+    - ''
+    - 95-67
+    - ''
+    - ''
+  - - '1:11.0'
+    - Shooting foul by B. Skinner
+    - ''
+    - 95-67
+    - ''
+    - ''
+  - - '1:11.0'
+    - D. Reid makes free throw 1 of 2
+    - "+1"
+    - 96-67
+    - ''
+    - ''
+  - - '1:11.0'
+    - D. Reid makes free throw 2 of 2
+    - "+1"
+    - 97-67
+    - ''
+    - ''
+  - - '0:57.5'
+    - ''
+    - ''
+    - 97-67
+    - ''
+    - R. Davis misses 2-pt shot from 3 ft (block by B. Outlaw)
+  - - '0:55.8'
+    - ''
+    - ''
+    - 97-67
+    - ''
+    - Offensive rebound by R. Davis
+  - - '0:54.6'
+    - ''
+    - ''
+    - 97-69
+    - "+2"
+    - R. Davis makes 2-pt shot at rim
+  - - '0:41.9'
+    - M. Williams makes 2-pt shot from 1 ft (assist by T. Hudson)
+    - "+2"
+    - 99-69
+    - ''
+    - ''
+  - - '0:32.5'
+    - ''
+    - ''
+    - 99-69
+    - ''
+    - B. Coles misses 2-pt shot from 7 ft
+  - - '0:30.3'
+    - ''
+    - ''
+    - 99-69
+    - ''
+    - Offensive rebound by R. Davis
+  - - '0:22.7'
+    - ''
+    - ''
+    - 99-69
+    - ''
+    - J. Jones misses 2-pt shot from 2 ft
+  - - '0:18.4'
+    - Defensive rebound by B. Outlaw
+    - ''
+    - 99-69
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

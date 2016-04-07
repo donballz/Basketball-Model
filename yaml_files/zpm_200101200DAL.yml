@@ -1,0 +1,203 @@
+---
+- name: Plus-Minus
+  data:
+  - - Denver Nuggets
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Raef LaFrentz (On: -16&#9642;Off: -2&#9642;Net: -14)'
+    - |2-
+
+      -5
+    - 159/-5
+    - 189/
+    - 152/-5
+    - 90/-6
+    - 409/
+    - 'Voshon Lenard (On: -12&#9642;Off: -6&#9642;Net: -6)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 146/
+    - 104/-5
+    - 250/-5
+    - 249/
+    - 'Antonio McDyess (On: -12&#9642;Off: -6&#9642;Net: -6)'
+    - |2-
+
+      -2
+    - 250/-2
+    - 92/
+    - 158/-5
+    - 250/-5
+    - 249/
+    - 'James Posey (On: -6&#9642;Off: -12&#9642;Net: +6)'
+    - |2-
+
+      -5
+    - 159/-5
+    - 150/
+    - 190/-6
+    - 146/-1
+    - 147/
+    - 149/+6
+    - 56/
+    - 'Nick Van Exel (On: -20&#9642;Off: +2&#9642;Net: -22)'
+    - |2-
+
+      -2
+    - 249/-2
+    - 54/-2
+    - 98/
+    - 97/-5
+    - 249/-5
+    - 41/-6
+    - 209/
+    - 'George McCloud (On: -12&#9642;Off: -6&#9642;Net: -6)'
+    - "\n"
+    - 162/
+    - 88/+3
+    - 141/-3
+    - 255/
+    - 102/-4
+    - 109/-8
+    - 140/
+    - 'Kevin Willis (On: -2&#9642;Off: -16&#9642;Net: +14)'
+    - "\n"
+    - 162/
+    - 88/+3
+    - 97/-3
+    - 246/
+    - 156/+1
+    - 249/-3
+    - 'Robert Pack (On: -6&#9642;Off: -12&#9642;Net: +6)'
+    - "\n"
+    - 250/
+    - 147/-3
+    - 353/
+    - 250/-3
+    - 'Mark Strickland (On: -6&#9642;Off: -12&#9642;Net: +6)'
+    - "\n"
+    - 250/
+    - 88/-3
+    - 412/
+    - 250/-3
+    - 'Ryan Bowen (On: +5&#9642;Off: -23&#9642;Net: +28)'
+    - "\n"
+    - 862/
+    - 140/+5
+    - 'Tariq Abdul-Wahad (On: -3&#9642;Off: -15&#9642;Net: +12)'
+    - "\n"
+    - 952/
+    - 50/-3
+  - - Dallas Mavericks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Courtney Alexander (On: -1&#9642;Off: +19&#9642;Net: -20)'
+    - |2-
+
+      +1
+    - 230/+1
+    - 750/
+    - 21/-2
+    - 'Howard Eisley (On: +19&#9642;Off: -1&#9642;Net: +20)'
+    - |2-
+
+      +2
+    - 249/+2
+    - 12/0
+    - 139/
+    - 97/+5
+    - 98/+4
+    - 151/
+    - 109/+8
+    - 141/
+    - 'Michael Finley (On: +12&#9642;Off: +6&#9642;Net: +6)'
+    - |2-
+
+      +2
+    - 250/+2
+    - 250/+8
+    - 250/+5
+    - 110/
+    - 115/-3
+    - 23/
+    - 'Christian Laettner (On: +13&#9642;Off: +5&#9642;Net: +8)'
+    - |2-
+
+      +5
+    - 138/+5
+    - 221/
+    - 133/+1
+    - 6/
+    - 130/+1
+    - 91/
+    - 28/0
+    - 41/+6
+    - 207/
+    - 'Dirk Nowitzki (On: +14&#9642;Off: +4&#9642;Net: +10)'
+    - |2-
+
+      +5
+    - 183/+5
+    - 84/
+    - 194/+5
+    - 37/
+    - 214/+5
+    - 79/
+    - 180/-1
+    - 25/
+    - 'Gary Trent (On: -6&#9642;Off: +24&#9642;Net: -30)'
+    - "\n"
+    - 142/
+    - 108/-3
+    - 632/
+    - 118/-3
+    - 'Loy Vaught (On: +17&#9642;Off: +1&#9642;Net: +16)'
+    - "\n"
+    - 189/
+    - 60/-3
+    - 109/+7
+    - 108/
+    - 32/+3
+    - 136/
+    - 113/+4
+    - 124/+6
+    - 124/
+    - 'Hubert Davis (On: +17&#9642;Off: +1&#9642;Net: +16)'
+    - "\n"
+    - 230/
+    - 20/+1
+    - 250/+8
+    - 250/+5
+    - 249/+3
+    - 'Shawn Bradley (On: +7&#9642;Off: +11&#9642;Net: -4)'
+    - "\n"
+    - 249/
+    - 146/+3
+    - 103/
+    - 0/0
+    - 102/
+    - 147/+1
+    - 250/+3
+    - 'Donnell Harvey (On: -2&#9642;Off: +20&#9642;Net: -22)'
+    - "\n"
+    - 981/
+    - 21/-2
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

@@ -1,0 +1,200 @@
+---
+- name: Plus-Minus
+  data:
+  - - Los Angeles Clippers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Jeff McInnis (On: -18&#9642;Off: +8&#9642;Net: -26)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 40/-1
+    - 209/
+    - 249/0
+    - 43/-6
+    - 97/
+    - 110/-5
+    - 'Lamar Odom (On: -8&#9642;Off: -2&#9642;Net: -6)'
+    - |2-
+
+      -7
+    - 182/-7
+    - 173/
+    - 126/+9
+    - 17/
+    - 249/0
+    - 85/-5
+    - 55/
+    - 109/-5
+    - 'Michael Olowokandi (On: -14&#9642;Off: +4&#9642;Net: -18)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 85/-2
+    - 164/
+    - 249/0
+    - 43/-6
+    - 176/
+    - 31/0
+    - 'Cherokee Parks (On: -2&#9642;Off: -8&#9642;Net: +6)'
+    - |2-
+
+      -7
+    - 183/-7
+    - 317/
+    - 154/+5
+    - 346/
+    - 'Eric Piatkowski (On: -13&#9642;Off: +3&#9642;Net: -16)'
+    - |2-
+
+      -6
+    - 249/-6
+    - 85/-2
+    - 164/
+    - 249/0
+    - 18/-2
+    - 155/
+    - 77/-3
+    - 'Corey Maggette (On: -7&#9642;Off: -3&#9642;Net: -4)'
+    - "\n"
+    - 188/
+    - 61/+1
+    - 99/-4
+    - 138/
+    - 12/0
+    - 270/
+    - 146/-4
+    - 82/
+    - 'Darius Miles (On: -8&#9642;Off: -2&#9642;Net: -6)'
+    - "\n"
+    - 188/
+    - 61/+1
+    - 250/+5
+    - 158/
+    - 91/-5
+    - 250/-9
+    - 'Keyon Dooling (On: +8&#9642;Off: -18&#9642;Net: +26)'
+    - "\n"
+    - 298/
+    - 202/+6
+    - 296/
+    - 94/+2
+    - 109/
+    - 'Quentin Richardson (On: +8&#9642;Off: -18&#9642;Net: +26)'
+    - "\n"
+    - 340/
+    - 159/+7
+    - 338/
+    - 51/+1
+    - 111/
+    - 'Sean Rooks (On: +4&#9642;Off: -14&#9642;Net: +18)'
+    - "\n"
+    - 340/
+    - 159/+7
+    - 296/
+    - 171/-3
+    - 33/
+  - - Seattle SuperSonics
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Emanual Davis (On: 0&#9642;Off: +10&#9642;Net: -10)'
+    - |2-
+
+      +1
+    - 207/+1
+    - 102/
+    - 191/-6
+    - 250/0
+    - 79/+5
+    - 169/
+    - 'Patrick Ewing (On: -4&#9642;Off: +14&#9642;Net: -18)'
+    - |2-
+
+      +1
+    - 207/+1
+    - 293/
+    - 154/-5
+    - 346/
+    - 'Rashard Lewis (On: -1&#9642;Off: +11&#9642;Net: -12)'
+    - |2-
+
+      +4
+    - 239/+4
+    - 161/
+    - 99/-10
+    - 250/0
+    - 140/
+    - 109/+5
+    - 'Jelani McCoy (On: -4&#9642;Off: +14&#9642;Net: -18)'
+    - |2-
+
+      +1
+    - 207/+1
+    - 293/
+    - 154/-5
+    - 346/
+    - 'Gary Payton (On: +6&#9642;Off: +4&#9642;Net: +2)'
+    - |2-
+
+      +6
+    - 249/+6
+    - 53/+1
+    - 117/
+    - 79/-5
+    - 249/0
+    - 83/
+    - 167/+4
+    - 'Vin Baker (On: +14&#9642;Off: -4&#9642;Net: +18)'
+    - "\n"
+    - 210/
+    - 39/+5
+    - 250/-5
+    - 158/
+    - 91/+5
+    - 250/+9
+    - 'Brent Barry (On: +14&#9642;Off: -4&#9642;Net: +18)'
+    - "\n"
+    - 210/
+    - 39/+5
+    - 165/0
+    - 72/
+    - 12/0
+    - 249/
+    - 250/+9
+    - 'Ruben Patterson (On: +9&#9642;Off: +1&#9642;Net: +8)'
+    - "\n"
+    - 210/
+    - 39/+5
+    - 232/-5
+    - 174/
+    - 91/+5
+    - 139/+4
+    - 79/
+    - 32/0
+    - 'Desmond Mason (On: +16&#9642;Off: -6&#9642;Net: +22)'
+    - "\n"
+    - 245/
+    - 4/+2
+    - 146/+5
+    - 353/
+    - 216/+9
+    - 34/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

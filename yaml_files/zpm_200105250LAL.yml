@@ -1,0 +1,208 @@
+---
+- name: Plus-Minus
+  data:
+  - - San Antonio Spurs
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Derek Anderson (On: -29&#9642;Off: -10&#9642;Net: -19)'
+    - |2-
+
+      -10
+    - 144/-10
+    - 57/
+    - 48/-4
+    - 90/+3
+    - 159/
+    - 118/-3
+    - 187/
+    - 193/-15
+    - 'Antonio Daniels (On: -34&#9642;Off: -5&#9642;Net: -29)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 250/+3
+    - 250/-12
+    - 183/-12
+    - 66/
+    - 'Tim Duncan (On: -27&#9642;Off: -12&#9642;Net: -15)'
+    - |2-
+
+      -9
+    - 194/-9
+    - 55/
+    - 241/+4
+    - 9/
+    - 249/-12
+    - 133/-10
+    - 116/
+    - 'Terry Porter (On: -12&#9642;Off: -27&#9642;Net: +15)'
+    - |2-
+
+      -9
+    - 194/-9
+    - 306/
+    - 151/-3
+    - 349/
+    - 'David Robinson (On: -24&#9642;Off: -15&#9642;Net: -9)'
+    - |2-
+
+      -13
+    - 250/-13
+    - 77/
+    - 172/-2
+    - 210/-9
+    - 290/
+    - 'Danny Ferry (On: -30&#9642;Off: -9&#9642;Net: -21)'
+    - "\n"
+    - 146/
+    - 102/-3
+    - 195/
+    - 54/-5
+    - 121/
+    - 127/-9
+    - 54/-2
+    - 41/
+    - 155/-11
+    - 'Avery Johnson (On: -16&#9642;Off: -23&#9642;Net: +7)'
+    - "\n"
+    - 201/
+    - 48/-4
+    - 249/+3
+    - 155/
+    - 94/-9
+    - 90/-6
+    - 160/
+    - 'Malik Rose (On: -10&#9642;Off: -29&#9642;Net: +19)'
+    - "\n"
+    - 250/
+    - 70/+5
+    - 395/
+    - 34/-3
+    - 183/-12
+    - 66/
+    - 'Steve Kerr (On: -1&#9642;Off: -38&#9642;Net: +37)'
+    - "\n"
+    - 344/
+    - 93/+5
+    - 60/
+    - 2/-1
+    - 434/
+    - 65/-5
+    - 'Samaki Walker (On: -7&#9642;Off: -32&#9642;Net: +25)'
+    - "\n"
+    - 889/
+    - 113/-7
+    - 'Shawnelle Scott (On: -5&#9642;Off: -34&#9642;Net: +29)'
+    - "\n"
+    - 937/
+    - 65/-5
+  - - Los Angeles Lakers
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Kobe Bryant (On: +28&#9642;Off: +11&#9642;Net: +17)'
+    - |2-
+
+      +13
+    - 249/+13
+    - 133/-4
+    - 39/
+    - 76/+1
+    - 249/+12
+    - 70/+4
+    - 66/
+    - 33/+2
+    - 80/
+    - 'Derek Fisher (On: +32&#9642;Off: +7&#9642;Net: +25)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 133/-4
+    - 116/
+    - 250/+12
+    - 133/+10
+    - 116/
+    - 'Rick Fox (On: +36&#9642;Off: +3&#9642;Net: +33)'
+    - |2-
+
+      +13
+    - 250/+13
+    - 138/
+    - 111/+1
+    - 250/+12
+    - 133/+10
+    - 116/
+    - 'Horace Grant (On: +15&#9642;Off: +24&#9642;Net: -9)'
+    - |2-
+
+      +2
+    - 53/+2
+    - 369/
+    - 68/0
+    - 9/
+    - 209/+9
+    - 40/
+    - 71/+4
+    - 177/
+    - 'Shaquille O''Neal (On: +21&#9642;Off: +18&#9642;Net: +3)'
+    - |2-
+
+      +9
+    - 233/+9
+    - 16/
+    - 184/-6
+    - 65/
+    - 249/+12
+    - 75/
+    - 58/+6
+    - 116/
+    - 'Robert Horry (On: +30&#9642;Off: +9&#9642;Net: +21)'
+    - "\n"
+    - 59/
+    - 190/+11
+    - 167/-4
+    - 20/
+    - 62/+3
+    - 215/
+    - 34/+3
+    - 249/+17
+    - 'Mark Madsen (On: +11&#9642;Off: +28&#9642;Net: -17)'
+    - "\n"
+    - 237/
+    - 13/+4
+    - 638/
+    - 112/+7
+    - 'Brian Shaw (On: +9&#9642;Off: +30&#9642;Net: -21)'
+    - "\n"
+    - 250/
+    - 167/-4
+    - 408/
+    - 175/+13
+    - 'Tyronn Lue (On: +8&#9642;Off: +31&#9642;Net: -23)'
+    - "\n"
+    - 389/
+    - 111/+1
+    - 388/
+    - 112/+7
+    - 'Devean George (On: +5&#9642;Off: +34&#9642;Net: -29)'
+    - "\n"
+    - 923/
+    - 79/+5
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

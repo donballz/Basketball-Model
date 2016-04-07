@@ -1,0 +1,2536 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: K. Garnett vs. D. Mutombo (T. Brandon gains possession)'
+  - - '11:43.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - T. Brandon misses 2-pt shot from 17 ft
+  - - '11:41.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Offensive rebound by J. Smith
+  - - '11:30.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - J. Smith makes 2-pt shot from 18 ft (assist by T. Brandon)
+  - - '11:08.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:08.0'
+    - D. Coleman makes free throw 1 of 2
+    - "+1"
+    - 1-2
+    - ''
+    - ''
+  - - '11:08.0'
+    - D. Coleman misses free throw 2 of 2
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '11:07.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Defensive rebound by J. Smith
+  - - '10:56.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - T. Brandon misses 2-pt shot from 19 ft
+  - - '10:55.0'
+    - Defensive rebound by M. Harpring
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:39.0'
+    - S. Claxton misses 2-pt shot at rim
+    - ''
+    - 1-2
+    - ''
+    - ''
+  - - '10:38.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Defensive rebound by R. Nesterovic
+  - - '10:34.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - Personal foul by M. Harpring
+  - - '10:22.0'
+    - ''
+    - ''
+    - 1-2
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 18 ft
+  - - '10:20.0'
+    - ''
+    - ''
+    - 1-4
+    - "+2"
+    - J. Smith makes 2-pt shot at rim
+  - - '10:20.0'
+    - ''
+    - ''
+    - 1-4
+    - ''
+    - Offensive rebound by J. Smith
+  - - '9:59.0'
+    - M. Harpring misses 2-pt shot from 18 ft
+    - ''
+    - 1-4
+    - ''
+    - ''
+  - - '9:57.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 1-4
+    - ''
+    - ''
+  - - '9:57.0'
+    - Shooting foul by J. Smith
+    - ''
+    - 1-4
+    - ''
+    - ''
+  - - '9:57.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 2-4
+    - ''
+    - ''
+  - - '9:57.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 3-4
+    - ''
+    - ''
+  - - '9:46.0'
+    - ''
+    - ''
+    - 3-6
+    - "+2"
+    - K. Garnett makes 2-pt shot from 14 ft (assist by T. Brandon)
+  - - '9:24.0'
+    - S. Claxton misses 2-pt shot from 19 ft
+    - ''
+    - 3-6
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 3-6
+    - ''
+    - Defensive rebound by J. Smith
+  - - '9:17.0'
+    - ''
+    - ''
+    - 3-6
+    - ''
+    - Turnover by W. Szczerbiak (lost ball)
+  - - '9:05.0'
+    - R. Bell makes 2-pt shot from 7 ft (assist by S. Claxton)
+    - "+2"
+    - 5-6
+    - ''
+    - ''
+  - - '8:50.0'
+    - ''
+    - ''
+    - 5-6
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 8 ft
+  - - '8:48.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 5-6
+    - ''
+    - ''
+  - - '8:38.0'
+    - D. Mutombo makes 2-pt shot at rim (assist by R. Bell)
+    - "+2"
+    - 7-6
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 7-6
+    - ''
+    - R. Nesterovic misses 2-pt shot from 9 ft (block by D. Mutombo)
+  - - '8:17.0'
+    - ''
+    - ''
+    - 7-6
+    - ''
+    - Offensive rebound by R. Nesterovic
+  - - '8:17.0'
+    - ''
+    - ''
+    - 7-6
+    - ''
+    - Shooting foul by D. Coleman
+  - - '8:17.0'
+    - ''
+    - ''
+    - 7-7
+    - "+1"
+    - R. Nesterovic makes free throw 1 of 2
+  - - '8:17.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - R. Nesterovic misses free throw 2 of 2
+  - - '8:17.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '8:02.0'
+    - Turnover by M. Harpring (bad pass)
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:53.0'
+    - ''
+    - ''
+    - 7-7
+    - ''
+    - R. Nesterovic misses 2-pt shot from 18 ft
+  - - '7:51.0'
+    - Defensive rebound by R. Bell
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:40.0'
+    - S. Claxton misses 2-pt shot from 11 ft
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:39.0'
+    - M. Harpring misses 2-pt shot at rim
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:39.0'
+    - Offensive rebound by M. Harpring
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:37.0'
+    - Offensive rebound by S. Claxton
+    - ''
+    - 7-7
+    - ''
+    - ''
+  - - '7:28.0'
+    - D. Coleman makes 3-pt shot from 25 ft (assist by S. Claxton)
+    - "+3"
+    - 10-7
+    - ''
+    - ''
+  - - '7:10.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - R. Nesterovic misses 2-pt shot from 18 ft
+  - - '7:08.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '7:02.0'
+    - Turnover by S. Claxton (bad pass; steal by W. Szczerbiak)
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:55.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - Turnover by K. Garnett (lost ball)
+  - - '6:41.0'
+    - D. Coleman misses 2-pt shot from 13 ft
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:40.0'
+    - Loose ball foul by R. Nesterovic
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:40.0'
+    - C. Blount enters the game for D. Coleman
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:40.0'
+    - ''
+    - ''
+    - 10-7
+    - ''
+    - D. Garrett enters the game for R. Nesterovic
+  - - '6:36.0'
+    - S. Claxton misses 2-pt shot from 21 ft
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:34.0'
+    - D. Mutombo misses 2-pt shot at rim
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:34.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 10-7
+    - ''
+    - ''
+  - - '6:31.0'
+    - M. Harpring makes 2-pt shot at rim
+    - "+2"
+    - 12-7
+    - ''
+    - ''
+  - - '6:31.0'
+    - Offensive rebound by M. Harpring
+    - ''
+    - 12-7
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - K. Garnett misses 2-pt shot from 16 ft
+  - - '6:13.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - Offensive rebound by Team
+  - - '6:13.0'
+    - ''
+    - ''
+    - 12-7
+    - ''
+    - Minnesota full timeout
+  - - '6:13.0'
+    - D. Coleman enters the game for M. Harpring
+    - ''
+    - 12-7
+    - ''
+    - ''
+  - - '6:11.0'
+    - ''
+    - ''
+    - 12-9
+    - "+2"
+    - J. Smith makes 2-pt shot from 19 ft (assist by K. Garnett)
+  - - '5:49.0'
+    - D. Coleman makes 2-pt shot from 10 ft (assist by R. Bell)
+    - "+2"
+    - 14-9
+    - ''
+    - ''
+  - - '5:49.0'
+    - Shooting foul by J. Smith
+    - ''
+    - 14-9
+    - ''
+    - ''
+  - - '5:49.0'
+    - D. Coleman makes free throw 1 of 1
+    - "+1"
+    - 15-9
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - K. Garnett misses 2-pt shot from 10 ft
+  - - '5:32.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - Offensive rebound by Team
+  - - '5:32.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - G. Trent enters the game for J. Smith
+  - - '5:23.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 17 ft
+  - - '5:21.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '5:09.0'
+    - D. Mutombo makes 2-pt shot at rim (assist by R. Bell)
+    - "+2"
+    - 17-9
+    - ''
+    - ''
+  - - '5:01.0'
+    - ''
+    - ''
+    - 17-9
+    - ''
+    - K. Garnett misses 3-pt shot from 24 ft
+  - - '4:59.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 17-9
+    - ''
+    - ''
+  - - '4:40.0'
+    - D. Coleman makes 2-pt shot from 18 ft
+    - "+2"
+    - 19-9
+    - ''
+    - ''
+  - - '4:21.0'
+    - ''
+    - ''
+    - 19-11
+    - "+2"
+    - G. Trent makes 2-pt shot at rim (assist by W. Szczerbiak)
+  - - '4:21.0'
+    - ''
+    - ''
+    - 19-11
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '4:21.0'
+    - ''
+    - ''
+    - 19-11
+    - ''
+    - G. Trent misses free throw 1 of 1
+  - - '4:20.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 19-11
+    - ''
+    - ''
+  - - '4:00.0'
+    - D. Coleman misses 2-pt shot from 18 ft (block by K. Garnett)
+    - ''
+    - 19-11
+    - ''
+    - ''
+  - - '3:59.0'
+    - ''
+    - ''
+    - 19-11
+    - ''
+    - Defensive rebound by D. Garrett
+  - - '3:57.0'
+    - ''
+    - ''
+    - 19-11
+    - ''
+    - Turnover by D. Garrett (bad pass; steal by S. Claxton)
+  - - '3:51.0'
+    - C. Blount misses 2-pt shot at rim (block by D. Garrett)
+    - ''
+    - 19-11
+    - ''
+    - ''
+  - - '3:48.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 19-11
+    - ''
+    - ''
+  - - '3:47.0'
+    - C. Blount makes 2-pt shot from 17 ft
+    - "+2"
+    - 21-11
+    - ''
+    - ''
+  - - '3:23.0'
+    - ''
+    - ''
+    - 21-13
+    - "+2"
+    - G. Trent makes 2-pt shot from 18 ft (assist by T. Brandon)
+  - - '3:14.0'
+    - Philadelphia full timeout
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:14.0'
+    - V. Cummings enters the game for S. Claxton
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - A. Peeler enters the game for W. Szczerbiak
+  - - '3:05.0'
+    - Turnover by D. Coleman (lost ball; steal by K. Garnett)
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '2:55.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - Personal foul by C. Blount
+  - - '2:44.0'
+    - ''
+    - ''
+    - 21-13
+    - ''
+    - T. Brandon misses 2-pt shot from 9 ft
+  - - '2:42.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '2:31.0'
+    - Turnover by C. Blount (bad pass; steal by D. Garrett)
+    - ''
+    - 21-13
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 21-15
+    - "+2"
+    - K. Garnett makes 2-pt shot from 6 ft (assist by G. Trent)
+  - - '1:56.0'
+    - V. Cummings misses 2-pt shot from 18 ft
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '1:51.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - A. Peeler misses 2-pt shot at rim (block by C. Blount)
+  - - '1:51.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Offensive rebound by Team
+  - - '1:51.0'
+    - M. Harpring enters the game for C. Blount
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:51.0'
+    - M. Geiger enters the game for D. Mutombo
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - T. Brandon misses 2-pt shot from 16 ft
+  - - '1:43.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:38.0'
+    - Turnover by D. Coleman (dbl dribble)
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - C. Billups enters the game for T. Brandon
+  - - '1:38.0'
+    - S. Claxton enters the game for R. Bell
+    - ''
+    - 21-15
+    - ''
+    - ''
+  - - '1:27.0'
+    - ''
+    - ''
+    - 21-15
+    - ''
+    - Personal foul by S. Claxton
+  - - '1:27.0'
+    - ''
+    - ''
+    - 21-16
+    - "+1"
+    - C. Billups makes free throw 1 of 2
+  - - '1:27.0'
+    - ''
+    - ''
+    - 21-17
+    - "+1"
+    - C. Billups makes free throw 2 of 2
+  - - '1:04.0'
+    - M. Geiger misses 2-pt shot from 16 ft
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:02.0'
+    - Offensive rebound by D. Coleman
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:00.0'
+    - Shooting foul by G. Trent
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:00.0'
+    - D. Coleman misses free throw 1 of 2
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '1:00.0'
+    - D. Coleman misses free throw 2 of 2
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:59.7'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - Defensive rebound by D. Garrett
+  - - '0:50.0'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - A. Peeler misses 2-pt shot from 17 ft
+  - - '0:47.8'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '0:46.8'
+    - Violation by V. Cummings (kicked ball)
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:32.6'
+    - ''
+    - ''
+    - 21-17
+    - ''
+    - D. Garrett misses 2-pt shot from 9 ft
+  - - '0:30.5'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:05.5'
+    - M. Harpring misses 2-pt shot from 21 ft
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:04.1'
+    - Offensive rebound by M. Harpring
+    - ''
+    - 21-17
+    - ''
+    - ''
+  - - '0:03.1'
+    - M. Harpring makes 2-pt shot from 20 ft
+    - "+2"
+    - 23-17
+    - ''
+    - ''
+  - - '0:01.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - C. Billups misses 3-pt shot from 33 ft
+  - - '0:00.0'
+    - ''
+    - ''
+    - 23-17
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:39.0'
+    - M. Harpring misses 2-pt shot from 18 ft
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '11:37.0'
+    - Offensive rebound by M. Geiger
+    - ''
+    - 23-17
+    - ''
+    - ''
+  - - '11:33.0'
+    - S. Claxton makes 2-pt shot from 19 ft
+    - "+2"
+    - 25-17
+    - ''
+    - ''
+  - - '11:11.0'
+    - ''
+    - ''
+    - 25-17
+    - ''
+    - Personal foul by D. Coleman
+  - - '11:11.0'
+    - C. Blount enters the game for D. Coleman
+    - ''
+    - 25-17
+    - ''
+    - ''
+  - - '10:57.0'
+    - ''
+    - ''
+    - 25-20
+    - "+3"
+    - C. Billups makes 3-pt shot from 25 ft
+  - - '10:29.0'
+    - M. Geiger misses 2-pt shot from 20 ft
+    - ''
+    - 25-20
+    - ''
+    - ''
+  - - '10:27.0'
+    - ''
+    - ''
+    - 25-20
+    - ''
+    - Defensive rebound by C. Billups
+  - - '10:20.0'
+    - ''
+    - ''
+    - 25-22
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim (assist by C. Billups)
+  - - '9:55.0'
+    - Turnover by V. Cummings (lost ball)
+    - ''
+    - 25-22
+    - ''
+    - ''
+  - - '9:44.0'
+    - ''
+    - ''
+    - 25-24
+    - "+2"
+    - C. Billups makes 2-pt shot from 19 ft
+  - - '9:18.0'
+    - C. Blount misses 2-pt shot from 18 ft
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:18.0'
+    - Offensive rebound by Team
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:18.0'
+    - Loose ball foul by W. Szczerbiak
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:18.0'
+    - D. Mutombo enters the game for M. Geiger
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:18.0'
+    - R. Bell enters the game for V. Cummings
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:13.0'
+    - Turnover by S. Claxton (bad pass; steal by C. Billups)
+    - ''
+    - 25-24
+    - ''
+    - ''
+  - - '9:09.0'
+    - ''
+    - ''
+    - 25-26
+    - "+2"
+    - C. Billups makes 2-pt shot at rim
+  - - '8:46.0'
+    - M. Harpring misses 2-pt shot from 11 ft (block by L. Woods)
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '8:45.0'
+    - Offensive rebound by Team
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '8:45.0'
+    - Philadelphia full timeout
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '8:44.0'
+    - D. Mutombo misses 2-pt shot from 14 ft
+    - ''
+    - 25-26
+    - ''
+    - ''
+  - - '8:42.0'
+    - ''
+    - ''
+    - 25-26
+    - ''
+    - Defensive rebound by J. Smith
+  - - '8:29.0'
+    - ''
+    - ''
+    - 25-28
+    - "+2"
+    - C. Billups makes 2-pt shot from 19 ft (assist by A. Peeler)
+  - - '8:06.0'
+    - R. Bell misses 2-pt shot from 7 ft (block by L. Woods)
+    - ''
+    - 25-28
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 25-28
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '8:00.0'
+    - ''
+    - ''
+    - 25-30
+    - "+2"
+    - L. Woods makes 2-pt shot at rim (assist by C. Billups)
+  - - '7:35.0'
+    - Personal foul by J. Smith
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '7:35.0'
+    - D. Coleman enters the game for C. Blount
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - K. Garnett enters the game for J. Smith
+  - - '7:21.0'
+    - M. Harpring misses 2-pt shot from 17 ft
+    - ''
+    - 25-30
+    - ''
+    - ''
+  - - '7:19.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Defensive rebound by L. Woods
+  - - '7:14.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Personal foul by R. Bell
+  - - '7:07.0'
+    - ''
+    - ''
+    - 25-30
+    - ''
+    - Shooting foul by S. Claxton
+  - - '7:07.0'
+    - ''
+    - ''
+    - 25-31
+    - "+1"
+    - C. Billups makes free throw 1 of 2
+  - - '7:07.0'
+    - ''
+    - ''
+    - 25-32
+    - "+1"
+    - C. Billups makes free throw 2 of 2
+  - - '6:59.0'
+    - R. Bell misses 3-pt shot from 24 ft
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '6:56.0'
+    - Offensive rebound by D. Coleman
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '6:52.0'
+    - D. Coleman misses 2-pt shot at rim (block by K. Garnett)
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '6:51.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '6:46.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - K. Garnett misses 2-pt shot at rim
+  - - '6:45.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - A. Peeler misses 2-pt shot at rim
+  - - '6:45.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - Offensive rebound by A. Peeler
+  - - '6:42.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '6:39.0'
+    - ''
+    - ''
+    - 25-32
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 18 ft
+  - - '6:38.0'
+    - Defensive rebound by Team
+    - ''
+    - 25-32
+    - ''
+    - ''
+  - - '6:14.0'
+    - S. Claxton makes 2-pt shot from 20 ft (assist by R. Bell)
+    - "+2"
+    - 27-32
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - W. Szczerbiak misses 3-pt shot from 25 ft
+  - - '5:46.0'
+    - Defensive rebound by R. Bell
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '5:22.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 27-32
+    - ''
+    - ''
+  - - '5:22.0'
+    - ''
+    - ''
+    - 27-32
+    - ''
+    - Minnesota full timeout
+  - - '5:08.0'
+    - ''
+    - ''
+    - 27-34
+    - "+2"
+    - K. Garnett makes 2-pt shot from 16 ft (assist by A. Peeler)
+  - - '4:43.0'
+    - Shooting foul by L. Woods
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '4:43.0'
+    - D. Coleman misses free throw 1 of 2
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '4:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '4:43.0'
+    - D. Coleman misses free throw 2 of 2
+    - ''
+    - 27-34
+    - ''
+    - ''
+  - - '4:42.0'
+    - ''
+    - ''
+    - 27-34
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '4:28.0'
+    - ''
+    - ''
+    - 27-36
+    - "+2"
+    - A. Peeler makes 2-pt shot from 21 ft (assist by K. Garnett)
+  - - '4:04.0'
+    - R. Bell misses 2-pt shot from 14 ft
+    - ''
+    - 27-36
+    - ''
+    - ''
+  - - '4:02.0'
+    - ''
+    - ''
+    - 27-36
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '3:59.0'
+    - ''
+    - ''
+    - 27-38
+    - "+2"
+    - C. Billups makes 2-pt shot at rim (assist by A. Peeler)
+  - - '3:59.0'
+    - Violation by R. Bell (def goaltending)
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:45.0'
+    - M. Harpring misses 2-pt shot from 17 ft
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:44.0'
+    - ''
+    - ''
+    - 27-38
+    - ''
+    - Defensive rebound by A. Peeler
+  - - '3:42.0'
+    - ''
+    - ''
+    - 27-38
+    - ''
+    - Personal foul by S. Claxton
+  - - '3:42.0'
+    - V. Cummings enters the game for S. Claxton
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 27-38
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 20 ft
+  - - '3:29.0'
+    - Defensive rebound by V. Cummings
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:14.0'
+    - Personal foul by K. Garnett
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 27-38
+    - ''
+    - T. Brandon enters the game for C. Billups
+  - - '3:14.0'
+    - Philadelphia full timeout
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:09.0'
+    - Turnover by V. Cummings (back court)
+    - ''
+    - 27-38
+    - ''
+    - ''
+  - - '3:02.0'
+    - ''
+    - ''
+    - 27-40
+    - "+2"
+    - A. Peeler makes 2-pt shot at rim (assist by T. Brandon)
+  - - '2:41.0'
+    - Turnover by V. Cummings (bad pass)
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:25.0'
+    - ''
+    - ''
+    - 27-40
+    - ''
+    - T. Brandon misses 2-pt shot from 7 ft
+  - - '2:23.0'
+    - Defensive rebound by M. Harpring
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:03.0'
+    - V. Cummings misses 2-pt shot at rim
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - Offensive rebound by Team
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - Loose ball foul by A. Peeler
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - D. Mutombo misses free throw 1 of 2
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - Offensive rebound by Team
+    - ''
+    - 27-40
+    - ''
+    - ''
+  - - '2:02.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 28-40
+    - ''
+    - ''
+  - - '1:53.0'
+    - ''
+    - ''
+    - 28-42
+    - "+2"
+    - K. Garnett makes 2-pt shot at rim (assist by T. Brandon)
+  - - '1:37.0'
+    - M. Harpring makes 2-pt shot at rim (assist by D. Mutombo)
+    - "+2"
+    - 30-42
+    - ''
+    - ''
+  - - '1:37.0'
+    - ''
+    - ''
+    - 30-42
+    - ''
+    - Violation by K. Garnett (def goaltending)
+  - - '1:24.0'
+    - ''
+    - ''
+    - 30-42
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '1:24.0'
+    - ''
+    - ''
+    - 30-43
+    - "+1"
+    - W. Szczerbiak makes free throw 1 of 2
+  - - '1:24.0'
+    - M. Geiger enters the game for D. Coleman
+    - ''
+    - 30-43
+    - ''
+    - ''
+  - - '1:24.0'
+    - ''
+    - ''
+    - 30-44
+    - "+1"
+    - W. Szczerbiak makes free throw 2 of 2
+  - - '1:10.0'
+    - Turnover by M. Harpring (lost ball)
+    - ''
+    - 30-44
+    - ''
+    - ''
+  - - '0:50.6'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - A. Peeler misses 3-pt shot from 26 ft
+  - - '0:49.1'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '0:31.5'
+    - ''
+    - ''
+    - 30-44
+    - ''
+    - Turnover by K. Garnett (bad pass)
+  - - '0:16.7'
+    - R. Bell makes 3-pt shot from 23 ft (assist by V. Cummings)
+    - "+3"
+    - 33-44
+    - ''
+    - ''
+  - - '0:01.4'
+    - ''
+    - ''
+    - 33-46
+    - "+2"
+    - T. Brandon makes 2-pt shot from 13 ft
+  - - '0:00.3'
+    - R. Bell misses 3-pt shot from 29 ft (block by L. Woods)
+    - ''
+    - 33-46
+    - ''
+    - ''
+  - - '0:00.0'
+    - Offensive rebound by Team
+    - ''
+    - 33-46
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:48.0'
+    - 'Jump ball: R. Nesterovic vs. R. Bell (M. Harpring gains possession)'
+  - - '11:35.0'
+    - D. Coleman misses 2-pt shot from 7 ft
+    - ''
+    - 33-46
+    - ''
+    - ''
+  - - '11:32.0'
+    - ''
+    - ''
+    - 33-46
+    - ''
+    - Defensive rebound by J. Smith
+  - - '11:27.0'
+    - ''
+    - ''
+    - 33-46
+    - ''
+    - Turnover by J. Smith (bad pass; steal by D. Coleman)
+  - - '11:22.0'
+    - D. Coleman misses 3-pt shot from 24 ft
+    - ''
+    - 33-46
+    - ''
+    - ''
+  - - '11:19.0'
+    - Offensive rebound by M. Harpring
+    - ''
+    - 33-46
+    - ''
+    - ''
+  - - '11:01.0'
+    - D. Coleman makes 2-pt shot at rim (assist by D. Mutombo)
+    - "+2"
+    - 35-46
+    - ''
+    - ''
+  - - '10:45.0'
+    - ''
+    - ''
+    - 35-46
+    - ''
+    - J. Smith misses 2-pt shot from 5 ft
+  - - '10:44.0'
+    - ''
+    - ''
+    - 35-46
+    - ''
+    - Offensive rebound by T. Brandon
+  - - '10:37.0'
+    - ''
+    - ''
+    - 35-46
+    - ''
+    - Turnover by T. Brandon (bad pass; steal by M. Harpring)
+  - - '10:27.0'
+    - Shooting foul by R. Nesterovic
+    - ''
+    - 35-46
+    - ''
+    - ''
+  - - '10:27.0'
+    - D. Mutombo makes free throw 1 of 2
+    - "+1"
+    - 36-46
+    - ''
+    - ''
+  - - '10:27.0'
+    - D. Mutombo makes free throw 2 of 2
+    - "+1"
+    - 37-46
+    - ''
+    - ''
+  - - '10:17.0'
+    - ''
+    - ''
+    - 37-48
+    - "+2"
+    - T. Brandon makes 2-pt shot from 19 ft (assist by K. Garnett)
+  - - '9:57.0'
+    - D. Coleman misses 2-pt shot from 14 ft
+    - ''
+    - 37-48
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 37-48
+    - ''
+    - Defensive rebound by T. Brandon
+  - - '9:45.0'
+    - ''
+    - ''
+    - 37-50
+    - "+2"
+    - J. Smith makes 2-pt shot from 18 ft (assist by R. Nesterovic)
+  - - '9:19.0'
+    - D. Mutombo makes 2-pt shot at rim (assist by S. Claxton)
+    - "+2"
+    - 39-50
+    - ''
+    - ''
+  - - '9:03.0'
+    - ''
+    - ''
+    - 39-52
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 7 ft (assist by R. Nesterovic)
+  - - '8:45.0'
+    - Turnover by R. Bell (bad pass; steal by K. Garnett)
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '8:39.0'
+    - Violation by S. Claxton (kicked ball)
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '8:27.0'
+    - ''
+    - ''
+    - 39-52
+    - ''
+    - K. Garnett misses 2-pt shot from 21 ft
+  - - '8:24.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '8:07.0'
+    - D. Mutombo misses 2-pt shot from 17 ft
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '8:06.0'
+    - ''
+    - ''
+    - 39-52
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '7:57.0'
+    - ''
+    - ''
+    - 39-52
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 11 ft
+  - - '7:56.0'
+    - Defensive rebound by Team
+    - ''
+    - 39-52
+    - ''
+    - ''
+  - - '7:43.0'
+    - S. Claxton makes 2-pt shot from 12 ft
+    - "+2"
+    - 41-52
+    - ''
+    - ''
+  - - '7:28.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - J. Smith misses 2-pt shot at rim
+  - - '7:26.0'
+    - ''
+    - ''
+    - 41-52
+    - ''
+    - Offensive rebound by Team
+  - - '7:25.0'
+    - ''
+    - ''
+    - 41-54
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot at rim (assist by K. Garnett)
+  - - '7:10.0'
+    - D. Coleman misses 2-pt shot from 17 ft
+    - ''
+    - 41-54
+    - ''
+    - ''
+  - - '7:09.0'
+    - ''
+    - ''
+    - 41-54
+    - ''
+    - Defensive rebound by W. Szczerbiak
+  - - '7:03.0'
+    - ''
+    - ''
+    - 41-54
+    - ''
+    - T. Brandon misses 2-pt shot from 20 ft
+  - - '7:02.0'
+    - Defensive rebound by Team
+    - ''
+    - 41-54
+    - ''
+    - ''
+  - - '6:44.0'
+    - Defensive three seconds by K. Garnett
+    - ''
+    - 41-54
+    - ''
+    - ''
+  - - '6:44.0'
+    - S. Claxton makes technical free throw
+    - "+1"
+    - 42-54
+    - ''
+    - ''
+  - - '6:44.0'
+    - Philadelphia full timeout
+    - ''
+    - 42-54
+    - ''
+    - ''
+  - - '6:32.0'
+    - S. Claxton misses 2-pt shot from 19 ft
+    - ''
+    - 42-54
+    - ''
+    - ''
+  - - '6:30.0'
+    - ''
+    - ''
+    - 42-54
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '6:12.0'
+    - ''
+    - ''
+    - 42-56
+    - "+2"
+    - T. Brandon makes 2-pt shot from 17 ft (assist by W. Szczerbiak)
+  - - '5:47.0'
+    - S. Claxton makes 3-pt shot from 24 ft (assist by D. Mutombo)
+    - "+3"
+    - 45-56
+    - ''
+    - ''
+  - - '5:35.0'
+    - ''
+    - ''
+    - 45-58
+    - "+2"
+    - J. Smith makes 2-pt shot from 18 ft (assist by T. Brandon)
+  - - '5:08.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '4:52.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - K. Garnett misses 2-pt shot from 9 ft
+  - - '4:50.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '4:33.0'
+    - M. Harpring misses 2-pt shot from 18 ft
+    - ''
+    - 45-58
+    - ''
+    - ''
+  - - '4:31.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - Defensive rebound by Team
+  - - '4:22.0'
+    - ''
+    - ''
+    - 45-58
+    - ''
+    - Personal foul by M. Harpring
+  - - '4:08.0'
+    - ''
+    - ''
+    - 45-60
+    - "+2"
+    - J. Smith makes 2-pt shot from 16 ft
+  - - '3:53.0'
+    - Shooting foul by K. Garnett
+    - ''
+    - 45-60
+    - ''
+    - ''
+  - - '3:53.0'
+    - D. Coleman makes free throw 1 of 2
+    - "+1"
+    - 46-60
+    - ''
+    - ''
+  - - '3:53.0'
+    - D. Coleman makes free throw 2 of 2
+    - "+1"
+    - 47-60
+    - ''
+    - ''
+  - - '3:42.0'
+    - ''
+    - ''
+    - 47-62
+    - "+2"
+    - J. Smith makes 2-pt shot from 21 ft (assist by T. Brandon)
+  - - '3:23.0'
+    - M. Harpring makes 3-pt shot from 23 ft (assist by R. Bell)
+    - "+3"
+    - 50-62
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - J. Smith misses 2-pt shot from 17 ft
+  - - '2:59.0'
+    - Defensive rebound by R. Bell
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:39.0'
+    - D. Coleman misses 2-pt shot from 16 ft
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:37.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:30.0'
+    - Turnover by D. Mutombo (lost ball; steal by T. Brandon)
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - W. Szczerbiak misses 2-pt shot at rim
+  - - '2:23.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Offensive rebound by W. Szczerbiak
+  - - '2:22.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Personal foul by R. Bell
+  - - '2:22.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Minnesota full timeout
+  - - '2:22.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - L. Woods enters the game for R. Nesterovic
+  - - '2:22.0'
+    - C. Blount enters the game for D. Coleman
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:22.0'
+    - M. Geiger enters the game for D. Mutombo
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:22.0'
+    - V. Cummings enters the game for R. Bell
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:12.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - T. Brandon misses 2-pt shot at rim
+  - - '2:09.0'
+    - Defensive rebound by C. Blount
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:03.0'
+    - M. Harpring misses 3-pt shot from 23 ft
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '2:01.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Defensive rebound by Team
+  - - '1:52.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Offensive foul by K. Garnett
+  - - '1:52.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - Turnover by K. Garnett (offensive foul)
+  - - '1:52.0'
+    - ''
+    - ''
+    - 50-62
+    - ''
+    - C. Billups enters the game for T. Brandon
+  - - '1:34.0'
+    - M. Harpring misses 2-pt shot from 7 ft
+    - ''
+    - 50-62
+    - ''
+    - ''
+  - - '1:32.0'
+    - C. Blount makes 2-pt shot at rim
+    - "+2"
+    - 52-62
+    - ''
+    - ''
+  - - '1:32.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 52-62
+    - ''
+    - ''
+  - - '1:21.0'
+    - ''
+    - ''
+    - 52-64
+    - "+2"
+    - L. Woods makes 2-pt shot from 19 ft (assist by K. Garnett)
+  - - '0:55.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '0:55.0'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - G. Trent enters the game for J. Smith
+  - - '0:55.0'
+    - D. Coleman enters the game for M. Harpring
+    - ''
+    - 52-64
+    - ''
+    - ''
+  - - '0:42.2'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - Personal foul by M. Geiger
+  - - '0:32.1'
+    - ''
+    - ''
+    - 52-64
+    - ''
+    - Turnover by C. Billups (bad pass)
+  - - '0:26.3'
+    - S. Claxton makes 2-pt shot at rim
+    - "+2"
+    - 54-64
+    - ''
+    - ''
+  - - '0:02.9'
+    - ''
+    - ''
+    - 54-64
+    - ''
+    - C. Billups misses 2-pt shot from 7 ft (block by M. Geiger)
+  - - '0:02.7'
+    - Defensive rebound by C. Blount
+    - ''
+    - 54-64
+    - ''
+    - ''
+  - - '0:00.2'
+    - C. Blount makes 2-pt shot from 17 ft
+    - "+2"
+    - 56-64
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 56-66
+    - "+2"
+    - K. Garnett makes 2-pt shot from 12 ft (assist by A. Peeler)
+  - - '11:24.0'
+    - S. Claxton misses 2-pt shot from 21 ft
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '11:21.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - Defensive rebound by L. Woods
+  - - '11:10.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - Personal foul by C. Blount
+  - - '11:10.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - J. Smith enters the game for K. Garnett
+  - - '10:58.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - C. Billups misses 2-pt shot from 19 ft (block by C. Blount)
+  - - '10:57.0'
+    - Defensive rebound by Team
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:57.0'
+    - Loose ball foul by G. Trent
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:44.0'
+    - S. Claxton misses 2-pt shot from 18 ft
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:43.0'
+    - Offensive rebound by Team
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:43.0'
+    - Loose ball foul by L. Woods
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:27.0'
+    - D. Coleman misses 3-pt shot from 24 ft
+    - ''
+    - 56-66
+    - ''
+    - ''
+  - - '10:24.0'
+    - ''
+    - ''
+    - 56-66
+    - ''
+    - Defensive rebound by C. Billups
+  - - '10:19.0'
+    - ''
+    - ''
+    - 56-69
+    - "+3"
+    - A. Peeler makes 3-pt shot from 24 ft (assist by C. Billups)
+  - - '9:58.0'
+    - Turnover by D. Coleman (bad pass; steal by G. Trent)
+    - ''
+    - 56-69
+    - ''
+    - ''
+  - - '9:49.0'
+    - ''
+    - ''
+    - 56-72
+    - "+3"
+    - C. Billups makes 3-pt shot from 24 ft
+  - - '9:45.0'
+    - Philadelphia full timeout
+    - ''
+    - 56-72
+    - ''
+    - ''
+  - - '9:24.0'
+    - S. Claxton misses 2-pt shot from 12 ft (block by G. Trent)
+    - ''
+    - 56-72
+    - ''
+    - ''
+  - - '9:22.0'
+    - ''
+    - ''
+    - 56-72
+    - ''
+    - Defensive rebound by G. Trent
+  - - '9:17.0'
+    - ''
+    - ''
+    - 56-74
+    - "+2"
+    - C. Billups makes 2-pt shot at rim
+  - - '9:01.0'
+    - V. Cummings misses 2-pt shot at rim
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 56-74
+    - ''
+    - Defensive rebound by J. Smith
+  - - '8:39.0'
+    - ''
+    - ''
+    - 56-74
+    - ''
+    - C. Billups misses 2-pt shot from 18 ft
+  - - '8:37.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - R. Bell enters the game for S. Claxton
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - M. Harpring enters the game for C. Blount
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - I. Bowman enters the game for V. Cummings
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '8:26.0'
+    - D. Mutombo enters the game for M. Geiger
+    - ''
+    - 56-74
+    - ''
+    - ''
+  - - '8:20.0'
+    - D. Coleman makes 2-pt shot at rim (assist by I. Bowman)
+    - "+2"
+    - 58-74
+    - ''
+    - ''
+  - - '8:00.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - G. Trent misses 2-pt shot from 8 ft (block by D. Mutombo)
+  - - '7:58.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - Offensive rebound by A. Peeler
+  - - '7:57.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - A. Peeler misses 3-pt shot from 24 ft
+  - - '7:55.0'
+    - Defensive rebound by M. Harpring
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:48.0'
+    - Offensive foul by D. Coleman
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:48.0'
+    - Turnover by D. Coleman (offensive foul)
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:38.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - Offensive foul by L. Woods
+  - - '7:38.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - Turnover by L. Woods (offensive foul)
+  - - '7:25.0'
+    - D. Coleman misses 2-pt shot from 6 ft
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:24.0'
+    - Offensive rebound by D. Mutombo
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:24.0'
+    - D. Mutombo misses 2-pt shot at rim (block by J. Smith)
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '7:24.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - W. Szczerbiak enters the game for G. Trent
+  - - '7:24.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - Defensive rebound by Team
+  - - '7:24.0'
+    - 'Jump ball: J. Smith vs. D. Mutombo (W. Szczerbiak gains possession)'
+  - - '7:07.0'
+    - ''
+    - ''
+    - 58-74
+    - ''
+    - L. Woods misses 2-pt shot from 18 ft
+  - - '7:05.0'
+    - Defensive rebound by D. Mutombo
+    - ''
+    - 58-74
+    - ''
+    - ''
+  - - '6:51.0'
+    - D. Mutombo makes 2-pt shot at rim (assist by D. Coleman)
+    - "+2"
+    - 60-74
+    - ''
+    - ''
+  - - '6:51.0'
+    - Shooting foul by A. Peeler
+    - ''
+    - 60-74
+    - ''
+    - ''
+  - - '6:51.0'
+    - D. Mutombo makes free throw 1 of 1
+    - "+1"
+    - 61-74
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - W. Szczerbiak misses 2-pt shot from 18 ft
+  - - '6:25.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - Offensive rebound by Team
+  - - '6:14.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - L. Woods misses 2-pt shot from 15 ft
+  - - '6:12.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - Offensive rebound by A. Peeler
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - Shooting foul by D. Coleman
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - Minnesota full timeout
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - K. Garnett enters the game for L. Woods
+  - - '5:56.0'
+    - S. Claxton enters the game for I. Bowman
+    - ''
+    - 61-74
+    - ''
+    - ''
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - J. Smith misses free throw 1 of 2
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-74
+    - ''
+    - Offensive rebound by Team
+  - - '5:56.0'
+    - ''
+    - ''
+    - 61-75
+    - "+1"
+    - J. Smith makes free throw 2 of 2
+  - - '5:38.0'
+    - Turnover by D. Coleman (traveling)
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - A. Peeler misses 2-pt shot from 21 ft
+  - - '5:23.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:12.0'
+    - Offensive foul by D. Coleman
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '5:12.0'
+    - Turnover by D. Coleman (offensive foul)
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '4:56.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - W. Szczerbiak misses 2-pt shot at rim (block by D. Mutombo)
+  - - '4:54.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Offensive rebound by K. Garnett
+  - - '4:53.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - K. Garnett misses 2-pt shot from 20 ft
+  - - '4:51.0'
+    - Defensive rebound by R. Bell
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '4:29.0'
+    - Turnover by R. Bell (bad pass; steal by K. Garnett)
+    - ''
+    - 61-75
+    - ''
+    - ''
+  - - '4:25.0'
+    - ''
+    - ''
+    - 61-75
+    - ''
+    - Shooting foul by D. Mutombo
+  - - '4:25.0'
+    - ''
+    - ''
+    - 61-76
+    - "+1"
+    - W. Szczerbiak makes free throw 1 of 2
+  - - '4:25.0'
+    - ''
+    - ''
+    - 61-77
+    - "+1"
+    - W. Szczerbiak makes free throw 2 of 2
+  - - '4:23.0'
+    - Personal foul by A. Peeler
+    - ''
+    - 61-77
+    - ''
+    - ''
+  - - '4:03.0'
+    - Shooting foul by C. Billups
+    - ''
+    - 61-77
+    - ''
+    - ''
+  - - '4:03.0'
+    - S. Claxton makes free throw 1 of 2
+    - "+1"
+    - 62-77
+    - ''
+    - ''
+  - - '4:03.0'
+    - S. Claxton makes free throw 2 of 2
+    - "+1"
+    - 63-77
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 63-77
+    - ''
+    - C. Billups misses 2-pt shot from 19 ft
+  - - '3:49.0'
+    - Defensive rebound by M. Harpring
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '3:31.0'
+    - M. Harpring misses 2-pt shot at rim
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '3:30.0'
+    - ''
+    - ''
+    - 63-77
+    - ''
+    - Defensive rebound by K. Garnett
+  - - '3:15.0'
+    - ''
+    - ''
+    - 63-77
+    - ''
+    - C. Billups misses 3-pt shot from 24 ft
+  - - '3:13.0'
+    - ''
+    - ''
+    - 63-77
+    - ''
+    - Offensive rebound by J. Smith
+  - - '2:54.0'
+    - ''
+    - ''
+    - 63-77
+    - ''
+    - J. Smith misses 2-pt shot from 9 ft
+  - - '2:53.0'
+    - Defensive rebound by R. Bell
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - Shooting foul by J. Smith
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - Philadelphia full timeout
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - V. Cummings enters the game for R. Bell
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - C. Blount enters the game for D. Coleman
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - D. Mutombo misses free throw 1 of 2
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - Offensive rebound by Team
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:35.0'
+    - D. Mutombo misses free throw 2 of 2
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:32.0'
+    - Offensive rebound by C. Blount
+    - ''
+    - 63-77
+    - ''
+    - ''
+  - - '2:31.0'
+    - C. Blount makes 2-pt shot from 7 ft
+    - "+2"
+    - 65-77
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Turnover by Team (8 sec)
+  - - '2:06.0'
+    - Turnover by D. Mutombo (lost ball; steal by J. Smith)
+    - ''
+    - 65-77
+    - ''
+    - ''
+  - - '2:05.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Personal foul by D. Mutombo
+  - - '1:52.0'
+    - ''
+    - ''
+    - 65-77
+    - ''
+    - Personal foul by C. Blount
+  - - '1:52.0'
+    - ''
+    - ''
+    - 65-78
+    - "+1"
+    - K. Garnett makes free throw 1 of 2
+  - - '1:52.0'
+    - ''
+    - ''
+    - 65-79
+    - "+1"
+    - K. Garnett makes free throw 2 of 2
+  - - '1:42.0'
+    - D. Mutombo misses 2-pt shot from 7 ft (block by K. Garnett)
+    - ''
+    - 65-79
+    - ''
+    - ''
+  - - '1:40.0'
+    - Offensive rebound by Team
+    - ''
+    - 65-79
+    - ''
+    - ''
+  - - '1:29.0'
+    - S. Claxton makes 2-pt shot from 21 ft
+    - "+2"
+    - 67-79
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 67-81
+    - "+2"
+    - C. Billups makes 2-pt shot from 16 ft
+  - - '1:06.0'
+    - Personal foul by C. Billups
+    - ''
+    - 67-81
+    - ''
+    - ''
+  - - '1:06.0'
+    - S. Claxton makes free throw 1 of 2
+    - "+1"
+    - 68-81
+    - ''
+    - ''
+  - - '1:06.0'
+    - D. Brown enters the game for M. Harpring
+    - ''
+    - 68-81
+    - ''
+    - ''
+  - - '1:06.0'
+    - S. Claxton makes free throw 2 of 2
+    - "+1"
+    - 69-81
+    - ''
+    - ''
+  - - '0:46.8'
+    - ''
+    - ''
+    - 69-81
+    - ''
+    - Turnover by C. Billups (lost ball; steal by C. Blount)
+  - - '0:42.0'
+    - S. Claxton makes 2-pt shot at rim (assist by C. Blount)
+    - "+2"
+    - 71-81
+    - ''
+    - ''
+  - - '0:23.8'
+    - ''
+    - ''
+    - 71-83
+    - "+2"
+    - W. Szczerbiak makes 2-pt shot from 8 ft
+  - - '0:08.8'
+    - V. Cummings makes 3-pt shot from 23 ft (assist by S. Claxton)
+    - "+3"
+    - 74-83
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 4th quarter

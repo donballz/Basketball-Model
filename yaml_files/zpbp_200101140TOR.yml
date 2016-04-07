@@ -1,0 +1,2568 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: A. Davis vs. E. Campbell (P. Brown gains possession)'
+  - - '11:41.0'
+    - J. Mashburn misses 2-pt shot from 14 ft
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:39.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '11:35.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - M. Peterson misses 2-pt shot at rim (block by P. Brown)
+  - - '11:32.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 0-0
+    - ''
+    - ''
+  - - '11:22.0'
+    - J. Mashburn makes 2-pt shot at rim
+    - "+2"
+    - 2-0
+    - ''
+    - ''
+  - - '11:03.0'
+    - ''
+    - ''
+    - 2-3
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '10:54.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '10:54.0'
+    - B. Davis misses free throw 1 of 2
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '10:54.0'
+    - Offensive rebound by Team
+    - ''
+    - 2-3
+    - ''
+    - ''
+  - - '10:54.0'
+    - B. Davis makes free throw 2 of 2
+    - "+1"
+    - 3-3
+    - ''
+    - ''
+  - - '10:40.0'
+    - Violation by B. Davis (illegal defense)
+    - ''
+    - 3-3
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 3-3
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '10:32.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 3-3
+    - ''
+    - ''
+  - - '10:14.0'
+    - B. Davis makes 2-pt shot from 18 ft (assist by P. Brown)
+    - "+2"
+    - 5-3
+    - ''
+    - ''
+  - - '9:55.0'
+    - ''
+    - ''
+    - 5-3
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by P. Brown)
+  - - '9:52.0'
+    - D. Wesley makes 2-pt shot at rim (assist by P. Brown)
+    - "+2"
+    - 7-3
+    - ''
+    - ''
+  - - '9:29.0'
+    - ''
+    - ''
+    - 7-3
+    - ''
+    - A. Davis misses 2-pt shot from 9 ft (block by E. Campbell)
+  - - '9:28.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 7-3
+    - ''
+    - ''
+  - - '9:22.0'
+    - J. Mashburn makes 2-pt shot at rim
+    - "+2"
+    - 9-3
+    - ''
+    - ''
+  - - '9:06.0'
+    - ''
+    - ''
+    - 9-6
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '8:57.0'
+    - B. Davis misses 2-pt shot at rim
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:56.0'
+    - Offensive rebound by B. Davis
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:54.0'
+    - B. Davis misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:52.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '8:48.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '8:45.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '8:43.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - M. Peterson misses 2-pt shot from 6 ft
+  - - '8:41.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - Offensive rebound by V. Carter
+  - - '8:36.0'
+    - ''
+    - ''
+    - 9-8
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '8:32.0'
+    - P. Brown misses 2-pt shot from 16 ft
+    - ''
+    - 9-8
+    - ''
+    - ''
+  - - '8:29.0'
+    - ''
+    - ''
+    - 9-8
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '8:19.0'
+    - ''
+    - ''
+    - 9-10
+    - "+2"
+    - C. Oakley makes 2-pt shot from 21 ft (assist by M. Jackson)
+  - - '8:04.0'
+    - D. Wesley misses 2-pt shot from 23 ft
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '8:01.0'
+    - Offensive rebound by Team
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '8:01.0'
+    - Loose ball foul by C. Oakley
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '7:56.0'
+    - J. Mashburn misses 2-pt shot from 20 ft
+    - ''
+    - 9-10
+    - ''
+    - ''
+  - - '7:54.0'
+    - ''
+    - ''
+    - 9-10
+    - ''
+    - Defensive rebound by A. Davis
+  - - '7:46.0'
+    - ''
+    - ''
+    - 9-12
+    - "+2"
+    - A. Davis makes 2-pt shot from 14 ft (assist by M. Jackson)
+  - - '7:32.0'
+    - B. Davis misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:29.0'
+    - Offensive rebound by J. Mashburn
+    - ''
+    - 9-12
+    - ''
+    - ''
+  - - '7:27.0'
+    - J. Mashburn makes 2-pt shot at rim
+    - "+2"
+    - 11-12
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 11-12
+    - ''
+    - V. Carter misses 2-pt shot from 14 ft
+  - - '7:04.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 11-12
+    - ''
+    - ''
+  - - '6:58.0'
+    - B. Davis makes 3-pt shot from 25 ft (assist by J. Mashburn)
+    - "+3"
+    - 14-12
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Toronto full timeout
+  - - '6:33.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - A. Davis misses 2-pt shot from 17 ft
+  - - '6:31.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '6:21.0'
+    - E. Campbell misses 2-pt shot from 9 ft
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '6:19.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '6:12.0'
+    - ''
+    - ''
+    - 14-12
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '6:11.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 14-12
+    - ''
+    - ''
+  - - '6:00.0'
+    - E. Campbell makes 2-pt shot from 6 ft
+    - "+2"
+    - 16-12
+    - ''
+    - ''
+  - - '6:00.0'
+    - Shooting foul by M. Peterson
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '6:00.0'
+    - E. Campbell misses free throw 1 of 1
+    - ''
+    - 16-12
+    - ''
+    - ''
+  - - '5:59.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '5:40.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Personal foul by B. Davis
+  - - '5:37.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - C. Oakley misses 2-pt shot from 18 ft
+  - - '5:36.0'
+    - ''
+    - ''
+    - 16-12
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '5:29.0'
+    - ''
+    - ''
+    - 16-14
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by A. Davis)
+  - - '5:29.0'
+    - ''
+    - ''
+    - 16-14
+    - ''
+    - Shooting foul by E. Campbell
+  - - '5:29.0'
+    - J. Magloire enters the game for E. Campbell
+    - ''
+    - 16-14
+    - ''
+    - ''
+  - - '5:29.0'
+    - ''
+    - ''
+    - 16-15
+    - "+1"
+    - V. Carter makes free throw 1 of 1
+  - - '5:15.0'
+    - J. Mashburn misses 2-pt shot from 19 ft
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '5:14.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Defensive rebound by A. Davis
+  - - '5:07.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - C. Oakley misses 2-pt shot from 17 ft
+  - - '5:05.0'
+    - Defensive rebound by D. Wesley
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '4:53.0'
+    - D. Wesley misses 2-pt shot from 16 ft
+    - ''
+    - 16-15
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 16-15
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '4:37.0'
+    - ''
+    - ''
+    - 16-17
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by M. Jackson)
+  - - '4:15.0'
+    - D. Wesley makes 2-pt shot from 19 ft (assist by B. Davis)
+    - "+2"
+    - 18-17
+    - ''
+    - ''
+  - - '4:01.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - M. Peterson misses 2-pt shot from 8 ft
+  - - '3:59.0'
+    - ''
+    - ''
+    - 18-17
+    - ''
+    - Offensive rebound by V. Carter
+  - - '3:58.0'
+    - ''
+    - ''
+    - 18-19
+    - "+2"
+    - V. Carter makes 2-pt shot at rim
+  - - '3:43.0'
+    - D. Wesley misses 2-pt shot from 20 ft
+    - ''
+    - 18-19
+    - ''
+    - ''
+  - - '3:40.0'
+    - ''
+    - ''
+    - 18-19
+    - ''
+    - Defensive rebound by A. Davis
+  - - '3:29.0'
+    - ''
+    - ''
+    - 18-21
+    - "+2"
+    - V. Carter makes 2-pt shot from 18 ft (assist by C. Oakley)
+  - - '3:22.0'
+    - Shooting foul by M. Peterson
+    - ''
+    - 18-21
+    - ''
+    - ''
+  - - '3:22.0'
+    - P. Brown makes free throw 1 of 2
+    - "+1"
+    - 19-21
+    - ''
+    - ''
+  - - '3:22.0'
+    - L. Nailon enters the game for J. Mashburn
+    - ''
+    - 19-21
+    - ''
+    - ''
+  - - '3:22.0'
+    - ''
+    - ''
+    - 19-21
+    - ''
+    - T. Murray enters the game for M. Peterson
+  - - '3:22.0'
+    - P. Brown makes free throw 2 of 2
+    - "+1"
+    - 20-21
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - Personal foul by J. Magloire
+  - - '2:56.0'
+    - ''
+    - ''
+    - 20-21
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '2:55.0'
+    - Defensive rebound by L. Nailon
+    - ''
+    - 20-21
+    - ''
+    - ''
+  - - '2:47.0'
+    - L. Nailon makes 2-pt shot from 16 ft (assist by B. Davis)
+    - "+2"
+    - 22-21
+    - ''
+    - ''
+  - - '2:24.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - A. Davis misses 2-pt shot at rim (block by J. Magloire)
+  - - '2:23.0'
+    - Defensive rebound by P. Brown
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '2:09.0'
+    - P. Brown misses 2-pt shot at rim
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '2:07.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - Defensive rebound by T. Murray
+  - - '2:03.0'
+    - ''
+    - ''
+    - 22-21
+    - ''
+    - Turnover by M. Jackson (bad pass)
+  - - '2:03.0'
+    - Official timeout
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '2:03.0'
+    - H. Hawkins enters the game for B. Davis
+    - ''
+    - 22-21
+    - ''
+    - ''
+  - - '1:43.0'
+    - L. Nailon makes 2-pt shot at rim
+    - "+2"
+    - 24-21
+    - ''
+    - ''
+  - - '1:30.0'
+    - ''
+    - ''
+    - 24-23
+    - "+2"
+    - V. Carter makes 2-pt shot from 13 ft (assist by T. Murray)
+  - - '1:11.0'
+    - P. Brown makes 2-pt shot at rim
+    - "+2"
+    - 26-23
+    - ''
+    - ''
+  - - '0:55.9'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - C. Oakley misses 2-pt shot from 16 ft
+  - - '0:54.5'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by Team
+  - - '0:54.5'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Loose ball foul by H. Hawkins
+  - - '0:54.5'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - A. Williams enters the game for M. Jackson
+  - - '0:54.5'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - K. Clark enters the game for C. Oakley
+  - - '0:35.9'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - T. Murray misses 2-pt shot at rim (block by P. Brown)
+  - - '0:33.4'
+    - Defensive rebound by J. Magloire
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '0:09.6'
+    - Turnover by Team (shot clock)
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '0:05.9'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - V. Carter misses 3-pt shot from 32 ft
+  - - '0:04.3'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by V. Carter
+  - - '0:02.9'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - V. Carter misses 2-pt shot from 10 ft
+  - - '0:00.7'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by T. Murray
+  - - '0:00.7'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - T. Murray misses 2-pt shot at rim
+  - - '0:00.7'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Offensive rebound by Team
+  - - '0:00.2'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - Turnover by T. Murray (bad pass; steal by D. Wesley)
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:44.0'
+    - ''
+    - ''
+    - 26-23
+    - ''
+    - T. Murray misses 3-pt shot from 26 ft
+  - - '11:43.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 26-23
+    - ''
+    - ''
+  - - '11:26.0'
+    - E. Campbell makes 2-pt shot from 6 ft
+    - "+2"
+    - 28-23
+    - ''
+    - ''
+  - - '11:12.0'
+    - ''
+    - ''
+    - 28-25
+    - "+2"
+    - T. Murray makes 2-pt shot from 14 ft (assist by A. Williams)
+  - - '10:45.0'
+    - E. Campbell misses 2-pt shot from 14 ft
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '10:43.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - Defensive rebound by V. Carter
+  - - '10:37.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - T. Murray misses 2-pt shot from 16 ft
+  - - '10:36.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '10:24.0'
+    - D. Coleman misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '10:22.0'
+    - Offensive rebound by Team
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '10:22.0'
+    - J. Mashburn enters the game for L. Nailon
+    - ''
+    - 28-25
+    - ''
+    - ''
+  - - '10:22.0'
+    - ''
+    - ''
+    - 28-25
+    - ''
+    - C. Oakley enters the game for A. Davis
+  - - '10:15.0'
+    - B. Davis makes 2-pt shot at rim
+    - "+2"
+    - 30-25
+    - ''
+    - ''
+  - - '9:56.0'
+    - ''
+    - ''
+    - 30-27
+    - "+2"
+    - A. Williams makes 2-pt shot from 22 ft (assist by C. Oakley)
+  - - '9:38.0'
+    - J. Mashburn makes 2-pt shot at rim (assist by B. Davis)
+    - "+2"
+    - 32-27
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - K. Clark misses 2-pt shot from 15 ft
+  - - '9:21.0'
+    - Defensive rebound by D. Coleman
+    - ''
+    - 32-27
+    - ''
+    - ''
+  - - '9:11.0'
+    - Personal foul by T. Murray
+    - ''
+    - 32-27
+    - ''
+    - ''
+  - - '9:11.0'
+    - E. Robinson enters the game for H. Hawkins
+    - ''
+    - 32-27
+    - ''
+    - ''
+  - - '9:04.0'
+    - J. Mashburn misses 2-pt shot at rim
+    - ''
+    - 32-27
+    - ''
+    - ''
+  - - '9:02.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '8:55.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - A. Williams misses 2-pt shot from 19 ft
+  - - '8:53.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - Offensive rebound by T. Murray
+  - - '8:50.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - T. Murray misses 2-pt shot at rim
+  - - '8:49.0'
+    - ''
+    - ''
+    - 32-27
+    - ''
+    - Offensive rebound by K. Clark
+  - - '8:45.0'
+    - ''
+    - ''
+    - 32-29
+    - "+2"
+    - K. Clark makes 2-pt shot from 14 ft (assist by C. Oakley)
+  - - '8:20.0'
+    - B. Davis misses 2-pt shot from 19 ft
+    - ''
+    - 32-29
+    - ''
+    - ''
+  - - '8:19.0'
+    - ''
+    - ''
+    - 32-29
+    - ''
+    - Defensive rebound by V. Carter
+  - - '8:10.0'
+    - ''
+    - ''
+    - 32-32
+    - "+3"
+    - T. Murray makes 3-pt shot from 25 ft (assist by K. Clark)
+  - - '7:49.0'
+    - E. Campbell makes 2-pt shot from 5 ft (assist by J. Mashburn)
+    - "+2"
+    - 34-32
+    - ''
+    - ''
+  - - '7:33.0'
+    - ''
+    - ''
+    - 34-32
+    - ''
+    - V. Carter misses 3-pt shot from 26 ft
+  - - '7:31.0'
+    - Defensive rebound by B. Davis
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:22.0'
+    - Shooting foul by V. Carter
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:22.0'
+    - Official timeout
+    - ''
+    - 34-32
+    - ''
+    - ''
+  - - '7:22.0'
+    - D. Coleman makes free throw 1 of 2
+    - "+1"
+    - 35-32
+    - ''
+    - ''
+  - - '7:22.0'
+    - D. Coleman makes free throw 2 of 2
+    - "+1"
+    - 36-32
+    - ''
+    - ''
+  - - '7:07.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - K. Clark misses 2-pt shot from 9 ft
+  - - '7:06.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '6:55.0'
+    - Turnover by D. Coleman (bad pass; steal by V. Carter)
+    - ''
+    - 36-32
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 36-32
+    - ''
+    - Shooting foul by D. Coleman
+  - - '6:49.0'
+    - ''
+    - ''
+    - 36-33
+    - "+1"
+    - K. Clark makes free throw 1 of 2
+  - - '6:49.0'
+    - P. Brown enters the game for D. Coleman
+    - ''
+    - 36-33
+    - ''
+    - ''
+  - - '6:49.0'
+    - ''
+    - ''
+    - 36-34
+    - "+1"
+    - K. Clark makes free throw 2 of 2
+  - - '6:29.0'
+    - J. Mashburn misses 2-pt shot from 13 ft
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Defensive rebound by Team
+  - - '6:28.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Loose ball foul by P. Brown
+  - - '6:28.0'
+    - D. Wesley enters the game for E. Robinson
+    - ''
+    - 36-34
+    - ''
+    - ''
+  - - '6:15.0'
+    - ''
+    - ''
+    - 36-34
+    - ''
+    - Turnover by A. Williams (lost ball; steal by B. Davis)
+  - - '6:12.0'
+    - J. Mashburn makes 2-pt shot at rim (assist by B. Davis)
+    - "+2"
+    - 38-34
+    - ''
+    - ''
+  - - '6:12.0'
+    - Shooting foul by A. Williams
+    - ''
+    - 38-34
+    - ''
+    - ''
+  - - '6:12.0'
+    - J. Mashburn makes free throw 1 of 1
+    - "+1"
+    - 39-34
+    - ''
+    - ''
+  - - '6:00.0'
+    - ''
+    - ''
+    - 39-34
+    - ''
+    - A. Williams misses 2-pt shot from 21 ft
+  - - '5:58.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '5:48.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '5:48.0'
+    - Official timeout
+    - ''
+    - 39-34
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 39-34
+    - ''
+    - A. Davis enters the game for T. Murray
+  - - '5:48.0'
+    - ''
+    - ''
+    - 39-34
+    - ''
+    - M. Peterson enters the game for A. Williams
+  - - '5:48.0'
+    - ''
+    - ''
+    - 39-34
+    - ''
+    - M. Jackson enters the game for K. Clark
+  - - '5:48.0'
+    - J. Mashburn makes free throw 1 of 2
+    - "+1"
+    - 40-34
+    - ''
+    - ''
+  - - '5:48.0'
+    - J. Mashburn makes free throw 2 of 2
+    - "+1"
+    - 41-34
+    - ''
+    - ''
+  - - '5:32.0'
+    - ''
+    - ''
+    - 41-36
+    - "+2"
+    - V. Carter makes 2-pt shot from 20 ft (assist by M. Jackson)
+  - - '5:22.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 41-36
+    - ''
+    - ''
+  - - '5:22.0'
+    - E. Campbell makes free throw 1 of 2
+    - "+1"
+    - 42-36
+    - ''
+    - ''
+  - - '5:22.0'
+    - E. Campbell makes free throw 2 of 2
+    - "+1"
+    - 43-36
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 43-36
+    - ''
+    - Shooting foul by P. Brown
+  - - '4:59.0'
+    - ''
+    - ''
+    - 43-37
+    - "+1"
+    - A. Davis makes free throw 1 of 2
+  - - '4:59.0'
+    - D. Coleman enters the game for P. Brown
+    - ''
+    - 43-37
+    - ''
+    - ''
+  - - '4:59.0'
+    - ''
+    - ''
+    - 43-38
+    - "+1"
+    - A. Davis makes free throw 2 of 2
+  - - '4:36.0'
+    - D. Wesley misses 3-pt shot from 25 ft
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '4:34.0'
+    - Offensive rebound by D. Coleman
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '4:30.0'
+    - D. Coleman misses 3-pt shot from 23 ft
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '4:29.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Defensive rebound by A. Davis
+  - - '4:14.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by E. Campbell)
+  - - '4:05.0'
+    - D. Coleman misses 2-pt shot from 10 ft
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '4:03.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '3:57.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - C. Oakley misses 2-pt shot from 13 ft
+  - - '3:56.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - Offensive rebound by A. Davis
+  - - '3:55.0'
+    - ''
+    - ''
+    - 43-38
+    - ''
+    - A. Davis misses 2-pt shot at rim
+  - - '3:52.0'
+    - Defensive rebound by D. Wesley
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '3:51.0'
+    - Charlotte full timeout
+    - ''
+    - 43-38
+    - ''
+    - ''
+  - - '3:41.0'
+    - E. Campbell makes 2-pt shot from 7 ft (assist by D. Coleman)
+    - "+2"
+    - 45-38
+    - ''
+    - ''
+  - - '3:25.0'
+    - ''
+    - ''
+    - 45-38
+    - ''
+    - M. Peterson misses 2-pt shot from 8 ft
+  - - '3:22.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '3:04.0'
+    - Personal foul by A. Davis
+    - ''
+    - 45-38
+    - ''
+    - ''
+  - - '3:04.0'
+    - D. Wesley makes free throw 1 of 2
+    - "+1"
+    - 46-38
+    - ''
+    - ''
+  - - '3:04.0'
+    - D. Wesley makes free throw 2 of 2
+    - "+1"
+    - 47-38
+    - ''
+    - ''
+  - - '2:44.0'
+    - ''
+    - ''
+    - 47-38
+    - ''
+    - V. Carter misses 2-pt shot from 19 ft
+  - - '2:43.0'
+    - Defensive rebound by D. Wesley
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:26.0'
+    - D. Coleman misses 2-pt shot from 9 ft (block by M. Jackson)
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:24.0'
+    - Offensive rebound by D. Coleman
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:21.0'
+    - Personal foul by M. Peterson
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:21.0'
+    - D. Wesley misses free throw 1 of 2
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:21.0'
+    - Offensive rebound by Team
+    - ''
+    - 47-38
+    - ''
+    - ''
+  - - '2:21.0'
+    - ''
+    - ''
+    - 47-38
+    - ''
+    - K. Clark enters the game for M. Peterson
+  - - '2:21.0'
+    - D. Wesley makes free throw 2 of 2
+    - "+1"
+    - 48-38
+    - ''
+    - ''
+  - - '2:09.0'
+    - ''
+    - ''
+    - 48-38
+    - ''
+    - Personal foul by D. Wesley
+  - - '2:02.0'
+    - ''
+    - ''
+    - 48-40
+    - "+2"
+    - K. Clark makes 2-pt shot at rim (assist by M. Jackson)
+  - - '1:39.0'
+    - J. Mashburn makes 2-pt shot from 19 ft
+    - "+2"
+    - 50-40
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 50-43
+    - "+3"
+    - M. Jackson makes 3-pt shot from 25 ft (assist by V. Carter)
+  - - '1:04.0'
+    - D. Coleman misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 50-43
+    - ''
+    - ''
+  - - '1:01.0'
+    - ''
+    - ''
+    - 50-43
+    - ''
+    - Defensive rebound by V. Carter
+  - - '0:41.8'
+    - ''
+    - ''
+    - 50-45
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by M. Jackson)
+  - - '0:32.9'
+    - B. Davis misses 3-pt shot from 26 ft (block by V. Carter)
+    - ''
+    - 50-45
+    - ''
+    - ''
+  - - '0:31.9'
+    - ''
+    - ''
+    - 50-45
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:12.5'
+    - ''
+    - ''
+    - 50-47
+    - "+2"
+    - M. Jackson makes 2-pt shot from 5 ft
+  - - '0:00.9'
+    - J. Mashburn misses 2-pt shot from 22 ft
+    - ''
+    - 50-47
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 50-47
+    - ''
+    - Defensive rebound by A. Davis
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:48.0'
+    - ''
+    - ''
+    - 50-49
+    - "+2"
+    - V. Carter makes 2-pt shot from 19 ft (assist by M. Jackson)
+  - - '11:28.0'
+    - J. Mashburn misses 2-pt shot from 18 ft
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '11:26.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - Defensive rebound by A. Davis
+  - - '11:15.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - M. Peterson misses 2-pt shot from 10 ft
+  - - '11:14.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '10:58.0'
+    - D. Wesley misses 2-pt shot from 16 ft
+    - ''
+    - 50-49
+    - ''
+    - ''
+  - - '10:56.0'
+    - ''
+    - ''
+    - 50-49
+    - ''
+    - Defensive rebound by M. Peterson
+  - - '10:41.0'
+    - ''
+    - ''
+    - 50-51
+    - "+2"
+    - M. Peterson makes 2-pt shot from 20 ft (assist by C. Oakley)
+  - - '10:14.0'
+    - P. Brown makes 2-pt shot from 15 ft (assist by J. Mashburn)
+    - "+2"
+    - 52-51
+    - ''
+    - ''
+  - - '9:50.0'
+    - ''
+    - ''
+    - 52-53
+    - "+2"
+    - C. Oakley makes 2-pt shot from 18 ft (assist by A. Davis)
+  - - '9:31.0'
+    - Turnover by J. Mashburn (bad pass; steal by C. Oakley)
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '9:23.0'
+    - ''
+    - ''
+    - 52-53
+    - ''
+    - Turnover by V. Carter (lost ball; steal by J. Mashburn)
+  - - '9:21.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 52-53
+    - ''
+    - ''
+  - - '9:02.0'
+    - D. Wesley makes 2-pt shot from 22 ft
+    - "+2"
+    - 54-53
+    - ''
+    - ''
+  - - '8:43.0'
+    - ''
+    - ''
+    - 54-55
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+  - - '8:22.0'
+    - E. Campbell misses 2-pt shot from 9 ft
+    - ''
+    - 54-55
+    - ''
+    - ''
+  - - '8:20.0'
+    - ''
+    - ''
+    - 54-55
+    - ''
+    - Defensive rebound by V. Carter
+  - - '8:13.0'
+    - ''
+    - ''
+    - 54-57
+    - "+2"
+    - C. Oakley makes 2-pt shot from 20 ft (assist by M. Jackson)
+  - - '7:55.0'
+    - Turnover by B. Davis (lost ball; steal by M. Jackson)
+    - ''
+    - 54-57
+    - ''
+    - ''
+  - - '7:50.0'
+    - ''
+    - ''
+    - 54-60
+    - "+3"
+    - V. Carter makes 3-pt shot from 26 ft (assist by M. Jackson)
+  - - '7:46.0'
+    - Charlotte full timeout
+    - ''
+    - 54-60
+    - ''
+    - ''
+  - - '7:33.0'
+    - D. Wesley makes 2-pt shot from 20 ft (assist by J. Mashburn)
+    - "+2"
+    - 56-60
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 56-62
+    - "+2"
+    - V. Carter makes 2-pt shot from 18 ft
+  - - '7:12.0'
+    - ''
+    - ''
+    - 56-62
+    - ''
+    - Shooting foul by D. Wesley
+  - - '7:12.0'
+    - ''
+    - ''
+    - 56-63
+    - "+1"
+    - V. Carter makes free throw 1 of 1
+  - - '6:51.0'
+    - P. Brown makes 2-pt shot from 13 ft (assist by E. Campbell)
+    - "+2"
+    - 58-63
+    - ''
+    - ''
+  - - '6:37.0'
+    - ''
+    - ''
+    - 58-63
+    - ''
+    - C. Oakley misses 2-pt shot from 20 ft
+  - - '6:35.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 58-63
+    - ''
+    - ''
+  - - '6:22.0'
+    - D. Wesley misses 2-pt shot from 17 ft
+    - ''
+    - 58-63
+    - ''
+    - ''
+  - - '6:20.0'
+    - ''
+    - ''
+    - 58-63
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '6:02.0'
+    - ''
+    - ''
+    - 58-63
+    - ''
+    - Personal foul by P. Brown
+  - - '5:49.0'
+    - ''
+    - ''
+    - 58-66
+    - "+3"
+    - C. Oakley makes 3-pt shot from 26 ft (assist by A. Davis)
+  - - '5:28.0'
+    - D. Wesley makes 2-pt shot from 20 ft (assist by B. Davis)
+    - "+2"
+    - 60-66
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - Personal foul by D. Wesley
+  - - '5:15.0'
+    - J. Magloire enters the game for E. Campbell
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 60-66
+    - ''
+    - V. Carter misses 3-pt shot from 25 ft
+  - - '5:04.0'
+    - Defensive rebound by Team
+    - ''
+    - 60-66
+    - ''
+    - ''
+  - - '4:42.0'
+    - B. Davis makes 3-pt shot from 23 ft (assist by D. Wesley)
+    - "+3"
+    - 63-66
+    - ''
+    - ''
+  - - '4:20.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - Personal foul by J. Mashburn
+  - - '4:05.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - M. Jackson misses 2-pt shot from 18 ft
+  - - '4:04.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:00.0'
+    - Turnover by J. Mashburn (double dribble)
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:00.0'
+    - Violation by Team (delay of game)
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '4:00.0'
+    - ''
+    - ''
+    - 63-66
+    - ''
+    - Toronto full timeout
+  - - '4:00.0'
+    - E. Robinson enters the game for B. Davis
+    - ''
+    - 63-66
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 63-68
+    - "+2"
+    - M. Jackson makes 2-pt shot at rim
+  - - '3:31.0'
+    - J. Mashburn misses 2-pt shot from 21 ft
+    - ''
+    - 63-68
+    - ''
+    - ''
+  - - '3:29.0'
+    - Offensive rebound by D. Wesley
+    - ''
+    - 63-68
+    - ''
+    - ''
+  - - '3:23.0'
+    - P. Brown misses 2-pt shot at rim (block by A. Davis)
+    - ''
+    - 63-68
+    - ''
+    - ''
+  - - '3:20.0'
+    - Offensive rebound by J. Magloire
+    - ''
+    - 63-68
+    - ''
+    - ''
+  - - '3:19.0'
+    - J. Magloire makes 2-pt shot at rim
+    - "+2"
+    - 65-68
+    - ''
+    - ''
+  - - '3:05.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - M. Peterson misses 2-pt shot at rim (block by P. Brown)
+  - - '3:04.0'
+    - ''
+    - ''
+    - 65-68
+    - ''
+    - Offensive rebound by C. Oakley
+  - - '3:01.0'
+    - ''
+    - ''
+    - 65-70
+    - "+2"
+    - A. Davis makes 2-pt shot at rim (assist by C. Oakley)
+  - - '3:01.0'
+    - ''
+    - ''
+    - 65-70
+    - ''
+    - Shooting foul by P. Brown
+  - - '3:01.0'
+    - L. Nailon enters the game for J. Mashburn
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:01.0'
+    - D. Coleman enters the game for P. Brown
+    - ''
+    - 65-70
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 65-71
+    - "+1"
+    - A. Davis makes free throw 1 of 1
+  - - '2:49.0'
+    - Personal foul by M. Jackson
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '2:43.0'
+    - Turnover by E. Robinson (bad pass; steal by M. Peterson)
+    - ''
+    - 65-71
+    - ''
+    - ''
+  - - '2:35.0'
+    - ''
+    - ''
+    - 65-74
+    - "+3"
+    - V. Carter makes 3-pt shot from 26 ft (assist by M. Jackson)
+  - - '2:17.0'
+    - D. Wesley misses 2-pt shot from 22 ft
+    - ''
+    - 65-74
+    - ''
+    - ''
+  - - '2:16.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - Defensive rebound by Team
+  - - '2:01.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - M. Peterson misses 3-pt shot from 25 ft
+  - - '2:00.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - Offensive rebound by M. Peterson
+  - - '2:00.0'
+    - ''
+    - ''
+    - 65-74
+    - ''
+    - Personal foul by L. Nailon
+  - - '2:00.0'
+    - ''
+    - ''
+    - 65-75
+    - "+1"
+    - M. Peterson makes free throw 1 of 2
+  - - '2:00.0'
+    - ''
+    - ''
+    - 65-75
+    - ''
+    - K. Clark enters the game for C. Oakley
+  - - '2:00.0'
+    - ''
+    - ''
+    - 65-76
+    - "+1"
+    - M. Peterson makes free throw 2 of 2
+  - - '1:46.0'
+    - D. Coleman misses 2-pt shot from 13 ft
+    - ''
+    - 65-76
+    - ''
+    - ''
+  - - '1:44.0'
+    - ''
+    - ''
+    - 65-76
+    - ''
+    - Defensive rebound by K. Clark
+  - - '1:28.0'
+    - ''
+    - ''
+    - 65-78
+    - "+2"
+    - V. Carter makes 2-pt shot from 14 ft (assist by M. Jackson)
+  - - '1:12.0'
+    - J. Magloire misses 2-pt shot from 9 ft
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '1:08.0'
+    - Offensive rebound by D. Coleman
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '1:07.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 65-78
+    - ''
+    - ''
+  - - '1:07.0'
+    - D. Coleman makes free throw 1 of 2
+    - "+1"
+    - 66-78
+    - ''
+    - ''
+  - - '1:07.0'
+    - D. Coleman makes free throw 2 of 2
+    - "+1"
+    - 67-78
+    - ''
+    - ''
+  - - '0:51.9'
+    - ''
+    - ''
+    - 67-78
+    - ''
+    - A. Davis misses 2-pt shot from 13 ft
+  - - '0:50.7'
+    - Defensive rebound by E. Robinson
+    - ''
+    - 67-78
+    - ''
+    - ''
+  - - '0:48.9'
+    - Turnover by E. Robinson (bad pass; steal by M. Peterson)
+    - ''
+    - 67-78
+    - ''
+    - ''
+  - - '0:40.9'
+    - ''
+    - ''
+    - 67-81
+    - "+3"
+    - M. Jackson makes 3-pt shot from 24 ft (assist by V. Carter)
+  - - '0:31.9'
+    - D. Wesley misses 3-pt shot from 24 ft
+    - ''
+    - 67-81
+    - ''
+    - ''
+  - - '0:30.5'
+    - Offensive rebound by D. Wesley
+    - ''
+    - 67-81
+    - ''
+    - ''
+  - - '0:14.5'
+    - Shooting foul by V. Carter
+    - ''
+    - 67-81
+    - ''
+    - ''
+  - - '0:14.5'
+    - D. Coleman makes free throw 1 of 2
+    - "+1"
+    - 68-81
+    - ''
+    - ''
+  - - '0:14.5'
+    - ''
+    - ''
+    - 68-81
+    - ''
+    - T. Murray enters the game for A. Davis
+  - - '0:14.5'
+    - D. Coleman makes free throw 2 of 2
+    - "+1"
+    - 69-81
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 69-84
+    - "+3"
+    - V. Carter makes 3-pt shot from 25 ft
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:44.0'
+    - D. Coleman makes 2-pt shot at rim (assist by B. Davis)
+    - "+2"
+    - 71-84
+    - ''
+    - ''
+  - - '11:44.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 71-84
+    - ''
+    - ''
+  - - '11:44.0'
+    - D. Coleman makes free throw 1 of 1
+    - "+1"
+    - 72-84
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 72-84
+    - ''
+    - Turnover by M. Jackson (bad pass)
+  - - '11:13.0'
+    - L. Nailon makes 2-pt shot from 9 ft (assist by D. Coleman)
+    - "+2"
+    - 74-84
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 74-84
+    - ''
+    - T. Murray misses 2-pt shot from 8 ft
+  - - '10:55.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 74-84
+    - ''
+    - ''
+  - - '10:42.0'
+    - B. Davis misses 2-pt shot from 14 ft
+    - ''
+    - 74-84
+    - ''
+    - ''
+  - - '10:40.0'
+    - ''
+    - ''
+    - 74-84
+    - ''
+    - Defensive rebound by K. Clark
+  - - '10:35.0'
+    - ''
+    - ''
+    - 74-87
+    - "+3"
+    - T. Murray makes 3-pt shot from 25 ft (assist by M. Jackson)
+  - - '10:11.0'
+    - B. Davis misses 2-pt shot at rim (block by K. Clark)
+    - ''
+    - 74-87
+    - ''
+    - ''
+  - - '10:07.0'
+    - ''
+    - ''
+    - 74-87
+    - ''
+    - Defensive rebound by A. Williams
+  - - '9:53.0'
+    - ''
+    - ''
+    - 74-89
+    - "+2"
+    - K. Clark makes 2-pt shot from 11 ft
+  - - '9:29.0'
+    - Shooting foul by T. Murray
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '9:29.0'
+    - B. Davis misses free throw 1 of 2
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '9:29.0'
+    - Offensive rebound by Team
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '9:29.0'
+    - B. Davis misses free throw 2 of 2
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '9:28.0'
+    - ''
+    - ''
+    - 74-89
+    - ''
+    - Defensive rebound by A. Davis
+  - - '9:21.0'
+    - ''
+    - ''
+    - 74-89
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by D. Coleman)
+  - - '9:07.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 74-89
+    - ''
+    - ''
+  - - '9:07.0'
+    - E. Campbell makes free throw 1 of 2
+    - "+1"
+    - 75-89
+    - ''
+    - ''
+  - - '9:07.0'
+    - E. Campbell misses free throw 2 of 2
+    - ''
+    - 75-89
+    - ''
+    - ''
+  - - '9:07.0'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - Defensive rebound by A. Williams
+  - - '8:55.0'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - Personal foul by E. Campbell
+  - - '8:55.0'
+    - ''
+    - ''
+    - 75-89
+    - ''
+    - Official timeout
+  - - '8:55.0'
+    - J. Mashburn enters the game for L. Nailon
+    - ''
+    - 75-89
+    - ''
+    - ''
+  - - '8:55.0'
+    - P. Brown enters the game for D. Coleman
+    - ''
+    - 75-89
+    - ''
+    - ''
+  - - '8:55.0'
+    - D. Wesley enters the game for E. Robinson
+    - ''
+    - 75-89
+    - ''
+    - ''
+  - - '8:46.0'
+    - ''
+    - ''
+    - 75-91
+    - "+2"
+    - T. Murray makes 2-pt shot from 19 ft (assist by A. Williams)
+  - - '8:27.0'
+    - E. Campbell misses 2-pt shot from 10 ft
+    - ''
+    - 75-91
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 75-91
+    - ''
+    - Defensive rebound by A. Davis
+  - - '8:07.0'
+    - ''
+    - ''
+    - 75-91
+    - ''
+    - A. Davis misses 2-pt shot from 9 ft (block by E. Campbell)
+  - - '8:05.0'
+    - Defensive rebound by E. Campbell
+    - ''
+    - 75-91
+    - ''
+    - ''
+  - - '7:57.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 75-91
+    - ''
+    - ''
+  - - '7:57.0'
+    - P. Brown misses free throw 1 of 2
+    - ''
+    - 75-91
+    - ''
+    - ''
+  - - '7:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 75-91
+    - ''
+    - ''
+  - - '7:57.0'
+    - P. Brown makes free throw 2 of 2
+    - "+1"
+    - 76-91
+    - ''
+    - ''
+  - - '7:36.0'
+    - ''
+    - ''
+    - 76-91
+    - ''
+    - M. Jackson misses 2-pt shot from 8 ft
+  - - '7:34.0'
+    - ''
+    - ''
+    - 76-91
+    - ''
+    - Offensive rebound by M. Jackson
+  - - '7:33.0'
+    - ''
+    - ''
+    - 76-91
+    - ''
+    - M. Jackson misses 2-pt shot at rim
+  - - '7:32.0'
+    - Defensive rebound by P. Brown
+    - ''
+    - 76-91
+    - ''
+    - ''
+  - - '7:18.0'
+    - J. Mashburn makes 2-pt shot from 11 ft
+    - "+2"
+    - 78-91
+    - ''
+    - ''
+  - - '7:04.0'
+    - ''
+    - ''
+    - 78-94
+    - "+3"
+    - T. Murray makes 3-pt shot from 26 ft (assist by A. Williams)
+  - - '6:43.0'
+    - D. Wesley misses 2-pt shot from 20 ft
+    - ''
+    - 78-94
+    - ''
+    - ''
+  - - '6:41.0'
+    - Offensive rebound by P. Brown
+    - ''
+    - 78-94
+    - ''
+    - ''
+  - - '6:40.0'
+    - P. Brown makes 2-pt shot at rim
+    - "+2"
+    - 80-94
+    - ''
+    - ''
+  - - '6:28.0'
+    - ''
+    - ''
+    - 80-97
+    - "+3"
+    - A. Williams makes 3-pt shot from 25 ft (assist by A. Davis)
+  - - '6:17.0'
+    - Shooting foul by A. Davis
+    - ''
+    - 80-97
+    - ''
+    - ''
+  - - '6:17.0'
+    - ''
+    - ''
+    - 80-97
+    - ''
+    - M. Stewart enters the game for A. Davis
+  - - '6:17.0'
+    - ''
+    - ''
+    - 80-97
+    - ''
+    - V. Carter enters the game for M. Jackson
+  - - '6:17.0'
+    - B. Davis makes free throw 1 of 2
+    - "+1"
+    - 81-97
+    - ''
+    - ''
+  - - '6:17.0'
+    - B. Davis makes free throw 2 of 2
+    - "+1"
+    - 82-97
+    - ''
+    - ''
+  - - '6:10.0'
+    - ''
+    - ''
+    - 82-97
+    - ''
+    - Shooting foul by E. Campbell
+  - - '6:10.0'
+    - ''
+    - ''
+    - 82-98
+    - "+1"
+    - K. Clark makes free throw 1 of 2
+  - - '6:10.0'
+    - ''
+    - ''
+    - 82-98
+    - ''
+    - K. Clark misses free throw 2 of 2
+  - - '6:10.0'
+    - Defensive rebound by P. Brown
+    - ''
+    - 82-98
+    - ''
+    - ''
+  - - '6:02.0'
+    - D. Wesley makes 2-pt shot from 20 ft
+    - "+2"
+    - 84-98
+    - ''
+    - ''
+  - - '5:48.0'
+    - ''
+    - ''
+    - 84-98
+    - ''
+    - K. Clark misses 2-pt shot at rim
+  - - '5:46.0'
+    - Defensive rebound by P. Brown
+    - ''
+    - 84-98
+    - ''
+    - ''
+  - - '5:35.0'
+    - E. Campbell makes 2-pt shot from 16 ft (assist by J. Mashburn)
+    - "+2"
+    - 86-98
+    - ''
+    - ''
+  - - '5:18.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - T. Murray misses 3-pt shot from 25 ft
+  - - '5:16.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - Offensive rebound by V. Carter
+  - - '5:10.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - A. Williams misses 2-pt shot from 22 ft
+  - - '5:09.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '5:04.0'
+    - Shooting foul by K. Clark
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '5:04.0'
+    - Official timeout
+    - ''
+    - 86-98
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 86-98
+    - ''
+    - C. Oakley enters the game for K. Clark
+  - - '5:04.0'
+    - J. Mashburn makes free throw 1 of 2
+    - "+1"
+    - 87-98
+    - ''
+    - ''
+  - - '5:04.0'
+    - J. Mashburn misses free throw 2 of 2
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '5:04.0'
+    - ''
+    - ''
+    - 87-98
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '4:44.0'
+    - ''
+    - ''
+    - 87-98
+    - ''
+    - T. Murray misses 2-pt shot from 19 ft
+  - - '4:42.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '4:30.0'
+    - J. Mashburn misses 3-pt shot from 23 ft
+    - ''
+    - 87-98
+    - ''
+    - ''
+  - - '4:28.0'
+    - ''
+    - ''
+    - 87-98
+    - ''
+    - Defensive rebound by A. Williams
+  - - '4:13.0'
+    - ''
+    - ''
+    - 87-101
+    - "+3"
+    - V. Carter makes 3-pt shot from 26 ft
+  - - '3:54.0'
+    - E. Campbell makes 2-pt shot from 9 ft (assist by D. Wesley)
+    - "+2"
+    - 89-101
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 89-101
+    - ''
+    - V. Carter misses 3-pt shot from 24 ft
+  - - '3:30.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '3:14.0'
+    - Offensive foul by E. Campbell
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '3:14.0'
+    - Turnover by E. Campbell (foul)
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '2:56.0'
+    - ''
+    - ''
+    - 89-101
+    - ''
+    - Personal foul by D. Wesley
+  - - '2:56.0'
+    - ''
+    - ''
+    - 89-101
+    - ''
+    - Official timeout
+  - - '2:51.0'
+    - ''
+    - ''
+    - 89-101
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by B. Davis)
+  - - '2:40.0'
+    - J. Mashburn misses 3-pt shot from 25 ft
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '2:38.0'
+    - Offensive rebound by Team
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '2:38.0'
+    - Loose ball foul by V. Carter
+    - ''
+    - 89-101
+    - ''
+    - ''
+  - - '2:38.0'
+    - ''
+    - ''
+    - 89-101
+    - ''
+    - M. Jackson enters the game for T. Murray
+  - - '2:38.0'
+    - P. Brown makes free throw 1 of 2
+    - "+1"
+    - 90-101
+    - ''
+    - ''
+  - - '2:38.0'
+    - P. Brown makes free throw 2 of 2
+    - "+1"
+    - 91-101
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 91-103
+    - "+2"
+    - V. Carter makes 2-pt shot at rim (assist by C. Oakley)
+  - - '2:18.0'
+    - D. Wesley makes 2-pt shot at rim
+    - "+2"
+    - 93-103
+    - ''
+    - ''
+  - - '2:06.0'
+    - ''
+    - ''
+    - 93-103
+    - ''
+    - Turnover by C. Oakley (bad pass; steal by P. Brown)
+  - - '2:01.0'
+    - D. Wesley misses 3-pt shot from 25 ft
+    - ''
+    - 93-103
+    - ''
+    - ''
+  - - '2:00.0'
+    - Offensive rebound by B. Davis
+    - ''
+    - 93-103
+    - ''
+    - ''
+  - - '1:56.0'
+    - Shooting foul by M. Jackson
+    - ''
+    - 93-103
+    - ''
+    - ''
+  - - '1:56.0'
+    - D. Wesley makes free throw 1 of 2
+    - "+1"
+    - 94-103
+    - ''
+    - ''
+  - - '1:56.0'
+    - ''
+    - ''
+    - 94-103
+    - ''
+    - A. Davis enters the game for M. Stewart
+  - - '1:56.0'
+    - D. Wesley makes free throw 2 of 2
+    - "+1"
+    - 95-103
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 95-103
+    - ''
+    - Toronto 20 second timeout
+  - - '1:33.0'
+    - ''
+    - ''
+    - 95-106
+    - "+3"
+    - M. Jackson makes 3-pt shot from 26 ft (assist by V. Carter)
+  - - '1:27.0'
+    - J. Mashburn makes 2-pt shot at rim
+    - "+2"
+    - 97-106
+    - ''
+    - ''
+  - - '1:27.0'
+    - Shooting foul by C. Oakley
+    - ''
+    - 97-106
+    - ''
+    - ''
+  - - '1:27.0'
+    - J. Mashburn makes free throw 1 of 1
+    - "+1"
+    - 98-106
+    - ''
+    - ''
+  - - '1:18.0'
+    - ''
+    - ''
+    - 98-106
+    - ''
+    - Turnover by M. Jackson (bad pass; steal by E. Campbell)
+  - - '1:12.0'
+    - B. Davis misses 2-pt shot at rim
+    - ''
+    - 98-106
+    - ''
+    - ''
+  - - '1:11.0'
+    - ''
+    - ''
+    - 98-106
+    - ''
+    - Defensive rebound by M. Jackson
+  - - '0:53.9'
+    - ''
+    - ''
+    - 98-106
+    - ''
+    - C. Oakley misses 2-pt shot at rim
+  - - '0:51.9'
+    - Defensive rebound by P. Brown
+    - ''
+    - 98-106
+    - ''
+    - ''
+  - - '0:45.7'
+    - Shooting foul by V. Carter
+    - ''
+    - 98-106
+    - ''
+    - ''
+  - - '0:45.7'
+    - D. Wesley misses free throw 1 of 2
+    - ''
+    - 98-106
+    - ''
+    - ''
+  - - '0:45.7'
+    - Offensive rebound by Team
+    - ''
+    - 98-106
+    - ''
+    - ''
+  - - '0:45.7'
+    - D. Wesley makes free throw 2 of 2
+    - "+1"
+    - 99-106
+    - ''
+    - ''
+  - - '0:40.8'
+    - ''
+    - ''
+    - 99-106
+    - ''
+    - Personal foul by B. Davis
+  - - '0:29.0'
+    - ''
+    - ''
+    - 99-106
+    - ''
+    - Shooting foul by E. Campbell
+  - - '0:29.0'
+    - ''
+    - ''
+    - 99-107
+    - "+1"
+    - C. Oakley makes free throw 1 of 2
+  - - '0:29.0'
+    - ''
+    - ''
+    - 99-107
+    - ''
+    - C. Oakley misses free throw 2 of 2
+  - - '0:29.0'
+    - Defensive rebound by J. Mashburn
+    - ''
+    - 99-107
+    - ''
+    - ''
+  - - '0:20.9'
+    - J. Mashburn misses 2-pt shot from 16 ft
+    - ''
+    - 99-107
+    - ''
+    - ''
+  - - '0:19.9'
+    - ''
+    - ''
+    - 99-107
+    - ''
+    - Defensive rebound by C. Oakley
+  - - '0:00.0'
+    - End of 4th quarter

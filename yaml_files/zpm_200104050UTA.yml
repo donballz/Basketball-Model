@@ -1,0 +1,210 @@
+---
+- name: Plus-Minus
+  data:
+  - - Sacramento Kings
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Doug Christie (On: +11&#9642;Off: -5&#9642;Net: +16)'
+    - |2-
+
+      -17
+    - 228/-17
+    - 150/
+    - 121/+16
+    - 223/+10
+    - 169/
+    - 107/+2
+    - 'Vlade Divac (On: -9&#9642;Off: +15&#9642;Net: -24)'
+    - |2-
+
+      -15
+    - 197/-15
+    - 168/
+    - 8/-2
+    - 126/
+    - 222/+10
+    - 80/
+    - 188/-2
+    - 7/
+    - 'Peja Stojakovic (On: +12&#9642;Off: -6&#9642;Net: +18)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 38/+2
+    - 90/
+    - 121/+16
+    - 250/+10
+    - 249/+1
+    - 'Chris Webber (On: +11&#9642;Off: -5&#9642;Net: +16)'
+    - |2-
+
+      -17
+    - 228/-17
+    - 150/
+    - 120/+16
+    - 249/+10
+    - 53/0
+    - 96/
+    - 101/+2
+    - 'Jason Williams (On: 0&#9642;Off: +6&#9642;Net: -6)'
+    - |2-
+
+      -17
+    - 250/-17
+    - 172/
+    - 78/+11
+    - 114/+3
+    - 377/
+    - 7/+3
+    - 'Scot Pollard (On: +9&#9642;Off: -3&#9642;Net: +12)'
+    - "\n"
+    - 203/
+    - 46/-2
+    - 249/+12
+    - 228/
+    - 21/0
+    - 143/-1
+    - 107/
+    - 'Jon Barry (On: -5&#9642;Off: +11&#9642;Net: -16)'
+    - "\n"
+    - 231/
+    - 18/0
+    - 124/-4
+    - 353/
+    - 21/0
+    - 134/-1
+    - 116/
+    - 'Lawrence Funderburke (On: -2&#9642;Off: +8&#9642;Net: -10)'
+    - "\n"
+    - 232/
+    - 18/0
+    - 110/-2
+    - 640/
+    - 'Bobby Jackson (On: +9&#9642;Off: -3&#9642;Net: +12)'
+    - "\n"
+    - 250/
+    - 169/+1
+    - 200/
+    - 131/+7
+    - 249/+1
+    - 'Nick Anderson (On: -6&#9642;Off: +12&#9642;Net: -18)'
+    - "\n"
+    - 295/
+    - 79/-6
+    - 627/
+  - - Utah Jazz
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Karl Malone (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - |2-
+
+      +16
+    - 225/+16
+    - 70/
+    - 204/-10
+    - 223/-10
+    - 113/
+    - 163/-1
+    - 'Donyell Marshall (On: -4&#9642;Off: -2&#9642;Net: -2)'
+    - |2-
+
+      +15
+    - 203/+15
+    - 124/
+    - 172/-12
+    - 188/-10
+    - 182/
+    - 129/+3
+    - 'Olden Polynice (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - |2-
+
+      +7
+    - 164/+7
+    - 130/
+    - 84/+6
+    - 121/
+    - 209/-8
+    - 290/
+    - 'Bryon Russell (On: -10&#9642;Off: +4&#9642;Net: -14)'
+    - |2-
+
+      +17
+    - 250/+17
+    - 73/0
+    - 56/
+    - 121/-16
+    - 250/-10
+    - 248/-1
+    - 'John Stockton (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - |2-
+
+      +4
+    - 136/+4
+    - 159/
+    - 86/+4
+    - 119/
+    - 132/-3
+    - 153/
+    - 212/0
+    - 'Jacque Vaughn (On: -6&#9642;Off: 0&#9642;Net: -6)'
+    - "\n"
+    - 139/
+    - 110/+13
+    - 38/-2
+    - 97/
+    - 113/-14
+    - 139/
+    - 35/-3
+    - 325/
+    - 'Greg Ostertag (On: -10&#9642;Off: +4&#9642;Net: -14)'
+    - "\n"
+    - 165/
+    - 83/+10
+    - 38/-2
+    - 92/
+    - 119/-16
+    - 214/
+    - 35/-2
+    - 79/0
+    - 170/
+    - 'John Starks (On: +5&#9642;Off: -11&#9642;Net: +16)'
+    - "\n"
+    - 205/
+    - 44/+2
+    - 124/+4
+    - 318/
+    - 57/0
+    - 250/-1
+    - 'Danny Manning (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - "\n"
+    - 228/
+    - 21/+1
+    - 38/-2
+    - 439/
+    - 21/0
+    - 114/-4
+    - 136/
+    - 'John Crotty (On: -5&#9642;Off: -1&#9642;Net: -4)'
+    - "\n"
+    - 681/
+    - 69/-4
+    - 35/-1
+    - 215/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

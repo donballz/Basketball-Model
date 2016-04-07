@@ -1,0 +1,205 @@
+---
+- name: Plus-Minus
+  data:
+  - - Atlanta Hawks
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Chris Crawford (On: +3&#9642;Off: +4&#9642;Net: -1)'
+    - |2-
+
+      +7
+    - 239/+7
+    - 112/
+    - 148/-1
+    - 163/-5
+    - 276/
+    - 60/+2
+    - 'Brevin Knight (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 99/-5
+    - 58/
+    - 65/+3
+    - 26/
+    - 224/-8
+    - 116/
+    - 159/+5
+    - 'Dikembe Mutombo (On: +3&#9642;Off: +4&#9642;Net: -1)'
+    - |2-
+
+      +2
+    - 128/+2
+    - 121/
+    - 223/-5
+    - 26/
+    - 28/-4
+    - 221/
+    - 186/+10
+    - 63/
+    - 'Jason Terry (On: +11&#9642;Off: -4&#9642;Net: +15)'
+    - |2-
+
+      +7
+    - 249/+7
+    - 101/
+    - 148/-1
+    - 249/-6
+    - 87/+7
+    - 51/
+    - 112/+4
+    - 'Lorenzen Wright (On: +5&#9642;Off: +2&#9642;Net: +3)'
+    - |2-
+
+      +7
+    - 250/+7
+    - 102/
+    - 148/-1
+    - 250/-6
+    - 92/
+    - 156/+5
+    - 'Alan Henderson (On: -2&#9642;Off: +9&#9642;Net: -11)'
+    - "\n"
+    - 132/
+    - 82/+3
+    - 318/
+    - 198/-5
+    - 269/
+    - 'Cal Bowdler (On: +6&#9642;Off: +1&#9642;Net: +5)'
+    - "\n"
+    - 217/
+    - 32/+2
+    - 99/-5
+    - 130/
+    - 20/-1
+    - 237/
+    - 11/+3
+    - 86/+7
+    - 163/
+    - 'DerMarr Johnson (On: +2&#9642;Off: +5&#9642;Net: -3)'
+    - "\n"
+    - 242/
+    - 7/0
+    - 99/-5
+    - 318/
+    - 81/-1
+    - 133/+8
+    - 117/
+    - 'Larry Robinson (On: +6&#9642;Off: +1&#9642;Net: +5)'
+    - "\n"
+    - 250/
+    - 154/-8
+    - 322/
+    - 24/+2
+    - 249/+12
+    - 'Ira Bowman (On: -1&#9642;Off: +8&#9642;Net: -9)'
+    - "\n"
+    - 480/
+    - 20/-1
+    - 501/
+  - - Golden State Warriors
+    - 250/1st Qtr
+    - 250/2nd Qtr
+    - 250/3rd Qtr
+    - 250/4th Qtr
+    - 'Mookie Blaylock (On: -5&#9642;Off: -2&#9642;Net: -3)'
+    - |2-
+
+      -1
+    - 158/-1
+    - 249/
+    - 92/-2
+    - 225/+8
+    - 25/
+    - 186/-10
+    - 62/
+    - 'Larry Hughes (On: +6&#9642;Off: -13&#9642;Net: +19)'
+    - |2-
+
+      0
+    - 148/0
+    - 60/
+    - 41/+1
+    - 153/+8
+    - 95/
+    - 249/+6
+    - 86/-7
+    - 102/
+    - 61/-2
+    - 'Marc Jackson (On: -9&#9642;Off: +2&#9642;Net: -11)'
+    - |2-
+
+      -8
+    - 200/-8
+    - 76/
+    - 221/+4
+    - 28/+4
+    - 220/
+    - 198/-8
+    - 24/
+    - 6/+2
+    - 6/
+    - 15/-3
+    - 'Antawn Jamison (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - |2-
+
+      -7
+    - 250/-7
+    - 250/+6
+    - 250/+6
+    - 49/
+    - 200/-6
+    - 'Bob Sura (On: -9&#9642;Off: +2&#9642;Net: -11)'
+    - |2-
+
+      -8
+    - 201/-8
+    - 207/
+    - 92/-2
+    - 250/+6
+    - 92/
+    - 156/-5
+    - 'Adonal Foyle (On: -4&#9642;Off: -3&#9642;Net: -1)'
+    - "\n"
+    - 154/
+    - 94/-7
+    - 21/+2
+    - 172/
+    - 55/+2
+    - 33/
+    - 215/+2
+    - 203/
+    - 15/0
+    - 32/
+    - 'Vonteego Cummings (On: -12&#9642;Off: +5&#9642;Net: -17)'
+    - "\n"
+    - 158/
+    - 91/-6
+    - 154/+8
+    - 321/
+    - 24/-2
+    - 250/-12
+    - 'Corie Blount (On: -1&#9642;Off: -6&#9642;Net: +5)'
+    - "\n"
+    - 209/
+    - 41/+1
+    - 192/+4
+    - 307/
+    - 44/-6
+    - 205/
+    - 'choice: ''+choice+'':''+company+'''
+    - Question, Comment, Feedback or Correction?
+    - 'Tools: Automatic Player Linker|Basic Player Linker'
+    - |2+
+
+      Current season data provided by SportsDirect Inc.
+
+    - |2
+
+      The NBA identifications are used with the permission of NBA Properties, Inc.
+    - "\nA Sports Reference Site:\nAbout BBR|\nPrivacy Statement|\nConditions &amp;
+      Terms of Service | \nUse of Data\n"
+    - Part of the  Network

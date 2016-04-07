@@ -1,0 +1,3503 @@
+---
+- name: Play-By-Play
+  data:
+  - - '12:00.0'
+    - Start of 1st quarter
+  - - '12:00.0'
+    - 'Jump ball: E. Campbell vs. M. Ruffin (P. Brown gains possession)'
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-0
+    - ''
+    - Personal foul by M. Ruffin
+  - - '11:45.0'
+    - ''
+    - ''
+    - 0-2
+    - "+2"
+    - E. Campbell makes 2-pt shot at rim (assist by E. Robinson)
+  - - '11:26.0'
+    - R. Mercer misses 2-pt shot from 12 ft
+    - ''
+    - 0-2
+    - ''
+    - ''
+  - - '11:24.0'
+    - ''
+    - ''
+    - 0-2
+    - ''
+    - Defensive rebound by B. Davis
+  - - '11:10.0'
+    - ''
+    - ''
+    - 0-4
+    - "+2"
+    - D. Wesley makes 2-pt shot from 18 ft (assist by E. Robinson)
+  - - '10:45.0'
+    - E. Brand makes 2-pt shot at rim
+    - "+2"
+    - 2-4
+    - ''
+    - ''
+  - - '10:37.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Turnover by B. Davis (discontinued dribble)
+  - - '10:37.0'
+    - M. Ruffin misses 2-pt shot from 6 ft (block by E. Campbell)
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:34.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '10:30.0'
+    - ''
+    - ''
+    - 2-4
+    - ''
+    - D. Wesley misses 2-pt shot from 6 ft (block by M. Ruffin)
+  - - '10:27.0'
+    - Defensive rebound by B. Drew
+    - ''
+    - 2-4
+    - ''
+    - ''
+  - - '10:24.0'
+    - M. Ruffin makes 2-pt shot at rim (assist by B. Drew)
+    - "+2"
+    - 4-4
+    - ''
+    - ''
+  - - '10:08.0'
+    - ''
+    - ''
+    - 4-4
+    - ''
+    - Turnover by D. Wesley (lost ball; steal by R. Mercer)
+  - - '10:04.0'
+    - B. Drew makes 2-pt shot from 7 ft
+    - "+2"
+    - 6-4
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 6-6
+    - "+2"
+    - P. Brown makes 2-pt shot from 9 ft (assist by B. Davis)
+  - - '9:21.0'
+    - M. Ruffin misses 2-pt shot from 6 ft
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:19.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 6-6
+    - ''
+    - ''
+  - - '9:08.0'
+    - B. Drew makes 3-pt shot from 25 ft (assist by E. Brand)
+    - "+3"
+    - 9-6
+    - ''
+    - ''
+  - - '8:53.0'
+    - ''
+    - ''
+    - 9-6
+    - ''
+    - E. Robinson misses 2-pt shot from 13 ft
+  - - '8:51.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 9-6
+    - ''
+    - ''
+  - - '8:29.0'
+    - E. Brand makes 2-pt shot at rim
+    - "+2"
+    - 11-6
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Turnover by E. Campbell (lost ball; steal by E. Brand)
+  - - '8:03.0'
+    - B. Drew misses 2-pt shot from 18 ft
+    - ''
+    - 11-6
+    - ''
+    - ''
+  - - '8:02.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Defensive rebound by E. Robinson
+  - - '7:56.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - E. Robinson misses 2-pt shot from 16 ft
+  - - '7:54.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Offensive rebound by B. Davis
+  - - '7:50.0'
+    - ''
+    - ''
+    - 11-6
+    - ''
+    - Turnover by D. Wesley (lost ball; steal by M. World Peace)
+  - - '7:45.0'
+    - B. Drew makes 2-pt shot at rim
+    - "+2"
+    - 13-6
+    - ''
+    - ''
+  - - '7:21.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Shooting foul by B. Drew
+  - - '7:21.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - B. Davis misses free throw 1 of 2
+  - - '7:21.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Offensive rebound by Team
+  - - '7:21.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - D. Coleman enters the game for E. Campbell
+  - - '7:21.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - B. Davis misses free throw 2 of 2
+  - - '7:21.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 13-6
+    - ''
+    - ''
+  - - '7:16.0'
+    - Personal foul by E. Robinson
+    - ''
+    - 13-6
+    - ''
+    - ''
+  - - '7:10.0'
+    - E. Brand misses 2-pt shot from 16 ft
+    - ''
+    - 13-6
+    - ''
+    - ''
+  - - '7:08.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Defensive rebound by Team
+  - - '6:56.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Shooting foul by M. Ruffin
+  - - '6:56.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - H. Hawkins enters the game for B. Davis
+  - - '6:56.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - D. Wesley misses free throw 1 of 2
+  - - '6:56.0'
+    - ''
+    - ''
+    - 13-6
+    - ''
+    - Offensive rebound by Team
+  - - '6:56.0'
+    - B. Miller enters the game for M. Ruffin
+    - ''
+    - 13-6
+    - ''
+    - ''
+  - - '6:56.0'
+    - ''
+    - ''
+    - 13-7
+    - "+1"
+    - D. Wesley makes free throw 2 of 2
+  - - '6:36.0'
+    - Personal foul by E. Robinson
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - L. Nailon enters the game for E. Robinson
+  - - '6:16.0'
+    - E. Brand misses 2-pt shot from 7 ft
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '6:14.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '5:52.0'
+    - ''
+    - ''
+    - 13-7
+    - ''
+    - Turnover by P. Brown (lost ball; steal by M. World Peace)
+  - - '5:35.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '5:35.0'
+    - Chicago full timeout
+    - ''
+    - 13-7
+    - ''
+    - ''
+  - - '5:35.0'
+    - E. Brand makes free throw 1 of 2
+    - "+1"
+    - 14-7
+    - ''
+    - ''
+  - - '5:35.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 15-7
+    - ''
+    - ''
+  - - '5:25.0'
+    - ''
+    - ''
+    - 15-9
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim (assist by H. Hawkins)
+  - - '5:01.0'
+    - M. World Peace misses 2-pt shot from 6 ft
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '4:59.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '4:59.0'
+    - Turnover by B. Miller (traveling)
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '4:48.0'
+    - ''
+    - ''
+    - 15-9
+    - ''
+    - D. Wesley misses 2-pt shot at rim
+  - - '4:44.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 15-9
+    - ''
+    - ''
+  - - '4:28.0'
+    - E. Brand makes 2-pt shot at rim
+    - "+2"
+    - 17-9
+    - ''
+    - ''
+  - - '4:09.0'
+    - ''
+    - ''
+    - 17-9
+    - ''
+    - D. Wesley misses 2-pt shot at rim (block by E. Brand)
+  - - '4:06.0'
+    - Defensive rebound by M. World Peace
+    - ''
+    - 17-9
+    - ''
+    - ''
+  - - '3:55.0'
+    - E. Brand makes 2-pt shot from 9 ft (assist by R. Mercer)
+    - "+2"
+    - 19-9
+    - ''
+    - ''
+  - - '3:36.0'
+    - Violation by M. World Peace (illegal defense)
+    - ''
+    - 19-9
+    - ''
+    - ''
+  - - '3:36.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - E. Campbell enters the game for P. Brown
+  - - '3:22.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - E. Campbell misses 2-pt shot from 15 ft
+  - - '3:21.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - Offensive rebound by D. Coleman
+  - - '3:19.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - D. Coleman misses 2-pt shot from 5 ft
+  - - '3:17.0'
+    - ''
+    - ''
+    - 19-9
+    - ''
+    - Offensive rebound by E. Campbell
+  - - '3:12.0'
+    - ''
+    - ''
+    - 19-11
+    - "+2"
+    - D. Coleman makes 2-pt shot from 14 ft (assist by H. Hawkins)
+  - - '2:58.0'
+    - E. Brand makes 2-pt shot at rim
+    - "+2"
+    - 21-11
+    - ''
+    - ''
+  - - '2:47.0'
+    - ''
+    - ''
+    - 21-13
+    - "+2"
+    - D. Coleman makes 2-pt shot at rim (assist by L. Nailon)
+  - - '2:29.0'
+    - B. Miller makes 2-pt shot from 18 ft (assist by E. Brand)
+    - "+2"
+    - 23-13
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 23-15
+    - "+2"
+    - H. Hawkins makes 2-pt shot at rim (assist by L. Nailon)
+  - - '2:04.0'
+    - Shooting foul by L. Nailon
+    - ''
+    - 23-15
+    - ''
+    - ''
+  - - '2:04.0'
+    - Chicago full timeout
+    - ''
+    - 23-15
+    - ''
+    - ''
+  - - '2:04.0'
+    - M. World Peace makes free throw 1 of 2
+    - "+1"
+    - 24-15
+    - ''
+    - ''
+  - - '2:04.0'
+    - M. World Peace makes free throw 2 of 2
+    - "+1"
+    - 25-15
+    - ''
+    - ''
+  - - '1:47.0'
+    - ''
+    - ''
+    - 25-17
+    - "+2"
+    - E. Campbell makes 2-pt shot from 13 ft (assist by H. Hawkins)
+  - - '1:33.0'
+    - R. Mercer makes 2-pt shot from 16 ft (assist by E. Brand)
+    - "+2"
+    - 27-17
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 27-17
+    - ''
+    - Shooting foul by E. Brand
+  - - '1:13.0'
+    - F. Hoiberg enters the game for M. World Peace
+    - ''
+    - 27-17
+    - ''
+    - ''
+  - - '1:13.0'
+    - ''
+    - ''
+    - 27-18
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '1:13.0'
+    - ''
+    - ''
+    - 27-19
+    - "+1"
+    - E. Campbell makes free throw 2 of 2
+  - - '1:00.0'
+    - R. Mercer misses 2-pt shot from 19 ft
+    - ''
+    - 27-19
+    - ''
+    - ''
+  - - '0:58.0'
+    - ''
+    - ''
+    - 27-19
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '0:46.5'
+    - ''
+    - ''
+    - 27-19
+    - ''
+    - L. Nailon misses 2-pt shot from 7 ft
+  - - '0:43.3'
+    - Defensive rebound by B. Miller
+    - ''
+    - 27-19
+    - ''
+    - ''
+  - - '0:34.3'
+    - E. Brand makes 2-pt shot from 12 ft (assist by B. Drew)
+    - "+2"
+    - 29-19
+    - ''
+    - ''
+  - - '0:13.3'
+    - ''
+    - ''
+    - 29-19
+    - ''
+    - L. Nailon misses 2-pt shot from 7 ft
+  - - '0:11.1'
+    - Defensive rebound by E. Brand
+    - ''
+    - 29-19
+    - ''
+    - ''
+  - - '0:00.3'
+    - B. Drew misses 3-pt shot from 27 ft
+    - ''
+    - 29-19
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 29-19
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '0:00.0'
+    - End of 1st quarter
+  - []
+  - - '12:00.0'
+    - Start of 2nd quarter
+  - - '11:46.0'
+    - Shooting foul by D. Coleman
+    - ''
+    - 29-19
+    - ''
+    - ''
+  - - '11:46.0'
+    - E. Brand makes free throw 1 of 2
+    - "+1"
+    - 30-19
+    - ''
+    - ''
+  - - '11:46.0'
+    - E. Brand misses free throw 2 of 2
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '11:45.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Defensive rebound by P. Brown
+  - - '11:22.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - D. Coleman misses 2-pt shot from 16 ft
+  - - '11:18.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '11:10.0'
+    - F. Hoiberg misses 2-pt shot from 17 ft
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '11:07.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '11:05.0'
+    - Turnover by B. Miller (lost ball; steal by E. Robinson)
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '10:58.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - E. Robinson misses 2-pt shot from 11 ft
+  - - '10:47.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '10:41.0'
+    - E. Brand misses 2-pt shot from 8 ft
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '10:39.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '10:32.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - Personal foul by B. Drew
+  - - '10:19.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - P. Brown misses 2-pt shot from 14 ft
+  - - '10:19.0'
+    - Defensive rebound by Team
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '10:16.0'
+    - ''
+    - ''
+    - 30-19
+    - ''
+    - J. Magloire enters the game for D. Coleman
+  - - '10:15.0'
+    - Personal foul by H. Hawkins
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '9:56.0'
+    - E. Brand misses 2-pt shot from 20 ft
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 30-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - B. Miller makes free throw 1 of 2
+    - "+1"
+    - 31-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - M. Ruffin enters the game for E. Brand
+    - ''
+    - 31-19
+    - ''
+    - ''
+  - - '9:54.0'
+    - B. Miller makes free throw 2 of 2
+    - "+1"
+    - 32-19
+    - ''
+    - ''
+  - - '9:36.0'
+    - ''
+    - ''
+    - 32-19
+    - ''
+    - J. Magloire misses 2-pt shot from 10 ft
+  - - '9:33.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 32-19
+    - ''
+    - ''
+  - - '9:12.0'
+    - B. Drew makes 2-pt shot at rim
+    - "+2"
+    - 34-19
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 34-19
+    - ''
+    - E. Robinson misses 2-pt shot from 14 ft
+  - - '8:51.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 34-19
+    - ''
+    - ''
+  - - '8:33.0'
+    - Personal foul by E. Robinson
+    - ''
+    - 34-19
+    - ''
+    - ''
+  - - '8:33.0'
+    - Official timeout
+    - ''
+    - 34-19
+    - ''
+    - ''
+  - - '8:33.0'
+    - ''
+    - ''
+    - 34-19
+    - ''
+    - D. Wesley enters the game for E. Robinson
+  - - '8:33.0'
+    - K. El-Amin enters the game for B. Drew
+    - ''
+    - 34-19
+    - ''
+    - ''
+  - - '8:21.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 34-19
+    - ''
+    - ''
+  - - '8:21.0'
+    - M. Ruffin makes free throw 1 of 2
+    - "+1"
+    - 35-19
+    - ''
+    - ''
+  - - '8:21.0'
+    - ''
+    - ''
+    - 35-19
+    - ''
+    - D. Coleman enters the game for P. Brown
+  - - '8:21.0'
+    - M. Ruffin makes free throw 2 of 2
+    - "+1"
+    - 36-19
+    - ''
+    - ''
+  - - '8:10.0'
+    - ''
+    - ''
+    - 36-19
+    - ''
+    - Personal foul by C. Benjamin
+  - - '8:08.0'
+    - ''
+    - ''
+    - 36-19
+    - ''
+    - Offensive foul by J. Magloire
+  - - '8:08.0'
+    - ''
+    - ''
+    - 36-19
+    - ''
+    - Turnover by J. Magloire (foul)
+  - - '7:45.0'
+    - B. Miller misses 2-pt shot at rim
+    - ''
+    - 36-19
+    - ''
+    - ''
+  - - '7:41.0'
+    - ''
+    - ''
+    - 36-19
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '7:38.0'
+    - ''
+    - ''
+    - 36-21
+    - "+2"
+    - B. Davis makes 2-pt shot at rim
+  - - '7:29.0'
+    - Chicago 20 second timeout
+    - ''
+    - 36-21
+    - ''
+    - ''
+  - - '7:29.0'
+    - R. Mercer enters the game for C. Benjamin
+    - ''
+    - 36-21
+    - ''
+    - ''
+  - - '7:29.0'
+    - E. Brand enters the game for B. Miller
+    - ''
+    - 36-21
+    - ''
+    - ''
+  - - '7:22.0'
+    - R. Mercer makes 2-pt shot from 14 ft
+    - "+2"
+    - 38-21
+    - ''
+    - ''
+  - - '7:05.0'
+    - ''
+    - ''
+    - 38-23
+    - "+2"
+    - B. Davis makes 2-pt shot from 6 ft (assist by D. Wesley)
+  - - '6:46.0'
+    - R. Mercer misses 2-pt shot from 13 ft
+    - ''
+    - 38-23
+    - ''
+    - ''
+  - - '6:45.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '6:27.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - D. Coleman misses 2-pt shot at rim
+  - - '6:24.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 38-23
+    - ''
+    - ''
+  - - '6:08.0'
+    - E. Brand misses 2-pt shot from 7 ft
+    - ''
+    - 38-23
+    - ''
+    - ''
+  - - '6:07.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '5:47.0'
+    - ''
+    - ''
+    - 38-23
+    - ''
+    - D. Wesley misses 2-pt shot at rim
+  - - '5:44.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 38-23
+    - ''
+    - ''
+  - - '5:37.0'
+    - R. Mercer makes 2-pt shot at rim (assist by K. El-Amin)
+    - "+2"
+    - 40-23
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 40-23
+    - ''
+    - Personal foul by M. Ruffin
+  - - '5:20.0'
+    - ''
+    - ''
+    - 40-23
+    - ''
+    - Charlotte full timeout
+  - - '5:20.0'
+    - ''
+    - ''
+    - 40-23
+    - ''
+    - L. Nailon enters the game for J. Magloire
+  - - '5:20.0'
+    - ''
+    - ''
+    - 40-23
+    - ''
+    - E. Campbell enters the game for H. Hawkins
+  - - '5:20.0'
+    - M. World Peace enters the game for F. Hoiberg
+    - ''
+    - 40-23
+    - ''
+    - ''
+  - - '5:20.0'
+    - B. Miller enters the game for M. Ruffin
+    - ''
+    - 40-23
+    - ''
+    - ''
+  - - '5:15.0'
+    - ''
+    - ''
+    - 40-25
+    - "+2"
+    - B. Davis makes 2-pt shot from 18 ft
+  - - '4:59.0'
+    - R. Mercer misses 2-pt shot from 18 ft
+    - ''
+    - 40-25
+    - ''
+    - ''
+  - - '4:57.0'
+    - ''
+    - ''
+    - 40-25
+    - ''
+    - Defensive rebound by L. Nailon
+  - - '4:46.0'
+    - ''
+    - ''
+    - 40-25
+    - ''
+    - D. Coleman misses 2-pt shot from 10 ft (block by E. Brand)
+  - - '4:43.0'
+    - Defensive rebound by M. World Peace
+    - ''
+    - 40-25
+    - ''
+    - ''
+  - - '4:42.0'
+    - Personal foul by L. Nailon
+    - ''
+    - 40-25
+    - ''
+    - ''
+  - - '4:42.0'
+    - M. World Peace makes free throw 1 of 2
+    - "+1"
+    - 41-25
+    - ''
+    - ''
+  - - '4:42.0'
+    - M. World Peace misses free throw 2 of 2
+    - ''
+    - 41-25
+    - ''
+    - ''
+  - - '4:41.0'
+    - ''
+    - ''
+    - 41-25
+    - ''
+    - Defensive rebound by D. Coleman
+  - - '4:17.0'
+    - ''
+    - ''
+    - 41-25
+    - ''
+    - D. Coleman misses 3-pt shot from 27 ft
+  - - '4:15.0'
+    - ''
+    - ''
+    - 41-25
+    - ''
+    - Offensive rebound by B. Davis
+  - - '4:12.0'
+    - ''
+    - ''
+    - 41-25
+    - ''
+    - D. Coleman misses 3-pt shot from 25 ft
+  - - '4:08.0'
+    - ''
+    - ''
+    - 41-27
+    - "+2"
+    - L. Nailon makes 2-pt shot at rim
+  - - '4:08.0'
+    - ''
+    - ''
+    - 41-27
+    - ''
+    - Offensive rebound by L. Nailon
+  - - '3:52.0'
+    - K. El-Amin misses 2-pt shot from 6 ft
+    - ''
+    - 41-27
+    - ''
+    - ''
+  - - '3:50.0'
+    - ''
+    - ''
+    - 41-27
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '3:35.0'
+    - ''
+    - ''
+    - 41-27
+    - ''
+    - D. Coleman misses 2-pt shot from 7 ft (block by B. Miller)
+  - - '3:31.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 41-27
+    - ''
+    - ''
+  - - '3:31.0'
+    - Shooting foul by D. Wesley
+    - ''
+    - 41-27
+    - ''
+    - ''
+  - - '3:31.0'
+    - R. Mercer misses free throw 1 of 2
+    - ''
+    - 41-27
+    - ''
+    - ''
+  - - '3:31.0'
+    - Offensive rebound by Team
+    - ''
+    - 41-27
+    - ''
+    - ''
+  - - '3:31.0'
+    - ''
+    - ''
+    - 41-27
+    - ''
+    - J. Magloire enters the game for D. Coleman
+  - - '3:31.0'
+    - R. Mercer makes free throw 2 of 2
+    - "+1"
+    - 42-27
+    - ''
+    - ''
+  - - '3:14.0'
+    - ''
+    - ''
+    - 42-29
+    - "+2"
+    - D. Wesley makes 2-pt shot at rim
+  - - '2:45.0'
+    - R. Mercer misses 3-pt shot from 25 ft
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:41.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:37.0'
+    - M. World Peace misses 2-pt shot from 6 ft (block by J. Magloire)
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:37.0'
+    - Offensive rebound by Team
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:37.0'
+    - Chicago full timeout
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:37.0'
+    - B. Drew enters the game for K. El-Amin
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:30.0'
+    - Personal foul by D. Wesley
+    - ''
+    - 42-29
+    - ''
+    - ''
+  - - '2:30.0'
+    - E. Brand makes free throw 1 of 2
+    - "+1"
+    - 43-29
+    - ''
+    - ''
+  - - '2:30.0'
+    - E. Brand misses free throw 2 of 2
+    - ''
+    - 43-29
+    - ''
+    - ''
+  - - '2:28.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - Shooting foul by B. Miller
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - E. Campbell misses free throw 1 of 2
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - Offensive rebound by Team
+  - - '2:16.0'
+    - ''
+    - ''
+    - 43-29
+    - ''
+    - E. Campbell misses free throw 2 of 2
+  - - '2:16.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 43-29
+    - ''
+    - ''
+  - - '1:55.0'
+    - Personal foul by D. Wesley
+    - ''
+    - 43-29
+    - ''
+    - ''
+  - - '1:55.0'
+    - M. World Peace makes free throw 1 of 2
+    - "+1"
+    - 44-29
+    - ''
+    - ''
+  - - '1:55.0'
+    - ''
+    - ''
+    - 44-29
+    - ''
+    - H. Hawkins enters the game for D. Wesley
+  - - '1:55.0'
+    - M. World Peace makes free throw 2 of 2
+    - "+1"
+    - 45-29
+    - ''
+    - ''
+  - - '1:40.0'
+    - ''
+    - ''
+    - 45-29
+    - ''
+    - Offensive foul by E. Campbell
+  - - '1:40.0'
+    - ''
+    - ''
+    - 45-29
+    - ''
+    - Turnover by E. Campbell (foul)
+  - - '1:26.0'
+    - Turnover by R. Mercer (bad pass; steal by L. Nailon)
+    - ''
+    - 45-29
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 45-29
+    - ''
+    - Shooting foul by B. Drew
+  - - '1:25.0'
+    - ''
+    - ''
+    - 45-30
+    - "+1"
+    - H. Hawkins makes free throw 1 of 2
+  - - '1:25.0'
+    - K. El-Amin enters the game for B. Drew
+    - ''
+    - 45-30
+    - ''
+    - ''
+  - - '1:25.0'
+    - ''
+    - ''
+    - 45-31
+    - "+1"
+    - H. Hawkins makes free throw 2 of 2
+  - - '1:07.0'
+    - M. World Peace misses 2-pt shot from 6 ft (block by E. Campbell)
+    - ''
+    - 45-31
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 45-31
+    - ''
+    - Defensive rebound by L. Nailon
+  - - '1:02.0'
+    - ''
+    - ''
+    - 45-31
+    - ''
+    - Shooting foul by E. Brand
+  - - '1:02.0'
+    - ''
+    - ''
+    - 45-32
+    - "+1"
+    - L. Nailon makes free throw 1 of 2
+  - - '1:02.0'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - L. Nailon misses free throw 2 of 2
+  - - '1:01.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:45.3'
+    - E. Brand misses 2-pt shot at rim
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:44.3'
+    - Offensive rebound by Team
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:40.1'
+    - R. Mercer misses 2-pt shot from 15 ft
+    - ''
+    - 45-32
+    - ''
+    - ''
+  - - '0:37.9'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '0:29.6'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Personal foul by R. Mercer
+  - - '0:29.6'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - H. Hawkins misses free throw 1 of 2
+  - - '0:29.6'
+    - ''
+    - ''
+    - 45-32
+    - ''
+    - Offensive rebound by Team
+  - - '0:29.6'
+    - ''
+    - ''
+    - 45-33
+    - "+1"
+    - H. Hawkins makes free throw 2 of 2
+  - - '0:05.8'
+    - Shooting foul by B. Davis
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '0:05.8'
+    - Chicago 20 second timeout
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '0:05.8'
+    - E. Brand misses free throw 1 of 2
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '0:05.8'
+    - Offensive rebound by Team
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '0:05.8'
+    - E. Brand misses free throw 2 of 2
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '0:05.4'
+    - ''
+    - ''
+    - 45-33
+    - ''
+    - Defensive rebound by L. Nailon
+  - - '0:00.0'
+    - End of 2nd quarter
+  - []
+  - - '12:00.0'
+    - Start of 3rd quarter
+  - - '11:37.0'
+    - R. Mercer misses 2-pt shot from 10 ft
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '11:35.0'
+    - ''
+    - ''
+    - 45-33
+    - ''
+    - Defensive rebound by P. Brown
+  - - '11:18.0'
+    - ''
+    - ''
+    - 45-33
+    - ''
+    - E. Campbell misses 2-pt shot from 6 ft
+  - - '11:15.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 45-33
+    - ''
+    - ''
+  - - '11:01.0'
+    - E. Brand makes 2-pt shot from 6 ft (assist by M. World Peace)
+    - "+2"
+    - 47-33
+    - ''
+    - ''
+  - - '10:41.0'
+    - ''
+    - ''
+    - 47-33
+    - ''
+    - Turnover by P. Brown (bad pass)
+  - - '10:41.0'
+    - Chicago 20 second timeout
+    - ''
+    - 47-33
+    - ''
+    - ''
+  - - '10:30.0'
+    - Turnover by E. Brand (lost ball; steal by D. Wesley)
+    - ''
+    - 47-33
+    - ''
+    - ''
+  - - '10:15.0'
+    - ''
+    - ''
+    - 47-35
+    - "+2"
+    - E. Robinson makes 2-pt shot from 16 ft (assist by P. Brown)
+  - - '9:53.0'
+    - R. Mercer misses 2-pt shot from 15 ft
+    - ''
+    - 47-35
+    - ''
+    - ''
+  - - '9:51.0'
+    - ''
+    - ''
+    - 47-35
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '9:51.0'
+    - ''
+    - ''
+    - 47-35
+    - ''
+    - Personal foul by M. World Peace
+  - - '9:44.0'
+    - ''
+    - ''
+    - 47-37
+    - "+2"
+    - D. Wesley makes 2-pt shot from 19 ft (assist by B. Davis)
+  - - '9:25.0'
+    - B. Drew misses 2-pt shot from 18 ft
+    - ''
+    - 47-37
+    - ''
+    - ''
+  - - '9:23.0'
+    - Offensive rebound by M. Ruffin
+    - ''
+    - 47-37
+    - ''
+    - ''
+  - - '9:17.0'
+    - B. Drew makes 2-pt shot from 20 ft (assist by M. Ruffin)
+    - "+2"
+    - 49-37
+    - ''
+    - ''
+  - - '9:00.0'
+    - ''
+    - ''
+    - 49-37
+    - ''
+    - B. Davis misses 3-pt shot from 26 ft
+  - - '8:58.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 49-37
+    - ''
+    - ''
+  - - '8:39.0'
+    - E. Brand makes 2-pt shot from 14 ft (assist by R. Mercer)
+    - "+2"
+    - 51-37
+    - ''
+    - ''
+  - - '8:25.0'
+    - ''
+    - ''
+    - 51-37
+    - ''
+    - D. Wesley misses 2-pt shot from 22 ft
+  - - '8:23.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 51-37
+    - ''
+    - ''
+  - - '8:06.0'
+    - M. World Peace makes 2-pt shot at rim
+    - "+2"
+    - 53-37
+    - ''
+    - ''
+  - - '7:52.0'
+    - ''
+    - ''
+    - 53-37
+    - ''
+    - Turnover by D. Wesley (bad pass; steal by R. Mercer)
+  - - '7:36.0'
+    - M. World Peace misses 2-pt shot at rim (block by E. Robinson)
+    - ''
+    - 53-37
+    - ''
+    - ''
+  - - '7:32.0'
+    - ''
+    - ''
+    - 53-37
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '7:28.0'
+    - ''
+    - ''
+    - 53-37
+    - ''
+    - P. Brown misses 2-pt shot from 16 ft
+  - - '7:24.0'
+    - ''
+    - ''
+    - 53-37
+    - ''
+    - Offensive rebound by E. Robinson
+  - - '7:22.0'
+    - ''
+    - ''
+    - 53-37
+    - ''
+    - E. Robinson misses 2-pt shot at rim
+  - - '7:20.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 53-37
+    - ''
+    - ''
+  - - '7:15.0'
+    - R. Mercer makes 2-pt shot from 16 ft (assist by B. Drew)
+    - "+2"
+    - 55-37
+    - ''
+    - ''
+  - - '7:12.0'
+    - ''
+    - ''
+    - 55-37
+    - ''
+    - Charlotte full timeout
+  - - '6:56.0'
+    - ''
+    - ''
+    - 55-39
+    - "+2"
+    - E. Robinson makes 2-pt shot at rim (assist by B. Davis)
+  - - '6:36.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 55-39
+    - ''
+    - ''
+  - - '6:36.0'
+    - E. Brand makes free throw 1 of 2
+    - "+1"
+    - 56-39
+    - ''
+    - ''
+  - - '6:36.0'
+    - ''
+    - ''
+    - 56-39
+    - ''
+    - D. Coleman enters the game for E. Campbell
+  - - '6:36.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 57-39
+    - ''
+    - ''
+  - - '6:18.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Shooting foul by E. Brand
+  - - '6:18.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - P. Brown misses free throw 1 of 2
+  - - '6:18.0'
+    - ''
+    - ''
+    - 57-39
+    - ''
+    - Offensive rebound by Team
+  - - '6:18.0'
+    - ''
+    - ''
+    - 57-40
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '5:57.0'
+    - R. Mercer makes 2-pt shot from 19 ft
+    - "+2"
+    - 59-40
+    - ''
+    - ''
+  - - '5:45.0'
+    - ''
+    - ''
+    - 59-40
+    - ''
+    - Personal foul by B. Drew
+  - - '5:45.0'
+    - K. El-Amin enters the game for B. Drew
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:32.0'
+    - ''
+    - ''
+    - 59-40
+    - ''
+    - B. Davis misses 3-pt shot from 25 ft
+  - - '5:30.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:25.0'
+    - R. Mercer misses 2-pt shot at rim
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:21.0'
+    - E. Brand misses 2-pt shot at rim
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:21.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:19.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:10.0'
+    - M. World Peace misses 2-pt shot at rim (block by D. Coleman)
+    - ''
+    - 59-40
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 59-40
+    - ''
+    - Defensive rebound by P. Brown
+  - - '5:06.0'
+    - ''
+    - ''
+    - 59-40
+    - ''
+    - Shooting foul by E. Brand
+  - - '5:06.0'
+    - ''
+    - ''
+    - 59-41
+    - "+1"
+    - E. Robinson makes free throw 1 of 2
+  - - '5:06.0'
+    - B. Miller enters the game for E. Brand
+    - ''
+    - 59-41
+    - ''
+    - ''
+  - - '5:06.0'
+    - ''
+    - ''
+    - 59-42
+    - "+1"
+    - E. Robinson makes free throw 2 of 2
+  - - '4:55.0'
+    - B. Miller misses 2-pt shot at rim (block by P. Brown)
+    - ''
+    - 59-42
+    - ''
+    - ''
+  - - '4:51.0'
+    - ''
+    - ''
+    - 59-42
+    - ''
+    - Defensive rebound by B. Davis
+  - - '4:48.0'
+    - ''
+    - ''
+    - 59-42
+    - ''
+    - E. Robinson misses 2-pt shot from 15 ft
+  - - '4:46.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 59-42
+    - ''
+    - ''
+  - - '4:24.0'
+    - M. World Peace misses 2-pt shot from 13 ft
+    - ''
+    - 59-42
+    - ''
+    - ''
+  - - '4:22.0'
+    - Offensive rebound by M. Ruffin
+    - ''
+    - 59-42
+    - ''
+    - ''
+  - - '4:17.0'
+    - R. Mercer makes 2-pt shot from 15 ft (assist by M. Ruffin)
+    - "+2"
+    - 61-42
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 61-42
+    - ''
+    - Personal foul by M. Ruffin
+  - - '4:05.0'
+    - ''
+    - ''
+    - 61-43
+    - "+1"
+    - D. Coleman makes free throw 1 of 2
+  - - '4:05.0'
+    - D. Tarlac enters the game for M. Ruffin
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '4:05.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - D. Coleman misses free throw 2 of 2
+  - - '4:03.0'
+    - Defensive rebound by K. El-Amin
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '3:55.0'
+    - Personal foul by B. Davis
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '3:46.0'
+    - R. Mercer misses 2-pt shot from 19 ft
+    - ''
+    - 61-43
+    - ''
+    - ''
+  - - '3:44.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - Defensive rebound by Team
+  - - '3:44.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - Loose ball foul by D. Tarlac
+  - - '3:44.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - B. Davis misses free throw 1 of 2
+  - - '3:44.0'
+    - ''
+    - ''
+    - 61-43
+    - ''
+    - Offensive rebound by Team
+  - - '3:44.0'
+    - ''
+    - ''
+    - 61-44
+    - "+1"
+    - B. Davis makes free throw 2 of 2
+  - - '3:29.0'
+    - Turnover by B. Miller (lost ball; steal by B. Davis)
+    - ''
+    - 61-44
+    - ''
+    - ''
+  - - '3:18.0'
+    - ''
+    - ''
+    - 61-44
+    - ''
+    - P. Brown misses 2-pt shot from 18 ft
+  - - '3:15.0'
+    - ''
+    - ''
+    - 61-44
+    - ''
+    - Offensive rebound by B. Davis
+  - - '3:15.0'
+    - ''
+    - ''
+    - 61-44
+    - ''
+    - Offensive foul by B. Davis
+  - - '3:15.0'
+    - ''
+    - ''
+    - 61-44
+    - ''
+    - Turnover by B. Davis (foul)
+  - - '2:58.0'
+    - K. El-Amin makes 2-pt shot from 7 ft
+    - "+2"
+    - 63-44
+    - ''
+    - ''
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - "+2"
+    - E. Robinson makes 2-pt shot from 5 ft
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - Shooting foul by D. Tarlac
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - Charlotte full timeout
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - J. Magloire enters the game for D. Coleman
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - E. Campbell enters the game for P. Brown
+  - - '2:37.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - E. Robinson misses free throw 1 of 1
+  - - '2:36.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 63-46
+    - ''
+    - ''
+  - - '2:17.0'
+    - Turnover by D. Tarlac (3 second)
+    - ''
+    - 63-46
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - L. Nailon enters the game for E. Robinson
+  - - '1:57.0'
+    - ''
+    - ''
+    - 63-46
+    - ''
+    - E. Campbell misses 2-pt shot from 12 ft
+  - - '1:55.0'
+    - ''
+    - ''
+    - 63-48
+    - "+2"
+    - J. Magloire makes 2-pt shot at rim
+  - - '1:55.0'
+    - ''
+    - ''
+    - 63-48
+    - ''
+    - Offensive rebound by J. Magloire
+  - - '1:41.0'
+    - K. El-Amin misses 2-pt shot at rim (block by J. Magloire)
+    - ''
+    - 63-48
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 63-48
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '1:18.0'
+    - ''
+    - ''
+    - 63-48
+    - ''
+    - Shooting foul by M. World Peace
+  - - '1:18.0'
+    - ''
+    - ''
+    - 63-49
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '1:18.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - E. Campbell misses free throw 2 of 2
+  - - '1:18.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - Offensive rebound by J. Magloire
+  - - '0:55.5'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - J. Magloire misses 2-pt shot at rim
+  - - '0:53.3'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - Offensive rebound by E. Campbell
+  - - '0:49.0'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - B. Davis misses 2-pt shot at rim
+  - - '0:47.1'
+    - 'Jump ball: J. Magloire vs. D. Tarlac'
+  - - '0:47.1'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - Offensive rebound by Team
+  - - '0:47.1'
+    - Violation by D. Tarlac (jump ball)
+    - ''
+    - 63-49
+    - ''
+    - ''
+  - - '0:34.1'
+    - ''
+    - ''
+    - 63-49
+    - ''
+    - Ill def tech foul by D. Tarlac
+  - - '0:34.1'
+    - ''
+    - ''
+    - 63-50
+    - "+1"
+    - D. Wesley makes free throw technical
+  - - '0:34.1'
+    - F. Hoiberg enters the game for M. World Peace
+    - ''
+    - 63-50
+    - ''
+    - ''
+  - - '0:25.0'
+    - ''
+    - ''
+    - 63-52
+    - "+2"
+    - D. Wesley makes 2-pt shot from 19 ft (assist by B. Davis)
+  - - '0:08.8'
+    - Offensive foul by K. El-Amin
+    - ''
+    - 63-52
+    - ''
+    - ''
+  - - '0:08.8'
+    - Turnover by K. El-Amin (foul)
+    - ''
+    - 63-52
+    - ''
+    - ''
+  - - '0:00.9'
+    - ''
+    - ''
+    - 63-52
+    - ''
+    - B. Davis misses 2-pt shot from 8 ft
+  - - '0:00.3'
+    - Defensive rebound by B. Miller
+    - ''
+    - 63-52
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 3rd quarter
+  - []
+  - - '12:00.0'
+    - Start of 4th quarter
+  - - '11:47.0'
+    - ''
+    - ''
+    - 63-52
+    - ''
+    - Ill def tech foul by E. Brand
+  - - '11:47.0'
+    - ''
+    - ''
+    - 63-52
+    - ''
+    - D. Wesley misses free throw technical
+  - - '11:47.0'
+    - ''
+    - ''
+    - 63-52
+    - ''
+    - Offensive rebound by Team
+  - - '11:38.0'
+    - ''
+    - ''
+    - 63-52
+    - ''
+    - E. Campbell misses 2-pt shot from 7 ft
+  - - '11:36.0'
+    - Defensive rebound by F. Hoiberg
+    - ''
+    - 63-52
+    - ''
+    - ''
+  - - '11:24.0'
+    - Personal foul by J. Magloire
+    - ''
+    - 63-52
+    - ''
+    - ''
+  - - '11:17.0'
+    - E. Brand makes 2-pt shot from 11 ft (assist by R. Mercer)
+    - "+2"
+    - 65-52
+    - ''
+    - ''
+  - - '10:54.0'
+    - ''
+    - ''
+    - 65-54
+    - "+2"
+    - L. Nailon makes 2-pt shot from 8 ft
+  - - '10:35.0'
+    - E. Brand misses 2-pt shot from 15 ft
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '10:33.0'
+    - ''
+    - ''
+    - 65-54
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '10:21.0'
+    - ''
+    - ''
+    - 65-54
+    - ''
+    - B. Davis misses 2-pt shot from 20 ft
+  - - '10:19.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:59.0'
+    - B. Miller misses 2-pt shot from 5 ft (block by E. Campbell)
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:57.0'
+    - Offensive rebound by B. Miller
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:57.0'
+    - B. Miller misses 2-pt shot at rim
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:57.0'
+    - Offensive rebound by R. Mercer
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:57.0'
+    - Personal foul by D. Wesley
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:39.0'
+    - ''
+    - ''
+    - 65-54
+    - ''
+    - Violation by E. Campbell (illegal defense)
+  - - '9:39.0'
+    - ''
+    - ''
+    - 65-54
+    - ''
+    - H. Hawkins enters the game for D. Wesley
+  - - '9:33.0'
+    - Turnover by R. Mercer (bad pass; steal by H. Hawkins)
+    - ''
+    - 65-54
+    - ''
+    - ''
+  - - '9:14.0'
+    - ''
+    - ''
+    - 65-56
+    - "+2"
+    - J. Magloire makes 2-pt shot from 5 ft (assist by H. Hawkins)
+  - - '8:54.0'
+    - Turnover by B. Miller (traveling)
+    - ''
+    - 65-56
+    - ''
+    - ''
+  - - '8:54.0'
+    - ''
+    - ''
+    - 65-56
+    - ''
+    - Official timeout
+  - - '8:54.0'
+    - ''
+    - ''
+    - 65-56
+    - ''
+    - P. Brown enters the game for E. Campbell
+  - - '8:35.0'
+    - ''
+    - ''
+    - 65-56
+    - ''
+    - L. Nailon misses 2-pt shot at rim
+  - - '8:32.0'
+    - Defensive rebound by B. Miller
+    - ''
+    - 65-56
+    - ''
+    - ''
+  - - '8:14.0'
+    - E. Brand makes 2-pt shot at rim (assist by F. Hoiberg)
+    - "+2"
+    - 67-56
+    - ''
+    - ''
+  - - '8:14.0'
+    - Shooting foul by H. Hawkins
+    - ''
+    - 67-56
+    - ''
+    - ''
+  - - '8:14.0'
+    - E. Brand misses free throw 1 of 1
+    - ''
+    - 67-56
+    - ''
+    - ''
+  - - '8:12.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Defensive rebound by P. Brown
+  - - '7:55.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - P. Brown misses 2-pt shot from 8 ft
+  - - '7:53.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Offensive rebound by H. Hawkins
+  - - '7:51.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - B. Davis misses 3-pt shot from 25 ft
+  - - '7:49.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - L. Nailon misses 2-pt shot at rim
+  - - '7:49.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Offensive rebound by L. Nailon
+  - - '7:49.0'
+    - Defensive rebound by Team
+    - ''
+    - 67-56
+    - ''
+    - ''
+  - - '7:37.0'
+    - E. Brand misses 2-pt shot from 15 ft
+    - ''
+    - 67-56
+    - ''
+    - ''
+  - - '7:35.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Defensive rebound by P. Brown
+  - - '7:29.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - L. Nailon misses 2-pt shot from 5 ft
+  - - '7:26.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Offensive rebound by P. Brown
+  - - '7:23.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - B. Davis misses 3-pt shot from 27 ft
+  - - '7:21.0'
+    - ''
+    - ''
+    - 67-56
+    - ''
+    - Offensive rebound by J. Magloire
+  - - '7:13.0'
+    - ''
+    - ''
+    - 67-58
+    - "+2"
+    - L. Nailon makes 2-pt shot at rim (assist by H. Hawkins)
+  - - '6:55.0'
+    - ''
+    - ''
+    - 67-58
+    - ''
+    - D. Wesley enters the game for B. Davis
+  - - '6:46.0'
+    - R. Mercer misses 2-pt shot from 21 ft
+    - ''
+    - 67-58
+    - ''
+    - ''
+  - - '6:44.0'
+    - ''
+    - ''
+    - 67-58
+    - ''
+    - Defensive rebound by P. Brown
+  - - '6:28.0'
+    - ''
+    - ''
+    - 67-60
+    - "+2"
+    - P. Brown makes 2-pt shot from 14 ft (assist by H. Hawkins)
+  - - '6:21.0'
+    - Chicago full timeout
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:21.0'
+    - M. Ruffin enters the game for B. Miller
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:08.0'
+    - F. Hoiberg misses 2-pt shot from 20 ft
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:06.0'
+    - Offensive rebound by E. Brand
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:06.0'
+    - Shooting foul by J. Magloire
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:06.0'
+    - E. Brand misses free throw 1 of 2
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:06.0'
+    - Offensive rebound by Team
+    - ''
+    - 67-60
+    - ''
+    - ''
+  - - '6:06.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 68-60
+    - ''
+    - ''
+  - - '5:47.0'
+    - ''
+    - ''
+    - 68-60
+    - ''
+    - J. Magloire misses 2-pt shot at rim
+  - - '5:45.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 68-60
+    - ''
+    - ''
+  - - '5:22.0'
+    - R. Mercer misses 2-pt shot from 20 ft
+    - ''
+    - 68-60
+    - ''
+    - ''
+  - - '5:20.0'
+    - ''
+    - ''
+    - 68-60
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '5:10.0'
+    - ''
+    - ''
+    - 68-60
+    - ''
+    - Shooting foul by B. Drew
+  - - '5:10.0'
+    - ''
+    - ''
+    - 68-61
+    - "+1"
+    - D. Wesley makes free throw 1 of 2
+  - - '5:10.0'
+    - ''
+    - ''
+    - 68-62
+    - "+1"
+    - D. Wesley makes free throw 2 of 2
+  - - '4:49.0'
+    - Turnover by E. Brand (traveling)
+    - ''
+    - 68-62
+    - ''
+    - ''
+  - - '4:35.0'
+    - ''
+    - ''
+    - 68-62
+    - ''
+    - Offensive foul by L. Nailon
+  - - '4:35.0'
+    - ''
+    - ''
+    - 68-62
+    - ''
+    - Turnover by L. Nailon (foul)
+  - - '4:13.0'
+    - F. Hoiberg misses 2-pt shot from 18 ft
+    - ''
+    - 68-62
+    - ''
+    - ''
+  - - '4:12.0'
+    - ''
+    - ''
+    - 68-62
+    - ''
+    - Defensive rebound by H. Hawkins
+  - - '4:02.0'
+    - ''
+    - ''
+    - 68-64
+    - "+2"
+    - J. Magloire makes 2-pt shot at rim (assist by D. Wesley)
+  - - '3:43.0'
+    - Turnover by E. Brand (bad pass; steal by H. Hawkins)
+    - ''
+    - 68-64
+    - ''
+    - ''
+  - - '3:43.0'
+    - ''
+    - ''
+    - 68-64
+    - ''
+    - B. Davis enters the game for H. Hawkins
+  - - '3:33.0'
+    - ''
+    - ''
+    - 68-64
+    - ''
+    - D. Wesley misses 3-pt shot from 26 ft
+  - - '3:31.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 68-64
+    - ''
+    - ''
+  - - '3:18.0'
+    - B. Drew makes 2-pt shot from 18 ft
+    - "+2"
+    - 70-64
+    - ''
+    - ''
+  - - '3:01.0'
+    - ''
+    - ''
+    - 70-64
+    - ''
+    - Shooting foul by M. Ruffin
+  - - '3:01.0'
+    - ''
+    - ''
+    - 70-65
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '3:01.0'
+    - ''
+    - ''
+    - 70-66
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '2:36.0'
+    - R. Mercer makes 2-pt shot from 17 ft
+    - "+2"
+    - 72-66
+    - ''
+    - ''
+  - - '2:19.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - L. Nailon misses 2-pt shot at rim
+  - - '2:17.0'
+    - ''
+    - ''
+    - 72-66
+    - ''
+    - Offensive rebound by D. Wesley
+  - - '2:10.0'
+    - ''
+    - ''
+    - 72-68
+    - "+2"
+    - D. Wesley makes 2-pt shot from 6 ft
+  - - '1:47.0'
+    - R. Mercer makes 2-pt shot from 10 ft
+    - "+2"
+    - 74-68
+    - ''
+    - ''
+  - - '1:33.0'
+    - ''
+    - ''
+    - 74-68
+    - ''
+    - Ill def tech foul by E. Brand
+  - - '1:33.0'
+    - ''
+    - ''
+    - 74-68
+    - ''
+    - Charlotte full timeout
+  - - '1:33.0'
+    - ''
+    - ''
+    - 74-69
+    - "+1"
+    - D. Wesley makes free throw technical
+  - - '1:23.0'
+    - ''
+    - ''
+    - 74-69
+    - ''
+    - B. Davis misses 2-pt shot from 19 ft
+  - - '1:21.0'
+    - Defensive rebound by Team
+    - ''
+    - 74-69
+    - ''
+    - ''
+  - - '1:06.0'
+    - R. Mercer misses 2-pt shot from 18 ft
+    - ''
+    - 74-69
+    - ''
+    - ''
+  - - '1:04.0'
+    - ''
+    - ''
+    - 74-69
+    - ''
+    - Defensive rebound by J. Magloire
+  - - '0:54.4'
+    - ''
+    - ''
+    - 74-72
+    - "+3"
+    - D. Wesley makes 3-pt shot from 27 ft (assist by B. Davis)
+  - - '0:31.6'
+    - Turnover by M. Ruffin (bad pass; steal by B. Davis)
+    - ''
+    - 74-72
+    - ''
+    - ''
+  - - '0:28.1'
+    - ''
+    - ''
+    - 74-72
+    - ''
+    - Shooting foul by F. Hoiberg
+  - - '0:28.1'
+    - ''
+    - ''
+    - 74-73
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '0:28.1'
+    - ''
+    - ''
+    - 74-74
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '0:28.1'
+    - Chicago full timeout
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '0:28.1'
+    - M. World Peace enters the game for M. Ruffin
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '0:28.1'
+    - Chicago 20 second timeout
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '0:04.2'
+    - E. Brand misses 2-pt shot from 6 ft
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '0:04.1'
+    - ''
+    - ''
+    - 74-74
+    - ''
+    - Defensive rebound by L. Nailon
+  - - '0:04.1'
+    - ''
+    - ''
+    - 74-74
+    - ''
+    - Charlotte full timeout
+  - - '0:04.1'
+    - M. Ruffin enters the game for E. Brand
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '0:04.1'
+    - ''
+    - ''
+    - 74-74
+    - ''
+    - H. Hawkins enters the game for L. Nailon
+  - - '0:00.0'
+    - End of 4th quarter
+  - []
+  - - '5:00.0'
+    - Start of 1st overtime
+  - - '5:00.0'
+    - 'Jump ball: J. Magloire vs. E. Brand (P. Brown gains possession)'
+  - - '4:49.0'
+    - ''
+    - ''
+    - 74-74
+    - ''
+    - B. Davis misses 2-pt shot at rim
+  - - '4:47.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '4:27.0'
+    - Shooting foul by J. Magloire
+    - ''
+    - 74-74
+    - ''
+    - ''
+  - - '4:27.0'
+    - M. World Peace makes free throw 1 of 2
+    - "+1"
+    - 75-74
+    - ''
+    - ''
+  - - '4:27.0'
+    - M. World Peace makes free throw 2 of 2
+    - "+1"
+    - 76-74
+    - ''
+    - ''
+  - - '4:10.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - D. Wesley misses 2-pt shot from 20 ft
+  - - '4:07.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - Offensive rebound by D. Wesley
+  - - '4:04.0'
+    - ''
+    - ''
+    - 76-74
+    - ''
+    - B. Davis misses 3-pt shot from 28 ft
+  - - '4:02.0'
+    - ''
+    - ''
+    - 76-76
+    - "+2"
+    - J. Magloire makes 2-pt shot at rim
+  - - '4:02.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - Offensive rebound by J. Magloire
+  - - '3:40.0'
+    - R. Mercer misses 2-pt shot from 18 ft
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '3:38.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - Defensive rebound by B. Davis
+  - - '3:19.0'
+    - ''
+    - ''
+    - 76-76
+    - ''
+    - P. Brown misses 2-pt shot from 15 ft
+  - - '3:17.0'
+    - Defensive rebound by E. Brand
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '3:01.0'
+    - Personal foul by B. Davis
+    - ''
+    - 76-76
+    - ''
+    - ''
+  - - '2:48.0'
+    - R. Mercer makes 2-pt shot from 19 ft (assist by M. World Peace)
+    - "+2"
+    - 78-76
+    - ''
+    - ''
+  - - '2:27.0'
+    - ''
+    - ''
+    - 78-76
+    - ''
+    - Turnover by D. Wesley (bad pass; steal by M. World Peace)
+  - - '2:12.0'
+    - M. World Peace makes 2-pt shot at rim (assist by E. Brand)
+    - "+2"
+    - 80-76
+    - ''
+    - ''
+  - - '2:04.0'
+    - ''
+    - ''
+    - 80-76
+    - ''
+    - Charlotte full timeout
+  - - '1:54.0'
+    - ''
+    - ''
+    - 80-76
+    - ''
+    - D. Wesley misses 2-pt shot from 19 ft
+  - - '1:52.0'
+    - ''
+    - ''
+    - 80-78
+    - "+2"
+    - L. Nailon makes 2-pt shot at rim
+  - - '1:52.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - Offensive rebound by L. Nailon
+  - - '1:38.0'
+    - F. Hoiberg misses 2-pt shot from 20 ft
+    - ''
+    - 80-78
+    - ''
+    - ''
+  - - '1:36.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - Defensive rebound by P. Brown
+  - - '1:28.0'
+    - ''
+    - ''
+    - 80-78
+    - ''
+    - Shooting foul by F. Hoiberg
+  - - '1:28.0'
+    - ''
+    - ''
+    - 80-79
+    - "+1"
+    - P. Brown makes free throw 1 of 2
+  - - '1:28.0'
+    - ''
+    - ''
+    - 80-80
+    - "+1"
+    - P. Brown makes free throw 2 of 2
+  - - '1:12.0'
+    - R. Mercer misses 2-pt shot from 16 ft
+    - ''
+    - 80-80
+    - ''
+    - ''
+  - - '1:12.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Defensive rebound by Team
+  - - '1:12.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Loose ball foul by E. Brand
+  - - '1:12.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - J. Magloire misses free throw 1 of 2
+  - - '1:12.0'
+    - ''
+    - ''
+    - 80-80
+    - ''
+    - Offensive rebound by Team
+  - - '1:12.0'
+    - ''
+    - ''
+    - 80-81
+    - "+1"
+    - J. Magloire makes free throw 2 of 2
+  - - '0:52.4'
+    - R. Mercer misses 2-pt shot from 17 ft
+    - ''
+    - 80-81
+    - ''
+    - ''
+  - - '0:50.1'
+    - ''
+    - ''
+    - 80-81
+    - ''
+    - Defensive rebound by P. Brown
+  - - '0:29.5'
+    - ''
+    - ''
+    - 80-83
+    - "+2"
+    - D. Wesley makes 2-pt shot from 19 ft (assist by B. Davis)
+  - - '0:29.5'
+    - Chicago full timeout
+    - ''
+    - 80-83
+    - ''
+    - ''
+  - - '0:25.0'
+    - F. Hoiberg makes 2-pt shot at rim
+    - "+2"
+    - 82-83
+    - ''
+    - ''
+  - - '0:17.1'
+    - ''
+    - ''
+    - 82-83
+    - ''
+    - Personal foul by R. Mercer
+  - - '0:17.1'
+    - ''
+    - ''
+    - 82-84
+    - "+1"
+    - D. Wesley makes free throw 1 of 2
+  - - '0:17.1'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - D. Wesley misses free throw 2 of 2
+  - - '0:16.6'
+    - Defensive rebound by M. World Peace
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '0:16.6'
+    - Chicago full timeout
+    - ''
+    - 82-84
+    - ''
+    - ''
+  - - '0:16.6'
+    - ''
+    - ''
+    - 82-84
+    - ''
+    - H. Hawkins enters the game for L. Nailon
+  - - '0:08.4'
+    - E. Brand makes 2-pt shot from 11 ft (assist by M. World Peace)
+    - "+2"
+    - 84-84
+    - ''
+    - ''
+  - - '0:08.3'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Charlotte full timeout
+  - - '0:08.3'
+    - M. Ruffin enters the game for E. Brand
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:08.3'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - L. Nailon enters the game for J. Magloire
+  - - '0:00.3'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - D. Wesley misses 2-pt shot from 18 ft (block by R. Mercer)
+  - - '0:00.1'
+    - Defensive rebound by Team
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '0:00.0'
+    - End of 1st overtime
+  - []
+  - - '5:00.0'
+    - Start of 2nd overtime
+  - - '5:00.0'
+    - 'Jump ball: J. Magloire vs. E. Brand (P. Brown gains possession)'
+  - - '4:46.0'
+    - ''
+    - ''
+    - 84-84
+    - ''
+    - Turnover by B. Davis (bad pass; steal by M. World Peace)
+  - - '4:44.0'
+    - Shooting foul by P. Brown
+    - ''
+    - 84-84
+    - ''
+    - ''
+  - - '4:44.0'
+    - R. Mercer makes free throw 1 of 2
+    - "+1"
+    - 85-84
+    - ''
+    - ''
+  - - '4:44.0'
+    - R. Mercer makes free throw 2 of 2
+    - "+1"
+    - 86-84
+    - ''
+    - ''
+  - - '4:30.0'
+    - ''
+    - ''
+    - 86-84
+    - ''
+    - Turnover by P. Brown (bad pass; steal by F. Hoiberg)
+  - - '4:03.0'
+    - R. Mercer makes 2-pt shot from 18 ft (assist by E. Brand)
+    - "+2"
+    - 88-84
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 88-84
+    - ''
+    - Personal foul by R. Mercer
+  - - '3:49.0'
+    - ''
+    - ''
+    - 88-84
+    - ''
+    - E. Campbell enters the game for J. Magloire
+  - - '3:37.0'
+    - ''
+    - ''
+    - 88-86
+    - "+2"
+    - E. Campbell makes 2-pt shot from 14 ft (assist by D. Wesley)
+  - - '3:15.0'
+    - R. Mercer makes 2-pt shot from 16 ft
+    - "+2"
+    - 90-86
+    - ''
+    - ''
+  - - '2:57.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Personal foul by F. Hoiberg
+  - - '2:57.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - E. Robinson enters the game for L. Nailon
+  - - '2:44.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '2:42.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - E. Robinson misses 2-pt shot at rim
+  - - '2:42.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Offensive rebound by E. Robinson
+  - - '2:39.0'
+    - Defensive rebound by R. Mercer
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '2:19.0'
+    - B. Drew misses 2-pt shot from 21 ft
+    - ''
+    - 90-86
+    - ''
+    - ''
+  - - '2:17.0'
+    - ''
+    - ''
+    - 90-86
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '1:57.0'
+    - ''
+    - ''
+    - 90-88
+    - "+2"
+    - B. Davis makes 2-pt shot from 19 ft (assist by E. Campbell)
+  - - '1:40.0'
+    - Turnover by R. Mercer (traveling)
+    - ''
+    - 90-88
+    - ''
+    - ''
+  - - '1:23.0'
+    - ''
+    - ''
+    - 90-88
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '1:21.0'
+    - ''
+    - ''
+    - 90-90
+    - "+2"
+    - E. Campbell makes 2-pt shot at rim
+  - - '1:21.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Offensive rebound by E. Campbell
+  - - '0:57.0'
+    - M. World Peace misses 2-pt shot from 15 ft
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:57.0'
+    - Offensive rebound by Team
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:57.0'
+    - Turnover by Team (shot clock)
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:57.0'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Charlotte full timeout
+  - - '0:57.0'
+    - M. Ruffin enters the game for M. World Peace
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:43.9'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - E. Campbell misses 2-pt shot at rim
+  - - '0:40.7'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - P. Brown misses 2-pt shot at rim
+  - - '0:40.7'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Offensive rebound by P. Brown
+  - - '0:36.3'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Offensive rebound by E. Robinson
+  - - '0:23.3'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - B. Davis misses 3-pt shot from 26 ft
+  - - '0:22.3'
+    - Defensive rebound by Team
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:22.3'
+    - Chicago full timeout
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:22.3'
+    - M. World Peace enters the game for M. Ruffin
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:01.9'
+    - Personal foul by E. Campbell
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:01.9'
+    - Chicago full timeout
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:01.9'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - J. Magloire enters the game for E. Robinson
+  - - '0:00.3'
+    - R. Mercer misses 3-pt shot from 29 ft
+    - ''
+    - 90-90
+    - ''
+    - ''
+  - - '0:00.1'
+    - ''
+    - ''
+    - 90-90
+    - ''
+    - Defensive rebound by Team
+  - - '0:00.0'
+    - End of 2nd overtime
+  - []
+  - - '5:00.0'
+    - Start of 3rd overtime
+  - - '5:00.0'
+    - 'Jump ball: E. Campbell vs. E. Brand (M. World Peace gains possession)'
+  - - '4:39.0'
+    - R. Mercer makes 2-pt shot from 18 ft
+    - "+2"
+    - 92-90
+    - ''
+    - ''
+  - - '4:15.0'
+    - ''
+    - ''
+    - 92-92
+    - "+2"
+    - E. Campbell makes 2-pt shot from 8 ft
+  - - '3:52.0'
+    - B. Drew misses 2-pt shot at rim
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '3:49.0'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '3:45.0'
+    - ''
+    - ''
+    - 92-92
+    - ''
+    - Shooting foul by B. Drew
+  - - '3:45.0'
+    - K. El-Amin enters the game for B. Drew
+    - ''
+    - 92-92
+    - ''
+    - ''
+  - - '3:45.0'
+    - ''
+    - ''
+    - 92-93
+    - "+1"
+    - D. Wesley makes free throw 1 of 2
+  - - '3:45.0'
+    - ''
+    - ''
+    - 92-94
+    - "+1"
+    - D. Wesley makes free throw 2 of 2
+  - - '3:30.0'
+    - Shooting foul by E. Campbell
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '3:30.0'
+    - E. Brand misses free throw 1 of 2
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '3:30.0'
+    - Offensive rebound by Team
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '3:30.0'
+    - M. Ruffin enters the game for M. World Peace
+    - ''
+    - 92-94
+    - ''
+    - ''
+  - - '3:30.0'
+    - E. Brand makes free throw 2 of 2
+    - "+1"
+    - 93-94
+    - ''
+    - ''
+  - - '3:08.0'
+    - ''
+    - ''
+    - 93-94
+    - ''
+    - D. Wesley misses 2-pt shot at rim (block by E. Brand)
+  - - '3:05.0'
+    - Defensive rebound by M. Ruffin
+    - ''
+    - 93-94
+    - ''
+    - ''
+  - - '2:48.0'
+    - K. El-Amin makes 2-pt shot from 17 ft (assist by F. Hoiberg)
+    - "+2"
+    - 95-94
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 95-94
+    - ''
+    - Shooting foul by M. Ruffin
+  - - '2:29.0'
+    - M. World Peace enters the game for M. Ruffin
+    - ''
+    - 95-94
+    - ''
+    - ''
+  - - '2:29.0'
+    - ''
+    - ''
+    - 95-94
+    - ''
+    - E. Campbell misses free throw 1 of 2
+  - - '2:29.0'
+    - ''
+    - ''
+    - 95-94
+    - ''
+    - Offensive rebound by Team
+  - - '2:29.0'
+    - ''
+    - ''
+    - 95-95
+    - "+1"
+    - E. Campbell makes free throw 2 of 2
+  - - '2:16.0'
+    - R. Mercer misses 2-pt shot from 19 ft
+    - ''
+    - 95-95
+    - ''
+    - ''
+  - - '2:13.0'
+    - Offensive rebound by F. Hoiberg
+    - ''
+    - 95-95
+    - ''
+    - ''
+  - - '1:54.0'
+    - Turnover by K. El-Amin (lost ball; steal by D. Wesley)
+    - ''
+    - 95-95
+    - ''
+    - ''
+  - - '1:54.0'
+    - ''
+    - ''
+    - 95-95
+    - ''
+    - Clear path foul by K. El-Amin
+  - - '1:54.0'
+    - ''
+    - ''
+    - 95-96
+    - "+1"
+    - D. Wesley makes free throw flagrant 1 of 2
+  - - '1:54.0'
+    - B. Miller enters the game for M. World Peace
+    - ''
+    - 95-96
+    - ''
+    - ''
+  - - '1:38.0'
+    - ''
+    - ''
+    - 95-96
+    - ''
+    - Shooting foul by B. Miller
+  - - '1:38.0'
+    - ''
+    - ''
+    - 95-97
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '1:38.0'
+    - ''
+    - ''
+    - 95-98
+    - "+1"
+    - E. Campbell makes free throw 2 of 2
+  - - '1:21.0'
+    - Turnover by K. El-Amin (out of bounds)
+    - ''
+    - 95-98
+    - ''
+    - ''
+  - - '1:03.0'
+    - ''
+    - ''
+    - 95-98
+    - ''
+    - E. Robinson misses 2-pt shot from 11 ft
+  - - '1:01.0'
+    - ''
+    - ''
+    - 95-98
+    - ''
+    - Offensive rebound by E. Campbell
+  - - '0:47.9'
+    - ''
+    - ''
+    - 95-98
+    - ''
+    - Turnover by E. Campbell (traveling)
+  - - '0:47.9'
+    - Chicago full timeout
+    - ''
+    - 95-98
+    - ''
+    - ''
+  - - '0:36.9'
+    - F. Hoiberg misses 3-pt shot from 26 ft
+    - ''
+    - 95-98
+    - ''
+    - ''
+  - - '0:34.8'
+    - ''
+    - ''
+    - 95-98
+    - ''
+    - Defensive rebound by D. Wesley
+  - - '0:16.6'
+    - ''
+    - ''
+    - 95-100
+    - "+2"
+    - D. Wesley makes 2-pt shot from 20 ft (assist by B. Davis)
+  - - '0:16.6'
+    - Chicago full timeout
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:16.6'
+    - M. World Peace enters the game for B. Miller
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:12.0'
+    - R. Mercer misses 2-pt shot from 20 ft
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:10.7'
+    - ''
+    - ''
+    - 95-100
+    - ''
+    - Defensive rebound by E. Campbell
+  - - '0:10.7'
+    - ''
+    - ''
+    - 95-100
+    - ''
+    - Personal foul by E. Brand
+  - - '0:10.7'
+    - J. Crawford enters the game for E. Brand
+    - ''
+    - 95-100
+    - ''
+    - ''
+  - - '0:10.7'
+    - ''
+    - ''
+    - 95-101
+    - "+1"
+    - E. Campbell makes free throw 1 of 2
+  - - '0:10.7'
+    - ''
+    - ''
+    - 95-102
+    - "+1"
+    - E. Campbell makes free throw 2 of 2
+  - - '0:05.0'
+    - R. Mercer misses 3-pt shot from 24 ft
+    - ''
+    - 95-102
+    - ''
+    - ''
+  - - '0:01.7'
+    - ''
+    - ''
+    - 95-102
+    - ''
+    - Defensive rebound by E. Robinson
+  - - '0:00.0'
+    - End of 3rd overtime
