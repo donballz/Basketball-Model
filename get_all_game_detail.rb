@@ -4,7 +4,7 @@ require 'open-uri'
 require_relative 'mysql_each.rb'
 require_relative 'team_detail.rb'
 
-# boxscore: http://www.basketball-reference.com/boxscores/200010310CHI.html
+# boxscore: http://www.basketball-reference.com/boxscores/200201050LAC.html
 # play-by-play: http://www.basketball-reference.com/boxscores/pbp/200010310ATL.html
 # plus-minus: http://www.basketball-reference.com/boxscores/plus-minus/200010310ATL.html
 
@@ -88,6 +88,7 @@ def fix_bs_starts(str, starts)
 	#   to the true beginning of the table after universal search string
 	# Easiser to fix than altering main function and rewriting upstream code
 	starts.map! { |s| str.find('>', s) }
+	starts[-1] = str.length
 end
 
 def parse_bs(game, site, search, path)
@@ -120,7 +121,7 @@ def parse_pm(game, site, search, path)
 	return 1 if tables.any?
 	return 0
 end
-
+def dontrun()
 begin
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 	con = Mysql.new global['srvr'], global['user'], global['pswd']
@@ -163,4 +164,5 @@ rescue Mysql::Error => e
 
 ensure
 	con.close if con
+end
 end
