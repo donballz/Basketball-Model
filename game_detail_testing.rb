@@ -13,11 +13,23 @@ con.each_game('NBA_GAME_LIST') do |row|
 end
 "
 #con.close if con
-
+def parse_pm_test(game, site, search, path)
+	# get plus minus. complete.
+	page_raw = URI.parse("#{site}boxscores/plus-minus/#{game}.html").read
+	puts "page size: #{page_raw.length}"
+	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
+	puts "table starts: #{table_starts}"
+	tables = get_pm_tables(page_raw, table_starts)
+	puts "tables: #{tables}"
+	#yaml_files(tables, path, "zpm_#{game}.yml")
+	return 1 if tables.any?
+	return 0
+end
 
 
 #site = global['site']
 #search = global['boxt']
-bs_flag = parse_bs('200201050LAC', global['site'], global['boxt'], global['yaml'])
-tables = YAML.load_file(File.join(global['yaml'], 'zbs_200201050LAC.yml'))
-puts tables
+pm = '<div style="width:100'
+pm_flag = parse_pm_test('200011010CLE', global['site'], pm, global['yaml'])
+tables = YAML.load_file(File.join(global['yaml'], 'zpm_200011010CLE.yml'))
+puts pm_flag, tables

@@ -121,12 +121,13 @@ def parse_pm(game, site, search, path)
 	return 1 if tables.any?
 	return 0
 end
-def dontrun()
+
 begin
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 	con = Mysql.new global['srvr'], global['user'], global['pswd']
 	con.query("USE bball")
-	pm = '<div style="width:1005px;'
+	#pm = '<div style="width:1005px;' # original plus-minus search string failed on OT games
+	pm = '<div style="width:100'
 	
 	con.each_game('NBA_GAME_LIST') do |row|
 		game = row['BOX_SCORE_TEXT'] 
@@ -164,5 +165,4 @@ rescue Mysql::Error => e
 
 ensure
 	con.close if con
-end
 end
