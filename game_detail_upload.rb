@@ -1,7 +1,7 @@
 require 'yaml'
 
 def bs_post(game, path)
-	# post processing for boxscore game data. last row has totals
+	# post processing for boxscore game data. last row has totals; limited out
 	tables = YAML.load_file(File.join(path, "zbs_#{game}.yml"))
 	basic, advanced, tracker = [], [], []
 	tables.each do |t|
@@ -22,8 +22,23 @@ def bs_post(game, path)
 	return basic, advanced
 end
 
+def pbp_post(game, path)
+	# post processing for play-by-play data. 
+	tables = YAML.load_file(File.join(path, "zpbp_#{game}.yml"))
+	output = []
+	quarter = 0
+	tables[0]['data'].each do |row|
+		if row.any?
+			quarter = 1 if row[1].index('1st quarter') != nil
+			quarter = 2 if row[1].index('2nd quarter') != nil
+			quarter = 3 if row[1].index('3rd quarter') != nil
+			quarter = 4 if row[1].index('4th quarter') != nil
+			output.push([game, quarter] + row) if row.length == 6
+		end
+	end
+	return output
+end
+
 global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 basic, advanced = bs_post('200203070SEA', global['yaml'])
-basic.each { |c| puts c.length }
-puts
-advanced.each { |c| puts c.length }
+pbp =  pbp_post('200203070SEA', global['yaml'])
