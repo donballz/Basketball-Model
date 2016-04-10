@@ -53,3 +53,43 @@ atl_raw15.txt - text of ATL 2015 website saved for testing purposes, 15 tables d
 create_gen_tables.sql - builds empty gen tables. stable platform makes uploading easier
 
 create_yaml_bridge.sql - workaround for changing franchise abbrevs on source
+
+boxscore_raw.txt - text of game boxscore website saved for testing
+
+create_game_list.sql - builds master game list from regular season and playoffs scrapes. 
+
+			- has flags to track completed game scrapes
+			
+create_height_fix_tbl.sql - creates shell to fix mis-scraped heights
+
+game_detail_inventory.rb - looks at all the saved yaml files and updates the game list appropriately
+
+			 - very simple test, does not find all errors in scrape.
+			 
+			 - flags are updated at point of scrape now, this code is a one-off
+			 
+game_detail_testing.rb - testing code for get_all_game_detail.rb
+
+gen_game_sql_strings.sql - creates regular season and playoffs table shells for uploading lists of scraped games
+
+gen_height_fix.rb - re-scrape of team tables to get heights in inches
+			
+			- should add this logic to the team_detail.rb logic for subsequent years.
+			
+game_detail.rb - holds functions for scraping of game details.
+
+			- game detail in three main parts, this parses all three:
+			
+			- boxscore - core data by player for the game, points, rebounds etc
+			
+			- play-by-play - shots taken made, rebounds, blocks with time
+			
+			- plus-minus - shows player time on the court with contribution
+
+get_all_game_detail.rb - iterates over all games to pull the game detail into yaml files
+
+get_game_links.rb - runs through list of games by year and gets the game ID used in the URL's
+
+update_roster_height.sql - final step in the height fix which puts the scraped number onto the main table
+
+test_suite.rb - a suite of tests which must pass to continue. should be made more robust

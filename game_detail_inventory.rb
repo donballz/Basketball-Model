@@ -1,5 +1,4 @@
 require 'yaml'
-require_relative 'mysql_each.rb'
 
 def file_status(tables)
 	# status of game yaml files
@@ -24,8 +23,9 @@ def Main()
 		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 		con = Mysql.new global['srvr'], global['user'], global['pswd']
 		con.query("USE bball")
+		rows = con.query("SELECT * FROM NBA_GAME_LIST")
 
-		con.each_game('NBA_GAME_LIST') do |row| 
+		rows.each_hash do |row| 
 			game = row['BOX_SCORE_TEXT']
 			unless game == ''
 				puts "processing #{game}"

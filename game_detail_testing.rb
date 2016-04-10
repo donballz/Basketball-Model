@@ -1,4 +1,5 @@
-require_relative 'get_all_game_detail.rb'
+require 'yaml'
+require_relative 'game_detail.rb'
 # Should be no executable lines in the Main of game_inventory to run tests.
 
 global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
@@ -29,7 +30,11 @@ end
 
 #site = global['site']
 #search = global['boxt']
-pm = '<div style="width:100'
-pm_flag = parse_pm_test('200011010CLE', global['site'], pm, global['yaml'])
-tables = YAML.load_file(File.join(global['yaml'], 'zpm_200011010CLE.yml'))
-puts pm_flag, tables
+#pm = '<div style="width:100'
+#pm_flag = parse_pm_test('200011010CLE', global['site'], pm, global['yaml'])
+#tables = YAML.load_file(File.join(global['yaml'], 'zbs_200504170MIA.yml'))
+#puts tables
+
+page_raw = URI.parse("http://www.basketball-reference.com/boxscores/200201050LAC.html").read
+yaml_files(page_raw, __dir__, 'boxscore_raw.txt')
+#puts page_raw

@@ -8,9 +8,6 @@ require_relative 'StringFind.rb'
 # Need to alter main file and merge this logic in for go-forward
 # ^ Subsequent years will need to be scraped. 
 # ^ Long term goal
-# Need to add name. Join on number inadequate. Good to know.
-
-# Start scoping out additional tables to scrape.
 #################################################################
 
 def get_start_pos(str, search, origin, limit)
