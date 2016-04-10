@@ -16,7 +16,7 @@ end
 #con.close if con
 def parse_pm_test(game, site, search, path)
 	# get plus minus. complete.
-	page_raw = URI.parse("#{site}boxscores/plus-minus/#{game}.html").read
+	page_raw = open_url("#{site}boxscores/plus-minus/#{game}.html")
 	puts "page size: #{page_raw.length}"
 	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
 	puts "table starts: #{table_starts}"
@@ -35,6 +35,6 @@ end
 #tables = YAML.load_file(File.join(global['yaml'], 'zbs_200504170MIA.yml'))
 #puts tables
 
-page_raw = URI.parse("http://www.basketball-reference.com/boxscores/200201050LAC.html").read
+page_raw = open_url("http://www.basketball-reference.com/boxscores/200201050LAC.html")
 yaml_files(page_raw, __dir__, 'boxscore_raw.txt')
 #puts page_raw

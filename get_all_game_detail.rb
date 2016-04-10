@@ -1,6 +1,5 @@
 require 'mysql'
 require 'yaml'
-require 'open-uri'
 require_relative 'team_detail.rb'
 require_relative 'game_detail.rb'
 
@@ -18,7 +17,7 @@ require_relative 'game_detail.rb'
 
 def parse_bs(game, site, search, path)
 	# get box scores. complete.
-	page_raw = URI.parse("#{site}boxscores/#{game}.html").read
+	page_raw = open_url("#{site}boxscores/#{game}.html")
 	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
 	fix_bs_starts(page_raw, table_starts)
 	tables = get_tables(page_raw, table_starts)
@@ -29,7 +28,7 @@ end
 
 def parse_pbp(game, site, search, path)
 	# get play-by-play. complete.
-	page_raw = URI.parse("#{site}boxscores/pbp/#{game}.html").read
+	page_raw = open_url("#{site}boxscores/pbp/#{game}.html")
 	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
 	tables = get_pbp_tables(page_raw, table_starts)
 	yaml_files(tables, path, "zpbp_#{game}.yml")
@@ -39,7 +38,7 @@ end
 
 def parse_pm(game, site, search, path)
 	# get plus minus. complete.
-	page_raw = URI.parse("#{site}boxscores/plus-minus/#{game}.html").read
+	page_raw = open_url("#{site}boxscores/plus-minus/#{game}.html")
 	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
 	tables = get_pm_tables(page_raw, table_starts)
 	yaml_files(tables, path, "zpm_#{game}.yml")

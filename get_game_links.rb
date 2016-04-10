@@ -1,4 +1,3 @@
-require 'open-uri'
 require 'yaml'
 require 'mysql'
 require_relative 'StringFind.rb'
@@ -26,7 +25,7 @@ end
 def parse_game_links(year, search, path)
 	# master function to call the others
 	site = "http://www.basketball-reference.com/leagues/NBA_#{year}_games.html"
-	page_raw = URI.parse(site).read
+	page_raw = open_url(site)
 	table_starts = get_start_pos(page_raw, search, 0, page_raw.length)
 	tables = get_tables(page_raw, table_starts)
 	clean_box_score(tables)

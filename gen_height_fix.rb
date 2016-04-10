@@ -1,4 +1,5 @@
-require 'open-uri'
+require 'net/http'
+require 'uri'
 require 'yaml'
 require 'mysql'
 require_relative 'StringFind.rb'
@@ -9,6 +10,11 @@ require_relative 'StringFind.rb'
 # ^ Subsequent years will need to be scraped. 
 # ^ Long term goal
 #################################################################
+
+def url_open(url)
+	# open URL. Switch from OpenURI to URI for security and speed reasons
+	return Net::HTTP.get(URI.parse(url))
+end
 
 def get_start_pos(str, search, origin, limit)
 	# get all the starting positions of like-data
@@ -95,7 +101,7 @@ end
 def parse_height_data(team, year)
 	# master function to call the others
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	page_raw = URI.parse("#{global['site']}#{team}/#{year}.html").read
+	page_raw = url_open("#{global['site']}#{team}/#{year}.html")
 	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
 	return get_tables(page_raw, table_starts)
 end
