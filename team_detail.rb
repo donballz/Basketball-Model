@@ -3,7 +3,7 @@ require 'uri'
 require 'yaml'
 require_relative 'StringFind.rb'
 
-def url_open(url)
+def open_url(url)
 	# open URL. Switch from OpenURI to URI for security and speed reasons
 	return Net::HTTP.get(URI.parse(url))
 end
@@ -102,7 +102,7 @@ end
 def parse_team_data(team, year)
 	# master function to call the others
 	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	page_raw = url_open("#{global['site']}teams/#{team}/#{year}.html")
+	page_raw = open_url("#{global['site']}teams/#{team}/#{year}.html")
 	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
 	tables = get_tables(page_raw, table_starts)
 	File.open(File.join(global['yaml'], "#{team}_#{year}.yml"), 'w') do |f| 

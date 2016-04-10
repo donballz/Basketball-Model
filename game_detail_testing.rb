@@ -35,6 +35,14 @@ end
 #tables = YAML.load_file(File.join(global['yaml'], 'zbs_200504170MIA.yml'))
 #puts tables
 
-page_raw = open_url("http://www.basketball-reference.com/boxscores/200201050LAC.html")
-yaml_files(page_raw, __dir__, 'boxscore_raw.txt')
+#page_raw = open_url("http://www.basketball-reference.com/boxscores/plus-minus/200203070SEA.html")
+#yaml_files(page_raw, __dir__, 'plus_minus_raw.txt')
 #puts page_raw
+
+page_raw = YAML.load_file(File.join(__dir__, 'boxscore_raw.txt'))
+starts = get_start_pos(page_raw, global['boxt'], 0, page_raw.length)
+fix_bs_starts(page_raw, starts)
+tables = get_tables(page_raw, starts)
+puts tables
+#[0]['cols'].length
+#tables[0]['data'].each { |row| puts row.length }
