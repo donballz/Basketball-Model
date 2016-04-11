@@ -39,6 +39,36 @@ def pbp_post(game, path)
 	return output
 end
 
+def pm_first(tables)
+	# splits mega row into multiple rows for easier final processing
+	output, new_row = [], []
+	tables[0]['data'].each do |row|
+		row.each do |datum|
+			unless datum[0] == "\n"
+				unless ['0','1','2','3','4','5','6','7','8','9'].include?(datum[0])
+					output.push(new_row) if new_row.length > 1
+					new_row = [] 
+				end
+				new_row.push(datum)
+			end
+		end
+	end
+	return output
+end
+
+def pm_post(game, path)
+	# post processing for plus-minus data. hold onto your butts.
+	tables = YAML.load_file(File.join(path, "zpm_#{game}.yml"))
+	pm_tab = pm_first(tables)
+	away = pm_tab[0...pm_tab.length / 2]
+	home = pm_tab[pm_tab.length / 2...-1]
+	p away
+	puts
+	p home
+end
+
 global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 basic, advanced = bs_post('200203070SEA', global['yaml'])
 pbp =  pbp_post('200203070SEA', global['yaml'])
+pm = pm_post('200203070SEA', global['yaml'])
+#puts pm.length
