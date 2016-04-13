@@ -1,4 +1,5 @@
 require 'yaml'
+require 'mysql'
 require_relative 'StringFind.rb'
 
 def bs_post(game, path)
@@ -89,7 +90,6 @@ def pm_second(game, table)
 				while dur > 0 and tot_rem > 0 do
 					for per in 1..per_lens_inst.length
 						per_rem = per_lens_inst[per - 1]
-						#puts "#{per}, #{dur}, #{per_lens_inst.inspect}"
 						if per_rem > 0
 							if dur > per_rem
 								time = per_rem / per_lens[per - 1] * min_per(per)
@@ -102,7 +102,6 @@ def pm_second(game, table)
 								tot_rem -= dur
 								dur = 0
 							end
-							#puts "out"
 							output.push([game, team, player, per, time, status, pm])
 							break
 						end
@@ -120,13 +119,91 @@ def pm_post(game, path)
 	pm_tab = pm_first(tables)
 	away = pm_tab[0...pm_tab.length / 2]
 	home = pm_tab[pm_tab.length / 2...-1]
-	pm_second(game, away)
-	#puts
-	#p home
+	return pm_second(game, away) + pm_second(game, home)
 end
 
-global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-basic, advanced = bs_post('200203070SEA', global['yaml'])
-pbp =  pbp_post('200203070SEA', global['yaml'])
-pm = pm_post('200203070SEA', global['yaml'])
-pm.each { |row| p row}
+def build_col_types(con, table_name)
+	# gets column types from information_schema and parses into array for insert query
+	# can't use get_all_team_detail version as that is custom, ignoring first two columns
+	rows = con.query "SELECT DATA_TYPE AS TYPE FROM INFORMATION_SCHEMA.COLUMNS
+					WHERE TABLE_SCHEMA = 'BBALL' AND TABLE_NAME = '#{table_name}';"
+	
+	col_types = []
+	rows.each_hash { |row| col_types.push(row['TYPE']) }
+	return col_types
+end
+
+def row_to_string(row, cols)
+	# converts row to string for upload to mysql
+	str = "("
+	for i in 0...cols.length
+		if cols[i] == 'varchar'
+			if row[i] == ''
+				str += "'NA',"
+			else
+				str += "'#{row[i]}'," 
+			end
+		else
+			if row[i] == ''
+				str += "0,"
+			else
+				str += "#{row[i]}," 
+			end
+		end
+	end
+	return str[0...-1] + ")"
+end
+
+def up_to_sql(con, tbl, sql)
+	# uploads processed yaml file to given sql table
+	cols = build_col_types(con, sql)
+	tbl.each do |row|
+		str = row_to_string(row, cols)
+		con.query("INSERT INTO #{sql} VALUES #{str}")
+	end
+	return nil
+end
+
+begin
+	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
+	con = Mysql.new global['srvr'], global['user'], global['pswd']
+	con.query("USE bball")
+	rows = con.query("SELECT * FROM NBA_GAME_LIST")
+
+	rows.each_hash do |row|
+		game = row['BOX_SCORE_TEXT'] 
+		upl = con.query("SELECT * FROM NBA_GAME_LIST_UPLOAD WHERE GAME_ID = '#{game}'")
+		up_bs, up_pbp, up_pm = '', '', ''
+		upl.each_hash do |u|
+			up_bs = u['BS_COMPLETE']
+			up_pbp = u['PBP_COMPLETE']
+			up_pm = u['PM_COMPLETE']
+		end
+		puts "processing #{game}"
+		if row['BS_COMPLETE'] == '1' and up_bs == '0'
+			basic, advanced = bs_post(game, global['yaml'])
+			up_to_sql(con, basic, 'NBA_GAME_STATS_BASIC')
+			up_to_sql(con, advanced, 'NBA_GAME_STATS_ADV')
+			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET BS_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
+		end
+		
+		if row['PBP_COMPLETE'] == '1' and up_pbp == '0'
+			pbp =  pbp_post(game, global['yaml'])
+			up_to_sql(con, pbp, 'NBA_GAME_PBP')
+			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PBP_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
+		end
+		
+		if row['PM_COMPLETE'] == '1' and up_pm == '0'
+			pm = pm_post(game, global['yaml'])
+			up_to_sql(con, pm, 'NBA_GAME_PLUS_MINUS')
+			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PM_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
+		end
+	end
+
+rescue Mysql::Error => e
+	puts e.errno
+	puts e.error
+
+ensure
+	con.close if con
+end
