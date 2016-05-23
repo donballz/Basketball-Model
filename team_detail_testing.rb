@@ -1,7 +1,8 @@
 require 'yaml'
 require_relative 'StringFind.rb'
+require_relative 'CONSTANTS.rb'
 
-tables = YAML.load_file(File.join('/Users/donald/Google Drive/Basketball Model/Basketball-Model/yaml_files/', 'atl_2015.yml'))
+tables = YAML.load_file(File.join(YAMP, 'atl_2015.yml'))
 
 def print_table(table)
 	puts ""

@@ -1,5 +1,6 @@
 require 'mysql'
 require_relative 'team_detail.rb'
+require_relative 'CONSTANTS.rb'
 
 def build_col_type_list(con, table_name)
 	# gets column types from information_schema and parses into array for insert query
@@ -71,12 +72,11 @@ end
 
 begin
 	# Main block commented out for downstream use
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	con = Mysql.new global['srvr'], global['user'], global['pswd']
+	con = Mysql.new SRVR, USER, PSWD
 	#con.query("USE bball")
 	
 	#run_all_data(con)
-	#yaml_to_sql(con, global['yaml'])
+	#yaml_to_sql(con, YAMP)
 
 rescue Mysql::Error => e
 	puts e.errno

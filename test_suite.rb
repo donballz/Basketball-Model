@@ -5,6 +5,7 @@ require_relative 'gen_sql_strings.rb'
 require_relative 'team_detail.rb'
 require_relative 'get_all_team_detail.rb'
 require_relative 'game_detail.rb'
+require_relative 'CONSTANTS.rb'
 
 # Tests to include. 
  
@@ -26,8 +27,7 @@ class BBModelTestSuite < Test::Unit::TestCase
 	end
 	
 	def test_basic
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-		con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
+		con = Mysql.new SRVR, USER, PSWD
 		assert_equal(Mysql, con.class, "sql server connect failure")
 		tables = YAML.load_file(File.join(__dir__, 'atl_tables.yml'))
 		assert_equal(Array, tables.class, "tables not loaded")
@@ -36,11 +36,10 @@ class BBModelTestSuite < Test::Unit::TestCase
 	end
 	
 	def test_team
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-		con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
+		con = Mysql.new SRVR, USER, PSWD
 		page_raw = YAML.load_file(File.join(__dir__, 'atl_raw.txt'))
 		assert_equal(String, page_raw.class, "ATL Raw not found")
-		starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
+		starts = get_start_pos(page_raw, CSTR, 0, page_raw.length)
 		tables = get_tables(page_raw, starts)
 		assert_equal(66844, starts[0], "starting position failed")
 		assert_equal('Sacramento Kings', clean_string('<a href="/teams/SAC/2001.html">Sacramento Kings</a>'), "string clean failure")
@@ -53,10 +52,9 @@ class BBModelTestSuite < Test::Unit::TestCase
 	end
 	
 	def test_bs
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 		page_raw = YAML.load_file(File.join(__dir__, 'boxscore_raw.txt'))
 		assert_equal(String, page_raw.class, "Boxscore Raw not found")
-		starts = get_start_pos(page_raw, global['boxt'], 0, page_raw.length)
+		starts = get_start_pos(page_raw, BOXT, 0, page_raw.length)
 		fix_bs_starts(page_raw, starts)
 		assert_equal(22123, starts[0], "starting position failed")
 		assert_equal(page_raw.length, starts[-1], "ending position failed")
@@ -66,17 +64,15 @@ class BBModelTestSuite < Test::Unit::TestCase
 	end 
 	
 	def test_pbp
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 		page_raw = YAML.load_file(File.join(__dir__, 'pbp_raw.txt'))
 		assert_equal(String, page_raw.class, "Play-by-play Raw not found")
-		starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
+		starts = get_start_pos(page_raw, CSTR, 0, page_raw.length)
 		assert_equal(26109, starts[0], "starting position failed")
 		tables = get_pbp_tables(page_raw, starts)
 		assert(tables.any?) # lazy
 	end
 	
 	def test_pm
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 		page_raw = YAML.load_file(File.join(__dir__, 'plus_minus_raw.txt'))
 		assert_equal(String, page_raw.class, "Plus-minus Raw not found")
 		starts = get_start_pos(page_raw, '<div style="width:100', 0, page_raw.length)

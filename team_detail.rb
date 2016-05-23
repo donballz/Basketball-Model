@@ -2,6 +2,7 @@ require 'net/http'
 require 'uri'
 require 'yaml'
 require_relative 'StringFind.rb'
+require_relative 'CONSTANTS.rb'
 
 def open_url(url)
 	# open URL. Switch from OpenURI to URI for security and speed reasons
@@ -101,11 +102,10 @@ end
 
 def parse_team_data(team, year)
 	# master function to call the others
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	page_raw = open_url("#{global['site']}teams/#{team}/#{year}.html")
-	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
+	page_raw = open_url("#{SITE}teams/#{team}/#{year}.html")
+	table_starts = get_start_pos(page_raw, CSTR, 0, page_raw.length)
 	tables = get_tables(page_raw, table_starts)
-	File.open(File.join(global['yaml'], "#{team}_#{year}.yml"), 'w') do |f| 
+	File.open(File.join(YAMP, "#{team}_#{year}.yml"), 'w') do |f| 
 		f.write tables.to_yaml
 	end
 	return tables

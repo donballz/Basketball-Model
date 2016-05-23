@@ -2,6 +2,7 @@ require 'mysql'
 require 'yaml'
 require_relative 'team_detail.rb'
 require_relative 'game_detail.rb'
+require_relative 'CONSTANTS.rb'
 
 # boxscore: http://www.basketball-reference.com/boxscores/200201050LAC.html
 # play-by-play: http://www.basketball-reference.com/boxscores/pbp/200010310ATL.html
@@ -47,14 +48,13 @@ def parse_pm(game, site, search, path)
 end
 
 begin
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	con = Mysql.new global['srvr'], global['user'], global['pswd']
+	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE bball")
 	rows = con.query("SELECT * FROM NBA_GAME_LIST")
 	#pm = '<div style="width:1005px;' # original plus-minus search string failed on OT games
 	pm = '<div style="width:100'
-	site = global['site']
-	yaml = global['yaml']
+	site = SITE
+	yaml = YAMP
 	
 	rows.each_hash do |row|
 		game = row['BOX_SCORE_TEXT'] 
@@ -62,12 +62,12 @@ begin
 		unless game == ''
 			puts "processing #{game}"
 			unless row['BS_COMPLETE'] == '1'
-				bs_flag = parse_bs(game, site, global['boxt'], yaml)
+				bs_flag = parse_bs(game, site, BOXT, yaml)
 				sleep(3)
 			end
 			
 			unless row['PBP_COMPLETE'] == '1'
-				pbp_flag = parse_pbp(game, site, global['cstr'], yaml)
+				pbp_flag = parse_pbp(game, site, CSTR, yaml)
 				sleep(3)
 			end
 			

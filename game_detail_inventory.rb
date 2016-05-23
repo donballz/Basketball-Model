@@ -1,4 +1,5 @@
 require 'yaml'
+require_relative 'CONSTANTS.rb'
 
 def file_status(tables)
 	# status of game yaml files
@@ -10,8 +11,7 @@ end
 def try_load(game, type)
 	# handles exception if game-file not present and returns false. otherwise returns true
 	begin
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-		try = YAML.load_file(File.join(global['yaml'], "z#{type}_#{game}.yml"))
+		try = YAML.load_file(File.join(YAMP "z#{type}_#{game}.yml"))
 	rescue
 		try = ['zFNFz']
 	end
@@ -20,8 +20,7 @@ end
 
 def Main()
 	begin
-		global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-		con = Mysql.new global['srvr'], global['user'], global['pswd']
+		con = Mysql.new SRVR, USER, PSWD
 		con.query("USE bball")
 		rows = con.query("SELECT * FROM NBA_GAME_LIST")
 

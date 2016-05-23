@@ -1,6 +1,7 @@
 require 'yaml'
 require 'mysql'
 require_relative 'StringFind.rb'
+require_relative 'CONSTANTS.rb'
 
 def bs_post(game, path)
 	# post processing for boxscore game data. last row has totals; limited out
@@ -162,8 +163,7 @@ def up_to_sql(con, tbl, sql)
 end
 
 begin
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	con = Mysql.new global['srvr'], global['user'], global['pswd']
+	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE bball")
 	rows = con.query("SELECT * FROM NBA_GAME_LIST")
 
@@ -178,20 +178,20 @@ begin
 		end
 		puts "processing #{game}"
 		if row['BS_COMPLETE'] == '1' and up_bs == '0'
-			basic, advanced = bs_post(game, global['yaml'])
+			basic, advanced = bs_post(game, YAMP)
 			up_to_sql(con, basic, 'NBA_GAME_STATS_BASIC')
 			up_to_sql(con, advanced, 'NBA_GAME_STATS_ADV')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET BS_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
 		end
 		
 		if row['PBP_COMPLETE'] == '1' and up_pbp == '0'
-			pbp =  pbp_post(game, global['yaml'])
+			pbp =  pbp_post(game, YAMP)
 			up_to_sql(con, pbp, 'NBA_GAME_PBP')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PBP_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
 		end
 		
 		if row['PM_COMPLETE'] == '1' and up_pm == '0'
-			pm = pm_post(game, global['yaml'])
+			pm = pm_post(game, YAMP)
 			up_to_sql(con, pm, 'NBA_GAME_PLUS_MINUS')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PM_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
 		end

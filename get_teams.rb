@@ -7,12 +7,11 @@
 require 'open-uri'
 require 'yaml'
 require 'mysql'
-
-path = '/Users/donald/Documents/Basketball Model/Basketball-Model'
+require_relative 'CONSTANTS.rb'
 
 team_raw = URI.parse('http://www.basketball-reference.com/teams/').read
-#File.open(path + "team_raw.txt", 'w') { |f| f.write team_raw.to_yaml }
-#team_raw = YAML.load_file(path + "team_raw.txt")
+#File.open(PATH + "team_raw.txt", 'w') { |f| f.write team_raw.to_yaml }
+#team_raw = YAML.load_file(PATH + "team_raw.txt")
 
 def mask(num)
 	return -1 if num == nil
@@ -75,8 +74,8 @@ end
 #end
 
 begin
-    con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
-	
+    con = Mysql.new SRVR, USER, PSWD
+    	
 	con.query("USE bball;")
 	con.query("CREATE TABLE IF NOT EXISTS NBA_TEAMS ( \
 				ABBREV VARCHAR(3) PRIMARY KEY, \

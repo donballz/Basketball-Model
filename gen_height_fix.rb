@@ -3,6 +3,7 @@ require 'uri'
 require 'yaml'
 require 'mysql'
 require_relative 'StringFind.rb'
+require_relative 'CONSTANTS.rb'
 
 #################################################################
 # To do list:
@@ -100,9 +101,8 @@ end
 
 def parse_height_data(team, year)
 	# master function to call the others
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	page_raw = open_url("#{global['site']}#{team}/#{year}.html")
-	table_starts = get_start_pos(page_raw, global['cstr'], 0, page_raw.length)
+	page_raw = open_url("#{SITE}#{team}/#{year}.html")
+	table_starts = get_start_pos(page_raw, CSTR, 0, page_raw.length)
 	return get_tables(page_raw, table_starts)
 end
 
@@ -137,8 +137,7 @@ def site_to_sql(con)
 end
 
 begin
-	global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-	con = Mysql.new global['srvr'], global['user'], global['pswd']
+	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE bball")
 	
 	site_to_sql(con)

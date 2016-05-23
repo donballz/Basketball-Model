@@ -1,11 +1,12 @@
 require 'mysql'
 require 'yaml'
+require_relative 'CONSTANTS.rb'
 
 #path = '/Users/donald/Documents/Basketball Model/Basketball-Model/'
 #sql_str = YAML.load_file(path + "test.sql")
 
 begin
-    con = Mysql.new 'Donalds-Mini.attlocal.net', 'ruby', 'Rubycon1$'
+    con = Mysql.new SRVR, USER, PSWD
     #result = con.query sql_str
 	#puts result
 	

@@ -1,9 +1,9 @@
 require 'yaml'
 require_relative 'game_detail.rb'
+require_relative 'CONSTANTS.rb'
 # Should be no executable lines in the Main of game_inventory to run tests.
 
-global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
-#con = Mysql.new global['srvr'], global['user'], global['pswd']
+#con = Mysql.new SRVR, USER, PSWD
 #con.query("USE bball")
 "
 i = 1
@@ -28,11 +28,11 @@ def parse_pm_test(game, site, search, path)
 end
 
 
-#site = global['site']
-#search = global['boxt']
+#site = SITE
+#search = BOXT
 #pm = '<div style="width:100'
-#pm_flag = parse_pm_test('200011010CLE', global['site'], pm, global['yaml'])
-#tables = YAML.load_file(File.join(global['yaml'], 'zbs_200504170MIA.yml'))
+#pm_flag = parse_pm_test('200011010CLE', SITE, pm, YAMP)
+#tables = YAML.load_file(File.join(YAMP, 'zbs_200504170MIA.yml'))
 #puts tables
 
 #page_raw = open_url("http://www.basketball-reference.com/boxscores/plus-minus/200203070SEA.html")
@@ -40,7 +40,7 @@ end
 #puts page_raw
 
 page_raw = YAML.load_file(File.join(__dir__, 'boxscore_raw.txt'))
-starts = get_start_pos(page_raw, global['boxt'], 0, page_raw.length)
+starts = get_start_pos(page_raw, BOXT, 0, page_raw.length)
 fix_bs_starts(page_raw, starts)
 tables = get_tables(page_raw, starts)
 puts tables
