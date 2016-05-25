@@ -1,6 +1,10 @@
 # Basketball-Model
 
-Step 1 In dev: crawl Basketball Reference and get data for modeling. 
+Step 1 
+	a. Complete: crawl Basketball Reference and get data for modeling. 
+	b. Complete: upload data to mysql server
+	c. In dev: Check data for errors.
+	d. To-do: Dev prod-level data refresh code
 
 Step 2 ?
 
@@ -93,3 +97,15 @@ get_game_links.rb - runs through list of games by year and gets the game ID used
 update_roster_height.sql - final step in the height fix which puts the scraped number onto the main table
 
 test_suite.rb - a suite of tests which must pass to continue. should be made more robust
+
+create_game_tables.sql - creates empty basic, advanced, play-by-play, and plus-minus tables in mysql
+
+game_detail_upload.rb - uploads basic, advanced, play-by-play, and plus-minus tables from raw yaml_files created by get_all_game_detail.rb
+
+pbp_raw.txt - raw copy of a play-by-play page
+
+plus_minus_raw.txt - raw copy of a plus-minus page
+
+pm_table_debug.rb - started out as testing code for plus-minus post processing but touches the basic table as well.
+
+send_email_test.rb - attempt to email myself from ruby (doesn't work)
