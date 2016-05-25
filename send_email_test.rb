@@ -4,7 +4,7 @@ Mail.defaults do
   delivery_method :smtp, :address    => "smtp-relay.gmail.com",
                           :port       => 465,
                           :user_name  => 'adoubledot@gmail.com',
-                          :password   => 'curtis3078',
+                          :password   => '<pswd>',
                           :enable_ssl => true
 end
 
