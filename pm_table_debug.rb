@@ -107,6 +107,6 @@ end
 
 #clean = pm_post('200010310CHI', YAMP)
 clean_b, clean_a = bs_post('200010310DAL', YAMP)
-dirty_b, dirty_a = bs_post('200010310POR', YAMP)
+dirty_b, dirty_a = bs_post('200211080WAS', YAMP)
 
 puts dirty_b

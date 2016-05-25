@@ -145,7 +145,7 @@ def row_to_string(row, cols)
 			if row[i] == ''
 				str += "0,"
 			else
-				str += "#{row[i]}," 
+				str += "#{row[i].to_f}," 
 			end
 		end
 	end

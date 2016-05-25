@@ -1,4 +1,4 @@
-url = 'http://www.basketball-reference.com/boxscores/plus-minus/200011010CLE.html'
+url = 'http://www.basketball-reference.com/boxscores/200211080WAS.html'
 #require 'open-uri'
 #puts URI.parse(url).read
 
