@@ -1,7 +1,7 @@
 require 'yaml'
 require_relative 'game_detail.rb'
+require_relative 'CONSTANTS.rb'
 
-global = YAML.load_file(File.join(__dir__, 'CONSTANTS.yml'))
 #clean = YAML.load_file(File.join(global['yaml'], 'zpm_200010310CHI.yml'))
 #dirty = YAML.load_file(File.join(global['yaml'], 'zpm_200010310DAL.yml'))
 
@@ -83,7 +83,30 @@ def pm_post(game, path)
 	return pm_second(game, away) + pm_second(game, home)
 end
 
-#clean = pm_post('200010310CHI', global['yaml'])
-dirty = pm_post('200010310DAL', global['yaml'])
+def bs_post(game, path)
+	# post processing for boxscore game data. last row has totals; limited out
+	tables = YAML.load_file(File.join(path, "zbs_#{game}.yml"))
+	basic, advanced, tracker = [], [], []
+	tables.each do |t|
+		paren = t['name'].index('(')
+		primer = [game, t['name'][0...paren-1], t['name'][paren..-1]]
+		limit = t['data'][0].length + 3
+		t['data'].each do |row|
+			if tracker.include?(row[0])
+				advanced.push(primer + row)
+				advanced[-1] = advanced[-1][0...limit - 5]
+			else
+				tracker.push(row[0])
+				basic.push(primer + row)
+				basic[-1] = basic[-1][0...limit]
+			end
+		end
+	end
+	return basic, advanced
+end
 
-puts dirty
+#clean = pm_post('200010310CHI', YAMP)
+clean_b, clean_a = bs_post('200010310DAL', YAMP)
+dirty_b, dirty_a = bs_post('200010310POR', YAMP)
+
+puts dirty_b

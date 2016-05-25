@@ -139,7 +139,7 @@ def row_to_string(row, cols)
 			if row[i] == ''
 				str += "'NA',"
 			else
-				str += "'#{row[i]}'," 
+				str += "'#{row[i].gsub("'", "`")}'," 
 			end
 		else
 			if row[i] == ''
