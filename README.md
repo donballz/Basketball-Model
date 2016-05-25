@@ -10,9 +10,9 @@ Step 3 PROFIT!!
 
 file list:
 
-CONSTANTS.rb - creates CONSTANTS.yml with needed global constants
+CONSTANTS.rb - contains needed global constants
 
-CONSTANTS.yml - created from CONSTANTS.rb. Stores constants
+CONSTANTS.yml - created from CONSTANTS.rb. Stores constants #obsolete
 
 README.md - this file with documentation
 
