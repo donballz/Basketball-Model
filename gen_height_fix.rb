@@ -5,13 +5,6 @@ require 'mysql'
 require_relative 'StringFind.rb'
 require_relative 'CONSTANTS.rb'
 
-#################################################################
-# To do list:
-# Need to alter main file and merge this logic in for go-forward
-# ^ Subsequent years will need to be scraped. 
-# ^ Long term goal
-#################################################################
-
 def open_url(url)
 	# open URL. Switch from OpenURI to URI for security and speed reasons
 	return Net::HTTP.get(URI.parse(url))
