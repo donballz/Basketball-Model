@@ -131,7 +131,7 @@ end
 
 begin
 	con = Mysql.new SRVR, USER, PSWD
-	con.query("USE bball")
+	con.query("USE #{SCMA}")
 	
 	site_to_sql(con)
 

@@ -76,7 +76,7 @@ end
 begin
     con = Mysql.new SRVR, USER, PSWD
     	
-	con.query("USE bball;")
+	con.query("USE #{SCMA};")
 	con.query("CREATE TABLE IF NOT EXISTS NBA_TEAMS ( \
 				ABBREV VARCHAR(3) PRIMARY KEY, \
 				CITY VARCHAR(50), \

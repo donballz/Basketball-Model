@@ -4,7 +4,7 @@ require_relative 'CONSTANTS.rb'
 # Should be no executable lines in the Main of game_inventory to run tests.
 
 #con = Mysql.new SRVR, USER, PSWD
-#con.query("USE bball")
+#con.query("USE #{SCMA}")
 "
 i = 1
 con.each_game('NBA_GAME_LIST') do |row|

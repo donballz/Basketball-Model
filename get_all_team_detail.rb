@@ -5,7 +5,7 @@ require_relative 'CONSTANTS.rb'
 def build_col_type_list(con, table_name)
 	# gets column types from information_schema and parses into array for insert query
 	rows = con.query "SELECT DATA_TYPE AS TYPE FROM INFORMATION_SCHEMA.COLUMNS
-					WHERE TABLE_SCHEMA = 'BBALL' AND TABLE_NAME = 'NBA_#{table_name}';"
+					WHERE TABLE_SCHEMA = '#{SCMA}' AND TABLE_NAME = 'NBA_#{table_name}';"
 	
 	col_types = []
 	rows.each_hash { |row| col_types.push(row['TYPE']) }
@@ -73,7 +73,7 @@ end
 begin
 	# Main block commented out for downstream use
 	con = Mysql.new SRVR, USER, PSWD
-	#con.query("USE bball")
+	#con.query("USE #{SCMA}")
 	
 	#run_all_data(con)
 	#yaml_to_sql(con, YAMP)

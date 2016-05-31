@@ -21,7 +21,7 @@ end
 def Main()
 	begin
 		con = Mysql.new SRVR, USER, PSWD
-		con.query("USE bball")
+		con.query("USE #{SCMA}")
 		rows = con.query("SELECT * FROM NBA_GAME_LIST")
 
 		rows.each_hash do |row| 

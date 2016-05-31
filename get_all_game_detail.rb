@@ -49,7 +49,7 @@ end
 
 begin
 	con = Mysql.new SRVR, USER, PSWD
-	con.query("USE bball")
+	con.query("USE #{SCMA}")
 	rows = con.query("SELECT * FROM NBA_GAME_LIST")
 	#pm = '<div style="width:1005px;' # original plus-minus search string failed on OT games
 	pm = '<div style="width:100'

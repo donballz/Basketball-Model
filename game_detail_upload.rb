@@ -124,7 +124,7 @@ def build_col_types(con, table_name)
 	# gets column types from information_schema and parses into array for insert query
 	# can't use get_all_team_detail version as that is custom, ignoring first two columns
 	rows = con.query "SELECT DATA_TYPE AS TYPE FROM INFORMATION_SCHEMA.COLUMNS
-					WHERE TABLE_SCHEMA = 'BBALL' AND TABLE_NAME = '#{table_name}';"
+					WHERE TABLE_SCHEMA = '#{SCMA}' AND TABLE_NAME = '#{table_name}';"
 	
 	col_types = []
 	rows.each_hash { |row| col_types.push(row['TYPE']) }
@@ -164,7 +164,7 @@ end
 
 begin
 	con = Mysql.new SRVR, USER, PSWD
-	con.query("USE bball")
+	con.query("USE #{SCMA}")
 	rows = con.query("SELECT * FROM NBA_GAME_LIST")
 
 	rows.each_hash do |row|
