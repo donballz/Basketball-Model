@@ -47,7 +47,8 @@ def get_data(str, start, limit)
 	for i in 0..row_starts.length-2
 		row = []
 		pos = row_starts[i]
-		until pos == -1 or pos > row_starts[i + 1]
+		dead = str.find('</tr>', pos)
+		until pos == -1 or pos > row_starts[i + 1] or pos > dead
 			pos = str.find('<td align="', pos)
 			pos = str.find('>', pos)
 			end_pos = str.index('</td>', pos)
