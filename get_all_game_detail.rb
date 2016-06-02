@@ -50,7 +50,10 @@ end
 begin
 	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE #{SCMA}")
-	rows = con.query("SELECT * FROM NBA_GAME_LIST")
+	rows = con.query("SELECT * FROM NBA_GAME_LIST
+					  WHERE BS_COMPLETE = 0
+					  	OR PBP_COMPLETE = 0
+					  	OR PM_COMPLETE = 0")
 	#pm = '<div style="width:1005px;' # original plus-minus search string failed on OT games
 	pm = '<div style="width:100'
 	site = SITE
