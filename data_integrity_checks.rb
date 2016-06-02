@@ -9,17 +9,9 @@ def sql_qry(fname, con)
 	return con.query("#{qry_txt}")
 end
 
-begin
-	con = Mysql.new SRVR, USER, PSWD
-	con.query("USE #{SCMA}")
-	rows = sql_qry('game_upload_confirm', con)
-	
-	puts rows.num_rows
-
-rescue Mysql::Error => e
-	puts e.errno
-	puts e.error
-
-ensure
-	con.close if con
+def single_row_result(fname, result_field, con)
+	# requires single-row query. returns value of designated field
+	rows = sql_qry(fname, con)
+	return nil if rows.num_rows != 1
+	rows.each_hash { |r| return r[result_field].to_i }
 end

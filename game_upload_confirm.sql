@@ -1,11 +1,10 @@
-select done_flag, count(game_id) as cnt
+select sum(done_flag) as done_flag
 from (
 SELECT *, 
-	case when bs_complete = 1 and pbp_complete = 1 and pm_complete = 1
-		then 'Y'
-        else 'N'
+	case when bs_complete = 0 or pbp_complete = 0 or pm_complete = 0
+		then 1
+        else 0
 	end as done_flag
 FROM NBA_GAME_LIST_UPLOAD) as A
-group by done_flag
 ;
 	

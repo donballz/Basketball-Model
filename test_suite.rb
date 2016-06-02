@@ -5,6 +5,7 @@ require_relative 'gen_sql_strings.rb'
 require_relative 'team_detail.rb'
 require_relative 'get_all_team_detail.rb'
 require_relative 'game_detail.rb'
+require_relative 'data_integrity_checks.rb'
 require_relative 'CONSTANTS.rb'
 
 # Tests to include. 
@@ -37,6 +38,7 @@ class BBModelTestSuite < Test::Unit::TestCase
 	
 	def test_team
 		con = Mysql.new SRVR, USER, PSWD
+		con.query("USE #{SCMA}")
 		page_raw = YAML.load_file(File.join(__dir__, 'atl_raw.txt'))
 		assert_equal(String, page_raw.class, "ATL Raw not found")
 		starts = get_start_pos(page_raw, CSTR, 0, page_raw.length)
@@ -80,5 +82,11 @@ class BBModelTestSuite < Test::Unit::TestCase
 		assert_equal(56754, starts[1], "starting position failed")
 		tables = get_pm_tables(page_raw, starts)
 		assert(tables.any?) # lazy
+	end
+	
+	def test_sql
+		con = Mysql.new SRVR, USER, PSWD
+		con.query("USE #{SCMA}")
+		assert_equal(0, single_row_result('game_upload_confirm', 'done_flag', con))
 	end
 end
