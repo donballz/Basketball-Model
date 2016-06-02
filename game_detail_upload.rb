@@ -136,13 +136,13 @@ def row_to_string(row, cols)
 	str = "("
 	for i in 0...cols.length
 		if cols[i] == 'varchar'
-			if row[i] == ''
+			if row[i] == '' or row[i] == nil
 				str += "'NA',"
 			else
 				str += "'#{row[i].gsub("'", "`")}'," 
 			end
 		else
-			if row[i] == ''
+			if row[i] == '' or row[i] == nil
 				str += "0,"
 			else
 				str += "#{row[i].to_f}," 
