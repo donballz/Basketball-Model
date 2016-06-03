@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'yaml'
+require 'mysql'
 require_relative 'CONSTANTS.rb'
 
 def write(obj, fname)
@@ -23,4 +24,10 @@ def annual_hash
 	mh = {}
 	(2001..2016).to_a.each { |y| mh[y] = Hash.new(0) }
 	return mh
+end
+
+def sql_qry(fname, con)
+	# runs single sql query saved in a .sql file
+	qry_txt = read(fname, 'sql')
+	return con.query("#{qry_txt}")
 end

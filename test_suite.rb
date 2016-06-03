@@ -5,7 +5,7 @@ require_relative 'gen_sql_strings.rb'
 require_relative 'team_detail.rb'
 require_relative 'get_all_team_detail.rb'
 require_relative 'game_detail.rb'
-require_relative 'data_integrity_checks.rb'
+require_relative 'common_funcs.rb'
 require_relative 'CONSTANTS.rb'
 
 # Tests to include. 
@@ -25,6 +25,13 @@ class BBModelTestSuite < Test::Unit::TestCase
 		bs_table['data'].each { |row| player_cnt[row[0]] += 1 }
 		player_cnt.each { |k, v| return false if v != 2 }
 		return true
+	end
+	
+	def single_row_result(fname, result_field, con)
+		# requires single-row query. returns value of designated field
+		rows = sql_qry(fname, con)
+		return nil if rows.num_rows != 1
+		rows.each_hash { |r| return r[result_field].to_i }
 	end
 	
 	def test_basic
