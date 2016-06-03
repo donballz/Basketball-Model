@@ -9,9 +9,9 @@ def write(obj, fname, path=PATH)
 	File.open(path + "#{fname}.yml", 'w') { |f| f.write obj.to_yaml }
 end
 
-def read(fname, suffix='yml')
+def read(fname, suffix='yml', path=PATH)
 	# reads yaml file to object
-	return YAML.load_file(PATH + "#{fname}.#{suffix}")
+	return YAML.load_file(path + "#{fname}.#{suffix}")
 end
 
 def get_page(url)
