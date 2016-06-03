@@ -132,7 +132,7 @@ def build_col_types(con, table_name)
 	return col_types
 end
 
-def row_to_string(row, cols)
+def row_to_string(row, cols, adds='')
 	# converts row to string for upload to mysql
 	str = "("
 	for i in 0...cols.length
@@ -150,14 +150,14 @@ def row_to_string(row, cols)
 			end
 		end
 	end
-	return str[0...-1] + ")"
+	return str[0...-1] + "#{adds})"
 end
 
 def up_to_sql(con, tbl, sql)
 	# uploads processed yaml file to given sql table
 	cols = build_col_types(con, sql)
 	tbl.each do |row|
-		str = row_to_string(row, cols)
+		str = row_to_string(row, cols, 'NULL,NULL')
 		con.query("INSERT INTO #{sql} VALUES #{str}")
 	end
 	return nil
