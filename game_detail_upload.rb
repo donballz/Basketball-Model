@@ -1,6 +1,7 @@
 require 'yaml'
 require 'mysql'
 require_relative 'StringFind.rb'
+require_relative 'common_funcs.rb'
 require_relative 'CONSTANTS.rb'
 
 def bs_post(game, path)
@@ -165,32 +166,25 @@ end
 begin
 	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE #{SCMA}")
-	rows = con.query("SELECT * FROM NBA_GAME_LIST")
+	rows = sql_qry('games_to_upload', con)
 
 	rows.each_hash do |row|
 		game = row['BOX_SCORE_TEXT'] 
-		upl = con.query("SELECT * FROM NBA_GAME_LIST_UPLOAD WHERE GAME_ID = '#{game}'")
-		up_bs, up_pbp, up_pm = '', '', ''
-		upl.each_hash do |u|
-			up_bs = u['BS_COMPLETE']
-			up_pbp = u['PBP_COMPLETE']
-			up_pm = u['PM_COMPLETE']
-		end
 		puts "processing #{game}"
-		if row['BS_COMPLETE'] == '1' and up_bs == '0'
+		if row['BS_COMPLETE'] == '1' and row['BS_UPLOAD'] == '0'
 			basic, advanced = bs_post(game, YAMP)
 			up_to_sql(con, basic, 'NBA_GAME_STATS_BASIC')
 			up_to_sql(con, advanced, 'NBA_GAME_STATS_ADV')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET BS_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
 		end
 		
-		if row['PBP_COMPLETE'] == '1' and up_pbp == '0'
+		if row['PBP_COMPLETE'] == '1' and row['PBP_UPLOAD'] == '0'
 			pbp =  pbp_post(game, YAMP)
 			up_to_sql(con, pbp, 'NBA_GAME_PBP')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PBP_COMPLETE = 1 WHERE GAME_ID = '#{game}'")
 		end
 		
-		if row['PM_COMPLETE'] == '1' and up_pm == '0'
+		if row['PM_COMPLETE'] == '1' and row['PM_UPLOAD'] == '0'
 			pm = pm_post(game, YAMP)
 			up_to_sql(con, pm, 'NBA_GAME_PLUS_MINUS')
 			con.query("UPDATE NBA_GAME_LIST_UPLOAD SET PM_COMPLETE = 1 WHERE GAME_ID = '#{game}'")

@@ -4,9 +4,9 @@ require 'yaml'
 require 'mysql'
 require_relative 'CONSTANTS.rb'
 
-def write(obj, fname)
+def write(obj, fname, path=PATH)
 	# writes any object to supplied filename. naming conflict with rT class func
-	File.open(PATH + "#{fname}.yml", 'w') { |f| f.write obj.to_yaml }
+	File.open(path + "#{fname}.yml", 'w') { |f| f.write obj.to_yaml }
 end
 
 def read(fname, suffix='yml')
