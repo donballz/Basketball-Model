@@ -37,7 +37,7 @@ def clean_string(str)
 	return cleaned
 end
 
-def get_data(str, start, limit)
+def get_data(str, start, limit, name='dummy')
 	# build array of arrays with data values
 	row_starts = get_start_pos(str, '<tr  class="">', start, limit)
 	if row_starts.length == 1
@@ -56,7 +56,7 @@ def get_data(str, start, limit)
 			end_pos = str.index('</td>', pos)
 			unless pos == -1 or pos > row_starts[i + 1]
 				datum = clean_string(str[pos...end_pos])
-				if col_cnt == 3
+				if col_cnt == 3 and ['Roster','Current Roster'].include?(name)
 					row.push(str[h_pos, 4].to_f)
 				elsif datum.to_i == 0
 					row.push(datum)
@@ -86,7 +86,7 @@ def get_tables(str, starts)
 			table['cols'].push(str[pos...end_pos]) unless pos == -1 or pos > starts[i + 1]
 			#table['cols'].pop() if table['cols'][-1] == nil
 		end
-		table['data'] = get_data(str, starts[i], starts[i + 1])
+		table['data'] = get_data(str, starts[i], starts[i + 1], table['name'])
 		table['type'] = []
 		unless table['data'][0] == nil
 			table['data'][0].each do |datum|
