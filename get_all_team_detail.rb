@@ -43,7 +43,7 @@ def write_to_sql(con, tables, team, year)
 	end
 end
 
-def run_all_data(con)
+def run_from_active(con)
 	# gets team and year from NBA_TEAMS and writes to yaml files
 	# due to source site changing franchise abbreviation, there were some manual
 	# 	adjustments needed to get all teams, all years
@@ -56,6 +56,15 @@ def run_all_data(con)
 			puts "#{row['ABBREV']} #{i} #{tables[0]['name']} #{tables[0]['type'].length}"
 			i -= 1
 		end
+	end
+end
+
+def run_from_brige(con)
+	# replaces run from active. active table doesn't contain manual adj to team names
+	rows = con.query("SELECT * FROM NBA_YAML_BRIDGE")
+	rows.each_hash do |row|
+		tables = parse_team_data(row['FILE_CD'], row['YEAR'])
+		puts "#{row['TEAM']} #{row['YEAR']} #{tables[0]['name']} #{tables[0]['type'].length}"
 	end
 end
 
@@ -75,7 +84,7 @@ begin
 	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE #{SCMA}")
 	
-	#run_all_data(con)
+	run_from_brige(con)
 	#yaml_to_sql(con, YAMP)
 
 rescue Mysql::Error => e
