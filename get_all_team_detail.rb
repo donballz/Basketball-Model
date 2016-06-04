@@ -75,8 +75,6 @@ def yaml_to_sql(con, path)
 		tables = YAML.load_file(File.join(path, row['FILE']))
 		write_to_sql(con, tables, row['TEAM'], row['YEAR'])
 	end
-	#tables = YAML.load_file(File.join(path, 'atl_2006.yml'))
-	#write_to_sql(con, tables, 'ATL', 2006)
 end
 
 begin
@@ -84,8 +82,8 @@ begin
 	con = Mysql.new SRVR, USER, PSWD
 	con.query("USE #{SCMA}")
 	
-	run_from_brige(con)
-	#yaml_to_sql(con, YAMP)
+	#run_from_brige(con)
+	yaml_to_sql(con, YAMP)
 
 rescue Mysql::Error => e
 	puts e.errno
