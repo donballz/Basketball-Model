@@ -70,6 +70,9 @@ class BBModelTestSuite < Test::Unit::TestCase
 		tables = get_tables(page_raw, starts)
 		assert(got_advanced?(tables[0]))
 		assert(got_advanced?(tables[1]))
+		assert_equal(2, tables.length, "2 team tables not found")
+		assert_equal("Charlotte Hornets (29-31)", tables[0]['name'], "table name 1 mis parse")
+		assert_equal("Seattle SuperSonics (35-27)", tables[1]['name'], "table name 2 mis parse")
 	end 
 	
 	def test_pbp
