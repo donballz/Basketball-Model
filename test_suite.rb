@@ -97,6 +97,10 @@ class BBModelTestSuite < Test::Unit::TestCase
 	def test_sql
 		con = Mysql.new SRVR, USER, PSWD
 		con.query("USE #{SCMA}")
-		assert_equal(0, single_row_result('game_upload_confirm', 'done_flag', con))
+		assert_equal(0, single_row_result('game_upload_confirm', 'done_flag', con), 'not all games uploaded')
+		assert_equal(0, single_row_result('test_home_reg', 'error_cnt', con), 'home reg games dont tie')
+		assert_equal(0, single_row_result('test_visitor_reg', 'error_cnt', con), 'visitor reg games dont tie')
+		assert_equal(0, single_row_result('test_home_pla', 'error_cnt', con), 'home pla games dont tie')
+		assert_equal(0, single_row_result('test_visitor_pla', 'error_cnt', con), 'visitor pla games dont tie')
 	end
 end

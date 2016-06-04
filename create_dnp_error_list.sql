@@ -6,7 +6,7 @@ TSOURCE varchar(5));
 ;
 # home teams
 insert into temp_table (GAME_ID, TSOURCE)
-select b.game_id, 'h_reg'
+select a.BOX_SCORE_TEXT, 'h_reg'
 from NBA_REGULAR_SEASON a
 left join (
 	select game_id, 
@@ -17,11 +17,13 @@ left join (
 			team_string) b
 on a.BOX_SCORE_TEXT = b.game_id
   and a.HOME_TEAM_NAME = b.TEAM_STRING
-where a.HOME_PTS != b.POINTS
+where a.BOX_SCORE_TEXT != ' '
+  and (a.HOME_PTS != b.POINTS
+    or b.POINTS is NULL)
 ;
 # visitor teams
 insert into temp_table (GAME_ID, TSOURCE)
-select b.game_id, 'v_reg'
+select a.BOX_SCORE_TEXT, 'v_reg'
 from NBA_REGULAR_SEASON a
 left join (
 	select game_id, 
@@ -32,11 +34,13 @@ left join (
 			team_string) b
 on a.BOX_SCORE_TEXT = b.game_id
   and a.VISITOR_TEAM_NAME = b.TEAM_STRING
-where a.VISITOR_PTS != b.POINTS
+where a.BOX_SCORE_TEXT != ' '
+  and (a.VISITOR_PTS != b.POINTS
+    or b.POINTS is NULL)
 ;
 # home playoffs
 insert into temp_table (GAME_ID, TSOURCE)
-select b.game_id, 'h_pla'
+select a.BOX_SCORE_TEXT, 'h_pla'
 from NBA_PLAYOFFS a
 left join (
 	select game_id, 
@@ -47,11 +51,13 @@ left join (
 			team_string) b
 on a.BOX_SCORE_TEXT = b.game_id
   and a.HOME_TEAM_NAME = b.TEAM_STRING
-where a.HOME_PTS != b.POINTS
+where a.BOX_SCORE_TEXT != ' '
+  and (a.HOME_PTS != b.POINTS
+    or b.POINTS is NULL)
 ;
 # visitor playoffs
 insert into temp_table (GAME_ID, TSOURCE)
-select b.game_id, 'v_pla'
+select a.BOX_SCORE_TEXT, 'v_pla'
 from NBA_PLAYOFFS a
 left join (
 	select game_id, 
@@ -62,7 +68,9 @@ left join (
 			team_string) b
 on a.BOX_SCORE_TEXT = b.game_id
   and a.VISITOR_TEAM_NAME = b.TEAM_STRING
-where a.VISITOR_PTS != b.POINTS
+where a.BOX_SCORE_TEXT != ' '
+  and (a.VISITOR_PTS != b.POINTS
+    or b.POINTS is NULL)
 ;
 
 create table NBA_GAME_DNP_ERR as
