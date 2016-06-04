@@ -47,19 +47,24 @@ def get_data(str, start, limit)
 	for i in 0..row_starts.length-2
 		row = []
 		pos = row_starts[i]
+		col_cnt = 0
 		dead = str.find('</tr>', pos)
 		until pos == -1 or pos > row_starts[i + 1] or pos > dead
 			pos = str.find('<td align="', pos)
+			h_pos = str.find('csk="', pos)
 			pos = str.find('>', pos)
 			end_pos = str.index('</td>', pos)
 			unless pos == -1 or pos > row_starts[i + 1]
 				datum = clean_string(str[pos...end_pos])
-				if datum.to_i == 0
+				if col_cnt == 3
+					row.push(str[h_pos, 4].to_f)
+				elsif datum.to_i == 0
 					row.push(datum)
 				else
 					row.push(datum.to_f)
 				end
 			end
+			col_cnt += 1
 		end
 		mydata.push(row)
 	end
