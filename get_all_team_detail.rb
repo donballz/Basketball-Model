@@ -73,7 +73,7 @@ end
 begin
 	# Main block commented out for downstream use
 	con = Mysql.new SRVR, USER, PSWD
-	#con.query("USE #{SCMA}")
+	con.query("USE #{SCMA}")
 	
 	#run_all_data(con)
 	#yaml_to_sql(con, YAMP)
