@@ -1,3 +1,7 @@
+/*
+creates table from game_basic_stats and regular_season/playoffs and compares stat totals.
+*/
+
 use bball_test;
 drop table if exists player_totals_sum;
 create table player_totals_sum as

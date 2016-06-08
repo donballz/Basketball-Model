@@ -1,3 +1,7 @@
+/*
+for use with integrity_metric_checks and integrity_player_stats to pull details for errors found
+*/
+
 use bball_test;
 set @player := 'Paul Pierce';
 set @year := 2002;

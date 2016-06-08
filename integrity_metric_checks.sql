@@ -1,3 +1,12 @@
+/* 
+Pulls specific year/player combinations with issues in integrity
+As of 6/7/2016, I believe that tables are correct with respect to what is on the source data
+Source data has a number of confirmed inconsistencies
+Decision made to trust game tables and use them to update errors in the totals for consistency
+Alternative suggestion is to confirm with second website but the errors are too numerous and dispersed to be practical
+	Additionally, the errors are small and the effort would greatly exceed the gains in accuracy
+*/
+
 set @var := 'pf';
 
 set @qry := concat('
