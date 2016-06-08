@@ -33,10 +33,13 @@ begin
     ### Better method of pulling each row, uses column names ###
     rs = con.query "SELECT * FROM Writers WHERE Id IN (1, 2, 3)"
     puts "We have #{rs.num_rows} row(s)"
+    puts "We have #{con.field_count} col(s)"
     
-    rs.each_hash do |row|
-       puts row['Id'] + " " + row['Name']
-    end      
+    rs.each { |id, name| puts "#{id} #{name}" }
+    
+    #rs.each_hash do |row|
+    #   puts row['Id'] + " " + row['Name']
+    #end      
     
 rescue Mysql::Error => e
     puts e.errno
