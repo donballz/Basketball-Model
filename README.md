@@ -1,4 +1,5 @@
-# Basketball-Model
+# Failed initial branch to football model wasn't on latest branch. 
+# Abandoned
 
 > Step 1  	a. Complete: crawl Basketball Reference and get data for
 > modeling.  	b. Complete: upload data to mysql server 	c. In dev: Check
