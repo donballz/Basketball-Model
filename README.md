@@ -1,4 +1,6 @@
-# Basketball-Model
+# Football-Model
+
+>Forked 8/29/2016
 
 > Step 1  	a. Complete: crawl Basketball Reference and get data for
 > modeling.  	b. Complete: upload data to mysql server 	c. In dev: Check
